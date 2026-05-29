@@ -1,1 +1,19 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
 .venv
+
+videos_analysis/client_secret_*.json
+
+.env
