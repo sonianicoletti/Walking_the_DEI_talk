@@ -1,0 +1,552 @@
+{
+  "ceo": "Ernie L. Herrman",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "bIFBQTnZgkSTiJPjgYu1iRjOC2I",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JNZNV_fRhHJArH_ExFG909owS5I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Es0r4q6qi2w"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-02T16:24:16Z",
+          "channelId": "UCoLCLKfzcaL2t2rBnGlaHBw",
+          "title": "Haley and Hanna Cavinder on TikTok",
+          "description": "Miami guards Haley and Hanna Cavinder on TikTok. 2/13/2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WBB Clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-02T16:24:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NfFoOb9TOA9Lzb5k5B2Fb_Ojb6o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "86cY97kIvl4"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-25T18:39:20Z",
+          "channelId": "UCA6euYwNOIL0O8jKvuS0rMQ",
+          "title": "Gny. Sgt. Hartman Christmas Scene in Full Metal Jacket #shorts",
+          "description": "In this short, we take a look at the Sgt. Hartman Christmas scene from Full Metal Jacket. From the barracks to the Santa Claus ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "omidfilms",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-25T18:39:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4bKcXYWx-Iuhp-11C5JkhAi0VEs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H-I1Kz_fs1w"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-27T15:19:13Z",
+          "channelId": "UCNtjrqwgpp5LKDqU6gx3OYA",
+          "title": "Top 5 largest clothing companies of Europe in 2022 #LVHM #Nike #Dior #TJX #inditex",
+          "description": "This video features the 5 biggest apparel companies of 2022.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BWB Beleggen",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-27T15:19:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Zt6DWoqxfuayRVbJ5uqMcADs5Tc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r4KTAZCCLM8"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-08T20:00:12Z",
+          "channelId": "UCCWJROPJW9ZBkh8CC-iji9Q",
+          "title": "&quot;You think you&#39;re the only person who lost someone?&quot; | Hawkami | Violet &amp; Evan | Chicago Fire",
+          "description": "ChicagoFire #Hawkami #VioletMikami #EvanHawkins #OneChicago #shorts.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lonely Owl",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-08T20:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0Do1Qw7Fpsa26er-_jM8QujrsNo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PRK_GCfvLeY"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-17T15:00:17Z",
+          "channelId": "UC17G7KUP2jEjWLSncyv1bIw",
+          "title": "Is TJX Companies Stock a Buy Now!? | TJX Companies (TJX) Stock Analysis! |",
+          "description": "Want to support Global Value? https://www.interactivebrokers.com/mkt/?src=gvy1&url=%2Fen%2Fwhyib%2Foverview.php ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Global Value",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-17T15:00:17Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "_ajcHdsTGo3XNgtmDkYrZU3DJTA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "yo4alJEFh42DyLZJyryY0f6UmKk",
+        "id": "Es0r4q6qi2w",
+        "snippet": {
+          "publishedAt": "2023-03-02T16:24:16Z",
+          "channelId": "UCoLCLKfzcaL2t2rBnGlaHBw",
+          "title": "Haley and Hanna Cavinder on TikTok",
+          "description": "Miami guards Haley and Hanna Cavinder on TikTok. 2/13/2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Es0r4q6qi2w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WBB Clips",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Haley and Hanna Cavinder on TikTok",
+            "description": "Miami guards Haley and Hanna Cavinder on TikTok. 2/13/2023"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4847445",
+          "likeCount": "65641",
+          "favoriteCount": "0",
+          "commentCount": "3341"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7NIc3tTJQ2Ii9CyyYztleUC0FNc",
+        "id": "86cY97kIvl4",
+        "snippet": {
+          "publishedAt": "2023-12-25T18:39:20Z",
+          "channelId": "UCA6euYwNOIL0O8jKvuS0rMQ",
+          "title": "Gny. Sgt. Hartman Christmas Scene in Full Metal Jacket #shorts",
+          "description": "In this short, we take a look at the Sgt. Hartman Christmas scene from Full Metal Jacket. From the barracks to the Santa Claus parade, this classic scene is a must-watch for movie fans!\n\n#fullmetaljacket #omidfilms #stanleykubrick #marines #leeermy #rleeermy \n#movies #film #acting #editing #music #makingof #film #filmmaking #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/86cY97kIvl4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "omidfilms",
+          "tags": [
+            "full metal jacket",
+            "full metal jacket scene",
+            "full metal jacket vietnam",
+            "full metal jacket 1987",
+            "full metal jacket film analysis",
+            "r. lee ermey",
+            "stanley kubrick",
+            "kubrick",
+            "full metal jacket lee emery",
+            "full metal jacket boot camp",
+            "full metal jacket stanley kubrick",
+            "rent full metal jacket 4k",
+            "full metal jacket training",
+            "full metal jacket war",
+            "stanley kubrick full metal jacket",
+            "best scene from full metal jacket",
+            "this is my rifle full metal jacket"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Gny. Sgt. Hartman Christmas Scene in Full Metal Jacket #shorts",
+            "description": "In this short, we take a look at the Sgt. Hartman Christmas scene from Full Metal Jacket. From the barracks to the Santa Claus parade, this classic scene is a must-watch for movie fans!\n\n#fullmetaljacket #omidfilms #stanleykubrick #marines #leeermy #rleeermy \n#movies #film #acting #editing #music #makingof #film #filmmaking #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5169818",
+          "likeCount": "196671",
+          "favoriteCount": "0",
+          "commentCount": "4344"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tWEyjnf0u5rBJncebwmAYZru2Vw",
+        "id": "H-I1Kz_fs1w",
+        "snippet": {
+          "publishedAt": "2023-02-27T15:19:13Z",
+          "channelId": "UCNtjrqwgpp5LKDqU6gx3OYA",
+          "title": "Top 5 largest clothing companies of Europe in 2022 #LVHM #Nike #Dior #TJX #inditex",
+          "description": "This video features the 5 biggest apparel companies of 2022.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H-I1Kz_fs1w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BWB Beleggen",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Top 5 largest clothing companies of Europe in 2022 #LVHM #Nike #Dior #TJX #inditex",
+            "description": "This video features the 5 biggest apparel companies of 2022."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4221",
+          "likeCount": "41",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DoCLkNlCgED6v4rGVLkjYo5_nEE",
+        "id": "r4KTAZCCLM8",
+        "snippet": {
+          "publishedAt": "2023-07-08T20:00:12Z",
+          "channelId": "UCCWJROPJW9ZBkh8CC-iji9Q",
+          "title": "\"You think you're the only person who lost someone?\" | Hawkami | Violet & Evan | Chicago Fire",
+          "description": "#ChicagoFire #Hawkami #VioletMikami #EvanHawkins #OneChicago #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r4KTAZCCLM8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lonely Owl",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"You think you're the only person who lost someone?\" | Hawkami | Violet & Evan | Chicago Fire",
+            "description": "#ChicagoFire #Hawkami #VioletMikami #EvanHawkins #OneChicago #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "425524",
+          "likeCount": "13616",
+          "favoriteCount": "0",
+          "commentCount": "119"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_7_NFHh2TPXY8qqLijY0_CJ9l4E",
+        "id": "PRK_GCfvLeY",
+        "snippet": {
+          "publishedAt": "2023-05-17T15:00:17Z",
+          "channelId": "UC17G7KUP2jEjWLSncyv1bIw",
+          "title": "Is TJX Companies Stock a Buy Now!? | TJX Companies (TJX) Stock Analysis! |",
+          "description": "Want to support Global Value? https://www.interactivebrokers.com/mkt/?src=gvy1&url=%2Fen%2Fwhyib%2Foverview.php\nhttps://www.patreon.com/GlobalValue\nIn this video, we'll perform a TJX stock analysis and figure out what TJX Companies looks like based on the numbers. We'll also try to figure out what a reasonable fair intrinsic value is for TJX Companies. And answer is TJX Companies one of the best stocks to buy at the current price? Find out in the video above! Global Value's TJX Companies stock analysis.\n\nThank you for watching. \u2764\ufe0f Please support the channel by checking out our affiliates. All commissions are reinvested to improve the quality of videos!\n\n- Check out Seeking Alpha Premium and score an exclusive 20% off plus a free 7 day trial! Affiliate link - https://www.sahg6dtr.com/H4BHRJ/R74QP/\n\nIf you'd like to try Sharesight, please use my referral link to support the channel!\nhttps://www.sharesight.com/globalvalue\n(remember you get 4 months free if you sign up for an annual subscription!)\n\nDiscover new investing resources and directly support the channel by shopping my Amazon storefront! All commissions are reinvested to improve the quality of videos! https://www.amazon.com/shop/globalvalue\n\nTJX Companies ($TJX) | TJX Companies Stock Value Analysis | TJX Companies Stock Dividend Analysis | TJX Dividend Analysis | $TJX Dividend Analysis | TJX Companies Intrinsic Value | TJX Intrinsic Value | $TJX Intrinsic Value | The TJX Companies Inc. Intrinsic Value | TJX Companies Discounted Cash Flow Model | TJX Companies DCF Analysis | TJX Discounted Cash Flow Analysis | TJX DCF Model\n\n#TJXCompanies #TJX #TJXstock #stockmarket #dividend #stocks #investing #valueinvesting \n\n(Recorded May 16, 2023)\n\n \u2756 MUSIC \u2756\n\u266a \"Lift\"\nArtist: Andy Hu \nLicense: Creative Commons Attribution 3.0\n\u27a2 https://creativecommons.org/licenses/by/3.0/legalcode\n\u27a2 https://www.youtube.com/watch?v=sQCuf...\n\n\ud83d\udea8\u26a0\ufe0f By watching videos posted on Global Value's YouTube channel, you acknowledge that you have read, understand, and agree to the following:\nGlobal Value is Not an Investment Advisor: Global Value is not an investment adviser, and it is not registered as such with the U.S. Securities & Exchange Commission or any other state or federal authority under the Investment Advisers Act of 1940 or any other law. The investments and strategies discussed in Global Value\u2019s YouTube videos are not and should not be considered investment advice and may not be suitable for you. They do not take into account your particular investment objectives, financial situation, needs, or personal circumstances and are not intended to be specific to you. Before acting on any investment or strategy discussed, you should always do your own research and make your own independent decision about whether it is suitable for your particular circumstances. You should also consider seeking advice from your own legal, financial, tax, accounting, or investment advisers. Global Value does not provide such advice. All content and communication from this channel is for discussion, entertainment, and illustrative purposes only and should not be construed as professional financial advice, solicitation, or recommendation to buy or sell any securities, notwithstanding anything stated on the Channel. There are risks associated with investing in securities. Loss of principal is possible. Some high-risk investments may use leverage, which could accentuate losses. Foreign investing involves special risks, including greater volatility and political, economic, and currency risks and differences in accounting methods. Past performance is not a predictor of future investment performance. Should you need such advice, consult a licensed financial advisor, legal advisor, or tax advisor. You agree to verify all information yourself before investing. \n\n\ud83d\udcddContact Information: GlobalValueYT@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PRK_GCfvLeY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Global Value",
+          "tags": [
+            "tjx stock",
+            "global value",
+            "stock",
+            "stock market",
+            "stocks",
+            "financial education",
+            "value investing",
+            "stock analysis",
+            "stocks to buy now",
+            "best stock",
+            "stock investing",
+            "stock investing for beginners",
+            "stock basics",
+            "stocks 2023",
+            "stock market 2023",
+            "investing 101",
+            "stocks explained",
+            "investing basics",
+            "stock market investing",
+            "how to invest",
+            "dividends",
+            "dividend stocks",
+            "tjx stock analysis",
+            "tjx stock price todya",
+            "tjx stock price",
+            "tjx stock price today",
+            "tjx stock everything monney",
+            "tjx price",
+            "tjx"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Is TJX Companies Stock a Buy Now!? | TJX Companies (TJX) Stock Analysis! |",
+            "description": "Want to support Global Value? https://www.interactivebrokers.com/mkt/?src=gvy1&url=%2Fen%2Fwhyib%2Foverview.php\nhttps://www.patreon.com/GlobalValue\nIn this video, we'll perform a TJX stock analysis and figure out what TJX Companies looks like based on the numbers. We'll also try to figure out what a reasonable fair intrinsic value is for TJX Companies. And answer is TJX Companies one of the best stocks to buy at the current price? Find out in the video above! Global Value's TJX Companies stock analysis.\n\nThank you for watching. \u2764\ufe0f Please support the channel by checking out our affiliates. All commissions are reinvested to improve the quality of videos!\n\n- Check out Seeking Alpha Premium and score an exclusive 20% off plus a free 7 day trial! Affiliate link - https://www.sahg6dtr.com/H4BHRJ/R74QP/\n\nIf you'd like to try Sharesight, please use my referral link to support the channel!\nhttps://www.sharesight.com/globalvalue\n(remember you get 4 months free if you sign up for an annual subscription!)\n\nDiscover new investing resources and directly support the channel by shopping my Amazon storefront! All commissions are reinvested to improve the quality of videos! https://www.amazon.com/shop/globalvalue\n\nTJX Companies ($TJX) | TJX Companies Stock Value Analysis | TJX Companies Stock Dividend Analysis | TJX Dividend Analysis | $TJX Dividend Analysis | TJX Companies Intrinsic Value | TJX Intrinsic Value | $TJX Intrinsic Value | The TJX Companies Inc. Intrinsic Value | TJX Companies Discounted Cash Flow Model | TJX Companies DCF Analysis | TJX Discounted Cash Flow Analysis | TJX DCF Model\n\n#TJXCompanies #TJX #TJXstock #stockmarket #dividend #stocks #investing #valueinvesting \n\n(Recorded May 16, 2023)\n\n \u2756 MUSIC \u2756\n\u266a \"Lift\"\nArtist: Andy Hu \nLicense: Creative Commons Attribution 3.0\n\u27a2 https://creativecommons.org/licenses/by/3.0/legalcode\n\u27a2 https://www.youtube.com/watch?v=sQCuf...\n\n\ud83d\udea8\u26a0\ufe0f By watching videos posted on Global Value's YouTube channel, you acknowledge that you have read, understand, and agree to the following:\nGlobal Value is Not an Investment Advisor: Global Value is not an investment adviser, and it is not registered as such with the U.S. Securities & Exchange Commission or any other state or federal authority under the Investment Advisers Act of 1940 or any other law. The investments and strategies discussed in Global Value\u2019s YouTube videos are not and should not be considered investment advice and may not be suitable for you. They do not take into account your particular investment objectives, financial situation, needs, or personal circumstances and are not intended to be specific to you. Before acting on any investment or strategy discussed, you should always do your own research and make your own independent decision about whether it is suitable for your particular circumstances. You should also consider seeking advice from your own legal, financial, tax, accounting, or investment advisers. Global Value does not provide such advice. All content and communication from this channel is for discussion, entertainment, and illustrative purposes only and should not be construed as professional financial advice, solicitation, or recommendation to buy or sell any securities, notwithstanding anything stated on the Channel. There are risks associated with investing in securities. Loss of principal is possible. Some high-risk investments may use leverage, which could accentuate losses. Foreign investing involves special risks, including greater volatility and political, economic, and currency risks and differences in accounting methods. Past performance is not a predictor of future investment performance. Should you need such advice, consult a licensed financial advisor, legal advisor, or tax advisor. You agree to verify all information yourself before investing. \n\n\ud83d\udcddContact Information: GlobalValueYT@gmail.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1199",
+          "likeCount": "42",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

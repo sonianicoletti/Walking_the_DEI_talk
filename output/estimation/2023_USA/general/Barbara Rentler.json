@@ -1,0 +1,311 @@
+{
+  "ceo": "Barbara Rentler",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "eFp3WRpWRwkKIjjEzDpOusx-9b8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vh88Pf1oo6BrW36yphWjW8rxzpA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "B3516-i4NKQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-12T04:48:23Z",
+          "channelId": "UCJbOZAqwsdna6kjBZ0UcJmw",
+          "title": "Real Estate Money Making Hack \ud83c\udfe1 #shorts",
+          "description": "Learn how to make $2.5k+/mo from 1 Airbnb in 12 weeks     https://www.firstairbnb.com/liveclass.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Legacy Investing Show",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-12T04:48:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ttlqz5YXgaNfc1UYegG2nOJZHmM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KaXcJlXvkFI"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-01T11:22:42Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "Ross Stores Inc Q4 2022 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-01T11:22:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RB_6A83wH9t-WZoxq0jIiToDQ3M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RCp29MsG_-g"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-18T13:38:08Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "Ross Stores, Inc Q2 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-18T13:38:08Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "n3QfO1O_9yTKXHQBc_kQ7PjmbOE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "FVfYCOKSLdxAUzrzp-0anApou1Y",
+        "id": "B3516-i4NKQ",
+        "snippet": {
+          "publishedAt": "2023-02-12T04:48:23Z",
+          "channelId": "UCJbOZAqwsdna6kjBZ0UcJmw",
+          "title": "Real Estate Money Making Hack \ud83c\udfe1 #shorts",
+          "description": "\ud83d\udc49\ud83c\udffd Learn how to make $2.5k+/mo from 1 Airbnb in 12 weeks\ud83d\udc48\ud83c\udffd\nhttps://www.firstairbnb.com/liveclass",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/B3516-i4NKQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Legacy Investing Show",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Real Estate Money Making Hack \ud83c\udfe1 #shorts",
+            "description": "\ud83d\udc49\ud83c\udffd Learn how to make $2.5k+/mo from 1 Airbnb in 12 weeks\ud83d\udc48\ud83c\udffd\nhttps://www.firstairbnb.com/liveclass"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8305",
+          "likeCount": "689",
+          "favoriteCount": "0",
+          "commentCount": "42"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uHAtQl6ksPlXFK_cwI0xDvOMAmI",
+        "id": "KaXcJlXvkFI",
+        "snippet": {
+          "publishedAt": "2023-03-01T11:22:42Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "Ross Stores Inc Q4 2022 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KaXcJlXvkFI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ross Stores Inc Q4 2022 Earnings Call",
+            "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT51M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "76",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zYMU7TWlJ3quJ5dnPeAlaR1ooG0",
+        "id": "RCp29MsG_-g",
+        "snippet": {
+          "publishedAt": "2023-08-18T13:38:08Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "Ross Stores, Inc Q2 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RCp29MsG_-g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ross Stores, Inc Q2 2023 Earnings Call",
+            "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT45M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "41",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

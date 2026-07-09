@@ -1,0 +1,218 @@
+{
+  "ceo": "Julie Sloat",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Jlu6VLMwubS3sXRXqKNXArC4L7w",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n8dHjZ6xwEjQ4kOCumFmXLBNqIE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ixJnFnM9d_A"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-25T19:02:33Z",
+          "channelId": "UC_jgsedR4TOYgO-Tr7Hr9xA",
+          "title": "Katie Kills Kristie and Daniel",
+          "description": "Follow My Social! Instagram: https://instagram.com/mazanreacts?igshid=MjEwN2IyYWYwYw== Vlog Channel!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "mazanreacts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-25T19:02:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wRs8pCa3NQOy5Os1rSJxx78l_yA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "w-bSe_pd-Yg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T14:51:27Z",
+          "channelId": "UCK4dOLR9ZJMHGrARmp5kTmQ",
+          "title": "Paranormal Activity Franchise Trailer (2023)",
+          "description": "Set in October 2006, a young couple, Katie and Micah, who have recently moved to a new house in San Diego, California, are ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mason Wells",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T14:51:27Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Ps14SpXETdbhFBrNGrQcUZeyf9s",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "WyGssaRsuDdyQFddLTNomebHyYQ",
+        "id": "ixJnFnM9d_A",
+        "snippet": {
+          "publishedAt": "2023-09-25T19:02:33Z",
+          "channelId": "UC_jgsedR4TOYgO-Tr7Hr9xA",
+          "title": "Katie Kills Kristie and Daniel",
+          "description": "Follow My Social!\nInstagram: https://instagram.com/mazanreacts?igshid=MjEwN2IyYWYwYw==\n\n\nVlog Channel!\nhttps://www.youtube.com/charliemazan\n\nMusic Used in This Video:\n\u266a Lamp (Prod. by Lukrembo)\nLink : https://youtube.com/watch?v=ZwyWgwUjYoY\n\n\nTags: paranormal activity,movie reaction,paranormal activity reaction,ghost hunters,ghost hunting,paranormal\n\n\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ixJnFnM9d_A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mazanreacts",
+          "tags": [
+            "paranormal activity",
+            "movie reaction",
+            "paranormal activity reaction",
+            "ghost hunters",
+            "ghost hunting",
+            "paranormal"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Katie Kills Kristie and Daniel",
+            "description": "Follow My Social!\nInstagram: https://instagram.com/mazanreacts?igshid=MjEwN2IyYWYwYw==\n\n\nVlog Channel!\nhttps://www.youtube.com/charliemazan\n\nMusic Used in This Video:\n\u266a Lamp (Prod. by Lukrembo)\nLink : https://youtube.com/watch?v=ZwyWgwUjYoY\n\n\nTags: paranormal activity,movie reaction,paranormal activity reaction,ghost hunters,ghost hunting,paranormal\n\n\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3643",
+          "likeCount": "45",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mGC2yi1xf_TOnFCXqQBkp--sEkw",
+        "id": "w-bSe_pd-Yg",
+        "snippet": {
+          "publishedAt": "2023-10-24T14:51:27Z",
+          "channelId": "UCK4dOLR9ZJMHGrARmp5kTmQ",
+          "title": "Paranormal Activity Franchise Trailer (2023)",
+          "description": "Set in October 2006, a young couple, Katie and Micah, who have recently moved to a new house in San Diego, California, are terrorized by a demon that has stalked Katie since childhood. The film is designed to look like a found footage-styled film with Micah filming the activity in their house.\n\nSet in August 2006, two months before the events of the first film, Katie's sister Kristi and her family reside in Carlsbad, California, where they experience strange activity after her baby, named Hunter, is born. The film uses security cameras and in some scenes, a hand-held camera to film the activity in the house.\n\nSet in September 1988, it focuses on a younger Katie and Kristi, who live with their mother Julie and her boyfriend, Dennis, in Santa Rosa, California. As they experience sightings and then encounter \"Tobi\" the demon for the very first time. Concerned, Dennis decides to set up a few cameras around the house with the help of his friend Randy, who also encounters \"Tobi\" as well. There are many cameras set around the house, one of which is attached to a small oscillating fan that moves the camera back and forth from the kitchen area to the living room and vice versa. The film also uses a hand-held camera handled mainly by Dennis.\n\nSet in November 2011, the film focuses on Alex Nelson and her family residing in a neighborhood in Henderson, Nevada. The family began to experience hauntings, concerning Alex's adopted brother, Wyatt, after Katie and her mysterious son, Robbie, move in across the street. Alex is helped by her boyfriend, Ben, to film the activity via MacBook webcams, a video camera, an iPhone camera and Kinect technology.\n\nSet in June 2012, the film follows a Latino community in Oxnard, California, where a group of high school graduates deal with the demon of a mysterious cult which has \"marked\" one of them. They document their experiences using basic tools of recording and with clues from the previous films to try to understand what is happening to them. The Marked Ones is the last film in the series to feature Katie Featherston.\n\nSet in December 2013, the film follows the Fleeges, a family of three who, after having relocated to a house in Santa Rosa, California, discover several tapes, set in 1992, that show Katie and Kristi in the midst of their initiation ritual to enter a demonic coven. The family begins to be haunted by the demon when the daughter, Leila, is targeted as she was born on the same date as Hunter from Paranormal Activity 2. Along with normal recorders, the family also discovers a unique video recorder that can visibly show supernatural happenings, which they use to record the increasing paranormal activities.\n\nA seventh installment, Next of Kin features a teenage girl named Margot who, alongside her group of friends, attempt to make a documentary on an Amish community to try and find out more about Margot's mysterious past, only for them to discover the horrific secrets the town holds. Although not addressing the events of its six predecessors, Next of Kin does still have a slight connection by featuring the same demon and overarching antagonist Tobi, otherwise known as Asmodeus from the Book of Tobit.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/w-bSe_pd-Yg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Mason Wells",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Paranormal Activity Franchise Trailer (2023)",
+            "description": "Set in October 2006, a young couple, Katie and Micah, who have recently moved to a new house in San Diego, California, are terrorized by a demon that has stalked Katie since childhood. The film is designed to look like a found footage-styled film with Micah filming the activity in their house.\n\nSet in August 2006, two months before the events of the first film, Katie's sister Kristi and her family reside in Carlsbad, California, where they experience strange activity after her baby, named Hunter, is born. The film uses security cameras and in some scenes, a hand-held camera to film the activity in the house.\n\nSet in September 1988, it focuses on a younger Katie and Kristi, who live with their mother Julie and her boyfriend, Dennis, in Santa Rosa, California. As they experience sightings and then encounter \"Tobi\" the demon for the very first time. Concerned, Dennis decides to set up a few cameras around the house with the help of his friend Randy, who also encounters \"Tobi\" as well. There are many cameras set around the house, one of which is attached to a small oscillating fan that moves the camera back and forth from the kitchen area to the living room and vice versa. The film also uses a hand-held camera handled mainly by Dennis.\n\nSet in November 2011, the film focuses on Alex Nelson and her family residing in a neighborhood in Henderson, Nevada. The family began to experience hauntings, concerning Alex's adopted brother, Wyatt, after Katie and her mysterious son, Robbie, move in across the street. Alex is helped by her boyfriend, Ben, to film the activity via MacBook webcams, a video camera, an iPhone camera and Kinect technology.\n\nSet in June 2012, the film follows a Latino community in Oxnard, California, where a group of high school graduates deal with the demon of a mysterious cult which has \"marked\" one of them. They document their experiences using basic tools of recording and with clues from the previous films to try to understand what is happening to them. The Marked Ones is the last film in the series to feature Katie Featherston.\n\nSet in December 2013, the film follows the Fleeges, a family of three who, after having relocated to a house in Santa Rosa, California, discover several tapes, set in 1992, that show Katie and Kristi in the midst of their initiation ritual to enter a demonic coven. The family begins to be haunted by the demon when the daughter, Leila, is targeted as she was born on the same date as Hunter from Paranormal Activity 2. Along with normal recorders, the family also discovers a unique video recorder that can visibly show supernatural happenings, which they use to record the increasing paranormal activities.\n\nA seventh installment, Next of Kin features a teenage girl named Margot who, alongside her group of friends, attempt to make a documentary on an Amish community to try and find out more about Margot's mysterious past, only for them to discover the horrific secrets the town holds. Although not addressing the events of its six predecessors, Next of Kin does still have a slight connection by featuring the same demon and overarching antagonist Tobi, otherwise known as Asmodeus from the Book of Tobit."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "75",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

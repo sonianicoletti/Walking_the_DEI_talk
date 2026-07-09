@@ -1,0 +1,978 @@
+{
+  "ceo": "Roger W. Crandall",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "o_TW7Tkwh_WLdM3vF227dM_Py7U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yq3VIADDMteyNTtxwiCvEhdnK5s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YMA0fZFBYz8"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T02:24:59Z",
+          "channelId": "UCXFKXo5oRUJp2jMqlmEHU3Q",
+          "title": "MACV-SOG Huey Crew Chief and Door Gunner | Roger Lockshier | Ep. 204",
+          "description": "Roger Lockshier enlisted in the US Army in April 1966. After completing Airborne (Paratrooper) Jump Training at Fort Benning GA, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Team House",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T02:24:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2_BzOGf8_JmhUdPJQZa7cKYT2zg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KzxMqOBwVTA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-07T12:58:05Z",
+          "channelId": "UCcZauUXQ-dHSFqqqTXMLBSg",
+          "title": "Unbelievable Courage! Cobra pilot saves 4 lives | Larry Taylor Awarded the Medal of Honor",
+          "description": "The incredible story of Captain Larry L. Taylor in Vietnam and how he saved 4 American soldiers from certain death. #vietnam ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CasmoTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-07T12:58:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CHuZEHQAXDZrs0Y9umkG1QCNyPg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2Dh5rKgrraU"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-15T22:05:42Z",
+          "channelId": "UCpuT8AlP9P9EgW_pZ0_xInQ",
+          "title": "When your high school is famous \ud83d\ude31",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dylan Anderson",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-15T22:05:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SARDRBkXHK_WmmEQ5mvQrf3QzmE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4XAsOsM7AFE"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-02T21:34:34Z",
+          "channelId": "UCGxr1xNr6oaEGN51RWq9PaA",
+          "title": "Last day of school!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mr. Montzingo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-02T21:34:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jeaElMfplenhHmdU4sLy4Yx4Pfg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lk17-GBTixY"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-23T21:00:34Z",
+          "channelId": "UCkqcY4CAuBFNFho6JgygCnA",
+          "title": "SOGCast 018: Surviving the Ia Drang Valley \u2014 Clete \u201cBabysan\u201d Sinyard",
+          "description": "Underground Premium Content: https://www.jockounderground.com/subscribe Join the conversation on Twitter/Instagram: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jocko Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-23T21:00:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tKP9a17d4nVONYoe7d1mv9aDX8Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sH8IICAaUkU"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-25T20:37:33Z",
+          "channelId": "UCEH_C58sNYyWsSDM-OXRo9Q",
+          "title": "Steelhead Fishing Tips - &quot;Presentation Matters&quot; from Jack Barr at FishUSA&#39;s Chrome Fest 2023",
+          "description": "Proper presentation is very important in all types of fishing, but it is especially crucial when talking steelhead fishing. Jack Barr, a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FishUSA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-25T20:37:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8FE5LBvtDWI-5TZOOmOuTXsTtkU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "151J53GLEBo"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-21T20:00:00Z",
+          "channelId": "UCcbQw4-3c-HEKlJmpSZoQUQ",
+          "title": "Tracy Shuchart Talks Europe, Energy Crisis, Manufacturing Sector, Coal, Nuclear Energy (RCS 265)",
+          "description": "Interview original date: October 3rd, 2022 Topics- What will Europe face into the winter months with their energy crisis? Europe is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "More George Gammon",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-21T20:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "I6xCICN9WzUkV6wxPf4L62Ogx0E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tQaDl0z-_EQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-21T18:45:58Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Wharton&#39;s Peter Conti-Brown: The Fed mishandled SVB about 7 different ways",
+          "description": "Peter Conti-Brown, Wharton School professor, joins 'The Exchange' to discuss the role regulators should've played in SVB before ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-21T18:45:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zFzRtRSKyGarIdqe9GKwkLcT3Lg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ll4gfnvCo0A"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T16:26:16Z",
+          "channelId": "UCJOf0CCrhlJqlSXpbF-Ylvw",
+          "title": "Globe Life LN | AO Meeting Highlights",
+          "description": "Agency owners from Globe Life Liberty National enjoyed getting together in Puerto Vallarta for a week's worth of inspirational ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Globe Life Careers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T16:26:16Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "gO_7qLtLD4drGHJilwzhmsPPycc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Oj80RmGrQKqg1sX5hSSMfWtHAq8",
+        "id": "YMA0fZFBYz8",
+        "snippet": {
+          "publishedAt": "2023-04-27T02:24:59Z",
+          "channelId": "UCXFKXo5oRUJp2jMqlmEHU3Q",
+          "title": "MACV-SOG Huey Crew Chief and Door Gunner | Roger Lockshier | Ep. 204",
+          "description": "Roger Lockshier enlisted in the US Army in April 1966. After completing Airborne (Paratrooper) Jump Training at Fort Benning GA, he was assigned to Aviation Battalion 101st Airborne Division, Fort Campbell Kentucky, December 1966.\n\nIn December of 1967 the 101st Airborne Division was transferred to Viet Nam. Lockshier was a Crewchief / Doorgunner with the 101st Airborne's Black Angels Huey Helicopter Gunships assigned to provide combat support to the 101st Airborne and 5th Special Forces MACVSOG. He returned to the States in December of 1968.\n\nLockshier was the recipient of several awards:\n\n\u2022 Two time recipient of The Distinguished Flying Cross\n\n\u2022 Bronze Star\n\n\u2022 Purple Heart\n\n\u2022 Air Medal with \"V\" Device\n\n\u2022 19 Air Medals\n\n\u2022 Army Commendation Medal\n\n\u2022 Army Presidential Unit Citation 101st Airborne\n\n\u2022 Army Presidential Unit Citation Special Forces Khe Sahn\n\n\u2022 Army Presidential Unit Citation MACVSOG (Special Ops)\n\n\u2022 Navy Presidential Unit Citation Khe Sahn\n\nLockshier lives in Oxford CT with Barbara his wife of 52 years. He and his wife have two sons, Roger, Jr. and his wife Allison living in North Carolina with their four children Andrew, Lucas, Sophie, & Jude, and Jeff and his wife Jennifer living in Oxford CT with their two children Dylan, and Samantha.\n\nYou can contact Roger at rflockshier@gmail.com\n\nGrab his book here:\u2b07\ufe0f\nhttps://www.amazon.com/We-Saved-SOG-Souls-Airborne/dp/B09NRC4ZB4\n\nToday's Sponsors:\nSAP Gear (Stately Asset Protection) \nhttps://SAPGEAR.com\nVeteran-owned company, Stately Asset Protection\u2019s retail store specializes in handmade and unique survivability products.\nUse the code \u201cTEAM\u201d for 15% off your order!\nhttps://SAPGEAR.com\n\nThank you for supporting the companies that support the show !\n\nTo help support the show and for all bonus content including:\n-AD FREE AUDIO\n-AD FREE VIDEO\n-Access to ALL bonus segments with our guests\nSubscribe to our Patreon! \u2b07\ufe0f\nhttps://www.patreon.com/TheTeamHouse\n\nTeam House merch: \u2b07\ufe0f\nhttps://teespring.com/stores/my-store-10474963\n\nSocial Media: \u2b07\ufe0f\nThe Team House Instagram:\nhttps://instagram.com/the.team.house?utm_medium=copy_link\nThe Team House Twitter:\nhttps://twitter.com/TheTeamHousePod\nJack\u2019s Instagram:\nhttps://instagram.com/jackmcmurph?utm_medium=copy_link\nJack\u2019s Twitter:\n https://twitter.com/jackmurphyrgr?s=21\nDave\u2019s Twitter: \nhttps://twitter.com/dave_parke?s=21\n\nTeam House Discord: \u2b07\ufe0f\nhttps://discord.gg/wHFHYM6\n\nSubReddit: \u2b07\ufe0f\nhttps://www.reddit.com/r/TheTeamHouse/\n\nJack Murphy's memoir \"Murphy's Law\" can be found here:\u2b07\ufe0f\n https://www.amazon.com/Murphys-Law-Journey-Investigative-Journalist/dp/1501191241\n\nThe Team Room Reading Room (Amazon Affiliate links):\u2b07\ufe0f\n https://jackmurphywrites.com/the-team-room-reading-room/\n\nIntro music by https://www.youtube.com/user/RemixSample\n\nWant to sponsor the show?\nEmail: \u2b07\ufe0f\ntheteamhousepodcast@gmail.com\n\n#macvsog #vietnam",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YMA0fZFBYz8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Team House",
+          "tags": [
+            "Special Operations",
+            "Covert ops",
+            "Jack Murphy green beret",
+            "special forces",
+            "The team house",
+            "macvsog",
+            "vietnam war",
+            "john tilt myer"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "MACV-SOG Huey Crew Chief and Door Gunner | Roger Lockshier | Ep. 204",
+            "description": "Roger Lockshier enlisted in the US Army in April 1966. After completing Airborne (Paratrooper) Jump Training at Fort Benning GA, he was assigned to Aviation Battalion 101st Airborne Division, Fort Campbell Kentucky, December 1966.\n\nIn December of 1967 the 101st Airborne Division was transferred to Viet Nam. Lockshier was a Crewchief / Doorgunner with the 101st Airborne's Black Angels Huey Helicopter Gunships assigned to provide combat support to the 101st Airborne and 5th Special Forces MACVSOG. He returned to the States in December of 1968.\n\nLockshier was the recipient of several awards:\n\n\u2022 Two time recipient of The Distinguished Flying Cross\n\n\u2022 Bronze Star\n\n\u2022 Purple Heart\n\n\u2022 Air Medal with \"V\" Device\n\n\u2022 19 Air Medals\n\n\u2022 Army Commendation Medal\n\n\u2022 Army Presidential Unit Citation 101st Airborne\n\n\u2022 Army Presidential Unit Citation Special Forces Khe Sahn\n\n\u2022 Army Presidential Unit Citation MACVSOG (Special Ops)\n\n\u2022 Navy Presidential Unit Citation Khe Sahn\n\nLockshier lives in Oxford CT with Barbara his wife of 52 years. He and his wife have two sons, Roger, Jr. and his wife Allison living in North Carolina with their four children Andrew, Lucas, Sophie, & Jude, and Jeff and his wife Jennifer living in Oxford CT with their two children Dylan, and Samantha.\n\nYou can contact Roger at rflockshier@gmail.com\n\nGrab his book here:\u2b07\ufe0f\nhttps://www.amazon.com/We-Saved-SOG-Souls-Airborne/dp/B09NRC4ZB4\n\nToday's Sponsors:\nSAP Gear (Stately Asset Protection) \nhttps://SAPGEAR.com\nVeteran-owned company, Stately Asset Protection\u2019s retail store specializes in handmade and unique survivability products.\nUse the code \u201cTEAM\u201d for 15% off your order!\nhttps://SAPGEAR.com\n\nThank you for supporting the companies that support the show !\n\nTo help support the show and for all bonus content including:\n-AD FREE AUDIO\n-AD FREE VIDEO\n-Access to ALL bonus segments with our guests\nSubscribe to our Patreon! \u2b07\ufe0f\nhttps://www.patreon.com/TheTeamHouse\n\nTeam House merch: \u2b07\ufe0f\nhttps://teespring.com/stores/my-store-10474963\n\nSocial Media: \u2b07\ufe0f\nThe Team House Instagram:\nhttps://instagram.com/the.team.house?utm_medium=copy_link\nThe Team House Twitter:\nhttps://twitter.com/TheTeamHousePod\nJack\u2019s Instagram:\nhttps://instagram.com/jackmcmurph?utm_medium=copy_link\nJack\u2019s Twitter:\n https://twitter.com/jackmurphyrgr?s=21\nDave\u2019s Twitter: \nhttps://twitter.com/dave_parke?s=21\n\nTeam House Discord: \u2b07\ufe0f\nhttps://discord.gg/wHFHYM6\n\nSubReddit: \u2b07\ufe0f\nhttps://www.reddit.com/r/TheTeamHouse/\n\nJack Murphy's memoir \"Murphy's Law\" can be found here:\u2b07\ufe0f\n https://www.amazon.com/Murphys-Law-Journey-Investigative-Journalist/dp/1501191241\n\nThe Team Room Reading Room (Amazon Affiliate links):\u2b07\ufe0f\n https://jackmurphywrites.com/the-team-room-reading-room/\n\nIntro music by https://www.youtube.com/user/RemixSample\n\nWant to sponsor the show?\nEmail: \u2b07\ufe0f\ntheteamhousepodcast@gmail.com\n\n#macvsog #vietnam"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2H2M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "172459",
+          "likeCount": "3082",
+          "favoriteCount": "0",
+          "commentCount": "220"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cyFjwSg0nY-RNSMYkLxzzcur204",
+        "id": "KzxMqOBwVTA",
+        "snippet": {
+          "publishedAt": "2023-09-07T12:58:05Z",
+          "channelId": "UCcZauUXQ-dHSFqqqTXMLBSg",
+          "title": "Unbelievable Courage! Cobra pilot saves 4 lives | Larry Taylor Awarded the Medal of Honor",
+          "description": "The incredible story of Captain Larry L. Taylor in Vietnam and how he saved 4 American soldiers from certain death.\n\n#vietnam #larryLTaylor #medalofhonor \n\nJoin the Low Level Hell Discord!\nhttps://discord.gg/5mmHKHD\n\nJoin me on Twitch: https://www.twitch.tv/casmotv\n\nSupport the Channel and the Low Level Hell Community!\nhttps://www.patreon.com/LowLevelHell\n\nMerch Store! https://my-store-bb2c82.creator-spring.com/\n\nCheck out the \"Low Level Hell Podcast\" on your favorite podcast provider!\nhttps://thelowlevelhellpodcast.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KzxMqOBwVTA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CasmoTV",
+          "tags": [
+            "DCS",
+            "DCS World",
+            "Digital Combat Simulator World",
+            "Real Military Pilot",
+            "Real pilot flies",
+            "real pilot plays DCS",
+            "combat",
+            "flight simulator",
+            "real pilot flies flight simulator",
+            "kiowa pilot",
+            "apache pilot",
+            "matt wagner",
+            "grim reapers",
+            "learning dcs",
+            "dcs beginners",
+            "new to dcs",
+            "dcs helicopters",
+            "dcs blackhawk",
+            "dcs apache",
+            "dcs hind",
+            "dcs gazelle",
+            "dcs huey",
+            "dcs tutorial",
+            "dcs tutorials",
+            "dcs how to",
+            "how to dcs",
+            "growling sidewinder"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Unbelievable Courage! Cobra pilot saves 4 lives | Larry Taylor Awarded the Medal of Honor",
+            "description": "The incredible story of Captain Larry L. Taylor in Vietnam and how he saved 4 American soldiers from certain death.\n\n#vietnam #larryLTaylor #medalofhonor \n\nJoin the Low Level Hell Discord!\nhttps://discord.gg/5mmHKHD\n\nJoin me on Twitch: https://www.twitch.tv/casmotv\n\nSupport the Channel and the Low Level Hell Community!\nhttps://www.patreon.com/LowLevelHell\n\nMerch Store! https://my-store-bb2c82.creator-spring.com/\n\nCheck out the \"Low Level Hell Podcast\" on your favorite podcast provider!\nhttps://thelowlevelhellpodcast.com/"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT9M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "181119",
+          "likeCount": "3083",
+          "favoriteCount": "0",
+          "commentCount": "113"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hpIJuHC2dPYAfNvM9m4QVVLFEPc",
+        "id": "2Dh5rKgrraU",
+        "snippet": {
+          "publishedAt": "2023-02-15T22:05:42Z",
+          "channelId": "UCpuT8AlP9P9EgW_pZ0_xInQ",
+          "title": "When your high school is famous \ud83d\ude31",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2Dh5rKgrraU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dylan Anderson",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "When your high school is famous \ud83d\ude31",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "71595490",
+          "likeCount": "2575382",
+          "favoriteCount": "0",
+          "commentCount": "12827"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GLH8AHEiMV9U0Mi1hYb_YlJ9GzQ",
+        "id": "4XAsOsM7AFE",
+        "snippet": {
+          "publishedAt": "2023-06-02T21:34:34Z",
+          "channelId": "UCGxr1xNr6oaEGN51RWq9PaA",
+          "title": "Last day of school!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr. Montzingo",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Last day of school!",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5097563",
+          "favoriteCount": "0",
+          "commentCount": "674"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dBD0QEMpAJlC8LS4Y1M_PUZLwwk",
+        "id": "lk17-GBTixY",
+        "snippet": {
+          "publishedAt": "2023-03-23T21:00:34Z",
+          "channelId": "UCkqcY4CAuBFNFho6JgygCnA",
+          "title": "SOGCast 018: Surviving the Ia Drang Valley \u2014 Clete \u201cBabysan\u201d Sinyard",
+          "description": "Underground Premium Content: https://www.jockounderground.com/subscribe\n\nJoin the conversation on Twitter/Instagram: @jockowillink @echocharles\n\nMore from J. Stryker Meyer at https://www.jstrykermeyer.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lk17-GBTixY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jocko Podcast",
+          "tags": [
+            "jocko willink",
+            "podcast",
+            "discipline",
+            "defcor",
+            "fredom",
+            "leadership",
+            "extreme ownership",
+            "author",
+            "navy seal",
+            "usa",
+            "military",
+            "echelon front",
+            "dichotomy of leadership",
+            "jiu jitsu",
+            "bjj",
+            "mma",
+            "jocko",
+            "victory",
+            "echo charles",
+            "flixpoint",
+            "john stryker meyer",
+            "j stryker meyer",
+            "SOGcast",
+            "MACVSOG",
+            "Green Beret",
+            "Special Forces",
+            "Vietnam War",
+            "Vietnam",
+            "SOG"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "SOGCast 018: Surviving the Ia Drang Valley \u2014 Clete \u201cBabysan\u201d Sinyard",
+            "description": "Underground Premium Content: https://www.jockounderground.com/subscribe\n\nJoin the conversation on Twitter/Instagram: @jockowillink @echocharles\n\nMore from J. Stryker Meyer at https://www.jstrykermeyer.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H45M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "109244",
+          "likeCount": "2260",
+          "favoriteCount": "0",
+          "commentCount": "209"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YhVjohJrU62SxDIP5in_VarRiYY",
+        "id": "sH8IICAaUkU",
+        "snippet": {
+          "publishedAt": "2023-10-25T20:37:33Z",
+          "channelId": "UCEH_C58sNYyWsSDM-OXRo9Q",
+          "title": "Steelhead Fishing Tips - \"Presentation Matters\" from Jack Barr at FishUSA's Chrome Fest 2023",
+          "description": "Proper presentation is very important in all types of fishing, but it is especially crucial when talking steelhead fishing. \nJack Barr, a fly fishing guide based out of NW Pennsylvania, discusses why presentation is so important in steelhead fishing and provides tips as to how you can improve.\nThis video was filmed at FishUSA's Chrome Fest, an event that allowed steelhead anglers to gather and listen to presentations, eat and drink for free, and take advantage of sales & deals on their favorite steelhead fishing tackle! \nYou can get a hold of Jack to book a trip at JackB.RTB@outlook.com or check him out at www.rtbguideservice.com\n\nSteelhead can be quite particular fish, but they'll take anything from egg patterns to swung flies when presented correctly. The challenge of cathing these trophy fish draws steelhead anglers from all over to the Great Lakes. The steelhead's beautiful color patterns and markings are backed by an incredible fight, especially when hooked on a fly rod. Even Winter steelhead can put up an incredible battle in the frigid cold months. It's important to have the right fly line for your presentation. In most cases, floating line will do the trick. However, if you like swinging flies you may need sinking lines. Shop FishUSA's fly store to find everything you'll need: https://www.fishusa.com/fly-shop/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sH8IICAaUkU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FishUSA",
+          "tags": [
+            "Steelhead Fishing",
+            "Steelhead",
+            "Fly fishing",
+            "Fly Fishing Tips",
+            "Steelhead Fishing Tips"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Steelhead Fishing Tips - \"Presentation Matters\" from Jack Barr at FishUSA's Chrome Fest 2023",
+            "description": "Proper presentation is very important in all types of fishing, but it is especially crucial when talking steelhead fishing. \nJack Barr, a fly fishing guide based out of NW Pennsylvania, discusses why presentation is so important in steelhead fishing and provides tips as to how you can improve.\nThis video was filmed at FishUSA's Chrome Fest, an event that allowed steelhead anglers to gather and listen to presentations, eat and drink for free, and take advantage of sales & deals on their favorite steelhead fishing tackle! \nYou can get a hold of Jack to book a trip at JackB.RTB@outlook.com or check him out at www.rtbguideservice.com\n\nSteelhead can be quite particular fish, but they'll take anything from egg patterns to swung flies when presented correctly. The challenge of cathing these trophy fish draws steelhead anglers from all over to the Great Lakes. The steelhead's beautiful color patterns and markings are backed by an incredible fight, especially when hooked on a fly rod. Even Winter steelhead can put up an incredible battle in the frigid cold months. It's important to have the right fly line for your presentation. In most cases, floating line will do the trick. However, if you like swinging flies you may need sinking lines. Shop FishUSA's fly store to find everything you'll need: https://www.fishusa.com/fly-shop/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4670",
+          "likeCount": "48",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-UZzqlfmd0gCevMvqPbQXwCdrHk",
+        "id": "151J53GLEBo",
+        "snippet": {
+          "publishedAt": "2023-03-21T20:00:00Z",
+          "channelId": "UCcbQw4-3c-HEKlJmpSZoQUQ",
+          "title": "Tracy Shuchart Talks Europe, Energy Crisis, Manufacturing Sector, Coal, Nuclear Energy (RCS 265)",
+          "description": "Interview original date: October 3rd, 2022\n\nTopics- What will Europe face into the winter months with their energy crisis? Europe is at 70% gas storage, but the forecast is not good, they are preparing for rolling blackouts. We were seeing these problems in Germany even before the invasion of Ukraine. In the energy industry we will see more problems. The European manufacturing sector announced that if they need to cut natural gas consumption this winter, they will cut the commercial sector first, before retail consumers. This means they are talking about input to so many of the goods they produce. It's not just about heating. It's especially about the chemical industry. Contagion effect. The chemical industry will affect the steel industry. The steel industry affects the car manufacturing industry and this is one of the biggest industries in Germany. The companies will switch from gas to oil. Coal industry is also huge right now, even if they wanted to shut down their last three nuclear plants, their consumption has gone up, it doesn't make sense. We will probably see a turnaround in Europe's mindset on nuclear energy and in the use of uranium. \nA lot of pain needs to be absorbed by the general public before the politicians change their minds and their goals. What will we see happening with the price of oil and energy? We will have a shortfall, demand will most likely rise. OPEC doesn't have much spare capacity left with a 2.75 million production deficit. Going into 2023, we will see another bounce in oil. The Government is demonizing the US producers of oil, now they don't have an incentive to produce. Who wants to invest capital like that?\n\nSUBSCRIBE to More George Gammon: https://www.youtube.com/channel/UCcbQw4-3c-HEKlJmpSZoQUQ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/151J53GLEBo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "More George Gammon",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tracy Shuchart Talks Europe, Energy Crisis, Manufacturing Sector, Coal, Nuclear Energy (RCS 265)",
+            "description": "Interview original date: October 3rd, 2022\n\nTopics- What will Europe face into the winter months with their energy crisis? Europe is at 70% gas storage, but the forecast is not good, they are preparing for rolling blackouts. We were seeing these problems in Germany even before the invasion of Ukraine. In the energy industry we will see more problems. The European manufacturing sector announced that if they need to cut natural gas consumption this winter, they will cut the commercial sector first, before retail consumers. This means they are talking about input to so many of the goods they produce. It's not just about heating. It's especially about the chemical industry. Contagion effect. The chemical industry will affect the steel industry. The steel industry affects the car manufacturing industry and this is one of the biggest industries in Germany. The companies will switch from gas to oil. Coal industry is also huge right now, even if they wanted to shut down their last three nuclear plants, their consumption has gone up, it doesn't make sense. We will probably see a turnaround in Europe's mindset on nuclear energy and in the use of uranium. \nA lot of pain needs to be absorbed by the general public before the politicians change their minds and their goals. What will we see happening with the price of oil and energy? We will have a shortfall, demand will most likely rise. OPEC doesn't have much spare capacity left with a 2.75 million production deficit. Going into 2023, we will see another bounce in oil. The Government is demonizing the US producers of oil, now they don't have an incentive to produce. Who wants to invest capital like that?\n\nSUBSCRIBE to More George Gammon: https://www.youtube.com/channel/UCcbQw4-3c-HEKlJmpSZoQUQ"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "310",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gLLoku8XJTzcS1K1S2oZC77NmK0",
+        "id": "tQaDl0z-_EQ",
+        "snippet": {
+          "publishedAt": "2023-03-21T18:45:58Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Wharton's Peter Conti-Brown: The Fed mishandled SVB about 7 different ways",
+          "description": "Peter Conti-Brown, Wharton School professor, joins 'The Exchange' to discuss the role regulators should've played in SVB before its collapse. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tQaDl0z-_EQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Wharton's Peter Conti-Brown: The Fed mishandled SVB about 7 different ways",
+            "description": "Peter Conti-Brown, Wharton School professor, joins 'The Exchange' to discuss the role regulators should've played in SVB before its collapse. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1701",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fYJfw-h2eLWcuN9M0ph-YJlsN18",
+        "id": "Ll4gfnvCo0A",
+        "snippet": {
+          "publishedAt": "2023-04-27T16:26:16Z",
+          "channelId": "UCJOf0CCrhlJqlSXpbF-Ylvw",
+          "title": "Globe Life LN | AO Meeting Highlights",
+          "description": "Agency owners from Globe Life Liberty National enjoyed getting together in Puerto Vallarta for a week's worth of inspirational meetings, unforgettable activities, and amazing food. The annual AO meeting is an opportunity to pour energy into the importance of strong leadership and team development, all with the goal of making tomorrow better. Liberty National partnered with Entreamigos, a non-profit organization that supports the community of San Pancho, to raise over $23,000. #GlobeLifeLifestyle\n\nLearn more about Liberty National by clicking the link below. \nhttps://careers.globelifeinsurance.com/libertynational?utm_source=youtube&utm_medium=social&utm_campaign=agentrecruiting",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ll4gfnvCo0A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Globe Life Careers",
+          "tags": [
+            "Globe Life",
+            "Globe Life Insurance",
+            "Liberty National",
+            "Mexico",
+            "Puerto Vallarta"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Globe Life LN | AO Meeting Highlights",
+            "description": "Agency owners from Globe Life Liberty National enjoyed getting together in Puerto Vallarta for a week's worth of inspirational meetings, unforgettable activities, and amazing food. The annual AO meeting is an opportunity to pour energy into the importance of strong leadership and team development, all with the goal of making tomorrow better. Liberty National partnered with Entreamigos, a non-profit organization that supports the community of San Pancho, to raise over $23,000. #GlobeLifeLifestyle\n\nLearn more about Liberty National by clicking the link below. \nhttps://careers.globelifeinsurance.com/libertynational?utm_source=youtube&utm_medium=social&utm_campaign=agentrecruiting"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "456",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

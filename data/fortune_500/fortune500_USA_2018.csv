@@ -1,0 +1,501 @@
+rank,company,revenues,revenue_percent_change,profits,profits_percent_change,assets,market_value,change_in_rank_1000,employees,change_in_rank_500,link
+1,Walmart,"$500,343",3%,"$9,862",-27.70%,"$204,522","$263,563.1",-,"2,300,000",-,View More details about Walmart
+2,ExxonMobil Holdings,"$244,363",17.40%,"$19,710",151.40%,"$348,691","$316,157.1",2,"71,200",2,View More details about ExxonMobil Holdings
+3,Berkshire Hathaway,"$242,137",8.30%,"$44,940",86.70%,"$702,095","$492,008.4",-1,"377,000",-1,View More details about Berkshire Hathaway
+4,Apple,"$229,234",6.30%,"$48,351",5.80%,"$375,319","$851,317.9",-1,"123,000",-1,View More details about Apple
+5,UnitedHealth Group,"$201,159",8.80%,"$10,558",50.50%,"$139,058","$207,079.9",1,"260,000",1,View More details about UnitedHealth Group
+6,McKesson,"$198,533",3.10%,"$5,070",124.50%,"$60,969","$29,067",-1,"64,500",-1,View More details about McKesson
+7,CVS Health,"$184,765",4.10%,"$6,622",24.50%,"$95,131","$63,114",-,"203,000",-,View More details about CVS Health
+8,Amazon,"$177,866",30.80%,"$3,033",27.90%,"$131,310","$700,667.7",4,"566,000",4,View More details about Amazon
+9,AT&T,"$160,546",-2%,"$29,450",127%,"$444,097","$218,945.6",-,"254,000",-,View More details about AT&T
+10,General Motors,"$157,311",-5.50%,"$-3,864",-141%,"$212,482","$50,971.6",-2,"180,000",-2,View More details about General Motors
+11,Ford Motor,"$156,776",3.30%,"$7,602",65.40%,"$257,808","$44,244.3",-1,"202,000",-1,View More details about Ford Motor
+12,Cencora,"$153,143.8",4.30%,$364.5,-74.50%,"$35,316.5","$18,937.7",-1,"19,500",-1,View More details about Cencora
+13,Chevron,"$134,533",25.10%,"$9,195",-,"$253,806","$217,845.3",6,"51,900",6,View More details about Chevron
+14,Cardinal Health,"$129,976",6.90%,"$1,288",-9.70%,"$40,112","$19,725.8",1,"40,400",1,View More details about Cardinal Health
+15,Costco Wholesale,"$129,025",8.70%,"$2,679",14%,"$36,347","$82,686.9",1,"182,000",1,View More details about Costco Wholesale
+16,Verizon Communications,"$126,034",,"$30,101",129.30%,"$257,143","$197,496.6",-2,"155,400",-2,View More details about Verizon Communications
+17,Kroger,"$122,662",6.40%,"$1,907",-3.40%,"$37,197","$20,827.8",1,"449,000",1,View More details about Kroger
+18,GE Aerospace,"$122,274",-3.50%,"$-5,786",-165.50%,"$377,945","$117,053.7",-5,"313,000",-5,View More details about GE Aerospace
+19,Walgreens Boots Alliance,"$118,214",0.70%,"$4,078",-2.30%,"$66,009","$64,924.3",-2,"290,000",-2,View More details about Walgreens Boots Alliance
+20,JPMorgan Chase,"$113,899",8%,"$24,441",-1.20%,"$2,533,600","$375,042.9",1,"252,539",1,View More details about JPMorgan Chase
+21,Fannie Mae,"$112,394",4.90%,"$2,463",-80%,"$3,345,529","$1,632.9",-1,"7,200",-1,View More details about Fannie Mae
+22,Alphabet,"$110,855",22.80%,"$12,662",-35%,"$197,295","$719,123.6",5,"80,110",5,View More details about Alphabet
+23,Home Depot,"$100,904",6.70%,"$8,630",8.50%,"$44,529","$206,271.7",-,"413,000",-,View More details about Home Depot
+24,Bank of America,"$100,264",7%,"$18,232",1.80%,"$2,281,234","$306,618.4",2,"209,376",2,View More details about Bank of America
+25,Express Scripts Holding,"$100,064.6",-0.20%,"$4,517.4",32.70%,"$54,255.8","$38,790.6",-3,"26,600",-3,View More details about Express Scripts Holding
+26,Wells Fargo,"$97,741",3.80%,"$22,183",1.10%,"$1,951,757","$255,556",-1,"262,700",-1,View More details about Wells Fargo
+27,Boeing,"$93,392",-1.20%,"$8,197",67.50%,"$92,333","$192,539.1",-3,"140,800",-3,View More details about Boeing
+28,Phillips 66,"$91,568",26.50%,"$5,106",228.40%,"$54,371","$44,729.9",6,"14,600",6,View More details about Phillips 66
+29,Elevance Health,"$90,039.4",6.10%,"$3,842.8",55.60%,"$70,540","$56,182.1",-,"56,000",-,View More details about Elevance Health
+30,Microsoft,"$89,950",5.40%,"$21,204",26.20%,"$241,086","$702,760.1",-2,"124,000",-2,View More details about Microsoft
+31,Valero Energy,"$88,407",26%,"$4,065",77.60%,"$50,158","$39,976.7",6,"10,015",6,View More details about Valero Energy
+32,Citigroup,"$87,966",6.80%,"$-6,798",-145.60%,"$1,842,465","$172,822",-2,"209,000",-2,View More details about Citigroup
+33,Comcast,"$84,526",5.10%,"$22,714",161.20%,"$186,949","$158,702.8",-2,"164,000",-2,View More details about Comcast
+34,IBM,"$79,139",-1%,"$5,753",-51.50%,"$125,356","$141,334.8",-2,"366,000",-2,View More details about IBM
+35,Dell Technologies,"$78,660",21.40%,"$-3,728",-,"$122,281",-,6,"145,000",6,View More details about Dell Technologies
+36,State Farm Insurance,"$78,330.8",2.90%,"$2,206.5",529.90%,"$272,345.2",-,-3,"65,664",-3,View More details about State Farm Insurance
+37,Johnson & Johnson,"$76,450",6.30%,"$1,300",-92.10%,"$157,303","$343,780.3",-2,"134,000",-2,View More details about Johnson & Johnson
+38,Freddie Mac,"$74,676",13.70%,"$5,625",-28%,"$2,049,776",$877.6,1,"6,165",1,View More details about Freddie Mac
+39,Target,"$71,879",3.40%,"$2,934",7.20%,"$38,999","$37,408.6",-1,"345,000",-1,View More details about Target
+40,Lowe's,"$68,619",5.50%,"$3,447",11.40%,"$35,291","$72,811.5",-,"255,000",-,View More details about Lowe's
+41,Marathon Petroleum,"$67,610",21%,"$3,432",192.30%,"$49,047","$34,682.7",10,"43,800",10,View More details about Marathon Petroleum
+42,Procter & Gamble,"$66,217",-7.70%,"$15,326",45.90%,"$120,406","$199,865.2",-6,"95,000",-6,View More details about Procter & Gamble
+43,MetLife,"$66,153",4.20%,"$4,010",401.30%,"$719,892","$47,571.5",-1,"49,000",-1,View More details about MetLife
+44,UPS,"$65,872",8.20%,"$4,910",43.10%,"$45,403","$90,156.1",2,"346,415",2,View More details about UPS
+45,PepsiCo,"$63,525",1.20%,"$4,857",-23.30%,"$79,804","$154,932.5",-1,"263,000",-1,View More details about PepsiCo
+46,Intel,"$62,761",5.70%,"$9,601",-6.90%,"$123,249","$243,109.4",1,"102,700",1,View More details about Intel
+47,DuPont,"$62,683",30.20%,"$1,460",-66.20%,"$192,164","$148,186",15,"98,000",15,View More details about DuPont
+48,Archer Daniels Midland,"$60,828",-2.40%,"$1,595",24.70%,"$39,963","$24,238.3",-3,"31,300",-3,View More details about Archer Daniels Midland
+50,FedEx,"$60,319",19.80%,"$2,997",64.70%,"$48,552","$64,161",8,"357,000",8,View More details about FedEx
+52,Prudential Financial,"$59,689",1.50%,"$7,863",80%,"$831,921","$43,685.8",-4,"49,705",-4,View More details about Prudential Financial
+53,Albertsons,"$59,678.2",1.60%,$-373.3,-,"$23,755",-,-4,"273,000",-4,View More details about Albertsons
+54,Sysco,"$55,371.1",9.90%,"$1,142.5",20.30%,"$17,756.7","$31,294.2",3,"66,500",3,View More details about Sysco
+55,Walt Disney,"$55,137",-0.90%,"$8,980",-4.40%,"$95,789","$151,029.2",-3,"199,000",-3,View More details about Walt Disney
+56,Humana,"$53,767",-1.10%,"$2,448",298.70%,"$27,178","$37,122",-3,"45,900",-3,View More details about Humana
+57,Pfizer,"$52,546",-0.50%,"$21,308",195.30%,"$171,797","$211,115.3",-3,"90,200",-3,View More details about Pfizer
+58,HP,"$52,056",7.90%,"$2,526",1.20%,"$32,913","$35,893.3",3,"49,000",3,View More details about HP
+59,Lockheed Martin,"$51,048",0.80%,"$2,002",-62.20%,"$46,521","$96,588.6",-3,"100,000",-3,View More details about Lockheed Martin
+60,AIG,"$49,520",-5.40%,"$-6,084",-,"$498,301","$49,144.7",-5,"49,800",-5,View More details about AIG
+61,Centene,"$48,572",19.30%,$828,47.30%,"$21,855","$18,703.5",5,"33,700",5,View More details about Centene
+62,Cisco Systems,"$48,005",-2.50%,"$9,609",-10.50%,"$129,818","$206,623.3",-2,"72,900",-2,View More details about Cisco Systems
+63,HCA Healthcare,"$47,653",6.50%,"$2,216",-23.30%,"$36,593","$34,165.1",-,"221,491",-,View More details about HCA Healthcare
+64,Energy Transfer,"$47,487",26.60%,$954,-4.10%,"$86,246","$15,334.7",15,"29,486",15,View More details about Energy Transfer
+65,Caterpillar,"$45,462",18%,$754,-,"$76,962","$88,078.1",9,"98,400",9,View More details about Caterpillar
+66,Nationwide,"$43,939.9",9.60%,$246.5,-26.20%,"$221,256.9",-,2,"33,135",2,View More details about Nationwide
+67,Morgan Stanley,"$43,642",15%,"$6,111",2.20%,"$851,733","$96,688",9,"57,633",9,View More details about Morgan Stanley
+68,Liberty Mutual Insurance Group,"$42,687",11.40%,$17,-98.30%,"$142,502",-,7,"50,000",7,View More details about Liberty Mutual Insurance Group
+69,New York Life Insurance,"$42,296",3.70%,"$1,866.9",71.60%,"$303,182.8",-,-4,"11,114",-4,View More details about New York Life Insurance
+70,Goldman Sachs Group,"$42,254",12%,"$4,286",-42.10%,"$916,776","$95,462.5",8,"36,600",8,View More details about Goldman Sachs Group
+71,American Airlines Group,"$42,207",5%,"$1,919",-28.30%,"$51,396","$24,584.3",-4,"126,600",-4,View More details about American Airlines Group
+72,Best Buy,"$42,151",7%,"$1,000",-18.60%,"$13,049","$20,459.9",-,"125,000",-,View More details about Best Buy
+73,Cigna Group,"$41,616",4.90%,"$2,237",19.80%,"$61,753","$40,734.6",-3,"46,000",-3,View More details about Cigna Group
+74,Charter Communications,"$41,581",43.40%,"$9,895",180.90%,"$146,623","$80,953.7",22,"94,800",22,View More details about Charter Communications
+75,Delta Air Lines,"$41,244",4%,"$3,577",-18.20%,"$53,292","$38,745.9",-4,"86,564",-4,View More details about Delta Air Lines
+76,Meta Platforms,"$40,653",47.10%,"$15,934",56%,"$84,524","$464,190.1",22,"25,105",22,View More details about Meta Platforms
+77,Honeywell International,"$40,534",3.10%,"$1,655",-65.60%,"$59,387","$108,148.5",-4,"131,000",-4,View More details about Honeywell International
+78,Merck,"$40,122",0.80%,"$2,394",-38.90%,"$87,872","$146,861.5",-9,"69,000",-9,View More details about Merck
+79,Allstate,"$38,524",5.40%,"$3,189",69.90%,"$112,422","$33,477.6",5,"42,680",5,View More details about Allstate
+80,Tyson Foods,"$38,260",3.70%,"$1,774",0.30%,"$28,066","$29,233.1",2,"122,000",2,View More details about Tyson Foods
+81,United Airlines Holdings,"$37,736",3.20%,"$2,131",-5.80%,"$42,326","$19,778.1",2,"89,800",2,View More details about United Airlines Holdings
+82,Oracle,"$37,728",1.80%,"$9,335",4.90%,"$134,991","$186,765.8",-1,"138,000",-1,View More details about Oracle
+83,Tech Data,"$36,775",40.20%,$116.6,-40.20%,"$12,652.6","$3,248.9",24,"14,000",24,View More details about Tech Data
+84,TIAA,"$36,025.3",-2.90%,"$1,049.7",-29.70%,"$583,631.7",-,-4,"16,829",-4,View More details about TIAA
+85,TJX,"$35,864.7",8.10%,"$2,607.9",13.50%,"$14,058","$51,570.6",2,"249,000",2,View More details about TJX
+86,American Express,"$35,583",5.20%,"$2,736",-49.40%,"$181,159","$80,234.3",-,"55,000",-,View More details about American Express
+87,Coca-Cola,"$35,410",-15.40%,"$1,248",-80.90%,"$87,896","$185,207.2",-23,"61,800",-23,View More details about Coca-Cola
+88,Publix Super Markets,"$34,836.8",1.60%,"$2,291.9",13.10%,"$18,183.5",-,-3,"193,000",-3,View More details about Publix Super Markets
+89,Nike,"$34,350",6.10%,"$4,240",12.80%,"$23,259","$108,093.9",-1,"74,400",-1,View More details about Nike
+90,Andeavor,"$34,204",42.50%,"$1,528",108.20%,"$28,573","$15,386",27,"14,300",27,View More details about Andeavor
+91,World Kinect,"$33,695.5",24.70%,$-170.2,-234.50%,"$5,587.8","$1,660.7",12,"5,000",12,View More details about World Kinect
+92,Exelon,"$33,531",6.90%,"$3,770",232.50%,"$116,700","$37,644.1",-3,"34,621",-3,View More details about Exelon
+93,Massachusetts Mutual Life,"$33,495.4",-11.40%,$513,-59.70%,"$288,854.8",-,-16,"11,811",-16,View More details about Massachusetts Mutual Life
+94,Rite Aid,"$32,845.1",6.90%,$4.1,-97.60%,"$11,593.8","$1,793.4",-3,"70,430",-3,View More details about Rite Aid
+95,ConocoPhillips,"$32,584",33.80%,$-855,-,"$73,362","$69,640.7",20,"11,400",20,View More details about ConocoPhillips
+96,CHS,"$31,934.8",5.20%,$127.9,-69.90%,"$15,973.8",-,-3,"11,626",-3,View More details about CHS
+97,3M,"$31,657",5.10%,"$4,858",-3.80%,"$37,987","$130,550.3",-3,"91,536",-3,View More details about 3M
+98,Time Warner,"$31,271",6.70%,"$5,247",33.60%,"$69,209","$73,758.4",-3,"26,000",-3,View More details about Time Warner
+99,General Dynamics,"$30,973",-1.20%,"$2,912",-1.50%,"$35,046","$65,845.4",-9,"98,600",-9,View More details about General Dynamics
+100,USAA,"$30,015.8",10.60%,"$2,421.9",36.10%,"$155,390.5",-,2,"32,705",2,View More details about USAA
+101,Capital One Financial,"$29,999",9%,"$1,982",-47.20%,"$365,693","$46,583.9",-1,"49,300",-1,View More details about Capital One Financial
+102,Deere,"$29,737.7",11.60%,"$2,159.1",41.70%,"$65,786.3","$50,290.7",3,"60,476",3,View More details about Deere
+103,INTL FCStone,"$29,423.6",99.40%,$6.4,-88.30%,"$6,243.4",$804.3,86,"1,607",86,View More details about INTL FCStone
+104,Northwestern Mutual,"$29,331",1.80%,"$1,017",24.30%,"$265,049",-,-7,"5,437",-7,View More details about Northwestern Mutual
+105,Enterprise Products Partners,"$29,241.5",27%,"$2,799.3",11.40%,"$54,418.1","$52,903.6",17,"7,000",17,View More details about Enterprise Products Partners
+106,Travelers,"$28,902",4.60%,"$2,056",-31.80%,"$103,483","$37,690.5",-7,"30,800",-7,View More details about Travelers
+107,Hewlett Packard Enterprise,"$28,871",-42.40%,$344,-89.10%,"$61,406","$27,243.2",-48,"66,000",-48,View More details about Hewlett Packard Enterprise
+108,Philip Morris International,"$28,748",7.70%,"$6,035",-13.40%,"$42,968","$154,513.8",-4,"80,600",-4,View More details about Philip Morris International
+109,Twenty-First Century Fox,"$28,500",4.30%,"$2,952",7.20%,"$50,724","$67,969.3",-8,"21,700",-8,View More details about Twenty-First Century Fox
+110,AbbVie,"$28,216",10.10%,"$5,309",-10.80%,"$70,786","$150,179.9",1,"29,000",1,View More details about AbbVie
+111,Abbott Laboratories,"$27,390",31.30%,$477,-65.90%,"$76,250","$104,640.3",24,"99,000",24,View More details about Abbott Laboratories
+112,Progressive,"$26,839",14.50%,"$1,592.2",54.40%,"$38,701.2","$35,478.1",8,"33,656",8,View More details about Progressive
+113,Arrow Electronics,"$26,812.5",12.50%,$402,-23.10%,"$16,462.8","$6,749.6",5,"18,800",5,View More details about Arrow Electronics
+114,Kraft Heinz,"$26,232",-1%,"$10,999",202.80%,"$120,232","$75,919.9",-8,"39,000",-8,View More details about Kraft Heinz
+115,Plains GP Holdings,"$26,223",29.90%,$-731,-877.70%,"$26,753","$6,328.2",26,"4,850",26,View More details about Plains GP Holdings
+116,Gilead Sciences,"$26,107",-14.10%,"$4,628",-65.70%,"$70,283","$98,297.3",-24,"10,000",-24,View More details about Gilead Sciences
+117,Mondelez International,"$25,896",-0.10%,"$2,922",76.10%,"$63,109","$62,066.2",-8,"83,000",-8,View More details about Mondelez International
+118,Northrop Grumman,"$25,803",5.30%,"$2,015",-8.40%,"$34,917","$60,777.5",-4,"70,000",-4,View More details about Northrop Grumman
+119,RTX,"$25,348",5.30%,"$2,024",-8.50%,"$30,860","$62,265.4",-3,"64,000",-3,View More details about RTX
+120,Macy's,"$24,837",-3.70%,"$1,547",149.90%,"$19,381","$9,064.8",-10,"130,000",-10,View More details about Macy's
+121,US Foods Holding,"$24,147.2",5.40%,$444.3,111.80%,"$9,037.2","$7,065.3",3,"25,204",3,View More details about US Foods Holding
+122,U.S. Bancorp,"$23,996",5.50%,"$6,218",5.60%,"$462,040","$83,367",3,"72,402",3,View More details about U.S. Bancorp
+123,Dollar General,"$23,471",6.80%,"$1,539",23%,"$12,516.9","$25,140.8",5,"129,000",5,View More details about Dollar General
+124,International Paper,"$23,302",10.50%,"$2,144",137.20%,"$33,903","$22,063.4",9,"56,000",9,View More details about International Paper
+125,Duke Energy,"$23,189",-0.80%,"$3,059",42.10%,"$137,914","$54,275.9",-4,"29,060",-4,View More details about Duke Energy
+126,Southern,"$23,031",15.80%,$842,-65.60%,"$111,005","$45,024.4",19,"31,344",19,View More details about Southern
+127,Marriott International,"$22,894",34.10%,"$1,372",75.90%,"$23,948","$48,531.2",36,"177,000",36,View More details about Marriott International
+128,Avnet,"$22,872.1",-12.80%,$525.3,3.70%,"$9,699.6","$5,008.9",-20,"15,700",-20,View More details about Avnet
+129,Eli Lilly,"$22,871.3",7.80%,$-204.1,-107.50%,"$44,981","$84,542.2",3,"40,655",3,View More details about Eli Lilly
+130,Amgen,"$22,849",-0.60%,"$1,979",-74.40%,"$79,954","$122,841.5",-7,"20,800",-7,View More details about Amgen
+131,McDonald's,"$22,820.4",-7.30%,"$5,192.3",10.80%,"$33,803.7","$124,243.6",-19,"235,000",-19,View More details about McDonald's
+132,Starbucks,"$22,386.8",5%,"$2,884.7",2.40%,"$14,365.6","$81,370.2",-1,"277,000",-1,View More details about Starbucks
+133,Qualcomm,"$22,291",-5.40%,"$2,466",-56.80%,"$65,486","$82,026.9",-14,"33,800",-14,View More details about Qualcomm
+134,Dollar Tree,"$22,245.5",7.40%,"$1,714.3",91.30%,"$16,332.8","$22,523.2",2,"116,200",2,View More details about Dollar Tree
+135,PBF Energy,"$21,786.6",36.80%,$415.5,143.30%,"$8,118","$3,751.8",37,"3,165",37,View More details about PBF Energy
+136,Icahn Enterprises,"$21,744",33%,"$2,430",-,"$31,801","$9,900.8",32,"89,034",32,View More details about Icahn Enterprises
+137,Aflac,"$21,667",-4%,"$4,604",73.10%,"$137,217","$34,038.1",-11,"11,318",-11,View More details about Aflac
+138,AutoNation,"$21,534.6",-0.30%,$434.6,1%,"$10,271.5","$4,295.6",-9,"26,000",-9,View More details about AutoNation
+139,Penske Automotive Group,"$21,389",6.20%,$613.3,78.90%,"$10,540.6","$3,817.2",3,"26,000",3,View More details about Penske Automotive Group
+140,Whirlpool,"$21,253",2.60%,$350,-60.60%,"$20,038","$10,823.7",-3,"92,000",-3,View More details about Whirlpool
+141,Union Pacific,"$21,240",6.50%,"$10,712",153.10%,"$57,806","$104,261.1",2,"41,992",2,View More details about Union Pacific
+142,Southwest Airlines,"$21,171",3.70%,"$3,488",55.40%,"$25,110","$33,677.8",-4,"56,110",-4,View More details about Southwest Airlines
+143,ManpowerGroup,"$21,034.3",7%,$545.4,22.90%,"$8,883.6","$7,614.2",3,"29,000",3,View More details about ManpowerGroup
+144,Thermo Fisher Scientific,"$20,918",14.50%,"$2,225",10.10%,"$56,669","$82,952.3",10,"66,100",10,View More details about Thermo Fisher Scientific
+145,Bristol-Myers Squibb,"$20,776",6.90%,"$1,007",-77.40%,"$33,551","$103,415.3",2,"23,700",2,View More details about Bristol-Myers Squibb
+146,Halliburton,"$20,620",29.80%,$-463,-,"$25,085","$41,068.3",27,"55,000",27,View More details about Halliburton
+147,Tenet Healthcare,"$20,613",-2.20%,$-704,-,"$23,385","$2,451.9",-13,"111,980",-13,View More details about Tenet Healthcare
+148,Lear,"$20,467",10.30%,"$1,313.4",34.70%,"$11,945.9","$12,453.2",3,"165,000",3,View More details about Lear
+149,Cummins,"$20,428",16.70%,$999,-28.30%,"$18,075","$26,757.3",10,"58,600",10,View More details about Cummins
+150,Micron Technology,"$20,322",63.90%,"$5,089",-,"$35,336","$60,470.1",76,"34,100",76,View More details about Micron Technology
+151,Nucor,"$20,252.4",25%,"$1,318.7",65.60%,"$15,841.3","$19,432.2",18,"25,100",18,View More details about Nucor
+152,Molina Healthcare,"$19,883",11.80%,$-512,-1084.60%,"$8,471","$4,867.4",4,"20,000",4,View More details about Molina Healthcare
+153,Fluor,"$19,521",2.50%,$191.4,-32%,"$9,327.7","$8,005.9",-4,"56,706",-4,View More details about Fluor
+154,Altria Group,"$19,494",0.80%,"$10,222",-28.20%,"$43,202","$118,436",-6,"8,300",-6,View More details about Altria Group
+155,Paccar,"$19,456.4",14.20%,"$1,675.2",221.10%,"$23,440.2","$23,297.5",9,"25,000",9,View More details about Paccar
+156,Hartford Insurance Group,"$19,228",5.10%,"$-3,131",-449.40%,"$225,260","$18,391.7",-3,"16,400",-3,View More details about Hartford Insurance Group
+157,Kohl's,"$19,095",2.20%,$859,54.50%,"$13,340","$11,021.2",-7,"85,000",-7,View More details about Kohl's
+158,Western Digital,"$19,093",46.90%,$397,64%,"$29,860","$27,455.9",59,"67,629",59,View More details about Western Digital
+159,Jabil,"$19,063.1",3.90%,$129.1,-49.20%,"$11,096","$5,034.5",-7,"170,000",-7,View More details about Jabil
+160,Community Health Systems,"$18,477",-13.60%,"$-2,459",-,"$17,450",$453.9,-30,"86,000",-30,View More details about Community Health Systems
+161,Visa,"$18,358",21.70%,"$6,699",11.80%,"$67,977","$270,221.6",26,"15,000",26,View More details about Visa
+162,Danaher,"$18,329.7",-7.90%,"$2,492.1",-2.40%,"$46,648.6","$68,384.5",-18,"67,000",-18,View More details about Danaher
+163,Kimberly-Clark,"$18,259",0.30%,"$2,278",5.20%,"$15,151","$38,552.7",-8,"42,000",-8,View More details about Kimberly-Clark
+164,AECOM,"$18,203.4",4.60%,$339.4,253.10%,"$14,397","$5,671.2",-3,"87,000",-3,View More details about AECOM
+165,PNC Financial Services Group,"$18,035",9.80%,"$5,338",36.80%,"$380,768","$71,323.3",1,"51,632",1,View More details about PNC Financial Services Group
+166,Lumen Technologies,"$17,656",1.10%,"$1,389",121.90%,"$75,611","$17,577.8",-6,"51,000",-6,View More details about Lumen Technologies
+167,NextEra Energy,"$17,195",6.40%,"$5,378",84.70%,"$97,827","$76,894.8",3,"14,000",3,View More details about NextEra Energy
+168,PG&E,"$17,135",-3%,"$1,646",18.20%,"$68,012","$22,663.9",-11,"23,000",-11,View More details about PG&E
+169,TD Synnex,"$17,045.7",21.20%,$301.2,28.20%,"$7,698.5","$4,702.1",29,"113,600",29,View More details about TD Synnex
+170,WellCare Health Plans,"$17,007.2",19.50%,$373.7,54.40%,"$8,364.6","$8,622.2",25,"8,900",25,View More details about WellCare Health Plans
+171,Performance Food Group,"$16,761.8",4.10%,$96.3,41%,"$3,804.1","$3,104.4",-,"14,000",-,View More details about Performance Food Group
+172,Sears Holdings,"$16,702",-24.60%,$-383,-,"$7,262",$288.2,-45,"89,000",-45,View More details about Sears Holdings
+173,Synchrony,"$16,695",10.40%,"$1,935",-14%,"$95,808","$25,490.1",12,"16,000",12,View More details about Synchrony
+174,CarMax,"$16,637.1",5.10%,$627,0.60%,"$16,279.4","$11,201.7",-,"24,344",-,View More details about CarMax
+175,Bank of New York (BNY),"$16,621",6%,"$4,090",15.30%,"$371,758","$51,918.9",2,"52,500",2,View More details about Bank of New York (BNY)
+176,Freeport-McMoRan,"$16,416",4%,"$1,817",-,"$37,302","$25,438.6",-1,"25,200",-1,View More details about Freeport-McMoRan
+177,Genuine Parts,"$16,308.8",6.30%,$616.8,-10.30%,"$12,412.4","$13,182.6",3,"48,000",3,View More details about Genuine Parts
+178,Emerson Electric,"$16,301",-19.60%,"$1,518",-7.20%,"$19,589","$43,359.4",-39,"76,500",-39,View More details about Emerson Electric
+179,DaVita,"$16,038.2",5.50%,$663.6,-24.60%,"$18,948.2","$12,001.1",2,"74,500",2,View More details about DaVita
+180,Supervalu,"$16,009",-8.70%,$650,265.20%,"$3,580",$585,-22,"29,000",-22,View More details about Supervalu
+181,Gap,"$15,855",2.20%,$848,25.40%,"$7,989","$12,146.7",-3,"135,000",-3,View More details about Gap
+182,General Mills,"$15,619.8",-5.70%,"$1,657.5",-2.40%,"$21,812.6","$26,715.6",-17,"38,000",-17,View More details about General Mills
+183,Nordstrom,"$15,478",4.90%,$437,23.40%,"$8,115","$8,122.7",5,"76,000",5,View More details about Nordstrom
+184,Colgate-Palmolive,"$15,454",1.70%,"$2,024",-17.10%,"$12,676","$62,607.3",-2,"35,900",-2,View More details about Colgate-Palmolive
+185,American Electric Power,"$15,424.9",-5.80%,"$1,912.6",213.10%,"$64,729.1","$33,766.4",-18,"17,666",-18,View More details about American Electric Power
+186,XPO,"$15,380.8",5.20%,$340.2,393%,"$12,601.6","$12,210.4",5,"95,000",5,View More details about XPO
+187,Goodyear Tire & Rubber,"$15,377",1.40%,$346,-72.60%,"$17,064","$6,391.9",-3,"64,000",-3,View More details about Goodyear Tire & Rubber
+188,Omnicom Group,"$15,273.6",-0.90%,"$1,088.4",-5.20%,"$24,931.2","$16,733.5",-9,"77,300",-9,View More details about Omnicom Group
+189,CDW,"$15,191.5",8.70%,$523,23.20%,"$6,956.6","$10,716.9",10,"8,726",10,View More details about CDW
+190,Sherwin-Williams,"$14,983.8",26.40%,"$1,772.3",56.50%,"$19,958.4","$36,899",46,"52,695",46,View More details about Sherwin-Williams
+191,PPG Industries,"$14,967",-1.40%,"$1,591",81.40%,"$16,538","$27,824.4",-8,"47,200",-8,View More details about PPG Industries
+192,Texas Instruments,"$14,961",11.90%,"$3,682",2.40%,"$17,642","$102,134.9",14,"29,714",14,View More details about Texas Instruments
+193,C.H. Robinson Worldwide,"$14,869.4",13.10%,$504.9,-1.70%,"$4,235.8","$13,152.6",19,"15,074",19,View More details about C.H. Robinson Worldwide
+194,WestRock,"$14,859.7",1%,$708.2,-,"$25,089","$16,371.5",-4,"44,800",-4,View More details about WestRock
+195,Cognizant Technology Solutions,"$14,810",9.80%,"$1,504",-3.20%,"$15,221","$47,338.1",10,"260,000",10,View More details about Cognizant Technology Solutions
+196,Newell Brands,"$14,742.2",11.10%,"$2,748.8",420.80%,"$33,135.5","$12,362.9",12,"49,000",12,View More details about Newell Brands
+197,Paramount Skydance,"$14,710",2.30%,$357,-71.70%,"$20,843","$19,668",-4,"14,715",-4,View More details about Paramount Skydance
+198,Envision Healthcare,"$14,700.5",220.40%,$-228,-,"$16,572.6","$4,647.2",340,"57,750",-,View More details about Envision Healthcare
+199,Monsanto,"$14,640",8.40%,"$2,260",69.20%,"$21,333","$51,443.7",5,"21,900",5,View More details about Monsanto
+200,Aramark,"$14,604.4",1.30%,$373.9,29.90%,"$11,006.2","$9,725.1",-8,"215,000",-8,View More details about Aramark
+201,Applied Materials,"$14,537",34.30%,"$3,434",99.50%,"$19,419","$58,428.7",64,"18,400",64,View More details about Applied Materials
+202,Waste Management,"$14,485",6.40%,"$1,949",64.90%,"$21,829","$36,371.7",-1,"42,300",-1,View More details about Waste Management
+203,DISH Network,"$14,391.4",-4.70%,"$2,098.7",44.80%,"$29,773.8","$17,681.5",-17,"17,000",-17,View More details about DISH Network
+204,Illinois Tool Works,"$14,314",5.30%,"$1,687",-17.10%,"$16,780","$53,141.6",-2,"50,000",-2,View More details about Illinois Tool Works
+205,Lincoln National,"$14,257",7%,"$2,079",74.40%,"$281,763","$15,945.9",2,"9,047",2,View More details about Lincoln National
+206,HF Sinclair,"$14,251.3",35.30%,$805.4,-,"$10,692.2","$8,650.2",68,"3,522",68,View More details about HF Sinclair
+207,CBRE Group,"$14,209.6",8.70%,$691.5,20.90%,"$11,483.8","$16,042.4",7,"80,000",7,View More details about CBRE Group
+208,Textron,"$14,198",3%,$307,-68.10%,"$15,340","$15,292.9",-8,"37,000",-8,View More details about Textron
+209,Ross Stores,"$14,134.7",9.90%,"$1,362.8",21.90%,"$5,722.1","$29,799.7",10,"82,700",10,View More details about Ross Stores
+210,Principal Financial,"$14,093.2",13.70%,"$2,310.4",75.50%,"$253,941.2","$17,643",17,"15,378",17,View More details about Principal Financial
+211,D.R. Horton,"$14,091",15.90%,"$1,038.4",17.20%,"$12,184.6","$16,480.4",21,"7,735",21,View More details about D.R. Horton
+212,Marsh & McLennan,"$14,024",6.20%,"$1,492",-15.60%,"$20,429","$41,924.4",-2,"64,000",-2,View More details about Marsh & McLennan
+213,Devon Energy,"$13,949",14.40%,$898,-,"$30,241","$16,724.7",18,"3,414",18,View More details about Devon Energy
+214,AES,"$13,850",-3.10%,"$-1,161",-,"$33,112","$7,509.8",-20,"10,500",-20,View More details about AES
+215,Ecolab,"$13,838.3",5.20%,"$1,508.4",22.70%,"$19,962.4","$39,523.9",-4,"48,400",-4,View More details about Ecolab
+216,Land O'Lakes,"$13,740.4",3.80%,$314.2,28.30%,"$9,508.9",-,-7,"10,000",-7,View More details about Land O'Lakes
+217,Loews,"$13,735",4.80%,"$1,164",78%,"$79,586","$16,134.3",-4,"18,100",-4,View More details about Loews
+218,Kinder Morgan,"$13,705",5%,$183,-74.20%,"$79,055","$33,223.4",-3,"10,897",-3,View More details about Kinder Morgan
+219,FirstEnergy,"$13,627",-3.70%,"$-1,724",-,"$42,257","$16,174.8",-23,"15,617",-23,View More details about FirstEnergy
+220,Occidental Petroleum,"$13,274",27.70%,"$1,311",-,"$42,026","$49,737.9",58,"11,000",58,View More details about Occidental Petroleum
+221,Viacom,"$13,263",6.20%,"$1,874",30.30%,"$23,698","$12,918.9",3,"11,200",3,View More details about Viacom
+222,PayPal Holdings,"$13,094",20.80%,"$1,795",28.10%,"$40,774","$91,056.2",42,"18,700",42,View More details about PayPal Holdings
+223,NGL Energy Partners,"$13,022.2",10.90%,$137,-,"$6,320.4","$1,331.9",14,"2,700",14,View More details about NGL Energy Partners
+224,Celgene,"$13,003",15.80%,"$2,940",47.10%,"$30,141","$67,101.6",30,"7,467",30,View More details about Celgene
+225,Howmet Aerospace,"$12,960",4.60%,$-74,-,"$18,718","$11,123.9",3,"41,500",3,View More details about Howmet Aerospace
+226,Kellanova,"$12,923",-0.70%,"$1,269",82.90%,"$16,350","$22,531.9",-10,"32,944",-10,View More details about Kellanova
+227,Las Vegas Sands,"$12,882",12.90%,"$2,806",68%,"$20,687","$56,720.6",22,"50,500",22,View More details about Las Vegas Sands
+228,Stanley Black & Decker,"$12,747.2",11.70%,"$1,226",27%,"$19,079.9","$23,609.9",22,"57,765",22,View More details about Stanley Black & Decker
+229,Booking Holdings,"$12,681.1",18%,"$2,340.8",9.60%,"$25,451.3","$100,459.1",39,"22,900",39,View More details about Booking Holdings
+230,Lennar,"$12,646.4",15.50%,$810.5,-11.10%,"$18,745","$18,738.2",30,"9,111",30,View More details about Lennar
+231,Bath & Body Works,"$12,632.4",0.50%,$983,-15.10%,"$8,149","$10,655.2",-11,"59,200",-11,View More details about Bath & Body Works
+232,DTE Energy,"$12,607",18.60%,"$1,134",30.60%,"$33,767","$18,759.9",40,"10,200",40,View More details about DTE Energy
+233,Dominion Energy,"$12,586",7.20%,"$2,999",41.30%,"$76,585","$45,344.1",5,"16,200",5,View More details about Dominion Energy
+234,Reinsurance Group of America,"$12,515.8",8.60%,"$1,822.2",159.80%,"$60,514.8","$9,930.1",12,"2,640",12,View More details about Reinsurance Group of America
+235,J.C. Penney,"$12,506",-0.30%,$-116,-11700%,"$8,413",$942.9,-14,"98,000",-14,View More details about J.C. Penney
+236,Mastercard,"$12,497",16%,"$3,915",-3.50%,"$21,329","$184,160.6",31,"13,400",31,View More details about Mastercard
+237,BlackRock,"$12,491",12%,"$4,970",56.70%,"$220,217","$87,064.5",18,"13,900",18,View More details about BlackRock
+238,Henry Schein,"$12,461.5",7.70%,$406.3,-19.80%,"$7,811.2","$10,329.8",5,"22,000",5,View More details about Henry Schein
+239,Guardian Life Ins. Co. of America,"$12,454.5",-3.60%,$455.3,72.50%,"$75,038.2",-,-21,"9,283",-21,View More details about Guardian Life Ins. Co. of America
+240,Stryker,"$12,444",9.90%,"$1,020",-38.10%,"$22,197","$60,041.3",12,"33,000",12,View More details about Stryker
+241,Jefferies Financial Group,"$12,407.9",14.10%,$171.7,32.10%,"$47,169.1","$8,097.6",21,"12,700",21,View More details about Jefferies Financial Group
+242,VF,"$12,399.6",1.60%,$614.9,-42.80%,"$9,958.5","$29,403.3",-12,"69,000",-12,View More details about VF
+243,Automatic Data Processing,"$12,379.8",6.10%,"$1,733.4",16.10%,"$37,180","$50,302.2",-3,"58,000",-3,View More details about Automatic Data Processing
+244,Edison International,"$12,320",3.80%,$565,-56.90%,"$52,580","$20,741.1",-9,"12,521",-9,View More details about Edison International
+245,Biogen,"$12,273.9",7.20%,"$2,539.1",-31.40%,"$23,652.6","$57,930.1",3,"7,300",3,View More details about Biogen
+246,United States Steel,"$12,250",19.40%,$387,-,"$9,862","$6,199.9",33,"29,200",33,View More details about United States Steel
+247,Core-Mark Holding,"$12,225",6.20%,$33.5,-38.20%,"$1,782.5",$981.2,-,"8,413",-,View More details about Core-Mark Holding
+248,Bed Bath & Beyond,"$12,215.8",0.90%,$685.1,-18.60%,"$6,846","$2,989.2",-15,"65,000",-15,View More details about Bed Bath & Beyond
+249,Oneok,"$12,173.9",36.50%,$387.8,10.20%,"$16,845.9","$23,373.3",63,"2,470",63,View More details about Oneok
+250,Truist Financial,"$12,156",5.40%,"$2,394",-1.30%,"$221,642","$40,453.8",-5,"36,484",-5,View More details about Truist Financial
+251,Becton Dickinson,"$12,093",-3.10%,"$1,100",12.70%,"$37,734","$57,694.7",-26,"41,933",-26,View More details about Becton Dickinson
+252,Ameriprise Financial,"$12,075",2.90%,"$1,480",12.60%,"$147,470","$21,612.9",-13,"13,312",-13,View More details about Ameriprise Financial
+253,Farmers Insurance Exchange,"$12,071.8",-3.50%,$-65.4,-,"$16,164.8",-,-31,"13,015",-31,View More details about Farmers Insurance Exchange
+254,First Data,"$12,052",4%,"$1,465",248.80%,"$48,269","$14,865.4",-12,"22,000",-12,View More details about First Data
+255,Consolidated Edison,"$12,033",-0.30%,"$1,525",22.50%,"$48,111","$24,192.3",-21,"15,591",-21,View More details about Consolidated Edison
+256,Parker-Hannifin,"$12,029.3",5.90%,$983.4,21.90%,"$15,489.9","$22,755.3",-5,"56,690",-5,View More details about Parker-Hannifin
+257,Anadarko Petroleum,"$11,908",51.30%,$-456,-,"$42,086","$31,131",87,"4,400",87,View More details about Anadarko Petroleum
+258,Estée Lauder,"$11,824",5%,"$1,249",12.10%,"$11,568","$55,063.6",-5,"46,000",-5,View More details about Estée Lauder
+259,State Street,"$11,774",10.70%,"$2,177",1.60%,"$238,425","$36,688.2",12,"36,643",12,View More details about State Street
+260,Tesla,"$11,758.8",68%,"$-1,961.4",-,"$28,655.4","$44,954.7",123,"37,543",123,View More details about Tesla
+261,Netflix,"$11,692.7",32.40%,$558.9,199.40%,"$19,012.7","$128,166.7",53,"5,100",53,View More details about Netflix
+262,Alcoa,"$11,652",25%,$217,-,"$17,447","$8,371.5",38,"14,600",38,View More details about Alcoa
+263,Discover,"$11,545",10%,"$2,099",-12.30%,"$100,087","$25,430.9",14,"16,500",14,View More details about Discover
+264,Linde,"$11,437",8.60%,"$1,247",-16.90%,"$20,436","$41,433.8",11,"26,461",11,View More details about Linde
+265,CSX,"$11,408",3.10%,"$5,471",219.20%,"$35,739","$49,427.9",-8,"24,006",-8,View More details about CSX
+266,Xcel Energy,"$11,404",2.70%,"$1,148",2.20%,"$43,030","$23,106.8",-10,"11,105",-10,View More details about Xcel Energy
+267,Unum Group,"$11,286.8",2.20%,$994.2,6.70%,"$64,013.1","$10,530",-9,"9,400",-9,View More details about Unum Group
+268,Universal Health Services,"$11,278.9",7.30%,$752.3,7.10%,"$10,761.8","$11,162.6",8,"72,300",8,View More details about Universal Health Services
+269,NRG Energy,"$11,275",-8.70%,"$-2,153",-,"$23,318","$9,698.3",-40,"5,940",-40,View More details about NRG Energy
+270,EOG Resources,"$11,208.3",46.50%,"$2,582.6",-,"$29,833.1","$60,913.2",86,"2,664",86,View More details about EOG Resources
+271,Sempra,"$11,207",10.10%,$256,-81.30%,"$50,454","$29,351.4",9,"16,046",9,View More details about Sempra
+272,"Toys ""R"" Us","$11,146",-3.40%,$-612,-,"$7,262",-,-28,"65,000",-28,"View More details about Toys ""R"" Us"
+273,Group 1 Automotive,"$11,123.7",2.20%,$213.4,45.10%,"$4,871.1","$1,366.4",-12,"14,108",-12,View More details about Group 1 Automotive
+274,Entergy,"$11,074.5",2.10%,$411.6,-,"$46,707.1","$14,297.5",-11,"13,504",-11,View More details about Entergy
+275,Molson Coors Beverage,"$11,002.8",125.20%,"$1,414.2",-28.40%,"$30,246.9","$16,238",247,"17,200",-,View More details about Molson Coors Beverage
+276,L3 Technologies,"$11,002",3.80%,$677,-4.60%,"$12,729","$16,283.3",-3,"38,000",-3,View More details about L3 Technologies
+277,Ball,"$10,983",21.20%,$374,42.20%,"$17,169","$13,920.4",29,"18,300",29,View More details about Ball
+278,AutoZone,"$10,888.7",2.40%,"$1,280.9",3.20%,"$9,259.8","$17,450.3",-8,"70,035",-8,View More details about AutoZone
+279,Murphy USA,"$10,853.4",12.70%,$245.3,10.70%,"$2,331","$2,440.3",12,"6,900",12,View More details about Murphy USA
+280,MGM Resorts International,"$10,773.9",13.90%,"$1,960.3",78%,"$29,159.2","$19,844.3",17,"68,500",17,View More details about MGM Resorts International
+281,ODP,"$10,752",-20.90%,$181,-65.80%,"$6,323","$1,195.1",-78,"45,000",-78,View More details about ODP
+282,Huntsman,"$10,592",9.70%,$636,95.10%,"$10,244","$7,090.4",7,"10,000",7,View More details about Huntsman
+283,Baxter International,"$10,561",3.90%,$717,-85.60%,"$17,111","$34,979",-2,"47,000",-2,View More details about Baxter International
+284,Norfolk Southern,"$10,551",6.70%,"$5,404",224%,"$35,711","$41,226.2",-,"27,110",-,View More details about Norfolk Southern
+285,Salesforce,"$10,480",24.90%,$127.5,-29%,"$21,009.8","$85,073.5",41,"29,000",41,View More details about Salesforce
+286,Labcorp Holdings,"$10,441.4",8.30%,"$1,268.2",73.20%,"$16,568","$16,482.3",4,"60,000",4,View More details about Labcorp Holdings
+287,W.W. Grainger,"$10,424.9",2.80%,$585.7,-3.30%,"$5,804.3","$15,823.2",-5,"25,050",-5,View More details about W.W. Grainger
+288,QVC Group,"$10,404",-2.30%,"$2,441",97.70%,"$24,122","$12,587",-19,"28,255",-19,View More details about QVC Group
+289,Autoliv,"$10,382.6",3.10%,$427.1,-24.70%,"$8,549.9","$12,710",-6,"67,352",-6,View More details about Autoliv
+290,Live Nation Entertainment,"$10,337.4",23.70%,$-6,-304.50%,"$7,504.3","$8,772.2",40,"15,050",40,View More details about Live Nation Entertainment
+291,Xerox Holdings,"$10,265",-40.10%,$195,-,"$15,946","$7,329.5",-129,"36,100",-129,View More details about Xerox Holdings
+292,Leidos Holdings,"$10,170",44.40%,$366,50%,"$8,990","$9,918.2",89,"31,000",89,View More details about Leidos Holdings
+293,Corning,"$10,116",7.70%,$-497,-113.50%,"$27,494","$23,676.6",5,"46,200",5,View More details about Corning
+294,Lithia Motors,"$10,086.5",16.20%,$245.2,24.40%,"$4,683.1","$2,515.1",24,"12,899",24,View More details about Lithia Motors
+295,Expedia Group,"$10,059.8",14.70%,$378,34.10%,"$18,515.6","$16,763.9",22,"22,615",22,View More details about Expedia Group
+296,Republic Services,"$10,041.5",7%,"$1,278.4",108.70%,"$21,147","$21,832.2",3,"35,000",3,View More details about Republic Services
+297,Jacobs Solutions,"$10,022.8",-8.60%,$293.7,39.60%,"$7,380.9","$8,379.9",-38,"49,750",-38,View More details about Jacobs Solutions
+298,Sonic Automotive,"$9,867.2",1.40%,$93,-0.20%,"$3,818.5",$803.7,-11,"9,750",-11,View More details about Sonic Automotive
+299,Ally Financial,"$9,866",0.30%,$929,-12.90%,"$167,148","$11,767.4",-13,"7,900",-13,View More details about Ally Financial
+300,LKQ,"$9,848",8.40%,$533.7,15%,"$9,366.9","$11,750.1",4,"43,000",4,View More details about LKQ
+301,BorgWarner,"$9,799.3",8%,$439.9,271.20%,"$9,787.6","$10,586",4,"29,000",4,View More details about BorgWarner
+302,Fidelity National Financial,"$9,769",2.30%,$771,18.60%,"$9,151","$10,983",-9,"24,525",-9,View More details about Fidelity National Financial
+303,SunTrust Banks,"$9,741",6.30%,"$2,273",21%,"$205,962","$31,863.1",-,"23,785",-,View More details about SunTrust Banks
+304,IQVIA Holdings,"$9,739",41.60%,"$1,309",1038.30%,"$22,742","$20,433.4",86,"55,000",86,View More details about IQVIA Holdings
+305,Reliance,"$9,721",12.90%,$613.4,101.60%,"$7,751","$6,244.4",15,"14,900",15,View More details about Reliance
+306,Nvidia,"$9,714",40.60%,"$3,047",82.90%,"$11,241","$140,112",81,"11,528",81,View More details about Nvidia
+307,Voya Financial,"$9,660",-10.40%,"$-2,992",-,"$222,532","$8,686.2",-41,"6,300",-41,View More details about Voya Financial
+308,CenterPoint Energy,"$9,614",27.70%,"$1,792",314.80%,"$22,736","$11,822.3",54,"7,977",54,View More details about CenterPoint Energy
+309,Ebay,"$9,567",6.50%,"$-1,016",-114%,"$25,981","$40,726.1",1,"14,100",1,View More details about Ebay
+310,Eastman Chemical,"$9,549",6%,"$1,384",62.10%,"$15,999","$15,072.5",-1,"14,000",-1,View More details about Eastman Chemical
+311,American Family Insurance Group,"$9,545.4",8.10%,$155.6,-52.20%,"$24,233",-,4,"11,307",4,View More details about American Family Insurance Group
+312,Steel Dynamics,"$9,538.8",22.70%,$812.7,112.70%,"$6,855.7","$10,443.8",35,"7,635",35,View More details about Steel Dynamics
+313,Pacific Life,"$9,510",3.70%,"$1,365",65.70%,"$157,877",-,-11,"3,578",-11,View More details about Pacific Life
+314,Expand Energy,"$9,496",20.60%,$949,-,"$12,425","$2,745.9",29,"3,200",29,View More details about Expand Energy
+315,Mohawk Industries,"$9,491.3",5.90%,$971.6,4.40%,"$12,094.9","$17,283.1",-4,"38,800",-4,View More details about Mohawk Industries
+316,Quanta Services,"$9,466.5",23.70%,$315,58.80%,"$6,480.2","$5,281.1",39,"32,800",39,View More details about Quanta Services
+317,Advance Auto Parts,"$9,373.8",-2%,$475.5,3.50%,"$8,482.3","$8,770.1",-25,"55,500",-25,View More details about Advance Auto Parts
+318,Accendra Health,"$9,318.3",-4.20%,$72.8,-33.10%,"$3,376.3",$961.3,-30,"8,600",-30,View More details about Accendra Health
+319,United Natural Foods,"$9,274.5",9.50%,$130.2,3.50%,"$2,886.6","$2,164.6",6,"9,700",6,View More details about United Natural Foods
+320,Tenneco,"$9,274",7.80%,$207,-41.90%,"$4,842","$2,821.9",2,"32,000",2,View More details about Tenneco
+321,Conagra Brands,"$9,234.8",-34.70%,$639.3,-,"$10,096.3","$14,776.4",-124,"12,600",-124,View More details about Conagra Brands
+322,GameStop,"$9,224.6",7.20%,$34.7,-90.20%,"$5,041.6","$1,278.5",-1,"39,500",-1,View More details about GameStop
+323,Hormel Foods,"$9,167.5",-3.70%,$846.7,-4.90%,"$6,975.9","$18,173.6",-28,"20,200",-28,View More details about Hormel Foods
+324,Hilton Worldwide Holdings,"$9,140",-21.60%,"$1,259",261.80%,"$14,308","$24,957.2",-83,"163,000",-83,View More details about Hilton Worldwide Holdings
+325,Frontier Communications,"$9,128",2.60%,"$-1,804",-,"$24,884",$581.8,-12,"22,736",-12,View More details about Frontier Communications
+326,Fidelity National Information (FIS),"$9,123",-1.30%,"$1,319",132.20%,"$24,517","$31,892.6",-25,"53,000",-25,View More details about Fidelity National Information (FIS)
+327,Public Service Enterprise Group,"$9,084",0.30%,"$1,574",77.50%,"$42,716","$25,359.4",-21,"12,945",-21,View More details about Public Service Enterprise Group
+328,Boston Scientific,"$9,048",7.90%,$104,-70%,"$19,042","$37,687.8",-1,"29,000",-1,View More details about Boston Scientific
+329,O'Reilly Automotive,"$8,977.7",4.50%,"$1,133.8",9.30%,"$7,571.9","$20,606.8",-6,"60,365",-6,View More details about O'Reilly Automotive
+330,Charles Schwab,"$8,960",17.20%,"$2,354",24.60%,"$243,274","$70,312.8",27,"17,600",27,View More details about Charles Schwab
+331,Global Partners,"$8,920.6",8.30%,$58.8,-,"$2,320.2",$521.8,3,"2,000",3,View More details about Global Partners
+332,PVH,"$8,914.8",8.70%,$537.8,-2%,"$11,885.7","$11,649.4",3,"28,050",3,View More details about PVH
+333,Avis Budget Group,"$8,848",2.20%,$361,121.50%,"$17,699","$3,791.8",-14,"26,300",-14,View More details about Avis Budget Group
+334,Targa Resources,"$8,814.9",31.70%,$54,-,"$14,388.6","$9,628.5",68,"2,130",68,View More details about Targa Resources
+335,Hertz Global Holdings,"$8,803",-7.10%,$327,-,"$20,058","$1,662",-39,"37,000",-39,View More details about Hertz Global Holdings
+336,Calpine,"$8,752",30.30%,$-339,-468.50%,"$16,453",-,64,"2,290",64,View More details about Calpine
+337,Mutual of Omaha,"$8,731.9",10.60%,$862.6,141.90%,"$42,429.3",-,5,"5,896",5,View More details about Mutual of Omaha
+338,Crown Holdings,"$8,698",5%,$323,-34.90%,"$10,663","$6,815.8",-5,"24,342",-5,View More details about Crown Holdings
+339,Peter Kiewit Sons',"$8,678",1.20%,$371,-6.30%,"$5,710",-,-15,"22,000",-15,View More details about Peter Kiewit Sons'
+340,Dick's Sporting Goods,"$8,590.5",8.40%,$323.4,12.50%,"$4,203.9","$3,764.5",-,"30,300",-,View More details about Dick's Sporting Goods
+341,PulteGroup,"$8,573.3",11.80%,$447.2,-25.80%,"$9,686.6","$8,439.2",12,"4,810",12,View More details about PulteGroup
+342,Navistar International,"$8,570",5.70%,$30,-,"$6,135","$3,451.2",-5,"11,400",-5,View More details about Navistar International
+343,Thrivent Financial,"$8,527.9",-2.80%,$558.4,-5%,"$95,001.3",-,-27,"3,622",-27,View More details about Thrivent Financial
+344,DCP Midstream,"$8,462",465.30%,$229,-26.60%,"$13,878","$5,033",-,"2,650",-,View More details about DCP Midstream
+345,Air Products & Chemicals,"$8,442.4",-11.40%,"$3,000.4",375.40%,"$18,467.2","$34,817.9",-51,"15,150",-51,View More details about Air Products & Chemicals
+346,Veritiv,"$8,364.7",0.50%,$-13.3,-163.30%,"$2,708.4",$616.8,-15,"8,900",-15,View More details about Veritiv
+347,AGCO,"$8,306.5",12.10%,$186.4,16.40%,"$7,971.7","$5,157.1",23,"20,462",23,View More details about AGCO
+348,Genworth Financial,"$8,295",-0.90%,$817,-,"$105,297","$1,412.7",-19,"3,500",-19,View More details about Genworth Financial
+349,Univar Solutions,"$8,253.7",2.20%,$119.8,-,"$5,732.7","$3,920",-11,"8,600",-11,View More details about Univar Solutions
+350,News Corp.,"$8,139",-2.20%,$-738,-512.30%,"$14,552","$9,272.2",-18,"26,000",-18,View More details about News Corp.
+351,SpartanNash,"$8,128.1",5.10%,$-52.8,-193%,"$2,055.8",$620.4,-1,"11,950",-1,View More details about SpartanNash
+352,Westlake,"$8,041",58.40%,"$1,304",226.90%,"$12,076","$14,385",155,"8,799",-,View More details about Westlake
+353,Williams,"$8,031",7.10%,"$2,174",-,"$46,352","$20,567.4",14,"5,425",14,View More details about Williams
+354,Lam Research,"$8,013.6",36.10%,"$1,697.8",85.70%,"$12,122.8","$33,105.4",86,"9,400",86,View More details about Lam Research
+355,Alaska Air Group,"$7,933",33.80%,"$1,034",27%,"$10,740","$7,645.5",83,"23,156",83,View More details about Alaska Air Group
+356,Jones Lang LaSalle,"$7,932.4",16.60%,$254.2,-20.10%,"$8,014.5","$7,930.2",35,"81,900",35,View More details about Jones Lang LaSalle
+357,Anixter International,"$7,927.4",4%,$109,-9.50%,"$4,252.2","$2,522",2,"8,900",2,View More details about Anixter International
+358,Campbell's,"$7,890",-0.90%,$887,57.50%,"$7,726","$13,020.5",-19,"18,000",-19,View More details about Campbell's
+359,Interpublic Group,"$7,882.4",0.50%,$579,-4.80%,"$12,695.2","$8,854.3",-14,"50,200",-14,View More details about Interpublic Group
+360,Dover,"$7,830.4",15.20%,$811.7,59.50%,"$10,657.7","$15,182.5",32,"29,000",32,View More details about Dover
+361,Zimmer Biomet Holdings,"$7,824.1",1.80%,"$1,813.8",492.90%,"$25,964.5","$22,151.1",-9,"18,200",-9,View More details about Zimmer Biomet Holdings
+362,Dean Foods,"$7,795",1.10%,$61.6,-48.60%,"$2,503.8",$787.1,-11,"16,000",-11,View More details about Dean Foods
+363,Foot Locker,"$7,782",0.20%,$284,-57.20%,"$3,961","$5,379",-15,"32,175",-15,View More details about Foot Locker
+364,Eversource Energy,"$7,752",1.50%,$988,4.80%,"$36,220.4","$18,670.9",-6,"8,084",-6,View More details about Eversource Energy
+365,Bread Financial Holdings,"$7,719.4",8.10%,$788.7,52.90%,"$30,684.8","$11,805.5",13,"20,000",13,View More details about Bread Financial Holdings
+366,Fifth Third Bancorp,"$7,713",12%,"$2,194",40.30%,"$142,193","$21,811.7",23,"18,125",23,View More details about Fifth Third Bancorp
+367,Quest Diagnostics,"$7,709",2.60%,$772,19.70%,"$10,503","$13,619.1",-1,"45,000",-1,View More details about Quest Diagnostics
+368,EMCOR Group,"$7,687.9",1.80%,$227.2,24.90%,"$3,965.9","$4,549",-8,"32,000",-8,View More details about EMCOR Group
+369,W.R. Berkley,"$7,684.8",0.40%,$549.1,-8.80%,"$24,299.9","$8,836.1",-15,"7,722",-15,View More details about W.R. Berkley
+370,WESCO International,"$7,679",4.70%,$163.5,60.90%,"$4,735.5","$2,919.9",3,"9,100",3,View More details about WESCO International
+371,Coty,"$7,650.3",75.90%,$-422.2,-369.10%,"$22,548.2","$13,722.5",187,"22,000",-,View More details about Coty
+372,WEC Energy Group,"$7,648.5",2.40%,"$1,203.7",28.20%,"$31,590.5","$19,784.3",-4,"8,129",-4,View More details about WEC Energy Group
+373,Masco,"$7,644",3.90%,$533,8.60%,"$5,488","$12,590",-1,"26,000",-1,View More details about Masco
+374,DXC Technology,"$7,607",7.10%,$-123,-149%,"$8,663","$28,720.2",-,"60,000",-,View More details about DXC Technology
+375,Auto-Owners Insurance,"$7,603.7",12.20%,$645.7,-8.60%,"$23,694.1",-,23,"5,227",23,View More details about Auto-Owners Insurance
+376,Jones Financial (Edward Jones),"$7,597",14.60%,$872,16.90%,"$17,176",-,27,"45,000",27,View More details about Jones Financial (Edward Jones)
+377,Liberty Media,"$7,594",43.90%,"$1,354",99.10%,"$41,996","$13,815.8",114,"4,393",114,View More details about Liberty Media
+378,Erie Insurance Group,"$7,535.1",7.40%,$857.5,15.60%,"$20,669.2",-,4,"5,260",4,View More details about Erie Insurance Group
+379,Hershey,"$7,515.4",1%,$783,8.70%,"$5,553.7","$20,773.8",-10,"16,135",-10,View More details about Hershey
+380,PPL,"$7,447",-0.90%,"$1,128",-40.70%,"$41,479","$19,634.7",-15,"12,512",-15,View More details about PPL
+381,Huntington Ingalls Industries,"$7,441",5.30%,$479,-16.40%,"$6,374","$11,539.2",-1,"38,000",-1,View More details about Huntington Ingalls Industries
+382,Mosaic,"$7,409.4",3.40%,$-107.2,-136%,"$18,633.4","$9,357.9",-5,"8,500",-5,View More details about Mosaic
+383,J.M. Smucker,"$7,392.3",-5.40%,$592.3,-14%,"$15,639.7","$14,087.4",-37,"7,140",-37,View More details about J.M. Smucker
+384,Delek US Holdings,"$7,349.5",35.70%,$288.8,-,"$5,935.2","$3,415.5",96,"3,941",96,View More details about Delek US Holdings
+385,Newmont,"$7,348",-12.30%,$-98,-,"$20,563","$20,852.6",-57,"12,569",-57,View More details about Newmont
+386,Constellation Brands,"$7,331.5",12%,"$1,535.1",45.50%,"$18,602.4","$44,378.6",22,"8,700",22,View More details about Constellation Brands
+387,Ryder System,"$7,329.6",8%,$790.6,201.20%,"$11,452.2","$3,867.2",7,"36,100",7,View More details about Ryder System
+388,NOV,"$7,304",0.70%,$-237,-,"$20,206","$13,993.1",-13,"31,605",-13,View More details about NOV
+389,Adobe,"$7,301.5",24.70%,"$1,694",44.90%,"$14,535.6","$106,413",54,"17,973",54,View More details about Adobe
+390,LifePoint Health,"$7,263.1",-0.10%,$102.4,-16%,"$6,286.4","$1,832",-16,"42,000",-16,View More details about LifePoint Health
+391,Tractor Supply,"$7,256.4",7%,$422.6,-3.30%,"$2,868.8","$7,806.7",5,"21,000",5,View More details about Tractor Supply
+392,Thor Industries,"$7,247",58.20%,$374.3,45.90%,"$2,557.9","$6,068.9",148,"17,800",-,View More details about Thor Industries
+393,Dana,"$7,209",23.70%,$111,-82.70%,"$5,644","$3,741.2",54,"30,100",54,View More details about Dana
+394,Weyerhaeuser,"$7,196",-8.90%,$582,-43.30%,"$18,059","$26,463.4",-53,"9,300",-53,View More details about Weyerhaeuser
+395,J.B. Hunt Transport Services,"$7,189.6",9.70%,$686.3,58.80%,"$4,465.3","$12,857.7",12,"24,681",12,View More details about J.B. Hunt Transport Services
+396,Darden Restaurants,"$7,170.2",3.40%,$479.1,27.80%,"$5,504.2","$10,531.3",-11,"178,729",-11,View More details about Darden Restaurants
+397,Yum China Holdings,"$7,144",5.80%,$403,-19.70%,"$4,263","$16,008.5",2,"450,000",2,View More details about Yum China Holdings
+398,Blackstone,"$7,119.1",38.90%,"$1,470.8",41.50%,"$34,428.9","$21,057.9",105,"2,360",-,View More details about Blackstone
+399,Berry Global Group,"$7,095",9.30%,$340,44.10%,"$8,476","$7,191.1",14,"23,000",14,View More details about Berry Global Group
+400,Builders FirstSource,"$7,034.2",10.50%,$38.8,-73.10%,"$3,006.1","$2,264.1",21,"15,000",21,View More details about Builders FirstSource
+401,Activision Blizzard,"$7,017",6.20%,$273,-71.70%,"$18,668","$51,177.3",5,"9,800",5,View More details about Activision Blizzard
+402,JetBlue Airways,"$7,015",5.80%,"$1,147",51.10%,"$9,781","$6,540.2",1,"17,424",1,View More details about JetBlue Airways
+403,Amphenol,"$7,011.3",11.50%,$650.5,-21%,"$10,003.9","$26,311.3",21,"70,000",21,View More details about Amphenol
+404,Gold.com,"$6,989.6",3%,$7.1,-23.60%,$478.5,$86.1,-9,126,-9,View More details about Gold.com
+405,Spirit AeroSystems Holdings,"$6,983",2.80%,$354.9,-24.40%,"$5,267.8","$9,594.6",-12,"15,500",-12,View More details about Spirit AeroSystems Holdings
+406,R.R. Donnelley & Sons,"$6,939.6",0.60%,$-34.4,-,"$3,904.5",$611.8,-18,"42,700",-18,View More details about R.R. Donnelley & Sons
+407,L3Harris Technologies,"$6,939",-7.80%,$553,70.70%,"$10,090","$19,148.7",-44,"17,000",-44,View More details about L3Harris Technologies
+408,Expeditors Intl. of Washington,"$6,920.9",13.50%,$489.3,13.60%,"$3,117","$11,086.9",21,"16,500",21,View More details about Expeditors Intl. of Washington
+409,Warner Bros. Discovery,"$6,873",5.80%,$-337,-128.20%,"$22,555","$11,155.6",3,"7,000",3,View More details about Warner Bros. Discovery
+410,O-I Glass,"$6,869",2.50%,$180,-13.90%,"$9,756","$3,537.6",-9,"26,500",-9,View More details about O-I Glass
+411,Sanmina,"$6,868.6",6%,$138.8,-26.10%,"$3,847.4","$1,863.1",3,"41,250",3,View More details about Sanmina
+412,KeyCorp,"$6,868",26.70%,"$1,296",63.80%,"$137,698","$20,570.3",67,"18,415",67,View More details about KeyCorp
+413,American Financial Group,"$6,865",5.60%,$475,-26.80%,"$60,658","$9,923.2",-2,"7,600",-2,View More details about American Financial Group
+414,Oshkosh,"$6,829.6",8.80%,$285.6,32%,"$5,098.9","$5,767.9",11,"14,000",11,View More details about Oshkosh
+415,Rockwell Collins,"$6,822",29.70%,$705,-3.20%,"$17,997","$22,107.7",77,"29,000",77,View More details about Rockwell Collins
+416,Kindred Healthcare,"$6,767.6",-6.40%,$-698.4,-,"$5,232.7",$836.4,-40,"64,200",-40,View More details about Kindred Healthcare
+417,Insight Enterprises,"$6,703.6",22.20%,$90.7,7.10%,"$2,685.7","$1,251.8",56,"6,697",56,View More details about Insight Enterprises
+418,Keurig Dr Pepper,"$6,690",3.90%,"$1,076",27%,"$10,022","$21,278.1",-2,"21,000",-2,View More details about Keurig Dr Pepper
+419,American Tower,"$6,663.9",15.20%,"$1,238.9",29.50%,"$33,214.3","$64,073.4",30,"4,752",30,View More details about American Tower
+420,Fortive,"$6,656",-,"$1,044.5",-,"$10,500.6","$26,979.4",-,"26,000",-,View More details about Fortive
+421,Ralph Lauren,"$6,652.8",-10.20%,$-99.3,-125.10%,"$5,652","$9,088.2",-50,"18,250",-50,View More details about Ralph Lauren
+422,Spectrum Brands Holdings,"$6,650",3.90%,$106,-,"$35,849.7","$3,328.4",-4,"17,113",-4,View More details about Spectrum Brands Holdings
+423,Mahwah Bergen Retail Group,"$6,649.8",-4.90%,"$-1,067.3",-,"$3,871.5",$394.4,-39,"40,000",-39,View More details about Mahwah Bergen Retail Group
+424,United Rentals,"$6,641",15.30%,"$1,346",137.80%,"$15,030","$14,537.2",28,"14,800",28,View More details about United Rentals
+425,Casey's General Stores,"$6,640.6",5.30%,$177.5,-21.50%,"$3,020.1","$4,120.3",-2,"25,463",-2,View More details about Casey's General Stores
+426,Graybar Electric,"$6,631.2",3.90%,$71.6,-23.10%,"$2,261.4",-,-6,"8,500",-6,View More details about Graybar Electric
+427,Avery Dennison,"$6,613.8",8.70%,$281.8,-12.10%,"$5,136.9","$9,360.8",3,"30,000",3,View More details about Avery Dennison
+428,MasTec,"$6,607",28.70%,$347.2,164.50%,"$4,066.6","$3,873.8",74,"17,300",-,View More details about MasTec
+429,CMS Energy,"$6,583",2.90%,$460,-16.50%,"$23,050","$12,793.1",-10,"7,887",-10,View More details about CMS Energy
+430,HD Supply Holdings,"$6,534",-13.20%,$970,394.90%,"$4,318","$7,040.4",-66,"11,000",-66,View More details about HD Supply Holdings
+431,Raymond James Financial,"$6,524.9",18.20%,$636.2,20.20%,"$34,883.5","$13,019.4",38,"12,700",38,View More details about Raymond James Financial
+432,NCR Voyix,"$6,516",-0.40%,$232,-14.10%,"$7,654","$3,737.4",-23,"34,000",-23,View More details about NCR Voyix
+433,Hanesbrands,"$6,478.3",6.90%,$61.9,-88.50%,"$6,894.8","$6,637.7",-1,"67,200",-1,View More details about Hanesbrands
+434,Asbury Automotive Group,"$6,456.5",-1.10%,$139.1,-16.80%,"$2,356.7","$1,411.6",-24,"8,000",-24,View More details about Asbury Automotive Group
+435,Citizens Financial Group,"$6,454",12%,"$1,652",58.10%,"$152,336","$20,474.4",16,"17,594",16,View More details about Citizens Financial Group
+436,Packaging Corp. of America,"$6,444.9",11.50%,$668.6,48.70%,"$6,197.5","$10,633.2",14,"14,600",14,View More details about Packaging Corp. of America
+437,Alleghany,"$6,424.7",4.80%,$90.1,-80.30%,"$25,384.3","$9,460.3",-9,"4,402",-9,View More details about Alleghany
+438,APA,"$6,423",20%,"$1,304",-,"$21,922","$14,678.1",50,"3,356",50,View More details about APA
+439,Dillard's,"$6,422.7",0.10%,$221.3,30.80%,"$3,673.2","$2,288.5",-22,"31,400",-22,View More details about Dillard's
+440,Assurant,"$6,415",-14.80%,$519.6,-8.10%,"$31,843","$4,802.9",-79,"14,175",-79,View More details about Assurant
+441,Franklin Resources,"$6,392.2",-3.40%,"$1,696.7",-1.70%,"$17,534","$19,133.1",-36,"9,386",-36,View More details about Franklin Resources
+442,Owens Corning,"$6,384",12.50%,$289,-26.50%,"$8,632","$8,981.8",16,"17,000",16,View More details about Owens Corning
+443,Motorola Solutions,"$6,380",5.70%,$-155,-127.70%,"$8,208","$17,026.5",-10,"15,000",-10,View More details about Motorola Solutions
+444,NVR,"$6,322.3",8.40%,$537.5,26.40%,"$2,989.3","$10,261.9",2,"5,200",2,View More details about NVR
+445,Rockwell Automation,"$6,311.3",7.30%,$825.7,13.20%,"$7,161.7","$22,260.1",-3,"22,000",-3,View More details about Rockwell Automation
+446,TreeHouse Foods,"$6,307.1",2.10%,$-286.2,-,"$5,779.3","$2,158.7",-19,"13,489",-19,View More details about TreeHouse Foods
+447,Wynn Resorts,"$6,306.4",41.20%,$747.2,208.80%,"$12,681.7","$19,778.2",101,"25,200",-,View More details about Wynn Resorts
+448,Olin,"$6,268.4",12.90%,$549.5,-,"$9,218.3","$5,081",19,"6,400",19,View More details about Olin
+449,Dauch,"$6,266",58.70%,$337.1,40%,"$7,882.8","$1,699.4",144,"25,000",-,View More details about Dauch
+450,Old Republic International,"$6,263.1",6.10%,$560.5,20%,"$19,403.5","$5,777.5",-11,"8,700",-11,View More details about Old Republic International
+451,Chemours,"$6,183",14.50%,$746,10557.10%,"$7,293","$8,840.2",31,"7,000",31,View More details about Chemours
+452,iHeartMedia,"$6,178.2",-1.50%,$-704.4,-,"$12,257.3",$39.4,-26,"18,700",-26,View More details about iHeartMedia
+453,Ameren,"$6,177",1.70%,$523,-19.90%,"$25,945","$13,740.4",-22,"8,615",-22,View More details about Ameren
+454,Arthur J. Gallagher,"$6,159.6",10.10%,$463.1,11.80%,"$12,897.4","$12,512",8,"26,783",8,View More details about Arthur J. Gallagher
+455,Celanese,"$6,140",13.90%,$843,-6.30%,"$9,538","$13,610.8",29,"7,592",29,View More details about Celanese
+456,Sealed Air,"$6,130.6",-9.60%,$814.9,67.50%,"$5,280.3","$7,162",-59,"15,000",-59,View More details about Sealed Air
+457,UGI,"$6,120.7",7.70%,$436.6,19.70%,"$11,582.2","$7,685.3",-,"13,000",-,View More details about UGI
+458,Anywhere Real Estate,"$6,114",5.20%,$431,102.30%,"$7,337","$3,568.4",-10,"11,800",-10,View More details about Anywhere Real Estate
+459,Burlington Stores,"$6,110",9.30%,$384.9,78.30%,"$2,812.8","$9,018.1",4,"40,000",4,View More details about Burlington Stores
+460,Regions Financial,"$6,093",2.10%,"$1,263",8.60%,"$124,294","$20,860.6",-24,"21,714",-24,View More details about Regions Financial
+461,AK Steel Holding,"$6,080.5",3.40%,$6.2,-,"$4,296.1","$1,428.2",-20,"9,200",-20,View More details about AK Steel Holding
+462,Securian Financial Group,"$6,066.5",27%,$418.9,68.70%,"$51,232.4",-,70,"5,000",-,View More details about Securian Financial Group
+463,S&P Global,"$6,063",7.10%,"$1,496",-29%,"$9,425","$47,642.5",-4,"20,400",-4,View More details about S&P Global
+464,Markel Group,"$6,061.7",8%,$395.3,-13.30%,"$32,805","$16,264.1",-4,"15,600",-4,View More details about Markel Group
+465,TravelCenters of America,"$6,051.6",9.80%,$9.3,-,"$1,617.9",$143.9,5,"19,611",5,View More details about TravelCenters of America
+466,Conduent,"$6,022",-,$181,-,"$7,548","$3,923.1",-,"90,000",-,View More details about Conduent
+467,M&T Bank,"$6,018.9",5.20%,"$1,408.3",7.10%,"$118,593.5","$27,379.2",-12,"16,354",-12,View More details about M&T Bank
+468,Clorox,"$5,973",3.70%,$701,8.20%,"$4,573","$17,225",-15,"8,100",-15,View More details about Clorox
+469,AmTrust Financial Services,"$5,958.9",9.30%,$-348.9,-184.90%,"$25,218.6","$2,415.9",6,"9,300",6,View More details about AmTrust Financial Services
+470,KKR,"$5,930",71.40%,"$1,018.3",229.20%,"$45,834.7","$9,882",186,"1,184",-,View More details about KKR
+471,Ulta Beauty,"$5,884.5",21.20%,$555.2,35.50%,"$2,908.7","$12,458.9",53,"24,200",-,View More details about Ulta Beauty
+472,Yum Brands,"$5,878",-7.70%,"$1,340",-17.20%,"$5,311","$28,306.8",-50,"60,000",-50,View More details about Yum Brands
+473,Regeneron Pharmaceuticals,"$5,872.2",20.80%,"$1,198.5",33.80%,"$8,764.3","$37,086.5",50,"6,200",-,View More details about Regeneron Pharmaceuticals
+474,Windstream Holdings II,"$5,852.9",8.60%,"$-2,116.6",-,"$11,084.3",$288.5,11,"12,979",11,View More details about Windstream Holdings II
+475,Magellan Health,"$5,838.6",20.70%,$110.2,41.50%,"$2,957.2","$2,605.1",51,"10,700",-,View More details about Magellan Health
+476,Western & Southern Financial Group,"$5,836.3",8.10%,$310.4,28.70%,"$46,395.1",-,7,"2,226",7,View More details about Western & Southern Financial Group
+477,Intercontinental Exchange,"$5,834",-2.10%,"$2,514",76.80%,"$78,264","$42,132.4",-40,"4,952",-40,View More details about Intercontinental Exchange
+478,Ingredion,"$5,832",2.30%,$519,7%,"$6,080","$9,312.6",-22,"11,000",-22,View More details about Ingredion
+479,Travel + Leisure,"$5,821",4%,$871,42.60%,"$10,403","$11,411.4",-18,"39,200",-18,View More details about Travel + Leisure
+480,Toll Brothers,"$5,815.1",12.50%,$535.5,40.10%,"$9,445.2","$6,566.3",17,"4,500",17,View More details about Toll Brothers
+481,Seaboard,"$5,809",8%,$247,-20.80%,"$5,161","$4,992.4",5,"11,800",5,View More details about Seaboard
+482,Booz Allen Hamilton Holding,"$5,804.3",7.40%,$252.5,-14.10%,"$3,373.1","$5,616.8",-1,"23,300",-1,View More details about Booz Allen Hamilton Holding
+483,First American Financial,"$5,772.4",3.50%,$423,23.30%,"$9,573.2","$6,511.1",-19,"18,705",-19,View More details about First American Financial
+484,Cincinnati Financial,"$5,732.4",5.20%,"$1,045",76.90%,"$21,843.1","$12,185.3",-8,"4,925",-8,View More details about Cincinnati Financial
+485,Avon Products,"$5,715.6",-2.30%,$22,-,"$3,697.9","$1,250.7",-41,"25,000",-41,View More details about Avon Products
+486,Northern Trust,"$5,715.5",11.10%,"$1,199",16.10%,"$138,590.5","$23,264.3",15,"18,100",-,View More details about Northern Trust
+487,Fiserv,"$5,696",3.50%,"$1,246",34%,"$10,289","$29,466.4",-16,"24,000",-16,View More details about Fiserv
+488,Harley-Davidson,"$5,647.2",-5.80%,$521.8,-24.60%,"$9,972.7","$7,198",-53,"5,800",-53,View More details about Harley-Davidson
+489,Cheniere Energy,"$5,601",336.50%,$-393,-,"$27,906","$12,702.8",-,"1,230",-,View More details about Cheniere Energy
+490,Patterson,"$5,593.1",0.70%,$170.9,-8.70%,"$3,507.9","$2,103.7",-24,"7,500",-24,View More details about Patterson
+491,Peabody Energy,"$5,578.8",18.30%,-,-,"$8,181.2","$4,648.8",42,"7,100",-,View More details about Peabody Energy
+492,ON Semiconductor,"$5,543.1",41.90%,$810.7,345.20%,"$7,195.1","$10,406.3",106,"34,000",-,View More details about ON Semiconductor
+493,Simon Property Group,"$5,538.6",1.90%,"$1,948",5.90%,"$32,257.6","$47,861",-16,"4,150",-16,View More details about Simon Property Group
+494,Western Union,"$5,524.3",1.90%,$-557.1,-320%,"$9,231.4","$8,857.4",-16,"11,500",-16,View More details about Western Union
+495,NetApp,"$5,519",-0.50%,$509,122.30%,"$9,493","$16,528.2",-27,"10,100",-27,View More details about NetApp
+496,Polaris,"$5,504.8",19.80%,$172.5,-19%,"$3,089.6","$7,223.7",41,"11,000",-,View More details about Polaris
+497,Pioneer Natural Resources,"$5,455",42.70%,$833,-,"$17,003","$29,254.3",109,"3,836",-,View More details about Pioneer Natural Resources
+498,ABM Industries,"$5,453.6",6%,$3.8,-93.40%,"$3,812.6","$2,199.6",2,"140,000",2,View More details about ABM Industries
+499,Vistra,"$5,430",5.20%,$-254,-,"$14,600","$8,924.6",-,"4,150",-,View More details about Vistra
+500,Cintas,"$5,428.9",10.70%,$480.7,-30.70%,"$6,844.1","$18,164.9",20,"42,000",-,View More details about Cintas
+501,Hess,"$5,405",11.60%,"$-4,074",-,"$23,112","$15,948",24,"2,075",-,View More details about Hess
+502,Host Hotels & Resorts,"$5,387",-1.80%,$564,-26%,"$11,693","$13,821.8",-30,205,-,View More details about Host Hotels & Resorts

@@ -1,0 +1,512 @@
+{
+  "ceo": "Haviv Ilan",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "s3mRpEHKvblPyJUNxTG6JEiWthA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S63SKqRyVk2tYSaHwPMA0cmLTz8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VpEEcpUG4oc"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-20T13:00:30Z",
+          "channelId": "UCVGd62P3vVvJ8TV4aEHQvHQ",
+          "title": "Rich Templeton is replaced as CEO of Texas Instruments by existing operations chief Haviv Ilan.",
+          "description": "Welcome to my channel Elastic World 24 Please stay with me, those who are new to my channel, subscribe to the channel, and if ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elastic World 24",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-20T13:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QEtyALBt3t0Lwj9tsQDcc2GVi7k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QS_KT4eaNrk"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-15T19:06:45Z",
+          "channelId": "UCFVUStJ4azXbWMhFO4yTELg",
+          "title": "Utah officials announce $11 billion expansion by Texas Instruments - FULL PRESS CONFERENCE",
+          "description": "Utah Gov. Spencer Cox joins leaders of Texas Instruments in a press conference at the Utah State Capitol Building to announce ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QS_KT4eaNrk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QS_KT4eaNrk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QS_KT4eaNrk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KUTV 2 News Salt Lake City",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-15T19:06:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "joPkzPByIsxsRfd5D96CRIb0xr4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ysz4Nc2rHH8"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-31T16:35:11Z",
+          "channelId": "UCw3_6RgkhkNLpNAhIX36Xig",
+          "title": "Islam Makhachev SENT Charles Oliveira BACK TO THE BRONX",
+          "description": "shorts Islam Makhachev vs Charles Oliveira Full Fight Highlights UFC PRIDE Bellator ONE Khabib Nurmagomedov vs Conor ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MMA Clipmaster",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-31T16:35:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZUNblfQf8iacE3Y81lIp8WC2hTE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZoHhRY4b9cU"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-10T17:13:54Z",
+          "channelId": "UC59U4LI90-afsysLT8iIhAA",
+          "title": "Unicorn noa kirel TikTok Eurovision",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "\u05e7\u05d9\u05dd \u05d7\u05d1\u05d9\u05d1  Kim Haviv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-10T17:13:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2pzbkk4t8MwH0xTptTSjq6he0VU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wr_pS9FQf08"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-02T20:02:59Z",
+          "channelId": "UCc9cGV0srJhwKSSxBwLMi5A",
+          "title": "Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict with Oren Kessler",
+          "description": "Fully to understand the two-state solution in the context of the Palestinian-Israeli conflict means going back to its origins in the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Middle East Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-02T20:02:59Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "7rn6PSdPpFrOMOCPu1RwenT4MHE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "xHXNLJutIKagK3xph8ZB2-NIL2k",
+        "id": "VpEEcpUG4oc",
+        "snippet": {
+          "publishedAt": "2023-01-20T13:00:30Z",
+          "channelId": "UCVGd62P3vVvJ8TV4aEHQvHQ",
+          "title": "Rich Templeton is replaced as CEO of Texas Instruments by existing operations chief Haviv Ilan.",
+          "description": "Welcome to my channel Elastic World 24\n\n\nPlease stay with me, those who are new to my channel, subscribe to the channel, and if you like the video, then give 1 like because your 1 like will encourage me to make the next video.\n\nSkip:- called \n\nPhoto- called \n\n\nFair Use Disclaimer:\nThis channel may use some copyrighted materials without specific authorization of the owner but contents used here falls under the \u201cFair Use\u201d Copyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.,",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Elastic World 24",
+          "tags": [
+            "texus",
+            "Texas Instruments",
+            "Rich Templeton",
+            "chief Haviv Ilan.",
+            "company's CEO",
+            "Templeton",
+            "Brian Crutcher",
+            "Crutcher",
+            "CBNS",
+            "CNN",
+            "CNW"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Rich Templeton is replaced as CEO of Texas Instruments by existing operations chief Haviv Ilan.",
+            "description": "Welcome to my channel Elastic World 24\n\n\nPlease stay with me, those who are new to my channel, subscribe to the channel, and if you like the video, then give 1 like because your 1 like will encourage me to make the next video.\n\nSkip:- called \n\nPhoto- called \n\n\nFair Use Disclaimer:\nThis channel may use some copyrighted materials without specific authorization of the owner but contents used here falls under the \u201cFair Use\u201d Copyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.,"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "573",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o-I6X00lqF82L1fQvFDQ16hxq-g",
+        "id": "QS_KT4eaNrk",
+        "snippet": {
+          "publishedAt": "2023-02-15T19:06:45Z",
+          "channelId": "UCFVUStJ4azXbWMhFO4yTELg",
+          "title": "Utah officials announce $11 billion expansion by Texas Instruments - FULL PRESS CONFERENCE",
+          "description": "Utah Gov. Spencer Cox joins leaders of Texas Instruments in a press conference at the Utah State Capitol Building to announce an $11 billion expansion of the company's Lehi facility. \n\nFULL STORY: https://kutv.com/news/local/texas-instruments-lehi-utah-800-more-jobs-investment-11-billion-dollar-governor-spencer-cox-news-conference-haviv-ilan-ceo\n\n_______________\nStay up to date with our social media:\n\nKUTV Now on Facebook: https://www.facebook.com/KUTV2News?ref=hl\nKUTV Now on Twitter:  https://twitter.com/kutv2news\nSubscribe to KUTV Now on YouTube: https://www.youtube.com/channel/UCFVUStJ4azXbWMhFO4yTELg/?sub_confirmation=1\n\nDaily News Digest:  https://www.youtube.com/playlist?list=PLWgevsFOp-yMyVkHpdDcllspkj9L-ui7p\n\nFor more information, visit https://kutv.com/\n\nHave a news tip? Send it directly to us: newsdesk@kutv2.com\n\nEmail us: newsdesk@kutv2.com\nCall the Newsroom: 801.839.1234\n\nKUTV is a UT based station and a CBS Television affiliate owned and operated by Sinclair Broadcast Group. Sinclair Broadcast Group, Inc. is one of the largest and most diversified television broadcasting companies in the country today.Sinclair owns and operates, programs or provides sales services to 163 television stations in 77 markets, after pending transactions. Sinclair's television group reaches approximately 38.7% of US television households and includes FOX, ABC, MyTV, CW, CBS, NBC, Univision and Azteca affiliates.\n\n#kutv #saltlakecity #news #utah",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QS_KT4eaNrk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QS_KT4eaNrk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QS_KT4eaNrk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KUTV 2 News Salt Lake City",
+          "tags": [
+            "KUTV",
+            "Utah",
+            "News",
+            "Channel 2",
+            "CBS",
+            "Salt Lake City"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Utah officials announce $11 billion expansion by Texas Instruments - FULL PRESS CONFERENCE",
+            "description": "Utah Gov. Spencer Cox joins leaders of Texas Instruments in a press conference at the Utah State Capitol Building to announce an $11 billion expansion of the company's Lehi facility. \n\nFULL STORY: https://kutv.com/news/local/texas-instruments-lehi-utah-800-more-jobs-investment-11-billion-dollar-governor-spencer-cox-news-conference-haviv-ilan-ceo\n\n_______________\nStay up to date with our social media:\n\nKUTV Now on Facebook: https://www.facebook.com/KUTV2News?ref=hl\nKUTV Now on Twitter:  https://twitter.com/kutv2news\nSubscribe to KUTV Now on YouTube: https://www.youtube.com/channel/UCFVUStJ4azXbWMhFO4yTELg/?sub_confirmation=1\n\nDaily News Digest:  https://www.youtube.com/playlist?list=PLWgevsFOp-yMyVkHpdDcllspkj9L-ui7p\n\nFor more information, visit https://kutv.com/\n\nHave a news tip? Send it directly to us: newsdesk@kutv2.com\n\nEmail us: newsdesk@kutv2.com\nCall the Newsroom: 801.839.1234\n\nKUTV is a UT based station and a CBS Television affiliate owned and operated by Sinclair Broadcast Group. Sinclair Broadcast Group, Inc. is one of the largest and most diversified television broadcasting companies in the country today.Sinclair owns and operates, programs or provides sales services to 163 television stations in 77 markets, after pending transactions. Sinclair's television group reaches approximately 38.7% of US television households and includes FOX, ABC, MyTV, CW, CBS, NBC, Univision and Azteca affiliates.\n\n#kutv #saltlakecity #news #utah"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14M36S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "669",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DySGP6MIf-POnCFlpHDSc88n3j0",
+        "id": "ysz4Nc2rHH8",
+        "snippet": {
+          "publishedAt": "2023-01-31T16:35:11Z",
+          "channelId": "UCw3_6RgkhkNLpNAhIX36Xig",
+          "title": "Islam Makhachev SENT Charles Oliveira BACK TO THE BRONX",
+          "description": "#shorts\nIslam Makhachev vs Charles Oliveira Full Fight Highlights UFC PRIDE Bellator ONE Khabib Nurmagomedov vs Conor McGregor Full Fight Highlights Islam Makhachev vs Alexander Volkanovski Full Fight Jon Jones vs Francis Ngannou Full Fight\n\n*Buy me a coffee* if you like my videos and wanna support me and my channel! \nhttps://www.buymeacoffee.com/MMAClipmaster\n\nGet 10% OFF rash guards and MMA training equipment with code: MMACLIP at XMARTIAL.com\nhttps://www.xmartial.com/?ref=MMACLIP\n\nBeat\n\nSubscribe to UFC Fight Pass: https://welcome.ufcfightpass.com/\n\nFor any Copyright Concerns, Contact us at our E-Mail address MMAClipmaster@gmail.com\nWe will act upon your query immediately.\n\nAFFILIATE DISCLOSURE:\nThis video and description may contain affiliate links, which means that if you click on one of the product links, I\u2019ll receive a small commission. I won't put anything here that I haven't verified and/or personally used myself.\n\n#mixedmartialarts #mma #ufc #bjj #brazilianjiujitsu #wrestling #sambo #boxing #muaythai #kickboxing #conormcgregor #khabibnurmagomedov #natediaz #nickdiaz #jorgemasvidal #gamebredfighter #propertwelve #dublin #russia #ireland #jonjones #danielcormier #maxholloway #francisngannou #fighter #motivation #hardwork #champion #kamaruusman #israeladesanya #thelaststylebender #stipemiocic #stockton #georgesaintpierre #andersonsilva #demetriousjohnson #seanomalley #floydmayweather #mannypacquiao #nickdiazarmy #short #shorts #themaclife #JorgeMasvidal #KamaruUsman #ColbyCovington #Conor #Mcgregor #Fighting #FightingClips #DanaWhite #Bellator #UFCRinggirl #UFCgirl #IsraelAdesanya #PauloCosta #Adesanya #khabib #khamzatchimaev #khamzat #chimaev #paddy #paddythebaddy #paddypimblett #israeladesanya #shorts #bellator #bjj #boxing #brazilianjiujitsu #breakingnews #asmr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ysz4Nc2rHH8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MMA Clipmaster",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Islam Makhachev SENT Charles Oliveira BACK TO THE BRONX",
+            "description": "#shorts\nIslam Makhachev vs Charles Oliveira Full Fight Highlights UFC PRIDE Bellator ONE Khabib Nurmagomedov vs Conor McGregor Full Fight Highlights Islam Makhachev vs Alexander Volkanovski Full Fight Jon Jones vs Francis Ngannou Full Fight\n\n*Buy me a coffee* if you like my videos and wanna support me and my channel! \nhttps://www.buymeacoffee.com/MMAClipmaster\n\nGet 10% OFF rash guards and MMA training equipment with code: MMACLIP at XMARTIAL.com\nhttps://www.xmartial.com/?ref=MMACLIP\n\nBeat\n\nSubscribe to UFC Fight Pass: https://welcome.ufcfightpass.com/\n\nFor any Copyright Concerns, Contact us at our E-Mail address MMAClipmaster@gmail.com\nWe will act upon your query immediately.\n\nAFFILIATE DISCLOSURE:\nThis video and description may contain affiliate links, which means that if you click on one of the product links, I\u2019ll receive a small commission. I won't put anything here that I haven't verified and/or personally used myself.\n\n#mixedmartialarts #mma #ufc #bjj #brazilianjiujitsu #wrestling #sambo #boxing #muaythai #kickboxing #conormcgregor #khabibnurmagomedov #natediaz #nickdiaz #jorgemasvidal #gamebredfighter #propertwelve #dublin #russia #ireland #jonjones #danielcormier #maxholloway #francisngannou #fighter #motivation #hardwork #champion #kamaruusman #israeladesanya #thelaststylebender #stipemiocic #stockton #georgesaintpierre #andersonsilva #demetriousjohnson #seanomalley #floydmayweather #mannypacquiao #nickdiazarmy #short #shorts #themaclife #JorgeMasvidal #KamaruUsman #ColbyCovington #Conor #Mcgregor #Fighting #FightingClips #DanaWhite #Bellator #UFCRinggirl #UFCgirl #IsraelAdesanya #PauloCosta #Adesanya #khabib #khamzatchimaev #khamzat #chimaev #paddy #paddythebaddy #paddypimblett #israeladesanya #shorts #bellator #bjj #boxing #brazilianjiujitsu #breakingnews #asmr"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "KR"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9117273",
+          "likeCount": "347552",
+          "favoriteCount": "0",
+          "commentCount": "3336"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DRnzi9nMK208DFRk11aeaX38UhU",
+        "id": "ZoHhRY4b9cU",
+        "snippet": {
+          "publishedAt": "2023-03-10T17:13:54Z",
+          "channelId": "UC59U4LI90-afsysLT8iIhAA",
+          "title": "Unicorn noa kirel TikTok Eurovision",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZoHhRY4b9cU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "\u05e7\u05d9\u05dd \u05d7\u05d1\u05d9\u05d1  Kim Haviv",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Unicorn noa kirel TikTok Eurovision",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3223",
+          "likeCount": "127",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "p3iWmw67Gg8tnlRV_dnhGW14rRI",
+        "id": "wr_pS9FQf08",
+        "snippet": {
+          "publishedAt": "2023-06-02T20:02:59Z",
+          "channelId": "UCc9cGV0srJhwKSSxBwLMi5A",
+          "title": "Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict with Oren Kessler",
+          "description": "Fully to understand the two-state solution in the context of the Palestinian-Israeli conflict means going back to its origins in the 1930s, and specifically to the Arab Revolt and the Peel Commission Report. How did that pivotal moment shape the region's trajectory? What continuities exist? What lessons can we learn today from the debates then?\n\nOren Kessler is the author of Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict [Rowman & Littlefield]. A Tel Aviv-based analyst, he has worked at the Foundation for Defense of Democracies, the Henry Jackson Society, the Jerusalem Post, and Haaretz English. He holds a BA from the University of Toronto and an MA from Reichman University (previously, IDC Herzliya).\n\n#MEFWebinars",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wr_pS9FQf08/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Middle East Forum",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict with Oren Kessler",
+            "description": "Fully to understand the two-state solution in the context of the Palestinian-Israeli conflict means going back to its origins in the 1930s, and specifically to the Arab Revolt and the Peel Commission Report. How did that pivotal moment shape the region's trajectory? What continuities exist? What lessons can we learn today from the debates then?\n\nOren Kessler is the author of Palestine 1936: The Great Revolt and the Roots of the Middle East Conflict [Rowman & Littlefield]. A Tel Aviv-based analyst, he has worked at the Foundation for Defense of Democracies, the Henry Jackson Society, the Jerusalem Post, and Haaretz English. He holds a BA from the University of Toronto and an MA from Reichman University (previously, IDC Herzliya).\n\n#MEFWebinars"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT37M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3214",
+          "likeCount": "76",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

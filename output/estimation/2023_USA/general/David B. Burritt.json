@@ -1,0 +1,742 @@
+{
+  "ceo": "David B. Burritt",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Uc-Fu4Sfwl7g89-RVLMHtsXv71U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j4OMoWwFeV3zFQj5OaNpqlZ253w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1aHbd3Maalw"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-24T18:39:39Z",
+          "channelId": "UC78sgkSUuxXaUez7NTl43bQ",
+          "title": "A Strong Culture For A Carbon Neutral Future | With Dave Burritt",
+          "description": "On this week's episode of The Leader Show on Newsweek, we are joined by Dave Burritt, the CEO of US Steel, who delves into ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Most Loved Workplaces\u00ae",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-24T18:39:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QfQE-qD4ftvlRYWtNNuwJ_9oP70",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rDdoUbCFn24"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-22T07:00:30Z",
+          "channelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+          "title": "No.1 Habit &amp; Procrastination Expert: We&#39;ve Got ADHD Wrong! Break Any Habit &amp; Never Be Distracted!",
+          "description": "In this new episode Steven sits down with the American behavioural design expert, Nir Eyal. Topics: 00:00 Intro 02:02 Being ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Diary Of A CEO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-22T07:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6VMUac6ZMM4Q3Zxld1wjh4bhDRo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hdNTi46BFpw"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T17:08:39Z",
+          "channelId": "UCQNDoTI2g7_daH6zL_9rvWg",
+          "title": "When The Mailman EATS Your Package",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Amyy Woahh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T17:08:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BLQnCZZaTsk_oC-FmK8IZvbS6wY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0drJX8cEyfA"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-01T07:35:32Z",
+          "channelId": "UCiKE6mqbKmGGlNAtccn04MA",
+          "title": "WATCH LIVE: CBC Vancouver News at 11 for Feb 28 - B.C. budget to pay for free contraception",
+          "description": "Watch CBC Vancouver News with host Dan Burritt for the latest on the most important news stories happening across B.C. He's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CBC British Columbia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-01T07:35:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "75F9VuLjBDOPnEm0grsfaRb0SO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AfDkezAfcNk"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-13T14:48:46Z",
+          "channelId": "UCYW_g-CCivqSesVrMPrNFlg",
+          "title": "Marek PASIECZNY | The Elements: Triple Concerto | feat. Bion Tsang, Thomas Burritt &amp; Joe Williams",
+          "description": "stream / download https://li.sten.to/TheElements The Elements: Triple Concerto for Guitar, Cello, Percussion and Guitar Orchestra ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marek Pasieczny",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-13T14:48:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Yj3hUgdpxl_kqPYShz0vBhmaeqc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jv-A2tz_eHQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-31T04:00:07Z",
+          "channelId": "UCpxWe6YJbM8eFPNU2Y9qLZw",
+          "title": "\u201cPERCUZZ!!\u201d on RTHK \u201cThe Works\u201d - M.A.R.B.L.E.S. Percussion x Justin Siu &amp; Samuel Chan",
+          "description": "PERCUZZ\u201d - \u201cpercuss\u201d x \u201cjazz\u201d \u2013 percussion music in a jazz style. Or is it jazz in a percussive style? This production is one of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lauren Yuen",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-31T04:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7RmpAlgoF8E02_2uO_uB_e9mFjQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EDhTaGNldYY"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-10T10:37:30Z",
+          "channelId": "UCff4paWdSTZQcW3e3iyFD0Q",
+          "title": "SNUP - &#39;Fandango 13&#39; by Michael Burrit",
+          "description": "_2023 \uc11c\uc6b8\ub300\ud559\uad50 \ud0c0\uc545\uae30 \uc559\uc0c1\ube14 \uc815\uae30\uc5f0\uc8fc\ud68c 2023 SNUP Concert film _\uc5f0\uc8fc\uc790: \uc784\ubcd1\ud604, \ud55c\ubc94\uaddc, \ubc15\ucc44\ub9bc, \uae40\ub098\uc601, \uc624\uac00\uc740, \uae40\uc2dc\uc6b0 Artist ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "\uc11c\uc6b8\ub300\ud559\uad50 \uc74c\uc545\ub300\ud559 \ud0c0\uc545\uc804\uacf5SNUP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-10T10:37:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "jqbXhOQzQtK39VsCYeGJmedCRH4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "e5tAF6C5ZUVPkGDAtq5nVZW3Cds",
+        "id": "1aHbd3Maalw",
+        "snippet": {
+          "publishedAt": "2023-03-24T18:39:39Z",
+          "channelId": "UC78sgkSUuxXaUez7NTl43bQ",
+          "title": "A Strong Culture For A Carbon Neutral Future | With Dave Burritt",
+          "description": "On this week\u2019s episode of The Leader Show on Newsweek, we are joined by Dave Burritt, the CEO of US Steel, who delves into the company's transformation journey, focusing on the balance between purpose, profit, and planet.\n\nIn this episode, our host Louis Carter has a thought-provoking discussion with David Burritt; shedding light on the challenges and opportunities in the steel industry. They discuss the importance of safety in the workplace, the role of sustainability, and how US Steel has internalized \"Made in America\" as a key business principle.\n\nDavid further suggests that an innovative and collaborative environment, along with a culture of trust and respect can not only help boost productivity but also helps make a company agile with consistent improvement.\n\nYou can read the episode summary here: https://mostlovedworkplace.com/podcast/a-strong-culture-for-a-carbon-neutral-future/\n\nLet us know your thoughts on this insightful interview in the comments!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Most Loved Workplaces\u00ae",
+          "tags": [
+            "Most Loved Workplace",
+            "The Leader Show",
+            "louis carter",
+            "Lead With Lou",
+            "LEADER on Newsweek",
+            "us steel company",
+            "us steel",
+            "David B. Burritt",
+            "Dave Buritt",
+            "carbon neutral future",
+            "sustainable steel",
+            "made in america",
+            "purpose",
+            "profit",
+            "planet",
+            "purpose profit and planet",
+            "strong culture",
+            "newsweek",
+            "A strong culture for a carbon neutral future"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A Strong Culture For A Carbon Neutral Future | With Dave Burritt",
+            "description": "On this week\u2019s episode of The Leader Show on Newsweek, we are joined by Dave Burritt, the CEO of US Steel, who delves into the company's transformation journey, focusing on the balance between purpose, profit, and planet.\n\nIn this episode, our host Louis Carter has a thought-provoking discussion with David Burritt; shedding light on the challenges and opportunities in the steel industry. They discuss the importance of safety in the workplace, the role of sustainability, and how US Steel has internalized \"Made in America\" as a key business principle.\n\nDavid further suggests that an innovative and collaborative environment, along with a culture of trust and respect can not only help boost productivity but also helps make a company agile with consistent improvement.\n\nYou can read the episode summary here: https://mostlovedworkplace.com/podcast/a-strong-culture-for-a-carbon-neutral-future/\n\nLet us know your thoughts on this insightful interview in the comments!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT37M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cgqMOlLVGavc_uaDZxdcaDP-tVc",
+        "id": "rDdoUbCFn24",
+        "snippet": {
+          "publishedAt": "2023-05-22T07:00:30Z",
+          "channelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+          "title": "No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted!",
+          "description": "In this new episode Steven sits down with the American behavioural design expert, Nir Eyal.\n\nTopics:\n00:00 Intro\n02:02 Being indistractable\n10:21 4 steps to avoid distractions\n17:37 10-minute rule to beat procrastination\n27:40 Prevent distraction & improve sex life\n34:56 How to become disciplined & have strong willpower\n47:33 The power of time allocation\n53:33 Stop burnout\n01:00:27 Stop blaming social media\n01:10:17 Overcoming our traumas and improving confidence\n01:20:39 Why is there a rise in ADHD?\n01:37:31 Last guest\u2019s question\n\nFollow Nir:\nTwitter: https://bit.ly/3BJR9uv\nInstagram: https://bit.ly/43dDHuL\n\nYou can purchase Nir\u2019s books here:\nIndistractable: https://bit.ly/3pSfiwi\nHook: https://bit.ly/42WDgW0\n\nJoin this channel to get access to perks:\nhttps://bit.ly/3Dpmgx5\n\nFollow me:\u00a0\nInstagram: http://bit.ly/3nIkGAZ\nTwitter: http://bit.ly/3ztHuHm\nLinkedin: https://bit.ly/41Fl95Q\nTelegram: http://bit.ly/3nJYxST\n\nSponsors:\nHuel: https://g2ul0.app.link/G4RjcdKNKsb\nBluejeans: https://g2ul0.app.link/NCgpGjVNKsb\nZoe: http://joinzoe.com with an exclusive code CEO10 for 10% off",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rDdoUbCFn24/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Diary Of A CEO",
+          "tags": [
+            "The Diary Of A CEO",
+            "steven bartlett steve bartlett",
+            "podcast",
+            "the diary of a CEO podcast",
+            "life lessons",
+            "CEO",
+            "break bad habits in 10min",
+            "stop procastination",
+            "adhd diagnosis",
+            "is adhd real?",
+            "stay focused",
+            "hacks to stay motivated",
+            "tips to stop procastination"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "No.1 Habit & Procrastination Expert: We've Got ADHD Wrong! Break Any Habit & Never Be Distracted!",
+            "description": "In this new episode Steven sits down with the American behavioural design expert, Nir Eyal.\n\nTopics:\n00:00 Intro\n02:02 Being indistractable\n10:21 4 steps to avoid distractions\n17:37 10-minute rule to beat procrastination\n27:40 Prevent distraction & improve sex life\n34:56 How to become disciplined & have strong willpower\n47:33 The power of time allocation\n53:33 Stop burnout\n01:00:27 Stop blaming social media\n01:10:17 Overcoming our traumas and improving confidence\n01:20:39 Why is there a rise in ADHD?\n01:37:31 Last guest\u2019s question\n\nFollow Nir:\nTwitter: https://bit.ly/3BJR9uv\nInstagram: https://bit.ly/43dDHuL\n\nYou can purchase Nir\u2019s books here:\nIndistractable: https://bit.ly/3pSfiwi\nHook: https://bit.ly/42WDgW0\n\nJoin this channel to get access to perks:\nhttps://bit.ly/3Dpmgx5\n\nFollow me:\u00a0\nInstagram: http://bit.ly/3nIkGAZ\nTwitter: http://bit.ly/3ztHuHm\nLinkedin: https://bit.ly/41Fl95Q\nTelegram: http://bit.ly/3nJYxST\n\nSponsors:\nHuel: https://g2ul0.app.link/G4RjcdKNKsb\nBluejeans: https://g2ul0.app.link/NCgpGjVNKsb\nZoe: http://joinzoe.com with an exclusive code CEO10 for 10% off"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H41M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2609756",
+          "likeCount": "65237",
+          "favoriteCount": "0",
+          "commentCount": "3864"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lRZaC6UO6QrM6u6EN4IjU3jKyao",
+        "id": "hdNTi46BFpw",
+        "snippet": {
+          "publishedAt": "2023-07-25T17:08:39Z",
+          "channelId": "UCQNDoTI2g7_daH6zL_9rvWg",
+          "title": "When The Mailman EATS Your Package",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hdNTi46BFpw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Amyy Woahh",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "When The Mailman EATS Your Package",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "47727714",
+          "likeCount": "605663",
+          "favoriteCount": "0",
+          "commentCount": "2310"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vLeTlAU1-HsrFid2Qr5nImgnVkQ",
+        "id": "0drJX8cEyfA",
+        "snippet": {
+          "publishedAt": "2023-03-01T07:35:32Z",
+          "channelId": "UCiKE6mqbKmGGlNAtccn04MA",
+          "title": "WATCH LIVE: CBC Vancouver News at 11 for Feb 28 - B.C. budget to pay for free contraception",
+          "description": "Watch CBC Vancouver News with host Dan Burritt for the latest on the most important news stories happening across B.C. He's joined by Amy Bell, bringing you the most up-to-date weather forecasts.\n#livenews #cbcvancouver #vancouver #britishcolumbia \n\nConnect with CBC Vancouver online:\nWebsite: https://www.cbc.ca/bc\nTikTok: https://www.tiktok.com/@cbcvancouver\nInstagram: https://www.instagram.com/cbcvancouver\nFacebook: https://www.facebook.com/CBCVancouver\nTwitter:\nhttps://twitter.com/CBCVancouver\nhttps://twitter.com/cbcnewsbc",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0drJX8cEyfA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CBC British Columbia",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "WATCH LIVE: CBC Vancouver News at 11 for Feb 28 - B.C. budget to pay for free contraception",
+            "description": "Watch CBC Vancouver News with host Dan Burritt for the latest on the most important news stories happening across B.C. He's joined by Amy Bell, bringing you the most up-to-date weather forecasts.\n#livenews #cbcvancouver #vancouver #britishcolumbia \n\nConnect with CBC Vancouver online:\nWebsite: https://www.cbc.ca/bc\nTikTok: https://www.tiktok.com/@cbcvancouver\nInstagram: https://www.instagram.com/cbcvancouver\nFacebook: https://www.facebook.com/CBCVancouver\nTwitter:\nhttps://twitter.com/CBCVancouver\nhttps://twitter.com/cbcnewsbc"
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT35M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2358",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KA2N3lJlrrnXa4eIKhJ59mmriS8",
+        "id": "AfDkezAfcNk",
+        "snippet": {
+          "publishedAt": "2023-10-13T14:48:46Z",
+          "channelId": "UCYW_g-CCivqSesVrMPrNFlg",
+          "title": "Marek PASIECZNY | The Elements: Triple Concerto | feat. Bion Tsang, Thomas Burritt & Joe Williams",
+          "description": "stream / download https://li.sten.to/TheElements\n\nThe Elements: Triple Concerto for Guitar, Cello, Percussion and Guitar Orchestra (2022)\ncomposed and orchestrated by Marek Pasieczny\n\nconducted by Joe Williams w/ HOME Guitar Orchestra\nsoloists: Marek Pasieczny (guitar\u2605) Bion Tsang (cello), Thomas Burritt (percussion\u2605\u2605)\n\nI. Darkness 0:00\nII. Opening 0:56\nIII. Earth\u2019s Theme 2:09\nIV. Solo Cadenza 6:31\nV. Interlude to Wind, Air 7:35\nVI. Wind\u2019s Theme 10:32\nVII. Interlude to Water, Storm 16:11\nVIII. Water\u2019s Theme 18:20\nIX. Interlude to Void, Souls 24:20\nX. Void\u2019s Theme 25:13\nXI. Postlude to Void, Ghosts 28:05\nXII. Double Cadenza 30:21\nXIII. Fire\u2019s Theme 31:50\nXIV. Triple Cadenza, Fugue 34:22\nXV. Brightness, Finale 35:47\n\nbonus: Finale (encore) 37:47\n\n\u25fe  world premiere at the Aisd Performing Arts Center, Austin, TX, USA, (February 18th, 2023)\n\n\u25fe ABOUT THE PIECE\u25fe \n\n\u25fe GENESIS \nThis composition was commissioned by and dedicated to ACG (Austin Classical Guitar https://austinclassicalguitar.org/acg-originals-home-program/, for which I was appointed Artist in Residence for the year 2022-23. I was asked to create a piece that largely reflects the theme of ACG's 2022-23 artistic year, which was 'HOME.' I also knew that this composition had to be written for five separate groups of guitarists. Each group could independently prepare their assigned portion of the larger whole, but, more importantly, they were to perform that section and treat it as a finished and stand-alone piece.\n\nThese two factors ('HOME' and the five independent guitar groups) directed my inspiration towards the philosophy of go-dai, which I had used previously when composing the 'Go-Dai Concerto'  https://youtu.be/HpiGZgvakFg?si=-UQ6P0CrlbSxDGkq\n\n\u25fe 'GO-DAI' \nThe philosophy of Go-Dai is a Japanese concept of five elements known as godai, or the \"five great\": air/wind (Japanese: \u98a8, f\u016b or kaze), fire (Japanese: \u706b, ka or hi), water (Japanese: \u6c34, sui or mizu), earth (Japanese: \u5730, chi or tsuchi), and void/sky (Japanese: \u7a7a, k\u016b or sora).\n\n\u25fe 'HOME' \nFor me, \"HOME\" broadly refers to our planet as our shared home, regardless of where we live. Therefore, my initial intention was to reference weather conditions through the elements of the Go-Dai philosophy.\n\n\u25fe ELEMENTS \nThe first step in the composition process was to develop the main themes for each of the five Go-Dai elements. Each of these themes, along with their harmonization, development, and adaptation to specific guitar groups, was shaped by the character of each element. This way, the music not only conveyed the essence of each element but also visually and suggestively impacted the listener. The choice of expressive techniques, compositional solutions, and structural elements such as meter, harmony, rhythm, tempo, and structure were closely tied to each of the five elements during the composition process.\n\n\u25fe FORM / ORCHESTRATION \nDespite there being five independent compositions (elements), I strongly wanted to avoid a suite-like form with clear and distinct parts. My goal was to integrate all five elements while maintaining their individualism, much like in nature. During the creation of THE ELEMENTS, I was given the choice to write a solo part for the guitar. This inspired me to consider additional solo parts on various instruments. First, I chose the cello as an instrument that blended well with the guitar's sound. The second addition was a solo part for a percussionist who was to handle over twenty percussion instruments, which I felt naturally relates to the fundamental elements of nature.\n\nThe piece begins with abstract, low, and primal sounds symbolizing darkness. Within the structure of the triple concerto, THE ELEMENTS features three main solo cadenzas: solo (timpani), duet (guitar and cello), and trio - fugue (guitar, cello, and marimba). The entire composition is interspersed with abstract moments that serve as links between the various elements. These abstract segments contrast with meticulously developed motifs for each of the elements.\n\nThe composition concludes with a bright, cheerful finale, symbolizing transformation: from emptiness and darkness to brightness, fullness, and hope.\n\nMarek Pasieczny\n(Leeds, UK 13 Oct. 2023)\n\n\nThe HOME Guitar Orchestra:\n\n\u25fe Bedichek Middle School\n\u25fe Akins High School \n\u25fe ACG Youth Orchestra \n\u25fe UT Austin Ensemble \n\u25fe UT San Antonio Ensemble \n\u25fe UT Rio Grande Valley \n\u25fe ACG Chamber Ensemble \n\nall info: https://austinclassicalguitar.org/acg-originals-home-program/\n\n\u2605 Marek Pasieczny plays on 'Mehliana' op. 377 by Philip Woodfield https://woodfieldguitars.com\nstrings: D'Addario EJ46FF  https://www.daddario.com/artists/guitar/marek-pasieczny/\n\n\u2605\u2605 Percussion:\nPitched:\nCrotales (w/ bow, triangle beater)\nGlockenspiel\nMarimba\nThai Gongs (e, f, a flat)\nTimpani (32'' 29'' and 26'')\nVibraphone\n\nNon-Pitched:\nCastanets\nClaves\nGong (w/drum brushes, w/ bow)\nRainstick\nSus. Cymbal\nTemple bowl\nThunder Tube\nTibetan Tingsha\nTriangle (small)\nWind Chimes (bamboo & metal)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AfDkezAfcNk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Marek Pasieczny",
+          "tags": [
+            "classical guitar",
+            "cello guitar",
+            "guitar percussion",
+            "steve reich guitar",
+            "Philip Glass guitar",
+            "minimal music",
+            "contemporary classical guitar",
+            "guitar concerto",
+            "go-dai concerto",
+            "ex nihilo pasieczny",
+            "Bion Tsang",
+            "Thomas Burritt",
+            "minimal music guitar"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Marek PASIECZNY | The Elements: Triple Concerto | feat. Bion Tsang, Thomas Burritt & Joe Williams",
+            "description": "stream / download https://li.sten.to/TheElements\n\nThe Elements: Triple Concerto for Guitar, Cello, Percussion and Guitar Orchestra (2022)\ncomposed and orchestrated by Marek Pasieczny\n\nconducted by Joe Williams w/ HOME Guitar Orchestra\nsoloists: Marek Pasieczny (guitar\u2605) Bion Tsang (cello), Thomas Burritt (percussion\u2605\u2605)\n\nI. Darkness 0:00\nII. Opening 0:56\nIII. Earth\u2019s Theme 2:09\nIV. Solo Cadenza 6:31\nV. Interlude to Wind, Air 7:35\nVI. Wind\u2019s Theme 10:32\nVII. Interlude to Water, Storm 16:11\nVIII. Water\u2019s Theme 18:20\nIX. Interlude to Void, Souls 24:20\nX. Void\u2019s Theme 25:13\nXI. Postlude to Void, Ghosts 28:05\nXII. Double Cadenza 30:21\nXIII. Fire\u2019s Theme 31:50\nXIV. Triple Cadenza, Fugue 34:22\nXV. Brightness, Finale 35:47\n\nbonus: Finale (encore) 37:47\n\n\u25fe  world premiere at the Aisd Performing Arts Center, Austin, TX, USA, (February 18th, 2023)\n\n\u25fe ABOUT THE PIECE\u25fe \n\n\u25fe GENESIS \nThis composition was commissioned by and dedicated to ACG (Austin Classical Guitar https://austinclassicalguitar.org/acg-originals-home-program/, for which I was appointed Artist in Residence for the year 2022-23. I was asked to create a piece that largely reflects the theme of ACG's 2022-23 artistic year, which was 'HOME.' I also knew that this composition had to be written for five separate groups of guitarists. Each group could independently prepare their assigned portion of the larger whole, but, more importantly, they were to perform that section and treat it as a finished and stand-alone piece.\n\nThese two factors ('HOME' and the five independent guitar groups) directed my inspiration towards the philosophy of go-dai, which I had used previously when composing the 'Go-Dai Concerto'  https://youtu.be/HpiGZgvakFg?si=-UQ6P0CrlbSxDGkq\n\n\u25fe 'GO-DAI' \nThe philosophy of Go-Dai is a Japanese concept of five elements known as godai, or the \"five great\": air/wind (Japanese: \u98a8, f\u016b or kaze), fire (Japanese: \u706b, ka or hi), water (Japanese: \u6c34, sui or mizu), earth (Japanese: \u5730, chi or tsuchi), and void/sky (Japanese: \u7a7a, k\u016b or sora).\n\n\u25fe 'HOME' \nFor me, \"HOME\" broadly refers to our planet as our shared home, regardless of where we live. Therefore, my initial intention was to reference weather conditions through the elements of the Go-Dai philosophy.\n\n\u25fe ELEMENTS \nThe first step in the composition process was to develop the main themes for each of the five Go-Dai elements. Each of these themes, along with their harmonization, development, and adaptation to specific guitar groups, was shaped by the character of each element. This way, the music not only conveyed the essence of each element but also visually and suggestively impacted the listener. The choice of expressive techniques, compositional solutions, and structural elements such as meter, harmony, rhythm, tempo, and structure were closely tied to each of the five elements during the composition process.\n\n\u25fe FORM / ORCHESTRATION \nDespite there being five independent compositions (elements), I strongly wanted to avoid a suite-like form with clear and distinct parts. My goal was to integrate all five elements while maintaining their individualism, much like in nature. During the creation of THE ELEMENTS, I was given the choice to write a solo part for the guitar. This inspired me to consider additional solo parts on various instruments. First, I chose the cello as an instrument that blended well with the guitar's sound. The second addition was a solo part for a percussionist who was to handle over twenty percussion instruments, which I felt naturally relates to the fundamental elements of nature.\n\nThe piece begins with abstract, low, and primal sounds symbolizing darkness. Within the structure of the triple concerto, THE ELEMENTS features three main solo cadenzas: solo (timpani), duet (guitar and cello), and trio - fugue (guitar, cello, and marimba). The entire composition is interspersed with abstract moments that serve as links between the various elements. These abstract segments contrast with meticulously developed motifs for each of the elements.\n\nThe composition concludes with a bright, cheerful finale, symbolizing transformation: from emptiness and darkness to brightness, fullness, and hope.\n\nMarek Pasieczny\n(Leeds, UK 13 Oct. 2023)\n\n\nThe HOME Guitar Orchestra:\n\n\u25fe Bedichek Middle School\n\u25fe Akins High School \n\u25fe ACG Youth Orchestra \n\u25fe UT Austin Ensemble \n\u25fe UT San Antonio Ensemble \n\u25fe UT Rio Grande Valley \n\u25fe ACG Chamber Ensemble \n\nall info: https://austinclassicalguitar.org/acg-originals-home-program/\n\n\u2605 Marek Pasieczny plays on 'Mehliana' op. 377 by Philip Woodfield https://woodfieldguitars.com\nstrings: D'Addario EJ46FF  https://www.daddario.com/artists/guitar/marek-pasieczny/\n\n\u2605\u2605 Percussion:\nPitched:\nCrotales (w/ bow, triangle beater)\nGlockenspiel\nMarimba\nThai Gongs (e, f, a flat)\nTimpani (32'' 29'' and 26'')\nVibraphone\n\nNon-Pitched:\nCastanets\nClaves\nGong (w/drum brushes, w/ bow)\nRainstick\nSus. Cymbal\nTemple bowl\nThunder Tube\nTibetan Tingsha\nTriangle (small)\nWind Chimes (bamboo & metal)"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT39M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6587",
+          "likeCount": "233",
+          "favoriteCount": "0",
+          "commentCount": "55"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AJL1tiviOmmab5PWrrO5co3lajY",
+        "id": "jv-A2tz_eHQ",
+        "snippet": {
+          "publishedAt": "2023-08-31T04:00:07Z",
+          "channelId": "UCpxWe6YJbM8eFPNU2Y9qLZw",
+          "title": "\u201cPERCUZZ!!\u201d on RTHK \u201cThe Works\u201d - M.A.R.B.L.E.S. Percussion x Justin Siu & Samuel Chan",
+          "description": "\u201cPERCUZZ\u201d - \u201cpercuss\u201d x \u201cjazz\u201d \u2013 \npercussion music in a jazz style. Or is it jazz in a percussive style? This production is one of works of Bach and Philip Glass, but also tunes by Miles Davis and Chick Corea, in a band formed from both classical and jazz musicians \u2013 talk about fusion. We hope that you\u2019ll find this Saturday evening to be truly spectacular!\n\n\u65e5\u671f\uff1a2023\u5e749\u67082\u65e5\uff08\u661f\u671f\u516d\uff09 \n\u6642\u9593\uff1a8pm\n\u5730\u9ede\uff1a\u725b\u6c60\u7063\u6587\u5a1b\u4e2d\u5fc3\u5287\u9662 \n\u7968\u50f9\uff1a$240 \n\uff08\u5168\u65e5\u5236\u5b78\u751f\u53ca\u9577\u8005\u53ef\u4eab\u670975\u6298\uff09\n\u9580\u7968\u7531\u5373\u65e5\u8d77\u65bc\u57ce\u5e02\u552e\u7968\u7db2\u767c\u552e\n(link in bio!!)\nhttps://www.urbtix.hk/event-detail/10467/\n\nDate:    11th Nov, 2023 (Sat)\nTime:    8pm\nVenue:  Theatre, Ngau Chi Wan Civic Centre \nTicket Available NOW on URBTIX ($240)\n(Full time students and senior citizens aged 60 or above : 25% off) \n\n\n\u6a02\u624b Performers : \n\nM.A.R.B.L.E.S. Percussion : \n\u962e\u66fc\u9716 Lauren Yuen - Vibraphone \n\u9673\u4fca\u71ca Alvin Chan - Vibraphone \n\u694a\u6e05\u5d50 Michael Yeung - Marimba \n\u4f55\u5b50\u8f1d Sunny Ho - Marimba \n\nSpecial guests :\n\u9673\u884d\u5149 Samuel Chan - Drums \n\u856d\u5049\u4e2d Justin Siu - Bass",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jv-A2tz_eHQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lauren Yuen",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "zh-Hant",
+          "localized": {
+            "title": "\u201cPERCUZZ!!\u201d on RTHK \u201cThe Works\u201d - M.A.R.B.L.E.S. Percussion x Justin Siu & Samuel Chan",
+            "description": "\u201cPERCUZZ\u201d - \u201cpercuss\u201d x \u201cjazz\u201d \u2013 \npercussion music in a jazz style. Or is it jazz in a percussive style? This production is one of works of Bach and Philip Glass, but also tunes by Miles Davis and Chick Corea, in a band formed from both classical and jazz musicians \u2013 talk about fusion. We hope that you\u2019ll find this Saturday evening to be truly spectacular!\n\n\u65e5\u671f\uff1a2023\u5e749\u67082\u65e5\uff08\u661f\u671f\u516d\uff09 \n\u6642\u9593\uff1a8pm\n\u5730\u9ede\uff1a\u725b\u6c60\u7063\u6587\u5a1b\u4e2d\u5fc3\u5287\u9662 \n\u7968\u50f9\uff1a$240 \n\uff08\u5168\u65e5\u5236\u5b78\u751f\u53ca\u9577\u8005\u53ef\u4eab\u670975\u6298\uff09\n\u9580\u7968\u7531\u5373\u65e5\u8d77\u65bc\u57ce\u5e02\u552e\u7968\u7db2\u767c\u552e\n(link in bio!!)\nhttps://www.urbtix.hk/event-detail/10467/\n\nDate:    11th Nov, 2023 (Sat)\nTime:    8pm\nVenue:  Theatre, Ngau Chi Wan Civic Centre \nTicket Available NOW on URBTIX ($240)\n(Full time students and senior citizens aged 60 or above : 25% off) \n\n\n\u6a02\u624b Performers : \n\nM.A.R.B.L.E.S. Percussion : \n\u962e\u66fc\u9716 Lauren Yuen - Vibraphone \n\u9673\u4fca\u71ca Alvin Chan - Vibraphone \n\u694a\u6e05\u5d50 Michael Yeung - Marimba \n\u4f55\u5b50\u8f1d Sunny Ho - Marimba \n\nSpecial guests :\n\u9673\u884d\u5149 Samuel Chan - Drums \n\u856d\u5049\u4e2d Justin Siu - Bass"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "412",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "A-pkIBTbFTgiFknTAsJt1z3ennA",
+        "id": "EDhTaGNldYY",
+        "snippet": {
+          "publishedAt": "2023-06-10T10:37:30Z",
+          "channelId": "UCff4paWdSTZQcW3e3iyFD0Q",
+          "title": "SNUP - 'Fandango 13' by Michael Burrit",
+          "description": "_2023 \uc11c\uc6b8\ub300\ud559\uad50 \ud0c0\uc545\uae30 \uc559\uc0c1\ube14 \uc815\uae30\uc5f0\uc8fc\ud68c\n   2023 SNUP Concert film \n\n_\uc5f0\uc8fc\uc790: \n\uc784\ubcd1\ud604, \ud55c\ubc94\uaddc, \ubc15\ucc44\ub9bc, \uae40\ub098\uc601, \uc624\uac00\uc740, \uae40\uc2dc\uc6b0\n\n\nArtist : \nByeonghyun Lim, Beomgyu Han, Chaerim Park, Nayoung Kim, Gaeun Oh, Siwoo Kim\n \n\n\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\n\n_\uc8fc\ucd5c : SNUP\n_\ud6c4\uc6d0 : \uc11c\uc6b8\ub300\ud559\uad50 \uc74c\uc545\ub300\ud559\n_\uc0ac\uc0ac : \ucd5c\uacbd\ud658, \uc724\uc7ac\ud604, \uc5d0\ub4dc\uc6cc\ub4dc \ucd5c\n\n\n_\uc74c\ud5a5 & \uc601\uc0c1 : \uae40\uc6a9\uc9c4\n_\ucd2c\uc601 : \uae40\uc6a9\uc9c4\n_\ub179\uc74c : \uc784\uc218\uc601\n\nContact : snuperc@gmail.com / @snu_percussion (instagram)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EDhTaGNldYY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "\uc11c\uc6b8\ub300\ud559\uad50 \uc74c\uc545\ub300\ud559 \ud0c0\uc545\uc804\uacf5SNUP",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "SNUP - 'Fandango 13' by Michael Burrit",
+            "description": "_2023 \uc11c\uc6b8\ub300\ud559\uad50 \ud0c0\uc545\uae30 \uc559\uc0c1\ube14 \uc815\uae30\uc5f0\uc8fc\ud68c\n   2023 SNUP Concert film \n\n_\uc5f0\uc8fc\uc790: \n\uc784\ubcd1\ud604, \ud55c\ubc94\uaddc, \ubc15\ucc44\ub9bc, \uae40\ub098\uc601, \uc624\uac00\uc740, \uae40\uc2dc\uc6b0\n\n\nArtist : \nByeonghyun Lim, Beomgyu Han, Chaerim Park, Nayoung Kim, Gaeun Oh, Siwoo Kim\n \n\n\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\u3161\n\n_\uc8fc\ucd5c : SNUP\n_\ud6c4\uc6d0 : \uc11c\uc6b8\ub300\ud559\uad50 \uc74c\uc545\ub300\ud559\n_\uc0ac\uc0ac : \ucd5c\uacbd\ud658, \uc724\uc7ac\ud604, \uc5d0\ub4dc\uc6cc\ub4dc \ucd5c\n\n\n_\uc74c\ud5a5 & \uc601\uc0c1 : \uae40\uc6a9\uc9c4\n_\ucd2c\uc601 : \uae40\uc6a9\uc9c4\n_\ub179\uc74c : \uc784\uc218\uc601\n\nContact : snuperc@gmail.com / @snu_percussion (instagram)"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1473",
+          "likeCount": "26",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

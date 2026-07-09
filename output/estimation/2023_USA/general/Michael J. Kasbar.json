@@ -1,0 +1,274 @@
+{
+  "ceo": "Michael J. Kasbar",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "QRFZnNzhB0RppvHXAoZ13lymj68",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IewY7s5mDUXFhAMHHvTlGVx0Hr8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VFKqsBjknl0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-26T20:18:01Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "World Kinect Corporation CEO Michael Kasbar talks about the company&#39;s new name and ticker symbol",
+          "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-26T20:18:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4tHHvnzTot-w5LkpSg4Dy2Q2MY8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6tOSOOEkJzI"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-13T23:49:52Z",
+          "channelId": "UCPoZiH3uw8ts4ao_dWLDakA",
+          "title": "Film critics, Wade Major, Tim Cogshell, Mike Kasbar, &amp; Mike Szymanski on Movie Reviews &amp; More.s3s44",
+          "description": "Wade Major is a member of the Los Angeles Film Critics Association, a regular critic for NPR affiliate KPCC-FM in Los Angeles ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "moviereviewsnmore",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-13T23:49:52Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "f7_wYXboUeuhUSWUOXR95Ekb2Uc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "r8sCCZPUs9TKSp8vK3pF5Hf8EoI",
+        "id": "VFKqsBjknl0",
+        "snippet": {
+          "publishedAt": "2023-06-26T20:18:01Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "World Kinect Corporation CEO Michael Kasbar talks about the company's new name and ticker symbol",
+          "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in the company's journey and what he's focused on for the future. #NYSEFloorTalk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "tags": [
+            "Financial Regulatory Structure",
+            "Investor Confidence",
+            "Financial Responsibility",
+            "Transparency",
+            "Accountability",
+            "Fair Market Dealing",
+            "Global regulation",
+            "Free Enterprise",
+            "Standardized Derivatives",
+            "De-regulation",
+            "Risk Taking",
+            "Trust",
+            "Heritage",
+            "Integrity",
+            "Advocacy",
+            "Technology",
+            "NYSE",
+            "NYSE Euronext",
+            "NYSE Market",
+            "NYSE Com",
+            "Nasdaq NYSE",
+            "Law",
+            "Justice",
+            "Business School",
+            "Innovation",
+            "Solutions",
+            "New Vision",
+            "Investments"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "World Kinect Corporation CEO Michael Kasbar talks about the company's new name and ticker symbol",
+            "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in the company's journey and what he's focused on for the future. #NYSEFloorTalk"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1286",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k2-Vnte3eEGaLaEudv8KRZ5v7e8",
+        "id": "6tOSOOEkJzI",
+        "snippet": {
+          "publishedAt": "2023-09-13T23:49:52Z",
+          "channelId": "UCPoZiH3uw8ts4ao_dWLDakA",
+          "title": "Film critics, Wade Major, Tim Cogshell, Mike Kasbar, & Mike Szymanski on Movie Reviews & More.s3s44",
+          "description": "Wade Major is a member of the Los Angeles Film Critics Association, a regular critic for NPR affiliate KPCC-FM in Los Angeles and ClearChannel affiliate WIMA-AM in Ohio, and an adjunct professor of film at Mount St. Mary's College in Los Angeles.\r\nTim Cogshell- is a veteran film critic and journalist with over 30 years of experience working for national print, broadcast, and internet-based media concerns, including NPR, KNBC, Spectrum News, FOX 11 News (Los Angeles), ABC 7, Box Office Magazine, the Los Angeles Times, and Alt-Film Guide, among others. \r\n\r\nMike Kaspar- Film School Radio film critic interviews documentary, foreign and independent Filmmakers. \n\nMike Szymanski- writer of Medium, The Dreamweaver Arts, dog lover, and author.\r\n\r\nCo-Hosts Terri Marie, Rachel Roberts, Howard Wiggins, Nathasha Rumbos and Mike Szymanski.\r\n\r\nMovie Reviews and More is broadcast live Tuesdays at 5PM PT.\r\n\r\nMovie Reviews and More TV Show is viewed on Talk 4 TV (www.talk4tv.com).\r\n\r\nMovie Reviews and More Radio Show is broadcast on K4HD Radio - Hollywood Talk Radio (www.k4hd.com) part of Talk 4 Radio (www.talk4radio.com) on the Talk 4 Media Network (www.talk4media.com). \r\n\r\nMovie Reviews and More Podcast is also available on Talk 4 Podcasting (www.talk4podcasting.com), iHeartRadio, Amazon Music, Pandora, Spotify, Audible, and over 100 other podcast outlets. #moviereviewsandmore #wademajor #timcogshell",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6tOSOOEkJzI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "moviereviewsnmore",
+          "tags": [
+            "#moviereviewsandmore",
+            "#wademajor",
+            "#timcogshell",
+            "mike kaspar",
+            "mike szymanski",
+            "brian sebastian",
+            "movie reviews n more",
+            "writers",
+            "lafca",
+            "film critics",
+            "movies",
+            "films",
+            "authors",
+            "producers",
+            "talk4media",
+            "k4hdradio",
+            "critics",
+            "singer",
+            "music",
+            "fashion",
+            "style",
+            "fitness",
+            "npr radio",
+            "film school",
+            "ceos",
+            "interviews",
+            "nathasha rumbos",
+            "terri marie",
+            "rachel roberts",
+            "howard wiggins",
+            "cinegods",
+            "classic films",
+            "screen writers",
+            "podcasts hosts",
+            "radio",
+            "television",
+            "indie films",
+            "documentarys"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Film critics, Wade Major, Tim Cogshell, Mike Kasbar, & Mike Szymanski on Movie Reviews & More.s3s44",
+            "description": "Wade Major is a member of the Los Angeles Film Critics Association, a regular critic for NPR affiliate KPCC-FM in Los Angeles and ClearChannel affiliate WIMA-AM in Ohio, and an adjunct professor of film at Mount St. Mary's College in Los Angeles.\r\nTim Cogshell- is a veteran film critic and journalist with over 30 years of experience working for national print, broadcast, and internet-based media concerns, including NPR, KNBC, Spectrum News, FOX 11 News (Los Angeles), ABC 7, Box Office Magazine, the Los Angeles Times, and Alt-Film Guide, among others. \r\n\r\nMike Kaspar- Film School Radio film critic interviews documentary, foreign and independent Filmmakers. \n\nMike Szymanski- writer of Medium, The Dreamweaver Arts, dog lover, and author.\r\n\r\nCo-Hosts Terri Marie, Rachel Roberts, Howard Wiggins, Nathasha Rumbos and Mike Szymanski.\r\n\r\nMovie Reviews and More is broadcast live Tuesdays at 5PM PT.\r\n\r\nMovie Reviews and More TV Show is viewed on Talk 4 TV (www.talk4tv.com).\r\n\r\nMovie Reviews and More Radio Show is broadcast on K4HD Radio - Hollywood Talk Radio (www.k4hd.com) part of Talk 4 Radio (www.talk4radio.com) on the Talk 4 Media Network (www.talk4media.com). \r\n\r\nMovie Reviews and More Podcast is also available on Talk 4 Podcasting (www.talk4podcasting.com), iHeartRadio, Amazon Music, Pandora, Spotify, Audible, and over 100 other podcast outlets. #moviereviewsandmore #wademajor #timcogshell"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT52M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "46",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

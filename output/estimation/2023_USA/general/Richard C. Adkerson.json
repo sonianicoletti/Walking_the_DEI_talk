@@ -1,0 +1,613 @@
+{
+  "ceo": "Richard C. Adkerson",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "kpQqF8fDIojEax1dSNNdk3XZsHw",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wMylRQboUQcn3X3hdYSBCZdeHN4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O4RMdlbad_M"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-31T19:51:44Z",
+          "channelId": "UCgfuhAjmJuD41Bo0AAjXEVQ",
+          "title": "Copper and Gold double-header ft Freeport&#39;s Adkerson and Barrick&#39;s Bristow | TNM Podcast 328",
+          "description": "This week's episode is a copper and gold CEO double-header, featuring the opening remarks of Freeport-McMoran CEO Richard ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Northern Miner",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-31T19:51:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s71BudKWr-8507apO7kf4m26Jek",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tiL5S8wOMxc"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-19T21:44:39Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Copper demand weakness in Chinese real estate offset by green investing: Freeport-McMoRan&#39;s Adkerson",
+          "description": "Richard Adkerson, Freeport-McMoRan CEO, joins 'Closing Bell Overtime' to talk copper demand in the global economy, copper ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-19T21:44:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hox-yrfWTgYXMh4ixUNJQzNTm9s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Rrw4j6W6r5g"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-21T21:44:28Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Freeport-McMoRan CEO on earnings, the copper market, and clean energy transition",
+          "description": "Richard Adkerson, Freeport-McMoran CEO, joins 'Closing Bell: Overtime' to discuss the state of the copper market and the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-21T21:44:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FkK2BhfDIJTCPZKgSoNCRv9cFes",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "F2Hj25L_o7w"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-07T17:08:39Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Higher Copper Prices Will Trigger New Mines, Freeport CEO Says",
+          "description": "The world will not run out of copper and the price of the metal will rise. That is the view of Richard Adkerson, the CEO of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-07T17:08:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ly6YZ_NXaJuX5XaBaqIHdQdaTKU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oemDIYyMFAY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-11T10:10:19Z",
+          "channelId": "UCZ79LSRCcqFotoPSAngZMrA",
+          "title": "2023 Internship Project Presentation at Freeport-McMoRan",
+          "description": "Kali ini kita share konten keilmuan dulu ya, biar agak bermanfaat sedikit channel Youtube ini juga hehehe. Ini adalah video saya ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ryan Pratama",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-11T10:10:19Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SY59ERgLCDad3BZTllX7itPBfzs",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Mjg4mIx2jZvEJfilX4nlZh9Qyi0",
+        "id": "O4RMdlbad_M",
+        "snippet": {
+          "publishedAt": "2023-01-31T19:51:44Z",
+          "channelId": "UCgfuhAjmJuD41Bo0AAjXEVQ",
+          "title": "Copper and Gold double-header ft Freeport's Adkerson and Barrick's Bristow | TNM Podcast 328",
+          "description": "This week\u2019s episode is a copper and gold CEO double-header, featuring the opening remarks of Freeport-McMoran CEO Richard Adkerson at the company\u2019s recent Q4 conference call on Jan. 25, 2023, as well an interview with Barrick Gold CEO Mark Bristow at the Future Minerals Forum in Riyadh, Saudi Arabia. Both CEOs emphasize the strategic importance of copper to their long-term vision and its central role in the green energy transformation.\n\nAll this and more with host Adrian Pocobelli.\n\n\u201cRattlesnake Railroad\u201d, \u201cBig Western Sky\u201d, \u201cWestern Adventure\u201d and \u201cBattle on the Western Frontier\u201d by Brett Van Donsel (www.incompetech.com).\n\nLicensed under Creative Commons: By Attribution 4.0 License\ncreativecommons.org/licenses/by/4.0/\n\nThe Northern Miner \u00b7 Episode 328: Copper and Gold double-header ft Freeport's Adkerson and Barrick's Bristow",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O4RMdlbad_M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Northern Miner",
+          "tags": [
+            "mining",
+            "copper",
+            "gold"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Copper and Gold double-header ft Freeport's Adkerson and Barrick's Bristow | TNM Podcast 328",
+            "description": "This week\u2019s episode is a copper and gold CEO double-header, featuring the opening remarks of Freeport-McMoran CEO Richard Adkerson at the company\u2019s recent Q4 conference call on Jan. 25, 2023, as well an interview with Barrick Gold CEO Mark Bristow at the Future Minerals Forum in Riyadh, Saudi Arabia. Both CEOs emphasize the strategic importance of copper to their long-term vision and its central role in the green energy transformation.\n\nAll this and more with host Adrian Pocobelli.\n\n\u201cRattlesnake Railroad\u201d, \u201cBig Western Sky\u201d, \u201cWestern Adventure\u201d and \u201cBattle on the Western Frontier\u201d by Brett Van Donsel (www.incompetech.com).\n\nLicensed under Creative Commons: By Attribution 4.0 License\ncreativecommons.org/licenses/by/4.0/\n\nThe Northern Miner \u00b7 Episode 328: Copper and Gold double-header ft Freeport's Adkerson and Barrick's Bristow"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT39M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "211",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5rDL5dALRBsV8RGM4OQLXGx4F70",
+        "id": "tiL5S8wOMxc",
+        "snippet": {
+          "publishedAt": "2023-10-19T21:44:39Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Copper demand weakness in Chinese real estate offset by green investing: Freeport-McMoRan's Adkerson",
+          "description": "Richard Adkerson, Freeport-McMoRan CEO, joins 'Closing Bell Overtime' to talk copper demand in the global economy, copper prices and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tiL5S8wOMxc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Closing Bell Overtime",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Copper demand weakness in Chinese real estate offset by green investing: Freeport-McMoRan's Adkerson",
+            "description": "Richard Adkerson, Freeport-McMoRan CEO, joins 'Closing Bell Overtime' to talk copper demand in the global economy, copper prices and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9590",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Jcx0Bc5BeOYDTeP3oR4nOVaIB7o",
+        "id": "Rrw4j6W6r5g",
+        "snippet": {
+          "publishedAt": "2023-04-21T21:44:28Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Freeport-McMoRan CEO on earnings, the copper market, and clean energy transition",
+          "description": "Richard Adkerson, Freeport-McMoran CEO, joins 'Closing Bell: Overtime' to discuss the state of the copper market and the company. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Rrw4j6W6r5g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Closing Bell Overtime",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Freeport-McMoRan CEO on earnings, the copper market, and clean energy transition",
+            "description": "Richard Adkerson, Freeport-McMoran CEO, joins 'Closing Bell: Overtime' to discuss the state of the copper market and the company. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7214",
+          "likeCount": "61",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "msddaNiv7O2Zk6g4ehYTYuMOq8M",
+        "id": "F2Hj25L_o7w",
+        "snippet": {
+          "publishedAt": "2023-03-07T17:08:39Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Higher Copper Prices Will Trigger New Mines, Freeport CEO Says",
+          "description": "The world will not run out of copper and the price of the metal will rise. That is the view of Richard Adkerson, the CEO of Freeport-McMoRan. He spoke to Bloomberg's Alix Steel at the CERAWeek conference in Houston on the strong global demand for copper. \n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/\n --------",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F2Hj25L_o7w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "CERAWeek",
+            "Copper",
+            "copper prices"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Higher Copper Prices Will Trigger New Mines, Freeport CEO Says",
+            "description": "The world will not run out of copper and the price of the metal will rise. That is the view of Richard Adkerson, the CEO of Freeport-McMoRan. He spoke to Bloomberg's Alix Steel at the CERAWeek conference in Houston on the strong global demand for copper. \n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/\n --------"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6050",
+          "likeCount": "93",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lcPCa6J0SOs0ANa66kaQwhvMcMI",
+        "id": "oemDIYyMFAY",
+        "snippet": {
+          "publishedAt": "2023-08-11T10:10:19Z",
+          "channelId": "UCZ79LSRCcqFotoPSAngZMrA",
+          "title": "2023 Internship Project Presentation at Freeport-McMoRan",
+          "description": "Kali ini kita share konten keilmuan dulu ya, biar agak bermanfaat sedikit channel Youtube ini juga hehehe.\n\nIni adalah video saya saat presentasi project yang saya kerjakan selama menjalani Summer Internship di salah satu perusahaan tambang besar di Amerika. Yes, tidak lain dan tidak bukan Freeport McMoRan. Walaupun mungkin teman-teman tidak terlalu familiar dengan ilmu pertambangan, tapi semoga video ini tetap dapat memberikan manfaat untuk kita semua ya.\n\nJangan lupa subscribe, like and share ya kalau suka, biar enggak ketinggalan konten-konten selanjutnya. Thank you!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oemDIYyMFAY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ryan Pratama",
+          "tags": [
+            "LPDP",
+            "Scholarship",
+            "Beasiswa",
+            "USA",
+            "Amerika Serikat",
+            "Tambang",
+            "Education",
+            "Learning",
+            "Support",
+            "Goals",
+            "Career",
+            "Technology",
+            "Vlog",
+            "Life",
+            "Trending",
+            "Inspiration",
+            "Success",
+            "Healthy",
+            "Mahasiswa",
+            "Travel",
+            "Beautiful",
+            "Master",
+            "Student",
+            "Sarapan",
+            "Breakfast",
+            "Apartemen",
+            "Shopping",
+            "Belanja",
+            "Grocery",
+            "fastfood",
+            "Gratis",
+            "Adventure",
+            "Public",
+            "Diskon",
+            "Murah",
+            "Tracking",
+            "Mountain",
+            "Gunung",
+            "Hiking",
+            "Sunrise",
+            "Sunset",
+            "NIKI",
+            "Concert",
+            "Singer",
+            "Indonesia",
+            "Germany",
+            "Sustainable",
+            "Development",
+            "Critical",
+            "Mineral",
+            "Lithium",
+            "Battery",
+            "Electric Vehicle",
+            "Research",
+            "Green Energy",
+            "Clean Energy",
+            "Mine"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "id",
+          "localized": {
+            "title": "2023 Internship Project Presentation at Freeport-McMoRan",
+            "description": "Kali ini kita share konten keilmuan dulu ya, biar agak bermanfaat sedikit channel Youtube ini juga hehehe.\n\nIni adalah video saya saat presentasi project yang saya kerjakan selama menjalani Summer Internship di salah satu perusahaan tambang besar di Amerika. Yes, tidak lain dan tidak bukan Freeport McMoRan. Walaupun mungkin teman-teman tidak terlalu familiar dengan ilmu pertambangan, tapi semoga video ini tetap dapat memberikan manfaat untuk kita semua ya.\n\nJangan lupa subscribe, like and share ya kalau suka, biar enggak ketinggalan konten-konten selanjutnya. Thank you!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "529",
+          "likeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

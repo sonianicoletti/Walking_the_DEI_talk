@@ -1,0 +1,315 @@
+{
+  "ceo": "Jay D. Debertin",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "kztcfYtaakT6oWnz30jknhL10v8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5K2MxHZISQ7kC4no5Hp4gFa-PWs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eW5q1md8I-s"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T21:36:52Z",
+          "channelId": "UCPfZyeWC8JFCd1vqticTCmA",
+          "title": "CHS leaders talk about the intern program",
+          "description": "Mary Kaul-Hottinger, chief human resources officer, and Jay Debertin, president and CEO, share why the intern program is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CHS Inc. ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T21:36:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jYLSoK6SKPaXqL0tteiovmibDJQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6Asvcc6PiZo"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-22T02:58:06Z",
+          "channelId": "UCzBnVXQiCEuF7HdOWa3v1Qw",
+          "title": "Logitech CEO on Future of Tech, ChatGPT, &amp; Teen Advice | Bracken Darrell Interview | Sachin Syal",
+          "description": "Bracken Darrell is President & Chief Executive Officer of Logitech, a company manufacturing computer peripherals and software.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sachin Syal's \"The O'ChakDe Show\"",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-22T02:58:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EZaobcYfUeWnN_ybtk_k263Dx3M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Z4bPv3ufXDU"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-30T07:15:29Z",
+          "channelId": "UC1D6AaYUTdR86tngI_HsVig",
+          "title": "The 11 gigaton challenge \u2013 Eric Hansotia and the future of farming",
+          "description": "If we keep growing and farming the way we do now, agriculture will produce 15 gigatons of carbon dioxide. According to scientific ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AGCO Power",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-30T07:15:29Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "sZRl7_E6TlBoupTIgXhb6rprxUY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "kpTNAJozsSxIaC8vWYwfAM58-2c",
+        "id": "eW5q1md8I-s",
+        "snippet": {
+          "publishedAt": "2023-07-25T21:36:52Z",
+          "channelId": "UCPfZyeWC8JFCd1vqticTCmA",
+          "title": "CHS leaders talk about the intern program",
+          "description": "Mary Kaul-Hottinger, chief human resources officer, and Jay Debertin, president and CEO, share why the intern program is valuable for students and the work at CHS Inc.\n\nLearn about the company intern program at https://jobs.chsinc.com/interns.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eW5q1md8I-s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CHS Inc. ",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CHS leaders talk about the intern program",
+            "description": "Mary Kaul-Hottinger, chief human resources officer, and Jay Debertin, president and CEO, share why the intern program is valuable for students and the work at CHS Inc.\n\nLearn about the company intern program at https://jobs.chsinc.com/interns."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "781",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RirfZDJrggS-xha5ypOEoB4GbZA",
+        "id": "6Asvcc6PiZo",
+        "snippet": {
+          "publishedAt": "2023-01-22T02:58:06Z",
+          "channelId": "UCzBnVXQiCEuF7HdOWa3v1Qw",
+          "title": "Logitech CEO on Future of Tech, ChatGPT, & Teen Advice | Bracken Darrell Interview | Sachin Syal",
+          "description": "Bracken Darrell is President & Chief Executive Officer of Logitech, a company manufacturing computer peripherals and software. He runs the $5 Billion global business. Headquartered in Lausanne, Switzerland.\n-\nMy Personal Website: https://www.ochakde.com/\nMy Company Website: https://www.3doshas.com/\nReach out to me: info.ochakde@gmail.com\nFollow Me on Instagram: https://www.instagram.com/sachin_syal23/\n-\nMusic: Walz & Aftab Makes Instrumentals\n\n#logitech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6Asvcc6PiZo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sachin Syal's \"The O'ChakDe Show\"",
+          "tags": [
+            "#logitech"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Logitech CEO on Future of Tech, ChatGPT, & Teen Advice | Bracken Darrell Interview | Sachin Syal",
+            "description": "Bracken Darrell is President & Chief Executive Officer of Logitech, a company manufacturing computer peripherals and software. He runs the $5 Billion global business. Headquartered in Lausanne, Switzerland.\n-\nMy Personal Website: https://www.ochakde.com/\nMy Company Website: https://www.3doshas.com/\nReach out to me: info.ochakde@gmail.com\nFollow Me on Instagram: https://www.instagram.com/sachin_syal23/\n-\nMusic: Walz & Aftab Makes Instrumentals\n\n#logitech"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT19M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2200",
+          "likeCount": "54",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SLFkCSEwVC05tXDtIg240balus4",
+        "id": "Z4bPv3ufXDU",
+        "snippet": {
+          "publishedAt": "2023-08-30T07:15:29Z",
+          "channelId": "UC1D6AaYUTdR86tngI_HsVig",
+          "title": "The 11 gigaton challenge \u2013 Eric Hansotia and the future of farming",
+          "description": "If we keep growing and farming the way we do now, agriculture will produce 15 gigatons of carbon dioxide. According to scientific studies, it should be reduced to 4 gigatons. \n \n\u201dBig changes are required, and we have been preparing for them for a long time\u201d, says AGCO CEO Eric Hansotia. \u201cWe are developing and designing solutions to meet agricultural challenges with battery electric, hydrogen fuel, hydrogen fuel cells, methane and methanol, among others.\u201d\n\n\nAGCO Power will reveal more about the vision of future power solutions at the Agritechnica trade show in November!!\n\nRead more:\n\nhttps://www.agcopower.com/the-11-gigaton-challenge-eric-hansotia-and-the-future-of-farming/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Z4bPv3ufXDU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AGCO Power",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The 11 gigaton challenge \u2013 Eric Hansotia and the future of farming",
+            "description": "If we keep growing and farming the way we do now, agriculture will produce 15 gigatons of carbon dioxide. According to scientific studies, it should be reduced to 4 gigatons. \n \n\u201dBig changes are required, and we have been preparing for them for a long time\u201d, says AGCO CEO Eric Hansotia. \u201cWe are developing and designing solutions to meet agricultural challenges with battery electric, hydrogen fuel, hydrogen fuel cells, methane and methanol, among others.\u201d\n\n\nAGCO Power will reveal more about the vision of future power solutions at the Agritechnica trade show in November!!\n\nRead more:\n\nhttps://www.agcopower.com/the-11-gigaton-challenge-eric-hansotia-and-the-future-of-farming/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11293",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

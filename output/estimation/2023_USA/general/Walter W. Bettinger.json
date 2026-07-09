@@ -1,0 +1,568 @@
+{
+  "ceo": "Walter W. Bettinger",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "JI5QSMpB6V92-bS_M5tHoaJE_Sw",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NOirCGsO82C2psvW5_BAhvOC9V8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cpQ5z1M56sE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-16T16:18:11Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Charles Schwab CEO Walt Bettinger: We&#39;re in a bearish environment, and it&#39;s been tough for investors",
+          "description": "Charles Schwab CEO Walt Bettinger joins 'Squawk on the Street' to discuss the company's quarterly earnings results, what ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-16T16:18:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "41_WNDXD26MM68oq7pgGYNc_F4U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jVhK61dDOEA"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-21T15:56:00Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Charles Schwab CEO: The cash sorting trajectory is now moderating",
+          "description": "Charles Schwab CEO Walter Bettinger joins 'Squawk on the Street' to discuss the bank's deposit flows, Bettinger's explanation of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-21T15:56:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0veQFxMJZs-wo6-G5zd-X5wqk-E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MeSqo0XU15Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T18:16:22Z",
+          "channelId": "UCfNz3xNIaxocf3KUoM9gLww",
+          "title": "last day of school crying",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "IcebearJG",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T18:16:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mP_3Kg2n6kSnvYBmkburJjL6Vhg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GVO1mSXj-wE"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-23T14:00:07Z",
+          "channelId": "UCWcyk6DcMvcUtKK8dbSTwjw",
+          "title": "Charles Schwab CEO SHUFFLING In CNBC Interview About Recent SVB Bank Collapse!",
+          "description": "If you enjoy business related news throw a like, comment, and subscribe for more! NGB Business News speaking on Charles ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "JBowens Crime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-23T14:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8SCx0rVhwPr5WraQknbWGi3NFgk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E38qSneYQUU"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-14T18:07:36Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Charles Schwab CEO on SVB fallout, contagion risk and deposits",
+          "description": "CNBC's Sara Eisen and Charles Schwab CEO Walter Bettinger join 'The Exchange' to discuss the impact of the collapse of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-14T18:07:36Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kIxIltAcL2OQnfvcIAKUl1ix5UE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "8Nff749LkBH_x0HOUqpR02pGPck",
+        "id": "cpQ5z1M56sE",
+        "snippet": {
+          "publishedAt": "2023-10-16T16:18:11Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Charles Schwab CEO Walt Bettinger: We're in a bearish environment, and it's been tough for investors",
+          "description": "Charles Schwab CEO Walt Bettinger joins 'Squawk on the Street' to discuss the company's quarterly earnings results, what investors need to understand about the interest rate move impact on the banks, and how suppressed interest equities have impacted investor psyche. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cpQ5z1M56sE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charles Schwab CEO Walt Bettinger: We're in a bearish environment, and it's been tough for investors",
+            "description": "Charles Schwab CEO Walt Bettinger joins 'Squawk on the Street' to discuss the company's quarterly earnings results, what investors need to understand about the interest rate move impact on the banks, and how suppressed interest equities have impacted investor psyche. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32553",
+          "likeCount": "62",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "M21kdLwGgYj0DWrR87EpPSh9bKk",
+        "id": "jVhK61dDOEA",
+        "snippet": {
+          "publishedAt": "2023-04-21T15:56:00Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Charles Schwab CEO: The cash sorting trajectory is now moderating",
+          "description": "Charles Schwab CEO Walter Bettinger joins 'Squawk on the Street' to discuss the bank's deposit flows, Bettinger's explanation of cash sorting, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jVhK61dDOEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charles Schwab CEO: The cash sorting trajectory is now moderating",
+            "description": "Charles Schwab CEO Walter Bettinger joins 'Squawk on the Street' to discuss the bank's deposit flows, Bettinger's explanation of cash sorting, and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23774",
+          "likeCount": "103",
+          "favoriteCount": "0",
+          "commentCount": "17"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Am1Cd5znW40OK80egwrmjb9AT38",
+        "id": "MeSqo0XU15Q",
+        "snippet": {
+          "publishedAt": "2023-06-08T18:16:22Z",
+          "channelId": "UCfNz3xNIaxocf3KUoM9gLww",
+          "title": "last day of school crying",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MeSqo0XU15Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "IcebearJG",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "last day of school crying",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2575664",
+          "likeCount": "26423",
+          "favoriteCount": "0",
+          "commentCount": "587"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lWWVZEQTA1nFGtPorBj8W6sKU24",
+        "id": "GVO1mSXj-wE",
+        "snippet": {
+          "publishedAt": "2023-03-23T14:00:07Z",
+          "channelId": "UCWcyk6DcMvcUtKK8dbSTwjw",
+          "title": "Charles Schwab CEO SHUFFLING In CNBC Interview About Recent SVB Bank Collapse!",
+          "description": "If you enjoy business related news throw a like, comment, and subscribe for more!\n\nNGB Business News speaking on Charles Schwab CEO Walter Bettinger speaks with CNBC about the SVB collapse and the pressure the banks have right now after that situation. The interviewer decides to ask about banking at Charles Schwab in which he shuffles and defends his company.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GVO1mSXj-wE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JBowens Crime",
+          "tags": [
+            "silicon valley bank",
+            "svb",
+            "charles schwab",
+            "charles schwab bank",
+            "cnbc",
+            "cnbc charles schwab",
+            "charles schwab ceo"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charles Schwab CEO SHUFFLING In CNBC Interview About Recent SVB Bank Collapse!",
+            "description": "If you enjoy business related news throw a like, comment, and subscribe for more!\n\nNGB Business News speaking on Charles Schwab CEO Walter Bettinger speaks with CNBC about the SVB collapse and the pressure the banks have right now after that situation. The interviewer decides to ask about banking at Charles Schwab in which he shuffles and defends his company."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "317",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gqb8ghVivjGV_o0K92FptsBhd-4",
+        "id": "E38qSneYQUU",
+        "snippet": {
+          "publishedAt": "2023-03-14T18:07:36Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Charles Schwab CEO on SVB fallout, contagion risk and deposits",
+          "description": "CNBC's Sara Eisen and Charles Schwab CEO Walter Bettinger join 'The Exchange' to discuss the impact of the collapse of Silicon Valley Bank on financials.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E38qSneYQUU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charles Schwab CEO on SVB fallout, contagion risk and deposits",
+            "description": "CNBC's Sara Eisen and Charles Schwab CEO Walter Bettinger join 'The Exchange' to discuss the impact of the collapse of Silicon Valley Bank on financials."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "93840",
+          "likeCount": "582",
+          "favoriteCount": "0",
+          "commentCount": "169"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

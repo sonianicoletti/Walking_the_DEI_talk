@@ -1,0 +1,1193 @@
+{
+  "ceo": "Jeffrey L. Harmening",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "bbANoY1k0i--O4wgpcLNVhQFx_o",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kUaBoYfqtkytUf_oYiWuHT1lZqw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AQRz53Set1o"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T16:15:01Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "General Mills CEO Jeff Harmening on latest earnings and guidance",
+          "description": "General Mills CEO Jeff Harmening joins 'Squawk on the Street' to discuss the company's latest earnings and guidance.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T16:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m8I-8Sxv0yRG-wt0sADNSWTeEpc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6PE12IDnFdw"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-22T15:10:53Z",
+          "channelId": "UCAfQPqT_HnvuFZHTOYw95Cw",
+          "title": "A Message on #WellbeingAtWork from Jeff Harmening, Chairman &amp; CEO, General Mills",
+          "description": "Chairman & CEO of General Mills Jeff Harmening his voice to the CEO video series for the #WellbeingAtWork campaign where ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Consumer Goods Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-22T15:10:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "utD7mjVFCQO1yQzsB58T8fChwes",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3B8OCjXiXlk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T21:06:13Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "General Mills CEO talks growth outlook tied to cereals, dry pet food",
+          "description": "General Mills (GIS) reported better-than-expected first-quarter earnings, narrowly outpacing adjusted earnings per share and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T21:06:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UYKDEG1vsaV2gZ2yXKroQqzyx-4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jW8W6LXilGU"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-14T17:15:56Z",
+          "channelId": "UCDg4fNHa4UIqfRbLgNpy5Lw",
+          "title": "Safety is Personal CEO Series: Doug L. Parker (Short Video Part 3)",
+          "description": "In her Safety is Personal video series, NSC President and CEO Lorraine Martin asks safety professionals what got them into safety ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NatlSafetyCouncil",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-14T17:15:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BpFKYYWep6ZInKlnfeZICU6DlJU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aYDWZUoczi8"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-22T14:11:42Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cramer\u2019s Mad Dash on Campbell Soup: People do not want to own recession stocks",
+          "description": "CNBC's Jim Cramer delivers his daily Mad Dash. For access to live and exclusive video from CNBC subscribe to CNBC PRO: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-22T14:11:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8-vpYGvV8Muvg-_alJ3EryfrSng",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zxxmgklrdk8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-22T10:00:56Z",
+          "channelId": "UCPlcWZ5thZhYQwRUM63puLw",
+          "title": "Things You SHOULD Know About General Mills",
+          "description": "Discover the Untold History of General Mills - From Flour Mill to Global Food Giant | Did you know General Mills, the iconic ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BizBlunders",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-22T10:00:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9OFcMZN_DKhiSdOrsDHwRU6Ov9U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DHcGz0RKOUk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-26T01:16:11Z",
+          "channelId": "UCYFMPziBvyNaQkOwoqQ9mug",
+          "title": "Essex Property Trust Maintaining Capital Allocation Discipline",
+          "description": "Angela Kleiman, president and CEO of Essex Property Trust, Inc. (NYSE: ESS), participated in a video interview at Nareit's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "REITs Bolivia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-26T01:16:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eOEGvhB9Fk3vHaUh0dwNGRfVaO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tRgek1aHnpA"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-09T18:26:03Z",
+          "channelId": "UCzzyFiG6cbWqrXD2Sp8j9Cw",
+          "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+          "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC's Mad Money for an ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cigna Healthcare",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-09T18:26:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pAR2CMBK7MBMTUmJNplFTd-oiKk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lsbOt62aPKg"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T18:27:58Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Quality characteristics in tech remain relevant for investors, says Wells Fargo&#39;s Paul Christopher",
+          "description": "Paul Christopher, head of global impact strategy at Wells Fargo Investment Institute, joins 'The Exchange' to discuss downside ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T18:27:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qedod3KexyknGcs2lyNPmFItadk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aT72hj5JfjA"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-26T22:12:22Z",
+          "channelId": "UCUTkmqWZE_ToRgbAi0oBTLQ",
+          "title": "Mike Sievert CEO of T-Mobile \u2013 Taking Care of Business | T-Mobile for Business",
+          "description": "In this episode, Mike Katz sits down with the man himself T-Mobile CEO Mike Sievert! They discuss his philosophy on risk-taking, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "T-Mobile for Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-26T22:12:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FQj0IV5qz-gqfKjbrjXV8IqTCDI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SC_jIsxpoa0"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-31T19:00:20Z",
+          "channelId": "UClLyc3C2K3C-RAh7eEJAwyg",
+          "title": "52 Week Low And DOWN 18% YTD! | Should I Buy GIS With A 3.5% Yield? | General Mills Stock Analysis |",
+          "description": "If you would like a copy of the Stock Valuation Model then click on the link below where you can grab this now!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dividend Talks",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-31T19:00:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "s2sgmCl4VrYe00zoPOQ5uc6afhQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "qQ-wwiGAAzdoLiFRWhUnm_p01L4",
+        "id": "AQRz53Set1o",
+        "snippet": {
+          "publishedAt": "2023-03-29T16:15:01Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "General Mills CEO Jeff Harmening on latest earnings and guidance",
+          "description": "General Mills CEO Jeff Harmening joins 'Squawk on the Street' to discuss the company's latest earnings and guidance. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AQRz53Set1o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "General Mills CEO Jeff Harmening on latest earnings and guidance",
+            "description": "General Mills CEO Jeff Harmening joins 'Squawk on the Street' to discuss the company's latest earnings and guidance. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3199",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BC6lKCFD9Q3RgpsOPzR8nTq8NkE",
+        "id": "6PE12IDnFdw",
+        "snippet": {
+          "publishedAt": "2023-09-22T15:10:53Z",
+          "channelId": "UCAfQPqT_HnvuFZHTOYw95Cw",
+          "title": "A Message on #WellbeingAtWork from Jeff Harmening, Chairman & CEO, General Mills",
+          "description": "Chairman & CEO of General Mills Jeff Harmening his voice to the CEO video series for the #WellbeingAtWork campaign where C-suite level executives of member companies part of the CGF Collaboration for Healthier Lives Coalition of Action talk about what wellbeing means to them personally and why it matters for businesses. \nLearn more here: tcgfhealthierlives.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6PE12IDnFdw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Consumer Goods Forum",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A Message on #WellbeingAtWork from Jeff Harmening, Chairman & CEO, General Mills",
+            "description": "Chairman & CEO of General Mills Jeff Harmening his voice to the CEO video series for the #WellbeingAtWork campaign where C-suite level executives of member companies part of the CGF Collaboration for Healthier Lives Coalition of Action talk about what wellbeing means to them personally and why it matters for businesses. \nLearn more here: tcgfhealthierlives.com"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT2M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "504",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Vudo_zoiLExYxC5mVnL30af-U_U",
+        "id": "3B8OCjXiXlk",
+        "snippet": {
+          "publishedAt": "2023-09-20T21:06:13Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "General Mills CEO talks growth outlook tied to cereals, dry pet food",
+          "description": "General Mills (GIS) reported better-than-expected first-quarter earnings, narrowly outpacing adjusted earnings per share and revenue while seeing net sales trend higher. General Mills Chairman and CEO Jeff Harmening joins Yahoo Finance Executive Editor Brian Sozzi to discuss value trends hitting the sales of Blue Buffalo pet products and its cereal brands. \"In the short-term, it is clear that... pet parents are more mobile than they have been and going back to the office more. So they're treating less, little bit less wet pet food,\" Harmening says. \"So, that was a drag on our sales. However, our dry pet food sales were up, so that's positive.\" Harmening goes on to talk about its innovation and prominence in its snacking and cereal categories. \"We're always focused on market share because it's one of the things that we can control, and we've grown our market share in more than 50% of our categories for five years in a row. It's because we're focused on advertising,\" Harmening explains. Lastly, Harmening comments on acquisitions in the food space and how the Cheerios-maker is addressing inflation. For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3B8OCjXiXlk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market",
+            "General Mills"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "General Mills CEO talks growth outlook tied to cereals, dry pet food",
+            "description": "General Mills (GIS) reported better-than-expected first-quarter earnings, narrowly outpacing adjusted earnings per share and revenue while seeing net sales trend higher. General Mills Chairman and CEO Jeff Harmening joins Yahoo Finance Executive Editor Brian Sozzi to discuss value trends hitting the sales of Blue Buffalo pet products and its cereal brands. \"In the short-term, it is clear that... pet parents are more mobile than they have been and going back to the office more. So they're treating less, little bit less wet pet food,\" Harmening says. \"So, that was a drag on our sales. However, our dry pet food sales were up, so that's positive.\" Harmening goes on to talk about its innovation and prominence in its snacking and cereal categories. \"We're always focused on market share because it's one of the things that we can control, and we've grown our market share in more than 50% of our categories for five years in a row. It's because we're focused on advertising,\" Harmening explains. Lastly, Harmening comments on acquisitions in the food space and how the Cheerios-maker is addressing inflation. For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT9M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1329",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "akGPs6Rn1vryxSgO3ag9Sjk_WkI",
+        "id": "jW8W6LXilGU",
+        "snippet": {
+          "publishedAt": "2023-06-14T17:15:56Z",
+          "channelId": "UCDg4fNHa4UIqfRbLgNpy5Lw",
+          "title": "Safety is Personal CEO Series: Doug L. Parker (Short Video Part 3)",
+          "description": "In her \u202fSafety is Personal video series, NSC President and CEO Lorraine Martin asks safety professionals what got them into safety, and what keeps them there. In this short clip, Assistant Secretary of Labor for Occupational Safety and Health (OSHA) Doug L. Parker provides insight into what employers should focus on to provide safe workplaces.  \n\nVisit NSC.org for safety tips and resources for the workplace and roadway.  \n\nFind more #SafetyIsPersonal video conversations here: safetyispersonal.org.\n\n#WorkplaceSafety #RoadwaySafety",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jW8W6LXilGU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NatlSafetyCouncil",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Safety is Personal CEO Series: Doug L. Parker (Short Video Part 3)",
+            "description": "In her \u202fSafety is Personal video series, NSC President and CEO Lorraine Martin asks safety professionals what got them into safety, and what keeps them there. In this short clip, Assistant Secretary of Labor for Occupational Safety and Health (OSHA) Doug L. Parker provides insight into what employers should focus on to provide safe workplaces.  \n\nVisit NSC.org for safety tips and resources for the workplace and roadway.  \n\nFind more #SafetyIsPersonal video conversations here: safetyispersonal.org.\n\n#WorkplaceSafety #RoadwaySafety"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "889",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HFTIqNeC-FXSaRGKED4Z12vJYU0",
+        "id": "aYDWZUoczi8",
+        "snippet": {
+          "publishedAt": "2023-08-22T14:11:42Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cramer\u2019s Mad Dash on Campbell Soup: People do not want to own recession stocks",
+          "description": "CNBC\u2019s Jim Cramer delivers his daily Mad Dash. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aYDWZUoczi8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cramer\u2019s Mad Dash on Campbell Soup: People do not want to own recession stocks",
+            "description": "CNBC\u2019s Jim Cramer delivers his daily Mad Dash. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3205",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "9"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ag3CmECn055kdDtw9fbg4Cy_EQw",
+        "id": "zxxmgklrdk8",
+        "snippet": {
+          "publishedAt": "2023-09-22T10:00:56Z",
+          "channelId": "UCPlcWZ5thZhYQwRUM63puLw",
+          "title": "Things You SHOULD Know About General Mills",
+          "description": "Discover the Untold History of General Mills - From Flour Mill to Global Food Giant | Did you know General Mills, the iconic packaged food company, had humble beginnings as a flour mill? In this video, we delve into the intriguing and lesser-known facts about General Mills' history, legacy, and achievements. From its early days as the \"\"Minneapolis Milling Company\"\" to becoming a leader in the breakfast cereal market, General Mills has been on a remarkable journey of diversification and adaptation.\nJoin us as we uncover surprising stories about General Mills' ventures into the toy-making, clothing, and restaurant industries, which led to the creation of iconic products like Play-Doh, Spirographs, and Red Lobster. We also explore how General Mills has evolved its food portfolio to include beloved brands like Cheerios, Pillsbury, Yoplait, and more.\nLearn how General Mills has responded to changing consumer preferences by introducing healthier options and reducing artificial ingredients, all while maintaining its status as a global food conglomerate for over a hundred and fifty years.\nComment below with your thoughts on the most surprising facts from this video and your favorite General Mills product. Don't forget to hit the like button and subscribe for more captivating content on your favorite companies. Next time you shop for groceries, keep an eye out for the diverse range of General Mills products throughout the store - you'll be impressed!\"\n************\nCheck Out These Videos:\n1. The Jim Henson Company - https://youtu.be/tYeTyOuLLUc\n2. Southwest Airlines - https://youtu.be/jIkDCI91NBk\n3. WinCo - https://youtu.be/0f0Mi7MlfRA\n\n************\nDISCLAIMER:  We're Not Journalists or Financial Advisors. We May Receive a Commission On Affiliate Links Used. All Content Is Used Within the Parameters of Fair Use. Please View our About Page to Contact us. This Video is Made For Entertainment Purposes Only.\n\n************\nHow Did General Mills Get So Big?\nThe Untold Truth of General Mills\nThe Truth about General Mills\nThe Surprising History of General Mills\nHow General Mills Was Built\nUnusual Facts About General Mills\n\n#companyx #generalmills #food",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zxxmgklrdk8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BizBlunders",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Things You SHOULD Know About General Mills",
+            "description": "Discover the Untold History of General Mills - From Flour Mill to Global Food Giant | Did you know General Mills, the iconic packaged food company, had humble beginnings as a flour mill? In this video, we delve into the intriguing and lesser-known facts about General Mills' history, legacy, and achievements. From its early days as the \"\"Minneapolis Milling Company\"\" to becoming a leader in the breakfast cereal market, General Mills has been on a remarkable journey of diversification and adaptation.\nJoin us as we uncover surprising stories about General Mills' ventures into the toy-making, clothing, and restaurant industries, which led to the creation of iconic products like Play-Doh, Spirographs, and Red Lobster. We also explore how General Mills has evolved its food portfolio to include beloved brands like Cheerios, Pillsbury, Yoplait, and more.\nLearn how General Mills has responded to changing consumer preferences by introducing healthier options and reducing artificial ingredients, all while maintaining its status as a global food conglomerate for over a hundred and fifty years.\nComment below with your thoughts on the most surprising facts from this video and your favorite General Mills product. Don't forget to hit the like button and subscribe for more captivating content on your favorite companies. Next time you shop for groceries, keep an eye out for the diverse range of General Mills products throughout the store - you'll be impressed!\"\n************\nCheck Out These Videos:\n1. The Jim Henson Company - https://youtu.be/tYeTyOuLLUc\n2. Southwest Airlines - https://youtu.be/jIkDCI91NBk\n3. WinCo - https://youtu.be/0f0Mi7MlfRA\n\n************\nDISCLAIMER:  We're Not Journalists or Financial Advisors. We May Receive a Commission On Affiliate Links Used. All Content Is Used Within the Parameters of Fair Use. Please View our About Page to Contact us. This Video is Made For Entertainment Purposes Only.\n\n************\nHow Did General Mills Get So Big?\nThe Untold Truth of General Mills\nThe Truth about General Mills\nThe Surprising History of General Mills\nHow General Mills Was Built\nUnusual Facts About General Mills\n\n#companyx #generalmills #food"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10579",
+          "likeCount": "197",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tl0Kx7QZhM25HEG4G3XH-jldUJA",
+        "id": "DHcGz0RKOUk",
+        "snippet": {
+          "publishedAt": "2023-07-26T01:16:11Z",
+          "channelId": "UCYFMPziBvyNaQkOwoqQ9mug",
+          "title": "Essex Property Trust Maintaining Capital Allocation Discipline",
+          "description": "Angela Kleiman, president and CEO of Essex Property Trust, Inc. (NYSE: ESS), participated in a video interview at Nareit\u2019s REITweek: 2023 Investor Conference, held in New York June 6-8.\n\nKleiman discussed her priorities for the company in her new role as CEO, fundamentals in Essex\u2019s core West Coast markets, including the supply outlook and whether Essex is seeing an impact on leasing levels from layoffs in the tech sector, how active Essex is likely to be on the acquisition, disposition, and development front for the remainder of 2023, and the outlook for the multifamily sector more broadly.\n#REITsBolivia #REITs",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "REITs Bolivia",
+          "tags": [
+            "REITs Bolivia",
+            "REITs",
+            "Real Estate Investment Trust",
+            "Real Estate Investment Trust Bolivia",
+            "Agente Inmobiliario",
+            "Inmobiliaria",
+            "Real Estate Bolivia",
+            "Real Estate",
+            "Bienes Raices",
+            "Bienes Ra\u00edces Bolivia",
+            "Comprar",
+            "Vender",
+            "Alquilar",
+            "Anticr\u00e9tico",
+            "Corredor Inmobiliario"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Essex Property Trust Maintaining Capital Allocation Discipline",
+            "description": "Angela Kleiman, president and CEO of Essex Property Trust, Inc. (NYSE: ESS), participated in a video interview at Nareit\u2019s REITweek: 2023 Investor Conference, held in New York June 6-8.\n\nKleiman discussed her priorities for the company in her new role as CEO, fundamentals in Essex\u2019s core West Coast markets, including the supply outlook and whether Essex is seeing an impact on leasing levels from layoffs in the tech sector, how active Essex is likely to be on the acquisition, disposition, and development front for the remainder of 2023, and the outlook for the multifamily sector more broadly.\n#REITsBolivia #REITs"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZgArGl8YIu2P9kICPbwUrUHl_zs",
+        "id": "tRgek1aHnpA",
+        "snippet": {
+          "publishedAt": "2023-05-09T18:26:03Z",
+          "channelId": "UCzzyFiG6cbWqrXD2Sp8j9Cw",
+          "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+          "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC\u2019s Mad Money for an interview with host Jim Cramer. \nWatch the full interview below, which covered:   \nPharmacy Benefit Managers (PBMs): Overall growth in our business, our commitment to transparency, and positive outcomes for patients. \nWho we serve: Employers of all sizes, independent health plans, hospital systems, and government agencies. \nBiosimilars: Affordability and choice for patients and customers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cigna Healthcare",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+            "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC\u2019s Mad Money for an interview with host Jim Cramer. \nWatch the full interview below, which covered:   \nPharmacy Benefit Managers (PBMs): Overall growth in our business, our commitment to transparency, and positive outcomes for patients. \nWho we serve: Employers of all sizes, independent health plans, hospital systems, and government agencies. \nBiosimilars: Affordability and choice for patients and customers."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2712",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pw3AKD6ngclf3o7CJD1IaTF-T68",
+        "id": "lsbOt62aPKg",
+        "snippet": {
+          "publishedAt": "2023-03-29T18:27:58Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Quality characteristics in tech remain relevant for investors, says Wells Fargo's Paul Christopher",
+          "description": "Paul Christopher, head of global impact strategy at Wells Fargo Investment Institute, joins 'The Exchange' to discuss downside risks ahead, downtrend signs in inflation, and global tech companies making gains off a weaker dollar. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lsbOt62aPKg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Quality characteristics in tech remain relevant for investors, says Wells Fargo's Paul Christopher",
+            "description": "Paul Christopher, head of global impact strategy at Wells Fargo Investment Institute, joins 'The Exchange' to discuss downside risks ahead, downtrend signs in inflation, and global tech companies making gains off a weaker dollar. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3269",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ck_Aj5IowjPbVoGPBurREMM0Rbc",
+        "id": "aT72hj5JfjA",
+        "snippet": {
+          "publishedAt": "2023-04-26T22:12:22Z",
+          "channelId": "UCUTkmqWZE_ToRgbAi0oBTLQ",
+          "title": "Mike Sievert CEO of T-Mobile \u2013 Taking Care of Business | T-Mobile for Business",
+          "description": "In this episode, Mike Katz sits down with the man himself T-Mobile CEO Mike Sievert! They discuss his philosophy on risk-taking, navigating the challenges of merging with Sprint, and becoming CEO during a pandemic.\n\n00:00 Introduction\n00:16 Mike Sievert's Background at T-Mobile\n03:34 Adapting to IT Challenges\n07:06 Adapting to Remote Work and Innovations\n12:05 Risk-Taking Culture and Importance\n17:31 Customer Influence on Company Decisions\n20:34 Risk-Taking on People and Leadership\n25:22 How to Navigate Challenges Embracing 5G Innovation\n32:48 Future of 5G and T-Mobile's Leadership Role\n\n\nSubscribe to the T-Mobile for Business YouTube channel to learn about the latest in business technology, and how T-Mobile is working to make your business better!\nhttps://www.youtube.com/@t-mobileforbusiness?sub_confirmation=1\n\nLearn more about T-Mobile for Business here:\nWebsite: http://www.t-mobile.com/business\nLinkedIn: https://www.linkedin.com/showcase/t-mobile-business/\nTwitter: https://twitter.com/TMobileBusiness\nFacebook: https://www.facebook.com/TMobileforBusiness\n\nIn this episode of Taking Care of Business by #TMobileForBusiness, #MikeKatz interviews T-Mobile CEO #MikeSievert.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aT72hj5JfjA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "T-Mobile for Business",
+          "tags": [
+            "t mobile for business",
+            "t mobile",
+            "t mobile ceo",
+            "mike sievert",
+            "sprint merger",
+            "sprint tmobile merger",
+            "t mobile sprint",
+            "mike katz",
+            "mike katz interview",
+            "entrepreneurship",
+            "business",
+            "taking care of business",
+            "mike katz podcast",
+            "t mobile podcast",
+            "covid19",
+            "Mike Sievert",
+            "tmobile ceo",
+            "mike sievert t-mobile",
+            "mike sievert ceo"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Sievert CEO of T-Mobile \u2013 Taking Care of Business | T-Mobile for Business",
+            "description": "In this episode, Mike Katz sits down with the man himself T-Mobile CEO Mike Sievert! They discuss his philosophy on risk-taking, navigating the challenges of merging with Sprint, and becoming CEO during a pandemic.\n\n00:00 Introduction\n00:16 Mike Sievert's Background at T-Mobile\n03:34 Adapting to IT Challenges\n07:06 Adapting to Remote Work and Innovations\n12:05 Risk-Taking Culture and Importance\n17:31 Customer Influence on Company Decisions\n20:34 Risk-Taking on People and Leadership\n25:22 How to Navigate Challenges Embracing 5G Innovation\n32:48 Future of 5G and T-Mobile's Leadership Role\n\n\nSubscribe to the T-Mobile for Business YouTube channel to learn about the latest in business technology, and how T-Mobile is working to make your business better!\nhttps://www.youtube.com/@t-mobileforbusiness?sub_confirmation=1\n\nLearn more about T-Mobile for Business here:\nWebsite: http://www.t-mobile.com/business\nLinkedIn: https://www.linkedin.com/showcase/t-mobile-business/\nTwitter: https://twitter.com/TMobileBusiness\nFacebook: https://www.facebook.com/TMobileforBusiness\n\nIn this episode of Taking Care of Business by #TMobileForBusiness, #MikeKatz interviews T-Mobile CEO #MikeSievert."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT37M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1129",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aRDLKuGEnAYdcqasqKxdmsmye1o",
+        "id": "SC_jIsxpoa0",
+        "snippet": {
+          "publishedAt": "2023-08-31T19:00:20Z",
+          "channelId": "UClLyc3C2K3C-RAh7eEJAwyg",
+          "title": "52 Week Low And DOWN 18% YTD! | Should I Buy GIS With A 3.5% Yield? | General Mills Stock Analysis |",
+          "description": "If you would like a copy of the Stock Valuation Model then click on the link below where you can grab this now!\n\nhttps://www.buymeacoffee.com/DIVIDENDTALKS\n\nJoin the Community at the Patreon link below!\n\nhttps://www.patreon.com/DividendTalks\n\nFollow me on Twitter - www.twitter.com/dividendtalks\n\nDo you want to get free shares worth up to \u00a3100?\n\nJoin Trading 212 Invest with my link, and we will both get free shares\n\nhttps://www.trading212.com/invite/Gux0x99S\n\nIn this video we will analyse General Mills (GIS)  stock using our 4 valuations methods to get to our intrinsic value. We will then apply a margin of safety to get to our acceptable buy price.\n\nWe will also take a look at the dividend safety and other key financial metrics. \n\nLet me know your thoughts in the comments.\n\nI am not a financial advisor or licensed professional. Nothing I say or produce on YouTube or anywhere else, should be considered as advice. All content is for educational purposes only. I am not responsible for any financial losses or gains. Invest and trade at your own risk.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SC_jIsxpoa0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dividend Talks",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "52 Week Low And DOWN 18% YTD! | Should I Buy GIS With A 3.5% Yield? | General Mills Stock Analysis |",
+            "description": "If you would like a copy of the Stock Valuation Model then click on the link below where you can grab this now!\n\nhttps://www.buymeacoffee.com/DIVIDENDTALKS\n\nJoin the Community at the Patreon link below!\n\nhttps://www.patreon.com/DividendTalks\n\nFollow me on Twitter - www.twitter.com/dividendtalks\n\nDo you want to get free shares worth up to \u00a3100?\n\nJoin Trading 212 Invest with my link, and we will both get free shares\n\nhttps://www.trading212.com/invite/Gux0x99S\n\nIn this video we will analyse General Mills (GIS)  stock using our 4 valuations methods to get to our intrinsic value. We will then apply a margin of safety to get to our acceptable buy price.\n\nWe will also take a look at the dividend safety and other key financial metrics. \n\nLet me know your thoughts in the comments.\n\nI am not a financial advisor or licensed professional. Nothing I say or produce on YouTube or anywhere else, should be considered as advice. All content is for educational purposes only. I am not responsible for any financial losses or gains. Invest and trade at your own risk."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M1S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2250",
+          "likeCount": "116",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

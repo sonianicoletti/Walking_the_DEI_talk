@@ -1,0 +1,235 @@
+{
+  "ceo": "John Schlifske",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "MvxGRgOJ6sDiHBbKcmvE4ESqaq4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9M0mxdtf6cw-hhuFLi65Go8c0p8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g8vF0cr1gRE"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-13T14:12:08Z",
+          "channelId": "UCATT_j1SVZdC7Dc-B1Orneg",
+          "title": "Kristin Peck, CEO, Zoetis on Animal Health, Nutrition and Technology Innovation Europe 2023",
+          "description": "Kristin Peck, CEO of Headline Partner, Zoetis, shares her thoughts on the future of animal health ahead of Animal Health, Nutrition ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kisaco Research",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-13T14:12:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qu4xUDScVkqK1LXSJv5W1UC3O60",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YOd8I_SmB5o"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-08T16:35:52Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Zoetis CEO Kristin Peck on Q2 earnings results, state of animal health care",
+          "description": "Kristin Peck, Zoetis CEO, joins 'Squawk on the Street' to discuss what the company's guidance was largely driven by, the most ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-08T16:35:52Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "LR9KvCfQy1XpsxrSCBgqqIVu6A8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Mhn32NsTPS11P7soGDQl4ssoO6I",
+        "id": "g8vF0cr1gRE",
+        "snippet": {
+          "publishedAt": "2023-02-13T14:12:08Z",
+          "channelId": "UCATT_j1SVZdC7Dc-B1Orneg",
+          "title": "Kristin Peck, CEO, Zoetis on Animal Health, Nutrition and Technology Innovation Europe 2023",
+          "description": "Kristin Peck, CEO of Headline Partner, Zoetis, shares her thoughts on the future of animal health ahead of Animal Health, Nutrition and Technology Innovation Europe 2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/g8vF0cr1gRE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kisaco Research",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kristin Peck, CEO, Zoetis on Animal Health, Nutrition and Technology Innovation Europe 2023",
+            "description": "Kristin Peck, CEO of Headline Partner, Zoetis, shares her thoughts on the future of animal health ahead of Animal Health, Nutrition and Technology Innovation Europe 2023."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "754",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KydgHWUaCB8AuE80a-4EXPw2CSw",
+        "id": "YOd8I_SmB5o",
+        "snippet": {
+          "publishedAt": "2023-08-08T16:35:52Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Zoetis CEO Kristin Peck on Q2 earnings results, state of animal health care",
+          "description": "Kristin Peck, Zoetis CEO, joins 'Squawk on the Street' to discuss what the company's guidance was largely driven by, the most important aspect of Zoetis' business, and how new GLP-1 drugs could play into Zoetis' business. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YOd8I_SmB5o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Zoetis CEO Kristin Peck on Q2 earnings results, state of animal health care",
+            "description": "Kristin Peck, Zoetis CEO, joins 'Squawk on the Street' to discuss what the company's guidance was largely driven by, the most important aspect of Zoetis' business, and how new GLP-1 drugs could play into Zoetis' business. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1849",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

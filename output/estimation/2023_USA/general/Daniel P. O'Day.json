@@ -1,0 +1,761 @@
+{
+  "ceo": "Daniel P. O'Day",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "qoPDUgcffuO-_0HTmGGo9HO7d_k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lQOSd9re-R8flIyzeUScq2lbzEs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rlJYN0JNSJs"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-26T01:33:23Z",
+          "channelId": "UCsKffM-PmDr0zAdp9E-dQyg",
+          "title": "The Best Gay at the beach",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Art Bezrukavenko",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-26T01:33:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4GNUTOTzlMpmCTOoAfJKvGK6z-I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wtibdEh7VfY"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-30T19:00:31Z",
+          "channelId": "UC9dbJfyzwduvCb0AFafPPkw",
+          "title": "Joe Rogan Scared by Podcast Guest",
+          "description": "shorts.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rogan Shorts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-30T19:00:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "e7wX-6sIpUuJNFzeQr0iK3NQix0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "o87BOK5bPkI"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-17T14:50:36Z",
+          "channelId": "UCcITKHzPg1yFgG9X8fKxg4A",
+          "title": "Going to miss these 5th graders. \ud83d\ude2d\ud83e\udd79 #students #teacher #icantdance",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Victoria",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-17T14:50:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SARDRBkXHK_WmmEQ5mvQrf3QzmE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4XAsOsM7AFE"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-02T21:34:34Z",
+          "channelId": "UCGxr1xNr6oaEGN51RWq9PaA",
+          "title": "Last day of school!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mr. Montzingo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-02T21:34:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cLk2aiv0zXzpGtsoPBPL7DwDaRg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kXA7kJUFptE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T15:09:06Z",
+          "channelId": "UC4StGODOeTU2ccMI7cE2FXQ",
+          "title": "Exposing \u201cThe Best\u201d Trading Strategy #forex #daytrading #trader #advice #forextrading #tips #smc",
+          "description": "HAWAII https://hawaii.deeppockets.com: Trade Live From Hawaii With Me! This is going to be the BIGGEST bootcamp I've ever ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chris \"Swaggy C\" Williams",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T15:09:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d-szWpX6fuCzz-ir7T7pnIvz88M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dJdqn5v4Dkw"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T15:00:02Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "NewJeans (\ub274\uc9c4\uc2a4) &#39;ASAP&#39; Official MV",
+          "description": "NewJeans (\ub274\uc9c4\uc2a4) 'ASAP' Official MV Producer: MIN HEE JIN Music Video Director: Jakyoung Kim \u00a9 2023 ADOR. All Rights ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T15:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WcN6u_wJb05ncXqgzOp9tx-spwA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7ADSdnbHtZk"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-30T17:00:07Z",
+          "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+          "title": "Alex Cooper Opens Up On The Call Her Daddy\u00a0Co-Host\u00a0Feud...",
+          "description": "Alex Cooper, the host of 'Call Her Daddy', reveals what really went on behind the curtain with her co-host and why she now has a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Diary Of A CEO Clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-30T17:00:07Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "t1TTLs8CRXQX9WrrNG-NlXZ_xeI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pHqn2CZ77pZb2ApE8_hJNPvDqKY",
+        "id": "rlJYN0JNSJs",
+        "snippet": {
+          "publishedAt": "2023-03-26T01:33:23Z",
+          "channelId": "UCsKffM-PmDr0zAdp9E-dQyg",
+          "title": "The Best Gay at the beach",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rlJYN0JNSJs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Art Bezrukavenko",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Best Gay at the beach",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8779549",
+          "likeCount": "108958",
+          "favoriteCount": "0",
+          "commentCount": "2173"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JAGeCRrFog87rNcdrTBfEISV08A",
+        "id": "wtibdEh7VfY",
+        "snippet": {
+          "publishedAt": "2023-03-30T19:00:31Z",
+          "channelId": "UC9dbJfyzwduvCb0AFafPPkw",
+          "title": "Joe Rogan Scared by Podcast Guest",
+          "description": "#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rogan Shorts",
+          "tags": [
+            "joe rogan",
+            "jre",
+            "podcast",
+            "joe rogan podcast",
+            "jre podcast",
+            "joey diaz",
+            "theo von",
+            "andrew schulz",
+            "joey diaz joe rogan",
+            "joe rogan joey diaz",
+            "joe rogan experience",
+            "neil degrasse",
+            "neil degrasse tyson",
+            "david goggins",
+            "ben shapiro",
+            "theo von joe rogan",
+            "brendan schaub",
+            "ufc",
+            "dana white",
+            "mma",
+            "joe rogan ufc",
+            "andrew schulz podcast",
+            "elon musk",
+            "joe rogan elon musk",
+            "liver king",
+            "trump",
+            "donald trump",
+            "joe biden",
+            "joe rogan shorts",
+            "jre shorts",
+            "rogan shorts",
+            "rogan",
+            "rogan podcast",
+            "shorts",
+            "comedy"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Joe Rogan Scared by Podcast Guest",
+            "description": "#shorts"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22416662",
+          "likeCount": "768920",
+          "favoriteCount": "0",
+          "commentCount": "24377"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OaE5INKO6Gq_BAon7qhwKf6kzdI",
+        "id": "o87BOK5bPkI",
+        "snippet": {
+          "publishedAt": "2023-05-17T14:50:36Z",
+          "channelId": "UCcITKHzPg1yFgG9X8fKxg4A",
+          "title": "Going to miss these 5th graders. \ud83d\ude2d\ud83e\udd79 #students #teacher #icantdance",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/o87BOK5bPkI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Victoria",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Going to miss these 5th graders. \ud83d\ude2d\ud83e\udd79 #students #teacher #icantdance",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3230718",
+          "likeCount": "38519",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GO5V-yy9sd68NTg1_cCVOf5SfHs",
+        "id": "4XAsOsM7AFE",
+        "snippet": {
+          "publishedAt": "2023-06-02T21:34:34Z",
+          "channelId": "UCGxr1xNr6oaEGN51RWq9PaA",
+          "title": "Last day of school!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4XAsOsM7AFE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr. Montzingo",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Last day of school!",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5097577",
+          "favoriteCount": "0",
+          "commentCount": "674"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MqG8FpWpWvgOcD3-VdFBK4NXFr4",
+        "id": "kXA7kJUFptE",
+        "snippet": {
+          "publishedAt": "2023-11-01T15:09:06Z",
+          "channelId": "UC4StGODOeTU2ccMI7cE2FXQ",
+          "title": "Exposing \u201cThe Best\u201d Trading Strategy #forex #daytrading #trader #advice #forextrading #tips #smc",
+          "description": "\ud83c\udf3a: HAWAII \ud83d\udc49 https://hawaii.deeppockets.com: Trade Live From Hawaii With Me! This is going to be the BIGGEST bootcamp I've ever done. If you want real transformation, you'll be here \u2014 May 26-28 (Limited Spots):\n\ud83e\udd1d\ud83c\udffe MENTORSHIP \ud83d\udc49  https://deeppockets.com: The greatest 1-on-1 Mentorship that no one in the industry has dared to build \u2014 You profit first, and I get paid after. \n\ud83e\udd16 MY AI BRAIN \ud83d\udc49 https://swaggysbrain.com: If you ever wondered what it was like to trade side by side with me, you'll get this right now. This is my entire brain in your pocket, 24/7. You can start with a 3 day Free Trial.\n\ud83c\udfe6 PROP FIRM \ud83d\udc49 https://tradeprime.com: The only Prop Firm that hasn't denied a SINGLE PAYOUT, even if you breach your account! We're offering 50% OFF ALL accounts right now. Discount Code: MAYONLY\n\ud83d\udcb0 TRADES ONLY \ud83d\udc49 https://tradesonly.com: Get ALL of my live trades for the remainder of 2026. This is not a signals group. These are MY trades. So if you ever wondered what I'm trading, when I'm trading it, and in REAL time, this is for you. \n\ud83d\udcbb TRADING PLATFORM \ud83d\udc49 https://tradeprime.io: This is going to completely change the game. I've spent close to a year building this, and we plan on launching soon. Join the waitlist to my new Trading Platform designed to help you start WINNING. \n\n\u26a0\ufe0f DISCLAIMER: I am not a financial adviser. I'm just a guy sharing my journey. The videos on my channel are for educational and entertainment purposes only. I'm just showing you guys how I invest and day trade, but remember, investing of any kind involves risk. Your investments are solely your responsibility and not mine. While day trading can bring serious gains, it can also bring serious losses! So make sure you do your own research to fully understand the market before diving in. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore should not invest money that you can't afford to lose. The fluctuation of the market can work for you or against you. You should carefully consider your investment objectives and experience before deciding to trade in the market. Again, what you invest in is solely your responsibility.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kXA7kJUFptE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chris \"Swaggy C\" Williams",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Exposing \u201cThe Best\u201d Trading Strategy #forex #daytrading #trader #advice #forextrading #tips #smc",
+            "description": "\ud83c\udf3a: HAWAII \ud83d\udc49 https://hawaii.deeppockets.com: Trade Live From Hawaii With Me! This is going to be the BIGGEST bootcamp I've ever done. If you want real transformation, you'll be here \u2014 May 26-28 (Limited Spots):\n\ud83e\udd1d\ud83c\udffe MENTORSHIP \ud83d\udc49  https://deeppockets.com: The greatest 1-on-1 Mentorship that no one in the industry has dared to build \u2014 You profit first, and I get paid after. \n\ud83e\udd16 MY AI BRAIN \ud83d\udc49 https://swaggysbrain.com: If you ever wondered what it was like to trade side by side with me, you'll get this right now. This is my entire brain in your pocket, 24/7. You can start with a 3 day Free Trial.\n\ud83c\udfe6 PROP FIRM \ud83d\udc49 https://tradeprime.com: The only Prop Firm that hasn't denied a SINGLE PAYOUT, even if you breach your account! We're offering 50% OFF ALL accounts right now. Discount Code: MAYONLY\n\ud83d\udcb0 TRADES ONLY \ud83d\udc49 https://tradesonly.com: Get ALL of my live trades for the remainder of 2026. This is not a signals group. These are MY trades. So if you ever wondered what I'm trading, when I'm trading it, and in REAL time, this is for you. \n\ud83d\udcbb TRADING PLATFORM \ud83d\udc49 https://tradeprime.io: This is going to completely change the game. I've spent close to a year building this, and we plan on launching soon. Join the waitlist to my new Trading Platform designed to help you start WINNING. \n\n\u26a0\ufe0f DISCLAIMER: I am not a financial adviser. I'm just a guy sharing my journey. The videos on my channel are for educational and entertainment purposes only. I'm just showing you guys how I invest and day trade, but remember, investing of any kind involves risk. Your investments are solely your responsibility and not mine. While day trading can bring serious gains, it can also bring serious losses! So make sure you do your own research to fully understand the market before diving in. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore should not invest money that you can't afford to lose. The fluctuation of the market can work for you or against you. You should carefully consider your investment objectives and experience before deciding to trade in the market. Again, what you invest in is solely your responsibility."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "351909",
+          "likeCount": "17477",
+          "favoriteCount": "0",
+          "commentCount": "164"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "z_BGTPh3MJ7iW_FcCsMAk0rnKBI",
+        "id": "dJdqn5v4Dkw",
+        "snippet": {
+          "publishedAt": "2023-07-25T15:00:02Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "NewJeans (\ub274\uc9c4\uc2a4) 'ASAP' Official MV",
+          "description": "NewJeans (\ub274\uc9c4\uc2a4) 'ASAP' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Jakyoung Kim\n\n\u00a9 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#Time_to_NewJeans\n#NewJeans #\ub274\uc9c4\uc2a4 #NewJeans_GetUp\n#NewJeans_ASAP \n#ADOR #\uc5b4\ub3c4\uc5b4",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "tags": [
+            "HYBE",
+            "HYBE LABELS",
+            "\ud558\uc774\ube0c",
+            "\ud558\uc774\ube0c\ub808\uc774\ube14\uc988"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "NewJeans (\ub274\uc9c4\uc2a4) 'ASAP' Official MV",
+            "description": "NewJeans (\ub274\uc9c4\uc2a4) 'ASAP' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Jakyoung Kim\n\n\u00a9 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#Time_to_NewJeans\n#NewJeans #\ub274\uc9c4\uc2a4 #NewJeans_GetUp\n#NewJeans_ASAP \n#ADOR #\uc5b4\ub3c4\uc5b4"
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT2M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "38359660",
+          "likeCount": "995800",
+          "favoriteCount": "0",
+          "commentCount": "23015"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k-uz26em8R8dKazq1_VP4nmnlcU",
+        "id": "7ADSdnbHtZk",
+        "snippet": {
+          "publishedAt": "2023-03-30T17:00:07Z",
+          "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+          "title": "Alex Cooper Opens Up On The Call Her Daddy\u00a0Co-Host\u00a0Feud...",
+          "description": "Alex Cooper, the host of 'Call Her Daddy', reveals what really went on behind the curtain with her co-host and why she now has a solo podcast...\n\n\ud83d\udcfa Watch the full episode here - \nhttps://youtu.be/knPqBc2qJ8E\n\n\u2764\ufe0f Subscribe to our main channel - \nwww.youtube.com/TheDiaryOfACEO\n\nJoin my exclusive Telegram Community: https://g2ul0.app.link/StevenBartlettCommunity\n\n\ud83d\udcd6 Alex Cooper is the host of the podcast, \u201cCall Her Daddy\u201d.  In this expansive conversation Alex discusses her journey to becoming Daddy. From overcoming childhood bullying and self-doubt, hustling and taking advantage of every opportunity that presented itself, Alex has grown and evolved into the icon she is today and taken her devoted Daddy Gang along for the ride.\n\nSponsor:\nHuel - https://g2ul0.app.link/G4RjcdKNKsb\n\n#thediaryofaceo #doac #callherdaddy #alexcooper",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7ADSdnbHtZk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Diary Of A CEO Clips",
+          "tags": [
+            "the diary of a ceo",
+            "podcast",
+            "the diary of a ceo podcast",
+            "life lessons",
+            "ceo",
+            "Steven Bartlett",
+            "life advice",
+            "doac",
+            "diary of a ceo",
+            "diary of a ceo clips",
+            "Steve Bartlett Podcast",
+            "alex",
+            "cooper",
+            "alex cooper call her daddy",
+            "alex cooper podcast",
+            "alex cooper interview",
+            "alex cooper and sofia franklyn",
+            "alex cooper story",
+            "call her daddy podcast",
+            "call her daddy",
+            "call her daddy best moments",
+            "call her daddy best advice",
+            "call her daddy best tips",
+            "hailey bieber",
+            "hailey bieber call her daddy"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Alex Cooper Opens Up On The Call Her Daddy\u00a0Co-Host\u00a0Feud...",
+            "description": "Alex Cooper, the host of 'Call Her Daddy', reveals what really went on behind the curtain with her co-host and why she now has a solo podcast...\n\n\ud83d\udcfa Watch the full episode here - \nhttps://youtu.be/knPqBc2qJ8E\n\n\u2764\ufe0f Subscribe to our main channel - \nwww.youtube.com/TheDiaryOfACEO\n\nJoin my exclusive Telegram Community: https://g2ul0.app.link/StevenBartlettCommunity\n\n\ud83d\udcd6 Alex Cooper is the host of the podcast, \u201cCall Her Daddy\u201d.  In this expansive conversation Alex discusses her journey to becoming Daddy. From overcoming childhood bullying and self-doubt, hustling and taking advantage of every opportunity that presented itself, Alex has grown and evolved into the icon she is today and taken her devoted Daddy Gang along for the ride.\n\nSponsor:\nHuel - https://g2ul0.app.link/G4RjcdKNKsb\n\n#thediaryofaceo #doac #callherdaddy #alexcooper"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "83117",
+          "likeCount": "620",
+          "favoriteCount": "0",
+          "commentCount": "89"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

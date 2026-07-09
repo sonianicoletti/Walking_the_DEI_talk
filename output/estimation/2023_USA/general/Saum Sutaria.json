@@ -1,0 +1,126 @@
+{
+  "ceo": "Saum Sutaria",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pqFjlH_VZSPzvqODEw5pxwK1Qs4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8tbMrfTMlQq-QyWOOqhmwdMNyOE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q_2hkVcYo6g"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-11T19:30:01Z",
+          "channelId": "UCedqqjlQZQGqyR_a_2c8rMg",
+          "title": "TPG RE Finance Trust Focusing on Recycling Capital into New Opportunities",
+          "description": "Doug Bouquard, CEO of TPG RE Finance Trust, Inc. (NYSE: TRTX), participated in a video interview at Nareit's REITweek: 2023 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nareit1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-11T19:30:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "GcfMVvYR7GzS78SzaRs-DzVGsxE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pZGyK-yneacpddZq6RJzJJ2eCtw",
+        "id": "Q_2hkVcYo6g",
+        "snippet": {
+          "publishedAt": "2023-07-11T19:30:01Z",
+          "channelId": "UCedqqjlQZQGqyR_a_2c8rMg",
+          "title": "TPG RE Finance Trust Focusing on Recycling Capital into New Opportunities",
+          "description": "Doug Bouquard, CEO of TPG RE Finance Trust, Inc. (NYSE: TRTX), participated in a video interview at Nareit\u2019s REITweek: 2023 Investor Conference, held in New York June 6-8.\n\nBouquard discussed steps TPG has taken in response to the pressure on real estate credit and equity markets, how active TRTX has been in terms of originating new loans, as well as some of the top priorities for the rest of 2023 and into 2024.\n\nRead more: https://www.reit.com/news/video/tpg-re-finance-trust-focusing-recycling-capital-new-opportunities",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q_2hkVcYo6g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nareit1",
+          "tags": [
+            "Dough Bouquard",
+            "Nareit",
+            "REITs",
+            "REITweek 2023",
+            "TPG RE Finance Trust Inc."
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "TPG RE Finance Trust Focusing on Recycling Capital into New Opportunities",
+            "description": "Doug Bouquard, CEO of TPG RE Finance Trust, Inc. (NYSE: TRTX), participated in a video interview at Nareit\u2019s REITweek: 2023 Investor Conference, held in New York June 6-8.\n\nBouquard discussed steps TPG has taken in response to the pressure on real estate credit and equity markets, how active TRTX has been in terms of originating new loans, as well as some of the top priorities for the rest of 2023 and into 2024.\n\nRead more: https://www.reit.com/news/video/tpg-re-finance-trust-focusing-recycling-capital-new-opportunities"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "329",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

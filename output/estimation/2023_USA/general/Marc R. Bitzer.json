@@ -1,0 +1,372 @@
+{
+  "ceo": "Marc R. Bitzer",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "BKOOVJOP-wxpT1WyIJ_-FrOa9mA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ObKVLGuj83ezgKSS17udIAmRAGE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "x4_l8AyeawI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-27T02:09:35Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Whirlpool and Mattel CEOs Share Insights on the Consumer | Bloomberg Businessweek",
+          "description": "Whirlpool Corp CEO Marc Bitzer discusses earnings and seeing soft discretionary purchases from shoppers but a strong ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-27T02:09:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ICxTwLJeeAeekMnS6w2xWobd6oE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JwtEOp7pC1A"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-02T19:30:09Z",
+          "channelId": "UCqq3VcwPGseErHUa0-xLInQ",
+          "title": "Ren - Bittersweet Symphony (The Verve)",
+          "description": "Help support me by joining my Patreon: https://www.patreon.com/renmakesmusic Subscribe Now! - https://bit.ly/RenYTSub Ren ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ren",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-02T19:30:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GJBQrbN9twqbMjIHdAAwxjUJM4s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3wtGv8NFunM"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-08T18:11:38Z",
+          "channelId": "UC4zcMHyrT_xyWlgy5WGpFFQ",
+          "title": "SPD-Politiker Michael Schrodi rastet im Bundestag aus",
+          "description": "Knall-Alarm im Bundestag: Am letzten Sitzungstag vor der Sommerpause fliegen die Fetzen im Parlament! Und ein Abgeordneter ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BILD",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-08T18:11:38Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "u95RVXttIkiLhA6r-Zxsoo9zams",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "nq4XyEc3MENMBY1L9-Hr35i6Ops",
+        "id": "x4_l8AyeawI",
+        "snippet": {
+          "publishedAt": "2023-10-27T02:09:35Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Whirlpool and Mattel CEOs Share Insights on the Consumer | Bloomberg Businessweek",
+          "description": "Whirlpool Corp CEO Marc Bitzer discusses earnings and seeing soft discretionary purchases from shoppers but a strong replacement business. Mattel CEO Ynon Kreiz talks about earnings and the impact of the Barbie movie on sales. Bloomberg Businessweek Editor Joel Weber and Pat Regnier, Editor of Bloomberg Markets Magazine, provide the details of Pat's Businessweek story Bankman-Fried Takes Stand in Reminder of Crypto\u2019s Epic Fall.\nHosts: Carol Massar and Tim Stenovec. Producer: Paul Brennan. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nCarol Massar and Tim Stenovec bring together the latest news from the world of business and finance and the interesting stories of global technology, politics, economics and more by harnessing the power of Bloomberg Businessweek reporters and editors.\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\nListen to more of Bloomberg Businessweek: https://youtube.com/playlist?list=PLe4PRejZgr0NDtGW4nghKtCxl6SCdFJfq\n\n#Bloomberg #Podcast #News #Businessweek\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/x4_l8AyeawI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Businessweek",
+            "News",
+            "Tech News",
+            "Technology",
+            "bloomberg Businessweek",
+            "bloomberg podcast",
+            "business",
+            "businessweek podcast",
+            "news",
+            "news podcast",
+            "podcast",
+            "podcasts"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Whirlpool and Mattel CEOs Share Insights on the Consumer | Bloomberg Businessweek",
+            "description": "Whirlpool Corp CEO Marc Bitzer discusses earnings and seeing soft discretionary purchases from shoppers but a strong replacement business. Mattel CEO Ynon Kreiz talks about earnings and the impact of the Barbie movie on sales. Bloomberg Businessweek Editor Joel Weber and Pat Regnier, Editor of Bloomberg Markets Magazine, provide the details of Pat's Businessweek story Bankman-Fried Takes Stand in Reminder of Crypto\u2019s Epic Fall.\nHosts: Carol Massar and Tim Stenovec. Producer: Paul Brennan. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nCarol Massar and Tim Stenovec bring together the latest news from the world of business and finance and the interesting stories of global technology, politics, economics and more by harnessing the power of Bloomberg Businessweek reporters and editors.\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\nListen to more of Bloomberg Businessweek: https://youtube.com/playlist?list=PLe4PRejZgr0NDtGW4nghKtCxl6SCdFJfq\n\n#Bloomberg #Podcast #News #Businessweek\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT40M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "112",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-ZEj-M6vyUvEfFUjNFcbNA-dpxs",
+        "id": "JwtEOp7pC1A",
+        "snippet": {
+          "publishedAt": "2023-02-02T19:30:09Z",
+          "channelId": "UCqq3VcwPGseErHUa0-xLInQ",
+          "title": "Ren - Bittersweet Symphony (The Verve)",
+          "description": "Help support me by joining my Patreon: https://www.patreon.com/renmakesmusic\nSubscribe Now! - https://bit.ly/RenYTSub\n\nRen - Bittersweet Symphony (The Verve)\n\nwww.sickboi.co.uk\nStream my new track \"SICK BOI\"!! https://renmakesmusic.lnk.to/sickboi\n\nNo copyright infringement intended, track is not for monetary purpose, simply honouring songs I love! Much love to The Verve\n\nFollow Ren:\nWebsite: https://www.renmakesmusic.com\nUK & Europe Merchandise: https://renmakesmerch.com\nUSA & Rest of World Merchandise: https://renmakesmerch.us/\nPatreon: https://www.patreon.com/renmakesmusic\nYouTube: https://www.youtube.com/channel/UCqq3VcwPGseErHUa0-xLInQ\nInstagram: https://www.instagram.com/renmakesmusic\nTikTok: https://www.tiktok.com/@renmakesmusic\nFacebook: https://www.facebook.com/renmakesmusic/\nALL: https://lnk.bio/renmakesmusic \n\nFilmed by Luke Flegg\n\nRen - Bittersweet Symphony (The Verve)\n\n#Ren #BittersweetSymphony #TheVerve",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JwtEOp7pC1A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ren",
+          "tags": [
+            "ren",
+            "renmakesmusic",
+            "bittersweet symphony",
+            "verve",
+            "the verve",
+            "bittersweet symphony cover",
+            "bittersweet symphony remix",
+            "the verve cover",
+            "the verve ren",
+            "ren bittersweet symphony",
+            "ren verve",
+            "bittersweet symphony official",
+            "the verve bittersweet symphony",
+            "bittersweet symphony the verve",
+            "the verve remix",
+            "ren official music",
+            "ren playlist",
+            "bittersweet symphony 2023",
+            "ren music video",
+            "ren uk",
+            "the verve bittersweet",
+            "bittersweet symphony ren"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ren - Bittersweet Symphony (The Verve)",
+            "description": "Help support me by joining my Patreon: https://www.patreon.com/renmakesmusic\nSubscribe Now! - https://bit.ly/RenYTSub\n\nRen - Bittersweet Symphony (The Verve)\n\nwww.sickboi.co.uk\nStream my new track \"SICK BOI\"!! https://renmakesmusic.lnk.to/sickboi\n\nNo copyright infringement intended, track is not for monetary purpose, simply honouring songs I love! Much love to The Verve\n\nFollow Ren:\nWebsite: https://www.renmakesmusic.com\nUK & Europe Merchandise: https://renmakesmerch.com\nUSA & Rest of World Merchandise: https://renmakesmerch.us/\nPatreon: https://www.patreon.com/renmakesmusic\nYouTube: https://www.youtube.com/channel/UCqq3VcwPGseErHUa0-xLInQ\nInstagram: https://www.instagram.com/renmakesmusic\nTikTok: https://www.tiktok.com/@renmakesmusic\nFacebook: https://www.facebook.com/renmakesmusic/\nALL: https://lnk.bio/renmakesmusic \n\nFilmed by Luke Flegg\n\nRen - Bittersweet Symphony (The Verve)\n\n#Ren #BittersweetSymphony #TheVerve"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10880930",
+          "likeCount": "195351",
+          "favoriteCount": "0",
+          "commentCount": "8980"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DbVFTeyBWdEycIa5bxMeY5Z8Esk",
+        "id": "3wtGv8NFunM",
+        "snippet": {
+          "publishedAt": "2023-07-08T18:11:38Z",
+          "channelId": "UC4zcMHyrT_xyWlgy5WGpFFQ",
+          "title": "SPD-Politiker Michael Schrodi rastet im Bundestag aus",
+          "description": "Knall-Alarm im Bundestag: Am letzten Sitzungstag vor der Sommerpause fliegen die Fetzen im Parlament!\n\nUnd ein Abgeordneter dreht v\u00f6llig durch: der SPD-Politiker Michael Schrodi (46).\n\nDer Sozi kommt, als w\u00e4re er schon im Urlaub: in Jeans, hellblauem Poloshirt und Turnschuhen. Und offenbar hat er Riesen-Frust. Als die Union gegen kurz nach zehn Uhr Wirtschaftsminister Robert Habeck (53, Gr\u00fcne) in den Bundestag zitieren will, explodiert der studierte Gymnasiallehrer Schrodi.\n\nNach BILD-Informationen aus Pr\u00e4sidiumskreisen giftet er einen Schriftf\u00fchrer mit \u201eWichser\u201c an. Und in Richtung des CDU-Vertreters des Pr\u00e4sidiums bellte er sinngem\u00e4\u00df: \u201eSie stimmen mit Faschisten und machen die salonf\u00e4hig.\u201c\n\n#Bundestag #Schrodi #Ausraster\n----------------------------------------------------------------------------------------------\nUnsere weiteren Kan\u00e4le:\nSPORT BILD: https://www.youtube.com/@SPORTBILD\nStars & Stories: https://www.youtube.com/@bildstarsandstories\nBILD Promis: https://www.youtube.com/@bildpromis\nBILD Podcast: https://www.youtube.com/@BILDPodcasts\nBILD BOXX: https://www.youtube.com/@BILDBoxx\nBILD GG: https://www.youtube.com/@BILDGG\n\n\u27a1\ufe0f BILD auf Instagram: https://www.instagram.com/bild/\n\u27a1\ufe0f BILD auf Twitch: https://twitch.tv/bild\n\u27a1\ufe0f BILD auf Snapchat:\u00a0https://t.snapchat.com/yEvwDwqU\n\u27a1\ufe0f BILD auf Facebook: https://www.facebook.com/bild\n\u27a1\ufe0f BILD auf Twitter: https://twitter.com/bild\n\n\ud83c\udfa5\u00a0 Die besten Dokus mit BILDplus gibt's hier: https://on.bild.de/BILDvideothek\n\n\ud83d\udd34 BILD im TV\nHol dir unseren Sender auf deinen Fernseher!\n\ud83d\udcfa Eine Anleitung f\u00fcr dein TV-Ger\u00e4t findest du hier:\u00a0\nhttps://on.bild.de/BILDimTV\n\n\ud83d\udcf2\u00a0 Unseren Moderatoren und Kommentatoren:\nPatricia Platiel: https://www.instagram.com/platiel_bild/\nKai Weise: https://twitter.com/weisekai\nPaul Ronzheimer: https://twitter.com/ronzheimer\nFilipp Piatov: https://twitter.com/fpiatov\nJan Sch\u00e4fer: https://twitter.com/schaefer_j\nTanja May: https://www.instagram.com/may_tanja\nJanina Kirsch: https://www.instagram.com/janina_kirsch\nCeline Behringer: https://www.instagram.com/celine.behringer\n\n\nImpressum: https://on.bild.de/impressum\n\n#bild #bildtv #bildlive #news #nachrichten",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3wtGv8NFunM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BILD",
+          "tags": [
+            "bild",
+            "bild youtube",
+            "spd",
+            "ampel",
+            "ampelkoalition",
+            "bundestag",
+            "bundestagssitzung",
+            "michael schrodi",
+            "friedrich merz",
+            "robert habeck",
+            "spd-politiker",
+            "politiker rastet aus",
+            "ausraster politiker",
+            "politiker ausraster",
+            "politiker schreit",
+            "politiker beleidigt",
+            "beleidigung bundestag",
+            "bundestag ausraster",
+            "bundestag schrodi",
+            "ausraster politik"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "SPD-Politiker Michael Schrodi rastet im Bundestag aus",
+            "description": "Knall-Alarm im Bundestag: Am letzten Sitzungstag vor der Sommerpause fliegen die Fetzen im Parlament!\n\nUnd ein Abgeordneter dreht v\u00f6llig durch: der SPD-Politiker Michael Schrodi (46).\n\nDer Sozi kommt, als w\u00e4re er schon im Urlaub: in Jeans, hellblauem Poloshirt und Turnschuhen. Und offenbar hat er Riesen-Frust. Als die Union gegen kurz nach zehn Uhr Wirtschaftsminister Robert Habeck (53, Gr\u00fcne) in den Bundestag zitieren will, explodiert der studierte Gymnasiallehrer Schrodi.\n\nNach BILD-Informationen aus Pr\u00e4sidiumskreisen giftet er einen Schriftf\u00fchrer mit \u201eWichser\u201c an. Und in Richtung des CDU-Vertreters des Pr\u00e4sidiums bellte er sinngem\u00e4\u00df: \u201eSie stimmen mit Faschisten und machen die salonf\u00e4hig.\u201c\n\n#Bundestag #Schrodi #Ausraster\n----------------------------------------------------------------------------------------------\nUnsere weiteren Kan\u00e4le:\nSPORT BILD: https://www.youtube.com/@SPORTBILD\nStars & Stories: https://www.youtube.com/@bildstarsandstories\nBILD Promis: https://www.youtube.com/@bildpromis\nBILD Podcast: https://www.youtube.com/@BILDPodcasts\nBILD BOXX: https://www.youtube.com/@BILDBoxx\nBILD GG: https://www.youtube.com/@BILDGG\n\n\u27a1\ufe0f BILD auf Instagram: https://www.instagram.com/bild/\n\u27a1\ufe0f BILD auf Twitch: https://twitch.tv/bild\n\u27a1\ufe0f BILD auf Snapchat:\u00a0https://t.snapchat.com/yEvwDwqU\n\u27a1\ufe0f BILD auf Facebook: https://www.facebook.com/bild\n\u27a1\ufe0f BILD auf Twitter: https://twitter.com/bild\n\n\ud83c\udfa5\u00a0 Die besten Dokus mit BILDplus gibt's hier: https://on.bild.de/BILDvideothek\n\n\ud83d\udd34 BILD im TV\nHol dir unseren Sender auf deinen Fernseher!\n\ud83d\udcfa Eine Anleitung f\u00fcr dein TV-Ger\u00e4t findest du hier:\u00a0\nhttps://on.bild.de/BILDimTV\n\n\ud83d\udcf2\u00a0 Unseren Moderatoren und Kommentatoren:\nPatricia Platiel: https://www.instagram.com/platiel_bild/\nKai Weise: https://twitter.com/weisekai\nPaul Ronzheimer: https://twitter.com/ronzheimer\nFilipp Piatov: https://twitter.com/fpiatov\nJan Sch\u00e4fer: https://twitter.com/schaefer_j\nTanja May: https://www.instagram.com/may_tanja\nJanina Kirsch: https://www.instagram.com/janina_kirsch\nCeline Behringer: https://www.instagram.com/celine.behringer\n\n\nImpressum: https://on.bild.de/impressum\n\n#bild #bildtv #bildlive #news #nachrichten"
+          },
+          "defaultAudioLanguage": "de-DE"
+        },
+        "contentDetails": {
+          "duration": "PT1M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1050319",
+          "likeCount": "4399",
+          "favoriteCount": "0",
+          "commentCount": "1737"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

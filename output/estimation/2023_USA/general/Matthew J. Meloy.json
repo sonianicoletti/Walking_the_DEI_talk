@@ -1,0 +1,328 @@
+{
+  "ceo": "Matthew J. Meloy",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "dK7WkgUZH1zwIIzc4ZEZ1-HQkUc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tdx13YfBX5wHCpcu7VDtC9MrRzE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qxw0hBiiOpw"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-11T11:00:38Z",
+          "channelId": "UCFfiRZQBwjtQ9NeocvChO-g",
+          "title": "Breaking Down Popular Diets &amp; Trends with Nutritionist Simon Hill",
+          "description": "Anima Mundi Herbals: enter the code ELLEN20 for 20% off everything at https://glnk.io/nr9jm/ellenfisher thank you Anima Mundi ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Ellen Fisher Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-11T11:00:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UusduMiobUkawdjLzeRJO2Np6Co",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5U9rQnnWzKw"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-12T03:40:18Z",
+          "channelId": "UCG80pGnhl4J3xDh9y2I3Tyg",
+          "title": "I can&#39;t breathe help me... subscribe and comment and like.",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "idk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-12T03:40:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IXBni99EZUGSKvjKRcmy_SX3kds",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PuzSZwHHmUA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-23T19:23:08Z",
+          "channelId": "UCG7dElx7LTaHf8SorAO6-yQ",
+          "title": "CALLING ALL ANGELS, TRAIN  Charlie Colin &amp; Scott Underwood. Sundance Film Festival. Park City Utah",
+          "description": "Danny Beissel Powerhouse Vocals. She Sells Sanctuary by THE CULT. The new AMERICAN SALVAGE by the Founders of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Amber Beck",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-23T19:23:08Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "RXc0ROxvX8CvEB2whoyl3uF2DC0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "4rbZsb79zg_erz9YH6dNdV0UgJU",
+        "id": "qxw0hBiiOpw",
+        "snippet": {
+          "publishedAt": "2023-07-11T11:00:38Z",
+          "channelId": "UCFfiRZQBwjtQ9NeocvChO-g",
+          "title": "Breaking Down Popular Diets & Trends with Nutritionist Simon Hill",
+          "description": "Anima Mundi Herbals: enter the code ELLEN20 for 20% off everything at\nhttps://glnk.io/nr9jm/ellenfisher\nthank you Anima Mundi Herbals for sponsoring today's episode\n\nFew topics are more hotly debated than nutrition. With contradictory messaging abundant, it can be difficult to discern credible health advice and navigate which dietary patterns are optimal for our health and longevity. \n\nSimon Hill, nutritionist and host of The Proof Podcast, cuts through the noise and breaks down today\u2019s most popular diets and trends. Simon has a healthy obsession with nutritional science and uses reliable science-based information to form his dietary thesis philosophy. He focuses on nuanced, evidence-based research instead of biased black and white thinking.\n\nWhile science is not perfect, we do have clear biomarkers for longevity and preventing our #1 killers, and this episode goes into how these trends stack up against those markers. With so many experts letting their biases get in the way to form nutritional recommendations, Simon is the nutrition resource we need right now.\n\nIn this episode we cover: \n- Popular diets: Paleo, Carnivore, Vegan, Keto, Plant Paradox, & Nourishing Traditions\n- What \u201cancestral diets\u201d get right and wrong\n- Saturated fat vs. PUFAS\n- Popular Trends: Butter, Bone Broth, anti-nutrients, seed oils, etc\n- Eating to survive vs. eating for longevity \n- Why what\u2019s \u201cnatural\u201d isn\u2019t necessarily what\u2019s best for long term health\n\nWhere to find Simon:\nWebsite: https://theproof.com\nInstagram: https://www.instagram.com/simonhill/\nPodcast: https://theproof.com/podcast/\nYoutube: https://www.youtube.com/@TheProofWithSimonHill\n\nWHERE TO FIND ME\nGet The Empowered Pregnancy & Birth course: https://go.theempoweredbirth.com/ellen\nGet my ebooks: https://www.ellenfisher.com/ebooks\nMy instagram: https://www.instagram.com/ellenfisher/\nLISTEN to these episodes on Apple Podcast or Spotify: https://link.chtbl.com/ellenfisherpod\nFamily YouTube channel: https://www.youtube.com/c/ellenfisher\n\nElevate your videos with record-label quality music from Musicbed:\nhttp://share.mscbd.fm/ellenfisher\n\nSimon's resources:\nPolyunsaturated fats versus saturated fats:\n* Cochrane Review Meta Analysis of RCTs\n    * `https://pubmed.ncbi.nlm.nih.gov/32428300/\n* Dietary fats and cardiovascular disease (Presidential Advisory paper from AHA)\n    * https://pubmed.ncbi.nlm.nih.gov/28620111/\u00a0\n* Dairy fats versus other animal fat versus polyunsaturated fats from plants.\n    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5081717/\u00a0\nLDL-C (or ApoB) as a cause of atherosclerotic cardiovascular disease: https://pubmed.ncbi.nlm.nih.gov/28444290/\nApoB is a summation of LDL, IDL and VLDL\nPMID: 28444290\n* https://pubmed.ncbi.nlm.nih.gov/16441938/\u00a0\n\u201cThe best available estimates suggest that those ancestors obtained about 35% of their dietary energy from fats, 35% from carbohydrates and 30% from protein. Saturated fats contributed approximately 7.5% total energy and harmful trans-fatty acids contributed negligible amounts.\u201d - PMID 16441938\nPolyunsaturated fats versus saturated fats and liver fat/metabolic health:\n* https://pubmed.ncbi.nlm.nih.gov/34257427/\u00a0\n* https://pubmed.ncbi.nlm.nih.gov/22492369/\u00a0\n* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951141/\u00a0\nLinoleic acid (predominant polyunsaturated fat in seed oils) and inflammation, CVD and mortality (studies measuring linoleic acid in adipose tissue and circulation):\n* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582360/\n* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326588/\u00a0\nAnti-nutrients:\n* Review of all anti-nutrients, effect on physiology and human health outcomes related to anti-nutrient containing foods.\n    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600777/\u00a0\n* More than 50% of oxalates are made by the body. Animal protein, sodium and insufficient calcium increase risk of calcium oxalate kidney stones\n    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600777/\u00a0\n* Body adjusts mineral absorption following high phytate diet that is habitually consumed:\n    * https://www.sciencedirect.com/science/article/pii/S0022316622088162?via%3Dihub\u00a0\nOrgan meats and human health:\n* Increased risk of fatty liver disease:\u00a0\n    * https://pubmed.ncbi.nlm.nih.gov/35225189/\u00a0\n* Organ meats have been shown to increase uric acid which is implicated in fatty liver disease, metabolic syndrome, diabetes, CVD, inflammation and gout:\n    * https://pubmed.ncbi.nlm.nih.gov/29759111/\u00a0\n    * https://www.ncbi.nlm.nih.gov/books/NBK459218/\u00a0\nBone broth and heavy metal contamination:\n* https://pubmed.ncbi.nlm.nih.gov/23375414/\u00a0\nVitamin A status of vegans:\n* Switzerland cohort of healthy adults comparing omnivores to vegetarians to vegans\n* https://pubmed.ncbi.nlm.nih.gov/26502280/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qxw0hBiiOpw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Ellen Fisher Podcast",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Breaking Down Popular Diets & Trends with Nutritionist Simon Hill",
+            "description": "Anima Mundi Herbals: enter the code ELLEN20 for 20% off everything at\nhttps://glnk.io/nr9jm/ellenfisher\nthank you Anima Mundi Herbals for sponsoring today's episode\n\nFew topics are more hotly debated than nutrition. With contradictory messaging abundant, it can be difficult to discern credible health advice and navigate which dietary patterns are optimal for our health and longevity. \n\nSimon Hill, nutritionist and host of The Proof Podcast, cuts through the noise and breaks down today\u2019s most popular diets and trends. Simon has a healthy obsession with nutritional science and uses reliable science-based information to form his dietary thesis philosophy. He focuses on nuanced, evidence-based research instead of biased black and white thinking.\n\nWhile science is not perfect, we do have clear biomarkers for longevity and preventing our #1 killers, and this episode goes into how these trends stack up against those markers. With so many experts letting their biases get in the way to form nutritional recommendations, Simon is the nutrition resource we need right now.\n\nIn this episode we cover: \n- Popular diets: Paleo, Carnivore, Vegan, Keto, Plant Paradox, & Nourishing Traditions\n- What \u201cancestral diets\u201d get right and wrong\n- Saturated fat vs. PUFAS\n- Popular Trends: Butter, Bone Broth, anti-nutrients, seed oils, etc\n- Eating to survive vs. eating for longevity \n- Why what\u2019s \u201cnatural\u201d isn\u2019t necessarily what\u2019s best for long term health\n\nWhere to find Simon:\nWebsite: https://theproof.com\nInstagram: https://www.instagram.com/simonhill/\nPodcast: https://theproof.com/podcast/\nYoutube: https://www.youtube.com/@TheProofWithSimonHill\n\nWHERE TO FIND ME\nGet The Empowered Pregnancy & Birth course: https://go.theempoweredbirth.com/ellen\nGet my ebooks: https://www.ellenfisher.com/ebooks\nMy instagram: https://www.instagram.com/ellenfisher/\nLISTEN to these episodes on Apple Podcast or Spotify: https://link.chtbl.com/ellenfisherpod\nFamily YouTube channel: https://www.youtube.com/c/ellenfisher\n\nElevate your videos with record-label quality music from Musicbed:\nhttp://share.mscbd.fm/ellenfisher\n\nSimon's resources:\nPolyunsaturated fats versus saturated fats:\n* Cochrane Review Meta Analysis of RCTs\n    * `https://pubmed.ncbi.nlm.nih.gov/32428300/\n* Dietary fats and cardiovascular disease (Presidential Advisory paper from AHA)\n    * https://pubmed.ncbi.nlm.nih.gov/28620111/\u00a0\n* Dairy fats versus other animal fat versus polyunsaturated fats from plants.\n    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5081717/\u00a0\nLDL-C (or ApoB) as a cause of atherosclerotic cardiovascular disease: https://pubmed.ncbi.nlm.nih.gov/28444290/\nApoB is a summation of LDL, IDL and VLDL\nPMID: 28444290\n* https://pubmed.ncbi.nlm.nih.gov/16441938/\u00a0\n\u201cThe best available estimates suggest that those ancestors obtained about 35% of their dietary energy from fats, 35% from carbohydrates and 30% from protein. Saturated fats contributed approximately 7.5% total energy and harmful trans-fatty acids contributed negligible amounts.\u201d - PMID 16441938\nPolyunsaturated fats versus saturated fats and liver fat/metabolic health:\n* https://pubmed.ncbi.nlm.nih.gov/34257427/\u00a0\n* https://pubmed.ncbi.nlm.nih.gov/22492369/\u00a0\n* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4951141/\u00a0\nLinoleic acid (predominant polyunsaturated fat in seed oils) and inflammation, CVD and mortality (studies measuring linoleic acid in adipose tissue and circulation):\n* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6582360/\n* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326588/\u00a0\nAnti-nutrients:\n* Review of all anti-nutrients, effect on physiology and human health outcomes related to anti-nutrient containing foods.\n    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600777/\u00a0\n* More than 50% of oxalates are made by the body. Animal protein, sodium and insufficient calcium increase risk of calcium oxalate kidney stones\n    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7600777/\u00a0\n* Body adjusts mineral absorption following high phytate diet that is habitually consumed:\n    * https://www.sciencedirect.com/science/article/pii/S0022316622088162?via%3Dihub\u00a0\nOrgan meats and human health:\n* Increased risk of fatty liver disease:\u00a0\n    * https://pubmed.ncbi.nlm.nih.gov/35225189/\u00a0\n* Organ meats have been shown to increase uric acid which is implicated in fatty liver disease, metabolic syndrome, diabetes, CVD, inflammation and gout:\n    * https://pubmed.ncbi.nlm.nih.gov/29759111/\u00a0\n    * https://www.ncbi.nlm.nih.gov/books/NBK459218/\u00a0\nBone broth and heavy metal contamination:\n* https://pubmed.ncbi.nlm.nih.gov/23375414/\u00a0\nVitamin A status of vegans:\n* Switzerland cohort of healthy adults comparing omnivores to vegetarians to vegans\n* https://pubmed.ncbi.nlm.nih.gov/26502280/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H49M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "40048",
+          "likeCount": "1038",
+          "favoriteCount": "0",
+          "commentCount": "194"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JxKSt13JSxRlEXrzQF79A2apC8I",
+        "id": "5U9rQnnWzKw",
+        "snippet": {
+          "publishedAt": "2023-10-12T03:40:18Z",
+          "channelId": "UCG80pGnhl4J3xDh9y2I3Tyg",
+          "title": "I can't breathe help me... subscribe and comment and like.",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5U9rQnnWzKw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "idk",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I can't breathe help me... subscribe and comment and like.",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "AS",
+              "GU",
+              "MP",
+              "PR",
+              "UM",
+              "US",
+              "VI"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "184",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EL78JB4V3zwzEmhQ1rwkkmMJC3s",
+        "id": "PuzSZwHHmUA",
+        "snippet": {
+          "publishedAt": "2023-01-23T19:23:08Z",
+          "channelId": "UCG7dElx7LTaHf8SorAO6-yQ",
+          "title": "CALLING ALL ANGELS, TRAIN  Charlie Colin & Scott Underwood. Sundance Film Festival. Park City Utah",
+          "description": "Danny Beissel Powerhouse Vocals. She Sells Sanctuary by THE CULT. The new AMERICAN SALVAGE by the Founders of TRAIN, Drops of Jupiter, Hey soul Sister, Meet Virginia, Charlie Colin and Scott Underwood. Monster Bass player Max Bienert",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PuzSZwHHmUA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Amber Beck",
+          "tags": [
+            "Train",
+            "Drops of Jupiter",
+            "hey soul sister",
+            "meet Virginia",
+            "calling all angels",
+            "angels"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CALLING ALL ANGELS, TRAIN  Charlie Colin & Scott Underwood. Sundance Film Festival. Park City Utah",
+            "description": "Danny Beissel Powerhouse Vocals. She Sells Sanctuary by THE CULT. The new AMERICAN SALVAGE by the Founders of TRAIN, Drops of Jupiter, Hey soul Sister, Meet Virginia, Charlie Colin and Scott Underwood. Monster Bass player Max Bienert"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "187",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

@@ -1,0 +1,1189 @@
+{
+  "ceo": "Ramon L. Laguarta",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "FIPCvbsd_Cr2lmTtzQVZygBznV4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wGO53ZxteIAGosj1r3VgyhCDaVE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SVvpmN1lghY"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-18T20:53:25Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Pepsico CEO on the company&#39;s consumer-centric approach to managing inflation",
+          "description": "Pepsico CEO Ramon Laguarta joins 'Closing Bell' to talk about the brands resiliency despite tightened economic conditions, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-18T20:53:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ahW1BcbG9W9IBW275d8egkXMXmQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HrVG9WqeBAo"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-12T06:13:23Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Maverick CEO: How Ramon Laguarta is Shaping the Future of the Food Industry.",
+          "description": "Welcome to Mindful Thoughts, where we explore the lives and careers of inspiring individuals. In this episode, we're taking a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-12T06:13:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "k73FYmfj7q_V07teSChHYoKs9Bk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m8NuL-ivn3A"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-07T16:49:16Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "&quot;Morals are not for sale&quot;: Former Unilever boss on why he turned down a $100M payout",
+          "description": "Former Unilever boss Paul Polman explains why he turned down a $100 million payout on this week's In the City. \"Morals are not ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-07T16:49:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p7KTCe-ljCkUj80j6VEJffvSgzQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4nKuoV5dSeM"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-27T22:00:07Z",
+          "channelId": "UCJ3phcoXhVNGftdzqDuZy0g",
+          "title": "Business Strategy Revealed: Laguarta &amp; PepsiCo&#39;s Revival",
+          "description": "As your favorite #managementconsultant , I'm set to decode Ramon Laguarta's secret #businessstrategy , straight from my dream ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Carnivore Pioneers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-27T22:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EUsy6-dncPmBW4r7DRWWYQjvbH4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tQCYoCRJ89M"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-25T11:08:33Z",
+          "channelId": "UCR5veS44sw5cfotqGim_pKA",
+          "title": "Can women have it all ? | Former PepsiCo CEO Indra Nooyi",
+          "description": "Video courtesy : https://youtu.be/rpOsdGSUp2U SUBSCRIBE to our channel for DAILY videos like this. Thank you\u2764\ufe0f Copyright ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Discover with Akash",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-25T11:08:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QzrfOiAvKKEYDXaoZR7kPQwreJY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "f_ClpWd_NE4"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-09T13:00:36Z",
+          "channelId": "UChD6XA0-Qlmue8JQAn_jqGA",
+          "title": "Unveiling the Success Story of PepsiCo, Inc.",
+          "description": "PepsiCo, Inc. is an American multinational food and beverage corporation. It produces a wide range of products, including Pepsi, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TIME TRAVELER",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-09T13:00:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-4BBcnoco8J-1go6--mgB5cvpTs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sS9ISF7CQ2I"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T20:48:19Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "PepsiCo Inc Q1 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T20:48:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m05pPk9pK_Iphnx8dgXkEST7JZE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "A43bVrXprD0"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-10T16:07:59Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "PepsiCo Inc Q3 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-10T16:07:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iYXSeurIC2K5K_nD0MBqCVrRxqw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0g_1s6K0uk0"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-15T09:15:24Z",
+          "channelId": "UCvCl2Tlsxc1QLs7kDTfNY2g",
+          "title": "World Most Influential CEOs",
+          "description": "This video about the list of chief executive officers (CEO) leading top companies across the world. SUBSCRIBE to our channel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "jaganinfo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-15T09:15:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_WPzJ_FFp_gXLNiNUDqQ_H5v7OQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TqL75GXEr6I"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-01T14:02:23Z",
+          "channelId": "UCLyHcF1ptl2U03gc44c6vgg",
+          "title": "ADSW 2023 Interview: Eugene Willemsen, CEO AMESA, PepsiCo",
+          "description": "Eugene Willemsen, Chief Executive Officer of Africa, Middle East and South Asia at PepsiCo, shares his takeaways from this ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ADSW",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-01T14:02:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uKAp_zIE8gLJGJ559rj9MEMY1vg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cAIGbr6VvF8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-12T09:31:39Z",
+          "channelId": "UCO7bj4yPpLyQ_3BlzAtENZw",
+          "title": "Interview with Marie Owens Thomsen on SAF | Sustainable Aviation Fuel",
+          "description": "Interview with Marie Owens Thomsen (IATA, Senior Vice President Sustainability & Chief Economist) on SAF - sustainable ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "IATAtv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-12T09:31:39Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kQfAxweIiyYoC0AG6EZMVaYHNcw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "URzVEsz26kzj-LXHoAocxxRVE90",
+        "id": "SVvpmN1lghY",
+        "snippet": {
+          "publishedAt": "2023-01-18T20:53:25Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Pepsico CEO on the company's consumer-centric approach to managing inflation",
+          "description": "Pepsico CEO Ramon Laguarta joins 'Closing Bell' to talk about the brands resiliency despite tightened economic conditions, beverage brands benefiting from consumers spending more time at home and pricing products in inflationary times. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SVvpmN1lghY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Closing Bell",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pepsico CEO on the company's consumer-centric approach to managing inflation",
+            "description": "Pepsico CEO Ramon Laguarta joins 'Closing Bell' to talk about the brands resiliency despite tightened economic conditions, beverage brands benefiting from consumers spending more time at home and pricing products in inflationary times. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3171",
+          "likeCount": "26",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "l6ijyxFAHhWO3MXawu0j8ny4Gfk",
+        "id": "HrVG9WqeBAo",
+        "snippet": {
+          "publishedAt": "2023-03-12T06:13:23Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Maverick CEO: How Ramon Laguarta is Shaping the Future of the Food Industry.",
+          "description": "Welcome to Mindful Thoughts, where we explore the lives and careers of inspiring individuals. In this episode, we're taking a closer look at the incredible journey of Ramon Laguarta, CEO of PepsiCo. From his humble beginnings to his rise to the top of one of the world's largest food and beverage companies, Laguarta's story is a testament to the power of hard work, perseverance, and leadership. So sit back, relax, and let's dive into the world of Ramon Laguarta.\n\nRamon Laguarta is a global business leader with more than two decades of experience in the food and beverage industry. He was born in Spain and earned a degree in Economics and Business Administration from ESADE Business School in Barcelona. After completing his studies, he began his career in the financial sector, working for several companies in Europe.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "tags": [
+            "Ramon Laguarta",
+            "Laguarta",
+            "Ramon",
+            "Pepsi",
+            "Top CEO",
+            "f&b",
+            "food",
+            "beverage",
+            "vision",
+            "principles",
+            "thoughts",
+            "thought",
+            "mindset",
+            "insight",
+            "business",
+            "business strategy",
+            "influential person",
+            "influential people",
+            "influential"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Maverick CEO: How Ramon Laguarta is Shaping the Future of the Food Industry.",
+            "description": "Welcome to Mindful Thoughts, where we explore the lives and careers of inspiring individuals. In this episode, we're taking a closer look at the incredible journey of Ramon Laguarta, CEO of PepsiCo. From his humble beginnings to his rise to the top of one of the world's largest food and beverage companies, Laguarta's story is a testament to the power of hard work, perseverance, and leadership. So sit back, relax, and let's dive into the world of Ramon Laguarta.\n\nRamon Laguarta is a global business leader with more than two decades of experience in the food and beverage industry. He was born in Spain and earned a degree in Economics and Business Administration from ESADE Business School in Barcelona. After completing his studies, he began his career in the financial sector, working for several companies in Europe."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "433",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yTO_nUMIejBkdeVHTA__1GvWBnA",
+        "id": "m8NuL-ivn3A",
+        "snippet": {
+          "publishedAt": "2023-12-07T16:49:16Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "\"Morals are not for sale\": Former Unilever boss on why he turned down a $100M payout",
+          "description": "Former Unilever boss Paul Polman explains why he turned down a $100 million payout on this week's In the City. \n\n\"Morals are not for sale\"\n\nWatch the full episode: https://youtu.be/UwDw751y14E\n\nWhen former Unilever Chief Executive Officer Paul Polman was approached by Kraft Heinz with an offer many would find too good to refuse\u2014a $143 billion takeover bid with a personal payout of $110 million\u2014he says he turned it down. \u201cThey think everything is for sale,\u201d he says. \u201cMorals are not for sale.\u201d\n\nPolman, 67, who worked for Procter Gamble and Nestle before Unilever, joins David Merritt and Francine Lacqua on this week\u2019s In the City to share lessons he learned while CEO, and why he says running a company is more than maximizing shareholder returns. \u201cIf you would listen to all the shareholders and do what they were asking you to do, your company would be bankrupt before you knew it.\u201d\n\nWatch part 1: https://www.youtube.com/watch?v=pdGWkP4RfRU\n\nIs London having another moment? Shaken by Brexit, decimated by the pandemic, threatened by new ways of working and a worsening cost-of-living crisis, the city remains Europe\u2019s (and arguably the world\u2019s) beating heart for finance and for culture. In the wake of turmoil, The City of London is reinventing itself. Every week on In The City, Bloomberg\u2019s Francine Lacqua and David Merritt go behind the scenes in the Square Mile and the wider metropolis, uncovering the stories and speaking to the people that matter.\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\nListen to more of In The City: https://youtube.com/playlist?list=PLe4PRejZgr0NiwqzpAq6lidJVaI1pX9Cd\n\n#Business #London #Podcast #Finance #Markets #Unilever \n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m8NuL-ivn3A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "bloomberg",
+            "podcast",
+            "podcasts",
+            "bloomberg podcasts",
+            "businessweek",
+            "businessweek podcast",
+            "finance",
+            "finance podcast",
+            "market news",
+            "markets podcast",
+            "paul polman",
+            "paul polman unilever",
+            "business",
+            "business podcast",
+            "in the city",
+            "london",
+            "uk",
+            "united kindom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"Morals are not for sale\": Former Unilever boss on why he turned down a $100M payout",
+            "description": "Former Unilever boss Paul Polman explains why he turned down a $100 million payout on this week's In the City. \n\n\"Morals are not for sale\"\n\nWatch the full episode: https://youtu.be/UwDw751y14E\n\nWhen former Unilever Chief Executive Officer Paul Polman was approached by Kraft Heinz with an offer many would find too good to refuse\u2014a $143 billion takeover bid with a personal payout of $110 million\u2014he says he turned it down. \u201cThey think everything is for sale,\u201d he says. \u201cMorals are not for sale.\u201d\n\nPolman, 67, who worked for Procter Gamble and Nestle before Unilever, joins David Merritt and Francine Lacqua on this week\u2019s In the City to share lessons he learned while CEO, and why he says running a company is more than maximizing shareholder returns. \u201cIf you would listen to all the shareholders and do what they were asking you to do, your company would be bankrupt before you knew it.\u201d\n\nWatch part 1: https://www.youtube.com/watch?v=pdGWkP4RfRU\n\nIs London having another moment? Shaken by Brexit, decimated by the pandemic, threatened by new ways of working and a worsening cost-of-living crisis, the city remains Europe\u2019s (and arguably the world\u2019s) beating heart for finance and for culture. In the wake of turmoil, The City of London is reinventing itself. Every week on In The City, Bloomberg\u2019s Francine Lacqua and David Merritt go behind the scenes in the Square Mile and the wider metropolis, uncovering the stories and speaking to the people that matter.\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\nListen to more of In The City: https://youtube.com/playlist?list=PLe4PRejZgr0NiwqzpAq6lidJVaI1pX9Cd\n\n#Business #London #Podcast #Finance #Markets #Unilever \n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9287",
+          "likeCount": "105",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uyulBQoHDYOSJeCdQutvGC3hjDw",
+        "id": "4nKuoV5dSeM",
+        "snippet": {
+          "publishedAt": "2023-07-27T22:00:07Z",
+          "channelId": "UCJ3phcoXhVNGftdzqDuZy0g",
+          "title": "Business Strategy Revealed: Laguarta & PepsiCo's Revival",
+          "description": "As your favorite #managementconsultant , I'm set to decode Ramon Laguarta's secret #businessstrategy  , straight from my dream conversation with the man himself.\n\nIn this video, we'll dive deep into the #PepsiCoSuccessStory , looking at the intricacies that make up their phenomenal growth curve. From the strategic steps the company has taken to how their leaders, like Ramon Laguarta, have influenced the brand's direction, it's all in here.\n\nWe'll explore how #RamonLaguarta , PepsiCo's CEO, has led the company to incredible heights using a unique blend of management techniques and ingenious business strategies. As we unravel this #ManagementMystery, I'll bring you actionable insights that you can apply in your business or career journey.\n\nStay tuned and get ready for a fizzing revelation as we peek into the inner workings of one of the world's most successful beverage companies. If you're an entrepreneur, management enthusiast, or just curious about the art of #businessstrategy , this video is made for you!\n\nTime Stamps:\n\n1:40 - The Dual Power of Pricing and Innovation\n2:07 - Strategy Revealed: Pricing Tactics at PepsiCo\n3:16 - Stealth Inflation: A Masterstroke in Strategy\n4:15 - Striking the Balance: The Pricing Dance\n5:24 - Commodity Costs: The Backbone of Price Hikes\n6:00 - Price Seesaw: The Art of Business Maneuvering\n6:40 - Price Sensitivity: The Real Power of Consumers\n7:25 - Price Sensitivity and Purchase Power\n7:54 - Economic Responsibility: A Challenge to Corporations\n8:20 - Your Turn: How Would You Steer the Corporate Ship?\n\nDon't forget to like, share, and subscribe to stay updated with the latest business insights and strategy revelations. Also, hit the bell icon for notifications on all upcoming videos. You don't want to miss out on this journey into the world of top-tier business strategy and management!\n\n#pepsico  #RamonLaguarta #businessinsights  #managementconsulting  #businessgrowthstrategy  #ceosecrets",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4nKuoV5dSeM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Carnivore Pioneers",
+          "tags": [
+            "PepsiCo",
+            "Ramon Laguarta",
+            "business strategy",
+            "management consultant",
+            "leadership",
+            "CEO secrets",
+            "business growth",
+            "strategic management",
+            "management insights",
+            "corporate strategy",
+            "business innovation",
+            "PepsiCo success story",
+            "management tips",
+            "business consulting",
+            "success formula",
+            "business tactics",
+            "growth strategy",
+            "entrepreneurship",
+            "CEO tactics",
+            "corporate leadership",
+            "beverage industry",
+            "food industry",
+            "multinational corporation",
+            "industry giants",
+            "business analysis",
+            "company analysis"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Business Strategy Revealed: Laguarta & PepsiCo's Revival",
+            "description": "As your favorite #managementconsultant , I'm set to decode Ramon Laguarta's secret #businessstrategy  , straight from my dream conversation with the man himself.\n\nIn this video, we'll dive deep into the #PepsiCoSuccessStory , looking at the intricacies that make up their phenomenal growth curve. From the strategic steps the company has taken to how their leaders, like Ramon Laguarta, have influenced the brand's direction, it's all in here.\n\nWe'll explore how #RamonLaguarta , PepsiCo's CEO, has led the company to incredible heights using a unique blend of management techniques and ingenious business strategies. As we unravel this #ManagementMystery, I'll bring you actionable insights that you can apply in your business or career journey.\n\nStay tuned and get ready for a fizzing revelation as we peek into the inner workings of one of the world's most successful beverage companies. If you're an entrepreneur, management enthusiast, or just curious about the art of #businessstrategy , this video is made for you!\n\nTime Stamps:\n\n1:40 - The Dual Power of Pricing and Innovation\n2:07 - Strategy Revealed: Pricing Tactics at PepsiCo\n3:16 - Stealth Inflation: A Masterstroke in Strategy\n4:15 - Striking the Balance: The Pricing Dance\n5:24 - Commodity Costs: The Backbone of Price Hikes\n6:00 - Price Seesaw: The Art of Business Maneuvering\n6:40 - Price Sensitivity: The Real Power of Consumers\n7:25 - Price Sensitivity and Purchase Power\n7:54 - Economic Responsibility: A Challenge to Corporations\n8:20 - Your Turn: How Would You Steer the Corporate Ship?\n\nDon't forget to like, share, and subscribe to stay updated with the latest business insights and strategy revelations. Also, hit the bell icon for notifications on all upcoming videos. You don't want to miss out on this journey into the world of top-tier business strategy and management!\n\n#pepsico  #RamonLaguarta #businessinsights  #managementconsulting  #businessgrowthstrategy  #ceosecrets"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ua1uh1EAMXcrghmwMPgNjz9SPGo",
+        "id": "tQCYoCRJ89M",
+        "snippet": {
+          "publishedAt": "2023-03-25T11:08:33Z",
+          "channelId": "UCR5veS44sw5cfotqGim_pKA",
+          "title": "Can women have it all ? | Former PepsiCo CEO Indra Nooyi",
+          "description": "Video courtesy : https://youtu.be/rpOsdGSUp2U\n\nSUBSCRIBE to our channel for DAILY videos like this. Thank you\u2764\ufe0f\n\nCopyright Disclaimer under Section 107 of thecopyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting,scholarship,and research. Fair use is a use permitted by copyright statute that might otherwise beinfringing. Non-profit, educational or personal use tips the balance in favour of fair use.\nThis content doesn't belong to DWA, it is edited and shared only for awareness & knowledge. We make these videos with the intention of educating others in a motivational/inspirational form and if the content OWNER (visual/audio) of this content has any issue, we request you to directly message me, thus we sort out the outcome.\nRegards,\nDWA\n\n#motivationalspeech #shorts #inspiration #india #youtubeshort #money #successmotivation #explorepage #trendingshorts #motivational #inspiring #lifelessons #dailyshorts #women #entrepreneur",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tQCYoCRJ89M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Discover with Akash",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Can women have it all ? | Former PepsiCo CEO Indra Nooyi",
+            "description": "Video courtesy : https://youtu.be/rpOsdGSUp2U\n\nSUBSCRIBE to our channel for DAILY videos like this. Thank you\u2764\ufe0f\n\nCopyright Disclaimer under Section 107 of thecopyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting,scholarship,and research. Fair use is a use permitted by copyright statute that might otherwise beinfringing. Non-profit, educational or personal use tips the balance in favour of fair use.\nThis content doesn't belong to DWA, it is edited and shared only for awareness & knowledge. We make these videos with the intention of educating others in a motivational/inspirational form and if the content OWNER (visual/audio) of this content has any issue, we request you to directly message me, thus we sort out the outcome.\nRegards,\nDWA\n\n#motivationalspeech #shorts #inspiration #india #youtubeshort #money #successmotivation #explorepage #trendingshorts #motivational #inspiring #lifelessons #dailyshorts #women #entrepreneur"
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "77042",
+          "likeCount": "1990",
+          "favoriteCount": "0",
+          "commentCount": "9"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jQUJr5AMnIAvluOCm1OMtQRIojc",
+        "id": "f_ClpWd_NE4",
+        "snippet": {
+          "publishedAt": "2023-08-09T13:00:36Z",
+          "channelId": "UChD6XA0-Qlmue8JQAn_jqGA",
+          "title": "Unveiling the Success Story of PepsiCo, Inc.",
+          "description": "PepsiCo, Inc. is an American multinational food and beverage corporation. It produces a wide range of products, including Pepsi, Lay's, Gatorade, Quaker Oats, and more. Ramon Laguarta is the CEO of PepsiCo.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_ClpWd_NE4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TIME TRAVELER",
+          "tags": [
+            "Unveiling the Success Story of PepsiCo",
+            "Inc.",
+            "PepsiCo",
+            "coka coka"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Unveiling the Success Story of PepsiCo, Inc.",
+            "description": "PepsiCo, Inc. is an American multinational food and beverage corporation. It produces a wide range of products, including Pepsi, Lay's, Gatorade, Quaker Oats, and more. Ramon Laguarta is the CEO of PepsiCo."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "210",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ptAK3QxLDabp6QkHNw7CT1gxlxE",
+        "id": "sS9ISF7CQ2I",
+        "snippet": {
+          "publishedAt": "2023-04-27T20:48:19Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "PepsiCo Inc Q1 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sS9ISF7CQ2I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PepsiCo Inc Q1 2023 Earnings Call",
+            "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT31M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "48",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eVCX1kqCW6XR04NPXlmdRSHaIn8",
+        "id": "A43bVrXprD0",
+        "snippet": {
+          "publishedAt": "2023-10-10T16:07:59Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "PepsiCo Inc Q3 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/A43bVrXprD0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PepsiCo Inc Q3 2023 Earnings Call",
+            "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT29M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "303",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MfcIyHIPJWSGUrZ6ObtoDRx2Ip8",
+        "id": "0g_1s6K0uk0",
+        "snippet": {
+          "publishedAt": "2023-02-15T09:15:24Z",
+          "channelId": "UCvCl2Tlsxc1QLs7kDTfNY2g",
+          "title": "World Most Influential CEOs",
+          "description": "This video about the list of chief executive officers (CEO) leading top companies across the world. \nSUBSCRIBE to our channel  \ud83d\udc4d for DAILY videos. Thank you \ud83d\ude4f\n#CEO #GK #viral  #trending \n\nThe following is a list of chief executive officers of notable companies. \nAccenture Julie Sweet\nAditya Birla Group Kumar Mangalam Birla\nAdobe Systems Shantanu Narayen\nAgenus Garo H. Armen\nAirbus Guillaume Faury\nAlibaba Daniel Zhang\nAmazon Andy Jassy\nAdvanced Micro Devices Lisa Su\nAmerican Express Stephen Squeri\nAnthem Joseph R. Swedish\nApple Tim Cook\nArcelor Mittal Lakshmi Niwas Mittal\nAT&T John Stankey\nBAE Systems Charles Woodburn\nBajaj Allianz General Insurance Tapan Singhel\nBanco Bilbao Vizcaya Argentaria Carlos Torres Vila\nBank of America Brian Moynihan\nBarclays Jes Staley\nBerkshire Hathaway Warren Buffett\nBest Buy Hubert Joly\nBharti Enterprises Sunil Bharti Mittal\nBlackstone Group Stephen A. Schwarzman\nBHP Andrew Mackenzie\nBMW Oliver Zipse\nBoeing Dave Calhoun\nBoston Consulting Group Rich Lesser\nBP Bob Dudley\nCampbell Soup Company Denise Morrison\nCanonical Mark Shuttleworth\nCapital One Financial Richard Fairbank\nCaterpillar Jim Umpleby\nChubb Evan G. Greenberg\nCisco Systems Chuck Robbins\nCitigroup Jane Fraser\nCoca-Cola James Quincey\nCognizant Brian Humphries\nComcast Brian L. Roberts\nCredit Suisse Tidjane Thiam\nDaimler AG Ola K\u00e4llenius\nDell Michael Dell\nDelta Air Lines Ed Bastian\nDeutsche Bank Christian Sewing\nDeutsche Post Frank Appel\nDickey's Barbecue Pit Roland Dickey Jr.\nDow Chemical Company Edward D. Breen\nDr. Reddy's G. V. Prasad\neBay Devin Wenig\nElectronic Arts Andrew Wilson\nEricsson B\u00f6rje Ekholm\nExxonMobil Darren Woods\nEyeMail Inc. Lisa S. Jones\nErnst & Young Carmine Di Sibio\nFacebook Mark Zuckerberg\nFedEx Frederick W. Smith\nFenty Beauty Rihanna\nFiat Sergio Marchionne\nFidelity Investments Abigail Johnson\nFine Hygienic Holding James Michael Lafferty\nFord James Hackett\nFoxconn Terry Gou\nFox Corporation Lachlan Murdoch\nFUBU Daymond John\nGeneral Dynamics Phebe Novakovic\nGeneral Electric H. Lawrence Culp Jr.\nGeneral Motors Mary T. Barra\nGlaxoSmithKline Emma Walmsley\nGoldman Sachs David M. Solomon\nGoogle Sundar Pichai\nGMA Network Felipe Gozon\nGVK Industries Gunupati Venkata Krishna Reddy\nHCL Technologies C Vijayakumar\n\nMcDonald's Chris Kempczinski\nMcKinsey & Company Kevin Sneader\nMesa Air Group Jonathan Ornstein\nMetLife Steven A. Kandarian\nMGA Entertainment Isaac Larian\nMicrosoft Satya Nadella\nMicroStrategy Michael J. Saylor\nMorgan Stanley James P. Gorman\nMossy Oak Toxey Haas\nMozilla Corporation Chris Beard\nNBCUniversal Jeff Shell\nNews Corp Robert James Thomson\nNew York Times Company Mark Thompson\nNike Mark Parker\nNokia Pekka Lundmark\nNovartis Vasant Narasimhan\nNintendo Tatsumi Kimishima\nOath Tim Armstrong\nOracle Corporation Safra Catz\nOracle Corporation Mark Hurd\nPepsiCo Ramon Laguarta\nPfizer Albert Bourla\nPolo Ralph Lauren Patrice Louvet\nProcter & Gamble David S. Taylor\nPrudential Financial John Strangfeld\nQantas Alan Joyce\nReliance Group Anil Ambani\nReliance Industries Mukesh Ambani\n.....\nTata Consultancy Services Rajesh Gopinathan\nTCL Corporation Li Dongsheng\nTelstra Andy Penn\nTemasek Holdings Ho Ching\nTesco Dave Lewis\nTesla Elon Musk\nThe Travelers Companies Alan D. Schnitzer\nToyota Akio Toyoda\nT Rowe Price Bill Stromberg\nTwitter Parag Agrawal\nUnited Airlines Scott Kirby\nUBS Ralph Hamers\nBausch Health Joseph C. Papa\nVerizon Communications Hans Vestberg\nViacomCBS Robert Bakish\nVodafone Vittorio Colao\nVolkswagen Group Herbert Diess\nVulcan Bill Hilf\nWalt Disney Company Bob Chapek\nWalgreens Boots Alliance Stefano Pessina\nWalmart Doug McMillon\nWarner Brothers Ann Sarnoff\nWarnerMedia Jason Kilar\nWells Fargo Charles Scharf\nWhole Foods Market John Mackey\nWilliams-Sonoma Laura J. Alber\nWWE Stephanie McMahon\nYum! Brands Greg Creed\nZillow Group Rich Barton\nZoom Video Communications Eric Yuan\n\nIndian Origin CEOs Ruling The World, Who is the No 1 CEO in the world,Who is CEO of top companies, Who is the best CEO in the world 2023, How many top CEOs are Indian,Indian-origin CEOs leading industries across the world, CEO, top companies,\ntop companies and their CEOs in world, list of Indian companies and their CEO 2023,\ntop 100 CEOs in the world, all company CEO name list 2023, who is the best CEO in the world, top 10 CEO in the world,top Indian CEOs in the world 2023,\ntop companies and their CEOs in India\n\nMost influential CEOs,Top CEOs in the world,Business leaders,Corporate influencers,\nCEO interviews,Business news,Leadership skills,Successful CEOs,Management strategies,\nCompany growth,Business trends,Innovation in business,Entrepreneurship,Digital transformation,Global business,Business management,Strategic leadership,Thought leadership,Industry insights,Business analysis,Executive leadership,Corporate culture,Workplace trends,CEO success stories,Business advice.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "jaganinfo",
+          "tags": [
+            "Indian Origin CEOs Ruling The World",
+            "Who is the No 1 CEO in the world",
+            "Who is CEO of top companies",
+            "How many top CEOs are Indian",
+            "Indian-origin CEOs leading industries across the world",
+            "CEO",
+            "top companies",
+            "top companies and their CEOs in world",
+            "list of Indian companies and their CEO 2023",
+            "top 100 CEOs in the world",
+            "all company CEO name list 2023",
+            "who is the best CEO in the world",
+            "top 10 CEO in the world",
+            "top Indian CEOs in the world 2023",
+            "Successful CEOs",
+            "CEO success stories"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "World Most Influential CEOs",
+            "description": "This video about the list of chief executive officers (CEO) leading top companies across the world. \nSUBSCRIBE to our channel  \ud83d\udc4d for DAILY videos. Thank you \ud83d\ude4f\n#CEO #GK #viral  #trending \n\nThe following is a list of chief executive officers of notable companies. \nAccenture Julie Sweet\nAditya Birla Group Kumar Mangalam Birla\nAdobe Systems Shantanu Narayen\nAgenus Garo H. Armen\nAirbus Guillaume Faury\nAlibaba Daniel Zhang\nAmazon Andy Jassy\nAdvanced Micro Devices Lisa Su\nAmerican Express Stephen Squeri\nAnthem Joseph R. Swedish\nApple Tim Cook\nArcelor Mittal Lakshmi Niwas Mittal\nAT&T John Stankey\nBAE Systems Charles Woodburn\nBajaj Allianz General Insurance Tapan Singhel\nBanco Bilbao Vizcaya Argentaria Carlos Torres Vila\nBank of America Brian Moynihan\nBarclays Jes Staley\nBerkshire Hathaway Warren Buffett\nBest Buy Hubert Joly\nBharti Enterprises Sunil Bharti Mittal\nBlackstone Group Stephen A. Schwarzman\nBHP Andrew Mackenzie\nBMW Oliver Zipse\nBoeing Dave Calhoun\nBoston Consulting Group Rich Lesser\nBP Bob Dudley\nCampbell Soup Company Denise Morrison\nCanonical Mark Shuttleworth\nCapital One Financial Richard Fairbank\nCaterpillar Jim Umpleby\nChubb Evan G. Greenberg\nCisco Systems Chuck Robbins\nCitigroup Jane Fraser\nCoca-Cola James Quincey\nCognizant Brian Humphries\nComcast Brian L. Roberts\nCredit Suisse Tidjane Thiam\nDaimler AG Ola K\u00e4llenius\nDell Michael Dell\nDelta Air Lines Ed Bastian\nDeutsche Bank Christian Sewing\nDeutsche Post Frank Appel\nDickey's Barbecue Pit Roland Dickey Jr.\nDow Chemical Company Edward D. Breen\nDr. Reddy's G. V. Prasad\neBay Devin Wenig\nElectronic Arts Andrew Wilson\nEricsson B\u00f6rje Ekholm\nExxonMobil Darren Woods\nEyeMail Inc. Lisa S. Jones\nErnst & Young Carmine Di Sibio\nFacebook Mark Zuckerberg\nFedEx Frederick W. Smith\nFenty Beauty Rihanna\nFiat Sergio Marchionne\nFidelity Investments Abigail Johnson\nFine Hygienic Holding James Michael Lafferty\nFord James Hackett\nFoxconn Terry Gou\nFox Corporation Lachlan Murdoch\nFUBU Daymond John\nGeneral Dynamics Phebe Novakovic\nGeneral Electric H. Lawrence Culp Jr.\nGeneral Motors Mary T. Barra\nGlaxoSmithKline Emma Walmsley\nGoldman Sachs David M. Solomon\nGoogle Sundar Pichai\nGMA Network Felipe Gozon\nGVK Industries Gunupati Venkata Krishna Reddy\nHCL Technologies C Vijayakumar\n\nMcDonald's Chris Kempczinski\nMcKinsey & Company Kevin Sneader\nMesa Air Group Jonathan Ornstein\nMetLife Steven A. Kandarian\nMGA Entertainment Isaac Larian\nMicrosoft Satya Nadella\nMicroStrategy Michael J. Saylor\nMorgan Stanley James P. Gorman\nMossy Oak Toxey Haas\nMozilla Corporation Chris Beard\nNBCUniversal Jeff Shell\nNews Corp Robert James Thomson\nNew York Times Company Mark Thompson\nNike Mark Parker\nNokia Pekka Lundmark\nNovartis Vasant Narasimhan\nNintendo Tatsumi Kimishima\nOath Tim Armstrong\nOracle Corporation Safra Catz\nOracle Corporation Mark Hurd\nPepsiCo Ramon Laguarta\nPfizer Albert Bourla\nPolo Ralph Lauren Patrice Louvet\nProcter & Gamble David S. Taylor\nPrudential Financial John Strangfeld\nQantas Alan Joyce\nReliance Group Anil Ambani\nReliance Industries Mukesh Ambani\n.....\nTata Consultancy Services Rajesh Gopinathan\nTCL Corporation Li Dongsheng\nTelstra Andy Penn\nTemasek Holdings Ho Ching\nTesco Dave Lewis\nTesla Elon Musk\nThe Travelers Companies Alan D. Schnitzer\nToyota Akio Toyoda\nT Rowe Price Bill Stromberg\nTwitter Parag Agrawal\nUnited Airlines Scott Kirby\nUBS Ralph Hamers\nBausch Health Joseph C. Papa\nVerizon Communications Hans Vestberg\nViacomCBS Robert Bakish\nVodafone Vittorio Colao\nVolkswagen Group Herbert Diess\nVulcan Bill Hilf\nWalt Disney Company Bob Chapek\nWalgreens Boots Alliance Stefano Pessina\nWalmart Doug McMillon\nWarner Brothers Ann Sarnoff\nWarnerMedia Jason Kilar\nWells Fargo Charles Scharf\nWhole Foods Market John Mackey\nWilliams-Sonoma Laura J. Alber\nWWE Stephanie McMahon\nYum! Brands Greg Creed\nZillow Group Rich Barton\nZoom Video Communications Eric Yuan\n\nIndian Origin CEOs Ruling The World, Who is the No 1 CEO in the world,Who is CEO of top companies, Who is the best CEO in the world 2023, How many top CEOs are Indian,Indian-origin CEOs leading industries across the world, CEO, top companies,\ntop companies and their CEOs in world, list of Indian companies and their CEO 2023,\ntop 100 CEOs in the world, all company CEO name list 2023, who is the best CEO in the world, top 10 CEO in the world,top Indian CEOs in the world 2023,\ntop companies and their CEOs in India\n\nMost influential CEOs,Top CEOs in the world,Business leaders,Corporate influencers,\nCEO interviews,Business news,Leadership skills,Successful CEOs,Management strategies,\nCompany growth,Business trends,Innovation in business,Entrepreneurship,Digital transformation,Global business,Business management,Strategic leadership,Thought leadership,Industry insights,Business analysis,Executive leadership,Corporate culture,Workplace trends,CEO success stories,Business advice."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT4M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "123",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "64VPW_F-GGaHNK1X5k0_X9dB3MI",
+        "id": "TqL75GXEr6I",
+        "snippet": {
+          "publishedAt": "2023-02-01T14:02:23Z",
+          "channelId": "UCLyHcF1ptl2U03gc44c6vgg",
+          "title": "ADSW 2023 Interview: Eugene Willemsen, CEO AMESA, PepsiCo",
+          "description": "Eugene Willemsen, Chief Executive Officer of Africa, Middle East and South Asia at PepsiCo, shares his takeaways from this year's ADSW and what he looks forward to at COP28 with H.E. Dr. Sultan Al Jaber, Founding CEO and Chairman of Masdar recently announced as COP28 President-Designate.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TqL75GXEr6I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ADSW",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ADSW 2023 Interview: Eugene Willemsen, CEO AMESA, PepsiCo",
+            "description": "Eugene Willemsen, Chief Executive Officer of Africa, Middle East and South Asia at PepsiCo, shares his takeaways from this year's ADSW and what he looks forward to at COP28 with H.E. Dr. Sultan Al Jaber, Founding CEO and Chairman of Masdar recently announced as COP28 President-Designate."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "64463",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Z6cvYvJ2H-5fYBkqsPcOBBktMNM",
+        "id": "cAIGbr6VvF8",
+        "snippet": {
+          "publishedAt": "2023-06-12T09:31:39Z",
+          "channelId": "UCO7bj4yPpLyQ_3BlzAtENZw",
+          "title": "Interview with Marie Owens Thomsen on SAF | Sustainable Aviation Fuel",
+          "description": "Interview with Marie Owens Thomsen (IATA, Senior Vice President Sustainability & Chief Economist) on SAF - sustainable aviation fuel and SAF market development.\n\nLearn more here: https://www.iata.org/agm2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cAIGbr6VvF8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "IATAtv",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Interview with Marie Owens Thomsen on SAF | Sustainable Aviation Fuel",
+            "description": "Interview with Marie Owens Thomsen (IATA, Senior Vice President Sustainability & Chief Economist) on SAF - sustainable aviation fuel and SAF market development.\n\nLearn more here: https://www.iata.org/agm2023"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "142",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "ceo": "Phebe N. Novakovic",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "a3EzeiVbb_4MXduQI2rKhVJPYWQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "u8MKnboNhDFyCt7Rw93oGknIltY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "K0mVHTSYdVA"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-31T01:00:06Z",
+          "channelId": "UCfc_QYrfL3YfU88wYqt_aOA",
+          "title": "Learn from the outliers: Phebe Novakovic",
+          "description": "Three main reasons why transparency is important for leaders: Builds Trust: Transparency helps to establish trust between ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Business on the Go",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-31T01:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_OIfC0xvcsCG3fXoe_zrFCSGMRo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V3SqEF6S-n8"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-21T21:30:02Z",
+          "channelId": "UCrV_V3NUQVmCv7iYHLx-ZBQ",
+          "title": "You are very attractive lady  #craigferguson #ferguson#miranda",
+          "description": "\"Welcome to LOLSHORTS\u2014Where Celebrities Get Funny! Join us for entertaining celebrity interviews, where stars share their ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LOL SHORTS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-21T21:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-t3BLfSRTqe6ITIImbWDSwpOV-I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "inxRvbfKaFc"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-20T14:15:53Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "H&amp;P has been in the drilling services business since 1920 and listed on the NYSE for 60 years",
+          "description": "Helmerich & Payne has been in the drilling services business since 1920 and has been listed on the NYSE for 60 years. President ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-20T14:15:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-HOa1VA1Usy5KRwgslITCSqZP98",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XMWS-NYeNj0"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-20T16:00:20Z",
+          "channelId": "UCOfQuCs1g5_wjr3GPKKYSoA",
+          "title": "CEO of PGIM: Weighing Risk and Why the Markets Are too Optimistic | At Barron&#39;s",
+          "description": "PGIM's David Hunt sat down with Barrron's at the 2023 Milken Conference. SUBSCRIBE \u27a1\ufe0f https://bit.ly/3Fu15JK Visit our ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Barron's",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-20T16:00:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ZYS9qZzgE9cEUwuIrEwlWbaqsVQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Fez5El-2FPZRchfHelKUUxMcAo0",
+        "id": "K0mVHTSYdVA",
+        "snippet": {
+          "publishedAt": "2023-07-31T01:00:06Z",
+          "channelId": "UCfc_QYrfL3YfU88wYqt_aOA",
+          "title": "Learn from the outliers: Phebe Novakovic",
+          "description": "Three main reasons why transparency is important for leaders:\n\nBuilds Trust: Transparency helps to establish trust between leaders and their team members. When leaders are transparent about their decision-making processes, it shows that they have nothing to hide and are willing to be held accountable for their actions. This trust can lead to increased collaboration, better communication, and higher morale among team members.\n\nFosters Collaboration: Transparency promotes collaboration by creating an environment where everyone feels comfortable sharing their ideas and opinions. When leaders are transparent about their plans and strategies, it encourages team members to speak up and offer suggestions, leading to more innovative solutions and better decision-making.\n\nEncourages Accountability: Transparency holds leaders accountable for their actions and decisions. When leaders are transparent, they are more likely to take responsibility for their mistakes and learn from them. This accountability can also extend to other team members, who will feel more inclined to own up to their errors and work towards improvement. Ultimately, this leads to a culture of continuous learning and growth.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/K0mVHTSYdVA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Business on the Go",
+          "tags": [
+            "businessstrategy",
+            "entrepreneurmindset",
+            "leadershipdevelopment",
+            "innovation",
+            "successmindset",
+            "marketingtips",
+            "growthhacking",
+            "motivationalspeakers",
+            "startuplife",
+            "financialfreedom",
+            "businesscoach",
+            "productivitytips",
+            "creativity",
+            "brandingstrategy",
+            "businesstips",
+            "salesstrategy",
+            "socialmediamarketing",
+            "networkingtips",
+            "careerdevelopment",
+            "worklifebalance",
+            "digitalmarketing",
+            "customerengagement",
+            "teamwork",
+            "goalsetting",
+            "WomenInLeadership",
+            "FemaleEmpowerment",
+            "LeadershipTips",
+            "WomenInBusiness",
+            "DiversityAndInclusion",
+            "SheMeansBusiness",
+            "TheFutureIsFemale"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Learn from the outliers: Phebe Novakovic",
+            "description": "Three main reasons why transparency is important for leaders:\n\nBuilds Trust: Transparency helps to establish trust between leaders and their team members. When leaders are transparent about their decision-making processes, it shows that they have nothing to hide and are willing to be held accountable for their actions. This trust can lead to increased collaboration, better communication, and higher morale among team members.\n\nFosters Collaboration: Transparency promotes collaboration by creating an environment where everyone feels comfortable sharing their ideas and opinions. When leaders are transparent about their plans and strategies, it encourages team members to speak up and offer suggestions, leading to more innovative solutions and better decision-making.\n\nEncourages Accountability: Transparency holds leaders accountable for their actions and decisions. When leaders are transparent, they are more likely to take responsibility for their mistakes and learn from them. This accountability can also extend to other team members, who will feel more inclined to own up to their errors and work towards improvement. Ultimately, this leads to a culture of continuous learning and growth."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "180",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sGWXT0bVK3FuS0av94c3YhuLVJA",
+        "id": "V3SqEF6S-n8",
+        "snippet": {
+          "publishedAt": "2023-12-21T21:30:02Z",
+          "channelId": "UCrV_V3NUQVmCv7iYHLx-ZBQ",
+          "title": "You are very attractive lady  #craigferguson #ferguson#miranda",
+          "description": "\"Welcome to LOLSHORTS\u2014Where Celebrities Get Funny!\n\nJoin us for entertaining celebrity interviews, where stars share their humour. Our charming host and comedians create a relaxed atmosphere. We also feature movie clips, bloopers, and iconic film moments. Whether you love movies, comedy, or just want to laugh, subscribe to LOLSHORTS for a dose of fun and fame!#craigferguson #mirandakerr #latelateshow",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V3SqEF6S-n8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LOL SHORTS",
+          "tags": [
+            "craig ferguson",
+            "geoff petterson",
+            "geoff makes craig laugh",
+            "craig ferguson talk show",
+            "the late late show",
+            "craig ferguson flirting",
+            "craig and the ladies",
+            "david letterman",
+            "funny moments talk show",
+            "late night talk shows",
+            "miranda kerr victoria secret",
+            "victoria secret model",
+            "funny",
+            "very funny",
+            "hilarious",
+            "miranda kerr interview",
+            "miranda kerr 2016",
+            "miranda ker hot",
+            "miranda kerr makeup",
+            "miranda kerr 2015",
+            "miranda kerr vogue",
+            "miranda kerr flirting",
+            "miranda kerr flirt bruno mars"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "You are very attractive lady  #craigferguson #ferguson#miranda",
+            "description": "\"Welcome to LOLSHORTS\u2014Where Celebrities Get Funny!\n\nJoin us for entertaining celebrity interviews, where stars share their humour. Our charming host and comedians create a relaxed atmosphere. We also feature movie clips, bloopers, and iconic film moments. Whether you love movies, comedy, or just want to laugh, subscribe to LOLSHORTS for a dose of fun and fame!#craigferguson #mirandakerr #latelateshow"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10434904",
+          "likeCount": "294773",
+          "favoriteCount": "0",
+          "commentCount": "2014"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vxpOms5Jf041HPdfDte8lHRRQ2k",
+        "id": "inxRvbfKaFc",
+        "snippet": {
+          "publishedAt": "2023-06-20T14:15:53Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "H&P has been in the drilling services business since 1920 and listed on the NYSE for 60 years",
+          "description": "Helmerich & Payne has been in the drilling services business since 1920 and has been listed on the NYSE for 60 years. President & CEO John Lindsay recently joined Judy Khan Shaw on #NYSEFloorTalk after ringing the Opening Bell to celebrate the company's listing anniversary.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/inxRvbfKaFc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "tags": [
+            "Financial Regulatory Structure",
+            "Investor Confidence",
+            "Financial Responsibility",
+            "Transparency",
+            "Accountability",
+            "Fair Market Dealing",
+            "Global regulation",
+            "Free Enterprise",
+            "Standardized Derivatives",
+            "De-regulation",
+            "Risk Taking",
+            "Trust",
+            "Heritage",
+            "Integrity",
+            "Advocacy",
+            "Technology",
+            "NYSE",
+            "NYSE Euronext",
+            "NYSE Market",
+            "NYSE Com",
+            "Nasdaq NYSE",
+            "Law",
+            "Justice",
+            "Business School",
+            "Innovation",
+            "Solutions",
+            "New Vision",
+            "Investments"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "H&P has been in the drilling services business since 1920 and listed on the NYSE for 60 years",
+            "description": "Helmerich & Payne has been in the drilling services business since 1920 and has been listed on the NYSE for 60 years. President & CEO John Lindsay recently joined Judy Khan Shaw on #NYSEFloorTalk after ringing the Opening Bell to celebrate the company's listing anniversary."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "412",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JJ_jrzWMIUilYtaWfqB4OEvs9-s",
+        "id": "XMWS-NYeNj0",
+        "snippet": {
+          "publishedAt": "2023-07-20T16:00:20Z",
+          "channelId": "UCOfQuCs1g5_wjr3GPKKYSoA",
+          "title": "CEO of PGIM: Weighing Risk and Why the Markets Are too Optimistic | At Barron's",
+          "description": "PGIM's David Hunt sat down with Barrron's at the 2023 Milken Conference.\n\nSUBSCRIBE \u27a1\ufe0f  https://bit.ly/3Fu15JK\nVisit our website: https://www.barrons.com/\nFollow us on Instagram \u27a1\ufe0f  https://www.instagram.com/barrons\nLike us on Facebook \u27a1\ufe0f  https://www.facebook.com/barrons\nFollow us on Twitter \u27a1\ufe0f  https://twitter.com/barronsonline\n\nBarron's is the world's premier investing publication since 1921.\n\n#Barrons #AtBarrons",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XMWS-NYeNj0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Barron's",
+          "tags": [
+            "barron's",
+            "investing",
+            "stock market",
+            "barron's group",
+            "barrons",
+            "barrons group",
+            "at barrons",
+            "at barron's",
+            "at barrons andy serwer",
+            "andy serwer at barrons",
+            "andy serwer",
+            "andy serwer interview",
+            "at barrons interview",
+            "at barron's interview",
+            "barron's interview",
+            "barrons interview",
+            "david hunt",
+            "pgim",
+            "pgim real estate",
+            "david hunt pgim",
+            "david hunt interview",
+            "pgim ceo",
+            "ceo of pgim"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CEO of PGIM: Weighing Risk and Why the Markets Are too Optimistic | At Barron's",
+            "description": "PGIM's David Hunt sat down with Barrron's at the 2023 Milken Conference.\n\nSUBSCRIBE \u27a1\ufe0f  https://bit.ly/3Fu15JK\nVisit our website: https://www.barrons.com/\nFollow us on Instagram \u27a1\ufe0f  https://www.instagram.com/barrons\nLike us on Facebook \u27a1\ufe0f  https://www.facebook.com/barrons\nFollow us on Twitter \u27a1\ufe0f  https://twitter.com/barronsonline\n\nBarron's is the world's premier investing publication since 1921.\n\n#Barrons #AtBarrons"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "590",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}

@@ -1,0 +1,1880 @@
+{
+  "ceo": "Bryan B. Deboer",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "DKMxeQnMHen6aMHW471GjhyBKNU",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9GER0_aqF1Ld4O0f_1XOKNq5YMQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MmYFB359wiw"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-12T15:04:02Z",
+          "channelId": "UCxQHIfkZhlivIKE68LUb6LQ",
+          "title": "Who is Brian DeBoer?",
+          "description": "Introduction to Brian DeBoer @BrianDeBoerRealtor.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brian DeBoer Realtor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-12T15:04:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J-qZQTYziNrn2zadQJrIK0tl55w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J4FkiRRB5tI"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-30T15:16:44Z",
+          "channelId": "UCuxOpDPQFjNoYGhWZ5M9Kcw",
+          "title": "Brian DeBoer",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Andrew tuggle",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-30T15:16:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GepHbRXkBbJpZn-HEkI3DBcbRQA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "65p4S7AvmFQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-16T13:14:24Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum: ASOTU Capturing Bryan DeBoer Playing Pinball",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-16T13:14:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hakpYRc7zmy3h_fkxR_UOSSnstE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eHINxfFkS3w"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T14:27:49Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum Morning Keynote: Bryan DeBoer CEO &amp; President Lithia Driveway",
+          "description": "Alan Haig, President of Haig Partners discusses Lithia's growth strategy and success as the 2023 AutoTeam America Buy-Sell ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T14:27:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TzWmt_Hcm6htd00MzTIwHWLLXGs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FP6-TXHshgk"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-13T20:01:09Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Buy-Sell Summit &amp; Dealer/CEO/CFO Forum: Bryan DeBoer / Lithia Highlights",
+          "description": "Alan Haig, President of Haig Partners interviews Bryan DeBoer, President and CEO of Lithia Driveway at the 2023 AutoTeam ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-13T20:01:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cuR41PmKULqSIWHMu9Y-GD4YZJY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V0JuWjSeS74"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-08T22:20:00Z",
+          "channelId": "UCX5qMbq8Y9h9TOdFhKUhkrw",
+          "title": "The BIGGEST 12-Year-Old you will ever see \ud83d\ude33\ud83e\udd2f #shorts",
+          "description": "(Via bentenuta/ig) #football #youthsports #highschoolsports #highschoolfootball #youthfootball #insane #funny #agegap ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MaxPreps",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-08T22:20:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mqxj2lBQJ63I2360NFREP4SkhiI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "w4bNpqug8Cw"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-29T09:00:42Z",
+          "channelId": "UCXnPiEv1DoUCDAqDUXT9shQ",
+          "title": "Een wel heel soepel interview \ud83d\ude02",
+          "description": "Abonneer je hier gratis: https://bit.ly/ESPNSubscribe \u2014 Meer zien van ESPN Nederland: Website: https://www.espn.nl/ Instagram: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESPN NL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-29T09:00:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sdvEwNUWfi5kxZUkU-hJ8JSgKhU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mDxLAv7r9JQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-18T17:46:54Z",
+          "channelId": "UCnJNGeiStQJY7cnjOcWqQYg",
+          "title": "Bryan Hessing emotioneel door jongen die vertelt over zijn moeder",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MiljonairsStyle",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-18T17:46:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qR6WMq2Brb_zm8gq71EIAk2SYgg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VATBf6VHy7E"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-16T13:27:22Z",
+          "channelId": "UC61SJ883L5W8ACiM0XVPF5g",
+          "title": "Lithia and the Queen, EV Home Charging Woes, KIA\u2019s Swivel Seat EV",
+          "description": "It's Thursday and we have a full charge as we talk about Lithia's entry into Great Britain. We also cover JD Power's new report ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ASOTU | More Than Cars",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-16T13:27:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NNVtGgcEL9HXHolzyA_eeVMA-8I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OtNn-dUKeFI"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-02T17:57:10Z",
+          "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
+          "title": "Pat McAfee called the Dawgs and then picked the Tide \ud83e\udd76\ud83e\udd23",
+          "description": "Subscribe to ESPN+ http://espnplus.com/youtube \u2714\ufe0f Get the ESPN App: http://www.espn.com/espn/apps/espn \u2714\ufe0f Subscribe to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESPN",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-02T17:57:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7QXWQDiUVDf7C7llFOmoa2pneg0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aYhYQoTftro"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-28T18:23:01Z",
+          "channelId": "UC7-rtz96bYgd2m4AhKtZFQw",
+          "title": "Driving the Next Generation of Edge Computing",
+          "description": "In this session, Jim Anderson, President & Chief Executive Officer of Lattice Semiconductor, and Patrick Moorhead, Principal ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Six Five Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-28T18:23:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7UC_Kq9j8hMltjlva0swHhJkuBE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6DJ2TqW-mao"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-16T23:02:35Z",
+          "channelId": "UCLttSYJ6kPtlcurY96kXkQw",
+          "title": "&quot;Vittoria meritata, siamo pronti per il Feyenoord&quot; | JOS\u00c9 MOURINHO AL TERMINE DI ROMA-UDINESE",
+          "description": "Iscriviti al canale ufficiale dell'#ASRoma su YouTube: http://bit.ly/ASRoma_ Il canale ufficiale Youtube dell'AS Roma \u00e8 il mondo ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AS Roma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-16T23:02:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n96iVRgzXlcn_ssXUakDbQAepbs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PvhiK-XGkzs"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T01:24:42Z",
+          "channelId": "UCsjNMoNNeXTycXHB16KiwxA",
+          "title": "What do NFL QB Matt Ryan and Boise State QB Taylen Green have in common?",
+          "description": "Boise State Coach Bush Hamdan talks to the media during Boise State spring football practice about similarities he saw coaching ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Boise State sports coverage by Bronco Nation News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T01:24:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vvchOk_oemjAGK2inhHsIKCe8WM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dYrHsrpV5L0"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-30T13:49:47Z",
+          "channelId": "UCDSw7lZnz61n97fgJRfeAug",
+          "title": "Ferry: The Series (2023) Moora Vander Veken, Max Croes, Frank Lammers Trailer Vertrailer #shorts",
+          "description": "Support us: https://sunnysiders.org/supportus.html #Ferry #FerryTheSeries #Ferry2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vertrailers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-30T13:49:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BjiXzLlPt_3COYr12G0iUsD0rBM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9TdyIFldLwc"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-03T13:00:07Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Paul van Meenen (D66): &#39;CDA deed jaren aan pappen en nathouden van boeren&#39; | Big Five",
+          "description": "Dit is een fragment BNR's Big Five met presentator Diana Matroos. Te gast is Paul van Meenen, D66-lijsttrekker voor de Eerste ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BNR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-03T13:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0z39x1xscmFpy0vKSgLSaBLuTaM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6G5q_eGvWGw"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-20T13:27:15Z",
+          "channelId": "UCxAB4YSe97k8faRgUgNng9w",
+          "title": "Vallen kindfluencers en familievloggers onder kinderarbeid? | HLF8",
+          "description": "Experts hebben namelijk kritiek geuit op ouders die hun kinderen op social media plaatsen. Vallen kindfluencers en ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HLF8",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-20T13:27:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gAklTRL9XK3rgLOhYzdPgZzEetk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UPYorMVnQsQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T15:00:22Z",
+          "channelId": "UCz-CVVvAimmDIzmmiSoJnOw",
+          "title": "Shelf Lives | 3LAB Afstudeerfilm",
+          "description": "De tijd begint te dringen voor de 29 jarige Mila die in het dystopische Mathel leeft. Vrouwen worden hier namelijk gedwongen om ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPO 3LAB",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T15:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xtXFmJhoadPAE5BXqyPFMe1J-Bk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c6Ufin6qtGs"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T09:00:20Z",
+          "channelId": "UCbX5WqbuIDE7_-_G6rcboEg",
+          "title": "Richard Hanania &amp; Rob Henderson: The Rise of Wokeness and the Influence of Civil Rights Law \u2014 #39",
+          "description": "Steve Hsu, Richard Hanania, and Rob Henderson were scheduled for a June 2023 panel as part of the University of Austin ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Manifold",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T09:00:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "JevoYz-3bLcMOogOBY-QFwL2hU0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "UV7nlK-2yeYKMKITtEZvkFI9Avo",
+        "id": "MmYFB359wiw",
+        "snippet": {
+          "publishedAt": "2023-07-12T15:04:02Z",
+          "channelId": "UCxQHIfkZhlivIKE68LUb6LQ",
+          "title": "Who is Brian DeBoer?",
+          "description": "Introduction to Brian DeBoer @BrianDeBoerRealtor",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MmYFB359wiw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brian DeBoer Realtor",
+          "tags": [
+            "Real Estate",
+            "Realtor",
+            "Investment",
+            "West Michigan",
+            "Michigan",
+            "Lake Michigan",
+            "Properties",
+            "For Sale",
+            "Market",
+            "Marketing",
+            "Selling",
+            "Buying",
+            "Homes",
+            "Grand Rapids",
+            "Houses",
+            "eXp Realty",
+            "Agent",
+            "Broker",
+            "Home Owner",
+            "Rental"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Who is Brian DeBoer?",
+            "description": "Introduction to Brian DeBoer @BrianDeBoerRealtor"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT4M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "56",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oXXCiJdLRoakTomLjec5MSQVtsA",
+        "id": "J4FkiRRB5tI",
+        "snippet": {
+          "publishedAt": "2023-05-30T15:16:44Z",
+          "channelId": "UCuxOpDPQFjNoYGhWZ5M9Kcw",
+          "title": "Brian DeBoer",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/J4FkiRRB5tI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Andrew tuggle",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian DeBoer",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "57",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XZfuYKxCHLcuMXxC2R-8gZfoTtM",
+        "id": "65p4S7AvmFQ",
+        "snippet": {
+          "publishedAt": "2023-03-16T13:14:24Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum: ASOTU Capturing Bryan DeBoer Playing Pinball",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AutoTeam America Dealer|CEO|CFO Forum: ASOTU Capturing Bryan DeBoer Playing Pinball",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "67",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RhBA-j1S6eGqZ2AJXgySZsh6b5k",
+        "id": "eHINxfFkS3w",
+        "snippet": {
+          "publishedAt": "2023-03-15T14:27:49Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum Morning Keynote: Bryan DeBoer CEO & President Lithia Driveway",
+          "description": "Alan Haig, President of Haig Partners discusses Lithia's growth strategy and success as the 2023 AutoTeam America Buy-Sell Summit and Dealer|CEO|CFO Forum.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AutoTeam America Dealer|CEO|CFO Forum Morning Keynote: Bryan DeBoer CEO & President Lithia Driveway",
+            "description": "Alan Haig, President of Haig Partners discusses Lithia's growth strategy and success as the 2023 AutoTeam America Buy-Sell Summit and Dealer|CEO|CFO Forum."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H5M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1010",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0sipezNMxNGMO7BCMM-lXWT8KoE",
+        "id": "FP6-TXHshgk",
+        "snippet": {
+          "publishedAt": "2023-03-13T20:01:09Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Buy-Sell Summit & Dealer/CEO/CFO Forum: Bryan DeBoer / Lithia Highlights",
+          "description": "Alan Haig, President of Haig Partners interviews Bryan DeBoer, President and CEO of Lithia Driveway at the 2023 AutoTeam America Buy-Sell Summit and Dealer/CEO/CFO Forum.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AutoTeam America Buy-Sell Summit & Dealer/CEO/CFO Forum: Bryan DeBoer / Lithia Highlights",
+            "description": "Alan Haig, President of Haig Partners interviews Bryan DeBoer, President and CEO of Lithia Driveway at the 2023 AutoTeam America Buy-Sell Summit and Dealer/CEO/CFO Forum."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "297",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "e7rPcipnUlVDKtknaQPIW7kpSLY",
+        "id": "V0JuWjSeS74",
+        "snippet": {
+          "publishedAt": "2023-10-08T22:20:00Z",
+          "channelId": "UCX5qMbq8Y9h9TOdFhKUhkrw",
+          "title": "The BIGGEST 12-Year-Old you will ever see \ud83d\ude33\ud83e\udd2f #shorts",
+          "description": "(Via bentenuta/ig)\n\n#football #youthsports #highschoolsports #highschoolfootball #youthfootball #insane #funny #agegap #sizegap #createaplayer #viral",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V0JuWjSeS74/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MaxPreps",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The BIGGEST 12-Year-Old you will ever see \ud83d\ude33\ud83e\udd2f #shorts",
+            "description": "(Via bentenuta/ig)\n\n#football #youthsports #highschoolsports #highschoolfootball #youthfootball #insane #funny #agegap #sizegap #createaplayer #viral"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "20548594",
+          "likeCount": "627531",
+          "favoriteCount": "0",
+          "commentCount": "11205"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vtBrQIbFxK53Gz12XMUugt8N6CY",
+        "id": "w4bNpqug8Cw",
+        "snippet": {
+          "publishedAt": "2023-09-29T09:00:42Z",
+          "channelId": "UCXnPiEv1DoUCDAqDUXT9shQ",
+          "title": "Een wel heel soepel interview \ud83d\ude02",
+          "description": "Abonneer je hier gratis: https://bit.ly/ESPNSubscribe\n\u2014\nMeer zien van ESPN Nederland: \nWebsite: https://www.espn.nl/\nInstagram: http://www.instagram.com/espnnl\nFacebook: http://www.facebook.com/espnnl\nTwitter: http://www.twitter.com/espnnl\nTikTok: https://www.tiktok.com/@espnnl\n\u2013\nNog meer zien van ons YouTube-kanaal? Bekijk de volgende afspeellijsten:\n\nEredivisie 2023/2024 | ESPN NL\nhttps://youtube.com/playlist?list=PL_5dsSfLn2v-hu4YXEo-EUDPj7In6s-In\nVoor alle content over het nieuwe Eredivisie-seizoen 2023/2024 ben je bij deze afspeellijst op het goede adres. Denk aan de wedstrijden van Ajax onder de nieuwe trainer Maurice Steijn, PSV met Peter Bosz aan het roer en alles over landskampioen Feyenoord. Dit seizoen zijn Almere City, Heracles Almelo en PEC Zwolle nieuw in de hoogste Nederlandse voetbalcompetitie, dus ook hen zullen we veelvuldig in de gaten gaan houden. In deze playlist kijk je straks alle samenvattingen, highlights en unieke momenten van Eredivisie-clubs uit het Eredivisie-seizoen 2023/'24. Niets missen van het nieuwe seizoen? Klik dan snel op de afspeellijst!\n\nShorts | ESPN NL\nhttps://youtube.com/playlist?list=PL_5dsSfLn2v9KlbM5K6chTf3pc5NMMxPY\nVoor korte goals, mooie acties, interviews, grappige momenten en meer moet je bij onze Shorts-afspeellijst zijn!\n\nVoetbalpraat | ESPN NL\nhttps://youtube.com/playlist?list=PL_5dsSfLn2v8_6bfQPNdG_J98kXM3q7-b\nOok in 2023 is jouw favoriete voetbalpraatprogramma elke week te bekijken \u00e9n te beluisteren als podcast. Hoor alle ins en outs, analyses en meningen van onze experts over de Eredivisie, Keuken Kampioen Divisie, KNVB Beker en meer in Voetbalpraat.\n\u2013\nWelkom op het YouTube-kanaal van ESPN Nederland. ESPN is h\u00e9t sportkanaal van Nederland en de plek waar je alles over voetbal vindt. Van Eredivisie-voetbal met Ajax, PSV en Feyenoord tot Europa League-voetbal, Conference League-voetbal en het meest actuele (transfer)nieuws, zoals de transfers van Benjamin Tahirovic, Ramiz Zerrouki en Ruben van Bommel. Ook alles over de Keuken Kampioen Divisie vind je op ons YouTube-kanaal. \n\nTijdens elke Eredivisie-speelronde vind je op ons kanaal samenvattingen die we binnen dertig minuten na het laatste fluitsignaal hebben geupload. Daarnaast vind je meerdere video\u2019s per week met onder andere samenvattingen van Eredivisie en KKD wedstrijden, interviews met de beste voetbalspelers en de mooiste goals en grappigste fragmenten. Ons doel? Het beste en leukste voetbalkanaal van Nederland zijn. Lijkt dit je wat? Abonneer snel op het ESPN kanaal!\n\u2013\n#ESPN #ESPNNL #Shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/w4bNpqug8Cw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESPN NL",
+          "tags": [
+            "ESPN",
+            "ESPN Nederland",
+            "Voetbal",
+            "Eredivisie",
+            "Keuken Kampioen Divisie",
+            "Conference League",
+            "Europa League",
+            "KNVB Beker",
+            "Ajax",
+            "Feyenoord",
+            "PSV",
+            "ESPN NL",
+            "ESPNNL",
+            "Highlights Eredivisie",
+            "Eredivisie Samenvattingen",
+            "Samenvattingen ESPN",
+            "Samenvattingen ESPNNL",
+            "Samenvattingen ESPN NL",
+            "Guus Til",
+            "Til",
+            "Helene Hendriks",
+            "Helene",
+            "Interview"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "Een wel heel soepel interview \ud83d\ude02",
+            "description": "Abonneer je hier gratis: https://bit.ly/ESPNSubscribe\n\u2014\nMeer zien van ESPN Nederland: \nWebsite: https://www.espn.nl/\nInstagram: http://www.instagram.com/espnnl\nFacebook: http://www.facebook.com/espnnl\nTwitter: http://www.twitter.com/espnnl\nTikTok: https://www.tiktok.com/@espnnl\n\u2013\nNog meer zien van ons YouTube-kanaal? Bekijk de volgende afspeellijsten:\n\nEredivisie 2023/2024 | ESPN NL\nhttps://youtube.com/playlist?list=PL_5dsSfLn2v-hu4YXEo-EUDPj7In6s-In\nVoor alle content over het nieuwe Eredivisie-seizoen 2023/2024 ben je bij deze afspeellijst op het goede adres. Denk aan de wedstrijden van Ajax onder de nieuwe trainer Maurice Steijn, PSV met Peter Bosz aan het roer en alles over landskampioen Feyenoord. Dit seizoen zijn Almere City, Heracles Almelo en PEC Zwolle nieuw in de hoogste Nederlandse voetbalcompetitie, dus ook hen zullen we veelvuldig in de gaten gaan houden. In deze playlist kijk je straks alle samenvattingen, highlights en unieke momenten van Eredivisie-clubs uit het Eredivisie-seizoen 2023/'24. Niets missen van het nieuwe seizoen? Klik dan snel op de afspeellijst!\n\nShorts | ESPN NL\nhttps://youtube.com/playlist?list=PL_5dsSfLn2v9KlbM5K6chTf3pc5NMMxPY\nVoor korte goals, mooie acties, interviews, grappige momenten en meer moet je bij onze Shorts-afspeellijst zijn!\n\nVoetbalpraat | ESPN NL\nhttps://youtube.com/playlist?list=PL_5dsSfLn2v8_6bfQPNdG_J98kXM3q7-b\nOok in 2023 is jouw favoriete voetbalpraatprogramma elke week te bekijken \u00e9n te beluisteren als podcast. Hoor alle ins en outs, analyses en meningen van onze experts over de Eredivisie, Keuken Kampioen Divisie, KNVB Beker en meer in Voetbalpraat.\n\u2013\nWelkom op het YouTube-kanaal van ESPN Nederland. ESPN is h\u00e9t sportkanaal van Nederland en de plek waar je alles over voetbal vindt. Van Eredivisie-voetbal met Ajax, PSV en Feyenoord tot Europa League-voetbal, Conference League-voetbal en het meest actuele (transfer)nieuws, zoals de transfers van Benjamin Tahirovic, Ramiz Zerrouki en Ruben van Bommel. Ook alles over de Keuken Kampioen Divisie vind je op ons YouTube-kanaal. \n\nTijdens elke Eredivisie-speelronde vind je op ons kanaal samenvattingen die we binnen dertig minuten na het laatste fluitsignaal hebben geupload. Daarnaast vind je meerdere video\u2019s per week met onder andere samenvattingen van Eredivisie en KKD wedstrijden, interviews met de beste voetbalspelers en de mooiste goals en grappigste fragmenten. Ons doel? Het beste en leukste voetbalkanaal van Nederland zijn. Lijkt dit je wat? Abonneer snel op het ESPN kanaal!\n\u2013\n#ESPN #ESPNNL #Shorts"
+          },
+          "defaultAudioLanguage": "nl"
+        },
+        "contentDetails": {
+          "duration": "PT51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "68425",
+          "likeCount": "1804",
+          "favoriteCount": "0",
+          "commentCount": "17"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TkNscViJO5U9l23HllnaPwx2Y3o",
+        "id": "mDxLAv7r9JQ",
+        "snippet": {
+          "publishedAt": "2023-09-18T17:46:54Z",
+          "channelId": "UCnJNGeiStQJY7cnjOcWqQYg",
+          "title": "Bryan Hessing emotioneel door jongen die vertelt over zijn moeder",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mDxLAv7r9JQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MiljonairsStyle",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "Bryan Hessing emotioneel door jongen die vertelt over zijn moeder",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "20894",
+          "likeCount": "1044",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IOBOPKGRWIQXeQOvKCf0ZtelVJ8",
+        "id": "VATBf6VHy7E",
+        "snippet": {
+          "publishedAt": "2023-03-16T13:27:22Z",
+          "channelId": "UC61SJ883L5W8ACiM0XVPF5g",
+          "title": "Lithia and the Queen, EV Home Charging Woes, KIA\u2019s Swivel Seat EV",
+          "description": "It\u2019s Thursday and we have a full charge as we talk about Lithia\u2019s entry into Great Britain. We also cover JD Power\u2019s new report indicating waning satisfaction with home charging, as well as KIA\u2019s new EV SUV with swivel seats. Yep. \r\n\r\nLithia Motors has become the third public auto retail with holdings in the United Kingdom, joining Penske and Group 1, with its recently announced purchase of Jardine Motors Group which includes 40 new-vehicle franchise points in the UK, including luxury brands including Aston Martin, Porsche and BMW, according to Lithia CEO BryanDeBoer said.\r\nAccording to Britain's Sky News, the cost of the deal was between $361-482M and it will add around $2B in annual revenue to Lithia which already jumped 24 percent to $28.23 billion\r\nDuring an interview DeBoer called the deal \"more affordable than what we typically find ... in the United States\u201d and continued \"... more importantly, it gives us a foundation to grow more in the United Kingdom, which is helping us drive towards our $50 billion target for 2025\r\nJardine CEO Neil Williamson will stay in his role leading the 2700 employees that have come with the acquisition\r\n\r\n\r\nCustomer satisfaction with their EV home charging solutions have taken a shock as the JD Power 2023 U.S. Electric Vehicle Experience (EVX) Home Charging Study  indicates a noticeable decline due to a combination of slow charging speeds, rising electricity rates, and lack of consumer education on charging programs\r\nSatisfaction is measured across eight factors: fairness of retail price; cord length; size of charger; ease of winding/storing cable; cost of charging; charging speed; ease of use; and reliability.\r\nWhen factoring cost, the index dropped more than 30 points\r\nNew EV owners were one of the primary reasons of the drop in scores due to charging speed of installed level 2 chargers\r\nOnly 51% of those surveyed were aware of programs that helped with the cost of install and charging costs\r\nTesla owners and those who used charge scheduling features to avoid high cost peak charging times we\u2019re at the top of the satisfaction list\r\n\"Whether you're an automaker, dealer or utility company participating in the EV ecosystem, improving the EV owner experience with respect to home charging should be a common goal shared by all,\" Brent Gruber, executive director of the EV practice at J.D. Power, said in a statement.\r\n\r\n\r\nAfter weeks of teased photos, we finally got a first look at the first EV in the 3 row segment with the flagship Kia EV9 that features an aggressive design, three rows of seating plus cargo space, and yes, the middle row seats swivel\r\nBuilt on Hyundai Motor Group\u2019s 800V E-GMP platform, the release says the vehicle features \u201ctechnology for life\u201d design philosophy throughout that \u201cpromotes intuitive interactions between humans and machines.\u201d\r\nMore performance details will be released next month however the design is very close to the concept presented last year but many tech and convenience features like generous screens and charging points throughout will be standard\r\nHow about those 180 degree swivel seats in the center to bring us back to the 80s.\n\n#automotivepodcast #podcast #automotive",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VATBf6VHy7E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ASOTU | More Than Cars",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lithia and the Queen, EV Home Charging Woes, KIA\u2019s Swivel Seat EV",
+            "description": "It\u2019s Thursday and we have a full charge as we talk about Lithia\u2019s entry into Great Britain. We also cover JD Power\u2019s new report indicating waning satisfaction with home charging, as well as KIA\u2019s new EV SUV with swivel seats. Yep. \r\n\r\nLithia Motors has become the third public auto retail with holdings in the United Kingdom, joining Penske and Group 1, with its recently announced purchase of Jardine Motors Group which includes 40 new-vehicle franchise points in the UK, including luxury brands including Aston Martin, Porsche and BMW, according to Lithia CEO BryanDeBoer said.\r\nAccording to Britain's Sky News, the cost of the deal was between $361-482M and it will add around $2B in annual revenue to Lithia which already jumped 24 percent to $28.23 billion\r\nDuring an interview DeBoer called the deal \"more affordable than what we typically find ... in the United States\u201d and continued \"... more importantly, it gives us a foundation to grow more in the United Kingdom, which is helping us drive towards our $50 billion target for 2025\r\nJardine CEO Neil Williamson will stay in his role leading the 2700 employees that have come with the acquisition\r\n\r\n\r\nCustomer satisfaction with their EV home charging solutions have taken a shock as the JD Power 2023 U.S. Electric Vehicle Experience (EVX) Home Charging Study  indicates a noticeable decline due to a combination of slow charging speeds, rising electricity rates, and lack of consumer education on charging programs\r\nSatisfaction is measured across eight factors: fairness of retail price; cord length; size of charger; ease of winding/storing cable; cost of charging; charging speed; ease of use; and reliability.\r\nWhen factoring cost, the index dropped more than 30 points\r\nNew EV owners were one of the primary reasons of the drop in scores due to charging speed of installed level 2 chargers\r\nOnly 51% of those surveyed were aware of programs that helped with the cost of install and charging costs\r\nTesla owners and those who used charge scheduling features to avoid high cost peak charging times we\u2019re at the top of the satisfaction list\r\n\"Whether you're an automaker, dealer or utility company participating in the EV ecosystem, improving the EV owner experience with respect to home charging should be a common goal shared by all,\" Brent Gruber, executive director of the EV practice at J.D. Power, said in a statement.\r\n\r\n\r\nAfter weeks of teased photos, we finally got a first look at the first EV in the 3 row segment with the flagship Kia EV9 that features an aggressive design, three rows of seating plus cargo space, and yes, the middle row seats swivel\r\nBuilt on Hyundai Motor Group\u2019s 800V E-GMP platform, the release says the vehicle features \u201ctechnology for life\u201d design philosophy throughout that \u201cpromotes intuitive interactions between humans and machines.\u201d\r\nMore performance details will be released next month however the design is very close to the concept presented last year but many tech and convenience features like generous screens and charging points throughout will be standard\r\nHow about those 180 degree swivel seats in the center to bring us back to the 80s.\n\n#automotivepodcast #podcast #automotive"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zyveyQ7XI4lByu_rrpbIE9zvfp0",
+        "id": "OtNn-dUKeFI",
+        "snippet": {
+          "publishedAt": "2023-12-02T17:57:10Z",
+          "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
+          "title": "Pat McAfee called the Dawgs and then picked the Tide \ud83e\udd76\ud83e\udd23",
+          "description": "\u2714\ufe0f Subscribe to ESPN+ http://espnplus.com/youtube\n\u2714\ufe0f Get the ESPN App: http://www.espn.com/espn/apps/espn\n\u2714\ufe0f Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n\u2714\ufe0f Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n\u2714\ufe0f Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OtNn-dUKeFI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESPN",
+          "tags": [
+            "espn",
+            "sports",
+            "college football on espn",
+            "lee corso headgear picks",
+            "espn college football",
+            "college football",
+            "college gameday",
+            "college gameday espn",
+            "college gameday lee corso",
+            "college football espn",
+            "lee corso college gameday",
+            "espn college gameday",
+            "lee corso gameday",
+            "cfb",
+            "espn cfb",
+            "sec championship",
+            "2023 sec championship",
+            "georgia vs. alabama",
+            "alabama crimson tide",
+            "alabama vs georgia",
+            "alabama",
+            "georgia bulldogs",
+            "georgia",
+            "pat mcafee",
+            "pat mcafee espn",
+            "pat mcafee college gameday"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pat McAfee called the Dawgs and then picked the Tide \ud83e\udd76\ud83e\udd23",
+            "description": "\u2714\ufe0f Subscribe to ESPN+ http://espnplus.com/youtube\n\u2714\ufe0f Get the ESPN App: http://www.espn.com/espn/apps/espn\n\u2714\ufe0f Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n\u2714\ufe0f Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n\u2714\ufe0f Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1652989",
+          "likeCount": "23337",
+          "favoriteCount": "0",
+          "commentCount": "1007"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TxdSsONqeVYVrRV0XJV-U1KcVNo",
+        "id": "aYhYQoTftro",
+        "snippet": {
+          "publishedAt": "2023-06-28T18:23:01Z",
+          "channelId": "UC7-rtz96bYgd2m4AhKtZFQw",
+          "title": "Driving the Next Generation of Edge Computing",
+          "description": "In this session, Jim Anderson, President & Chief Executive Officer of Lattice Semiconductor, and Patrick Moorhead, Principal Analyst at Moor Insights & Strategy, will discuss the growing need for flexibility and power efficiency in Edge computing applications, and the silicon and software innovation enabling key industry trends around AI, security, automation, robotics, and more, in the Communications, Computing, Industrial, and Automotive markets.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aYhYQoTftro/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Six Five Media",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Driving the Next Generation of Edge Computing",
+            "description": "In this session, Jim Anderson, President & Chief Executive Officer of Lattice Semiconductor, and Patrick Moorhead, Principal Analyst at Moor Insights & Strategy, will discuss the growing need for flexibility and power efficiency in Edge computing applications, and the silicon and software innovation enabling key industry trends around AI, security, automation, robotics, and more, in the Communications, Computing, Industrial, and Automotive markets."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT23M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32545",
+          "likeCount": "814",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uYWgiaKga_7rN9auF17_JVe5QX4",
+        "id": "6DJ2TqW-mao",
+        "snippet": {
+          "publishedAt": "2023-04-16T23:02:35Z",
+          "channelId": "UCLttSYJ6kPtlcurY96kXkQw",
+          "title": "\"Vittoria meritata, siamo pronti per il Feyenoord\" | JOS\u00c9 MOURINHO AL TERMINE DI ROMA-UDINESE",
+          "description": "Iscriviti al canale ufficiale dell'#ASRoma su YouTube: http://bit.ly/ASRoma_\n\nIl canale ufficiale Youtube dell\u2019AS Roma \u00e8 il mondo dell\u2019intrattenimento e del lifestyle per i tifosi giallorossi di tutto il mondo.\n\nSeguici sui social media\nFacebook: https://www.facebook.com/officialasroma\nInstagram: https://instagram.com/officialasroma/\nTwitter: https://twitter.com/OfficialASRoma",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6DJ2TqW-mao/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AS Roma",
+          "tags": [
+            "as roma",
+            "serie a",
+            "roma",
+            "giallorossi",
+            "mou",
+            "mourinho",
+            "jm",
+            "jos\u00e9",
+            "udinese"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "\"Vittoria meritata, siamo pronti per il Feyenoord\" | JOS\u00c9 MOURINHO AL TERMINE DI ROMA-UDINESE",
+            "description": "Iscriviti al canale ufficiale dell'#ASRoma su YouTube: http://bit.ly/ASRoma_\n\nIl canale ufficiale Youtube dell\u2019AS Roma \u00e8 il mondo dell\u2019intrattenimento e del lifestyle per i tifosi giallorossi di tutto il mondo.\n\nSeguici sui social media\nFacebook: https://www.facebook.com/officialasroma\nInstagram: https://instagram.com/officialasroma/\nTwitter: https://twitter.com/OfficialASRoma"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "31596",
+          "likeCount": "1255",
+          "favoriteCount": "0",
+          "commentCount": "81"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sV64PDbaM9aeEkHGqHGDFGx92dI",
+        "id": "PvhiK-XGkzs",
+        "snippet": {
+          "publishedAt": "2023-03-29T01:24:42Z",
+          "channelId": "UCsjNMoNNeXTycXHB16KiwxA",
+          "title": "What do NFL QB Matt Ryan and Boise State QB Taylen Green have in common?",
+          "description": "Boise State Coach Bush Hamdan talks to the media during Boise State spring football practice about similarities he saw coaching QB Matt Ryan and Taylen Green.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PvhiK-XGkzs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Boise State sports coverage by Bronco Nation News",
+          "tags": [
+            "NFL",
+            "Matt Ryan",
+            "Taylen green",
+            "Boise state",
+            "Football"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What do NFL QB Matt Ryan and Boise State QB Taylen Green have in common?",
+            "description": "Boise State Coach Bush Hamdan talks to the media during Boise State spring football practice about similarities he saw coaching QB Matt Ryan and Taylen Green."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1017",
+          "likeCount": "33",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Vn7E3DCouQQarRNVc7LxhyGSQ04",
+        "id": "dYrHsrpV5L0",
+        "snippet": {
+          "publishedAt": "2023-08-30T13:49:47Z",
+          "channelId": "UCDSw7lZnz61n97fgJRfeAug",
+          "title": "Ferry: The Series (2023) Moora Vander Veken, Max Croes, Frank Lammers Trailer Vertrailer #shorts",
+          "description": "Support us: \nhttps://sunnysiders.org/supportus.html\n\n#Ferry #FerryTheSeries #Ferry2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dYrHsrpV5L0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vertrailers",
+          "tags": [
+            "Ferry: The Series"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ferry: The Series (2023) Moora Vander Veken, Max Croes, Frank Lammers Trailer Vertrailer #shorts",
+            "description": "Support us: \nhttps://sunnysiders.org/supportus.html\n\n#Ferry #FerryTheSeries #Ferry2023"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1136",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "a4VUNaaRHLF2TNoNMYqOzUjB4lU",
+        "id": "9TdyIFldLwc",
+        "snippet": {
+          "publishedAt": "2023-03-03T13:00:07Z",
+          "channelId": "UCWALr0VavEm8SgPXGafhFDQ",
+          "title": "Paul van Meenen (D66): 'CDA deed jaren aan pappen en nathouden van boeren' | Big Five",
+          "description": "Dit is een fragment BNR's Big Five met presentator Diana Matroos. Te gast is Paul van Meenen, D66-lijsttrekker voor de Eerste Kamerverkiezingen. Hij spreekt over de stikstofproblematiek en het debat daarover in de politiek en de gesprekken die worden gevoerd met boeren.\n\nThumbnail: ANP\n\nHeb je meer BNR in je leven nodig? Check dan ook onze podcasts en artikelen: https://www.bnr.nl/ \n\nVolg ons ook op andere social media:\nInstagram: https://www.instagram.com/bnrnieuwsradio/\nTikTok: https://vm.tiktok.com/ZML5nvq2A/\nTwitter: https://twitter.com/BNR\nFacebook: https://www.facebook.com/bnr.nieuwsradio\nLinkedIn: https://www.linkedin.com/company/bnr-nieuwsradio\n\nDownload de BNR-app: https://www.bnr.nl/app",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9TdyIFldLwc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BNR",
+          "tags": [
+            "BNR",
+            "Nieuwsradio",
+            "nieuws"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "Paul van Meenen (D66): 'CDA deed jaren aan pappen en nathouden van boeren' | Big Five",
+            "description": "Dit is een fragment BNR's Big Five met presentator Diana Matroos. Te gast is Paul van Meenen, D66-lijsttrekker voor de Eerste Kamerverkiezingen. Hij spreekt over de stikstofproblematiek en het debat daarover in de politiek en de gesprekken die worden gevoerd met boeren.\n\nThumbnail: ANP\n\nHeb je meer BNR in je leven nodig? Check dan ook onze podcasts en artikelen: https://www.bnr.nl/ \n\nVolg ons ook op andere social media:\nInstagram: https://www.instagram.com/bnrnieuwsradio/\nTikTok: https://vm.tiktok.com/ZML5nvq2A/\nTwitter: https://twitter.com/BNR\nFacebook: https://www.facebook.com/bnr.nieuwsradio\nLinkedIn: https://www.linkedin.com/company/bnr-nieuwsradio\n\nDownload de BNR-app: https://www.bnr.nl/app"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5318",
+          "likeCount": "42",
+          "favoriteCount": "0",
+          "commentCount": "139"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CRJxvFdaix6KkX5DqAGYgNy_Tdo",
+        "id": "6G5q_eGvWGw",
+        "snippet": {
+          "publishedAt": "2023-03-20T13:27:15Z",
+          "channelId": "UCxAB4YSe97k8faRgUgNng9w",
+          "title": "Vallen kindfluencers en familievloggers onder kinderarbeid? | HLF8",
+          "description": "Experts hebben namelijk kritiek geuit op ouders die hun kinderen op social media plaatsen. Vallen kindfluencers en familievloggers onder kinderarbeid? Jan Vlug vertelt dat het niet strafbaar is. \n\nWord jij onze nieuwste Abonnee? https://www.youtube.com/c/HLF8-1?sub_confirmation=1\n_________________________________________________________________________________\n\nHet offici\u00eble YouTube-kanaal van de dagelijkse talkshow HLF8 op SBS6. Maandag t/m vrijdag geniet jij van de leukste fragmenten uit de uitzending! Ben jij al geabonneerd? \n\nWil je de hele aflevering zien? Dat kan hier: https://bit.ly/HLF8-YT\n\nMeer zien? Bekijk meer clips van HLF8: https://bit.ly/3Sb0xgz\n\nLuister nu ook in de auto of onderweg naar HLF8 via JUKE: https://bit.ly/3MD2aTg\n\n_________________________________________________________________________________\n\nMeer HLF8?\nTwitter: https://twitter.com/Hlf8Live\nInstagram: https://www.instagram.com/hlf8live/\nFacebook: https://www.facebook.com/HLF8Live\nSnapchat: https://www.snapchat.com/discover/HLF8/4971479794\n\n#HLF8 #SBS6",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6G5q_eGvWGw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HLF8",
+          "tags": [
+            "HLF8",
+            "hlf8",
+            "talkshow",
+            "johnny de mol",
+            "johnny de mol hlf8",
+            "half 8",
+            "hlf 8 sbs6",
+            "johnny de mol talkshow",
+            "SBS6",
+            "hlf8 talkshow",
+            "sbs6 talkshow",
+            "johnny de mol sbs6",
+            "Johnny de Mol",
+            "Half 8",
+            "half8",
+            "half8 sbs6",
+            "half8 johnny de mol",
+            "talkshow johnny de mol",
+            "Helene hendriks",
+            "Talkshows",
+            "SBS",
+            "TV"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "Vallen kindfluencers en familievloggers onder kinderarbeid? | HLF8",
+            "description": "Experts hebben namelijk kritiek geuit op ouders die hun kinderen op social media plaatsen. Vallen kindfluencers en familievloggers onder kinderarbeid? Jan Vlug vertelt dat het niet strafbaar is. \n\nWord jij onze nieuwste Abonnee? https://www.youtube.com/c/HLF8-1?sub_confirmation=1\n_________________________________________________________________________________\n\nHet offici\u00eble YouTube-kanaal van de dagelijkse talkshow HLF8 op SBS6. Maandag t/m vrijdag geniet jij van de leukste fragmenten uit de uitzending! Ben jij al geabonneerd? \n\nWil je de hele aflevering zien? Dat kan hier: https://bit.ly/HLF8-YT\n\nMeer zien? Bekijk meer clips van HLF8: https://bit.ly/3Sb0xgz\n\nLuister nu ook in de auto of onderweg naar HLF8 via JUKE: https://bit.ly/3MD2aTg\n\n_________________________________________________________________________________\n\nMeer HLF8?\nTwitter: https://twitter.com/Hlf8Live\nInstagram: https://www.instagram.com/hlf8live/\nFacebook: https://www.facebook.com/HLF8Live\nSnapchat: https://www.snapchat.com/discover/HLF8/4971479794\n\n#HLF8 #SBS6"
+          },
+          "defaultAudioLanguage": "nl"
+        },
+        "contentDetails": {
+          "duration": "PT4M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4859",
+          "likeCount": "33",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5vasSZa9IvzmWS-0Gl4Rdro9F8M",
+        "id": "UPYorMVnQsQ",
+        "snippet": {
+          "publishedAt": "2023-11-01T15:00:22Z",
+          "channelId": "UCz-CVVvAimmDIzmmiSoJnOw",
+          "title": "Shelf Lives | 3LAB Afstudeerfilm",
+          "description": "De tijd begint te dringen voor de 29 jarige Mila die in het dystopische Mathel leeft. Vrouwen worden hier namelijk gedwongen om voor hun 30e kinderen te baren. Dit doen zij door middel van een Levensloop Contract. Als vrouwen een baan willen moeten zij dit ondertekenen en daarmee akkoord gaan met het baren van minimaal 1 kind. Wanneer ze niet voor hun 30e baren, heeft Mathel het recht om hun in de Baarmoeder Boetiek te plaatsen. Dit is een winkel waarin vrouwen goed gehouden worden tot een man ze uitkiest om toch nog de beloofde kinderen mee te verwekken.\nIn de hoop piloot te worden heeft ook Mila een contract ondertekend, terwijl zij eigenlijk geen moeder wilt worden. Nu dat haar 30e verjaardag rap nadert staat Mila op een drie-splitsing: bezwijken onder de druk van de maatschappij en toch een kind nemen, de illegale sterilisatie pil nemen die niet alleen gevaarlijk is maar ook al haar kansen om piloot te worden weg neemt, of zich aansluiten bij de antibeweging en haar familie voor goed verlaten.\n\n\u2500\u2500\u2500\u2500\u200b\n\n3LAB is het talent en ontwikkeltraject van NPO 3. Hier krijgen beginnende makers de kans om hun plan te realiseren en door te groeien binnen de publieke omroep. \n\n\u2b50 Abonneer op dit kanaal: https://npo3.nl/abonneer-3lab\u200b\n\u2b50 Meer 3LAB kijk je hier: https://npo3.nl/3lab\n\n\u2500\u2500\u2500\u2500\u200b\n\nMeer NPO 3? \n\u2b50 Abonneer op het NPO 3 kanaal: https://www.npo3.nl/abonneer\u200b \n\u2b50 Abonneer op het NPO 3 Extra kanaal: https://www.npo3.nl/abonneer-npo3-extra\u200b \n\n\u2500\u2500\u2500\u2500\nCAST\n\nMila: Shelley Bos\nLotte: Sanguita Akkrum\nAnnabeth: Alwien Tulner\nLaila: Nola Elvis Kemper\nRobert: Karel Konings\nLiesbeth: Sharifa Smith\nIsabella: Navi Lagarde\nMedewerker boetiek: No\u00ebl van Kleef\nZwangere vrouw: Judith Boesen\nVader winkel: Wouter Blom\nKind op straat: Lucia van den Berg\nJoost: Severin Broekman\nThomas: Lammert de Boer\nBroertje 1: Flynn de Vries\nBroertje 2: Qezar Lagarde\nZusje: Mirthe Timmermans\nPolitieagent 1: Anita Frijn\nPolitieagent 2: Karin Bayley\nFotograaf: Jasminka Hidanovi\u0107\nVrouw feest 1: Alice Eefting\nVrouw feest 2: Joni van de Stolpe\nVrouw feest 3: Irene van der Avoort\nMan feest 1: Sebastiaan Kieft\nMan feest 2: David Kruijt\nMan feest 3: Nicolaas Petit dit de la Roche\nVrouw etalage 1: Mila Josselet\nVrouw etalage 2: Loes Villerius\nVrouw winkel 1: Didi Krahmer\nVrouw winkel 2: Laura Laman\nVrouw winkel 3: Lara Kleber\nMoeder winkel: Nathalie Schriel\nZoon winkel: Rik Zaal\nDochter winkel: Anna de Groot\nHuilende moeder: Sanne Stikkel\nVoorbijganger 1: Megan van Engelen\nVoorbijganger 2: Joyce den Ouden\nJonge vrouw reclame: Anna Ridwan\nGetrouwde vrouw reclame: Merel Smeets\nGetrouwde man reclame: Roel Teeuwen\nOverheidsstem: Mickey Minnaar\n\nScenario: Dana Alink\nDramaturg: Ellen Dorrestein & Vladimira Meduzova\nRegie: Merel Boegborn\nCreatief producent: Merel Smeets\nProducent: Daantje Boom\nCinematografie: Gijs ten Den\nGaffer: Abel Andel, Stein Boon, David van der Drift\nProduction design: India Mandolfi\nKostuumontwerp: Megan van Engelen\nStylist: Joyce den Ouden\nMontage: Paul Jonker\nVFX supervisie: Ties Flippo\nVFX ondersteuning: Luca Vaillant\nGeluidsontwerp: Roy Griekspoor\nGeluidsopname: David Warringa, Armani van Engelen\nComponist: Daan Vollinga, Rinus Van De Weerd\nPost productie co\u00f6rdinator: Daantje Boom, Merel Smeets\nRegie-assistent & scriptcontinuiteit: Mickey Minnaar\nOpnameleider: Bastiaan Beijderwellen\nProductie-assistent: Bart Costeris, Roel Teeuwen\nRunner: Hannah Lambooij\nKinderbegeleider: Loes Villerius, Xavian Daflaar, Rico Noot\nFocus puller: Floris Bronkhorst, Aukje Bink, Sebastiaan Ham\nTweede camera-assistent: Augustin Weski, Jochem Effing, Derin Senler\nSteadycam: Maric Dam, Chris Snijders\nBest boy: Stein Boon\nBelichter: Jimmie van Bussel, Shahab Albonaser\nAssistent production design: Lara Kleber, Vivian van Enkhuizen\nTaart ontwerp: Shanna Lunenborg\nAssistent kleding: Lexi Snel, Sterre Berben, Stefania Arghir\nVisagie ontwerp: Jo\u00eblle Verouden\nVisagie: Day Bruin, Amber Verstappen, Roos Jeltes, Dani\u00ebla de Boer\nTitelvormgeving & poster ontwerp: Afke Mudde\nKleurcorrectie: Bart Voorsluis \nCasting: Post Casteleijn, Jut & Jul Casting, Sven van den Berg,Madelief Blanken, Fay Muller \nCatering: Gerrie Schoone, Jan Boegborn, Andr\u00e9 Schoone, Daan Schoone, Liesbeth van der Schaar, Sarah Polak, Maria Reina Westra, Iris de Smit, Abdou Tlili\nStillfotograaf: Ellard Vasen, Manon Beerink\nMaking-of: Jan Boegborn, Merel Smeets\n\nDeze productie is mede mogelijk gemaakt door steun van:\nAaron Rookus\nAVROTROS\nJan Boegborn\nHarro Presser\n \nMet dank aan\nNDSM-werf\nBeatzone\nGemeente Rotterdam\nGemeente Amsterdam\nPre-reserved\nLocatiewerk\nLight Unit\ncamerarentals\nVoordekunst\nDirk van den Broek Middellandstraat 115\nTungsten Studio\nCRW\nDe Levenskeuze Club\nRicardo Is Hard\nDayl\u00e8ne Kroon\nPatrick Kooiman\nColette Grootenboer\nBas Kosters\nElvira Elkerbout\nMarco Nijmijer\nMaura Nijmijer\n \nCrowdfunding donateurs\nShervin Fekri\nStefania Arghir\nAnkush Saxena\nGerrie Schoone\nStichting de Hoorn\nPrins Bernhard Cultuurfonds Utrecht\nLeve het Geven\nen nog vele meer",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UPYorMVnQsQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NPO 3LAB",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "Shelf Lives | 3LAB Afstudeerfilm",
+            "description": "De tijd begint te dringen voor de 29 jarige Mila die in het dystopische Mathel leeft. Vrouwen worden hier namelijk gedwongen om voor hun 30e kinderen te baren. Dit doen zij door middel van een Levensloop Contract. Als vrouwen een baan willen moeten zij dit ondertekenen en daarmee akkoord gaan met het baren van minimaal 1 kind. Wanneer ze niet voor hun 30e baren, heeft Mathel het recht om hun in de Baarmoeder Boetiek te plaatsen. Dit is een winkel waarin vrouwen goed gehouden worden tot een man ze uitkiest om toch nog de beloofde kinderen mee te verwekken.\nIn de hoop piloot te worden heeft ook Mila een contract ondertekend, terwijl zij eigenlijk geen moeder wilt worden. Nu dat haar 30e verjaardag rap nadert staat Mila op een drie-splitsing: bezwijken onder de druk van de maatschappij en toch een kind nemen, de illegale sterilisatie pil nemen die niet alleen gevaarlijk is maar ook al haar kansen om piloot te worden weg neemt, of zich aansluiten bij de antibeweging en haar familie voor goed verlaten.\n\n\u2500\u2500\u2500\u2500\u200b\n\n3LAB is het talent en ontwikkeltraject van NPO 3. Hier krijgen beginnende makers de kans om hun plan te realiseren en door te groeien binnen de publieke omroep. \n\n\u2b50 Abonneer op dit kanaal: https://npo3.nl/abonneer-3lab\u200b\n\u2b50 Meer 3LAB kijk je hier: https://npo3.nl/3lab\n\n\u2500\u2500\u2500\u2500\u200b\n\nMeer NPO 3? \n\u2b50 Abonneer op het NPO 3 kanaal: https://www.npo3.nl/abonneer\u200b \n\u2b50 Abonneer op het NPO 3 Extra kanaal: https://www.npo3.nl/abonneer-npo3-extra\u200b \n\n\u2500\u2500\u2500\u2500\nCAST\n\nMila: Shelley Bos\nLotte: Sanguita Akkrum\nAnnabeth: Alwien Tulner\nLaila: Nola Elvis Kemper\nRobert: Karel Konings\nLiesbeth: Sharifa Smith\nIsabella: Navi Lagarde\nMedewerker boetiek: No\u00ebl van Kleef\nZwangere vrouw: Judith Boesen\nVader winkel: Wouter Blom\nKind op straat: Lucia van den Berg\nJoost: Severin Broekman\nThomas: Lammert de Boer\nBroertje 1: Flynn de Vries\nBroertje 2: Qezar Lagarde\nZusje: Mirthe Timmermans\nPolitieagent 1: Anita Frijn\nPolitieagent 2: Karin Bayley\nFotograaf: Jasminka Hidanovi\u0107\nVrouw feest 1: Alice Eefting\nVrouw feest 2: Joni van de Stolpe\nVrouw feest 3: Irene van der Avoort\nMan feest 1: Sebastiaan Kieft\nMan feest 2: David Kruijt\nMan feest 3: Nicolaas Petit dit de la Roche\nVrouw etalage 1: Mila Josselet\nVrouw etalage 2: Loes Villerius\nVrouw winkel 1: Didi Krahmer\nVrouw winkel 2: Laura Laman\nVrouw winkel 3: Lara Kleber\nMoeder winkel: Nathalie Schriel\nZoon winkel: Rik Zaal\nDochter winkel: Anna de Groot\nHuilende moeder: Sanne Stikkel\nVoorbijganger 1: Megan van Engelen\nVoorbijganger 2: Joyce den Ouden\nJonge vrouw reclame: Anna Ridwan\nGetrouwde vrouw reclame: Merel Smeets\nGetrouwde man reclame: Roel Teeuwen\nOverheidsstem: Mickey Minnaar\n\nScenario: Dana Alink\nDramaturg: Ellen Dorrestein & Vladimira Meduzova\nRegie: Merel Boegborn\nCreatief producent: Merel Smeets\nProducent: Daantje Boom\nCinematografie: Gijs ten Den\nGaffer: Abel Andel, Stein Boon, David van der Drift\nProduction design: India Mandolfi\nKostuumontwerp: Megan van Engelen\nStylist: Joyce den Ouden\nMontage: Paul Jonker\nVFX supervisie: Ties Flippo\nVFX ondersteuning: Luca Vaillant\nGeluidsontwerp: Roy Griekspoor\nGeluidsopname: David Warringa, Armani van Engelen\nComponist: Daan Vollinga, Rinus Van De Weerd\nPost productie co\u00f6rdinator: Daantje Boom, Merel Smeets\nRegie-assistent & scriptcontinuiteit: Mickey Minnaar\nOpnameleider: Bastiaan Beijderwellen\nProductie-assistent: Bart Costeris, Roel Teeuwen\nRunner: Hannah Lambooij\nKinderbegeleider: Loes Villerius, Xavian Daflaar, Rico Noot\nFocus puller: Floris Bronkhorst, Aukje Bink, Sebastiaan Ham\nTweede camera-assistent: Augustin Weski, Jochem Effing, Derin Senler\nSteadycam: Maric Dam, Chris Snijders\nBest boy: Stein Boon\nBelichter: Jimmie van Bussel, Shahab Albonaser\nAssistent production design: Lara Kleber, Vivian van Enkhuizen\nTaart ontwerp: Shanna Lunenborg\nAssistent kleding: Lexi Snel, Sterre Berben, Stefania Arghir\nVisagie ontwerp: Jo\u00eblle Verouden\nVisagie: Day Bruin, Amber Verstappen, Roos Jeltes, Dani\u00ebla de Boer\nTitelvormgeving & poster ontwerp: Afke Mudde\nKleurcorrectie: Bart Voorsluis \nCasting: Post Casteleijn, Jut & Jul Casting, Sven van den Berg,Madelief Blanken, Fay Muller \nCatering: Gerrie Schoone, Jan Boegborn, Andr\u00e9 Schoone, Daan Schoone, Liesbeth van der Schaar, Sarah Polak, Maria Reina Westra, Iris de Smit, Abdou Tlili\nStillfotograaf: Ellard Vasen, Manon Beerink\nMaking-of: Jan Boegborn, Merel Smeets\n\nDeze productie is mede mogelijk gemaakt door steun van:\nAaron Rookus\nAVROTROS\nJan Boegborn\nHarro Presser\n \nMet dank aan\nNDSM-werf\nBeatzone\nGemeente Rotterdam\nGemeente Amsterdam\nPre-reserved\nLocatiewerk\nLight Unit\ncamerarentals\nVoordekunst\nDirk van den Broek Middellandstraat 115\nTungsten Studio\nCRW\nDe Levenskeuze Club\nRicardo Is Hard\nDayl\u00e8ne Kroon\nPatrick Kooiman\nColette Grootenboer\nBas Kosters\nElvira Elkerbout\nMarco Nijmijer\nMaura Nijmijer\n \nCrowdfunding donateurs\nShervin Fekri\nStefania Arghir\nAnkush Saxena\nGerrie Schoone\nStichting de Hoorn\nPrins Bernhard Cultuurfonds Utrecht\nLeve het Geven\nen nog vele meer"
+          },
+          "defaultAudioLanguage": "nl"
+        },
+        "contentDetails": {
+          "duration": "PT16M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4640",
+          "likeCount": "31",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8r4hNkatjHs27DclFShr8HrhHcA",
+        "id": "c6Ufin6qtGs",
+        "snippet": {
+          "publishedAt": "2023-07-13T09:00:20Z",
+          "channelId": "UCbX5WqbuIDE7_-_G6rcboEg",
+          "title": "Richard Hanania & Rob Henderson: The Rise of Wokeness and the Influence of Civil Rights Law \u2014 #39",
+          "description": "Steve Hsu, Richard Hanania, and Rob Henderson were scheduled for a June 2023 panel as part of the University of Austin (UATX) Forbidden Courses series. Steve missed the panel due to travel issues, but the three have gathered on this podcast to recreate the fun!\n\n\nThey discuss: \n\n0:00 Introduction\n1:20 The University of Austin and forbidden courses\n17:37 Will woke campus culture change anytime soon?\n29:57 Common people vs elites on affirmative action\n35:42 Why it\u2019s uncomfortable to disagree about affirmative action\n41:22 Fraud and misrepresentation in higher ed\n44:20 The adversity carveout in the Supreme Court affirmative action ruling\n50:10 Standardized testing and elite university admissions\n1:06:18 Divergent views among racial and ethnic groups on affirmative action; radicalized Asian American males\n1:10:00 Differences between East and South Asians in the West  \n1:23:03 Class-based preferences and standardized tests\n1:31:57 Rob Henderson\u2019s next move \n\n\n\nLINKS\n\nRichard Hanania\u2019s new book: The Origins of Woke: Civil Rights Law, Corporate America, and the Triumph of Identity Politics: https://www.harpercollins.com/products/the-origins-of-woke-richard-hanania?variant=41004650528802\n\nRichard Hanania\u2019s newsletter: https://www.richardhanania.com/\n\nThe Center for the Study of Partisanship and Ideology: https://www.cspicenter.com/\n\nRob Henderson\u2019s newsletter: https://www.robkhenderson.com/\n\nRob Henderson\u2019s new book: Troubled: A Memoir of Foster Care, Family, and Social Class: https://www.simonandschuster.com/books/Troubled/Rob-Henderson/9781982168537\n\nUATX: https://www.uaustin.org/forbidden-courses\n\n\nMusic used with permission from Blade Runner Blues Livestream improvisation by State Azure.\n\n--\n\nSteve Hsu is Professor of Theoretical Physics and of Computational Mathematics, Science, and Engineering at Michigan State University. Previously, he was Senior Vice President for Research and Innovation at MSU and Director of the Institute of Theoretical Science at the University of Oregon. Hsu is a startup founder (SafeWeb, Genomic Prediction) and advisor to venture capital and other investment firms. He was educated at Caltech and Berkeley, was a Harvard Junior Fellow, and has held faculty positions at Yale, the University of Oregon, and MSU.\n\nPlease send any questions or suggestions to manifold1podcast@gmail.com or Steve on Twitter @hsu_steve.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c6Ufin6qtGs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Manifold",
+          "tags": [
+            "Steve Hsu",
+            "Manifold",
+            "ManifoldOne",
+            "podcast",
+            "Richard Hanania",
+            "Rob Henderson",
+            "woke culture",
+            "The Center for the Study of Partisanship and Ideology"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Richard Hanania & Rob Henderson: The Rise of Wokeness and the Influence of Civil Rights Law \u2014 #39",
+            "description": "Steve Hsu, Richard Hanania, and Rob Henderson were scheduled for a June 2023 panel as part of the University of Austin (UATX) Forbidden Courses series. Steve missed the panel due to travel issues, but the three have gathered on this podcast to recreate the fun!\n\n\nThey discuss: \n\n0:00 Introduction\n1:20 The University of Austin and forbidden courses\n17:37 Will woke campus culture change anytime soon?\n29:57 Common people vs elites on affirmative action\n35:42 Why it\u2019s uncomfortable to disagree about affirmative action\n41:22 Fraud and misrepresentation in higher ed\n44:20 The adversity carveout in the Supreme Court affirmative action ruling\n50:10 Standardized testing and elite university admissions\n1:06:18 Divergent views among racial and ethnic groups on affirmative action; radicalized Asian American males\n1:10:00 Differences between East and South Asians in the West  \n1:23:03 Class-based preferences and standardized tests\n1:31:57 Rob Henderson\u2019s next move \n\n\n\nLINKS\n\nRichard Hanania\u2019s new book: The Origins of Woke: Civil Rights Law, Corporate America, and the Triumph of Identity Politics: https://www.harpercollins.com/products/the-origins-of-woke-richard-hanania?variant=41004650528802\n\nRichard Hanania\u2019s newsletter: https://www.richardhanania.com/\n\nThe Center for the Study of Partisanship and Ideology: https://www.cspicenter.com/\n\nRob Henderson\u2019s newsletter: https://www.robkhenderson.com/\n\nRob Henderson\u2019s new book: Troubled: A Memoir of Foster Care, Family, and Social Class: https://www.simonandschuster.com/books/Troubled/Rob-Henderson/9781982168537\n\nUATX: https://www.uaustin.org/forbidden-courses\n\n\nMusic used with permission from Blade Runner Blues Livestream improvisation by State Azure.\n\n--\n\nSteve Hsu is Professor of Theoretical Physics and of Computational Mathematics, Science, and Engineering at Michigan State University. Previously, he was Senior Vice President for Research and Innovation at MSU and Director of the Institute of Theoretical Science at the University of Oregon. Hsu is a startup founder (SafeWeb, Genomic Prediction) and advisor to venture capital and other investment firms. He was educated at Caltech and Berkeley, was a Harvard Junior Fellow, and has held faculty positions at Yale, the University of Oregon, and MSU.\n\nPlease send any questions or suggestions to manifold1podcast@gmail.com or Steve on Twitter @hsu_steve."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H34M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3378",
+          "likeCount": "55",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

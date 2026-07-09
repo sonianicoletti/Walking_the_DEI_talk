@@ -1,0 +1,1911 @@
+{
+  "ceo": "James P. Gorman",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WqG2YmkWvUrFwDzxXOL01Gw6gxQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3370,
+      "resultsPerPage": 18
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m3fS-h46eXOmAzIxPIdXJy7njcc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VsA54Mv2Ru0"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-18T18:38:02Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley CEO James Gorman on his Resignation, Recession, Regulation Outlook",
+          "description": "Morgan Stanley CEO James Gorman discusses the firm's plans to replace him when he steps down, second-quarter results, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VsA54Mv2Ru0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VsA54Mv2Ru0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VsA54Mv2Ru0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-18T18:38:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hgfHjlcjUO10b-JFRetxIa-mwDc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fQXm2JMSHbU"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-26T15:53:22Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley\u2019s James Gorman, Ted Pick on CEO Transition",
+          "description": "Morgan Stanley CEO James Gorman and incoming CEO Ted Pick discuss the succession process at the bank and the state of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-26T15:53:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fUKb7j79135CcuvFQBTC_-xDQeQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "h17sk1vCzYg"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-21T16:33:01Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "James Gorman to retire as Morgan Stanley CEO",
+          "description": "James Gorman, Morgan Stanley chairman and outgoing CEO, joins 'Squawk on the Street' to discuss what Gorman thinks of his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-21T16:33:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Tsu0fjjk8WJBFGdnBhoTwD2fu1w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vhzU0oXhqxw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-10T12:26:34Z",
+          "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+          "title": "The Man Who Rebuilt Morgan Stanley",
+          "description": "James Gorman was the right leader at the right time when Morgan Stanley named him CEO in 2010. With the bank now preparing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Originals",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-10T12:26:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Nkeu59mSMRrZLQ3y9YEg4ftsR3U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W8S5Scti84g"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-18T15:20:29Z",
+          "channelId": "UCUyazuclHtd7SB20MtUaxOg",
+          "title": "Morgan Stanley CEO James Gorman interview with Leslie Picker (July 18,2023)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "R.A.M.S. O.T.C\ud83c\udfc1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-18T15:20:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tHSqaMwSfGH-yhC5DOMddgPlxV4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4N6XMkDyS4I"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-19T15:30:56Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Gorman Says Three Potential Successors at Morgan Stanley in Place",
+          "description": "Morgan Stanley CEO James Gorman says he knows the three finalists who are likely to replace him when he eventually steps ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-19T15:30:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vGLyLCIhT0Q3JYmHKxmHCEUd3_c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ykVjwWtLd6Y"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-19T16:10:54Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Gorman on Succession Plan, Debt Ceiling",
+          "description": "Morgan Stanley CEO James Gorman says he knows the three finalists who are competing to replace him. Gorman also said he ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ykVjwWtLd6Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ykVjwWtLd6Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ykVjwWtLd6Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-19T16:10:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fIJANUWl-3LMyxjFupwO7H5NMd8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DSh7CLpK-JM"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-19T14:53:38Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Morgan Stanley CEO James Gorman to step down in the next year",
+          "description": "MorganStanley #youtube #stockmarket Yahoo Finance Live breaks down the news of Morgan Stanley CEO James Gorman's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-19T14:53:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sw3HGOcJQTvpif58VzpIIS0EYTM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MSr8qCKBoLE"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-20T17:41:24Z",
+          "channelId": "UCKtW4czIzn-LW9IzG1h5kwA",
+          "title": "Who is James Gorman, the new board member of Disney and CEO of Morgan Stanley?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "@ballplayers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-20T17:41:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "do2UISbmPM_X1xFzvN3sx-UJK8k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7ZtqhGtLtVs"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-18T16:07:03Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Morgan Stanley CEO: Q2 earnings were very strong",
+          "description": "Morgan Stanley CEO James Gorman joins 'Squawk on the Street' to discuss why Gorman's decided to step down as CEO of the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-18T16:07:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qAYd7epvujXj5nCgdolCxCHhe8M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HbXhmtXxiXs"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-26T17:05:16Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Morgan Stanley\u2019s Ted Pick and James Gorman Talk Succession | Bloomberg Talks",
+          "description": "Morgan Stanley Incoming CEO Ted Pick & Standing CEO James Gorman discuss the succession process at the bank and their ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-26T17:05:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nGNOJH-7L4Vxk810zTCWb-nGqZs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yZ1Oscjf34k"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-18T20:09:20Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley&#39;s Gorman: Investment Banking Has Bottomed",
+          "description": "Morgan Stanley Chair and CEO James Gorman comments on the current investment banking environment and says deals will ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-18T20:09:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K9wLvZR5MaDrY_WxqG9U06hXKVk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M3f925pXJBs"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-19T14:39:21Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley Won&#39;t Wind Up Owning Twitter, Gorman Says",
+          "description": "Morgan Stanley CEO James Gorman says the loans that the bank made to Twitter Inc. as part of Elon Musk's acquisition won't ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M3f925pXJBs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M3f925pXJBs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M3f925pXJBs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-19T14:39:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PrAca2g_ymaoqUyCAyCGFd6z74Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4u2otFGobIk"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-19T13:31:13Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "James Gorman to step down as Morgan Stanley CEO",
+          "description": "Morgan Stanley's James Gorman plans to step down as CEO in the next 12 months and assume the role of executive chairman.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-19T13:31:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RydKwEUXPa-FnLaPxPG32n85RvI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DJd8tJPc7RM"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T13:17:33Z",
+          "channelId": "UC7hQS4Zc4geQNlGVCwPNd_w",
+          "title": "Morgan Stanley CEO says his firm is ready for &#39;Basel III endgame&#39; - the",
+          "description": "SINGAPORE \u2014 Morgan Stanley Chairman and CEO James Gorman said his firm will be able to cope with \"any form\" that new ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SAD CAT SAD STORIES",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T13:17:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CPptelmum3NaAd4Fc8IS1G3vPns",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tm9M0ZxFeMk"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-17T01:00:59Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Morgan Stanley CEO says there&#39;s &#39;real progress&#39; in the fight against inflation",
+          "description": "James Gorman of the financial services firm says despite the U.S. and U.K. central banks being late in raising interest rates, \"when ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-17T01:00:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xFkKRZtxstJWwkz2RNDWegeMD0Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RRqMBSnnUeM"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-05T22:55:45Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Dimon and Other Bank CEOs to Testify on Regulations",
+          "description": "The heads of the biggest US banks, including Jamie Dimon of JPMorgan and James Gorman and Morgan Stanley, will testify in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-05T22:55:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9joNr-eK7LHBZPxFXoWabK24SwI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vpjvt95uNA8"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-31T16:09:05Z",
+          "channelId": "UClnJgIybt1mX5jxd-ByAHlw",
+          "title": "Shia LaBeouf about Tom Hardy being a GORILLA!",
+          "description": "When it's hardy's set, you are on his church! TomHardy, Actor, Hollywood, Film, Movies, TomHardyMovies, TomHardyInterview, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BUAZ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-31T16:09:05Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "96hOel-E108E7mGiOvPi3J5cebI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "lmnkp2gS3RQDp5tqhm76BPSsIME",
+        "id": "VsA54Mv2Ru0",
+        "snippet": {
+          "publishedAt": "2023-07-18T18:38:02Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley CEO James Gorman on his Resignation, Recession, Regulation Outlook",
+          "description": "Morgan Stanley\u00a0CEO James Gorman discusses the firm's plans to replace him when he steps down, second-quarter results, and staffing plans. Speaking with Bloomberg's Sonali Basak, Gorman also discusses the outlook for a US recession and global financial regulation on \"Bloomberg Markets.\"\n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VsA54Mv2Ru0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VsA54Mv2Ru0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VsA54Mv2Ru0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Basel 4",
+            "Big Banks",
+            "Investment Banking",
+            "James Gorman",
+            "Morgan Stanley",
+            "Second quarter",
+            "Sonali Basak",
+            "bank earnings",
+            "earnings",
+            "financial regulation",
+            "hiring plans"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley CEO James Gorman on his Resignation, Recession, Regulation Outlook",
+            "description": "Morgan Stanley\u00a0CEO James Gorman discusses the firm's plans to replace him when he steps down, second-quarter results, and staffing plans. Speaking with Bloomberg's Sonali Basak, Gorman also discusses the outlook for a US recession and global financial regulation on \"Bloomberg Markets.\"\n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "36234",
+          "likeCount": "266",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9tq9WdjNEJ4FOCic2L435KFoaac",
+        "id": "fQXm2JMSHbU",
+        "snippet": {
+          "publishedAt": "2023-10-26T15:53:22Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley\u2019s James Gorman, Ted Pick on CEO Transition",
+          "description": "Morgan Stanley CEO James Gorman and incoming CEO Ted Pick discuss the succession process at the bank and the state of business as Gorman concludes a 14-year run leading the company. Pick calls the move \u201cthe thrill of a lifetime\u201d as he explains his vision for the future of Morgan Stanley. They speak with Sonali Basak on \"Bloomberg Markets.\"\n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fQXm2JMSHbU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "CEO",
+            "Financial Services",
+            "James Gorman",
+            "Markets",
+            "Morgan Stanley",
+            "Sonali Basak",
+            "Succession",
+            "Ted Pick",
+            "banks",
+            "transition"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley\u2019s James Gorman, Ted Pick on CEO Transition",
+            "description": "Morgan Stanley CEO James Gorman and incoming CEO Ted Pick discuss the succession process at the bank and the state of business as Gorman concludes a 14-year run leading the company. Pick calls the move \u201cthe thrill of a lifetime\u201d as he explains his vision for the future of Morgan Stanley. They speak with Sonali Basak on \"Bloomberg Markets.\"\n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "33824",
+          "likeCount": "286",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gvOYUZoSUOnnxc8DSskRIYU9Jus",
+        "id": "h17sk1vCzYg",
+        "snippet": {
+          "publishedAt": "2023-12-21T16:33:01Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "James Gorman to retire as Morgan Stanley CEO",
+          "description": "James Gorman, Morgan Stanley chairman and outgoing CEO, joins 'Squawk on the Street' to discuss what Gorman thinks of his time as leader of Morgan Stanley, what people will think about when they think of the Gorman era, and much more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h17sk1vCzYg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "James Gorman to retire as Morgan Stanley CEO",
+            "description": "James Gorman, Morgan Stanley chairman and outgoing CEO, joins 'Squawk on the Street' to discuss what Gorman thinks of his time as leader of Morgan Stanley, what people will think about when they think of the Gorman era, and much more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7609",
+          "likeCount": "53",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UGJpeSJCjPtclPQ9tdo6ksNGgVU",
+        "id": "vhzU0oXhqxw",
+        "snippet": {
+          "publishedAt": "2023-08-10T12:26:34Z",
+          "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+          "title": "The Man Who Rebuilt Morgan Stanley",
+          "description": "James Gorman was the right leader at the right time when Morgan Stanley named him CEO in 2010. With the bank now preparing for his departure, Scarlet Fu takes a look at Gorman\u2019s legacy and the road ahead for his successor.\n\n#JamesGorman #MorganStanley #Business\n--------\nLike this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1\nBecome a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join\n\nBloomberg Originals offers bold takes for curious minds on today\u2019s biggest topics. Hosted by experts covering stories you haven\u2019t seen and viewpoints you haven\u2019t heard, you\u2019ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you\u2019ve never seen it. \n\nSubscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.\n\nVisit our partner channel Bloomberg Quicktake for global news and insight in an instant.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vhzU0oXhqxw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Originals",
+          "tags": [
+            "News",
+            "bloomberg",
+            "quicktake",
+            "business",
+            "bloomberg quicktake",
+            "quicktake originals",
+            "bloomberg\nquicktake by bloomberg",
+            "documentary",
+            "mini documentary",
+            "mini doc",
+            "doc",
+            "us news",
+            "world news",
+            "finance",
+            "science",
+            "James Gorman",
+            "james gorman morgan stanley",
+            "morgan stanley CEO",
+            "jame gorman stepping down",
+            "jame gorman news",
+            "morgan stanley ceo stepping down"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Man Who Rebuilt Morgan Stanley",
+            "description": "James Gorman was the right leader at the right time when Morgan Stanley named him CEO in 2010. With the bank now preparing for his departure, Scarlet Fu takes a look at Gorman\u2019s legacy and the road ahead for his successor.\n\n#JamesGorman #MorganStanley #Business\n--------\nLike this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1\nBecome a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join\n\nBloomberg Originals offers bold takes for curious minds on today\u2019s biggest topics. Hosted by experts covering stories you haven\u2019t seen and viewpoints you haven\u2019t heard, you\u2019ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you\u2019ve never seen it. \n\nSubscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.\n\nVisit our partner channel Bloomberg Quicktake for global news and insight in an instant."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "108636",
+          "likeCount": "2152",
+          "favoriteCount": "0",
+          "commentCount": "62"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1Z7zMQUcQOkDZ9nKdBynyzr9Cyc",
+        "id": "W8S5Scti84g",
+        "snippet": {
+          "publishedAt": "2023-07-18T15:20:29Z",
+          "channelId": "UCUyazuclHtd7SB20MtUaxOg",
+          "title": "Morgan Stanley CEO James Gorman interview with Leslie Picker (July 18,2023)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W8S5Scti84g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "R.A.M.S. O.T.C\ud83c\udfc1",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley CEO James Gorman interview with Leslie Picker (July 18,2023)",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "337",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Qh1nKDzaE4fFVvp4OYxOIvZpKRo",
+        "id": "4N6XMkDyS4I",
+        "snippet": {
+          "publishedAt": "2023-01-19T15:30:56Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Gorman Says Three Potential Successors at Morgan Stanley in Place",
+          "description": "Morgan Stanley CEO James Gorman\u00a0says he knows the three finalists who are likely to replace him when he eventually steps down. \"Morgan Stanley have now three executives who could replace me. They're all very, very talented executives,\" he\u00a0says on \"Bloomberg Surveillance\" at the World Economic Forum in Davos, Switzerland.\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4N6XMkDyS4I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Gorman Says Three Potential Successors at Morgan Stanley in Place",
+            "description": "Morgan Stanley CEO James Gorman\u00a0says he knows the three finalists who are likely to replace him when he eventually steps down. \"Morgan Stanley have now three executives who could replace me. They're all very, very talented executives,\" he\u00a0says on \"Bloomberg Surveillance\" at the World Economic Forum in Davos, Switzerland.\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3805",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KbQT-F3zfw2mbZPLhMbvWNT8Ldo",
+        "id": "ykVjwWtLd6Y",
+        "snippet": {
+          "publishedAt": "2023-01-19T16:10:54Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Gorman on Succession Plan, Debt Ceiling",
+          "description": "Morgan Stanley CEO James Gorman says he knows the three finalists who are competing to replace him. Gorman also said he isn\u2019t panicking about an impasse in Washington over the debt ceiling, which could eventually trigger the first default on US obligations. He spoke to Bloomberg from the World Economic Forum in Davos. \n\n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ykVjwWtLd6Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ykVjwWtLd6Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ykVjwWtLd6Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Gorman on Succession Plan, Debt Ceiling",
+            "description": "Morgan Stanley CEO James Gorman says he knows the three finalists who are competing to replace him. Gorman also said he isn\u2019t panicking about an impasse in Washington over the debt ceiling, which could eventually trigger the first default on US obligations. He spoke to Bloomberg from the World Economic Forum in Davos. \n\n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23222",
+          "likeCount": "164",
+          "favoriteCount": "0",
+          "commentCount": "21"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Q4-cNAYBo8k0oQXDlN5UmOngb10",
+        "id": "DSh7CLpK-JM",
+        "snippet": {
+          "publishedAt": "2023-05-19T14:53:38Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Morgan Stanley CEO James Gorman to step down in the next year",
+          "description": "#MorganStanley #youtube #stockmarket \nYahoo Finance Live breaks down the news of Morgan Stanley CEO James Gorman's plans to step down as company leadership within the next year, featuring comments from ProShares Global Investment Strategist Simeon Hyman.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DSh7CLpK-JM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market",
+            "banks",
+            "banking"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley CEO James Gorman to step down in the next year",
+            "description": "#MorganStanley #youtube #stockmarket \nYahoo Finance Live breaks down the news of Morgan Stanley CEO James Gorman's plans to step down as company leadership within the next year, featuring comments from ProShares Global Investment Strategist Simeon Hyman.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "415",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8Plz3TTrB9-OaRuBbFtopcQnvX0",
+        "id": "MSr8qCKBoLE",
+        "snippet": {
+          "publishedAt": "2023-12-20T17:41:24Z",
+          "channelId": "UCKtW4czIzn-LW9IzG1h5kwA",
+          "title": "Who is James Gorman, the new board member of Disney and CEO of Morgan Stanley?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MSr8qCKBoLE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "@ballplayers",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Who is James Gorman, the new board member of Disney and CEO of Morgan Stanley?",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3925",
+          "likeCount": "83",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZvnmO7YdsM8AnyfwlqriG56p1ro",
+        "id": "7ZtqhGtLtVs",
+        "snippet": {
+          "publishedAt": "2023-07-18T16:07:03Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Morgan Stanley CEO: Q2 earnings were very strong",
+          "description": "Morgan Stanley CEO James Gorman joins 'Squawk on the Street' to discuss why Gorman's decided to step down as CEO of the bank, the company's stock rally after earnings, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7ZtqhGtLtVs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley CEO: Q2 earnings were very strong",
+            "description": "Morgan Stanley CEO James Gorman joins 'Squawk on the Street' to discuss why Gorman's decided to step down as CEO of the bank, the company's stock rally after earnings, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8060",
+          "likeCount": "55",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g75kysry_kdeiXruIKJDjZ_XJMk",
+        "id": "HbXhmtXxiXs",
+        "snippet": {
+          "publishedAt": "2023-10-26T17:05:16Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Morgan Stanley\u2019s Ted Pick and James Gorman Talk Succession | Bloomberg Talks",
+          "description": "Morgan Stanley Incoming CEO Ted Pick & Standing CEO James Gorman discuss the succession process at the bank and their vision for the future of the company. They speak with Bloomberg's Sonali Basak. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HbXhmtXxiXs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Business",
+            "Business News",
+            "Daily News",
+            "Investing",
+            "News",
+            "Politics",
+            "bloomberg",
+            "bloomberg interview",
+            "bloomberg podcast",
+            "bloomberg talks",
+            "business",
+            "economy",
+            "finance",
+            "investing",
+            "podcast",
+            "talks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley\u2019s Ted Pick and James Gorman Talk Succession | Bloomberg Talks",
+            "description": "Morgan Stanley Incoming CEO Ted Pick & Standing CEO James Gorman discuss the succession process at the bank and their vision for the future of the company. They speak with Bloomberg's Sonali Basak. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "209",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6YXSFMcDO5reOnOcm51t7YeZWCE",
+        "id": "yZ1Oscjf34k",
+        "snippet": {
+          "publishedAt": "2023-07-18T20:09:20Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley's Gorman: Investment Banking Has Bottomed",
+          "description": "Morgan Stanley Chair and CEO James Gorman comments on the current investment banking environment and says deals will \"start gettng done\" during an interview with Sonali Basak on \"Bloomberg Markets.\"\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yZ1Oscjf34k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley's Gorman: Investment Banking Has Bottomed",
+            "description": "Morgan Stanley Chair and CEO James Gorman comments on the current investment banking environment and says deals will \"start gettng done\" during an interview with Sonali Basak on \"Bloomberg Markets.\"\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5555",
+          "likeCount": "46",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NBhB4t0I3U7Y4EIcGuVAZ_UVbks",
+        "id": "M3f925pXJBs",
+        "snippet": {
+          "publishedAt": "2023-01-19T14:39:21Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Morgan Stanley Won't Wind Up Owning Twitter, Gorman Says",
+          "description": "Morgan Stanley CEO James Gorman says the loans that the bank made to Twitter Inc. as part of Elon Musk's acquisition won't lead to ownership of the social-media company. \"Twitter is a great company, obviously, it's gone through a restructuring. We're very comfortable with our position,\" says on \"Bloomberg Surveillance\" at the World Economic Forum in Davos, Switzerland.\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M3f925pXJBs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M3f925pXJBs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M3f925pXJBs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley Won't Wind Up Owning Twitter, Gorman Says",
+            "description": "Morgan Stanley CEO James Gorman says the loans that the bank made to Twitter Inc. as part of Elon Musk's acquisition won't lead to ownership of the social-media company. \"Twitter is a great company, obviously, it's gone through a restructuring. We're very comfortable with our position,\" says on \"Bloomberg Surveillance\" at the World Economic Forum in Davos, Switzerland.\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5913",
+          "likeCount": "51",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JiZmchg70oi9gXiB1ghZUvWKNrk",
+        "id": "4u2otFGobIk",
+        "snippet": {
+          "publishedAt": "2023-05-19T13:31:13Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "James Gorman to step down as Morgan Stanley CEO",
+          "description": "Morgan Stanley's James Gorman plans to step down as CEO in the next 12 months and assume the role of executive chairman. Sonali Basak reports on \"Bloomberg Surveillance.\"\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4u2otFGobIk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "James Gorman to step down as Morgan Stanley CEO",
+            "description": "Morgan Stanley's James Gorman plans to step down as CEO in the next 12 months and assume the role of executive chairman. Sonali Basak reports on \"Bloomberg Surveillance.\"\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6717",
+          "likeCount": "43",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "f8eZc4hItlE_0YGWmlQbon8RsGE",
+        "id": "DJd8tJPc7RM",
+        "snippet": {
+          "publishedAt": "2023-11-16T13:17:33Z",
+          "channelId": "UC7hQS4Zc4geQNlGVCwPNd_w",
+          "title": "Morgan Stanley CEO says his firm is ready for 'Basel III endgame' - the",
+          "description": "SINGAPORE \u2014 Morgan Stanley Chairman and CEO James Gorman said his firm will be able to cope with \"any form\" that new banking regulations end up taking, but added he expects some watering down before the final rules are confirmed. U. S. regulators\u00a0on Tuesday defended their plans for a\u00a0sweeping set\u00a0of proposed changes to banks' capital requirements, speaking in front of the U. S. Senate Banking Committee. They are aimed at tightening regulation of the industry after two of its biggest crises in recent memory \u2014 the 2008 financial crisis, and the March upheaval in regional lenders. These proposed changes in the U. S. seek to incorporate parts of international banking\u00a0regulations\u00a0known as Basel III, which was agreed to after the 2008 crisis and has taken years to roll out. Regulators say the changes in the proposals are estimated to result in an aggregate 16% increase in common equity tier 1 capital requirements \u2014 which is a measure of an institution's presumed financial strength and is seen as a buffer against recessions or trading blowups.\"I think it will come out differently from the way it's been proposed,\" Gorman told CNBC Thursday in an exclusive interview on the sidelines of Morgan Stanley's annual Asia-Pacific conference in Singapore.\"It's important to point out it's a proposal. It's not a rule, and it's not done.\"\"I think [the U. S. banking regulators] are listening,\" Gorman added. \"I've spent many years with the Federal Reserve. I was on the Fed board in New York for six years and I just think they are trying to find the right answer.\"\"I'm not sure the banks need more capital,\" Morgan Stanley's outgoing CEO said. \"In fact, the Fed's own stress test says they don't. So there's that ... sort of purity of purpose and in pursuit of perfection that can be the enemy of good.\"Whatever the outcome though, Gorman said his New York-based bank will be able to manage.\"We have been conservative with our capital. We run a CET1 ratio, which is among the highest in the world, significantly in excess of our requirements, so we're ready for any outcome. But I don't think it will be as dire as most of the investment committee believes it will be,\" Gorman said. The bank said in its latest earnings report that its standardized CET1 ratio was 15.5%, approximately 260 basis points above the requirement. In late October, Morgan Stanley\u00a0announced that Ted Pick\u00a0will succeed\u00a0James Gorman\u00a0as chief executive at the start of 2024, though Gorman will stay as executive chairman for an undisclosed period. Led by\u00a0Gorman\u00a0since 2010, Morgan Stanley has managed to avoid the turbulence afflicting some of its competitors. While\u00a0Goldman Sachs\u00a0was forced to pivot after a foray into retail banking, the main question at Morgan Stanley is about an orderly CEO succession. There will likely be some continuity with the bank's focus on building out its wealth management business in Asia.\"We think there's going to be tremendous growth,\" Gorman said Thursday.\"So we would like to do more.\n\n\nAll data is taken from the source: http://cnbc.com\nArticle Link: https://www.cnbc.com/2023/11/16/morgan-stanley-ceo-says-his-firm-is-ready-for-basel-iii-endgame-.html\n\n\n#gorman #newsfortoday #newstodayoncnn #newstodayheadlines #newstodaylocal #usnewsworldreport#",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DJd8tJPc7RM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SAD CAT SAD STORIES",
+          "tags": [
+            "gorman",
+            "said",
+            "stanley",
+            "morgan",
+            "think",
+            "banking",
+            "capital",
+            "bank",
+            "news americannews update",
+            "news for today",
+            "news feed",
+            "news source",
+            "tech news",
+            "new movies",
+            "news room",
+            "e news",
+            "newsweek",
+            "news world fox",
+            "news today bbc",
+            "news today on cnn",
+            "news today msnbc",
+            "news world",
+            "news today usa",
+            "news today cnn",
+            "b b c news world",
+            "news world now",
+            "news today headlines",
+            "news today local",
+            "us news world report"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley CEO says his firm is ready for 'Basel III endgame' - the",
+            "description": "SINGAPORE \u2014 Morgan Stanley Chairman and CEO James Gorman said his firm will be able to cope with \"any form\" that new banking regulations end up taking, but added he expects some watering down before the final rules are confirmed. U. S. regulators\u00a0on Tuesday defended their plans for a\u00a0sweeping set\u00a0of proposed changes to banks' capital requirements, speaking in front of the U. S. Senate Banking Committee. They are aimed at tightening regulation of the industry after two of its biggest crises in recent memory \u2014 the 2008 financial crisis, and the March upheaval in regional lenders. These proposed changes in the U. S. seek to incorporate parts of international banking\u00a0regulations\u00a0known as Basel III, which was agreed to after the 2008 crisis and has taken years to roll out. Regulators say the changes in the proposals are estimated to result in an aggregate 16% increase in common equity tier 1 capital requirements \u2014 which is a measure of an institution's presumed financial strength and is seen as a buffer against recessions or trading blowups.\"I think it will come out differently from the way it's been proposed,\" Gorman told CNBC Thursday in an exclusive interview on the sidelines of Morgan Stanley's annual Asia-Pacific conference in Singapore.\"It's important to point out it's a proposal. It's not a rule, and it's not done.\"\"I think [the U. S. banking regulators] are listening,\" Gorman added. \"I've spent many years with the Federal Reserve. I was on the Fed board in New York for six years and I just think they are trying to find the right answer.\"\"I'm not sure the banks need more capital,\" Morgan Stanley's outgoing CEO said. \"In fact, the Fed's own stress test says they don't. So there's that ... sort of purity of purpose and in pursuit of perfection that can be the enemy of good.\"Whatever the outcome though, Gorman said his New York-based bank will be able to manage.\"We have been conservative with our capital. We run a CET1 ratio, which is among the highest in the world, significantly in excess of our requirements, so we're ready for any outcome. But I don't think it will be as dire as most of the investment committee believes it will be,\" Gorman said. The bank said in its latest earnings report that its standardized CET1 ratio was 15.5%, approximately 260 basis points above the requirement. In late October, Morgan Stanley\u00a0announced that Ted Pick\u00a0will succeed\u00a0James Gorman\u00a0as chief executive at the start of 2024, though Gorman will stay as executive chairman for an undisclosed period. Led by\u00a0Gorman\u00a0since 2010, Morgan Stanley has managed to avoid the turbulence afflicting some of its competitors. While\u00a0Goldman Sachs\u00a0was forced to pivot after a foray into retail banking, the main question at Morgan Stanley is about an orderly CEO succession. There will likely be some continuity with the bank's focus on building out its wealth management business in Asia.\"We think there's going to be tremendous growth,\" Gorman said Thursday.\"So we would like to do more.\n\n\nAll data is taken from the source: http://cnbc.com\nArticle Link: https://www.cnbc.com/2023/11/16/morgan-stanley-ceo-says-his-firm-is-ready-for-basel-iii-endgame-.html\n\n\n#gorman #newsfortoday #newstodayoncnn #newstodayheadlines #newstodaylocal #usnewsworldreport#"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yd05WAKDdnvm5gD44IbiD9jh-o0",
+        "id": "Tm9M0ZxFeMk",
+        "snippet": {
+          "publishedAt": "2023-11-17T01:00:59Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Morgan Stanley CEO says there's 'real progress' in the fight against inflation",
+          "description": "James Gorman of the financial services firm says despite the U.S. and U.K. central banks being late in raising interest rates, \"when they got there, they really got going.\"",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Tm9M0ZxFeMk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "tags": [
+            "Asia: Squawk Box"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morgan Stanley CEO says there's 'real progress' in the fight against inflation",
+            "description": "James Gorman of the financial services firm says despite the U.S. and U.K. central banks being late in raising interest rates, \"when they got there, they really got going.\""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "314",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "021MhYmxyu7glJmCDI39OsD9efg",
+        "id": "RRqMBSnnUeM",
+        "snippet": {
+          "publishedAt": "2023-12-05T22:55:45Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Dimon and Other Bank CEOs to Testify on Regulations",
+          "description": "The heads of the biggest US banks, including Jamie Dimon of JPMorgan and James Gorman and Morgan Stanley, will testify in Washington on Wednesday about new proposed rules to strengthen capital requirements. Kathryn Judge, professor at Columbia Law School, speaks on \"Bloomberg Markets: The Close.\"\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RRqMBSnnUeM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dimon and Other Bank CEOs to Testify on Regulations",
+            "description": "The heads of the biggest US banks, including Jamie Dimon of JPMorgan and James Gorman and Morgan Stanley, will testify in Washington on Wednesday about new proposed rules to strengthen capital requirements. Kathryn Judge, professor at Columbia Law School, speaks on \"Bloomberg Markets: The Close.\"\n\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness/\nInstagram: https://www.instagram.com/quicktake/?hl=en"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3502",
+          "likeCount": "66",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aVIXNcn4IwgVoUYNRWcFz3uhx5s",
+        "id": "vpjvt95uNA8",
+        "snippet": {
+          "publishedAt": "2023-07-31T16:09:05Z",
+          "channelId": "UClnJgIybt1mX5jxd-ByAHlw",
+          "title": "Shia LaBeouf about Tom Hardy being a GORILLA!",
+          "description": "When it's hardy's set, you are on his church!\n\nTomHardy, Actor, Hollywood, Film, Movies, TomHardyMovies, TomHardyInterview, Celebrity, ActorInterview, TomHardyFacts, TomHardyBiography, TomHardyCareer, TomHardyRoles, TomHardyCharacters, TomHardyPerformance, TomHardyFan, TomHardyFans, TomHardyAppreciation, TomHardyNews, TomHardyUpdates, TomHardyBehindTheScenes, TomHardyFilmography, TomHardyCharacters, TomHardyImpressions, TomHardyAccents, TomHardyFunnyMoments, TomHardyActionScenes, TomHardyDrama, TomHardyBlockbusters, TomHardyBritishActor, TomHardyTopMovies, TomHardyAwards, TomHardySuccess, TomHardyJourney, TomHardyTransformation, TomHardyInspiration, TomHardyTalentedActor, TomHardyDedication, TomHardyWorkEthic, TomHardyBestPerformances, TomHardyIconicRoles, TomHardyLegend, TomHardyTrending, TomHardyViral, TomHardyImpersonation, TomHardyMemes, TomHardyChallenge, TomHardyFansReact, TomHardyReview, TomHardyOpinions, TomHardyCritics, TomHardyCharacterAnalysis, TomHardyCameo, TomHardyBatman, TomHardyVenom, TomHardyPeakyBlinders, TomHardyInception, TomHardyDarkKnightRises, TomHardyMadMax, TomHardyWarrior, TomHardyLegend, TomHardyTaboo, TomHardyCapone, TomHardyLawless, TomHardyBane, TomHardyEddieBrock, TomHardyVillain, TomHardyHero, TomHardyFavouriteRole, TomHardyBestActor",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vpjvt95uNA8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BUAZ",
+          "tags": [
+            "TomHardy",
+            "Actor",
+            "Hollywood",
+            "Film",
+            "Movies",
+            "TomHardyMovies",
+            "TomHardyInterview",
+            "Celebrity",
+            "ActorInterview",
+            "TomHardyFacts",
+            "TomHardyBiography",
+            "TomHardyCareer",
+            "TomHardyRoles",
+            "TomHardyCharacters",
+            "TomHardyPerformance",
+            "TomHardyFan",
+            "TomHardyFans",
+            "TomHardyAppreciation",
+            "TomHardyNews",
+            "TomHardyUpdates",
+            "TomHardyBehindTheScenes",
+            "TomHardyFilmography",
+            "TomHardyImpressions",
+            "TomHardyAccents",
+            "TomHardyFunnyMoments",
+            "TomHardyActionScenes",
+            "TomHardyDrama",
+            "TomHardyBlockbusters",
+            "TomHardyBritishActor",
+            "TomHardyTopMovies",
+            "TomHardyAwards",
+            "TomHardySuccess"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shia LaBeouf about Tom Hardy being a GORILLA!",
+            "description": "When it's hardy's set, you are on his church!\n\nTomHardy, Actor, Hollywood, Film, Movies, TomHardyMovies, TomHardyInterview, Celebrity, ActorInterview, TomHardyFacts, TomHardyBiography, TomHardyCareer, TomHardyRoles, TomHardyCharacters, TomHardyPerformance, TomHardyFan, TomHardyFans, TomHardyAppreciation, TomHardyNews, TomHardyUpdates, TomHardyBehindTheScenes, TomHardyFilmography, TomHardyCharacters, TomHardyImpressions, TomHardyAccents, TomHardyFunnyMoments, TomHardyActionScenes, TomHardyDrama, TomHardyBlockbusters, TomHardyBritishActor, TomHardyTopMovies, TomHardyAwards, TomHardySuccess, TomHardyJourney, TomHardyTransformation, TomHardyInspiration, TomHardyTalentedActor, TomHardyDedication, TomHardyWorkEthic, TomHardyBestPerformances, TomHardyIconicRoles, TomHardyLegend, TomHardyTrending, TomHardyViral, TomHardyImpersonation, TomHardyMemes, TomHardyChallenge, TomHardyFansReact, TomHardyReview, TomHardyOpinions, TomHardyCritics, TomHardyCharacterAnalysis, TomHardyCameo, TomHardyBatman, TomHardyVenom, TomHardyPeakyBlinders, TomHardyInception, TomHardyDarkKnightRises, TomHardyMadMax, TomHardyWarrior, TomHardyLegend, TomHardyTaboo, TomHardyCapone, TomHardyLawless, TomHardyBane, TomHardyEddieBrock, TomHardyVillain, TomHardyHero, TomHardyFavouriteRole, TomHardyBestActor"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7341121",
+          "likeCount": "189831",
+          "favoriteCount": "0",
+          "commentCount": "4956"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

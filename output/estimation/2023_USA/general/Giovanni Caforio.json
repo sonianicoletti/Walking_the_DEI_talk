@@ -1,0 +1,1327 @@
+{
+  "ceo": "Giovanni Caforio",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "MR9h9Xpp9ezh6P3fCE9iXNA41bo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 14,
+      "resultsPerPage": 13
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lYDzLvvonyDJhEmZzUr5vCUHcKw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HOP5DD7KPh4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-02T18:25:11Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Bristol Myers Squibb CEO on cancer drug pipeline",
+          "description": "Dr. Giovanni Caforio, Bristol Myers Squibb CEO, joins 'The Exchange' to discuss the ASCO Annual Cancer Conference, America's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-02T18:25:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qpvjTHJ8JrcoFravcpT_u8zENyM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bLiYjF7MGpY"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-19T15:22:25Z",
+          "channelId": "UCjFf4oKibYrHae2NZ_GPS6g",
+          "title": "Bristol Myers Squibb | Global Patient Week 2023: LinkedIn Live",
+          "description": "What drives our leaders to do more for patients each and every day? As part of our 9th annual #GlobalPatientWeek celebration, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bristol Myers Squibb",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-19T15:22:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qHJr92SH6Bo0-OA_N7mhQtbhlgU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ONQ4gPqUbiA"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-14T09:12:54Z",
+          "channelId": "UCBFOM1flrMjTfWUa5Sa0M3Q",
+          "title": "alumni post.talks: Postdoctoral researchers from Graz interview international alumni",
+          "description": "The second interview in our second season of the alumni.post.talks on June 6, 2023. Mathematician Federica Caforio (Graz) ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Alumni Community Uni Graz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-14T09:12:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "f0Cgc7-l4XURCWj4oz6WZg1I9Is",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VFMWBNUbBs4"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-27T13:58:58Z",
+          "channelId": "UCyZ_R07sA2PSsU4Q9ETLIYg",
+          "title": "WBC A4I 2023: CEO Awards Day 1",
+          "description": "WBC Action for Impact Summit 2023 Panel Discussion: The WBC CEO Excellence in Gender Equity and Diversity Award ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WBCollaborative",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-27T13:58:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dUGWVk4Dxjz2IEMxIqnulONd1F8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iARZDZeFHZY"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T21:00:31Z",
+          "channelId": "UCPjFK2AUjXUrWb8XYdzvrTQ",
+          "title": "Interview with David Foulkes -  CEO BRUNSWICK - The Boat Show",
+          "description": "SUBSCRIBE OUR CHANNEL https://www.youtube.com/c/theboatshow/?sub_confirmation=1 Interview with David Foulkes, CEO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "THE BOAT SHOW",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T21:00:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-X2Xhsg51XsarFZA_w3OKiLe1fw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AbpKZjTdC6U"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-07T18:43:36Z",
+          "channelId": "UCceRKKS0QUfXlKUPBoxdTHQ",
+          "title": "Digital Wellness \u2013 Hapbee Technologies, Inc.\u2019s  interview with Yona Shtern, CEO/Founder",
+          "description": "Click the Subscribe button for the latest in crypto, blockchain and business news from NEW TO THE STREET! #crypto ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New to The Street TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-07T18:43:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NlLE4ytXia7Vfqs8xrZHUAAXuT0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Mduv1kPWqxw"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-19T21:23:28Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con G. Caforio e C. Salvatori",
+          "description": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con Giorgia Caforio e Chiara Salvatori.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-19T21:23:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "y9edD_OghzBL4VJkZjnOt2amGH4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_4pd9l0m410"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-05T19:16:04Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "5-3-23, OMAG/MT - VOLLEY SOVERATO.: intervista post partita con Sveva Parini (centrale OMAG_MT)",
+          "description": "5-3-23, OMAG/MT - VOLLEY SOVERATO.: intervista post partita con Sveva Parini (centrale OMAG_MT)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-05T19:16:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lkc7iXWllM5kJD62XRGNtqgKUik",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jIxklrssEBc"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-23T12:30:31Z",
+          "channelId": "UC5mAyLBcu3oQc6XgmNfwAEg",
+          "title": "Dinesh C. Paliwal : the First Asian on ABB&#39;s Management Board",
+          "description": "InfluentialIndians: Dinesh C. Paliwal shattered barriers by becoming the first Asian member of ABB's Management Board and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Influential Indians",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-23T12:30:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "U037H-qz2OueogVmPxmyZrX85bo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3mrC5ZR0X4s"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-19T21:14:25Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con coach Marco Gazzotti (Martignacco)",
+          "description": "19-2-23, OMAG/MT - ITAS CECCARELLI MARTIGNACCO: intervista post partita con coach Gazzotti (Martignacco)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3mrC5ZR0X4s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3mrC5ZR0X4s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3mrC5ZR0X4s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-19T21:14:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wWh6I3AOVZ_TTNxPx_u-NVte4wY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iVXCugdKQQ4"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-19T19:19:21Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "19-3-23: OMAG MT vs BUSTO A. ai microfoni Vangeliya Rachkovska e Alessia Bolzonetti",
+          "description": "19-3-23: OMAG MT vs BUSTO A. ai microfoni di Mauro Mancini le nostre Vangeliya Rachkovska e Alessia Bolzonetti.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-19T19:19:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SkUSDIOkJruT9LuDSRbk-c5tp2U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E7Y_nNqlfGg"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-11T18:44:18Z",
+          "channelId": "UCTXCRyvHbmcrPUEBqoRSxWQ",
+          "title": "Lessons for Your Business Toolbox: Stanley Black &amp; Decker President &amp; CEO Donald Allan Jr.",
+          "description": "The Travelers Institute, the public policy division of Travelers, hosted a webinar with Stanley Black & Decker President and CEO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Travelers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-11T18:44:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "I9wUT_LrRFgOu9FYaILOFUV4IWA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "liAmFXgWp3g"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-05T20:49:29Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "5-2-23, OMAG/MT - CDA TALMASSONS: intervista post partita con Alessia Bolzonetti e Nikoleta Perovic",
+          "description": "5-2-23, OMAG/MT - CDA TALMASSONS: intervista post partita con Alessia Bolzonetti e Nikoleta Perovic.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-05T20:49:29Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Op6yfSeczTqZ_1NL9sQa12QnV9s",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "MljGIR0Ih9WyySXYywku6Poks-8",
+        "id": "HOP5DD7KPh4",
+        "snippet": {
+          "publishedAt": "2023-06-02T18:25:11Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Bristol Myers Squibb CEO on cancer drug pipeline",
+          "description": "Dr. Giovanni Caforio, Bristol Myers Squibb CEO, joins 'The Exchange' to discuss the ASCO Annual Cancer Conference, America's growing cancer drug shortage, and progress being made on advancing cancer treatments. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HOP5DD7KPh4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bristol Myers Squibb CEO on cancer drug pipeline",
+            "description": "Dr. Giovanni Caforio, Bristol Myers Squibb CEO, joins 'The Exchange' to discuss the ASCO Annual Cancer Conference, America's growing cancer drug shortage, and progress being made on advancing cancer treatments. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4823",
+          "likeCount": "37",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K1KfKU2bXBGM5udJTgSyhzFjMQw",
+        "id": "bLiYjF7MGpY",
+        "snippet": {
+          "publishedAt": "2023-09-19T15:22:25Z",
+          "channelId": "UCjFf4oKibYrHae2NZ_GPS6g",
+          "title": "Bristol Myers Squibb | Global Patient Week 2023: LinkedIn Live",
+          "description": "What drives our leaders to do more for patients each and every day?\n \nAs part of our 9th annual #GlobalPatientWeek celebration, Giovanni Caforio and Chris Boerner answered this question and more during our #LinkedInLive, moderated by Cari Gallman on Tuesday, September 19, 2023. \n\nWatch the conversation to hear how we center patients in everything we do and learn about our vision for the future of transforming patients\u2019 lives through science: https://one.bms.com/47VVytt",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bLiYjF7MGpY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bristol Myers Squibb",
+          "tags": [
+            "bristol myers squibb",
+            "transforming patient lives",
+            "science and healthcare",
+            "medical breakthroughs",
+            "innovative treatments",
+            "patient transformation",
+            "healthcare advancements",
+            "cutting-edge therapies",
+            "healthcare innovation",
+            "patient-centered care",
+            "biopharma",
+            "pharmaceutical research",
+            "improving health outcomes"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bristol Myers Squibb | Global Patient Week 2023: LinkedIn Live",
+            "description": "What drives our leaders to do more for patients each and every day?\n \nAs part of our 9th annual #GlobalPatientWeek celebration, Giovanni Caforio and Chris Boerner answered this question and more during our #LinkedInLive, moderated by Cari Gallman on Tuesday, September 19, 2023. \n\nWatch the conversation to hear how we center patients in everything we do and learn about our vision for the future of transforming patients\u2019 lives through science: https://one.bms.com/47VVytt"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "45588",
+          "likeCount": "79",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1N64090hoQfXWKj-o2sFaVtiFRY",
+        "id": "ONQ4gPqUbiA",
+        "snippet": {
+          "publishedAt": "2023-06-14T09:12:54Z",
+          "channelId": "UCBFOM1flrMjTfWUa5Sa0M3Q",
+          "title": "alumni post.talks: Postdoctoral researchers from Graz interview international alumni",
+          "description": "The second interview in our second season of the alumni.post.talks on June 6, 2023.\nMathematician Federica Caforio (Graz) interviews biophysicist Florian M\u00fcller (Paris). Two researchers who both have a strong interdisciplinary and international background have a conversation about:\n\u2022 what makes a good mentor\n\u2022 how to collaborate effectively in interdisciplinary teams and how to make the most of each team member\u2019s skills\n\u2022 the role lasting and supportive networks with your peers can play in your career\n\u2022 how to lead teams, how to support younger researchers on their path\n\u2022 strategies for dual career couples combining family and work life\n\u2022 how to achieve gender balance in hard science fields\n\u2022 how international moves can open your eyes & spark personal development\n\u2026and much more!\n\nSummary: Johanna Stadlbauer (PostDoc Office)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ONQ4gPqUbiA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alumni Community Uni Graz",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "alumni post.talks: Postdoctoral researchers from Graz interview international alumni",
+            "description": "The second interview in our second season of the alumni.post.talks on June 6, 2023.\nMathematician Federica Caforio (Graz) interviews biophysicist Florian M\u00fcller (Paris). Two researchers who both have a strong interdisciplinary and international background have a conversation about:\n\u2022 what makes a good mentor\n\u2022 how to collaborate effectively in interdisciplinary teams and how to make the most of each team member\u2019s skills\n\u2022 the role lasting and supportive networks with your peers can play in your career\n\u2022 how to lead teams, how to support younger researchers on their path\n\u2022 strategies for dual career couples combining family and work life\n\u2022 how to achieve gender balance in hard science fields\n\u2022 how international moves can open your eyes & spark personal development\n\u2026and much more!\n\nSummary: Johanna Stadlbauer (PostDoc Office)"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT1H15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "68",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hAEc-DerRgezGFoVp1F3L0pr-P8",
+        "id": "VFMWBNUbBs4",
+        "snippet": {
+          "publishedAt": "2023-09-27T13:58:58Z",
+          "channelId": "UCyZ_R07sA2PSsU4Q9ETLIYg",
+          "title": "WBC A4I 2023: CEO Awards Day 1",
+          "description": "WBC Action for Impact Summit 2023\n\nPanel Discussion: The WBC CEO Excellence in Gender Equity and Diversity Award recognizes corporate leaders whose efforts have made significant contributions to the advancement of diversity within their companies and increased opportunities for women in business roles. \n\nJoin us for part one of our conversation with this year\u2019s CEO Excellence in Gender Equity and Diversity award winners with opening remarks by WBC leadership.\n\nSpeakers:\nEdie Fraser, Chair of Board, WBC\nJohanna (Jos\u00e9) Zeilstra, CEO of Gender Fair & WBC Board Director\n\nRecipients:\nSophie Bellon, Chairwoman of the Board of Directors & CEO, Sodexo\nGiovanni Caforio, MD, Chairman of the Board & CEO, Bristol Myers Squibb\nDavid Cordani, Chairman & CEO, The Cigna Group\nChristine A. Leahy, Chair, President & CEO, CDW\nKaren S. Lynch, President & CEO, CVS Health\nBrian Moynihan, Chair of the Board & CEO, Bank of America\nJames Quincey, Chairman & CEO, The Coca-Cola Company\nLinda Rendle, CEO, The Clorox Company\nChuck Robbins, Chair & CEO, Cisco\nJennifer Rumsey, Chair & CEO, Cummins, Inc.\n\nFor more information, visit our website at https://www.wbcollaborative.org/wbc-action-for-impact-annual-summit-2023/\n\nFollow us online at:\nIG: https://www.instagram.com/womenbusinesscollaborative/\nTwitter: https://twitter.com/WBCollaborative\nLinkedin: https://www.linkedin.com/company/wbcollaborative/\n#WBCFasterTogether",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WBCollaborative",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "WBC A4I 2023: CEO Awards Day 1",
+            "description": "WBC Action for Impact Summit 2023\n\nPanel Discussion: The WBC CEO Excellence in Gender Equity and Diversity Award recognizes corporate leaders whose efforts have made significant contributions to the advancement of diversity within their companies and increased opportunities for women in business roles. \n\nJoin us for part one of our conversation with this year\u2019s CEO Excellence in Gender Equity and Diversity award winners with opening remarks by WBC leadership.\n\nSpeakers:\nEdie Fraser, Chair of Board, WBC\nJohanna (Jos\u00e9) Zeilstra, CEO of Gender Fair & WBC Board Director\n\nRecipients:\nSophie Bellon, Chairwoman of the Board of Directors & CEO, Sodexo\nGiovanni Caforio, MD, Chairman of the Board & CEO, Bristol Myers Squibb\nDavid Cordani, Chairman & CEO, The Cigna Group\nChristine A. Leahy, Chair, President & CEO, CDW\nKaren S. Lynch, President & CEO, CVS Health\nBrian Moynihan, Chair of the Board & CEO, Bank of America\nJames Quincey, Chairman & CEO, The Coca-Cola Company\nLinda Rendle, CEO, The Clorox Company\nChuck Robbins, Chair & CEO, Cisco\nJennifer Rumsey, Chair & CEO, Cummins, Inc.\n\nFor more information, visit our website at https://www.wbcollaborative.org/wbc-action-for-impact-annual-summit-2023/\n\nFollow us online at:\nIG: https://www.instagram.com/womenbusinesscollaborative/\nTwitter: https://twitter.com/WBCollaborative\nLinkedin: https://www.linkedin.com/company/wbcollaborative/\n#WBCFasterTogether"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "115",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BtP6e6GC05S4Mxt2ntL1BovmntU",
+        "id": "iARZDZeFHZY",
+        "snippet": {
+          "publishedAt": "2023-03-15T21:00:31Z",
+          "channelId": "UCPjFK2AUjXUrWb8XYdzvrTQ",
+          "title": "Interview with David Foulkes -  CEO BRUNSWICK - The Boat Show",
+          "description": "SUBSCRIBE OUR CHANNEL https://www.youtube.com/c/theboatshow/?sub_confirmation=1 Interview with David Foulkes, CEO Brunswick Corporation at Miami International Boat Show 2023\nBy Maria Elisa Altese\nThe Boat Show 2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iARZDZeFHZY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "THE BOAT SHOW",
+          "tags": [
+            "the boat show",
+            "boat show",
+            "the boat show eng",
+            "the boat show video",
+            "motor boat test",
+            "motor boat",
+            "motor boat review",
+            "miami boat show",
+            "2023",
+            "maria elisa altese",
+            "brunswick",
+            "david foulkes",
+            "the boat show english",
+            "boat review",
+            "boating",
+            "boston whaler",
+            "mercury",
+            "video boat review",
+            "boat video",
+            "fun",
+            "speed",
+            "design"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Interview with David Foulkes -  CEO BRUNSWICK - The Boat Show",
+            "description": "SUBSCRIBE OUR CHANNEL https://www.youtube.com/c/theboatshow/?sub_confirmation=1 Interview with David Foulkes, CEO Brunswick Corporation at Miami International Boat Show 2023\nBy Maria Elisa Altese\nThe Boat Show 2023"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1299",
+          "likeCount": "33",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Z54cXG6lX1it7JOhNYjRALnCgNM",
+        "id": "AbpKZjTdC6U",
+        "snippet": {
+          "publishedAt": "2023-08-07T18:43:36Z",
+          "channelId": "UCceRKKS0QUfXlKUPBoxdTHQ",
+          "title": "Digital Wellness \u2013 Hapbee Technologies, Inc.\u2019s  interview with Yona Shtern, CEO/Founder",
+          "description": "Click the Subscribe button for the latest in crypto, blockchain and business news from NEW TO THE STREET!\n\n#crypto #cryptocurrency #blockquake #blockchain #blockchainnews #digitalcurrency #newtothestreet #janeking #exploringtheblock #foxbusinessnews #foxbusiness #financialnews #businessnews #ai #newsmaxtv \n\nNew to The Street\u2019s TV Host Jane King interviews Yona Shtern, Chief Executive Officer/Founder, Hapbee Technologies, Inc. (OTCQB: HAPBF) (TSXV: HAPB) (FSE: HA1) (\u201cHapbee\u201d). From the Nasdaq MarketSite studio, Yona updates viewers on Hapbee Technologies, Inc.\u2019s digital wellness business that produces and creates wellness products for sleep, relaxation, and focus. The Company recently received the Nexus Certification Award from Grey Team as a \u201cTop Military Suicide Prevention Tool\u201d for 2023. Based in Boca Raton, Florida, the Grey Team is a non-profit organization that seeks to help military active duty and veterans overcome drug addiction and suicides. The organization has been using Hapbee Neckbands and Hapbee Smart Sleep Pads effectively in their efforts to help those with invisible war wounds. Hapbee uses digital frequency which can stimulate the brain without the use of drugs and stimulants and with no chemical induced side effects. Hapbee Smart Sleep Pad helps with getting a better night\u2019s sleep and Hapbee Neckband is commonly used for relaxation and focus. About 80% of Happee\u2019s sales are from the Hapbee Smart Sleep Pad for those looking for better sleep. Yons tells viewers that Hapbee partnered with TrueMed, now people can buy the products through a Health Savings Account (HSA), or Flexible Spending Account (FSA), receiving a pre-tax dollar 30% discount. Viewers are welcome to join and enjoy the digital wellness offered at Hapbee Technologies, Inc. The on-screen QR code is available during the show; download or visit Hapbee Technologies, Inc.- https://hapbee.com/. The interview airs on Newsmax, episode 496, August 5, 2023, at 3:30 PM ET, and airs on the FOX Business Network, episode 497, August 7, 2023, at 10:30 PM PT.\n\nTo make sure you never miss a video from New to the Street, click here to subscribe: https://www.youtube.com/c/newtothestreettv\n\nFollow New to the Street on Twitter: https://twitter.com/NewToTheStreet\n\nFollow New to the Street on Facebook: https://www.facebook.com/newtothestreet/\n\nFollow New to the Street on Instagram: https://www.instagram.com/newtothestreettv/\n\nFollow New to the Street on Rumble: https://rumble.com/user/newtothestreet\n\nAbout New to the Street: https://newtothestreet.com/\n\nSubscribe to our Mailing List: https://mailchi.mp/ccd21b3e3fab/join-our-mailing-list",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AbpKZjTdC6U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New to The Street TV",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Digital Wellness \u2013 Hapbee Technologies, Inc.\u2019s  interview with Yona Shtern, CEO/Founder",
+            "description": "Click the Subscribe button for the latest in crypto, blockchain and business news from NEW TO THE STREET!\n\n#crypto #cryptocurrency #blockquake #blockchain #blockchainnews #digitalcurrency #newtothestreet #janeking #exploringtheblock #foxbusinessnews #foxbusiness #financialnews #businessnews #ai #newsmaxtv \n\nNew to The Street\u2019s TV Host Jane King interviews Yona Shtern, Chief Executive Officer/Founder, Hapbee Technologies, Inc. (OTCQB: HAPBF) (TSXV: HAPB) (FSE: HA1) (\u201cHapbee\u201d). From the Nasdaq MarketSite studio, Yona updates viewers on Hapbee Technologies, Inc.\u2019s digital wellness business that produces and creates wellness products for sleep, relaxation, and focus. The Company recently received the Nexus Certification Award from Grey Team as a \u201cTop Military Suicide Prevention Tool\u201d for 2023. Based in Boca Raton, Florida, the Grey Team is a non-profit organization that seeks to help military active duty and veterans overcome drug addiction and suicides. The organization has been using Hapbee Neckbands and Hapbee Smart Sleep Pads effectively in their efforts to help those with invisible war wounds. Hapbee uses digital frequency which can stimulate the brain without the use of drugs and stimulants and with no chemical induced side effects. Hapbee Smart Sleep Pad helps with getting a better night\u2019s sleep and Hapbee Neckband is commonly used for relaxation and focus. About 80% of Happee\u2019s sales are from the Hapbee Smart Sleep Pad for those looking for better sleep. Yons tells viewers that Hapbee partnered with TrueMed, now people can buy the products through a Health Savings Account (HSA), or Flexible Spending Account (FSA), receiving a pre-tax dollar 30% discount. Viewers are welcome to join and enjoy the digital wellness offered at Hapbee Technologies, Inc. The on-screen QR code is available during the show; download or visit Hapbee Technologies, Inc.- https://hapbee.com/. The interview airs on Newsmax, episode 496, August 5, 2023, at 3:30 PM ET, and airs on the FOX Business Network, episode 497, August 7, 2023, at 10:30 PM PT.\n\nTo make sure you never miss a video from New to the Street, click here to subscribe: https://www.youtube.com/c/newtothestreettv\n\nFollow New to the Street on Twitter: https://twitter.com/NewToTheStreet\n\nFollow New to the Street on Facebook: https://www.facebook.com/newtothestreet/\n\nFollow New to the Street on Instagram: https://www.instagram.com/newtothestreettv/\n\nFollow New to the Street on Rumble: https://rumble.com/user/newtothestreet\n\nAbout New to the Street: https://newtothestreet.com/\n\nSubscribe to our Mailing List: https://mailchi.mp/ccd21b3e3fab/join-our-mailing-list"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3912",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1JU697lD8Ee2lBdSWlDOz_o4LW4",
+        "id": "Mduv1kPWqxw",
+        "snippet": {
+          "publishedAt": "2023-02-19T21:23:28Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con G. Caforio e C. Salvatori",
+          "description": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con Giorgia Caforio e Chiara Salvatori",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Mduv1kPWqxw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "tags": [
+            "consolini volley",
+            "omag",
+            "volley femminile a2"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con G. Caforio e C. Salvatori",
+            "description": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con Giorgia Caforio e Chiara Salvatori"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT2M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "46",
+          "likeCount": "0",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iietgagAILNPwHAf29yufY-kW7w",
+        "id": "_4pd9l0m410",
+        "snippet": {
+          "publishedAt": "2023-03-05T19:16:04Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "5-3-23, OMAG/MT - VOLLEY SOVERATO.: intervista post partita con Sveva Parini (centrale OMAG_MT)",
+          "description": "5-3-23, OMAG/MT - VOLLEY SOVERATO.: intervista post partita con Sveva Parini (centrale OMAG_MT)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_4pd9l0m410/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "tags": [
+            "consolini volley",
+            "omag",
+            "volley femminile a2"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "5-3-23, OMAG/MT - VOLLEY SOVERATO.: intervista post partita con Sveva Parini (centrale OMAG_MT)",
+            "description": "5-3-23, OMAG/MT - VOLLEY SOVERATO.: intervista post partita con Sveva Parini (centrale OMAG_MT)"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "119",
+          "likeCount": "0",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6sO9U8FsYxEi5aYztk6Stu8dJfs",
+        "id": "jIxklrssEBc",
+        "snippet": {
+          "publishedAt": "2023-10-23T12:30:31Z",
+          "channelId": "UC5mAyLBcu3oQc6XgmNfwAEg",
+          "title": "Dinesh C. Paliwal : the First Asian on ABB's Management Board",
+          "description": "#InfluentialIndians: Dinesh C. Paliwal shattered barriers by becoming the first Asian member of ABB's Management Board and pioneering excellence and diversity. Watch the video to know more. #II57",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jIxklrssEBc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Influential Indians",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dinesh C. Paliwal : the First Asian on ABB's Management Board",
+            "description": "#InfluentialIndians: Dinesh C. Paliwal shattered barriers by becoming the first Asian member of ABB's Management Board and pioneering excellence and diversity. Watch the video to know more. #II57"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "182",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pVPaE199uaz6kg7s18fqzSmViEw",
+        "id": "3mrC5ZR0X4s",
+        "snippet": {
+          "publishedAt": "2023-02-19T21:14:25Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con coach Marco Gazzotti (Martignacco)",
+          "description": "19-2-23, OMAG/MT - ITAS CECCARELLI MARTIGNACCO: intervista post partita con coach Gazzotti (Martignacco)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3mrC5ZR0X4s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3mrC5ZR0X4s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3mrC5ZR0X4s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "tags": [
+            "consolini volley",
+            "omag",
+            "volley femminile a2"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "19-2-23, OMAG/MT - ITAS MARTIGNACCO: intervista post partita con coach Marco Gazzotti (Martignacco)",
+            "description": "19-2-23, OMAG/MT - ITAS CECCARELLI MARTIGNACCO: intervista post partita con coach Gazzotti (Martignacco)"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT2M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23",
+          "likeCount": "0",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yR0_6P1zpuiWh8Wzs11W1TAK8J4",
+        "id": "iVXCugdKQQ4",
+        "snippet": {
+          "publishedAt": "2023-03-19T19:19:21Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "19-3-23: OMAG MT vs BUSTO A. ai microfoni Vangeliya Rachkovska e Alessia Bolzonetti",
+          "description": "19-3-23: OMAG MT vs BUSTO A. ai microfoni di Mauro Mancini le nostre Vangeliya Rachkovska e Alessia Bolzonetti",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iVXCugdKQQ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "tags": [
+            "consolini volley",
+            "omag",
+            "volley femminile a2"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "19-3-23: OMAG MT vs BUSTO A. ai microfoni Vangeliya Rachkovska e Alessia Bolzonetti",
+            "description": "19-3-23: OMAG MT vs BUSTO A. ai microfoni di Mauro Mancini le nostre Vangeliya Rachkovska e Alessia Bolzonetti"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT2M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "314",
+          "likeCount": "5",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MY85vxOtdBK13hklHT36W_9YvLQ",
+        "id": "E7Y_nNqlfGg",
+        "snippet": {
+          "publishedAt": "2023-04-11T18:44:18Z",
+          "channelId": "UCTXCRyvHbmcrPUEBqoRSxWQ",
+          "title": "Lessons for Your Business Toolbox: Stanley Black & Decker President & CEO Donald Allan Jr.",
+          "description": "The Travelers Institute, the public policy division of Travelers, hosted a webinar with Stanley Black & Decker President and CEO Donald Allan Jr. The session explored what it\u2019s like to lead a major manufacturing company in 2023. The discussion touched on supply chain, inflation, innovation, social responsibility and how today\u2019s corporate leaders can succeed while providing value to all stakeholders.\n\nThe Travelers Institute\u2019s webinar series explores pressing topics at the intersection of insurance, business and public policy. Learn more: https://travl.rs/3mQ3wRR.\n\nPresented by the Travelers Institute, the MetroHartford Alliance, the Master's in Financial Technology (FinTech) Program at the University of Connecticut School of Business, the Connecticut Business & Industry Association and the Insurance Association of Connecticut.\n\nView descriptive transcript: https://travl.rs/3nWnqLp\n\n0:00 \u2013 Welcome.\n8:24 \u2013 Create organizational change by valuing quality over quantity. \n15:33 \u2013 Allan on what makes a good leader:\n20:27 \u2013 Stretch by putting yourself in uncomfortable situations. \n23:20 \u2013 The challenge of running a global manufacturing company. \n53:51 \u2013 What\u2019s the CEO\u2019s favorite Stanley Black & Decker product?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Travelers",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lessons for Your Business Toolbox: Stanley Black & Decker President & CEO Donald Allan Jr.",
+            "description": "The Travelers Institute, the public policy division of Travelers, hosted a webinar with Stanley Black & Decker President and CEO Donald Allan Jr. The session explored what it\u2019s like to lead a major manufacturing company in 2023. The discussion touched on supply chain, inflation, innovation, social responsibility and how today\u2019s corporate leaders can succeed while providing value to all stakeholders.\n\nThe Travelers Institute\u2019s webinar series explores pressing topics at the intersection of insurance, business and public policy. Learn more: https://travl.rs/3mQ3wRR.\n\nPresented by the Travelers Institute, the MetroHartford Alliance, the Master's in Financial Technology (FinTech) Program at the University of Connecticut School of Business, the Connecticut Business & Industry Association and the Insurance Association of Connecticut.\n\nView descriptive transcript: https://travl.rs/3nWnqLp\n\n0:00 \u2013 Welcome.\n8:24 \u2013 Create organizational change by valuing quality over quantity. \n15:33 \u2013 Allan on what makes a good leader:\n20:27 \u2013 Stretch by putting yourself in uncomfortable situations. \n23:20 \u2013 The challenge of running a global manufacturing company. \n53:51 \u2013 What\u2019s the CEO\u2019s favorite Stanley Black & Decker product?"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H1M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1309",
+          "likeCount": "6",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qogDEmZLyV5k2xYtg6Knt2N-wQs",
+        "id": "liAmFXgWp3g",
+        "snippet": {
+          "publishedAt": "2023-02-05T20:49:29Z",
+          "channelId": "UCkY8XEhz6qiKFFrg0ujS33w",
+          "title": "5-2-23, OMAG/MT - CDA TALMASSONS: intervista post partita con Alessia Bolzonetti e Nikoleta Perovic",
+          "description": "5-2-23, OMAG/MT - CDA TALMASSONS: intervista post partita con Alessia Bolzonetti e Nikoleta Perovic",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/liAmFXgWp3g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Consolini Volley Femminile",
+          "tags": [
+            "consolini volley",
+            "omag",
+            "volley femminile a2"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "5-2-23, OMAG/MT - CDA TALMASSONS: intervista post partita con Alessia Bolzonetti e Nikoleta Perovic",
+            "description": "5-2-23, OMAG/MT - CDA TALMASSONS: intervista post partita con Alessia Bolzonetti e Nikoleta Perovic"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT2M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "121",
+          "likeCount": "3",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 13
+    }
+  }
+}

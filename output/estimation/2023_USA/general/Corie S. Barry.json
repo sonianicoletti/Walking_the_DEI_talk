@@ -1,0 +1,1228 @@
+{
+  "ceo": "Corie S. Barry",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "m7rdaJOsTiULiwnLO_bOrp2pd2o",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2mq7p4FjMivBtXzELdizdLI_a2I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BoLAVtj1nME"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-24T14:00:08Z",
+          "channelId": "UChDKyKQ59fYz3JO2fl0Z6sg",
+          "title": "Best Buy CEO on what to expect from the holiday shopping season",
+          "description": "From laptops to gaming consoles and more, Best Buy CEO Corie Barry talks to TODAY about hot holiday gifts to fit every budget ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TODAY",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-24T14:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d19Ay6J2IxRY7Ij-3TR0BjOQAxo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xxiSpry2lNk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T06:03:56Z",
+          "channelId": "UCHGBgY0WVs6a6JQ_d2z9SBw",
+          "title": "Fireside chat with Corie Barry and Neel Kashkari",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Minneapolis Fed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T06:03:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4gY8yknIeA8zwHMPAsPAGvb_dpA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KonwiIEq6Mo"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T09:13:09Z",
+          "channelId": "UCvs4odfOZa4iTdXFVB7PSww",
+          "title": "Interview &quot;Retours d&#39;exp\u00e9riences de retailers - Walmart U.S et NRF&quot;",
+          "description": "Interview \"Retours d'exp\u00e9riences de retailers - Walmart U.S et NRF\" pr\u00e9sent\u00e9 par : - Seth DALLAIRE, Executive Vice President ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NRF Retail's Big Show Europe",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T09:13:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ygUnTRA66872nmDgv1JvB77HhN0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BseDuNENljw"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T22:00:05Z",
+          "channelId": "UCxe4dSoeIftlEXuAk2xbs6g",
+          "title": "Best Buy Blames Taylor Swift for Decline in Sales | The RIOT",
+          "description": "Best Buy's CEO Corie Barry is blaming the recent decline in sales for their company is due to Taylor Swift's Eras Tour and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RadioU Mornings with Hudson & Aly ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T22:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tzHEPYOrOGR1dbrVaDIJEJJOlfk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Fy6PxNpG2Kw"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-08T00:22:06Z",
+          "channelId": "UC83A6TJrzFWUUOWwTHHHfAA",
+          "title": "it&#39;s so hard to say goodbye to the one that you love #jamaicafuneral #funeral",
+          "description": "For bookings WhatsApp 8765854554/8764585012 We do funerals, weddings and other events We also have a membership ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "THE LUMLEY'S FILM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-08T00:22:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P9A_oZy5mzFZ2kLBHR6mBYk2gsY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PqjprsTbZLw"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-26T15:00:23Z",
+          "channelId": "UCv0lORjEUB8SSG2Mup1_l3A",
+          "title": "Corey Haim\u2b50\ufe0fThe Lost Boys",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GrannyB1970",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-26T15:00:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m1iEdp9QBJqn2sdwEB9bdTrAufU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "P17HqEPy4PA"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-17T01:00:49Z",
+          "channelId": "UCl16xaNY2arX3OzZBvTlsPQ",
+          "title": "Corey Feldman is Hilariously Terrible!",
+          "description": "Corey Feldman's music career is pure hilarity!! Get NordVPN 2Y plan + 4 months free here \u27bc https://nordvpn.com/terreberry It's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Steve Terreberry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-17T01:00:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jP1XIOfh6UQgh47cqYyZEp_zEhA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "x4LRAVbRruk"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-18T14:00:27Z",
+          "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
+          "title": "SDM - Hier Encore | A COLORS MOMENT",
+          "description": "Revisit Parisian rapper @SDM92's powerful rendition of 'Hier Encore' from his 2022 A COLORS SHOW performance. Follow ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "COLORS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-18T14:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xRSSnUPZNZzXk6SwVsmrT5YTHl0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4SXrvfoJPV0"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-30T01:01:13Z",
+          "channelId": "UCdiyZVNvMSW67R4LIqbcyUA",
+          "title": "Mother  Exposed Family At Her Son\u2019s Funeral",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hanging with the Cromwells",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-30T01:01:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6ISnDWprkVkoNNtcnrTj06zARKU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FcpLqtSKQgs"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-11T20:01:56Z",
+          "channelId": "UCC_0vyFTKk1Nlodo4QsiQkw",
+          "title": "Mother Writes Book to Help Sons Grieve Father She Allegedly Murdered | Kouri Richins Case Analysis",
+          "description": "This video answers the question: Can I analyze case of Kouri Richins? Support Dr. Grande on Patreon: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dr. Todd Grande",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-11T20:01:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0JUMdMPw4mxupvYPNVg7-uU6_g4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nGPu5wYRTwE"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-16T15:22:32Z",
+          "channelId": "UCOK0fZAUx82plnLhTKZW6qg",
+          "title": "Kouri Richins EXPLOSIVE Bail Hearing: Google Searches &amp; Secret Emails | Kouri Richins Case Update",
+          "description": "Go to my sponsor https://aura.com/annie to get a 14 day free trial and see if your personal information has been leaked online .",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Annie Elise",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-16T15:22:32Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1DF-XNy7SRgXdiV1ynpuRf4oeB8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "BogZThqfBp6sSG7dtuE5gH7mm4I",
+        "id": "BoLAVtj1nME",
+        "snippet": {
+          "publishedAt": "2023-11-24T14:00:08Z",
+          "channelId": "UChDKyKQ59fYz3JO2fl0Z6sg",
+          "title": "Best Buy CEO on what to expect from the holiday shopping season",
+          "description": "From laptops to gaming consoles and more, Best Buy CEO Corie Barry talks to TODAY about hot holiday gifts to fit every budget \u2014 and how the store is now getting into the beauty space.\n\n\u00bb Subscribe to TODAY: http://on.today.com/SubscribeToTODAY\n\u00bb Watch the latest from TODAY: http://bit.ly/LatestTODAY\nAbout: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.\n\nConnect with TODAY Online!\nVisit TODAY's Website: http://on.today.com/ReadTODAY\nFind TODAY on Facebook: http://on.today.com/LikeTODAY\nFollow TODAY on Twitter: http://on.today.com/FollowTODAY\nFollow TODAY on Instagram: http://on.today.com/InstaTODAY\n\n\u00bb Stream TODAY All Day: https://www.today.com/allday\nAbout: TODAY All Day is a 24/7 streaming channel bringing you the top stories in news and pop culture, celebrity interviews, cooking, and more. All in one place.\n\n#bestbuy #shopping #technology",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BoLAVtj1nME/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TODAY",
+          "tags": [
+            "Al Roker",
+            "Entertainment",
+            "Food",
+            "Health",
+            "Hoda Kotb",
+            "Home",
+            "International News",
+            "Money",
+            "Natalie Morales",
+            "Savannah Gutherie",
+            "Sports",
+            "Style",
+            "Today",
+            "Today Show",
+            "breaking news",
+            "concerts",
+            "domestic news",
+            "interviews",
+            "media",
+            "parents",
+            "pets",
+            "politics",
+            "shopping",
+            "weather"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Best Buy CEO on what to expect from the holiday shopping season",
+            "description": "From laptops to gaming consoles and more, Best Buy CEO Corie Barry talks to TODAY about hot holiday gifts to fit every budget \u2014 and how the store is now getting into the beauty space.\n\n\u00bb Subscribe to TODAY: http://on.today.com/SubscribeToTODAY\n\u00bb Watch the latest from TODAY: http://bit.ly/LatestTODAY\nAbout: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.\n\nConnect with TODAY Online!\nVisit TODAY's Website: http://on.today.com/ReadTODAY\nFind TODAY on Facebook: http://on.today.com/LikeTODAY\nFollow TODAY on Twitter: http://on.today.com/FollowTODAY\nFollow TODAY on Instagram: http://on.today.com/InstaTODAY\n\n\u00bb Stream TODAY All Day: https://www.today.com/allday\nAbout: TODAY All Day is a 24/7 streaming channel bringing you the top stories in news and pop culture, celebrity interviews, cooking, and more. All in one place.\n\n#bestbuy #shopping #technology"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2750",
+          "likeCount": "33",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8liHKhs8HeRsdITyGgX9aQrl5MI",
+        "id": "xxiSpry2lNk",
+        "snippet": {
+          "publishedAt": "2023-09-23T06:03:56Z",
+          "channelId": "UCHGBgY0WVs6a6JQ_d2z9SBw",
+          "title": "Fireside chat with Corie Barry and Neel Kashkari",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Minneapolis Fed",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fireside chat with Corie Barry and Neel Kashkari",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT53M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1338",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zvRBWXlR17th7FqH0MwRIcMUbOA",
+        "id": "KonwiIEq6Mo",
+        "snippet": {
+          "publishedAt": "2023-11-01T09:13:09Z",
+          "channelId": "UCvs4odfOZa4iTdXFVB7PSww",
+          "title": "Interview \"Retours d'exp\u00e9riences de retailers - Walmart U.S et NRF\"",
+          "description": "Interview \"Retours d'exp\u00e9riences de retailers - Walmart U.S et NRF\" pr\u00e9sent\u00e9 par : \n- Seth DALLAIRE, Executive Vice President and Chief Revenue Officer, WALMART U.S\n- Matt SHAY, President and CEO, National Retail Federation\n\n\n\n\nReplay du 19 septembre 2023, 11h15, en salle de conf\u00e9rences.\n\n\nParis Retail Week, le rendez-vous majeur du commerce omnicanal, a accueilli 20 000 visiteurs et 370 exposants du 19 au 21 septembre 2023 \u00e0 Paris Expo Porte de Versailles, Pavillon 4. L'\u00e9v\u00e9nement s'est d\u00e9roul\u00e9 en m\u00eame temps que le salon Siec, le salon international des espaces commerciaux, formant ainsi le rendez-vous business N\u00b01 du commerce.\nRendez-vous du 17 au 19 septembre 2024 pour la prochaine \u00e9dition de Paris Retail Week.\n\n\n\ud83d\udd14 Abonnez-vous \u00e0 la chaine YouTube de Paris Retail Week !\n\n\nSuivez-nous sur : \n\n\n\ud83d\udc49 LinkedIn : https://www.linkedin.com/company/paris-retail-week/\n\ud83d\udc49 Twitter : https://twitter.com/PRWOfficial\n\ud83d\udc49 Instagram : https://www.instagram.com/parisretailweek/\n\ud83d\udc49 Facebook : https://www.facebook.com/ParisRetailWeek/\n\n\nEt pour plus d'informations, visitez notre site Internet : https://www.parisretailweek.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KonwiIEq6Mo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "NRF Retail's Big Show Europe",
+          "tags": [
+            "Paris Retail Week",
+            "Retail",
+            "Paris",
+            "2023",
+            "Salon",
+            "Event",
+            "Ev\u00e9nement",
+            "Show",
+            "Exhibition",
+            "Conf\u00e9rence",
+            "Conference",
+            "Keynote",
+            "Commerce",
+            "Commerce omnicanal",
+            "Omnichannel commerce",
+            "Matt Shay",
+            "Seth Dallaire",
+            "Walmart",
+            "NRF",
+            "National Retail Federation",
+            "Retailer"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Interview \"Retours d'exp\u00e9riences de retailers - Walmart U.S et NRF\"",
+            "description": "Interview \"Retours d'exp\u00e9riences de retailers - Walmart U.S et NRF\" pr\u00e9sent\u00e9 par : \n- Seth DALLAIRE, Executive Vice President and Chief Revenue Officer, WALMART U.S\n- Matt SHAY, President and CEO, National Retail Federation\n\n\n\n\nReplay du 19 septembre 2023, 11h15, en salle de conf\u00e9rences.\n\n\nParis Retail Week, le rendez-vous majeur du commerce omnicanal, a accueilli 20 000 visiteurs et 370 exposants du 19 au 21 septembre 2023 \u00e0 Paris Expo Porte de Versailles, Pavillon 4. L'\u00e9v\u00e9nement s'est d\u00e9roul\u00e9 en m\u00eame temps que le salon Siec, le salon international des espaces commerciaux, formant ainsi le rendez-vous business N\u00b01 du commerce.\nRendez-vous du 17 au 19 septembre 2024 pour la prochaine \u00e9dition de Paris Retail Week.\n\n\n\ud83d\udd14 Abonnez-vous \u00e0 la chaine YouTube de Paris Retail Week !\n\n\nSuivez-nous sur : \n\n\n\ud83d\udc49 LinkedIn : https://www.linkedin.com/company/paris-retail-week/\n\ud83d\udc49 Twitter : https://twitter.com/PRWOfficial\n\ud83d\udc49 Instagram : https://www.instagram.com/parisretailweek/\n\ud83d\udc49 Facebook : https://www.facebook.com/ParisRetailWeek/\n\n\nEt pour plus d'informations, visitez notre site Internet : https://www.parisretailweek.com/"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT34M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "115",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "blnercJhjPCclPIUqxhKtVxWKIY",
+        "id": "BseDuNENljw",
+        "snippet": {
+          "publishedAt": "2023-10-18T22:00:05Z",
+          "channelId": "UCxe4dSoeIftlEXuAk2xbs6g",
+          "title": "Best Buy Blames Taylor Swift for Decline in Sales | The RIOT",
+          "description": "Best Buy's CEO Corie Barry is blaming the recent decline in sales for their company is due to Taylor Swift's Eras Tour and everyone choosing to spend money on \"experiences\" rather than new tech. \n\nDownload RadioU App\nhttps://radiou.com/mobile-apps/\n\nFollow RadioU\nFacebook: https://www.facebook.com/RadioURiot\nInstagram: https://www.instagram.com/radiouofficial/\nTikTok: https://www.tiktok.com/@RadioUofficial\nTwitter: https://twitter.com/RadioU\nSpotify: https://open.spotify.com/user/radiouofficial\n\nMerch\nhttps://radiou.com/shop/\n\nRadioU TV\nhttps://radiou.com/tv/\n\nDonate\nhttps://radiou.com/donate",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BseDuNENljw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RadioU Mornings with Hudson & Aly ",
+          "tags": [
+            "RadioU",
+            "The RIOT",
+            "Columbus",
+            "Oklahoma City",
+            "Oklahoma",
+            "Ohio",
+            "Morning Show",
+            "Radio",
+            "Christian",
+            "Food Fight",
+            "Interview",
+            "Corie Barry",
+            "Best Buy",
+            "Taylor Swift",
+            "Taylor Swift Eras Tour",
+            "Corie Barry Taylor Swift",
+            "Best Buy Taylor Swift",
+            "Best Buy Eras tour",
+            "Funflation",
+            "Best Buy CEO",
+            "best buy video interview",
+            "corie barry best buy",
+            "taylor swift",
+            "swifties"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Best Buy Blames Taylor Swift for Decline in Sales | The RIOT",
+            "description": "Best Buy's CEO Corie Barry is blaming the recent decline in sales for their company is due to Taylor Swift's Eras Tour and everyone choosing to spend money on \"experiences\" rather than new tech. \n\nDownload RadioU App\nhttps://radiou.com/mobile-apps/\n\nFollow RadioU\nFacebook: https://www.facebook.com/RadioURiot\nInstagram: https://www.instagram.com/radiouofficial/\nTikTok: https://www.tiktok.com/@RadioUofficial\nTwitter: https://twitter.com/RadioU\nSpotify: https://open.spotify.com/user/radiouofficial\n\nMerch\nhttps://radiou.com/shop/\n\nRadioU TV\nhttps://radiou.com/tv/\n\nDonate\nhttps://radiou.com/donate"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "262",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xzpya-DKyB5lRAkhOfQsCFlxbY4",
+        "id": "Fy6PxNpG2Kw",
+        "snippet": {
+          "publishedAt": "2023-02-08T00:22:06Z",
+          "channelId": "UC83A6TJrzFWUUOWwTHHHfAA",
+          "title": "it's so hard to say goodbye to the one that you love #jamaicafuneral #funeral",
+          "description": "For bookings WhatsApp 8765854554/8764585012 \nWe do funerals, weddings and other events\n We also have a membership coming out soon when ever it comes out you guys can join and anyone who wants to donate to our channel you can cash app us at",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fy6PxNpG2Kw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "THE LUMLEY'S FILM",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "it's so hard to say goodbye to the one that you love #jamaicafuneral #funeral",
+            "description": "For bookings WhatsApp 8765854554/8764585012 \nWe do funerals, weddings and other events\n We also have a membership coming out soon when ever it comes out you guys can join and anyone who wants to donate to our channel you can cash app us at"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "18962647",
+          "likeCount": "189755",
+          "favoriteCount": "0",
+          "commentCount": "4033"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EsHFUsE1ZYv7j_QOM5mROk2TPbA",
+        "id": "PqjprsTbZLw",
+        "snippet": {
+          "publishedAt": "2023-09-26T15:00:23Z",
+          "channelId": "UCv0lORjEUB8SSG2Mup1_l3A",
+          "title": "Corey Haim\u2b50\ufe0fThe Lost Boys",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PqjprsTbZLw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GrannyB1970",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Corey Haim\u2b50\ufe0fThe Lost Boys",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "802",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "muM_Z-cZryMRfvWz-QinoA26KQ4",
+        "id": "P17HqEPy4PA",
+        "snippet": {
+          "publishedAt": "2023-12-17T01:00:49Z",
+          "channelId": "UCl16xaNY2arX3OzZBvTlsPQ",
+          "title": "Corey Feldman is Hilariously Terrible!",
+          "description": "Corey Feldman\u2019s music career is pure hilarity!! \ud83c\udf0f Get NordVPN 2Y plan + 4 months free here \u27bc https://nordvpn.com/terreberry It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee! \u270c\n\nSUBSCRIBE! - https://www.youtube.com/user/SteveTerreberry?sub_confirmation=1\n\n\nSTEVIE LINKS:\n\nStevie T MERCH - https://crowdmade.com/collections/steveterreberry\n\nPatreon - http://www.patreon.com/SteveTerreberry\n\nInstagram - https://www.instagram.com/steventerreberry/\n\nSpotify - https://goo.gl/jZ0STa\n\niTunes - https://goo.gl/Ky70iC\n\nFacebook - https://www.facebook.com/steveterreberry\n\n#StevieT #SteveTerreberry #CoreyFeldman",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P17HqEPy4PA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Steve Terreberry",
+          "tags": [
+            "Stevie T",
+            "Corey Feldman",
+            "Steve Terreberry",
+            "hilariously",
+            "terrible",
+            "hilarious",
+            "reaction",
+            "fail",
+            "worst",
+            "concert",
+            "reacting to",
+            "reacts",
+            "reacts to",
+            "bad",
+            "music",
+            "funny",
+            "cringe",
+            "live",
+            "performance",
+            "Riot Fest",
+            "guitar",
+            "guitarist",
+            "angry",
+            "Corri",
+            "Corrie",
+            "Cory",
+            "Corry",
+            "Corey",
+            "Feldman",
+            "musician",
+            "actor",
+            "dancing",
+            "lighting",
+            "microphone",
+            "hit",
+            "Smack",
+            "cringy"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Corey Feldman is Hilariously Terrible!",
+            "description": "Corey Feldman\u2019s music career is pure hilarity!! \ud83c\udf0f Get NordVPN 2Y plan + 4 months free here \u27bc https://nordvpn.com/terreberry It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee! \u270c\n\nSUBSCRIBE! - https://www.youtube.com/user/SteveTerreberry?sub_confirmation=1\n\n\nSTEVIE LINKS:\n\nStevie T MERCH - https://crowdmade.com/collections/steveterreberry\n\nPatreon - http://www.patreon.com/SteveTerreberry\n\nInstagram - https://www.instagram.com/steventerreberry/\n\nSpotify - https://goo.gl/jZ0STa\n\niTunes - https://goo.gl/Ky70iC\n\nFacebook - https://www.facebook.com/steveterreberry\n\n#StevieT #SteveTerreberry #CoreyFeldman"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "733710",
+          "likeCount": "27538",
+          "favoriteCount": "0",
+          "commentCount": "4087"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "u2PzfrEtsVWNTRsMfBFPVp31wT8",
+        "id": "x4LRAVbRruk",
+        "snippet": {
+          "publishedAt": "2023-01-18T14:00:27Z",
+          "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
+          "title": "SDM - Hier Encore | A COLORS MOMENT",
+          "description": "Revisit Parisian rapper @SDM92's powerful rendition of \u2018Hier Encore\u2019 from his 2022 A COLORS SHOW performance. \n\nFollow \n\u25b6 Stream: https://colors.lnk.to/allshowscxs\n\u25b6 Facebook: https://www.facebook.com/SDM92officiel\n\u25b6 Instagram: https://www.instagram.com/sdm__92/\n\u2014\n\nExperience our global 2026 event series of community, culture & live music in:\nMEXICO CITY \u2022 MADRID \u2022 NEW YORK \u2022 LONDON \u2022 PARIS \u2022 S\u0100O PAULO\nTickets + Updates: https://colorsxstudios.com/live \n\nExplore COLORSxSTUDIOS: \n\u25b6 https://www.youtube.com/playlist?list=PLWa4R2I19VH7Mtxo3VvqwnNlXgLpf4_d3  \n\u25b6 https://www.youtube.com/playlist?list=PLWa4R2I19VH6mND1HUBeHJN1NMzi6VAFR \n\u25b6 https://www.youtube.com/playlist?list=PLWa4R2I19VH7WEZgUsNUMPQRGLfiyIHJz \n\nCheck out our 1h+ mixes! https://www.youtube.com/@COLORS_MIXES \n\nWe are LIVE https://youtube.com/playlist?list=PLWa4R2I19VH4k-nSy3YT7dc4QpsmO3bEo&si=ZFC9y2KObRcvYCN7\n\nFollow COLORS:\n\u25b6On Socials: https://www.instagram.com/colorsxstudios https://www.tiktok.com/@colorsxstudios http://twitter.com/colorsxstudios \n\u25b6 On Spotify: https://colors.lnk.to/Spotify\n\u25b6 On Apple Music: https://colors.lnk.to/applemusic\n\u25b6 On the web: https://colorsxstudios.com\n\u25b6 Apparel Shop: https://colors.lnk.to/shopcxs \n\nCOLORS is a unique aesthetic music platform showcasing exceptional talent from all around the globe, focused on promoting the most distinctive new artists and original sounds. In the context of an increasingly fragmented and saturated scene we seek to provide clarity and calm, offering a minimalistic stage to shine a spotlight on the artists and give them the opportunity to present their music without distraction.\n\n#colors #sdm #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/x4LRAVbRruk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "COLORS",
+          "tags": [
+            "colorsstudios",
+            "colorsberlin",
+            "All Colors Shows",
+            "A COLORS SHOW",
+            "colors",
+            "colorsxstudios",
+            "live session",
+            "live performance",
+            "colours",
+            "studios",
+            "Music Video"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "SDM - Hier Encore | A COLORS MOMENT",
+            "description": "Revisit Parisian rapper @SDM92's powerful rendition of \u2018Hier Encore\u2019 from his 2022 A COLORS SHOW performance. \n\nFollow \n\u25b6 Stream: https://colors.lnk.to/allshowscxs\n\u25b6 Facebook: https://www.facebook.com/SDM92officiel\n\u25b6 Instagram: https://www.instagram.com/sdm__92/\n\u2014\n\nExperience our global 2026 event series of community, culture & live music in:\nMEXICO CITY \u2022 MADRID \u2022 NEW YORK \u2022 LONDON \u2022 PARIS \u2022 S\u0100O PAULO\nTickets + Updates: https://colorsxstudios.com/live \n\nExplore COLORSxSTUDIOS: \n\u25b6 https://www.youtube.com/playlist?list=PLWa4R2I19VH7Mtxo3VvqwnNlXgLpf4_d3  \n\u25b6 https://www.youtube.com/playlist?list=PLWa4R2I19VH6mND1HUBeHJN1NMzi6VAFR \n\u25b6 https://www.youtube.com/playlist?list=PLWa4R2I19VH7WEZgUsNUMPQRGLfiyIHJz \n\nCheck out our 1h+ mixes! https://www.youtube.com/@COLORS_MIXES \n\nWe are LIVE https://youtube.com/playlist?list=PLWa4R2I19VH4k-nSy3YT7dc4QpsmO3bEo&si=ZFC9y2KObRcvYCN7\n\nFollow COLORS:\n\u25b6On Socials: https://www.instagram.com/colorsxstudios https://www.tiktok.com/@colorsxstudios http://twitter.com/colorsxstudios \n\u25b6 On Spotify: https://colors.lnk.to/Spotify\n\u25b6 On Apple Music: https://colors.lnk.to/applemusic\n\u25b6 On the web: https://colorsxstudios.com\n\u25b6 Apparel Shop: https://colors.lnk.to/shopcxs \n\nCOLORS is a unique aesthetic music platform showcasing exceptional talent from all around the globe, focused on promoting the most distinctive new artists and original sounds. In the context of an increasingly fragmented and saturated scene we seek to provide clarity and calm, offering a minimalistic stage to shine a spotlight on the artists and give them the opportunity to present their music without distraction.\n\n#colors #sdm #shorts"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "140366",
+          "likeCount": "3947",
+          "favoriteCount": "0",
+          "commentCount": "38"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IQWUzwO1z5cS8lWuVSv3hZUrfkM",
+        "id": "4SXrvfoJPV0",
+        "snippet": {
+          "publishedAt": "2023-10-30T01:01:13Z",
+          "channelId": "UCdiyZVNvMSW67R4LIqbcyUA",
+          "title": "Mother  Exposed Family At Her Son\u2019s Funeral",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4SXrvfoJPV0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Hanging with the Cromwells",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mother  Exposed Family At Her Son\u2019s Funeral",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19M36S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2246483",
+          "likeCount": "20751",
+          "favoriteCount": "0",
+          "commentCount": "6516"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pdJcN1C92BsTY7FIvEE6VUNAWx8",
+        "id": "FcpLqtSKQgs",
+        "snippet": {
+          "publishedAt": "2023-05-11T20:01:56Z",
+          "channelId": "UCC_0vyFTKk1Nlodo4QsiQkw",
+          "title": "Mother Writes Book to Help Sons Grieve Father She Allegedly Murdered | Kouri Richins Case Analysis",
+          "description": "This video answers the question: Can I analyze case of Kouri Richins?\nSupport Dr. Grande on Patreon: https://www.patreon.com/drgrande\n\nSubscribe to the Bella Grande Media Podcast: https://www.youtube.com/channel/UCFhTghsZxD25yV24hrfkMPw\n\nDr. Grande\u2019s book Harm Reduction: \nhttps://www.amazon.com/Harm-Reduction-Todd-Grande-PhD/dp/1950057313\n\nDr. Grande's book Psychology of Notorious Serial Killers: https://www.amazon.com/Psychology-Notorious-Serial-Killers-Intersection/dp/1950057259\n\nCheck out Dr. Grande\u2019s merchandise at: https://teespring.com/stores/dr-grandes-store\n\nReferences:\n\nhttps://www.documentcloud.org/documents/23808108-kouri-richins-warrant\n\nhttps://www.dailymail.co.uk/news/article-12061621/Utah-author-book-grieving-death-charged-murder.html\n\nhttps://www.dailymail.co.uk/news/article-12068245/Utah-mom-charged-poisoning-husband-fentanyl-asked-drug-dealer-Michael-Jackson-stuff.html\n\nhttps://abcnews.go.com/US/woman-wrote-book-grief-husbands-death-accused-murder/story?id=99199204\n\nhttps://nypost.com/2023/05/10/utah-author-kouri-richins-tried-changing-life-insurance-docs/\n\nhttps://www.washingtonpost.com/nation/2023/05/09/kouri-richins-utah-author-murder-book/\n\nhttps://kutv.com/news/local/search-warrant-alleges-dead-utah-man-eric-richins-believed-his-wife-kouri-richins-had-tried-to-kill-him-fentanyl-overdose-lacing-drink-march-2022-will-life-insurance-beneficiary-changed\n\nhttps://people.com/crime/utah-mom-wrote-childrens-book-husband-death-now-accused-murder/\n\nhttps://www.nbcnews.com/news/us-news/utah-mom-wrote-kids-book-grief-charged-husbands-alleged-murder-rcna83520\n\nhttps://www.abc4.com/gtu/a-childrens-book-to-aid-in-coping-with-grief/amp/\n\nhttps://www.foxnews.com/us/utah-childrens-book-author-husband-sparred-cursed-mansion-before-alleged-murder",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FcpLqtSKQgs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dr. Todd Grande",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Mother Writes Book to Help Sons Grieve Father She Allegedly Murdered | Kouri Richins Case Analysis",
+            "description": "This video answers the question: Can I analyze case of Kouri Richins?\nSupport Dr. Grande on Patreon: https://www.patreon.com/drgrande\n\nSubscribe to the Bella Grande Media Podcast: https://www.youtube.com/channel/UCFhTghsZxD25yV24hrfkMPw\n\nDr. Grande\u2019s book Harm Reduction: \nhttps://www.amazon.com/Harm-Reduction-Todd-Grande-PhD/dp/1950057313\n\nDr. Grande's book Psychology of Notorious Serial Killers: https://www.amazon.com/Psychology-Notorious-Serial-Killers-Intersection/dp/1950057259\n\nCheck out Dr. Grande\u2019s merchandise at: https://teespring.com/stores/dr-grandes-store\n\nReferences:\n\nhttps://www.documentcloud.org/documents/23808108-kouri-richins-warrant\n\nhttps://www.dailymail.co.uk/news/article-12061621/Utah-author-book-grieving-death-charged-murder.html\n\nhttps://www.dailymail.co.uk/news/article-12068245/Utah-mom-charged-poisoning-husband-fentanyl-asked-drug-dealer-Michael-Jackson-stuff.html\n\nhttps://abcnews.go.com/US/woman-wrote-book-grief-husbands-death-accused-murder/story?id=99199204\n\nhttps://nypost.com/2023/05/10/utah-author-kouri-richins-tried-changing-life-insurance-docs/\n\nhttps://www.washingtonpost.com/nation/2023/05/09/kouri-richins-utah-author-murder-book/\n\nhttps://kutv.com/news/local/search-warrant-alleges-dead-utah-man-eric-richins-believed-his-wife-kouri-richins-had-tried-to-kill-him-fentanyl-overdose-lacing-drink-march-2022-will-life-insurance-beneficiary-changed\n\nhttps://people.com/crime/utah-mom-wrote-childrens-book-husband-death-now-accused-murder/\n\nhttps://www.nbcnews.com/news/us-news/utah-mom-wrote-kids-book-grief-charged-husbands-alleged-murder-rcna83520\n\nhttps://www.abc4.com/gtu/a-childrens-book-to-aid-in-coping-with-grief/amp/\n\nhttps://www.foxnews.com/us/utah-childrens-book-author-husband-sparred-cursed-mansion-before-alleged-murder"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "235383",
+          "likeCount": "10588",
+          "favoriteCount": "0",
+          "commentCount": "1790"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9OL-nwupXYoWQSciZjZVkjzOnVI",
+        "id": "nGPu5wYRTwE",
+        "snippet": {
+          "publishedAt": "2023-06-16T15:22:32Z",
+          "channelId": "UCOK0fZAUx82plnLhTKZW6qg",
+          "title": "Kouri Richins EXPLOSIVE Bail Hearing: Google Searches & Secret Emails | Kouri Richins Case Update",
+          "description": "Go to my sponsor https://aura.com/annie to get a 14 day free trial and see if your personal information has been leaked online\n.\nLink to previous video: https://youtu.be/YiuPPWazDnw\n.\nJoin the 10 to LIFE Community for Exclusive Content & Perks: https://www.patreon.com/annieelise\n.\nFor Business Inquiries: 10toLife@WMEAgency.com\n.\nAll things 10 to LIFE: https://annieelise.com/\n.\n10 to LIFE Merch: https://shop10tolife.com/\n.\nFollow me on Social:\nInstagram: https://www.instagram.com/_annieelise\nFacebook: https://www.facebook.com/10toLIFE\nTik Tok: https://www.tiktok.com/@_annieelise \n.\n*Sources used to collect this information include various public news sites, interviews, court documents, FB groups dedicated to the case, and various news channel segments. When quoting statements made by others, they are strictly alleged until confirmed otherwise. Please remember my videos are my independent opinion and to always do your own research. \n\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\n\nDisclaimer: The views and opinions expressed in this video are personal and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company. Assumptions made in the analysis are not reflective of the position of any entity other than the creator(s). These views are subject to change, revision, and rethinking at any time and are not to be held in perpetuity. We make no representations as to the accuracy, completeness, correctness, suitability, or validity of any information on this video and will not be liable for any errors, omissions, or delays in this information or any losses injuries, or damages arising from its display or use. All information is provided on an as-is basis. It is the reader\u2019s responsibility to verify their own facts.\n\nComments on this channel are the sole responsibility of their writers and as such the writers will take full responsibility, liability, and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment. Please feel free to challenge or disagree in the comments section \u2013 but 10 to LIFE reserves the right to delete any comment for any reason\u2013 so please keep it polite and relevant.\n\nKouri Richins EXPLOSIVE Bail Hearing: Google Searches & Secret Emails | Kouri Richins Case Update kouri richins, kouri richins update, kouri richins case, kouri richins trial, kouri richins author,  kouri richins bail hearing, kouri richins court, kouri richins story, kouri richins secret emails, kouri richins google search, kouri richins husband, kouri richins police interrogation, kouri richins hearing live, kouri richins case update, kouri richins hearing, 10 to life, annie elise 10 to life, true crime stories, kouri richins 10 to life, true crime youtubers,",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nGPu5wYRTwE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Annie Elise",
+          "tags": [
+            "kouri richins",
+            "kouri richins update",
+            "kouri richins case",
+            "kouri richins trial",
+            "kouri richins author",
+            "kouri richins bail hearing",
+            "kouri richins court",
+            "kouri richins story",
+            "kouri richins google search",
+            "kouri richins husband",
+            "kouri richins hearing live",
+            "kouri richins case update",
+            "kouri richins hearing",
+            "10 to life",
+            "annie elise 10 to life",
+            "true crime stories",
+            "kouri richins 10 to life",
+            "true crime youtubers",
+            "annie elise",
+            "kouri richins interrogation",
+            "10 to life with annie elise"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kouri Richins EXPLOSIVE Bail Hearing: Google Searches & Secret Emails | Kouri Richins Case Update",
+            "description": "Go to my sponsor https://aura.com/annie to get a 14 day free trial and see if your personal information has been leaked online\n.\nLink to previous video: https://youtu.be/YiuPPWazDnw\n.\nJoin the 10 to LIFE Community for Exclusive Content & Perks: https://www.patreon.com/annieelise\n.\nFor Business Inquiries: 10toLife@WMEAgency.com\n.\nAll things 10 to LIFE: https://annieelise.com/\n.\n10 to LIFE Merch: https://shop10tolife.com/\n.\nFollow me on Social:\nInstagram: https://www.instagram.com/_annieelise\nFacebook: https://www.facebook.com/10toLIFE\nTik Tok: https://www.tiktok.com/@_annieelise \n.\n*Sources used to collect this information include various public news sites, interviews, court documents, FB groups dedicated to the case, and various news channel segments. When quoting statements made by others, they are strictly alleged until confirmed otherwise. Please remember my videos are my independent opinion and to always do your own research. \n\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\n\nDisclaimer: The views and opinions expressed in this video are personal and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company. Assumptions made in the analysis are not reflective of the position of any entity other than the creator(s). These views are subject to change, revision, and rethinking at any time and are not to be held in perpetuity. We make no representations as to the accuracy, completeness, correctness, suitability, or validity of any information on this video and will not be liable for any errors, omissions, or delays in this information or any losses injuries, or damages arising from its display or use. All information is provided on an as-is basis. It is the reader\u2019s responsibility to verify their own facts.\n\nComments on this channel are the sole responsibility of their writers and as such the writers will take full responsibility, liability, and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment. Please feel free to challenge or disagree in the comments section \u2013 but 10 to LIFE reserves the right to delete any comment for any reason\u2013 so please keep it polite and relevant.\n\nKouri Richins EXPLOSIVE Bail Hearing: Google Searches & Secret Emails | Kouri Richins Case Update kouri richins, kouri richins update, kouri richins case, kouri richins trial, kouri richins author,  kouri richins bail hearing, kouri richins court, kouri richins story, kouri richins secret emails, kouri richins google search, kouri richins husband, kouri richins police interrogation, kouri richins hearing live, kouri richins case update, kouri richins hearing, 10 to life, annie elise 10 to life, true crime stories, kouri richins 10 to life, true crime youtubers,"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H13M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "485057",
+          "likeCount": "21144",
+          "favoriteCount": "0",
+          "commentCount": "2424"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

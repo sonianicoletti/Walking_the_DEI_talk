@@ -1,0 +1,783 @@
+{
+  "ceo": "Martin J. Schroeter",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "6zGtXsQ1whqoqZgHtxpqps4BAHk",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 10,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Vk_X2r9fibnHBJT1hIKFw6eF108",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "U1iN8QivVQE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-01T03:20:30Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "\u2018World largest startup\u2019: Kyndryl provides IT infrastructure services to 63 countries",
+          "description": "Kyndryl was spun out of the American multinational IBM less than two years ago and instantly became the world's largest provider ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-01T03:20:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WzFo_THOvv6hNjP6eep4IL9uOcQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6m3c16LBHyc"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-04T13:30:03Z",
+          "channelId": "UCt-ZcUYk-RJJr91HQz-f3vQ",
+          "title": "Tech layoffs: IBM spinoff Kyndryl eliminates marketing, admin, HR roles in India #ytshorts #shorts",
+          "description": "Tech layoffs: IBM spinoff Kyndryl eliminates marketing, admin, HR roles in India @crazycorporate #ibm #kyndryl #youtubeshorts ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Crazy corporate",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-04T13:30:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yZla3i5kbxsBjj_eZAVKkPb5yAs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BWdhFSz2TgM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-23T12:59:28Z",
+          "channelId": "UC4qhj5cnX0MkbwXQ5vlI1NQ",
+          "title": "Wegen Mordes: Lenkerin (18) bekommt lebensl\u00e4ngliche Haft | krone.tv NEWS",
+          "description": "Im Juli vergangenen Jahres fuhr die damals 17-j\u00e4hrige Mackenzie, ohne abzubremsen, mit 160 km/h gegen ein ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kronen Zeitung",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-23T12:59:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eIV8YL8_amA5bogwC6oq1AvzBPw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uKBq52bUgwY"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-25T10:00:46Z",
+          "channelId": "UClReEoZIOy7VJDcyKA6I_1Q",
+          "title": "Matthias Schriefl: Was ist authentische Musik? Jazz, Atari, KI und Emotionen | J.Griesbauer #6",
+          "description": "Der \"professionelle\" #jazz Trompeter Matthias Schriefl erz\u00e4hlt von seiner Selbstwahrnehmung als Amateur, der Geld mit seiner ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Prof Joe",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-25T10:00:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "82ORqbwwU1A2Ro1khf1t2w_W5u4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ghXXbyIPXQY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-20T14:10:46Z",
+          "channelId": "UCazxd_7W5s9BHY4kGKSz-VA",
+          "title": "Dominique Frot - Masterclass Larry Clark",
+          "description": "BIOGRAPHIE Apr\u00e8s une double formation, celle du Conservatoire National d'Art Dramatique de Paris et celle de l'\u00c9cole Normale ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dominique Frot actrice",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-20T14:10:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xgo4fjbeUxziwSRRmMkvzxonprA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tvf9LbBeFZ8"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-14T20:10:55Z",
+          "channelId": "UCuSdqsVRT3V0lw9FNulwt4A",
+          "title": "Weltfrauentag 2023: Eine Stadt steht auf f\u00fcr &quot;FRAU - LEBEN - FREIHEIT&quot;",
+          "description": "EINE STADT STEHT AUF F\u00dcR #fraulebenfreiheit am internationalen #weltfrauentag 2023. \u00dcber 1000 Menschen haben bei ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Literaturherbst Heidelberg",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-14T20:10:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0pN4seOLg4OAPiBhZiBifMpR4xM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G_vcVx4CME0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-09T11:16:20Z",
+          "channelId": "UC-qQ1TNcFK3DqD7jEK5D_jg",
+          "title": "09.06.2023 #Berlin Axel Springer S.E. ./. Julian #Reichelt Es geht zum 2 Millionen \u20ac #Arbeitsgericht",
+          "description": "Vor dem #Arbeitsgericht #Berlin ist die Herbeif\u00fchrung einer einvernehmlichen Erledigung des Rechtsstreits zwischen der Axel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Martin Lejeune",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-09T11:16:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "zbhmOPdXktBCK-w6yIMjNMfrvuA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "PvyD9jQGXw3UP-VdvfCixdcXYGw",
+        "id": "U1iN8QivVQE",
+        "snippet": {
+          "publishedAt": "2023-10-01T03:20:30Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "\u2018World largest startup\u2019: Kyndryl provides IT infrastructure services to 63 countries",
+          "description": "Kyndryl was spun out of the American multinational IBM less than two years ago and instantly became the world's largest provider of IT infrastructure services with about 85,000 employees.\n\nKyndryl CEO Martin Schroeter explains how Kyndryl has become the world's largest IT infrastructure provider in 63 countries around the world. \n\n\u201cWe are kind of a new brand; we were a spinout from IBM and what was spun out is, think of it as 85,000 people mostly engineers \u2026 who run the technology infrastructure that kind of runs the world,\u201d Mr Schroeter told Sky News Business Reporter Edward Boyd.\n\n\u201cWe run that infrastructure in about 63 countries, so in some ways we have 30-plus years of deep, deep experience in how these systems run and like I said we were a spin from IBM, not quite two years ago, so we\u2019re also a startup.\n\n\u201cSo we\u2019re like the world\u2019s largest startup running in technology.\u201d",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U1iN8QivVQE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "tags": [
+            "6338175741112",
+            "business",
+            "fb",
+            "global",
+            "msn",
+            "technology",
+            "yt"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\u2018World largest startup\u2019: Kyndryl provides IT infrastructure services to 63 countries",
+            "description": "Kyndryl was spun out of the American multinational IBM less than two years ago and instantly became the world's largest provider of IT infrastructure services with about 85,000 employees.\n\nKyndryl CEO Martin Schroeter explains how Kyndryl has become the world's largest IT infrastructure provider in 63 countries around the world. \n\n\u201cWe are kind of a new brand; we were a spinout from IBM and what was spun out is, think of it as 85,000 people mostly engineers \u2026 who run the technology infrastructure that kind of runs the world,\u201d Mr Schroeter told Sky News Business Reporter Edward Boyd.\n\n\u201cWe run that infrastructure in about 63 countries, so in some ways we have 30-plus years of deep, deep experience in how these systems run and like I said we were a spin from IBM, not quite two years ago, so we\u2019re also a startup.\n\n\u201cSo we\u2019re like the world\u2019s largest startup running in technology.\u201d"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT8M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5730",
+          "likeCount": "66",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vnW7fjZlmjSa0CyCW850P7LsZkw",
+        "id": "6m3c16LBHyc",
+        "snippet": {
+          "publishedAt": "2023-04-04T13:30:03Z",
+          "channelId": "UCt-ZcUYk-RJJr91HQz-f3vQ",
+          "title": "Tech layoffs: IBM spinoff Kyndryl eliminates marketing, admin, HR roles in India #ytshorts #shorts",
+          "description": "Tech layoffs: IBM spinoff Kyndryl eliminates marketing, admin, HR roles in India @crazycorporate #ibm #kyndryl #youtubeshorts #ytshorts #shorts #youtubeshort #ytshort #short #shortvideo #shortsvideo #shortsfeed #shortsyoutube #youtuber #youtubechannel #youtube #youtubeshort #corporatenews #latestnews #corporate #corporateevents #corporateattire #jobs #hiringnow #hiring #hiringimmediately #hiringtalent #viralshort #viral #trending #trendingshorts #businessnews #busniss #businessideas #businessowner #businesstips #businesscoach #software #softwarejobs #softwareengineer #softwaredeveloper #softwareengineering #javajobs #python #pythonjobs #programming #freshers #fresherjobs #ceo #ceosalary #ceovision #ceos #ceosdesk #ceostatus #ceosecrets #ceotalk #shares #market #stockmarket #share #sharestockmarket #layoff #layoffs #layoffs2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6m3c16LBHyc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Crazy corporate",
+          "tags": [
+            "Crazy corporate",
+            "Tech layoffs: IBM spinoff Kyndryl eliminates marketing",
+            "admin",
+            "HR roles in India",
+            "IBM",
+            "Layoff",
+            "Layoffs",
+            "Lay off",
+            "Lay offs"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tech layoffs: IBM spinoff Kyndryl eliminates marketing, admin, HR roles in India #ytshorts #shorts",
+            "description": "Tech layoffs: IBM spinoff Kyndryl eliminates marketing, admin, HR roles in India @crazycorporate #ibm #kyndryl #youtubeshorts #ytshorts #shorts #youtubeshort #ytshort #short #shortvideo #shortsvideo #shortsfeed #shortsyoutube #youtuber #youtubechannel #youtube #youtubeshort #corporatenews #latestnews #corporate #corporateevents #corporateattire #jobs #hiringnow #hiring #hiringimmediately #hiringtalent #viralshort #viral #trending #trendingshorts #businessnews #busniss #businessideas #businessowner #businesstips #businesscoach #software #softwarejobs #softwareengineer #softwaredeveloper #softwareengineering #javajobs #python #pythonjobs #programming #freshers #fresherjobs #ceo #ceosalary #ceovision #ceos #ceosdesk #ceostatus #ceosecrets #ceotalk #shares #market #stockmarket #share #sharestockmarket #layoff #layoffs #layoffs2023"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2793",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Va52coSu97I5Q3SrLIn_LNMdixw",
+        "id": "BWdhFSz2TgM",
+        "snippet": {
+          "publishedAt": "2023-08-23T12:59:28Z",
+          "channelId": "UC4qhj5cnX0MkbwXQ5vlI1NQ",
+          "title": "Wegen Mordes: Lenkerin (18) bekommt lebensl\u00e4ngliche Haft | krone.tv NEWS",
+          "description": "Im Juli vergangenen Jahres fuhr die damals 17-j\u00e4hrige Mackenzie, ohne abzubremsen, mit 160 km/h gegen ein Backsteingeb\u00e4ude. Bei dem Autounfall kamen ihr damaliger Freund Dominic Russo (20) sowie ein weiterer Freund, Davion Flanagan (19), ums Leben. Die Burschen waren auf der Stelle tot. Nur die Teenagerin \u00fcberlebte. Dass es gar kein Unfall war, kam bald heraus: Eine \u00dcberwachungskamera zeichnete auf, wie die Lenkerin kurz dem Aufprall sogar noch auf das Gaspedal trat und beschleunigte.  Alle drei Insassen standen unter dem Einfluss von Marihuana. Auch Magic Mushrooms seien im Auto entdeckt worden.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BWdhFSz2TgM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kronen Zeitung",
+          "tags": [
+            "kronen zeitung",
+            "krone.tv",
+            "krone",
+            "krone.at",
+            "nachrichten \u00f6sterreich",
+            "krone tv",
+            "news",
+            "news \u00f6sterreich",
+            "\u00f6sterreich nachrichten"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Wegen Mordes: Lenkerin (18) bekommt lebensl\u00e4ngliche Haft | krone.tv NEWS",
+            "description": "Im Juli vergangenen Jahres fuhr die damals 17-j\u00e4hrige Mackenzie, ohne abzubremsen, mit 160 km/h gegen ein Backsteingeb\u00e4ude. Bei dem Autounfall kamen ihr damaliger Freund Dominic Russo (20) sowie ein weiterer Freund, Davion Flanagan (19), ums Leben. Die Burschen waren auf der Stelle tot. Nur die Teenagerin \u00fcberlebte. Dass es gar kein Unfall war, kam bald heraus: Eine \u00dcberwachungskamera zeichnete auf, wie die Lenkerin kurz dem Aufprall sogar noch auf das Gaspedal trat und beschleunigte.  Alle drei Insassen standen unter dem Einfluss von Marihuana. Auch Magic Mushrooms seien im Auto entdeckt worden."
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT1M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7066552",
+          "likeCount": "17087",
+          "favoriteCount": "0",
+          "commentCount": "7405"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hTbRxkaVaxUNC1csdstFF_NQaPE",
+        "id": "uKBq52bUgwY",
+        "snippet": {
+          "publishedAt": "2023-01-25T10:00:46Z",
+          "channelId": "UClReEoZIOy7VJDcyKA6I_1Q",
+          "title": "Matthias Schriefl: Was ist authentische Musik? Jazz, Atari, KI und Emotionen | J.Griesbauer #6",
+          "description": "Der \"professionelle\" #jazz Trompeter Matthias Schriefl erz\u00e4hlt von seiner Selbstwahrnehmung als Amateur, der Geld mit seiner Musik verdient. Er diskutiert \u00fcber KI, #authentizit\u00e4t , #popmusik , #atari in der #musikproduktion , #emotionen , musikalischen Stuhlgang , musikalische Vorbilder,  #playback , State of the Art, seine Platten/CD-Sammlung und das was seiner Meinung f\u00fcr ihn selbst als junger #musiker wichtig gewesen w\u00e4re/ist.\n\nInstagram: https://www.instagram.com/dergriesbauer/\nTwitter: https://twitter.com/JosefGriesbauer\nLinkedIn: https://linkedin.com/in/josef-griesbauer-0729b7a8 \n\nOutline:\n0:00 - Einf\u00fchrung\n1:05 - Werdegang zum \"professionellen\" Amateurmusiker\n2:05 - Verteiltes Preisgeld\n5:15 - Gute #bandleader und was sie auszeichnet\n7:25 - Musikalischer Ausdruck und Kreativit\u00e4t gegen\u00fcber Anforderungen und Anspruch von Au\u00dfen\n9:10 - Ist #kreativit\u00e4t und Emotion k\u00fcnstlich durch und mit KI m\u00f6glich\n12:00 - Authentizit\u00e4t gegen\u00fcber Einsatz von Technik, Software und KI\n13:30 - Kann #ai Bach komponieren?\n15:00 - Ist Kreativit\u00e4t durch Zufall gepr\u00e4gt? Gibt es \"freien Willen\"?\n16:30 - Grundstimmung und Emotion transportiert durch Musik\n17:15 - Zw\u00e4nge und Leidenschaft als Musiker\n18:45 - Kann KI \"neue Musik\" machen?\n19:45 - Emotionen preisgegeben durch Musik\n20:15 - Sehlischer Stuhlgang in der Musik\n22:20 - Leidenschaft bewahren\n23:20 - \u00dcbungspensum als Profimusiker: \"T\u00e4gliche Hygiene\"\n24:50 - Vorbilder und verehrte K\u00fcnstler\n27:30 - Technische Hilfsmittel: Atari!? Score Perfect!?\n30:00 - Von Hand Schreiben ohne Technik\n32:25 - Vorstellung von Musik \"im Kopf\"\n34:00 - Vienna Sound Library als \"Big Band\"\n35:15 - Individueller Charakter VS Big Band Charakter\n36:15 - Finale oder KI zur Satzvervollst\u00e4ndigung\n39:30 - Alleinstellungsmerkmal Emotion gegen\u00fcber KI\n41:10 - Digitale Instrumente und Hilfsmittel\n42:15 - Pop gegen Rythmusvielfalt und Individualit\u00e4t\n44:45 - Anstrengung f\u00fcr #leidenschaft und Authentizit\u00e4t\n47:00 - Die pr\u00e4gende Plattensammlung und die geklaute Jazz-CD\n48:40 - Musikquellen heute\n51:00 - W\u00fcnsche an die musikalische Jugend: Rat an das vergangene, eigene, 11 j\u00e4hrige Ich\n\nLinks:\nhttps://www.griesbauer.org\nhttps://www.hs-kempten.de/elektrotechnik/fakultaet/personen-detailansicht/josef-griesbauer\nhttps://www.hs-kempten.de/\n@Bierosophen \n\nhttps://schriefl.eu/de\nhttps://de.wikipedia.org/wiki/Matthias_Schriefl\nhttps://www.instagram.com/matthiasschriefl/?hl=de\nhttps://open.spotify.com/artist/1VnrQl28LyObVYosKMSEIx\nhttps://www.actmusic.com/Kuenstler/Matthias-Schriefl/(presse)/20296\nhttps://www.sueddeutsche.de/muenchen/matthias-schriefl-gelaeut-album-kirchenglocken-trompete-1.5602072",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uKBq52bUgwY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Prof Joe",
+          "tags": [
+            "Automation",
+            "Podcast",
+            "Digitalisierung",
+            "Industrie 4.0",
+            "Gesellschaftswandel",
+            "Generation Z",
+            "Generationenkonflikt",
+            "KI",
+            "K\u00fcnstliche Intelligenz",
+            "AI",
+            "Autonom",
+            "SPS",
+            "PLC",
+            "Software",
+            "Arbeitslosigkeit",
+            "Automatisierung",
+            "Wertsch\u00f6pfung",
+            "Leben",
+            "Sinn des Lebens",
+            "Arbeitswert",
+            "Gesellschaft",
+            "Wandel",
+            "Mittelstand",
+            "Arbeitswelt",
+            "Arbeitszeiten",
+            "Arbeitszeit",
+            "Musik",
+            "Jazz",
+            "Schriefl",
+            "Six",
+            "Alps&Jazz",
+            "Stuhlgang",
+            "Popmusik",
+            "Emotionen",
+            "Trompete",
+            "Trompeter",
+            "musikalische Vorbilder",
+            "junge Musiker",
+            "Playback",
+            "\u00dcben",
+            "Komposition",
+            "Finale",
+            "Vienna",
+            "Musikproduktion",
+            "Atari"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Matthias Schriefl: Was ist authentische Musik? Jazz, Atari, KI und Emotionen | J.Griesbauer #6",
+            "description": "Der \"professionelle\" #jazz Trompeter Matthias Schriefl erz\u00e4hlt von seiner Selbstwahrnehmung als Amateur, der Geld mit seiner Musik verdient. Er diskutiert \u00fcber KI, #authentizit\u00e4t , #popmusik , #atari in der #musikproduktion , #emotionen , musikalischen Stuhlgang , musikalische Vorbilder,  #playback , State of the Art, seine Platten/CD-Sammlung und das was seiner Meinung f\u00fcr ihn selbst als junger #musiker wichtig gewesen w\u00e4re/ist.\n\nInstagram: https://www.instagram.com/dergriesbauer/\nTwitter: https://twitter.com/JosefGriesbauer\nLinkedIn: https://linkedin.com/in/josef-griesbauer-0729b7a8 \n\nOutline:\n0:00 - Einf\u00fchrung\n1:05 - Werdegang zum \"professionellen\" Amateurmusiker\n2:05 - Verteiltes Preisgeld\n5:15 - Gute #bandleader und was sie auszeichnet\n7:25 - Musikalischer Ausdruck und Kreativit\u00e4t gegen\u00fcber Anforderungen und Anspruch von Au\u00dfen\n9:10 - Ist #kreativit\u00e4t und Emotion k\u00fcnstlich durch und mit KI m\u00f6glich\n12:00 - Authentizit\u00e4t gegen\u00fcber Einsatz von Technik, Software und KI\n13:30 - Kann #ai Bach komponieren?\n15:00 - Ist Kreativit\u00e4t durch Zufall gepr\u00e4gt? Gibt es \"freien Willen\"?\n16:30 - Grundstimmung und Emotion transportiert durch Musik\n17:15 - Zw\u00e4nge und Leidenschaft als Musiker\n18:45 - Kann KI \"neue Musik\" machen?\n19:45 - Emotionen preisgegeben durch Musik\n20:15 - Sehlischer Stuhlgang in der Musik\n22:20 - Leidenschaft bewahren\n23:20 - \u00dcbungspensum als Profimusiker: \"T\u00e4gliche Hygiene\"\n24:50 - Vorbilder und verehrte K\u00fcnstler\n27:30 - Technische Hilfsmittel: Atari!? Score Perfect!?\n30:00 - Von Hand Schreiben ohne Technik\n32:25 - Vorstellung von Musik \"im Kopf\"\n34:00 - Vienna Sound Library als \"Big Band\"\n35:15 - Individueller Charakter VS Big Band Charakter\n36:15 - Finale oder KI zur Satzvervollst\u00e4ndigung\n39:30 - Alleinstellungsmerkmal Emotion gegen\u00fcber KI\n41:10 - Digitale Instrumente und Hilfsmittel\n42:15 - Pop gegen Rythmusvielfalt und Individualit\u00e4t\n44:45 - Anstrengung f\u00fcr #leidenschaft und Authentizit\u00e4t\n47:00 - Die pr\u00e4gende Plattensammlung und die geklaute Jazz-CD\n48:40 - Musikquellen heute\n51:00 - W\u00fcnsche an die musikalische Jugend: Rat an das vergangene, eigene, 11 j\u00e4hrige Ich\n\nLinks:\nhttps://www.griesbauer.org\nhttps://www.hs-kempten.de/elektrotechnik/fakultaet/personen-detailansicht/josef-griesbauer\nhttps://www.hs-kempten.de/\n@Bierosophen \n\nhttps://schriefl.eu/de\nhttps://de.wikipedia.org/wiki/Matthias_Schriefl\nhttps://www.instagram.com/matthiasschriefl/?hl=de\nhttps://open.spotify.com/artist/1VnrQl28LyObVYosKMSEIx\nhttps://www.actmusic.com/Kuenstler/Matthias-Schriefl/(presse)/20296\nhttps://www.sueddeutsche.de/muenchen/matthias-schriefl-gelaeut-album-kirchenglocken-trompete-1.5602072"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT52M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1592",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sLpg-1HZ1AvEAl34z-1UKFOX7pU",
+        "id": "ghXXbyIPXQY",
+        "snippet": {
+          "publishedAt": "2023-10-20T14:10:46Z",
+          "channelId": "UCazxd_7W5s9BHY4kGKSz-VA",
+          "title": "Dominique Frot - Masterclass Larry Clark",
+          "description": "BIOGRAPHIE\nApr\u00e8s une double formation, celle du Conservatoire National d\u2019Art Dramatique de Paris et celle de l\u2019\u00c9cole Normale Sup\u00e9rieure de Musique de Paris, Dominique Frot a travaill\u00e9 au th\u00e9\u00e2tre avec Gilles Dao, Luc Bondy, Peter Brook, Fran\u00e7ois Verret, Thomas Ostermeier, Claude R\u00e9gy, Robert Wilson, Serge Valletti, Pascal Rambert, Xavier Marchand, Jean-Claude Fall, Fran\u00e7ois Orsoni, Hubert Colas\u2026\nAu cin\u00e9ma elle a tourn\u00e9 avec Alexandre Bustillo et Julien Maury dans \u00c0 l\u2019int\u00e9rieur (2006), Laurent B\u00e9n\u00e9gui dans Qui perd gagne (2003), Bertrand Van Effenterre dans Tout pour l\u2019oseille (2003), Werner Schroeter dans Deux (2002 \u2013 \u00ab Quinzaine des r\u00e9alisateurs \u00bb, Festival de Cannes), Roland Joff\u00e9 dans Vatel (2000), C\u00e9dric Klapisch dans Peut-\u00eatre (1998), Romain Goupil dans \u00c0 mort la mort ! (1998 \u2013 \u00ab Quinzaine des r\u00e9alisateurs \u00bb, Festival de Cannes), Claude Chabrol dans La C\u00e9r\u00e9monie (1995), Didier Le P\u00eacheur dans J\u2019aimerais pas crever un dimanche (1995), Jean-Michel Carr\u00e9 dans Visiblement je vous aime (1994 \u2013 \u00ab Quinzaine des r\u00e9alisateurs \u00bb, Festival de Cannes), Manuel Poirier dans La petite amie d\u2019Antonio (1992), Robert Enrico dans Au nom de tous les miens (1985), G\u00e9rard Oury dans La Vengeance du serpent \u00e0 plumes (1984), Claude Miller dans Mortelle randonn\u00e9e (1983)\u2026\nElle a particip\u00e9 \u00e0 l\u2019aventure des Quiches, en tenant un r\u00f4le central dans Foon, le film que l\u2019\u00e9quipe r\u00e9alisa suite \u00e0 sa fructueuse collaboration avec Canal +.\nPlus r\u00e9cemment, elle appara\u00eet dans Le P\u00e8re de mes enfants (2008) r\u00e9alis\u00e9 par Mia Hansen-L\u00f8ve, sur un sc\u00e9nario inspir\u00e9 de la vie de Humbert Balsan, producteur fran\u00e7ais. Ce film obtient le Prix sp\u00e9cial du jury, section \u00ab Un Certain Regard \u00bb, au Festival de Cannes 2009, avant de sortir en France, en Allemagne et aux \u00c9tats-Unis.\nElle tourne \u00e9galement avec Brigitte Sy dans Les Mains libres (2009) et avec Gilles Paquet- Brenner dans Elle s\u2019appelait Sarah (sorti en France en octobre 2010, et en Europe et aux USA entre l\u2019automne 2010 et le printemps 2011).\n\nPour la t\u00e9l\u00e9vision, elle a tourn\u00e9 avec Laurent Heynemann dans Le Roi, L\u2019\u00e9cureuil et la couleuvre (2009), \u00c9ric Summer dans Profilage (s\u00e9rie polici\u00e8re, 2008), Bernard Stora dans Elles et moi (2007), Philippe Triboit dans La Commune (2007, sur un sc\u00e9nario d\u2019Abdel Raouf Dafri, auteur de Mesrine), Renaud Bertrand dans Sa raison d\u2019\u00eatre (2006)\u2026\nElle tourne actuellement dans SODA, s\u00e9rie t\u00e9l\u00e9 tr\u00e8s populaire (M6 / CALT production \u2013 Saison 2), o\u00f9 elle tient l\u2019un des r\u00f4les principaux.\n\nEn ALLEMAGNE, elle travaille durant trois ans \u00e0 Berlin, dans la troupe de la Schaub\u00fchne, sous la direction de Luc Bondy, puis Thomas Ostermeier \u2013 en langue allemande. Elle joue aussi sous la direction de Werner Schroeter.\n\nDominique Frot met en sc\u00e8ne et interpr\u00e8te de nombreux auteurs de la litt\u00e9rature contemporaine. En mars 2000, elle interpr\u00e8te La Fin de l\u2019amour de Christine Angot dans une mise en sc\u00e8ne d\u2019Hubert Colas, repris en 2001 dans une mise en sc\u00e8ne de Marie-Louise Bischofberger. En 2005, elle met en sc\u00e8ne Du H\u00e9risson d\u2019\u00c9ric Chevillard (\u00c9ditions de Minuit) \u00e0 la MC93 Bobigny. R\u00e9cemment, elle a mis en sc\u00e8ne des textes de Annah Arendt, Leslie Kaplan, \u00c9ric Chevillard \u00e0 nouveau, ainsi que Tohu (\u00e9ditions POL) de \u00c9ric Vuillard.\n\nElle contribue r\u00e9guli\u00e8rement au d\u00e9veloppement et aux productions d\u2019Actoral, festival des \u00e9critures contemporaines mis en place par Hubert Colas \u00e0 Montevideo (Marseille).\nDepuis plusieurs ann\u00e9es, elle fait acte de participer \u00e0 de nombreuses commissions de lectures. Ce sont par exemple les commissions du CNC, afin de pouvoir se tenir au courant des sujets qui cherchent \u00e0 na\u00eetre.\n\nElle participe \u00e9galement \u00e0 de nombreux jurys de festivals de cin\u00e9ma, ce qui lui permet d\u2019\u00eatre au fait des pr\u00e9occupations de la jeune g\u00e9n\u00e9ration de r\u00e9alisateurs.\n\nElle est membre de l\u2019Acad\u00e9mie des arts et techniques du cin\u00e9ma, et participe ainsi \u00e0 la s\u00e9lection les films nomin\u00e9s aux C\u00e9sars. Elle est \u00e9galement membre d\u2019Unifrance, ce qui lui permet d\u2019\u00eatre au fait de l\u2019\u00e9volution des attentions, int\u00e9r\u00eats et inqui\u00e9tudes des producteurs, r\u00e9alisateurs et acteurs.\n\nEn 2000, elle cr\u00e9\u00e9e sa propre compagnie, A. D. Frot d\u2019Hautes Choses, pour d\u00e9velopper ses propres projets, mais aussi pour aider et soutenir certaines productions, notamment celles impliquant des auteurs contemporains dont les \u00e9crits, pour \u00eatre entendus et reconnus, n\u00e9cessitent d\u2019\u00eatre jou\u00e9s sur une p\u00e9riode plus longue que ne le permet g\u00e9n\u00e9ralement le th\u00e9\u00e2tre subventionn\u00e9.\n\nCette activit\u00e9 la conduisit \u00e0 faire entendre des auteurs fran\u00e7ais \u00e0 l\u2019\u00e9tranger, notamment en Afrique, en Allemagne, au Japon, et aux USA, o\u00f9 elle participa au bon d\u00e9veloppement d\u2019un festival d\u2019\u00e9criture contemporaine, fran\u00e7aise et am\u00e9ricaine, initi\u00e9 par Yannick Mercoyrol ; dans ce contexte, elle dirigea des ateliers \u00e0 l\u2019universit\u00e9 de Chicago.\nLa suite https://dominiquefrot.com/biographie/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ghXXbyIPXQY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Dominique Frot actrice",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Dominique Frot - Masterclass Larry Clark",
+            "description": "BIOGRAPHIE\nApr\u00e8s une double formation, celle du Conservatoire National d\u2019Art Dramatique de Paris et celle de l\u2019\u00c9cole Normale Sup\u00e9rieure de Musique de Paris, Dominique Frot a travaill\u00e9 au th\u00e9\u00e2tre avec Gilles Dao, Luc Bondy, Peter Brook, Fran\u00e7ois Verret, Thomas Ostermeier, Claude R\u00e9gy, Robert Wilson, Serge Valletti, Pascal Rambert, Xavier Marchand, Jean-Claude Fall, Fran\u00e7ois Orsoni, Hubert Colas\u2026\nAu cin\u00e9ma elle a tourn\u00e9 avec Alexandre Bustillo et Julien Maury dans \u00c0 l\u2019int\u00e9rieur (2006), Laurent B\u00e9n\u00e9gui dans Qui perd gagne (2003), Bertrand Van Effenterre dans Tout pour l\u2019oseille (2003), Werner Schroeter dans Deux (2002 \u2013 \u00ab Quinzaine des r\u00e9alisateurs \u00bb, Festival de Cannes), Roland Joff\u00e9 dans Vatel (2000), C\u00e9dric Klapisch dans Peut-\u00eatre (1998), Romain Goupil dans \u00c0 mort la mort ! (1998 \u2013 \u00ab Quinzaine des r\u00e9alisateurs \u00bb, Festival de Cannes), Claude Chabrol dans La C\u00e9r\u00e9monie (1995), Didier Le P\u00eacheur dans J\u2019aimerais pas crever un dimanche (1995), Jean-Michel Carr\u00e9 dans Visiblement je vous aime (1994 \u2013 \u00ab Quinzaine des r\u00e9alisateurs \u00bb, Festival de Cannes), Manuel Poirier dans La petite amie d\u2019Antonio (1992), Robert Enrico dans Au nom de tous les miens (1985), G\u00e9rard Oury dans La Vengeance du serpent \u00e0 plumes (1984), Claude Miller dans Mortelle randonn\u00e9e (1983)\u2026\nElle a particip\u00e9 \u00e0 l\u2019aventure des Quiches, en tenant un r\u00f4le central dans Foon, le film que l\u2019\u00e9quipe r\u00e9alisa suite \u00e0 sa fructueuse collaboration avec Canal +.\nPlus r\u00e9cemment, elle appara\u00eet dans Le P\u00e8re de mes enfants (2008) r\u00e9alis\u00e9 par Mia Hansen-L\u00f8ve, sur un sc\u00e9nario inspir\u00e9 de la vie de Humbert Balsan, producteur fran\u00e7ais. Ce film obtient le Prix sp\u00e9cial du jury, section \u00ab Un Certain Regard \u00bb, au Festival de Cannes 2009, avant de sortir en France, en Allemagne et aux \u00c9tats-Unis.\nElle tourne \u00e9galement avec Brigitte Sy dans Les Mains libres (2009) et avec Gilles Paquet- Brenner dans Elle s\u2019appelait Sarah (sorti en France en octobre 2010, et en Europe et aux USA entre l\u2019automne 2010 et le printemps 2011).\n\nPour la t\u00e9l\u00e9vision, elle a tourn\u00e9 avec Laurent Heynemann dans Le Roi, L\u2019\u00e9cureuil et la couleuvre (2009), \u00c9ric Summer dans Profilage (s\u00e9rie polici\u00e8re, 2008), Bernard Stora dans Elles et moi (2007), Philippe Triboit dans La Commune (2007, sur un sc\u00e9nario d\u2019Abdel Raouf Dafri, auteur de Mesrine), Renaud Bertrand dans Sa raison d\u2019\u00eatre (2006)\u2026\nElle tourne actuellement dans SODA, s\u00e9rie t\u00e9l\u00e9 tr\u00e8s populaire (M6 / CALT production \u2013 Saison 2), o\u00f9 elle tient l\u2019un des r\u00f4les principaux.\n\nEn ALLEMAGNE, elle travaille durant trois ans \u00e0 Berlin, dans la troupe de la Schaub\u00fchne, sous la direction de Luc Bondy, puis Thomas Ostermeier \u2013 en langue allemande. Elle joue aussi sous la direction de Werner Schroeter.\n\nDominique Frot met en sc\u00e8ne et interpr\u00e8te de nombreux auteurs de la litt\u00e9rature contemporaine. En mars 2000, elle interpr\u00e8te La Fin de l\u2019amour de Christine Angot dans une mise en sc\u00e8ne d\u2019Hubert Colas, repris en 2001 dans une mise en sc\u00e8ne de Marie-Louise Bischofberger. En 2005, elle met en sc\u00e8ne Du H\u00e9risson d\u2019\u00c9ric Chevillard (\u00c9ditions de Minuit) \u00e0 la MC93 Bobigny. R\u00e9cemment, elle a mis en sc\u00e8ne des textes de Annah Arendt, Leslie Kaplan, \u00c9ric Chevillard \u00e0 nouveau, ainsi que Tohu (\u00e9ditions POL) de \u00c9ric Vuillard.\n\nElle contribue r\u00e9guli\u00e8rement au d\u00e9veloppement et aux productions d\u2019Actoral, festival des \u00e9critures contemporaines mis en place par Hubert Colas \u00e0 Montevideo (Marseille).\nDepuis plusieurs ann\u00e9es, elle fait acte de participer \u00e0 de nombreuses commissions de lectures. Ce sont par exemple les commissions du CNC, afin de pouvoir se tenir au courant des sujets qui cherchent \u00e0 na\u00eetre.\n\nElle participe \u00e9galement \u00e0 de nombreux jurys de festivals de cin\u00e9ma, ce qui lui permet d\u2019\u00eatre au fait des pr\u00e9occupations de la jeune g\u00e9n\u00e9ration de r\u00e9alisateurs.\n\nElle est membre de l\u2019Acad\u00e9mie des arts et techniques du cin\u00e9ma, et participe ainsi \u00e0 la s\u00e9lection les films nomin\u00e9s aux C\u00e9sars. Elle est \u00e9galement membre d\u2019Unifrance, ce qui lui permet d\u2019\u00eatre au fait de l\u2019\u00e9volution des attentions, int\u00e9r\u00eats et inqui\u00e9tudes des producteurs, r\u00e9alisateurs et acteurs.\n\nEn 2000, elle cr\u00e9\u00e9e sa propre compagnie, A. D. Frot d\u2019Hautes Choses, pour d\u00e9velopper ses propres projets, mais aussi pour aider et soutenir certaines productions, notamment celles impliquant des auteurs contemporains dont les \u00e9crits, pour \u00eatre entendus et reconnus, n\u00e9cessitent d\u2019\u00eatre jou\u00e9s sur une p\u00e9riode plus longue que ne le permet g\u00e9n\u00e9ralement le th\u00e9\u00e2tre subventionn\u00e9.\n\nCette activit\u00e9 la conduisit \u00e0 faire entendre des auteurs fran\u00e7ais \u00e0 l\u2019\u00e9tranger, notamment en Afrique, en Allemagne, au Japon, et aux USA, o\u00f9 elle participa au bon d\u00e9veloppement d\u2019un festival d\u2019\u00e9criture contemporaine, fran\u00e7aise et am\u00e9ricaine, initi\u00e9 par Yannick Mercoyrol ; dans ce contexte, elle dirigea des ateliers \u00e0 l\u2019universit\u00e9 de Chicago.\nLa suite https://dominiquefrot.com/biographie/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M44S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "53",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ny46tZuLaxMjOrKpmIG2ReL80-E",
+        "id": "Tvf9LbBeFZ8",
+        "snippet": {
+          "publishedAt": "2023-03-14T20:10:55Z",
+          "channelId": "UCuSdqsVRT3V0lw9FNulwt4A",
+          "title": "Weltfrauentag 2023: Eine Stadt steht auf f\u00fcr \"FRAU - LEBEN - FREIHEIT\"",
+          "description": "EINE STADT STEHT AUF F\u00dcR #fraulebenfreiheit am internationalen #weltfrauentag 2023. \u00dcber 1000 Menschen haben bei unserer Demonstration und Social Media-Kampagne f\u00fcr #JinJiyanAzadi f\u00fcr die historisch erste feministische #revolution im #iran und f\u00fcr Frauen und LGBTQIA+ weltweit ein Zeichen gesetzt! DANKE, HEIDELBERG! \ud83d\udc4f\ud83c\udf39 Diese \u00fcberw\u00e4ltigende Solidarit\u00e4t und viele Eindr\u00fccke haben wir als Video festgehalten. \n\"EINE STADT STEHT AUF F\u00dcR FRAUEN LEBEN FREIHEIT\" ist eine gemeinsame Initiative von Be Our Voice Rhein-Neckar, LiteraturHerbst Heidelberg und Frauen Leben Freiheit Rhein-Neckar.\nWir danken dem DAI Heidelberg, @TheaterOrchesterHD  und dem Karlstorbahnhof f\u00fcr das Hissen des Banners \"FRAU LEBEN FREIHEIT\" und f\u00fcr die Solidarit\u00e4t. Wir danken dem @NationaltheaterMA f\u00fcr das grandiose Solidarit\u00e4tsvideo, aus welchem wir auch hier nochmals Ausschnitte verwendet haben. Wir danken unseren Rednerinnen B\u00fcrgermeisterin Stefanie Jansen, Fadime Tuncer (Landtagsabgeordnete), Johannah Illgner, Anna Roth, Diane J. Pitzer, Berit Rall (Gr\u00fcne Jugend) und Melisa Gocuk (Jusos Heidelberg). Wir danken allen wunderbaren Frauen, die uns anl\u00e4sslich der Kundgebung den Satz \"Ich bin eine Frau\" in etlichen Weltsprachen geschickt haben! Wir danken dem Friedrich-Ebert-Haus Heidelberg und allen beteiligten Caf\u00e9s, Gesch\u00e4ften, Galerien und Buchhandlungen, darunter die B\u00fccherstube an der Tiefburg, die Buchhandlung \"WortReich\", dem Reisebuchladen und dem B\u00fcchergl\u00fcck. Wir danken dem Gloria-Filmkunsttheater. Wir danken den Autor:innen und K\u00fcnstler:innen u.a Stefan H\u00f6lscher, Claudia Schmid, Barbara Imgrund, Marion Tauschwitz und der @gedokheidelberge.v.4866 Stefanie Hanel, Berta Mart\u00edn DlParte, Marlene Bach, Philipp Herold, dem Dichterkollektiv Kamina, Sofie Morin, Dorina Marlen Heller, Olga Kovalenko, Adriana Carcu, Cholud Kassem, Nadja Madani-Moudarres, Petra Thiel vom Konfuzius-Institut an der Universit\u00e4t Heidelberg e. V. und Florian Kaiser vom wunderbaren @theatercarnivore217  f\u00fcr seine unglaubliche Unterst\u00fctzung, wir danken @spdheidelberg7870  @gruneheidelberg1771  Heidelberg in Bewegung (Herzensdank an Dianej und Alina), Fridays for Future, unz\u00e4hligen engagierten queeren Vereinen und Verb\u00e4nden, etlichen Hochschulgruppen\nund vielen, vielen mehr.\nHerzlichen Dank an Rita Weis f\u00fcr die fantastischen Fotos von unserer Kundgebung.\n\n#worldwomensday  #womanlifefreedom #zanzendegiazadi #femmevieliberte #kvinnalivfrihet #womenempowerment \n\nSchnitt: V. Haas",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Tvf9LbBeFZ8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Literaturherbst Heidelberg",
+          "tags": [
+            "Literaturherbst",
+            "Heidelberg",
+            "Weltfrauentag",
+            "Feminismus",
+            "Frau",
+            "Leben",
+            "Freiheit",
+            "Iran",
+            "Be our voice",
+            "Stefanie Jansen",
+            "Dianej Pitzer",
+            "Veronika Haas",
+            "Fadime Tuncer",
+            "Solidarit\u00e4t",
+            "Starke Frauen",
+            "woman",
+            "life",
+            "freedom",
+            "Emanzipation"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Weltfrauentag 2023: Eine Stadt steht auf f\u00fcr \"FRAU - LEBEN - FREIHEIT\"",
+            "description": "EINE STADT STEHT AUF F\u00dcR #fraulebenfreiheit am internationalen #weltfrauentag 2023. \u00dcber 1000 Menschen haben bei unserer Demonstration und Social Media-Kampagne f\u00fcr #JinJiyanAzadi f\u00fcr die historisch erste feministische #revolution im #iran und f\u00fcr Frauen und LGBTQIA+ weltweit ein Zeichen gesetzt! DANKE, HEIDELBERG! \ud83d\udc4f\ud83c\udf39 Diese \u00fcberw\u00e4ltigende Solidarit\u00e4t und viele Eindr\u00fccke haben wir als Video festgehalten. \n\"EINE STADT STEHT AUF F\u00dcR FRAUEN LEBEN FREIHEIT\" ist eine gemeinsame Initiative von Be Our Voice Rhein-Neckar, LiteraturHerbst Heidelberg und Frauen Leben Freiheit Rhein-Neckar.\nWir danken dem DAI Heidelberg, @TheaterOrchesterHD  und dem Karlstorbahnhof f\u00fcr das Hissen des Banners \"FRAU LEBEN FREIHEIT\" und f\u00fcr die Solidarit\u00e4t. Wir danken dem @NationaltheaterMA f\u00fcr das grandiose Solidarit\u00e4tsvideo, aus welchem wir auch hier nochmals Ausschnitte verwendet haben. Wir danken unseren Rednerinnen B\u00fcrgermeisterin Stefanie Jansen, Fadime Tuncer (Landtagsabgeordnete), Johannah Illgner, Anna Roth, Diane J. Pitzer, Berit Rall (Gr\u00fcne Jugend) und Melisa Gocuk (Jusos Heidelberg). Wir danken allen wunderbaren Frauen, die uns anl\u00e4sslich der Kundgebung den Satz \"Ich bin eine Frau\" in etlichen Weltsprachen geschickt haben! Wir danken dem Friedrich-Ebert-Haus Heidelberg und allen beteiligten Caf\u00e9s, Gesch\u00e4ften, Galerien und Buchhandlungen, darunter die B\u00fccherstube an der Tiefburg, die Buchhandlung \"WortReich\", dem Reisebuchladen und dem B\u00fcchergl\u00fcck. Wir danken dem Gloria-Filmkunsttheater. Wir danken den Autor:innen und K\u00fcnstler:innen u.a Stefan H\u00f6lscher, Claudia Schmid, Barbara Imgrund, Marion Tauschwitz und der @gedokheidelberge.v.4866 Stefanie Hanel, Berta Mart\u00edn DlParte, Marlene Bach, Philipp Herold, dem Dichterkollektiv Kamina, Sofie Morin, Dorina Marlen Heller, Olga Kovalenko, Adriana Carcu, Cholud Kassem, Nadja Madani-Moudarres, Petra Thiel vom Konfuzius-Institut an der Universit\u00e4t Heidelberg e. V. und Florian Kaiser vom wunderbaren @theatercarnivore217  f\u00fcr seine unglaubliche Unterst\u00fctzung, wir danken @spdheidelberg7870  @gruneheidelberg1771  Heidelberg in Bewegung (Herzensdank an Dianej und Alina), Fridays for Future, unz\u00e4hligen engagierten queeren Vereinen und Verb\u00e4nden, etlichen Hochschulgruppen\nund vielen, vielen mehr.\nHerzlichen Dank an Rita Weis f\u00fcr die fantastischen Fotos von unserer Kundgebung.\n\n#worldwomensday  #womanlifefreedom #zanzendegiazadi #femmevieliberte #kvinnalivfrihet #womenempowerment \n\nSchnitt: V. Haas"
+          },
+          "defaultAudioLanguage": "de-DE"
+        },
+        "contentDetails": {
+          "duration": "PT4M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5848",
+          "likeCount": "41",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NUUFCMGDmeIew4Zzwiw4_pyB3EI",
+        "id": "G_vcVx4CME0",
+        "snippet": {
+          "publishedAt": "2023-06-09T11:16:20Z",
+          "channelId": "UC-qQ1TNcFK3DqD7jEK5D_jg",
+          "title": "09.06.2023 #Berlin Axel Springer S.E. ./. Julian #Reichelt Es geht zum 2 Millionen \u20ac #Arbeitsgericht",
+          "description": "Vor dem #Arbeitsgericht #Berlin ist die Herbeif\u00fchrung einer einvernehmlichen Erledigung des Rechtsstreits zwischen der Axel Springer S.E. und Julian #Reichelt gescheitert. In der G\u00fcteverhandlung ging es unter anderem um mutma\u00dflich \"vertrauliche\" Kommunikation mit einer Mitarbeiterin der Axel Springer SE, die Julian Reichelt am 15.04.2023 an Holger #Friedrich, den Verleger der Berliner Zeitung, weiterleitete. \nEs ging um die Frage, ob Johanna Gerber, einst Axel Springer Akademie (Stammredaktion #Bild/B.Z.) \"sex on demand\" mit Julian Reichelt gehabt habe.\nUnd es ging vor der Vorsitzenden Richterin am Arbeitsgericht Anke Weyreuther darum, ob der Wechsel von Ralf #Schuler, Ex-Leiter der Parlamentsredaktion von #BILD, von der Axel #Springer SE zur Rome Medien GmbH das Abwerbeverbot im Abwicklungsvertrag von Julian #Reichelt verletzte. Die Ansichten gingen weit auseinander und waren letztlich unvers\u00f6hnlich. Springer zahlte #Reichelt eine Abfindungssumme in H\u00f6he von zwei Millionen Euro. F\u00fcr den 15.11.2023 ist die Anberaumung eines Kammertermins angedacht. (Az. LAG 1270/1 E-10-2023/7 Se & 56 Ca 4513/23).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/G_vcVx4CME0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Martin Lejeune",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de-DE",
+          "localized": {
+            "title": "09.06.2023 #Berlin Axel Springer S.E. ./. Julian #Reichelt Es geht zum 2 Millionen \u20ac #Arbeitsgericht",
+            "description": "Vor dem #Arbeitsgericht #Berlin ist die Herbeif\u00fchrung einer einvernehmlichen Erledigung des Rechtsstreits zwischen der Axel Springer S.E. und Julian #Reichelt gescheitert. In der G\u00fcteverhandlung ging es unter anderem um mutma\u00dflich \"vertrauliche\" Kommunikation mit einer Mitarbeiterin der Axel Springer SE, die Julian Reichelt am 15.04.2023 an Holger #Friedrich, den Verleger der Berliner Zeitung, weiterleitete. \nEs ging um die Frage, ob Johanna Gerber, einst Axel Springer Akademie (Stammredaktion #Bild/B.Z.) \"sex on demand\" mit Julian Reichelt gehabt habe.\nUnd es ging vor der Vorsitzenden Richterin am Arbeitsgericht Anke Weyreuther darum, ob der Wechsel von Ralf #Schuler, Ex-Leiter der Parlamentsredaktion von #BILD, von der Axel #Springer SE zur Rome Medien GmbH das Abwerbeverbot im Abwicklungsvertrag von Julian #Reichelt verletzte. Die Ansichten gingen weit auseinander und waren letztlich unvers\u00f6hnlich. Springer zahlte #Reichelt eine Abfindungssumme in H\u00f6he von zwei Millionen Euro. F\u00fcr den 15.11.2023 ist die Anberaumung eines Kammertermins angedacht. (Az. LAG 1270/1 E-10-2023/7 Se & 56 Ca 4513/23)."
+          },
+          "defaultAudioLanguage": "de-DE"
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1369",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

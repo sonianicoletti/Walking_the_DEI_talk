@@ -1,0 +1,537 @@
+{
+  "ceo": "Rick Dreiling",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "T07-5bdUybKKWkbEPTz7Jf18YlQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sTkupBkKgoWiaexA-HMdxl5Yeu0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2bKE4y-8vuw"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-26T14:13:34Z",
+          "channelId": "UCa3JtW8FjDb9KOakvwktj5g",
+          "title": "Tales from Dollar Tree Hell | A Manager speaks",
+          "description": "DollarTree #retail #podcast Tonight \u201cBlank Stares\u201d joins us to discuss the hell of working for Dollar Tree Intro: 00:00-02:01 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Retail Warzone",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-26T14:13:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "34v2ELmqDafZtNvGUZp36WHaKu4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c25z82ApjOk"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-09T13:59:54Z",
+          "channelId": "UCrc71nYhu7lUK9k1upfSeUQ",
+          "title": "Cherneka Johnson vs. Ellie Scotney - Weigh-in Face-Off - (Matchroom Boxing: Edwards vs. Campos)",
+          "description": "https://reddit.com/r/WMMA.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ReactQ 2",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-09T13:59:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_xAx-S-wG11s-Y0a2Y-uVyv6IeU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Jq1SpZL9Yxo"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-26T02:00:19Z",
+          "channelId": "UCWV45AWu-79FEONlz0t-asA",
+          "title": "Investor Nightmare: Dollar Tree Stock Tumbles after Earnings",
+          "description": "dltrstocknews #dltrstockanalysis #dltrstocktoday Dollar Tree suffered another earnings miss on Wednesday, and the stock fell as a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stockology Insider",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-26T02:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ld4Je62E2NegLBAg7P56b8TtZ2g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eDPb5O4MMws"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T00:58:39Z",
+          "channelId": "UCPy2si8qhCVG_QOkJZnJPDA",
+          "title": "Tennessee Coach Tony Vitello Talks Blowout Win Over Lipscomb",
+          "description": "Tennessee head coach Tony Vitello talks the Vols' blowout win over Lipscomb.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rocky Top Insider",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T00:58:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8Kwysbrb_JNHe8khwFSmkXnqHXo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cFRBfG614kM"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-18T23:06:22Z",
+          "channelId": "UCPy2si8qhCVG_QOkJZnJPDA",
+          "title": "Uros Plavsic: Tennessee-Duke Postgame | Talks Advancing to Sweet 16, Serbian Flag",
+          "description": "Tennessee center Uros Plavsic speaks to the media in the Tennessee locker room after defeating No. 5 Duke in the Round of 32 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cFRBfG614kM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cFRBfG614kM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cFRBfG614kM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rocky Top Insider",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-18T23:06:22Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "eVIxVdDPxFEOH_bKwXrnZi7ZEP4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "owkepktWgBdGhWVHG9OahoNz33k",
+        "id": "2bKE4y-8vuw",
+        "snippet": {
+          "publishedAt": "2023-01-26T14:13:34Z",
+          "channelId": "UCa3JtW8FjDb9KOakvwktj5g",
+          "title": "Tales from Dollar Tree Hell | A Manager speaks",
+          "description": "#DollarTree #retail #podcast\r\n\r\nTonight \u201cBlank Stares\u201d joins us to discuss the hell of working for Dollar Tree\r\n\nIntro: 00:00-02:01\nHeadlines(Dollar Tree Edition): 02:01-04:32\nSponsor: 04:32-04:54\nDollar Tree Manager: 04:54-52:19\nQuestion of the Week(Dollar Store Edition): 52:19-57:00\nClosing/Thanks for Watching: 57:00-1:05:00\n\r\nOur Sponsor: The Serving Times https://theservingtimes.wordpress.com/\r\n\r\n\ufe0f \u201cPlease Don\u2019t Be a Karen This Year\u201d \u2013 https://youtu.be/n4QrKqw9mGU\r\n\r\nTonight\u2019s Headlines:\r\nhttps://www.retaildive.com/news/dollar-tree-names-former-dollar-general-exec-rick-dreiling-ceo/641059/\r\nhttps://www.10tv.com/article/news/local/family-and-friends-honor-dollar-tree-employee-killed-in-machete-attack/530-bfc9299c-c6f8-4383-a365-312e2fc3bc0b\r\nhttps://www.kens5.com/article/news/community/dollar-tree-noise-machine-homeless-san-antonio/273-4273133f-9a7c-49a8-b351-8e0cfbdc9df7\r\nhttps://www.wesh.com/article/dollar-tree-armed-robbery-daytona-beach/42595403\r\nhttps://thetandd.com/news/local/crime-and-courts/report-1-700-taken-following-card-game-at-orangeburg-dollar-tree/article_587e982d-6be2-563d-9d15-7889a49150d1.html\r\nhttps://weartv.com/news/local/santa-rosa-county-sheriffs-office-responds-to-gulf-breeze-dollar-tree-incident\r\nhttps://www.elpasotimes.com/story/news/crime/2022/04/17/el-paso-robbery-punches-dollar-tree-store-crime-week/7351022001/\r\nhttps://www.nbc29.com/2022/12/08/police-4-shot-dollar-tree-new-orleans/\r\nhttps://douglasnow.com/index.php/news/item/10901-former-dollar-tree-manager-arrested-for-allegedly-stealing-over-31-000\r\nhttps://www.osha.gov/news/newsreleases/region5/12012022\r\nhttps://www.osha.gov/news/newsreleases/region5/08012022\r\n\r\n\r\nWe all know how frustrating working in the retail/grocery and service industry can be. From low wages to ridiculous job expectations we are here to shine a light on the horrors that exist after you punch the clock.\r\n\r\n//Recommended videos:\r\n\ufe0f The Traits of a Toxic Boss \u2013 https://youtu.be/pasMOQFVxM8\r\n\ufe0f Justice for Evan | The organizers speak \u2013 https://youtu.be/LDyXD5OmAGI\r\n\ufe0f An Evening with Senator Jeff Brandes of Florida \u2013 https://youtu.be/r7acO4wozEc\r\n\ufe0f Mental Health in Retail | Why your stories matter \u2013 https://youtu.be/c2iWxR1pNHE\r\n\r\n\r\n//Let\u2019s Connect:\r\n All of our links in one place: https://linktr.ee/TheRetailWarzone\r\n Twitter: https://twitter.com/GenerationVoid\r\n Facebook: https://www.facebook.com/TheRetailWarzone\r\n Instagram: https://www.instagram.com/theretailwarzone/\r\n Twitch: https://www.twitch.tv/theretailwarzone\r\n Email: thegenerationvoid@gmail.com\r\n\r\n//About Us:\r\nOur main goal here is to be a voice for the underappreciated and oftentimes abused retail worker. We are a community of retail veterans and have a true grasp of what the daily abuses each of you suffer at the hands of overbearing management and customers. This is more than just a Youtube channel for us, this is meant to be a community that we want to grow into a juggernaut that maybe could help institute some change. Needless to say, we are glad you are here!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2bKE4y-8vuw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Retail Warzone",
+          "tags": [
+            "dollar general",
+            "customer service",
+            "dollar tree",
+            "family dollar",
+            "reddit"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tales from Dollar Tree Hell | A Manager speaks",
+            "description": "#DollarTree #retail #podcast\r\n\r\nTonight \u201cBlank Stares\u201d joins us to discuss the hell of working for Dollar Tree\r\n\nIntro: 00:00-02:01\nHeadlines(Dollar Tree Edition): 02:01-04:32\nSponsor: 04:32-04:54\nDollar Tree Manager: 04:54-52:19\nQuestion of the Week(Dollar Store Edition): 52:19-57:00\nClosing/Thanks for Watching: 57:00-1:05:00\n\r\nOur Sponsor: The Serving Times https://theservingtimes.wordpress.com/\r\n\r\n\ufe0f \u201cPlease Don\u2019t Be a Karen This Year\u201d \u2013 https://youtu.be/n4QrKqw9mGU\r\n\r\nTonight\u2019s Headlines:\r\nhttps://www.retaildive.com/news/dollar-tree-names-former-dollar-general-exec-rick-dreiling-ceo/641059/\r\nhttps://www.10tv.com/article/news/local/family-and-friends-honor-dollar-tree-employee-killed-in-machete-attack/530-bfc9299c-c6f8-4383-a365-312e2fc3bc0b\r\nhttps://www.kens5.com/article/news/community/dollar-tree-noise-machine-homeless-san-antonio/273-4273133f-9a7c-49a8-b351-8e0cfbdc9df7\r\nhttps://www.wesh.com/article/dollar-tree-armed-robbery-daytona-beach/42595403\r\nhttps://thetandd.com/news/local/crime-and-courts/report-1-700-taken-following-card-game-at-orangeburg-dollar-tree/article_587e982d-6be2-563d-9d15-7889a49150d1.html\r\nhttps://weartv.com/news/local/santa-rosa-county-sheriffs-office-responds-to-gulf-breeze-dollar-tree-incident\r\nhttps://www.elpasotimes.com/story/news/crime/2022/04/17/el-paso-robbery-punches-dollar-tree-store-crime-week/7351022001/\r\nhttps://www.nbc29.com/2022/12/08/police-4-shot-dollar-tree-new-orleans/\r\nhttps://douglasnow.com/index.php/news/item/10901-former-dollar-tree-manager-arrested-for-allegedly-stealing-over-31-000\r\nhttps://www.osha.gov/news/newsreleases/region5/12012022\r\nhttps://www.osha.gov/news/newsreleases/region5/08012022\r\n\r\n\r\nWe all know how frustrating working in the retail/grocery and service industry can be. From low wages to ridiculous job expectations we are here to shine a light on the horrors that exist after you punch the clock.\r\n\r\n//Recommended videos:\r\n\ufe0f The Traits of a Toxic Boss \u2013 https://youtu.be/pasMOQFVxM8\r\n\ufe0f Justice for Evan | The organizers speak \u2013 https://youtu.be/LDyXD5OmAGI\r\n\ufe0f An Evening with Senator Jeff Brandes of Florida \u2013 https://youtu.be/r7acO4wozEc\r\n\ufe0f Mental Health in Retail | Why your stories matter \u2013 https://youtu.be/c2iWxR1pNHE\r\n\r\n\r\n//Let\u2019s Connect:\r\n All of our links in one place: https://linktr.ee/TheRetailWarzone\r\n Twitter: https://twitter.com/GenerationVoid\r\n Facebook: https://www.facebook.com/TheRetailWarzone\r\n Instagram: https://www.instagram.com/theretailwarzone/\r\n Twitch: https://www.twitch.tv/theretailwarzone\r\n Email: thegenerationvoid@gmail.com\r\n\r\n//About Us:\r\nOur main goal here is to be a voice for the underappreciated and oftentimes abused retail worker. We are a community of retail veterans and have a true grasp of what the daily abuses each of you suffer at the hands of overbearing management and customers. This is more than just a Youtube channel for us, this is meant to be a community that we want to grow into a juggernaut that maybe could help institute some change. Needless to say, we are glad you are here!"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H5M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1234",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TRz0uKXI_LOnIuLKvmMz95SzNdg",
+        "id": "c25z82ApjOk",
+        "snippet": {
+          "publishedAt": "2023-06-09T13:59:54Z",
+          "channelId": "UCrc71nYhu7lUK9k1upfSeUQ",
+          "title": "Cherneka Johnson vs. Ellie Scotney - Weigh-in Face-Off - (Matchroom Boxing: Edwards vs. Campos)",
+          "description": "https://reddit.com/r/WMMA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c25z82ApjOk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ReactQ 2",
+          "tags": [
+            "wmma",
+            "/r/WMMA",
+            "mma",
+            "womens mixed martial arts",
+            "female",
+            "fighter",
+            "girl",
+            "reddit.com/r/WMMA",
+            "wmma.reddit.com",
+            "ufc",
+            "boxing",
+            "sugar neeks",
+            "sugar neekz"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cherneka Johnson vs. Ellie Scotney - Weigh-in Face-Off - (Matchroom Boxing: Edwards vs. Campos)",
+            "description": "https://reddit.com/r/WMMA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "119926940",
+          "likeCount": "1707019",
+          "favoriteCount": "0",
+          "commentCount": "26325"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PaZg6AV0zzb8inxDeIR9MBv0Eos",
+        "id": "Jq1SpZL9Yxo",
+        "snippet": {
+          "publishedAt": "2023-08-26T02:00:19Z",
+          "channelId": "UCWV45AWu-79FEONlz0t-asA",
+          "title": "Investor Nightmare: Dollar Tree Stock Tumbles after Earnings",
+          "description": "#dltrstocknews #dltrstockanalysis #dltrstocktoday\n\nDollar Tree suffered another earnings miss on Wednesday, and the stock fell as a result.  Dollar Tree (DLTR) announced Thursday that it is fighting shoplifting, or \"shrink\" as the industry calls it.\n\nOn Thursday, the discount retailer's stock fell more than 12% after reporting a weaker-than-expected projection and lower gross margins due to a customer shift toward consumables and \"elevated shrink.\"\n\nThe company's current quarter gross margins of 29.2% fell 220 basis points from last year and fell short of consensus projections of 29.7%. Dollar Tree's quarterly profit of $0.91 per share topped $0.87 forecasts. The business expected to earn $0.94-$1.09 per share in the third quarter, behind Wall Street's $1.29.\n\nDollar Tree's bottom line is also hurting as customers spend more on lower-margin perishables. \"You see across the retail landscape, people are moving more into consumables and we're not immune,\" Davis said. \"We are now taking a very defensive approach to shrink,\" Dollar Tree CEO Rick Dreiling said on the earnings call. \"I don't mind reaching more realistic margins.\"",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Jq1SpZL9Yxo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stockology Insider",
+          "tags": [
+            "dollartree stock today",
+            "dollartree stock analysis",
+            "dollarstree stock update",
+            "dollartree stock news",
+            "dollartree stock price",
+            "dltr stock analysis",
+            "dollar tree stock analysis",
+            "dltr stock price",
+            "dollartree stock technical analysis",
+            "dltr stock update",
+            "dltr technical analysis",
+            "dltr stock today",
+            "dlrt stock news",
+            "dltr stock price today",
+            "dollar tree stock",
+            "dltr stock news",
+            "dollar tree stock price",
+            "dollar tree stock up",
+            "dollar tree analysis",
+            "dollar tree earnings"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Investor Nightmare: Dollar Tree Stock Tumbles after Earnings",
+            "description": "#dltrstocknews #dltrstockanalysis #dltrstocktoday\n\nDollar Tree suffered another earnings miss on Wednesday, and the stock fell as a result.  Dollar Tree (DLTR) announced Thursday that it is fighting shoplifting, or \"shrink\" as the industry calls it.\n\nOn Thursday, the discount retailer's stock fell more than 12% after reporting a weaker-than-expected projection and lower gross margins due to a customer shift toward consumables and \"elevated shrink.\"\n\nThe company's current quarter gross margins of 29.2% fell 220 basis points from last year and fell short of consensus projections of 29.7%. Dollar Tree's quarterly profit of $0.91 per share topped $0.87 forecasts. The business expected to earn $0.94-$1.09 per share in the third quarter, behind Wall Street's $1.29.\n\nDollar Tree's bottom line is also hurting as customers spend more on lower-margin perishables. \"You see across the retail landscape, people are moving more into consumables and we're not immune,\" Davis said. \"We are now taking a very defensive approach to shrink,\" Dollar Tree CEO Rick Dreiling said on the earnings call. \"I don't mind reaching more realistic margins.\""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT6M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "28",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QVT7ETK4y3VizN_lOrL67hF-Hxw",
+        "id": "eDPb5O4MMws",
+        "snippet": {
+          "publishedAt": "2023-03-15T00:58:39Z",
+          "channelId": "UCPy2si8qhCVG_QOkJZnJPDA",
+          "title": "Tennessee Coach Tony Vitello Talks Blowout Win Over Lipscomb",
+          "description": "Tennessee head coach Tony Vitello talks the Vols\u2019 blowout win over Lipscomb.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eDPb5O4MMws/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rocky Top Insider",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tennessee Coach Tony Vitello Talks Blowout Win Over Lipscomb",
+            "description": "Tennessee head coach Tony Vitello talks the Vols\u2019 blowout win over Lipscomb."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "463",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kL9HlH2UuA50jLnnE6lzIpmHah0",
+        "id": "cFRBfG614kM",
+        "snippet": {
+          "publishedAt": "2023-03-18T23:06:22Z",
+          "channelId": "UCPy2si8qhCVG_QOkJZnJPDA",
+          "title": "Uros Plavsic: Tennessee-Duke Postgame | Talks Advancing to Sweet 16, Serbian Flag",
+          "description": "Tennessee center Uros Plavsic speaks to the media in the Tennessee locker room after defeating No. 5 Duke in the Round of 32 #MarchMadness \n- - -\nStay connected to Rocky Top Insider for ALL of your Tennessee Sports news, content, and coverage:\nOnline: www.RockyTopInsider.com\nTwitter: @RockyTopInsider \nInstagram: @RockyTopInsider\nTikTok & YouTube: @RockyTopInsider \nFacebook: Rocky Top Insider\nApple Podcasts/Spotify/Amazon: RTI Press Pass\nRTI Writers: @Ric_Butler, @RSchump00, & @JackFosterMedia on Twitter",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cFRBfG614kM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cFRBfG614kM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cFRBfG614kM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rocky Top Insider",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Uros Plavsic: Tennessee-Duke Postgame | Talks Advancing to Sweet 16, Serbian Flag",
+            "description": "Tennessee center Uros Plavsic speaks to the media in the Tennessee locker room after defeating No. 5 Duke in the Round of 32 #MarchMadness \n- - -\nStay connected to Rocky Top Insider for ALL of your Tennessee Sports news, content, and coverage:\nOnline: www.RockyTopInsider.com\nTwitter: @RockyTopInsider \nInstagram: @RockyTopInsider\nTikTok & YouTube: @RockyTopInsider \nFacebook: Rocky Top Insider\nApple Podcasts/Spotify/Amazon: RTI Press Pass\nRTI Writers: @Ric_Butler, @RSchump00, & @JackFosterMedia on Twitter"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1605",
+          "likeCount": "37",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

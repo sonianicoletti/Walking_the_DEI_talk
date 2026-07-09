@@ -1,0 +1,625 @@
+{
+  "ceo": "Mark Lashier",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cucQ_LS1vkbd-pwQ6vBrECEnQ2k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tAqOU5neb9WO3-KUxc7Y_bSj6rQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iI-qlvRa7Wg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T20:52:56Z",
+          "channelId": "UCFKujJLyzuoUhrF5JlH78Dg",
+          "title": "Facing the Energy Future: A Conversation with Phillips 66 CEO Mark Lashier",
+          "description": "Oct. 11, 2023 Join us for a lunchtime discussion with Mark Lashier, president and CEO of Phillips 66. While key players from ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BakerInstitute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T20:52:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6DsAIk6aKH9tgrOf9IYUeJqWJao",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MdH9ZlYoTcY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-17T17:49:42Z",
+          "channelId": "UCFKujJLyzuoUhrF5JlH78Dg",
+          "title": "Chaos in Energy Markets Then and Now: 50 Years After the 1973 Arab Oil Embargo",
+          "description": "Oct. 17, 2023 The 1973 oil embargo took hold after Arab OPEC members, angered by U.S. support for Israel in its war with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BakerInstitute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-17T17:49:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yt-RiV5uWY_3CoPCD2yF7mp8iNY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "osYpMoq2_7M"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-01T13:11:05Z",
+          "channelId": "UCRHMhVXEsPtTQ60dkxg8VXw",
+          "title": "Making Operations More Intelligent at Chevron Phillips Chemical",
+          "description": "Chevron Phillips Chemical needed to evaluate operations across the company to determine where value could be created.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Capgemini",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-01T13:11:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n-tVur5a0yJTk2dMom_KuPAxXKI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "F-_bpXLD2Qw"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-29T16:00:08Z",
+          "channelId": "UCg7lal8IC-xPyKfgH4rdUcA",
+          "title": "Neil deGrasse Tyson on Why He Wasn&#39;t Accepted to Harvard PhD Program after Graduating There (Part 5)",
+          "description": "Part 6: https://youtu.be/cy7oztRmKn0 Part 4: https://youtu.be/P3k5F9uAqdg Part 1: https://youtu.be/Y3vNqhTpXxM -------- In this clip ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "djvlad",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-29T16:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gM3uuoZcEm6AhTL5h4erCFO_afk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9zb6ad4k9aI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-06T16:00:06Z",
+          "channelId": "UCGvIBxqin_rx3sY9qacQEhQ",
+          "title": "Aldi Employees Hate This Hack",
+          "description": "Odds are, if you try pulling something over on a grocery store cashier, they're going to notice. Sometimes, instead of trying to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mashed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-06T16:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j4OMoWwFeV3zFQj5OaNpqlZ253w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1aHbd3Maalw"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-24T18:39:39Z",
+          "channelId": "UC78sgkSUuxXaUez7NTl43bQ",
+          "title": "A Strong Culture For A Carbon Neutral Future | With Dave Burritt",
+          "description": "On this week's episode of The Leader Show on Newsweek, we are joined by Dave Burritt, the CEO of US Steel, who delves into ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Most Loved Workplaces\u00ae",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-24T18:39:39Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Dep0FUNDAw2NXgAL8KDK23VIipU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "wLQKEeBdEhaqUbNvMXhW7rrgTIg",
+        "id": "iI-qlvRa7Wg",
+        "snippet": {
+          "publishedAt": "2023-10-18T20:52:56Z",
+          "channelId": "UCFKujJLyzuoUhrF5JlH78Dg",
+          "title": "Facing the Energy Future: A Conversation with Phillips 66 CEO Mark Lashier",
+          "description": "Oct. 11, 2023\n\nJoin us for a lunchtime discussion with Mark Lashier, president and CEO of Phillips 66. While key players from government, industry and citizenry are collaborating to shape the energy transition, the world needs secure, reliable and affordable energy today. Fossil fuels provide over 80% of the world's energy and will play an important role, albeit in lower-carbon forms, for years to come.\n\nLashier will share his inside views on the energy future and what it means for Phillips 66\u2019s business and workforce strategy. There has never been a more exciting time to carve a career in the energy industry and make an impact. He\u2019ll detail how bright, innovative minds can come together to find solutions for secure, reliable energy while pursuing a lower-carbon future.\n\nMark Lashier is president and CEO of Phillips 66, a diversified energy company. A chemical engineer, he has over 30 years of experience in various executive leadership roles within the energy and petrochemical industries. Lashier served as chief operating officer of Phillips 66 from April 2021 through June 2022. Before that, he was president and CEO of Chevron Phillips Chemical Company LLC (CPChem), a joint venture between Phillips 66 and Chevron, from 2017 to 2021. He previously held several leadership positions at CPChem. Lashier began his career at Phillips Petroleum in 1989 as an Associate Research Engineer.\n\nHe serves on the boards of several industry groups and nonprofits, including American Fuel and Petrochemical Manufacturers, the Greater Houston Partnership, Iowa State University\u2019s College of Engineering Industrial Advisory Council, Junior Achievement of Southeast Texas and the American Cancer Society\u2019s CEOs Against Cancer. He also serves on the executive committee of American Petroleum Institute and is a member of the Business Roundtable, the Business Council, and the National Petroleum Council.\n\nLashier received a Bachelor of Science and a doctorate in chemical engineering from Iowa State University. He holds 13 U.S. patents.\n\nModerator\n\nEdward M. Emmett\nFellow in Energy and Transportation Policy\n\nFollow the Baker Institute on social media\nTwitter \u25ba\u25ba https://twitter.com/BakerInstitute\nFacebook \u25ba\u25ba https://www.facebook.com/BakerInstitute\nLinkedIn \u25ba\u25ba https://bit.ly/LinkedIn-BakerInstitute\n \nAbout the Baker Institute\nThe Baker Institute is a nonpartisan public policy institute at Rice University. Ranked the No. 1 university-based think tank in the world, its mission is to bridge the world of ideas and the world of action. Visit our website to learn more: https://www.bakerinstitute.org/.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BakerInstitute",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Facing the Energy Future: A Conversation with Phillips 66 CEO Mark Lashier",
+            "description": "Oct. 11, 2023\n\nJoin us for a lunchtime discussion with Mark Lashier, president and CEO of Phillips 66. While key players from government, industry and citizenry are collaborating to shape the energy transition, the world needs secure, reliable and affordable energy today. Fossil fuels provide over 80% of the world's energy and will play an important role, albeit in lower-carbon forms, for years to come.\n\nLashier will share his inside views on the energy future and what it means for Phillips 66\u2019s business and workforce strategy. There has never been a more exciting time to carve a career in the energy industry and make an impact. He\u2019ll detail how bright, innovative minds can come together to find solutions for secure, reliable energy while pursuing a lower-carbon future.\n\nMark Lashier is president and CEO of Phillips 66, a diversified energy company. A chemical engineer, he has over 30 years of experience in various executive leadership roles within the energy and petrochemical industries. Lashier served as chief operating officer of Phillips 66 from April 2021 through June 2022. Before that, he was president and CEO of Chevron Phillips Chemical Company LLC (CPChem), a joint venture between Phillips 66 and Chevron, from 2017 to 2021. He previously held several leadership positions at CPChem. Lashier began his career at Phillips Petroleum in 1989 as an Associate Research Engineer.\n\nHe serves on the boards of several industry groups and nonprofits, including American Fuel and Petrochemical Manufacturers, the Greater Houston Partnership, Iowa State University\u2019s College of Engineering Industrial Advisory Council, Junior Achievement of Southeast Texas and the American Cancer Society\u2019s CEOs Against Cancer. He also serves on the executive committee of American Petroleum Institute and is a member of the Business Roundtable, the Business Council, and the National Petroleum Council.\n\nLashier received a Bachelor of Science and a doctorate in chemical engineering from Iowa State University. He holds 13 U.S. patents.\n\nModerator\n\nEdward M. Emmett\nFellow in Energy and Transportation Policy\n\nFollow the Baker Institute on social media\nTwitter \u25ba\u25ba https://twitter.com/BakerInstitute\nFacebook \u25ba\u25ba https://www.facebook.com/BakerInstitute\nLinkedIn \u25ba\u25ba https://bit.ly/LinkedIn-BakerInstitute\n \nAbout the Baker Institute\nThe Baker Institute is a nonpartisan public policy institute at Rice University. Ranked the No. 1 university-based think tank in the world, its mission is to bridge the world of ideas and the world of action. Visit our website to learn more: https://www.bakerinstitute.org/."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "338",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AIFSAhhuahuhD-XagRHjCN5dHro",
+        "id": "MdH9ZlYoTcY",
+        "snippet": {
+          "publishedAt": "2023-10-17T17:49:42Z",
+          "channelId": "UCFKujJLyzuoUhrF5JlH78Dg",
+          "title": "Chaos in Energy Markets Then and Now: 50 Years After the 1973 Arab Oil Embargo",
+          "description": "Oct. 17, 2023\n\nThe 1973 oil embargo took hold after Arab OPEC members, angered by U.S. support for Israel in its war with neighboring states, cut exports to the U.S. and other countries. Crude oil prices quadrupled, and the world saw massive changes in the economy, geopolitics and public policy \u2014 including a shift in the control of global oil production from Western companies to governments in the Middle East and elsewhere.\n\nFifty years later, the embargo\u2019s legacy includes vehicle fuel efficiency standards, and greater interests in domestically produced energy, drilling in deep waters and Alaska, nuclear energy, liquefied natural gas, and renewable energy. And today, energy is again in the headlines, with global energy crises triggered by Russia\u2019s invasion of Ukraine and the risks presented by climate change.\n\nHosted on Oct. 17 at Baker Hall, this conference featured remarks from His Royal Highness Prince Turki Al Faisal Al Saud, former ambassador of Saudi Arabia to the U.S., and the Honorable James A. Baker, III, Baker Institute honorary chair and former secretary of state, along with other former policymakers, industry leaders and academics. Together, they examined the lessons learned from the embargo and their renewed relevance for today\u2019s energy crises \u2014 for countries, policymakers, companies and the public.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MdH9ZlYoTcY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BakerInstitute",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chaos in Energy Markets Then and Now: 50 Years After the 1973 Arab Oil Embargo",
+            "description": "Oct. 17, 2023\n\nThe 1973 oil embargo took hold after Arab OPEC members, angered by U.S. support for Israel in its war with neighboring states, cut exports to the U.S. and other countries. Crude oil prices quadrupled, and the world saw massive changes in the economy, geopolitics and public policy \u2014 including a shift in the control of global oil production from Western companies to governments in the Middle East and elsewhere.\n\nFifty years later, the embargo\u2019s legacy includes vehicle fuel efficiency standards, and greater interests in domestically produced energy, drilling in deep waters and Alaska, nuclear energy, liquefied natural gas, and renewable energy. And today, energy is again in the headlines, with global energy crises triggered by Russia\u2019s invasion of Ukraine and the risks presented by climate change.\n\nHosted on Oct. 17 at Baker Hall, this conference featured remarks from His Royal Highness Prince Turki Al Faisal Al Saud, former ambassador of Saudi Arabia to the U.S., and the Honorable James A. Baker, III, Baker Institute honorary chair and former secretary of state, along with other former policymakers, industry leaders and academics. Together, they examined the lessons learned from the embargo and their renewed relevance for today\u2019s energy crises \u2014 for countries, policymakers, companies and the public."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3H31M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5628",
+          "likeCount": "96",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iwH8lX_rlz8Ooqe6WzT5f_YGNI0",
+        "id": "osYpMoq2_7M",
+        "snippet": {
+          "publishedAt": "2023-03-01T13:11:05Z",
+          "channelId": "UCRHMhVXEsPtTQ60dkxg8VXw",
+          "title": "Making Operations More Intelligent at Chevron Phillips Chemical",
+          "description": "Chevron Phillips Chemical needed to evaluate operations across the company to determine where value could be created. CPChem chose to work with Capgemini to deliver on the tools for digital transformation, designing and building a modern data and AI platform on Microsoft Azure to allow scaling of operational AI. Jason Gislason, Chief Digital Officer, explains how CPChem took advantage of Capgemini\u2019s intelligent operations investments in machine learning and optimization to find value quickly.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/osYpMoq2_7M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Capgemini",
+          "tags": [
+            "Digital Transformation",
+            "Intelligent Operations"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Making Operations More Intelligent at Chevron Phillips Chemical",
+            "description": "Chevron Phillips Chemical needed to evaluate operations across the company to determine where value could be created. CPChem chose to work with Capgemini to deliver on the tools for digital transformation, designing and building a modern data and AI platform on Microsoft Azure to allow scaling of operational AI. Jason Gislason, Chief Digital Officer, explains how CPChem took advantage of Capgemini\u2019s intelligent operations investments in machine learning and optimization to find value quickly."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1224",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4N583nq3VWiuvOCTCadgm-1jzAU",
+        "id": "F-_bpXLD2Qw",
+        "snippet": {
+          "publishedAt": "2023-04-29T16:00:08Z",
+          "channelId": "UCg7lal8IC-xPyKfgH4rdUcA",
+          "title": "Neil deGrasse Tyson on Why He Wasn't Accepted to Harvard PhD Program after Graduating There (Part 5)",
+          "description": "Part 6: https://youtu.be/cy7oztRmKn0\nPart 4: https://youtu.be/P3k5F9uAqdg\nPart 1: https://youtu.be/Y3vNqhTpXxM\n--------\nIn this clip, Vlad started off asking Neil deGrasse Tyson about graduating from Harvard with a physics degree, and deciding to go to University of Texas at Austin for graduate school. Neil explained that he met his wife at the school while she was getting her PhD in Mathematical Physics. From there, Neil spoke about transferring graduate programs and going to University of Columbia, where he got his PhD.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F-_bpXLD2Qw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "djvlad",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Neil deGrasse Tyson on Why He Wasn't Accepted to Harvard PhD Program after Graduating There (Part 5)",
+            "description": "Part 6: https://youtu.be/cy7oztRmKn0\nPart 4: https://youtu.be/P3k5F9uAqdg\nPart 1: https://youtu.be/Y3vNqhTpXxM\n--------\nIn this clip, Vlad started off asking Neil deGrasse Tyson about graduating from Harvard with a physics degree, and deciding to go to University of Texas at Austin for graduate school. Neil explained that he met his wife at the school while she was getting her PhD in Mathematical Physics. From there, Neil spoke about transferring graduate programs and going to University of Columbia, where he got his PhD."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "95614",
+          "likeCount": "1343",
+          "favoriteCount": "0",
+          "commentCount": "215"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "csrGEINFywBmGTIEOkVlBZkBFmc",
+        "id": "9zb6ad4k9aI",
+        "snippet": {
+          "publishedAt": "2023-06-06T16:00:06Z",
+          "channelId": "UCGvIBxqin_rx3sY9qacQEhQ",
+          "title": "Aldi Employees Hate This Hack",
+          "description": "Odds are, if you try pulling something over on a grocery store cashier, they're going to notice. Sometimes, instead of trying to bypass sales' restrictions, customers attempt to ignore them altogether.\n\n#Aldi #GroceryShopping #Employees\n\nWatch Full Video: https://youtu.be/Twa9CXTT70M",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9zb6ad4k9aI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mashed",
+          "tags": [
+            "mashed"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Aldi Employees Hate This Hack",
+            "description": "Odds are, if you try pulling something over on a grocery store cashier, they're going to notice. Sometimes, instead of trying to bypass sales' restrictions, customers attempt to ignore them altogether.\n\n#Aldi #GroceryShopping #Employees\n\nWatch Full Video: https://youtu.be/Twa9CXTT70M"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "134334",
+          "likeCount": "1855",
+          "favoriteCount": "0",
+          "commentCount": "149"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "e5tAF6C5ZUVPkGDAtq5nVZW3Cds",
+        "id": "1aHbd3Maalw",
+        "snippet": {
+          "publishedAt": "2023-03-24T18:39:39Z",
+          "channelId": "UC78sgkSUuxXaUez7NTl43bQ",
+          "title": "A Strong Culture For A Carbon Neutral Future | With Dave Burritt",
+          "description": "On this week\u2019s episode of The Leader Show on Newsweek, we are joined by Dave Burritt, the CEO of US Steel, who delves into the company's transformation journey, focusing on the balance between purpose, profit, and planet.\n\nIn this episode, our host Louis Carter has a thought-provoking discussion with David Burritt; shedding light on the challenges and opportunities in the steel industry. They discuss the importance of safety in the workplace, the role of sustainability, and how US Steel has internalized \"Made in America\" as a key business principle.\n\nDavid further suggests that an innovative and collaborative environment, along with a culture of trust and respect can not only help boost productivity but also helps make a company agile with consistent improvement.\n\nYou can read the episode summary here: https://mostlovedworkplace.com/podcast/a-strong-culture-for-a-carbon-neutral-future/\n\nLet us know your thoughts on this insightful interview in the comments!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1aHbd3Maalw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Most Loved Workplaces\u00ae",
+          "tags": [
+            "Most Loved Workplace",
+            "The Leader Show",
+            "louis carter",
+            "Lead With Lou",
+            "LEADER on Newsweek",
+            "us steel company",
+            "us steel",
+            "David B. Burritt",
+            "Dave Buritt",
+            "carbon neutral future",
+            "sustainable steel",
+            "made in america",
+            "purpose",
+            "profit",
+            "planet",
+            "purpose profit and planet",
+            "strong culture",
+            "newsweek",
+            "A strong culture for a carbon neutral future"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A Strong Culture For A Carbon Neutral Future | With Dave Burritt",
+            "description": "On this week\u2019s episode of The Leader Show on Newsweek, we are joined by Dave Burritt, the CEO of US Steel, who delves into the company's transformation journey, focusing on the balance between purpose, profit, and planet.\n\nIn this episode, our host Louis Carter has a thought-provoking discussion with David Burritt; shedding light on the challenges and opportunities in the steel industry. They discuss the importance of safety in the workplace, the role of sustainability, and how US Steel has internalized \"Made in America\" as a key business principle.\n\nDavid further suggests that an innovative and collaborative environment, along with a culture of trust and respect can not only help boost productivity but also helps make a company agile with consistent improvement.\n\nYou can read the episode summary here: https://mostlovedworkplace.com/podcast/a-strong-culture-for-a-carbon-neutral-future/\n\nLet us know your thoughts on this insightful interview in the comments!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT37M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

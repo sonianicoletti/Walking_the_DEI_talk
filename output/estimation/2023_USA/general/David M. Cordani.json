@@ -1,0 +1,749 @@
+{
+  "ceo": "David M. Cordani",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "qN2swDoqMvJk5emapopFOkzENeg",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eOEGvhB9Fk3vHaUh0dwNGRfVaO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tRgek1aHnpA"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-09T18:26:03Z",
+          "channelId": "UCzzyFiG6cbWqrXD2Sp8j9Cw",
+          "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+          "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC's Mad Money for an ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cigna Healthcare",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-09T18:26:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "f0Cgc7-l4XURCWj4oz6WZg1I9Is",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VFMWBNUbBs4"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-27T13:58:58Z",
+          "channelId": "UCyZ_R07sA2PSsU4Q9ETLIYg",
+          "title": "WBC A4I 2023: CEO Awards Day 1",
+          "description": "WBC Action for Impact Summit 2023 Panel Discussion: The WBC CEO Excellence in Gender Equity and Diversity Award ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WBCollaborative",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-27T13:58:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HLhUO4zhNS_-rSlQROLSUR7vdo4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SYKbexmCRFc"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-14T23:36:42Z",
+          "channelId": "UCA7T6G5Dj4d4L0HY9baOQBA",
+          "title": "Stocks To Buy &amp; Keep Buying In the Rally - ETFS &amp; Penny Stocks",
+          "description": "The Stock Market Rally Is Going Insane But Its Good To Keep Investing Even When Markets Are Overvalued Lets Review Stocks ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Passive Income Investor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-14T23:36:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nX5oWg63-PMrNdMNpZ48yUOy_Ko",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bqUnqKLQgcc"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-29T15:54:28Z",
+          "channelId": "UCfCT7SSFEWyG4th9ZmaGYqQ",
+          "title": "Here&#39;s When I&#39;ll Sell My Stocks",
+          "description": "3000+ Member Patreon: https://www.patreon.com/josephcarlson Growth Portfolio: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Joseph Carlson After Hours",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-29T15:54:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WS354q0ACUq_VUIeBHxkg4o8euA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IOx3EMy60fk"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-02T19:26:08Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Jamie Dimon- AI has and will cost some humans their jobs",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-02T19:26:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1_a9LDa2ylk8KRQa1wqYAus_v4o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZsfVrzYev-g"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-24T21:00:14Z",
+          "channelId": "UClTIv9gdsgD9_7-S4XCcF_Q",
+          "title": "Cigna Stock -  A Hidden Dividend Growth Beast? - $CI Stock Analysis",
+          "description": "Timeline: 00:00 - Intro 00:12 - $CI Chart History 00:37 - $CI Investor Presentation 2022 Q4 05:19 - $CI Historical Financials ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stone Cold Investors",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-24T21:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dIv4I3h34dGKG4QvLApfza8lkJk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E2n1sqbl5E4"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-23T14:00:18Z",
+          "channelId": "UCcIfqL77FTgHcFRvgJCrFhw",
+          "title": "Cigna (CI) Stock Analysis: Should You Invest in $CI?",
+          "description": "GrowthShares takes a closer look at Cigna (CI) to determine whether it's a strong long-term investment opportunity.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GrowthShares",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-23T14:00:18Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "pRBEsGojLJ-OaysZHa7TnVtmmhI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ZgArGl8YIu2P9kICPbwUrUHl_zs",
+        "id": "tRgek1aHnpA",
+        "snippet": {
+          "publishedAt": "2023-05-09T18:26:03Z",
+          "channelId": "UCzzyFiG6cbWqrXD2Sp8j9Cw",
+          "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+          "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC\u2019s Mad Money for an interview with host Jim Cramer. \nWatch the full interview below, which covered:   \nPharmacy Benefit Managers (PBMs): Overall growth in our business, our commitment to transparency, and positive outcomes for patients. \nWho we serve: Employers of all sizes, independent health plans, hospital systems, and government agencies. \nBiosimilars: Affordability and choice for patients and customers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cigna Healthcare",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+            "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC\u2019s Mad Money for an interview with host Jim Cramer. \nWatch the full interview below, which covered:   \nPharmacy Benefit Managers (PBMs): Overall growth in our business, our commitment to transparency, and positive outcomes for patients. \nWho we serve: Employers of all sizes, independent health plans, hospital systems, and government agencies. \nBiosimilars: Affordability and choice for patients and customers."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2712",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hAEc-DerRgezGFoVp1F3L0pr-P8",
+        "id": "VFMWBNUbBs4",
+        "snippet": {
+          "publishedAt": "2023-09-27T13:58:58Z",
+          "channelId": "UCyZ_R07sA2PSsU4Q9ETLIYg",
+          "title": "WBC A4I 2023: CEO Awards Day 1",
+          "description": "WBC Action for Impact Summit 2023\n\nPanel Discussion: The WBC CEO Excellence in Gender Equity and Diversity Award recognizes corporate leaders whose efforts have made significant contributions to the advancement of diversity within their companies and increased opportunities for women in business roles. \n\nJoin us for part one of our conversation with this year\u2019s CEO Excellence in Gender Equity and Diversity award winners with opening remarks by WBC leadership.\n\nSpeakers:\nEdie Fraser, Chair of Board, WBC\nJohanna (Jos\u00e9) Zeilstra, CEO of Gender Fair & WBC Board Director\n\nRecipients:\nSophie Bellon, Chairwoman of the Board of Directors & CEO, Sodexo\nGiovanni Caforio, MD, Chairman of the Board & CEO, Bristol Myers Squibb\nDavid Cordani, Chairman & CEO, The Cigna Group\nChristine A. Leahy, Chair, President & CEO, CDW\nKaren S. Lynch, President & CEO, CVS Health\nBrian Moynihan, Chair of the Board & CEO, Bank of America\nJames Quincey, Chairman & CEO, The Coca-Cola Company\nLinda Rendle, CEO, The Clorox Company\nChuck Robbins, Chair & CEO, Cisco\nJennifer Rumsey, Chair & CEO, Cummins, Inc.\n\nFor more information, visit our website at https://www.wbcollaborative.org/wbc-action-for-impact-annual-summit-2023/\n\nFollow us online at:\nIG: https://www.instagram.com/womenbusinesscollaborative/\nTwitter: https://twitter.com/WBCollaborative\nLinkedin: https://www.linkedin.com/company/wbcollaborative/\n#WBCFasterTogether",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VFMWBNUbBs4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WBCollaborative",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "WBC A4I 2023: CEO Awards Day 1",
+            "description": "WBC Action for Impact Summit 2023\n\nPanel Discussion: The WBC CEO Excellence in Gender Equity and Diversity Award recognizes corporate leaders whose efforts have made significant contributions to the advancement of diversity within their companies and increased opportunities for women in business roles. \n\nJoin us for part one of our conversation with this year\u2019s CEO Excellence in Gender Equity and Diversity award winners with opening remarks by WBC leadership.\n\nSpeakers:\nEdie Fraser, Chair of Board, WBC\nJohanna (Jos\u00e9) Zeilstra, CEO of Gender Fair & WBC Board Director\n\nRecipients:\nSophie Bellon, Chairwoman of the Board of Directors & CEO, Sodexo\nGiovanni Caforio, MD, Chairman of the Board & CEO, Bristol Myers Squibb\nDavid Cordani, Chairman & CEO, The Cigna Group\nChristine A. Leahy, Chair, President & CEO, CDW\nKaren S. Lynch, President & CEO, CVS Health\nBrian Moynihan, Chair of the Board & CEO, Bank of America\nJames Quincey, Chairman & CEO, The Coca-Cola Company\nLinda Rendle, CEO, The Clorox Company\nChuck Robbins, Chair & CEO, Cisco\nJennifer Rumsey, Chair & CEO, Cummins, Inc.\n\nFor more information, visit our website at https://www.wbcollaborative.org/wbc-action-for-impact-annual-summit-2023/\n\nFollow us online at:\nIG: https://www.instagram.com/womenbusinesscollaborative/\nTwitter: https://twitter.com/WBCollaborative\nLinkedin: https://www.linkedin.com/company/wbcollaborative/\n#WBCFasterTogether"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "115",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CotUabEppvTuJhHR_4JIbzYInvs",
+        "id": "SYKbexmCRFc",
+        "snippet": {
+          "publishedAt": "2023-06-14T23:36:42Z",
+          "channelId": "UCA7T6G5Dj4d4L0HY9baOQBA",
+          "title": "Stocks To Buy & Keep Buying In the Rally - ETFS & Penny Stocks",
+          "description": "The Stock Market Rally Is Going Insane But Its Good To Keep Investing Even When Markets Are Overvalued Lets Review Stocks Stocks To Buy & Keep Buy In This Market - Support me on patreon https://www.patreon.com/passiveincomeinvestor\n\nMy Tiktok https://www.tiktok.com/@passiveincomeinvestor?lang=en\n\nMy Facebook Stock Meme Page https://www.facebook.com/Stonks2021\n\nBest Canadian Brokerage Account Get $50 In Free Trades\nhttps://www.questrade.com/?refid=5eb22f27c3272 \n\nI AM NOT A FINANCIAL ADVISOR THIS VIDEO IS FOR ENTERTAINMENT ONLY AND SHOULD NEVER BE TAKEN AS INVESTMENT ADVICE.\n\n#stockstobuy #beststocks2023 #dividendstocks #pennystocks #recessionproof #stockstobuynow #passiveincome #dividends",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SYKbexmCRFc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Passive Income Investor",
+          "tags": [
+            "stocks",
+            "best stocks",
+            "stock market",
+            "dividends",
+            "dividend",
+            "best dividend stocks",
+            "dividend stocks",
+            "monthly dividend stocks",
+            "investing",
+            "best investments",
+            "passive income",
+            "investor",
+            "finance",
+            "money",
+            "stock news",
+            "best reits",
+            "best etfs",
+            "growth stocks",
+            "how to become a millionaire",
+            "6 figure",
+            "7 figure",
+            "portfolio",
+            "top stocks",
+            "stocks to buy",
+            "stocks to buy now",
+            "financial education",
+            "etfs",
+            "voo",
+            "qqq",
+            "Ai stocks",
+            "semconductor",
+            "sp500",
+            "nasdaq",
+            "rally",
+            "predictions",
+            "crash",
+            "recession proof",
+            "inflation"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stocks To Buy & Keep Buying In the Rally - ETFS & Penny Stocks",
+            "description": "The Stock Market Rally Is Going Insane But Its Good To Keep Investing Even When Markets Are Overvalued Lets Review Stocks Stocks To Buy & Keep Buy In This Market - Support me on patreon https://www.patreon.com/passiveincomeinvestor\n\nMy Tiktok https://www.tiktok.com/@passiveincomeinvestor?lang=en\n\nMy Facebook Stock Meme Page https://www.facebook.com/Stonks2021\n\nBest Canadian Brokerage Account Get $50 In Free Trades\nhttps://www.questrade.com/?refid=5eb22f27c3272 \n\nI AM NOT A FINANCIAL ADVISOR THIS VIDEO IS FOR ENTERTAINMENT ONLY AND SHOULD NEVER BE TAKEN AS INVESTMENT ADVICE.\n\n#stockstobuy #beststocks2023 #dividendstocks #pennystocks #recessionproof #stockstobuynow #passiveincome #dividends"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2222",
+          "likeCount": "99",
+          "favoriteCount": "0",
+          "commentCount": "29"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "s7rys645cXXAKEYy-LCbF5Y_c_I",
+        "id": "bqUnqKLQgcc",
+        "snippet": {
+          "publishedAt": "2023-06-29T15:54:28Z",
+          "channelId": "UCfCT7SSFEWyG4th9ZmaGYqQ",
+          "title": "Here's When I'll Sell My Stocks",
+          "description": "\ud83c\udf89 3,000+ Member Patreon: https://www.patreon.com/josephcarlson\n\ud83d\ude80 Growth Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https%3A%2F%2Fdashboard.m1.com%2Fshare%3Ftoken%3DH4sIAAAAAAACA5XRzQqCQBAA4FeJOXvwJwuEDoEFHnYj0iAiQtZF1moVXalNfPe2Q6f1MB1nmI_5G0DphkMEkj-vjeDggMwf38RB1a2ebXtZmFx3F4x3EJ0HUDVEw091nPWtUNqUiMLEmXuMd1Xikne5gtGBhreMS5WXpjjwRgfFTz6tEov7LpInLxoTi3shmpP0ZvMAyzVNM4svkZqFJN5YevHH6PbdsYsTn6Zre3Fs7_nUz7GaaVrtJ_Rl_ACURjFOoQIAAA%26referrerCode%3DMyM7igoOGZN8\n\ud83d\udcb5 Dividend Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https%3A%2F%2Fdashboard.m1.com%2Fshare%3Ftoken%3DH4sIAAAAAAACA52UzUoDMRSFXyVk3cVMO-Oi0JVTYRaZqrRCkSIhvYzpT1omGfvHLNy4k4K6EDeCC19ABJ_HF9BHMN2aUe50mUtOcr9zT7KhZjUH2qQKFhdzCbRGFZ_uCsdca3kFJFZiNt3V9UQK0LR5vqFmRpubP5Wfj9dfH1vSBXH5j0yDyDNpVnaLHNp1zzuLOqN4ybppixY1OodMgDI8tZsPvKKGlo8deeAVg1-let050eH4fr5_JYczpfMpZJVJWJ1FzCVpIElSK-87cj9AyvsNNnJ99LG3i2USCVfu-uh7GB_v3siRVFwJySeVjRyHLDrZPxL9ddKNUZEIMCi3D-QUtOF5xpWpzJL6nRJf0Szpmq1TDIvvo8bybuOdQWUKEZanY994bF-sp3xC2tZXA6R6QlZJ1F4mixaupwamp6cb-_MNc20ym1ld_fXbB9Rz2gnRgw6Skm8wLDV4UPwAWIdJt8UFAAA%26referrerCode%3DMyM7igoOGZN8\n\nThe Patreon Membership includes Qualtrim Dip Finder, Insights, and the dividend tracker. It also includes access to a discord community. Join with a free trial: https://www.patreon.com/josephcarlson \n\n00:00 Buying Is Fun\n02:00 Netflix As Example\n10:38 Google As Example\n12:20 Disney As Example\n14:35 Summary\n\n\ud83d\udcf8 Instagram: https://www.instagram.com/joecarlsonshow/\n\ud83d\udc25 Twitter: https://twitter.com/joecarlsonshow\n\u25b6\ufe0f Other YouTube Channel: https://www.youtube.com/channel/UCbta0n8i6Rljh0obO7HzG9A\n\nAbout Joseph Carlson:\n\nI am not a professional investor and have never claimed to be. I'm an amateur investor sharing my experience of what I've learned, where I have had success, and where I've had failures. I share my thoughts on investing and performance with transparency. My approach and goal to investing is to buy high-quality long-term investments in world-class businesses that I call \"compounders\". I view my investments as businesses, not as stocks. Before creating content on YouTube full time I worked as a senior-level programmer for 8 years. Over the years as a programmer, I compounded my knowledge of development. I take the same iterative learning approach to my study of investing. I study investing as a craft in the continual pursuit of being better. I will make mistakes in investment decisions from time to time. Results are not guaranteed. Please do not blindly follow me into any investments, and make sure your portfolio and investments are built around your specific income, risk tolerance, personality, and timeline, and overall circumstances.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bqUnqKLQgcc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Joseph Carlson After Hours",
+          "tags": [
+            "The Joseph Carlson Show",
+            "investing",
+            "stocks",
+            "stock market",
+            "dividends",
+            "portfolio update",
+            "m1 finance"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Here's When I'll Sell My Stocks",
+            "description": "\ud83c\udf89 3,000+ Member Patreon: https://www.patreon.com/josephcarlson\n\ud83d\ude80 Growth Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https%3A%2F%2Fdashboard.m1.com%2Fshare%3Ftoken%3DH4sIAAAAAAACA5XRzQqCQBAA4FeJOXvwJwuEDoEFHnYj0iAiQtZF1moVXalNfPe2Q6f1MB1nmI_5G0DphkMEkj-vjeDggMwf38RB1a2ebXtZmFx3F4x3EJ0HUDVEw091nPWtUNqUiMLEmXuMd1Xikne5gtGBhreMS5WXpjjwRgfFTz6tEov7LpInLxoTi3shmpP0ZvMAyzVNM4svkZqFJN5YevHH6PbdsYsTn6Zre3Fs7_nUz7GaaVrtJ_Rl_ACURjFOoQIAAA%26referrerCode%3DMyM7igoOGZN8\n\ud83d\udcb5 Dividend Portfolio: https://click.linksynergy.com/deeplink?id=5mNcifgFllM&mid=50362&murl=https%3A%2F%2Fdashboard.m1.com%2Fshare%3Ftoken%3DH4sIAAAAAAACA52UzUoDMRSFXyVk3cVMO-Oi0JVTYRaZqrRCkSIhvYzpT1omGfvHLNy4k4K6EDeCC19ABJ_HF9BHMN2aUe50mUtOcr9zT7KhZjUH2qQKFhdzCbRGFZ_uCsdca3kFJFZiNt3V9UQK0LR5vqFmRpubP5Wfj9dfH1vSBXH5j0yDyDNpVnaLHNp1zzuLOqN4ybppixY1OodMgDI8tZsPvKKGlo8deeAVg1-let050eH4fr5_JYczpfMpZJVJWJ1FzCVpIElSK-87cj9AyvsNNnJ99LG3i2USCVfu-uh7GB_v3siRVFwJySeVjRyHLDrZPxL9ddKNUZEIMCi3D-QUtOF5xpWpzJL6nRJf0Szpmq1TDIvvo8bybuOdQWUKEZanY994bF-sp3xC2tZXA6R6QlZJ1F4mixaupwamp6cb-_MNc20ym1ld_fXbB9Rz2gnRgw6Skm8wLDV4UPwAWIdJt8UFAAA%26referrerCode%3DMyM7igoOGZN8\n\nThe Patreon Membership includes Qualtrim Dip Finder, Insights, and the dividend tracker. It also includes access to a discord community. Join with a free trial: https://www.patreon.com/josephcarlson \n\n00:00 Buying Is Fun\n02:00 Netflix As Example\n10:38 Google As Example\n12:20 Disney As Example\n14:35 Summary\n\n\ud83d\udcf8 Instagram: https://www.instagram.com/joecarlsonshow/\n\ud83d\udc25 Twitter: https://twitter.com/joecarlsonshow\n\u25b6\ufe0f Other YouTube Channel: https://www.youtube.com/channel/UCbta0n8i6Rljh0obO7HzG9A\n\nAbout Joseph Carlson:\n\nI am not a professional investor and have never claimed to be. I'm an amateur investor sharing my experience of what I've learned, where I have had success, and where I've had failures. I share my thoughts on investing and performance with transparency. My approach and goal to investing is to buy high-quality long-term investments in world-class businesses that I call \"compounders\". I view my investments as businesses, not as stocks. Before creating content on YouTube full time I worked as a senior-level programmer for 8 years. Over the years as a programmer, I compounded my knowledge of development. I take the same iterative learning approach to my study of investing. I study investing as a craft in the continual pursuit of being better. I will make mistakes in investment decisions from time to time. Results are not guaranteed. Please do not blindly follow me into any investments, and make sure your portfolio and investments are built around your specific income, risk tolerance, personality, and timeline, and overall circumstances."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "43228",
+          "likeCount": "1705",
+          "favoriteCount": "0",
+          "commentCount": "174"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ThiIyGpvria_FWFIofdp1HEYDT0",
+        "id": "IOx3EMy60fk",
+        "snippet": {
+          "publishedAt": "2023-10-02T19:26:08Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Jamie Dimon- AI has and will cost some humans their jobs",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IOx3EMy60fk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jamie Dimon- AI has and will cost some humans their jobs",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2511",
+          "likeCount": "38",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vr5K3KwDg8g-Oti_3ZPZPeh4iCc",
+        "id": "ZsfVrzYev-g",
+        "snippet": {
+          "publishedAt": "2023-04-24T21:00:14Z",
+          "channelId": "UClTIv9gdsgD9_7-S4XCcF_Q",
+          "title": "Cigna Stock -  A Hidden Dividend Growth Beast? - $CI Stock Analysis",
+          "description": "Timeline:\n00:00 - Intro\n00:12 - $CI Chart History\n00:37 - $CI Investor Presentation 2022 Q4\n05:19 - $CI Historical Financials & Dividend Growth Potential\n11:35 - $CI Evaluation & Theoretical Buy Targets\n\n\n\nMy thoughts on Cigna Stock ($CI) - Yet another sub-par stock evaluation from an unqualified stranger on YouTube!\n\nCigna Investor Relations: https://investors.thecignagroup.com/overview/default.aspx\n\nStone Cold Investors Discord - https://discord.gg/Em4Df4SDFM",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZsfVrzYev-g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stone Cold Investors",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cigna Stock -  A Hidden Dividend Growth Beast? - $CI Stock Analysis",
+            "description": "Timeline:\n00:00 - Intro\n00:12 - $CI Chart History\n00:37 - $CI Investor Presentation 2022 Q4\n05:19 - $CI Historical Financials & Dividend Growth Potential\n11:35 - $CI Evaluation & Theoretical Buy Targets\n\n\n\nMy thoughts on Cigna Stock ($CI) - Yet another sub-par stock evaluation from an unqualified stranger on YouTube!\n\nCigna Investor Relations: https://investors.thecignagroup.com/overview/default.aspx\n\nStone Cold Investors Discord - https://discord.gg/Em4Df4SDFM"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "571",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oI2gdVBZUzJS6Ms79iNukaSaspA",
+        "id": "E2n1sqbl5E4",
+        "snippet": {
+          "publishedAt": "2023-05-23T14:00:18Z",
+          "channelId": "UCcIfqL77FTgHcFRvgJCrFhw",
+          "title": "Cigna (CI) Stock Analysis: Should You Invest in $CI?",
+          "description": "GrowthShares takes a closer look at Cigna (CI) to determine whether it's a strong long-term investment opportunity. Our assessment is based on three key questions: 1) Is it good business? 2) Does it have an attractive stock? and 3) What is its fair value price? This analysis will provide valuable insights into the company's potential for growth and profitability. Stay informed with GrowthShares.\n\n\u2b50 Become a Patreon Member:\nhttps://www.patreon.com/growthshares\n\n\u2b50 Request a Stock to Analyze:\nhttps://www.youtube.com/channel/UCcIfqL77FTgHcFRvgJCrFhw/join\n\n\u2b50 Subscribe to GrowthShares:\nhttps://www.youtube.com/channel/UCcIfqL77FTgHcFRvgJCrFhw?sub_confirmation=1\n\n\u2b50 What do these 3 Factors and 14 Metrics mean?\nhttps://youtu.be/upHD-uLWVVg\n\n\u2b50 The analysis is split into 3 Factors: Business, Investment, and Price. Each factor is weighted differently and also includes 14 Metrics: Growth, Business Margins, Operations, Efficiency, Debt Utilization, Dividends, Sustainability, Market Dominance, Stock Performance, Technical Analysis, Short Interest, Wall Street Analysis, Employee Growth,  and Intrinsic Value.\n\n\u2b50 I may or may not have a financial interest (investment) in this company before or after the publication of this video.\n\n#Cigna #CI #GrowthShares\n\nMusic: Wehrmut by Godmode\n\n**NOT FINANCIAL OR INVESTMENT ADVICE. DO YOUR OWN RESEARCH**\n\nDisclaimer: The content in this video and this channel are for educational purposes only. I'm not a financial advisor and it is your responsibility to do your own research before making any decision when it comes to your money and your life. This does not constitute investment advice of any kind.\n\nAffiliate Disclaimer: Some of the links in the description of this video may be affiliate links. That means if you click on those links and make a purchase on those websites, I may receive a commission at no extra cost to you.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E2n1sqbl5E4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GrowthShares",
+          "tags": [
+            "growthshares",
+            "growth shares",
+            "cigna",
+            "ci"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cigna (CI) Stock Analysis: Should You Invest in $CI?",
+            "description": "GrowthShares takes a closer look at Cigna (CI) to determine whether it's a strong long-term investment opportunity. Our assessment is based on three key questions: 1) Is it good business? 2) Does it have an attractive stock? and 3) What is its fair value price? This analysis will provide valuable insights into the company's potential for growth and profitability. Stay informed with GrowthShares.\n\n\u2b50 Become a Patreon Member:\nhttps://www.patreon.com/growthshares\n\n\u2b50 Request a Stock to Analyze:\nhttps://www.youtube.com/channel/UCcIfqL77FTgHcFRvgJCrFhw/join\n\n\u2b50 Subscribe to GrowthShares:\nhttps://www.youtube.com/channel/UCcIfqL77FTgHcFRvgJCrFhw?sub_confirmation=1\n\n\u2b50 What do these 3 Factors and 14 Metrics mean?\nhttps://youtu.be/upHD-uLWVVg\n\n\u2b50 The analysis is split into 3 Factors: Business, Investment, and Price. Each factor is weighted differently and also includes 14 Metrics: Growth, Business Margins, Operations, Efficiency, Debt Utilization, Dividends, Sustainability, Market Dominance, Stock Performance, Technical Analysis, Short Interest, Wall Street Analysis, Employee Growth,  and Intrinsic Value.\n\n\u2b50 I may or may not have a financial interest (investment) in this company before or after the publication of this video.\n\n#Cigna #CI #GrowthShares\n\nMusic: Wehrmut by Godmode\n\n**NOT FINANCIAL OR INVESTMENT ADVICE. DO YOUR OWN RESEARCH**\n\nDisclaimer: The content in this video and this channel are for educational purposes only. I'm not a financial advisor and it is your responsibility to do your own research before making any decision when it comes to your money and your life. This does not constitute investment advice of any kind.\n\nAffiliate Disclaimer: Some of the links in the description of this video may be affiliate links. That means if you click on those links and make a purchase on those websites, I may receive a commission at no extra cost to you."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "843",
+          "likeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

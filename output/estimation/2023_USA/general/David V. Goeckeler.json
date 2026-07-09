@@ -1,0 +1,215 @@
+{
+  "ceo": "David V. Goeckeler",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "LlZ8JA24nUdCJuwbEaMvrOa5Qp8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w3DH_v6DQYD3gB9CvnETdYz0mpY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HpkBb9xVwX0"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-24T15:04:38Z",
+          "channelId": "UC7-rtz96bYgd2m4AhKtZFQw",
+          "title": "The Six Five On the Road with David Liu, CEO of Plus",
+          "description": "On this episode of The Six Five \u2013 On The Road, hosts Daniel Newman and Patrick Moorhead sit down with David Liu, CEO of Plus ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Six Five Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-24T15:04:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SybF-Pcdr26A5iY7Q7an_YmGSWg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-AwIoqiNAXM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-30T17:03:53Z",
+          "channelId": "UCFJIUAfOOBzbNmbqWBe1HiA",
+          "title": "Joe Nolan, Chairman, President &amp; CEO   Eversource Energy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CTValleyViews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-30T17:03:53Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "d8WoiNOgYgYffj7FA3JNhiAm8Vw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "HbHNv1FA8nhTr-SFfgl0z-NcdyA",
+        "id": "HpkBb9xVwX0",
+        "snippet": {
+          "publishedAt": "2023-02-24T15:04:38Z",
+          "channelId": "UC7-rtz96bYgd2m4AhKtZFQw",
+          "title": "The Six Five On the Road with David Liu, CEO of Plus",
+          "description": "On this episode of The Six Five \u2013 On The Road, hosts Daniel Newman and Patrick Moorhead sit down with David Liu, CEO of Plus. Their conversation covers:\n\n\u2022 Plus\u2019 efforts toward safety, sustainability, satisfaction, and scalability\n\n\u2022 The competitive landscape in the autonomous transportation industry\n\n\u2022 Plus' approach to addressing the challenges hindering adoption in the transportation industry\n\n\u2022 Plus\u2019 partnership strategy in an industry that is highly regulated\n\n\u2022 Opportunities for market growth in the automated trucking industry\n\n#davidliu, #AI, #transportation, #partnerships, #sustainability, #autonomous, #trucking, #sixfivewebcast, #sixfiveontheroad, #patrickmoorhead, #danielnewman \n\nDisclaimer: The Six Five webcast is for information and entertainment purposes only. Over the course of this webcast, we may talk about companies that are publicly traded, and we may even reference that fact and their equity share price, but please do not take anything that we say as a recommendation about what you should do with your investment dollars. We are not investment advisors, and we do not ask that you treat us as such.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HpkBb9xVwX0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Six Five Media",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "The Six Five On the Road with David Liu, CEO of Plus",
+            "description": "On this episode of The Six Five \u2013 On The Road, hosts Daniel Newman and Patrick Moorhead sit down with David Liu, CEO of Plus. Their conversation covers:\n\n\u2022 Plus\u2019 efforts toward safety, sustainability, satisfaction, and scalability\n\n\u2022 The competitive landscape in the autonomous transportation industry\n\n\u2022 Plus' approach to addressing the challenges hindering adoption in the transportation industry\n\n\u2022 Plus\u2019 partnership strategy in an industry that is highly regulated\n\n\u2022 Opportunities for market growth in the automated trucking industry\n\n#davidliu, #AI, #transportation, #partnerships, #sustainability, #autonomous, #trucking, #sixfivewebcast, #sixfiveontheroad, #patrickmoorhead, #danielnewman \n\nDisclaimer: The Six Five webcast is for information and entertainment purposes only. Over the course of this webcast, we may talk about companies that are publicly traded, and we may even reference that fact and their equity share price, but please do not take anything that we say as a recommendation about what you should do with your investment dollars. We are not investment advisors, and we do not ask that you treat us as such."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT15M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29124",
+          "likeCount": "1512",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D0UL42rG9gBBFbOmXa1qB_S_TyA",
+        "id": "-AwIoqiNAXM",
+        "snippet": {
+          "publishedAt": "2023-01-30T17:03:53Z",
+          "channelId": "UCFJIUAfOOBzbNmbqWBe1HiA",
+          "title": "Joe Nolan, Chairman, President & CEO   Eversource Energy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-AwIoqiNAXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CTValleyViews",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Joe Nolan, Chairman, President & CEO   Eversource Energy",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT28M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

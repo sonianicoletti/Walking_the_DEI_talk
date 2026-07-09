@@ -1,0 +1,3477 @@
+{
+  "ceo": "Craig Desanto",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Oh4_-5kuW_Rt3IhwcHDA1ab_F9k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 37,
+      "resultsPerPage": 32
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6k8VWUQN5DATOs0ahpznE3AdVjw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uTeNGDeyAEI"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-28T13:00:43Z",
+          "channelId": "UCofA6V0rQoKrMiwG9P9jstA",
+          "title": "Corporate Internships at New York Life",
+          "description": "An internship can teach you the skills you need for your next job, or be the first step in a lifelong career. Hear from our 2023 interns ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Life",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-28T13:00:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OCOcdYNBmtSIvKS5OKWiV2yxoZ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gHmtBzRMgSM"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-29T01:00:18Z",
+          "channelId": "UCh3Edhdzal1FB0mBSs2DC4g",
+          "title": "Karate Hook Kick Point Fighting KO #karate",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Point Fighter Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-29T01:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9pe5MUlThM0yXfNSCEndGyFwkHo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RBJvTNcnJCM"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-07T23:00:08Z",
+          "channelId": "UCf58CbplZsDbH9wPMYoOTFw",
+          "title": "In Depth With Dike Rostant - Learning AI At The UWI",
+          "description": "There is a saying that 'those who can't do, teach.' Dr. Craig Ramlal puts that statement to bed being a mover and shaker in his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TTT Live Online",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-07T23:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Iy8lkPcIaGRGuvfQkPrG0CC4gpg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fsYCkLtoQoM"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-12T19:00:40Z",
+          "channelId": "UC0OFPvrlWV-FiAVIYjBHkQg",
+          "title": "Vincent Robinson has one of the filthiest wrist snaps in wrestling!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FloWrestling",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-12T19:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IewY7s5mDUXFhAMHHvTlGVx0Hr8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VFKqsBjknl0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-26T20:18:01Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "World Kinect Corporation CEO Michael Kasbar talks about the company&#39;s new name and ticker symbol",
+          "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-26T20:18:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nAARgv3cv88q_s7-REDnG9oVSro",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0mAYG6FyzmE"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-07T02:08:22Z",
+          "channelId": "UC0OFPvrlWV-FiAVIYjBHkQg",
+          "title": "Sick flex Shane",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FloWrestling",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-07T02:08:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eAvHqXXHA4y16nhrvHkPBw1H_SA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sxfJIocNX1E"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T13:55:13Z",
+          "channelId": "UCbrqt_T_h5RzhEOz4CZp3-Q",
+          "title": "Liza Koshy &amp; Tobe Nwigwe Discuss Transformers: Rise of the Beasts",
+          "description": "Liza Koshy & Tobe Nwigwe Interview Returning to the action and spectacle that have captured moviegoers around the world, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FabTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T13:55:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ds6dFsCFNEMC41v-g4thFyBGd6E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_-tb6B7PPXs"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-09T17:08:41Z",
+          "channelId": "UCsNdG92SwUpY_1n2JmPTq5g",
+          "title": "Cop Talks - Mad Ron &amp; Matt Price - Edinburgh Fringe 2023",
+          "description": "Get ready for an intriguing and slightly unconventional YouTube video that promises to unravel the enigmatic personas of Mad ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Entertainment Now",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-09T17:08:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Z8gkerH3xxHum8Ug-_nLNW_qhMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KXgSG4llw2Y"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-04T22:46:01Z",
+          "channelId": "UCYQv0YkjbG1A0Y_iz_lZ5iA",
+          "title": "Gino Rivera!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Championship On The Line",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-04T22:46:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1kJH28CqwU396qNNRyqdRCpVAV4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xZeTy-YOiv0"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-01T15:20:18Z",
+          "channelId": "UCkZcqolV-VK14tHoxetIiow",
+          "title": "Sal Guerriero talks Big LFA Opportunity, ATT, Coaches, Training, STA HS, MMA, Family, Josh Silveira",
+          "description": "Video interview with up-n-coming MMA talent Sal Guerriero at American Top Team in (South Florida) Coconut Creek. Guerriero ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xZeTy-YOiv0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xZeTy-YOiv0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xZeTy-YOiv0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pro Wrestling & MMA Interviews with Me (Jimmy V3)",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-01T15:20:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QIrXtQsCZaX4HyMMtKZFB4Qxsys",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3wS_BuylVUo"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-09T12:00:03Z",
+          "channelId": "UCbjP13RtPD2NmM9hhI78_5g",
+          "title": "The Crisis of Masculinity Explained - Will Knowland",
+          "description": "SUBSCRIBE to this channel: https://www.youtube.com/@nick_dixon Subscribe to The Current Thing audio podcast: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nick Dixon",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-09T12:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Akc9Q92HkgGNDQtzoFHiSzWcjZQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cCjHDaaD6sA"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-20T09:53:20Z",
+          "channelId": "UCP_Zqha0ZBmoWswz2ATw9-A",
+          "title": "SVB&#39;s Collapse and M&amp;A: Why Aerospace and Defense Are In a Goldilocks Position",
+          "description": "Stories about the collapse of banks rightfully spook investors in a variety of industries, but things aren't quite as dire as they are ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aerospace Executive Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-20T09:53:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gl6ewyqsm1Et7XBeUYw2k4enYLg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cdXNiWcPC5Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-29T15:00:24Z",
+          "channelId": "UCl9StMQ79LtEvlrskzjoYbQ",
+          "title": "Peter van Inwagen - What Things Really Exist?",
+          "description": "When you ask what things really exist, and you think deeply about this probe to apprehend what is out there, you see the whole ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Closer To Truth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-29T15:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nqkcZb7Ae-9YHJ-k88G2qNv_y3I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7c0Mnd3X068"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-14T17:30:48Z",
+          "channelId": "UC5G6kTnHXDz0WIBC2VGBOqg",
+          "title": "Final Day Drivers\u2019 Wrap | WRC Vodafone Rally de Portugal 2023",
+          "description": "Time to recap on another exciting WRC Vodafone Rally de Portugal with our Rally1 drivers. For more WRC videos, visit ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FIA World Rally Championship",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-14T17:30:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NFH6eGiWyxrETu5VfvZdcB2tnvs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hk-rAJf9gwY"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-08T23:00:14Z",
+          "channelId": "UClmAE6wR95wRy10CvyDuBJQ",
+          "title": "Nick Becker 3x Undefeated National Champion, Creating a Legacy, How to Grow Wrestling!",
+          "description": "Welcome to Clash Of Combat Stretch Your Limits here --- dopamineo.com Contact: clashofcombat23@gmail.com Email us to buy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Clash of Combat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-08T23:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ar0ynTBXxm2OXeJRL0W_tvEZ4Fc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "s7Pk7PCXM2M"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-06T08:00:08Z",
+          "channelId": "UCQIi9gqAvhcGkZOsIWa1Ynw",
+          "title": "Israel Adesanya donne son pronos pour Aljamain Sterling vs Henry Cejudo #ufc288",
+          "description": "Vid\u00e9o originale : https://www.youtube.com/watch?v=8d1kt1eHnnA Soutenez mon travail en me suivant sur Patreon (interviews ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MMA Fanatics",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-06T08:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3F7JRh9eT3EiCAtMDHHwAp8BYVk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yM7RblhFDlU"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-20T18:00:22Z",
+          "channelId": "UCBwqvyZyc2bpzI-kOYhwrkw",
+          "title": "City of God vs. City of Man - Timothy Flanders | Catholic Culture Podcast #158",
+          "description": "It's time for a big-picture look at Church history! Timothy S. Flanders joins the podcast to discuss his book City of God vs. City of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Catholic Culture",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-20T18:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ac-EBhn4vQZF9AjAap5Ok7XuzoM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "80DyIYz4HZo"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-08T23:18:03Z",
+          "channelId": "UCfJTU5T-i1xrN1LRmI5f0bQ",
+          "title": "Kendall Coleman vs. Derek Gilcher",
+          "description": "Arguably the best wrestlers on Purdue and Indiana faced off in this match. Coleman improved to 2-0 against Gilcher with this win ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brendon Gorham",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-08T23:18:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1ZH4FJqYHniN37_vX8PUzqBRZ2o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RlwaYDIljPo"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-20T01:24:33Z",
+          "channelId": "UCvBQ_bH--C2aL1_7lJcG-qQ",
+          "title": "EL AJUSTE FINO EL MEJOR ARGUMENTO PARA RICHARD DAWKINS Y LA EXISTENCIA DE  DIOS #jesus #biblia #dios",
+          "description": "EL AJUSTE FINO EL MEJOR ARGUMENTO PARA RICHARD DAWKINS Y LA EXISTENCIA DE DIOS #jesus #biblia #dios.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CARLOS VELOZ FE Y RAZON",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-20T01:24:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Pkvl5HHodSKtxiiQ6g_6N1LWdEk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vfx_bJ3yUn8"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-18T05:20:07Z",
+          "channelId": "UChozbOPP6uOJ2UkiTZy-sgQ",
+          "title": "Introduction to Orthodox Christianity: A Practical Guide for Inquirers",
+          "description": "Looking for an introduction to Orthodox Christianity? This video offers a compelling guide to Orthodoxy\u2014its spiritual depth, living ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Orthodox Ethos",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-18T05:20:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wFGVBqaGvUWTHrX1zIcWgmzp7FI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WK85cK9NyHQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-12T19:00:17Z",
+          "channelId": "UCtXtqlLdZYZm3060qVExXkA",
+          "title": "2 on 1 Wrestling Ultimate Finish by GEORGE IVANOV",
+          "description": "The 2 on 1 Wrestling Ultimate Finish by GEORGE IVANOV - For The Best BJJ Instructional Videos, Check Out: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bernardo Faria BJJ Fanatics",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-12T19:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gseYGkLjx4F_fMNwlA1Yb2zZOIw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bcNBfHsdqUo"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-24T11:50:00Z",
+          "channelId": "UCKyiCRZfoPQDLfss1QbB9Vg",
+          "title": "Design in Motion: The Captivating Art of Movement with Rommel Ruiz (Ep. 18)",
+          "description": "Today we're chatting with illustrator and designer Rommel Ruiz! His journey from classical theater to motion design is simply ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Styleframe Saturdays",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-24T11:50:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Q6yfBELSR7xpovt35D185QaJAgc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aKyuKqgEdeA"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-08T22:16:43Z",
+          "channelId": "UCfJTU5T-i1xrN1LRmI5f0bQ",
+          "title": "Matt Ramos vs. Jacob Moran",
+          "description": "This was a big match to start off the Purdue vs. Indiana dual. Jacob Moran did not give up bonus points to Matt Ramos, a huge ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brendon Gorham",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-08T22:16:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "90mT04buP7YNYmxT2WKVcclf36Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JvG1y96QaFM"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-21T23:43:42Z",
+          "channelId": "UC0OFPvrlWV-FiAVIYjBHkQg",
+          "title": "Dorian Olivarez &amp; Logan Paradice Have One Of The Craziest Day 1 Super 32 Matches!",
+          "description": "Stream 2023 Super 32 Here: https://flosports.link/45oH3Ma Make sure to like, comment, and subscribe to access all of the latest ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FloWrestling",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-21T23:43:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NnL95lMVCViLUQsoXMTgAM1totY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qoocpR5fvlE"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-22T00:49:25Z",
+          "channelId": "UCaVCSa1Kf-r07QIbO6Tz-uw",
+          "title": "Big Diamond Speedway | Prelude to the Coalcracker Feature Highlights | 8/18/23",
+          "description": "Highlights from Big Diamond Speedway in Minersville, Pa., on Friday, August 18, 2023. It was a race that had many twists and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dirt Track Digest",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-22T00:49:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7qQ2Rq2vcVKqkHtv22_m0XAFW2Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gHSKU_xZ_Vg"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-10T12:00:27Z",
+          "channelId": "UCOTWc6iY4Ms8xZjVTg7VPow",
+          "title": "132 2A \u2013 Zachary Montez {G} of Geneseo IL vs. Jacob Redington {R} of Freeport IL",
+          "description": "February 16\u201318, 2023 \u2014 Illinois High School Boys Wrestling Individual Tournament \u2014 University of Illinois, Champaign, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Midwest Wrestle",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-10T12:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CJvUyC9R7UpWni6TKo05JVTed0M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rq6wGVZrcRQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-16T04:54:53Z",
+          "channelId": "UCkGGTe8CuT8QTPiYme8LDSQ",
+          "title": "\u201cWhy Do Some Thomists Scoff at Analytic Philosophy?\u201d | Philip-Neri Reese, OP",
+          "description": "Fr. Philip-Neri Reese, O.P., is a Dominican friar of the Province of St. Joseph and a Professor of Philosophy at the Pontifical ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Angelicum Thomistic Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-16T04:54:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aC_0Cqx-a70gPvkFEkNeRnzRVz8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mx7AU3aud4E"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-18T16:06:25Z",
+          "channelId": "UCw0eW2fOcRoFFJD_K9_2Grg",
+          "title": "Idris Elba as the first black James Bond",
+          "description": "I asked Midjourney v5 to imagine what Idris Elba might look like if he was cast as the first black James Bond. Here are the results.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Digital and AI art",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-18T16:06:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OMwfY5kfiwyo-K_sJtOZVxvB2nc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tXj_0bbnIVQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-06T11:00:40Z",
+          "channelId": "UCd55APptap1Ve7Jwqa8OcBA",
+          "title": "St. Thomas&#39; Five Ways: How to Prove God Exists w/ Fr. Gregory Pine, O.P. &amp; Prof. Edward Feser",
+          "description": "The new Aquinas 101 Learning Platform is LIVE! Unlock all the Aquinas 101 courses in one place and track your progression at ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Thomistic Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-06T11:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XM43_Sf9LTH90Wh2VkKDdEwj86g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Zr34NMllg70"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-12T16:53:30Z",
+          "channelId": "UCJMYUELS5PvzNmIJtt2fECg",
+          "title": "Ishmael Brown - Wrestling        English Junior Championships 2023",
+          "description": "39kg category fight 2.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brick Builder Ish",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-12T16:53:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m5Zx99zVYvsOW9XiCemyAPL6STI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XnWAEJuBgyM"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-26T14:00:05Z",
+          "channelId": "UCwbPEfus0ZUBcBq8Yy1-1Og",
+          "title": "Izzak Olejnik | Heavyweight Nation Podcast 164",
+          "description": "New Merch Drop (HWT20) 20% Off - https://www.hwtnationshop.com/ All Up To Date Wrestling News ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Heavyweight Nation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-26T14:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3V0J1KpHmD5xOAR6G3oUqC01OZU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GkqP_wwGZ90"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-21T14:44:44Z",
+          "channelId": "UCTSmtpFVLcZGS7G599_vCow",
+          "title": "Chewjitsu Podcast #273 - Big Dan Mansoiu",
+          "description": "On this episode of the podcast, Chewy and Eugene are joined by Jiu-Jitsu Purple Belt \"Big\" Dan Manasoiu. Dan joins the podcast ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chewjitsu Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-21T14:44:44Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "v0zCGWTJRF9hPQBpRWwqkrxYG_g",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pJGiQFT2slyLcCLGk2fDbH0IjGg",
+        "id": "uTeNGDeyAEI",
+        "snippet": {
+          "publishedAt": "2023-09-28T13:00:43Z",
+          "channelId": "UCofA6V0rQoKrMiwG9P9jstA",
+          "title": "Corporate Internships at New York Life",
+          "description": "An internship can teach you the skills you need for your next job, or be the first step in a lifelong career. Hear from our 2023 interns, as well as our CEO Craig DeSanto (intern class of \u201997) on how their experiences made an impact on their lives, and on the lives of others.\n\nApply here: https://nyl.co/46aBfqa",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uTeNGDeyAEI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New York Life",
+          "tags": [
+            "New york life",
+            "insurance",
+            "finance",
+            "love takes action",
+            "good at life",
+            "internships",
+            "careers",
+            "intern",
+            "new york",
+            "college",
+            "learn",
+            "job",
+            "corporate",
+            "career"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Corporate Internships at New York Life",
+            "description": "An internship can teach you the skills you need for your next job, or be the first step in a lifelong career. Hear from our 2023 interns, as well as our CEO Craig DeSanto (intern class of \u201997) on how their experiences made an impact on their lives, and on the lives of others.\n\nApply here: https://nyl.co/46aBfqa"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2075",
+          "likeCount": "19",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DMJQX0W7dYidlv1Z4qk9vy4CNlg",
+        "id": "gHmtBzRMgSM",
+        "snippet": {
+          "publishedAt": "2023-04-29T01:00:18Z",
+          "channelId": "UCh3Edhdzal1FB0mBSs2DC4g",
+          "title": "Karate Hook Kick Point Fighting KO #karate",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gHmtBzRMgSM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Point Fighter Live",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Karate Hook Kick Point Fighting KO #karate",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1593",
+          "likeCount": "47",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2vRo88slns28RVYZ9CtS6ZjbcLI",
+        "id": "RBJvTNcnJCM",
+        "snippet": {
+          "publishedAt": "2023-07-07T23:00:08Z",
+          "channelId": "UCf58CbplZsDbH9wPMYoOTFw",
+          "title": "In Depth With Dike Rostant - Learning AI At The UWI",
+          "description": "There is a saying that 'those who can't do, teach.' Dr. Craig Ramlal puts that statement to bed being a mover and shaker in his field as well as an educator at the UWI St. Augustine Campus. He joins us to speak about the potential available to you with Master of Applied Science in AI.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RBJvTNcnJCM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TTT Live Online",
+          "tags": [
+            "ttt",
+            "trinidad",
+            "tobago",
+            "local",
+            "news",
+            "sports",
+            "crime",
+            "weather",
+            "politics",
+            "caribbean",
+            "radio",
+            "government"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "In Depth With Dike Rostant - Learning AI At The UWI",
+            "description": "There is a saying that 'those who can't do, teach.' Dr. Craig Ramlal puts that statement to bed being a mover and shaker in his field as well as an educator at the UWI St. Augustine Campus. He joins us to speak about the potential available to you with Master of Applied Science in AI."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "702",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "shF_2RhyH_2pDR854xX_wpCK0HI",
+        "id": "fsYCkLtoQoM",
+        "snippet": {
+          "publishedAt": "2023-07-12T19:00:40Z",
+          "channelId": "UC0OFPvrlWV-FiAVIYjBHkQg",
+          "title": "Vincent Robinson has one of the filthiest wrist snaps in wrestling!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fsYCkLtoQoM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FloWrestling",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vincent Robinson has one of the filthiest wrist snaps in wrestling!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "43696",
+          "likeCount": "1805",
+          "favoriteCount": "0",
+          "commentCount": "28"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "r8sCCZPUs9TKSp8vK3pF5Hf8EoI",
+        "id": "VFKqsBjknl0",
+        "snippet": {
+          "publishedAt": "2023-06-26T20:18:01Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "World Kinect Corporation CEO Michael Kasbar talks about the company's new name and ticker symbol",
+          "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in the company's journey and what he's focused on for the future. #NYSEFloorTalk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "tags": [
+            "Financial Regulatory Structure",
+            "Investor Confidence",
+            "Financial Responsibility",
+            "Transparency",
+            "Accountability",
+            "Fair Market Dealing",
+            "Global regulation",
+            "Free Enterprise",
+            "Standardized Derivatives",
+            "De-regulation",
+            "Risk Taking",
+            "Trust",
+            "Heritage",
+            "Integrity",
+            "Advocacy",
+            "Technology",
+            "NYSE",
+            "NYSE Euronext",
+            "NYSE Market",
+            "NYSE Com",
+            "Nasdaq NYSE",
+            "Law",
+            "Justice",
+            "Business School",
+            "Innovation",
+            "Solutions",
+            "New Vision",
+            "Investments"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "World Kinect Corporation CEO Michael Kasbar talks about the company's new name and ticker symbol",
+            "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in the company's journey and what he's focused on for the future. #NYSEFloorTalk"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1286",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "rdyBZP8G8PuD9jhS2ZH9xw_e4Jw",
+        "id": "0mAYG6FyzmE",
+        "snippet": {
+          "publishedAt": "2023-09-07T02:08:22Z",
+          "channelId": "UC0OFPvrlWV-FiAVIYjBHkQg",
+          "title": "Sick flex Shane",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0mAYG6FyzmE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FloWrestling",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sick flex Shane",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5039",
+          "likeCount": "231",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ftOMkngAWAuBwQHkDCVVm8QXnBY",
+        "id": "sxfJIocNX1E",
+        "snippet": {
+          "publishedAt": "2023-06-08T13:55:13Z",
+          "channelId": "UCbrqt_T_h5RzhEOz4CZp3-Q",
+          "title": "Liza Koshy & Tobe Nwigwe Discuss Transformers: Rise of the Beasts",
+          "description": "Liza Koshy & Tobe Nwigwe Interview\n\nReturning to the action and spectacle that have captured moviegoers around the world, Transformers: Rise of the Beasts will take audiences on a \u201890s globetrotting adventure with the Autobots and introduce a whole new faction of Transformer \u2013 the Maximals \u2013 to join them as allies in the existing battle for earth. Directed by Steven Caple Jr. and starring Anthony Ramos and Dominique Fishback, the film arrives in theatres June 9, 2023.\n\nParamount Pictures and Skydance Present\n\nIn Association with Hasbro and New Republic Pictures\n\nA Don Murphy/Tom DeSanto Production\n\nA di Bonaventura Pictures Production\n\nA Bay Films Production\n\n\n\nDIRECTED BY\n\nSteven Caple Jr.\n\n\n\nSCREENPLAY BY\n\nJoby Harold and Darnell Metayer & Josh Peters\n\nand Erich Hoeber & Jon Hoeber\n\nSTORY BY \n\nJoby Harold\n\nBASED ON\n\nHasbro\u2019s Transformers\u2122 Action Figures\n\nPRODUCED BY \n\nLorenzo di Bonaventura, Tom DeSanto & Don Murphy, Michael Bay,\n\nMark Vahradian, Duncan Henderson\n\n\n\nEXECUTIVE PRODUCERS\n\nSteven Spielberg, Brian Goldner, David Ellison, Dana Goldberg,\n\nDon Granger, Brian Oliver, Bradley J. Fischer, Valerii An\n\n\n\nCAST\n\nAnthony Ramos, Dominique Fishback, Luna Lauren Velez, Dean Scott Vazquez, Tobe Nwigwe, Peter Cullen, Ron Perlman,\n\nPeter Dinklage, Michelle Yeoh, Liza Koshy, John DiMaggio, David Sobolov,\n\nMichaela Ja\u00e9 Rodriguez, Pete Davidson, Colman Domingo, Cristo Fern\u00e1ndez, Tongayi ChirisaFROM THE TRANSFORMERS: RISE OF THE BEASTS\n\nNEW YORK CITY PREMIERE AT THE KINGS THEATER IN BROOKLYN, NY\n\nIn attendance were the cast and filmmakers, including \n\nAnthony Ramos, Dominique Fishback, Tobe Nwigwe, Peter Cullen, Ron Perlman, \n\nPeter Dinklage, Liza Koshy, Michaela Ja\u00e9 Rodriguez, Pete Davidson, \n\nLuna Lauren Velez, Cristo Fern\u00e1ndez, and Director Steven Caple Jr. #transformers #fabtv #redcarpet #nyc #paramountpictures #anthonyramos  #lizakoshy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sxfJIocNX1E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FabTV",
+          "tags": [
+            "FabTV",
+            "celebrities",
+            "tabloid",
+            "TV",
+            "Interviews",
+            "Movies",
+            "red carpet",
+            "premiere",
+            "fabtv.com",
+            "celebrity",
+            "famous",
+            "fame",
+            "star",
+            "actor",
+            "movie",
+            "premiere night",
+            "Anthony Ramos",
+            "Tobe Nwigwe",
+            "Peter Cullen",
+            "Ron Perlman",
+            "Peter Dinklage",
+            "Liza Koshy",
+            "Michaela Ja\u00e9 Rodriguez",
+            "Pete Davidson",
+            "Luna Lauren Velez",
+            "Cristo Fern\u00e1ndez",
+            "Director Steven Caple Jr.",
+            "Transformers: Rise of the Beasts",
+            "Transformers",
+            "Hasbro\u2019s Transformers",
+            "robots",
+            "action figures",
+            "liza koshy",
+            "Transformers Cast arrivals",
+            "Liza Koshy & Tobe Nwigwe"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Liza Koshy & Tobe Nwigwe Discuss Transformers: Rise of the Beasts",
+            "description": "Liza Koshy & Tobe Nwigwe Interview\n\nReturning to the action and spectacle that have captured moviegoers around the world, Transformers: Rise of the Beasts will take audiences on a \u201890s globetrotting adventure with the Autobots and introduce a whole new faction of Transformer \u2013 the Maximals \u2013 to join them as allies in the existing battle for earth. Directed by Steven Caple Jr. and starring Anthony Ramos and Dominique Fishback, the film arrives in theatres June 9, 2023.\n\nParamount Pictures and Skydance Present\n\nIn Association with Hasbro and New Republic Pictures\n\nA Don Murphy/Tom DeSanto Production\n\nA di Bonaventura Pictures Production\n\nA Bay Films Production\n\n\n\nDIRECTED BY\n\nSteven Caple Jr.\n\n\n\nSCREENPLAY BY\n\nJoby Harold and Darnell Metayer & Josh Peters\n\nand Erich Hoeber & Jon Hoeber\n\nSTORY BY \n\nJoby Harold\n\nBASED ON\n\nHasbro\u2019s Transformers\u2122 Action Figures\n\nPRODUCED BY \n\nLorenzo di Bonaventura, Tom DeSanto & Don Murphy, Michael Bay,\n\nMark Vahradian, Duncan Henderson\n\n\n\nEXECUTIVE PRODUCERS\n\nSteven Spielberg, Brian Goldner, David Ellison, Dana Goldberg,\n\nDon Granger, Brian Oliver, Bradley J. Fischer, Valerii An\n\n\n\nCAST\n\nAnthony Ramos, Dominique Fishback, Luna Lauren Velez, Dean Scott Vazquez, Tobe Nwigwe, Peter Cullen, Ron Perlman,\n\nPeter Dinklage, Michelle Yeoh, Liza Koshy, John DiMaggio, David Sobolov,\n\nMichaela Ja\u00e9 Rodriguez, Pete Davidson, Colman Domingo, Cristo Fern\u00e1ndez, Tongayi ChirisaFROM THE TRANSFORMERS: RISE OF THE BEASTS\n\nNEW YORK CITY PREMIERE AT THE KINGS THEATER IN BROOKLYN, NY\n\nIn attendance were the cast and filmmakers, including \n\nAnthony Ramos, Dominique Fishback, Tobe Nwigwe, Peter Cullen, Ron Perlman, \n\nPeter Dinklage, Liza Koshy, Michaela Ja\u00e9 Rodriguez, Pete Davidson, \n\nLuna Lauren Velez, Cristo Fern\u00e1ndez, and Director Steven Caple Jr. #transformers #fabtv #redcarpet #nyc #paramountpictures #anthonyramos  #lizakoshy"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "208",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "muKGf2jdpLDJ4SOXIihhLtiEsgA",
+        "id": "_-tb6B7PPXs",
+        "snippet": {
+          "publishedAt": "2023-08-09T17:08:41Z",
+          "channelId": "UCsNdG92SwUpY_1n2JmPTq5g",
+          "title": "Cop Talks - Mad Ron & Matt Price - Edinburgh Fringe 2023",
+          "description": "Get ready for an intriguing and slightly unconventional YouTube video that promises to unravel the enigmatic personas of Mad Ron and Matt Price. In this captivating and unfiltered conversation, they join Copstick on the sofa to discuss the world of stand-up comedy, character comedy, and even delve into the intriguing topic of organised crime.\n\nUnmasking the Comedy World: Join us as Mad Ron and Matt Price peel back the layers of their comedic personas, offering a glimpse into the creative process, the inspiration behind characters, and the challenges of performing comedy.\n\nA Glimpse into the Underworld: The conversation takes a turn as they explore the world of organised crime. Are they as hard as they look? Tune in to find out!\n\nThis video is more than just entertainment; it's a unique exploration of comedy, creativity, and the unexpected. Whether you're a comedy enthusiast, a fan of character-driven humor, or simply someone with a curious mind, this conversation has something for everyone. Don't miss out on this engaging and enlightening chat with Copstick, Mad Ron, and Matt Price. Tune in now and get ready to be entertained, intrigued, and thoroughly amused!\n\nMad Ron: Crime School\nhttps://tickets.edfringe.com/whats-on/mad-ron-crime-school \n\nMatt Price: As Seen on CCTV\nhttps://tickets.edfringe.com/whats-on/matt-price-as-seen-on-cctv\n\nFind out more about Copstick\u2019s charity \nhttps://www.mamabiashara.com  \n\n------------------------------------------------------------------------------------------------------------------- \nCatch us everywhere \nwww.entertainment-now.com\nInstagram: https://www.instagram.com/entertainment_nowuk/\nFacebook: https://www.facebook.com/EntmtNow\nTwitter: https://twitter.com/EntmtNow\nTiktok: https://www.tiktok.com/@entertainmentnowuk\n\n#edinburghfringe #edinburghfringefestival #edinburghinaugust #edinburghfestivalfringe2023 #edinburghfestival #bestshowsatthefringe #whattodoatthefringe #fringe2023 #fringetips #fringefestival #madron #mattprice",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_-tb6B7PPXs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Entertainment Now",
+          "tags": [
+            "Edinburgh Fringe",
+            "Edinburgh Fringe Festival",
+            "Edinburgh fringe 2023",
+            "Mad Ron",
+            "Matt Price"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cop Talks - Mad Ron & Matt Price - Edinburgh Fringe 2023",
+            "description": "Get ready for an intriguing and slightly unconventional YouTube video that promises to unravel the enigmatic personas of Mad Ron and Matt Price. In this captivating and unfiltered conversation, they join Copstick on the sofa to discuss the world of stand-up comedy, character comedy, and even delve into the intriguing topic of organised crime.\n\nUnmasking the Comedy World: Join us as Mad Ron and Matt Price peel back the layers of their comedic personas, offering a glimpse into the creative process, the inspiration behind characters, and the challenges of performing comedy.\n\nA Glimpse into the Underworld: The conversation takes a turn as they explore the world of organised crime. Are they as hard as they look? Tune in to find out!\n\nThis video is more than just entertainment; it's a unique exploration of comedy, creativity, and the unexpected. Whether you're a comedy enthusiast, a fan of character-driven humor, or simply someone with a curious mind, this conversation has something for everyone. Don't miss out on this engaging and enlightening chat with Copstick, Mad Ron, and Matt Price. Tune in now and get ready to be entertained, intrigued, and thoroughly amused!\n\nMad Ron: Crime School\nhttps://tickets.edfringe.com/whats-on/mad-ron-crime-school \n\nMatt Price: As Seen on CCTV\nhttps://tickets.edfringe.com/whats-on/matt-price-as-seen-on-cctv\n\nFind out more about Copstick\u2019s charity \nhttps://www.mamabiashara.com  \n\n------------------------------------------------------------------------------------------------------------------- \nCatch us everywhere \nwww.entertainment-now.com\nInstagram: https://www.instagram.com/entertainment_nowuk/\nFacebook: https://www.facebook.com/EntmtNow\nTwitter: https://twitter.com/EntmtNow\nTiktok: https://www.tiktok.com/@entertainmentnowuk\n\n#edinburghfringe #edinburghfringefestival #edinburghinaugust #edinburghfestivalfringe2023 #edinburghfestival #bestshowsatthefringe #whattodoatthefringe #fringe2023 #fringetips #fringefestival #madron #mattprice"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT17M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "668",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lUAUb7G9xNw75TzaV7Cjm2sJeEU",
+        "id": "KXgSG4llw2Y",
+        "snippet": {
+          "publishedAt": "2023-03-04T22:46:01Z",
+          "channelId": "UCYQv0YkjbG1A0Y_iz_lZ5iA",
+          "title": "Gino Rivera!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KXgSG4llw2Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Championship On The Line",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Gino Rivera!",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1807",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Lo0NWoy7jktHrRtmo16cQky4eJc",
+        "id": "xZeTy-YOiv0",
+        "snippet": {
+          "publishedAt": "2023-09-01T15:20:18Z",
+          "channelId": "UCkZcqolV-VK14tHoxetIiow",
+          "title": "Sal Guerriero talks Big LFA Opportunity, ATT, Coaches, Training, STA HS, MMA, Family, Josh Silveira",
+          "description": "Video interview with up-n-coming MMA talent Sal Guerriero at American Top Team in (South Florida) Coconut Creek.\nGuerriero, 27, is a graduate of (Fort Lauderdale-based) St. Thomas Aquinas High School, where he starred in wrestling. He is 6-3 in MMA and is preparing for his biggest fight to date for Legacy Fighting Alliance during LFA 168 on Friday, Sept. 22 at the Mystic Lake Casino Hotel in Prior Lake, Minnesota.\nLFA 168 will be broadcast live at 9 p.m. ET / 6 p.m. PT on UFC FIGHT PASS.\nGuerriero fought in January on an AFL card, defeating Matthew Knauss by KO/TKO at 1:40 of the first round at the Seminole Hard Rock Hotel & Casino near (South Florida) Hollywood.\nGuerriero grew up friends with PFL title contender Josh Silveira. Guerriero's dad and uncle trained under the legendary Marcus \"Conan\" Silveira, a co-founder of American Top Team along with Dan Lambert. Conan is Josh's dad, and Guerriero's uncle Richie is an integral part of ATT.\nWeb: https://www.lfa.com/\nFacebook: https://www.facebook.com/LFAfighting/\nTwitter/X: https://twitter.com/LFAfighting\nInstagram: https://www.instagram.com/lfafighting/\nYouTube: https://www.youtube.com/@LFA_Fighting",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xZeTy-YOiv0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xZeTy-YOiv0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xZeTy-YOiv0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pro Wrestling & MMA Interviews with Me (Jimmy V3)",
+          "tags": [
+            "sal guerriero",
+            "lfa",
+            "american top team",
+            "legacy fighting alliance",
+            "att",
+            "st. thomas aquinas high school",
+            "josh silveira",
+            "conan silveira",
+            "richie guerriero",
+            "mma"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sal Guerriero talks Big LFA Opportunity, ATT, Coaches, Training, STA HS, MMA, Family, Josh Silveira",
+            "description": "Video interview with up-n-coming MMA talent Sal Guerriero at American Top Team in (South Florida) Coconut Creek.\nGuerriero, 27, is a graduate of (Fort Lauderdale-based) St. Thomas Aquinas High School, where he starred in wrestling. He is 6-3 in MMA and is preparing for his biggest fight to date for Legacy Fighting Alliance during LFA 168 on Friday, Sept. 22 at the Mystic Lake Casino Hotel in Prior Lake, Minnesota.\nLFA 168 will be broadcast live at 9 p.m. ET / 6 p.m. PT on UFC FIGHT PASS.\nGuerriero fought in January on an AFL card, defeating Matthew Knauss by KO/TKO at 1:40 of the first round at the Seminole Hard Rock Hotel & Casino near (South Florida) Hollywood.\nGuerriero grew up friends with PFL title contender Josh Silveira. Guerriero's dad and uncle trained under the legendary Marcus \"Conan\" Silveira, a co-founder of American Top Team along with Dan Lambert. Conan is Josh's dad, and Guerriero's uncle Richie is an integral part of ATT.\nWeb: https://www.lfa.com/\nFacebook: https://www.facebook.com/LFAfighting/\nTwitter/X: https://twitter.com/LFAfighting\nInstagram: https://www.instagram.com/lfafighting/\nYouTube: https://www.youtube.com/@LFA_Fighting"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M16S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "98",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yJ9r8JhVXbYo_1oiaBteOiVkfZ4",
+        "id": "3wS_BuylVUo",
+        "snippet": {
+          "publishedAt": "2023-10-09T12:00:03Z",
+          "channelId": "UCbjP13RtPD2NmM9hhI78_5g",
+          "title": "The Crisis of Masculinity Explained - Will Knowland",
+          "description": "SUBSCRIBE to this channel: https://www.youtube.com/@nick_dixon\n\nSubscribe to The Current Thing audio podcast: https://podcasts.apple.com/gb/podcast/the-current-thing/id1671573905\n\nTwitter/X: https://twitter.com/nickdixoncomic\n\nSubstack: https://nickdixon.substack.com\n#politics #culturewar #feminism #patriarchy #podcast #podcasts #cancelculture #redpill #conservative #andrewtate #jordanpeterson #christianity",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3wS_BuylVUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nick Dixon",
+          "tags": [
+            "feminism",
+            "patriarchy",
+            "red pill",
+            "tradcon",
+            "conservative",
+            "pearl",
+            "tate",
+            "jordan peterson",
+            "will knowland",
+            "eton",
+            "cancel culture",
+            "podcast",
+            "podcasts",
+            "christianity",
+            "catholicism",
+            "andrew tate",
+            "rollo",
+            "fresh and fit",
+            "masculinity"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Crisis of Masculinity Explained - Will Knowland",
+            "description": "SUBSCRIBE to this channel: https://www.youtube.com/@nick_dixon\n\nSubscribe to The Current Thing audio podcast: https://podcasts.apple.com/gb/podcast/the-current-thing/id1671573905\n\nTwitter/X: https://twitter.com/nickdixoncomic\n\nSubstack: https://nickdixon.substack.com\n#politics #culturewar #feminism #patriarchy #podcast #podcasts #cancelculture #redpill #conservative #andrewtate #jordanpeterson #christianity"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1228",
+          "likeCount": "85",
+          "favoriteCount": "0",
+          "commentCount": "21"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IEhNpBbPZSTUjDWIyQcxQvyu6YY",
+        "id": "cCjHDaaD6sA",
+        "snippet": {
+          "publishedAt": "2023-04-20T09:53:20Z",
+          "channelId": "UCP_Zqha0ZBmoWswz2ATw9-A",
+          "title": "SVB's Collapse and M&A: Why Aerospace and Defense Are In a Goldilocks Position",
+          "description": "Stories about the collapse of banks rightfully spook investors in a variety of industries, but things aren\u2019t quite as dire as they are made out to be. Collapses make for great news stories, but if we really look at what\u2019s happening in the aerospace and defense market, there\u2019s no real cause for media panic. \n\nWhy is A&D in what my guest calls \u201cA Goldilocks Place\u201d right now? How do we separate media-fueled panic from what\u2019s actually happening?\n\nIn this episode, aerospace and defense M&A banker and Founder and President of Alderman & Company, Bill Alderman returns to share how the \u201ccredit scare\u201d is affecting A&D. \n\nThree Things You\u2019ll Learn In This Episode \n\n-Why aerospace and defense are in a really great place right now\nIt\u2019s very rare for both A & D to be having a good run. Why are they thriving?\n\n-How aerospace and defense have been affected by the \u201ccapital scare\u201d\nWith inflation and everything else going on, is this a great time to sell your aerospace and defense business?\n\n-Strategic buyers are keeping the market honest\nAre financial buyers taking advantage of the situation to try and get a better deal? \n\n\nGuest Bio \n\nWilliam \u2018Bill\u2019 Alderman is the Founder and President of Alderman & Company who are aerospace and defense M&A bankers. Bill has always had a passion for aviation, and is both a commercial pilot and aircraft owner. Today, he uses his expertise, coupled with his interests to represent Middle Market Sellers in the Aerospace and Defense industry. \n\nTo find out more, go to:\nhttps://aldermanco.com/ \n\nYou can also call or text him on: \n9144144070\n\nOr email him at: \nwa@aldermanco.com \n\nLearn More About Your Host:\n\nCo-founder and Managing Partner for Northstar Group, Craig is focused on recruiting senior level leadership, sales and operations executives for some of the most prominent companies in the aviation and aerospace industry. Clients include well known aircraft OEM\u2019s, aircraft operators, leasing / financial organizations, and Maintenance / Repair / Overhaul (MRO) providers. \n\nSince 2009 Craig has personally concluded more than 150 executive searches in a variety of disciplines. As the only executive recruiter who has flown airplanes, sold airplanes AND run a business, Craig is uniquely positioned to build deep, lasting relationships with both executives and the boards and stakeholders they serve. This allows him to use a detailed, disciplined process that does more than pair the ideal candidate with the perfect opportunity, and hit the business goals of the companies he serves.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cCjHDaaD6sA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Aerospace Executive Podcast",
+          "tags": [
+            "aerospace executive search firm",
+            "aviation",
+            "aerospace",
+            "executive",
+            "search firm",
+            "korn ferry",
+            "michael bell",
+            "advisory firm",
+            "mckinsey",
+            "technology",
+            "c-suite",
+            "MRO",
+            "maintenance",
+            "repair",
+            "gulfstream",
+            "bombardier",
+            "Aircraft support- Aircraft operations",
+            "leasing",
+            "aerial",
+            "mubadala",
+            "air transport",
+            "business jet",
+            "private jet",
+            "airplane"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "SVB's Collapse and M&A: Why Aerospace and Defense Are In a Goldilocks Position",
+            "description": "Stories about the collapse of banks rightfully spook investors in a variety of industries, but things aren\u2019t quite as dire as they are made out to be. Collapses make for great news stories, but if we really look at what\u2019s happening in the aerospace and defense market, there\u2019s no real cause for media panic. \n\nWhy is A&D in what my guest calls \u201cA Goldilocks Place\u201d right now? How do we separate media-fueled panic from what\u2019s actually happening?\n\nIn this episode, aerospace and defense M&A banker and Founder and President of Alderman & Company, Bill Alderman returns to share how the \u201ccredit scare\u201d is affecting A&D. \n\nThree Things You\u2019ll Learn In This Episode \n\n-Why aerospace and defense are in a really great place right now\nIt\u2019s very rare for both A & D to be having a good run. Why are they thriving?\n\n-How aerospace and defense have been affected by the \u201ccapital scare\u201d\nWith inflation and everything else going on, is this a great time to sell your aerospace and defense business?\n\n-Strategic buyers are keeping the market honest\nAre financial buyers taking advantage of the situation to try and get a better deal? \n\n\nGuest Bio \n\nWilliam \u2018Bill\u2019 Alderman is the Founder and President of Alderman & Company who are aerospace and defense M&A bankers. Bill has always had a passion for aviation, and is both a commercial pilot and aircraft owner. Today, he uses his expertise, coupled with his interests to represent Middle Market Sellers in the Aerospace and Defense industry. \n\nTo find out more, go to:\nhttps://aldermanco.com/ \n\nYou can also call or text him on: \n9144144070\n\nOr email him at: \nwa@aldermanco.com \n\nLearn More About Your Host:\n\nCo-founder and Managing Partner for Northstar Group, Craig is focused on recruiting senior level leadership, sales and operations executives for some of the most prominent companies in the aviation and aerospace industry. Clients include well known aircraft OEM\u2019s, aircraft operators, leasing / financial organizations, and Maintenance / Repair / Overhaul (MRO) providers. \n\nSince 2009 Craig has personally concluded more than 150 executive searches in a variety of disciplines. As the only executive recruiter who has flown airplanes, sold airplanes AND run a business, Craig is uniquely positioned to build deep, lasting relationships with both executives and the boards and stakeholders they serve. This allows him to use a detailed, disciplined process that does more than pair the ideal candidate with the perfect opportunity, and hit the business goals of the companies he serves."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT31M13S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "236",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EUfLGN3qNqZA6BsefIiRhBS8B4M",
+        "id": "cdXNiWcPC5Q",
+        "snippet": {
+          "publishedAt": "2023-08-29T15:00:24Z",
+          "channelId": "UCl9StMQ79LtEvlrskzjoYbQ",
+          "title": "Peter van Inwagen - What Things Really Exist?",
+          "description": "When you ask what things really exist, and you think deeply about this probe to apprehend what is out there, you see the whole world anew. What are the most general categories to understand the world? It\u2019s such a simple question; how can it inspire such profound insights?\n\nMake a donation to Closer To Truth to help us continue exploring the world's deepest questions without the need for paywalls: https://shorturl.at/OnyRq\n\nFree access to Closer to Truth's library of 5,000 videos: http://bit.ly/376lkKN\n\nWatch more interviews on the metaphysics of the cosmos: https://bit.ly/3R5mb90\n\nSupport the show with Closer To Truth merchandise: https://bit.ly/3P2ogje\n\nPeter van Inwagen is an American analytic philosopher and the John Cardinal O\u2019Hara Professor Emeritus of Philosophy at the University of Notre Dame.\n\nRegister for free at CTT.com for subscriber-only exclusives: https://bit.ly/3He94Ns\n\nCloser To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world\u2019s greatest thinkers exploring humanity\u2019s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cdXNiWcPC5Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Closer To Truth",
+          "tags": [
+            "closer to truth",
+            "robert lawrence kuhn",
+            "Peter van Inwagen",
+            "what exists",
+            "cosmos",
+            "cosmology",
+            "metaphysics"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Peter van Inwagen - What Things Really Exist?",
+            "description": "When you ask what things really exist, and you think deeply about this probe to apprehend what is out there, you see the whole world anew. What are the most general categories to understand the world? It\u2019s such a simple question; how can it inspire such profound insights?\n\nMake a donation to Closer To Truth to help us continue exploring the world's deepest questions without the need for paywalls: https://shorturl.at/OnyRq\n\nFree access to Closer to Truth's library of 5,000 videos: http://bit.ly/376lkKN\n\nWatch more interviews on the metaphysics of the cosmos: https://bit.ly/3R5mb90\n\nSupport the show with Closer To Truth merchandise: https://bit.ly/3P2ogje\n\nPeter van Inwagen is an American analytic philosopher and the John Cardinal O\u2019Hara Professor Emeritus of Philosophy at the University of Notre Dame.\n\nRegister for free at CTT.com for subscriber-only exclusives: https://bit.ly/3He94Ns\n\nCloser To Truth, hosted by Robert Lawrence Kuhn and directed by Peter Getzels, presents the world\u2019s greatest thinkers exploring humanity\u2019s deepest questions. Discover fundamental issues of existence. Engage new and diverse ways of thinking. Appreciate intense debates. Share your own opinions. Seek your own answers."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13932",
+          "likeCount": "386",
+          "favoriteCount": "0",
+          "commentCount": "152"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "u6qwe8HxKT4_Ifwrcz_SbZYaPig",
+        "id": "7c0Mnd3X068",
+        "snippet": {
+          "publishedAt": "2023-05-14T17:30:48Z",
+          "channelId": "UC5G6kTnHXDz0WIBC2VGBOqg",
+          "title": "Final Day Drivers\u2019 Wrap | WRC Vodafone Rally de Portugal 2023",
+          "description": "Time to recap on another exciting WRC Vodafone Rally de Portugal with our Rally1 drivers.\n\nFor more WRC videos, visit https://www.wrc.com\n\nEnjoy every stage LIVE or on demand, with exclusive access and onboard footage at https://www.wrcplus.com \n\nFollow WRC:\nhttps://www.facebook.com/WorldRally\nhttps://www.twitter.com/OfficialWRC\nhttps://www.instagram.com/OfficialWRC\nhttps://www.tiktok.com/@wrc",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7c0Mnd3X068/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FIA World Rally Championship",
+          "tags": [
+            "wrc",
+            "world rally championship",
+            "rallye",
+            "rallying",
+            "wrc 23",
+            "motorsport",
+            "car",
+            "car video",
+            "Toyota",
+            "Ford",
+            "Hyundai",
+            "livestream",
+            "wrc for free",
+            "wrc free livestream",
+            "rally video",
+            "showcar",
+            "driving"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Final Day Drivers\u2019 Wrap | WRC Vodafone Rally de Portugal 2023",
+            "description": "Time to recap on another exciting WRC Vodafone Rally de Portugal with our Rally1 drivers.\n\nFor more WRC videos, visit https://www.wrc.com\n\nEnjoy every stage LIVE or on demand, with exclusive access and onboard footage at https://www.wrcplus.com \n\nFollow WRC:\nhttps://www.facebook.com/WorldRally\nhttps://www.twitter.com/OfficialWRC\nhttps://www.instagram.com/OfficialWRC\nhttps://www.tiktok.com/@wrc"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10616",
+          "likeCount": "314",
+          "favoriteCount": "0",
+          "commentCount": "19"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EAU-3ncjBq6Taw6yO8u-KT4EMOs",
+        "id": "hk-rAJf9gwY",
+        "snippet": {
+          "publishedAt": "2023-05-08T23:00:14Z",
+          "channelId": "UClmAE6wR95wRy10CvyDuBJQ",
+          "title": "Nick Becker 3x Undefeated National Champion, Creating a Legacy, How to Grow Wrestling!",
+          "description": "Welcome to Clash Of Combat\nStretch Your Limits here --- dopamineo.com \n\nContact: clashofcombat23@gmail.com\nEmail us to buy our custom metal logo - to fundraise :)\n\nThank you for all who is making this possible and making this into a reality!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hk-rAJf9gwY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Clash of Combat",
+          "tags": [
+            "clash of combat",
+            "podcast",
+            "wrestling podcast",
+            "nick becker",
+            "how to grow wrestling",
+            "mma podcast"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nick Becker 3x Undefeated National Champion, Creating a Legacy, How to Grow Wrestling!",
+            "description": "Welcome to Clash Of Combat\nStretch Your Limits here --- dopamineo.com \n\nContact: clashofcombat23@gmail.com\nEmail us to buy our custom metal logo - to fundraise :)\n\nThank you for all who is making this possible and making this into a reality!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H12M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9311",
+          "likeCount": "260",
+          "favoriteCount": "0",
+          "commentCount": "34"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "48AVqKnb3vJqor2V8M2IjqHIiBk",
+        "id": "s7Pk7PCXM2M",
+        "snippet": {
+          "publishedAt": "2023-05-06T08:00:08Z",
+          "channelId": "UCQIi9gqAvhcGkZOsIWa1Ynw",
+          "title": "Israel Adesanya donne son pronos pour Aljamain Sterling vs Henry Cejudo #ufc288",
+          "description": "Vid\u00e9o originale : https://www.youtube.com/watch?v=8d1kt1eHnnA\n\nSoutenez mon travail en me suivant sur Patreon (interviews / conf\u00e9rences de presse compl\u00e8tes, vid\u00e9os de techniques, etc) \ud83e\udd1d  https://www.patreon.com/MMAfanatics",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/s7Pk7PCXM2M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MMA Fanatics",
+          "tags": [
+            "ufc 285",
+            "aljamain sterling",
+            "petr yan",
+            "bantamweight champion",
+            "champion poids coqs",
+            "ufc champ",
+            "ceinture ufc",
+            "tj dillashaw",
+            "henry cejudo",
+            "chito vera",
+            "ufc 280",
+            "ufc 273",
+            "soumission",
+            "lutte",
+            "mma",
+            "superstar",
+            "buzz",
+            "drole",
+            "humour",
+            "vulgaire",
+            "trashtalk",
+            "interview",
+            "ariel helwani",
+            "mmahour",
+            "pay per view",
+            "argent",
+            "ppv",
+            "conor mcgregor",
+            "jon jones",
+            "francis ngannou",
+            "ciryl gane",
+            "hater",
+            "bad buzz",
+            "clown",
+            "islam makhachev",
+            "charles oliveira",
+            "traduction francaise",
+            "trad fr",
+            "alexander volkanovski",
+            "sean omalley"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Israel Adesanya donne son pronos pour Aljamain Sterling vs Henry Cejudo #ufc288",
+            "description": "Vid\u00e9o originale : https://www.youtube.com/watch?v=8d1kt1eHnnA\n\nSoutenez mon travail en me suivant sur Patreon (interviews / conf\u00e9rences de presse compl\u00e8tes, vid\u00e9os de techniques, etc) \ud83e\udd1d  https://www.patreon.com/MMAfanatics"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1637",
+          "likeCount": "53",
+          "favoriteCount": "0",
+          "commentCount": "9"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "15leGCLfp-KStBPXzsQH6jmSHlI",
+        "id": "yM7RblhFDlU",
+        "snippet": {
+          "publishedAt": "2023-04-20T18:00:22Z",
+          "channelId": "UCBwqvyZyc2bpzI-kOYhwrkw",
+          "title": "City of God vs. City of Man - Timothy Flanders | Catholic Culture Podcast #158",
+          "description": "It's time for a big-picture look at Church history! Timothy S. Flanders joins the podcast to discuss his book City of God vs. City of Man: The Battles of the Church from Antiquity to the Present. The book is a synthesis of the approaches of St. Augustine and Christopher Dawson, whom Timothy calls the two greatest Catholic historians.\n\nThemes discussed include:\n\u2022 The Hebrew (Old Testament) view of history\n\u2022 The need for alliance between the \"strict\" and \"moderate\" parties of Catholic orthodoxy\n\u2022 Ethnic pluralism in Christendom\n\u2022 The Grand Coalition of the Status Quo\n\u2022 The ideology of Roma and its role in the Eastern schism\n\u2022 The love of money as a key factor in the breakdown of Christendom\n\nLINKS\n\nCity of God vs. City of Man: The Battles of the Church from Antiquity to the Present https://www.amazon.com/City-God-vs-Man-Antiquity/dp/0578317346/\n\nThe Meaning of Catholic https://www.youtube.com/channel/UCaMoKEEA-KKDNgx3icjA36Q\n\nSUBSCRIBE to the Catholic Culture Podcast https://podcasts.apple.com/us/podcast/the-catholic-culture-podcast/id1377089807\n\nDONATE to make this show possible! http://catholicculture.org/donate/audio\n\nGo to Catholic Culture's website for tons of written content, including news, articles, liturgical year info, and a vast library of documents: https://www.catholicculture.org\n\nSOCIAL\nhttps://twitter.com/CatholicPods\nhttps://www.facebook.com/catholicculture",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yM7RblhFDlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Catholic Culture",
+          "tags": [
+            "catholic",
+            "culture",
+            "christian",
+            "religion",
+            "art",
+            "faith",
+            "spirituality",
+            "music",
+            "history",
+            "fathers",
+            "ancient"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "City of God vs. City of Man - Timothy Flanders | Catholic Culture Podcast #158",
+            "description": "It's time for a big-picture look at Church history! Timothy S. Flanders joins the podcast to discuss his book City of God vs. City of Man: The Battles of the Church from Antiquity to the Present. The book is a synthesis of the approaches of St. Augustine and Christopher Dawson, whom Timothy calls the two greatest Catholic historians.\n\nThemes discussed include:\n\u2022 The Hebrew (Old Testament) view of history\n\u2022 The need for alliance between the \"strict\" and \"moderate\" parties of Catholic orthodoxy\n\u2022 Ethnic pluralism in Christendom\n\u2022 The Grand Coalition of the Status Quo\n\u2022 The ideology of Roma and its role in the Eastern schism\n\u2022 The love of money as a key factor in the breakdown of Christendom\n\nLINKS\n\nCity of God vs. City of Man: The Battles of the Church from Antiquity to the Present https://www.amazon.com/City-God-vs-Man-Antiquity/dp/0578317346/\n\nThe Meaning of Catholic https://www.youtube.com/channel/UCaMoKEEA-KKDNgx3icjA36Q\n\nSUBSCRIBE to the Catholic Culture Podcast https://podcasts.apple.com/us/podcast/the-catholic-culture-podcast/id1377089807\n\nDONATE to make this show possible! http://catholicculture.org/donate/audio\n\nGo to Catholic Culture's website for tons of written content, including news, articles, liturgical year info, and a vast library of documents: https://www.catholicculture.org\n\nSOCIAL\nhttps://twitter.com/CatholicPods\nhttps://www.facebook.com/catholicculture"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H20M38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1654",
+          "likeCount": "60",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Blmij8Q5T6X4yfcRRamjpnvjeto",
+        "id": "80DyIYz4HZo",
+        "snippet": {
+          "publishedAt": "2023-07-08T23:18:03Z",
+          "channelId": "UCfJTU5T-i1xrN1LRmI5f0bQ",
+          "title": "Kendall Coleman vs. Derek Gilcher",
+          "description": "Arguably the best wrestlers on Purdue and Indiana faced off in this match. Coleman improved to 2-0 against Gilcher with this win and a 10-3 decision in 2022. \n\nCraig Combs - play-by-play\nBrendon Gorham - color",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/80DyIYz4HZo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brendon Gorham",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kendall Coleman vs. Derek Gilcher",
+            "description": "Arguably the best wrestlers on Purdue and Indiana faced off in this match. Coleman improved to 2-0 against Gilcher with this win and a 10-3 decision in 2022. \n\nCraig Combs - play-by-play\nBrendon Gorham - color"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1089",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "unYTAxDN2AK4khON1nzfIT449VE",
+        "id": "RlwaYDIljPo",
+        "snippet": {
+          "publishedAt": "2023-08-20T01:24:33Z",
+          "channelId": "UCvBQ_bH--C2aL1_7lJcG-qQ",
+          "title": "EL AJUSTE FINO EL MEJOR ARGUMENTO PARA RICHARD DAWKINS Y LA EXISTENCIA DE  DIOS #jesus #biblia #dios",
+          "description": "EL AJUSTE FINO EL MEJOR ARGUMENTO PARA RICHARD DAWKINS Y LA EXISTENCIA DE  DIOS #jesus #biblia #dios",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RlwaYDIljPo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CARLOS VELOZ FE Y RAZON",
+          "tags": [
+            "apologetica cristiana",
+            "fe y razon",
+            "debates catolicismo vs cristianismo",
+            "dejen el relaqjo",
+            "alofoke radio show"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es-419",
+          "localized": {
+            "title": "EL AJUSTE FINO EL MEJOR ARGUMENTO PARA RICHARD DAWKINS Y LA EXISTENCIA DE  DIOS #jesus #biblia #dios",
+            "description": "EL AJUSTE FINO EL MEJOR ARGUMENTO PARA RICHARD DAWKINS Y LA EXISTENCIA DE  DIOS #jesus #biblia #dios"
+          },
+          "defaultAudioLanguage": "es-419"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1404",
+          "likeCount": "56",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RXaJnxJu53-uF6d8hDT4_ofMelI",
+        "id": "vfx_bJ3yUn8",
+        "snippet": {
+          "publishedAt": "2023-02-18T05:20:07Z",
+          "channelId": "UChozbOPP6uOJ2UkiTZy-sgQ",
+          "title": "Introduction to Orthodox Christianity: A Practical Guide for Inquirers",
+          "description": "Looking for an introduction to Orthodox Christianity? This video offers a compelling guide to Orthodoxy\u2014its spiritual depth, living tradition, and timeless truth.\n\nFr. Peter Heers explains why Orthodoxy doesn\u2019t need reform, how the Saints embody the same life of Christ seen in the Apostles, and why truth\u2014not emotion\u2014is the foundation of authentic faith. You\u2019ll learn what it means to become a catechumen, how to approach the Church with reverence, and why a trusted spiritual guide is essential.\n\nIf you're asking what is Orthodox Christianity and how to enter fully into it, this video is for you. This talk is more than informational\u2014it\u2019s a call to repentance, discipleship, and communion with Christ in His Body, the Orthodox Church.\n\nWatch PART ONE of this series: https://youtube.com/live/4BV0SBo3bGw?feature=share\n\nChapters:\n00:00 \u2013 Introduction\n02:52 \u2013 Following the Holy Fathers Tradition\n04:19 \u2013 Contemporary Search for Spiritual Experience\n08:39 \u2013 Orthodox Church's Living Tradition\n13:19 \u2013 Contemporary Orthodox Saints and Elders\n21:14 \u2013 How to Approach Orthodox Christianity\n24:58 \u2013 Finding a Trusted Orthodox Guide\n29:47 \u2013 Stability in Orthodox Church\n33:05 \u2013 Avoiding Extremes in Orthodoxy\n34:48 \u2013 The Church as Christ's Body\n39:04 \u2013 Understanding the Catechumenate Process\n45:55 \u2013 Recommended Orthodox Reading List\n49:42 \u2013 Example of St. Anthony the Great\n52:06 \u2013 Beginning the Question & Answer Session\n53:09 \u2013 Leading Family into Orthodox Christianity\n57:20 \u2013 Orthodox Baptism and Economia\n59:13 \u2013 Orthodox Teaching on Afterlife (Toll Houses)\n1:03:37 \u2013 Avoiding Modernism in Orthodox Churches\n1:08:57 \u2013 Contradictions Between Orthodox Saints\n1:11:45 \u2013 Teenager Seeking Orthodox Christianity\n1:14:16 \u2013 Developing Patristic Orthodox Mind\n1:19:28 \u2013 Finding a Traditional Orthodox Parish\n1:23:01 \u2013 Orthodox Church Live Streaming\n1:27:07 \u2013 No Orthodox Church Near Me\n1:30:34 \u2013 Orthodoxy and Political Change\n1:36:07 \u2013 Choosing Between Orthodox Jurisdictions\n1:36:44 \u2013 Christ Living in Orthodox Saints\n1:38:08 \u2013 Orthodox Church and COVID\n1:41:56 \u2013 Holy Scripture and Holy Fathers\n1:44:35 \u2013 Jesus Prayer for Non-Orthodox\n1:46:46 \u2013 How Can I Love God With All My Heart?\n1:52:09 \u2013 Genesis 6 Orthodox Interpretation\n1:52:43 \u2013 Orthodox Saints vs Catholic Saints\n1:57:57 \u2013 Becoming Orthodox: Next Steps Guide\n1:59:51 \u2013 Orthodox Church in America Discussion\n2:02:23 \u2013 Livestreaming Services Guidelines and Problems\n2:05:02 \u2013 Baptism vs Chrismation Debate Explained\n2:08:28 \u2013 Spiritual Growth and Humility Questions\n2:10:03 \u2013 Poor Behavior In Orthodox Apologetics\n2:12:20 \u2013 Lent Fasting Guidelines for Beginners\n2:15:08 \u2013 Exorcism and Spiritual Curses Discussion\n2:16:39 \u2013 Orthodox Jurisdictions in America Recommendations\n2:17:32 \u2013 Icon Veneration and Self Disgust\n2:19:38 \u2013 Prayer Rules for Orthodox Beginners\n2:24:23 \u2013 Recommended Orthodox Prayer Book Options\n2:25:39 \u2013 How to Force Yourself to Pray\n2:27:53 \u2013 Orthodox Monasticism and Reading Literature\n2:28:45 \u2013 Incense Sensitivity Solutions for Church\n2:30:33 \u2013 Orthodox Theology vs Protestant Views\n2:31:38 \u2013 Phariseeism in Christianity\n2:32:57 \u2013 Grace Outside the Orthodox Church\n2:40:12 \u2013 My Father is Offering Me Something Sinful...\n2:42:44 \u2013 Submitting to Christ Over Worldly Bonds\n2:45:08 \u2013 Why Orthodox Clergy Have Beards\n2:48:00 \u2013 Divine and Human Nature Questions\n2:48:25 \u2013 \"Upon this rock I will build My Church\" Explained\n2:51:27 \u2013 Tips for Learning Greek Language\n2:52:29 \u2013 Eating Out During Lent Guidelines\n2:53:27 \u2013 Choosing a Spiritual Father Outside My Parish\n\nOur mission is to present and support the Orthodox Christian Way, Truth, and Life, which is Christ Himself \u2014 guiding souls to communion in His Body, faithful to the teachings of the Holy Fathers. \n\n\ud83d\udc49 Become a YouTube Member for exclusive livestreams and videos, Q&A\u2019s, book discounts, and more:\nhttps://www.youtube.com/channel/UChozbOPP6uOJ2UkiTZy-sgQ/join\n\n\ud83c\udfa5 New to Orthodoxy? Start here with our \"Orthodoxy 101\" playlist\nhttps://www.youtube.com/playlist?list=PLCFiE3qfVkDisaFlaa38cO_iTvnpsUnhc\n\n\ud83d\udcda Explore our full collection of Orthodox Christian books:\nhttps://www.uncutmountainpress.com\n\n\ud83d\udcdd Read our blog for weekly insights on Orthodox faith and tradition:\nhttps://www.orthodoxethos.com/blog\n\n\u2709\ufe0f Questions? Contact us at: team@orthodoxethos.com\n\n#OrthodoxChristianityExplained #Orthodoxy #ConvertToOrthodoxy #OrthodoxChristianity #IntroductionToOrthodoxy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vfx_bJ3yUn8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Orthodox Ethos",
+          "tags": [
+            "Introduction to Orthodox Christianity",
+            "introduction to orthodoxy",
+            "Intro to Orthodoxy",
+            "how to become orthodox christian",
+            "Orthodox Church",
+            "eastern orthodox",
+            "russian orthodox",
+            "greek orthodox",
+            "church fathers",
+            "holy tradition",
+            "holy fathers",
+            "catechumen orthodox",
+            "Orthodox theology",
+            "Orthodox teaching",
+            "orthodox christianity explained",
+            "Orthodox Christian",
+            "orthodoxy explained",
+            "orthodox saints",
+            "orthodox books",
+            "spiritual father",
+            "fr. peter heers",
+            "orthodox ethos",
+            "converting to orthodoxy"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Introduction to Orthodox Christianity: A Practical Guide for Inquirers",
+            "description": "Looking for an introduction to Orthodox Christianity? This video offers a compelling guide to Orthodoxy\u2014its spiritual depth, living tradition, and timeless truth.\n\nFr. Peter Heers explains why Orthodoxy doesn\u2019t need reform, how the Saints embody the same life of Christ seen in the Apostles, and why truth\u2014not emotion\u2014is the foundation of authentic faith. You\u2019ll learn what it means to become a catechumen, how to approach the Church with reverence, and why a trusted spiritual guide is essential.\n\nIf you're asking what is Orthodox Christianity and how to enter fully into it, this video is for you. This talk is more than informational\u2014it\u2019s a call to repentance, discipleship, and communion with Christ in His Body, the Orthodox Church.\n\nWatch PART ONE of this series: https://youtube.com/live/4BV0SBo3bGw?feature=share\n\nChapters:\n00:00 \u2013 Introduction\n02:52 \u2013 Following the Holy Fathers Tradition\n04:19 \u2013 Contemporary Search for Spiritual Experience\n08:39 \u2013 Orthodox Church's Living Tradition\n13:19 \u2013 Contemporary Orthodox Saints and Elders\n21:14 \u2013 How to Approach Orthodox Christianity\n24:58 \u2013 Finding a Trusted Orthodox Guide\n29:47 \u2013 Stability in Orthodox Church\n33:05 \u2013 Avoiding Extremes in Orthodoxy\n34:48 \u2013 The Church as Christ's Body\n39:04 \u2013 Understanding the Catechumenate Process\n45:55 \u2013 Recommended Orthodox Reading List\n49:42 \u2013 Example of St. Anthony the Great\n52:06 \u2013 Beginning the Question & Answer Session\n53:09 \u2013 Leading Family into Orthodox Christianity\n57:20 \u2013 Orthodox Baptism and Economia\n59:13 \u2013 Orthodox Teaching on Afterlife (Toll Houses)\n1:03:37 \u2013 Avoiding Modernism in Orthodox Churches\n1:08:57 \u2013 Contradictions Between Orthodox Saints\n1:11:45 \u2013 Teenager Seeking Orthodox Christianity\n1:14:16 \u2013 Developing Patristic Orthodox Mind\n1:19:28 \u2013 Finding a Traditional Orthodox Parish\n1:23:01 \u2013 Orthodox Church Live Streaming\n1:27:07 \u2013 No Orthodox Church Near Me\n1:30:34 \u2013 Orthodoxy and Political Change\n1:36:07 \u2013 Choosing Between Orthodox Jurisdictions\n1:36:44 \u2013 Christ Living in Orthodox Saints\n1:38:08 \u2013 Orthodox Church and COVID\n1:41:56 \u2013 Holy Scripture and Holy Fathers\n1:44:35 \u2013 Jesus Prayer for Non-Orthodox\n1:46:46 \u2013 How Can I Love God With All My Heart?\n1:52:09 \u2013 Genesis 6 Orthodox Interpretation\n1:52:43 \u2013 Orthodox Saints vs Catholic Saints\n1:57:57 \u2013 Becoming Orthodox: Next Steps Guide\n1:59:51 \u2013 Orthodox Church in America Discussion\n2:02:23 \u2013 Livestreaming Services Guidelines and Problems\n2:05:02 \u2013 Baptism vs Chrismation Debate Explained\n2:08:28 \u2013 Spiritual Growth and Humility Questions\n2:10:03 \u2013 Poor Behavior In Orthodox Apologetics\n2:12:20 \u2013 Lent Fasting Guidelines for Beginners\n2:15:08 \u2013 Exorcism and Spiritual Curses Discussion\n2:16:39 \u2013 Orthodox Jurisdictions in America Recommendations\n2:17:32 \u2013 Icon Veneration and Self Disgust\n2:19:38 \u2013 Prayer Rules for Orthodox Beginners\n2:24:23 \u2013 Recommended Orthodox Prayer Book Options\n2:25:39 \u2013 How to Force Yourself to Pray\n2:27:53 \u2013 Orthodox Monasticism and Reading Literature\n2:28:45 \u2013 Incense Sensitivity Solutions for Church\n2:30:33 \u2013 Orthodox Theology vs Protestant Views\n2:31:38 \u2013 Phariseeism in Christianity\n2:32:57 \u2013 Grace Outside the Orthodox Church\n2:40:12 \u2013 My Father is Offering Me Something Sinful...\n2:42:44 \u2013 Submitting to Christ Over Worldly Bonds\n2:45:08 \u2013 Why Orthodox Clergy Have Beards\n2:48:00 \u2013 Divine and Human Nature Questions\n2:48:25 \u2013 \"Upon this rock I will build My Church\" Explained\n2:51:27 \u2013 Tips for Learning Greek Language\n2:52:29 \u2013 Eating Out During Lent Guidelines\n2:53:27 \u2013 Choosing a Spiritual Father Outside My Parish\n\nOur mission is to present and support the Orthodox Christian Way, Truth, and Life, which is Christ Himself \u2014 guiding souls to communion in His Body, faithful to the teachings of the Holy Fathers. \n\n\ud83d\udc49 Become a YouTube Member for exclusive livestreams and videos, Q&A\u2019s, book discounts, and more:\nhttps://www.youtube.com/channel/UChozbOPP6uOJ2UkiTZy-sgQ/join\n\n\ud83c\udfa5 New to Orthodoxy? Start here with our \"Orthodoxy 101\" playlist\nhttps://www.youtube.com/playlist?list=PLCFiE3qfVkDisaFlaa38cO_iTvnpsUnhc\n\n\ud83d\udcda Explore our full collection of Orthodox Christian books:\nhttps://www.uncutmountainpress.com\n\n\ud83d\udcdd Read our blog for weekly insights on Orthodox faith and tradition:\nhttps://www.orthodoxethos.com/blog\n\n\u2709\ufe0f Questions? Contact us at: team@orthodoxethos.com\n\n#OrthodoxChristianityExplained #Orthodoxy #ConvertToOrthodoxy #OrthodoxChristianity #IntroductionToOrthodoxy"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2H55M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "264337",
+          "likeCount": "4583",
+          "favoriteCount": "0",
+          "commentCount": "348"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5MEKDE1n6ZozBnPhNX9LxK8mEkU",
+        "id": "WK85cK9NyHQ",
+        "snippet": {
+          "publishedAt": "2023-01-12T19:00:17Z",
+          "channelId": "UCtXtqlLdZYZm3060qVExXkA",
+          "title": "2 on 1 Wrestling Ultimate Finish by GEORGE IVANOV",
+          "description": "The 2 on 1 Wrestling Ultimate Finish by GEORGE IVANOV\n-\nFor The Best BJJ Instructional Videos, Check Out: https://bjjfanatics.com\n-\nFor all your BJJ Gear and Apparel Needs Visit - https://store.bjjfanatics.com/\n-\nAre you a BJJ Fanatics Insider? If not, you are missing out! Join now at: https://bjjfanatics.com/products/insiders-club\n-\nBernardo Faria is a 5x World Champion. Bernardo started training Brazilian Jiu-Jitsu in Juiz de Fora - MG, Brazil at the age of 14 in 2001. After receiving the Black Belt from his first instructor Ricardo Marques in 2008, He moved to Sao Paulo to join BJJ legend Fabio Gurgel and his Alliance team. After many years of training and winning many major titles, Bernardo moved to NYC in 2013 to train and teach at Marcelo Garcia Academy. In 2015 Bernardo achieved his dream of winning the IBJJF World Championship Open class title and his division, doing the double Gold and becoming the 1st in the IBJJF Ranking and also chosen as the best athlete of 2015. \n \nBernardo Faria has now taken on the mission to share some of the lessons, techniques, experiences and more that he has learned along in his 16 years and counting as a BJJ student, teacher and world class competitor.\n \nSubscribe to his channel, and join him in this amazing BJJ Journey. We promise that you will also improve your BJJ with his awesome Video Lessons, Episodes of his \"5 Minutes BJJ Talk\" and more...\n \nwww.fujisports.com -  15% OFF Coupon Code: FARIA15\n \nwww.bjjfanatics.com - 10% OFF Coupon Code: YOUTUBEFARIA\n \nwww.fujimats.com - 10% OFF Coupon Code: FARIAMAT10\n \nhttp://bernardofaria.com\nhttps://www.facebook.com/bernardofariabjj/\nhttps://www.instagram.com/bernardofariabjj/\nhttps://twitter.com/bernardofariajj\n \n.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WK85cK9NyHQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bernardo Faria BJJ Fanatics",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2 on 1 Wrestling Ultimate Finish by GEORGE IVANOV",
+            "description": "The 2 on 1 Wrestling Ultimate Finish by GEORGE IVANOV\n-\nFor The Best BJJ Instructional Videos, Check Out: https://bjjfanatics.com\n-\nFor all your BJJ Gear and Apparel Needs Visit - https://store.bjjfanatics.com/\n-\nAre you a BJJ Fanatics Insider? If not, you are missing out! Join now at: https://bjjfanatics.com/products/insiders-club\n-\nBernardo Faria is a 5x World Champion. Bernardo started training Brazilian Jiu-Jitsu in Juiz de Fora - MG, Brazil at the age of 14 in 2001. After receiving the Black Belt from his first instructor Ricardo Marques in 2008, He moved to Sao Paulo to join BJJ legend Fabio Gurgel and his Alliance team. After many years of training and winning many major titles, Bernardo moved to NYC in 2013 to train and teach at Marcelo Garcia Academy. In 2015 Bernardo achieved his dream of winning the IBJJF World Championship Open class title and his division, doing the double Gold and becoming the 1st in the IBJJF Ranking and also chosen as the best athlete of 2015. \n \nBernardo Faria has now taken on the mission to share some of the lessons, techniques, experiences and more that he has learned along in his 16 years and counting as a BJJ student, teacher and world class competitor.\n \nSubscribe to his channel, and join him in this amazing BJJ Journey. We promise that you will also improve your BJJ with his awesome Video Lessons, Episodes of his \"5 Minutes BJJ Talk\" and more...\n \nwww.fujisports.com -  15% OFF Coupon Code: FARIA15\n \nwww.bjjfanatics.com - 10% OFF Coupon Code: YOUTUBEFARIA\n \nwww.fujimats.com - 10% OFF Coupon Code: FARIAMAT10\n \nhttp://bernardofaria.com\nhttps://www.facebook.com/bernardofariabjj/\nhttps://www.instagram.com/bernardofariabjj/\nhttps://twitter.com/bernardofariajj\n \n."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5925",
+          "likeCount": "295",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "amhANeLk4fUoqhoYcXnxfBnhXQM",
+        "id": "bcNBfHsdqUo",
+        "snippet": {
+          "publishedAt": "2023-06-24T11:50:00Z",
+          "channelId": "UCKyiCRZfoPQDLfss1QbB9Vg",
+          "title": "Design in Motion: The Captivating Art of Movement with Rommel Ruiz (Ep. 18)",
+          "description": "\u27a1\ufe0f Today we\u2019re chatting with illustrator and designer Rommel Ruiz! His journey from classical theater to motion design is simply fascinating, and can even be felt in his own work today, which we explore while discussing his Favorite Frame\u2122 \ud83d\uddbc\ufe0f\n\n\u27a1\ufe0f Check out this episode of the podcast on the following platforms too:\nSpotify, https://spoti.fi/3K8UDd7\nApple Podcasts, https://podcasts.apple.com/us/podcast/styleframe-saturdays/id1607658120\n\n\u27a1\ufe0f Come connect with us on social:\nInstagram, https://www.instagram.com/styleframesat/\nTwitter, https://twitter.com/styleframesat\nFacebook, https://www.facebook.com/styleframesat\nLinkedIn, https://www.linkedin.com/showcase/styleframe-saturdays-podcast\n\n\u27a1\ufe0f Today\u2019s show notes:\nRommel\u2019s website, https://www.rommelruiz.com/\nUniversidad Aut\u00f3noma de Santo Domingo, https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Santo_Domingo\nInnovo Physical Theatre, https://innovotheatre.academia.edu/\nDash Bash, https://www.dashbash.net/\nGolly\u2019s Folly, https://www.rommelruiz.com/work-index/gollys-folly\nCartoon Network\u2019s Ben 10, https://www.rommelruiz.com/work-index/ben10-animation\nJorge Canedo, http://jrcanest.co/\nOrdinary Folk, https://www.ordinaryfolk.co/\nBlend Fest, https://vimeo.com/440342397\nEyvind Earle, https://en.wikipedia.org/wiki/Eyvind_Earle\nDisney\u2019s The Sleeping Beauty, https://movies.disney.com/sleeping-beauty\nThe Furrow, https://thefurrow.tv/\nWelcome to Synth, https://thefurrow.tv/project/welcome-to-synth\nRenaud Lavency, https://www.renaudlavency.com/\nCraig Mullins, http://www.goodbrush.com/\nDiscovering the WHY Behind Your Styleframes, https://youtu.be/ThJIz9esa4M\nStill Haven\u2019t Found What I\u2019m Looking For by U2, https://www.youtube.com/watch?v=e3-5YC_oHjE\n\n\u27a1\ufe0f Affiliate Links*:\n\n*Please note, if you decide to make a purchase through one of our affiliate links we will get a small commission at no additional cost to you. Rest assured that we would recommend these products regardless of their commission-based opportunities.\n\nRiverside, https://riverside.fm/?utm_campaign=campaign_1&utm_medium=affiliate&utm_source=rewardful&via=styleframesat\n\n\u27a1\ufe0f Theme music:\nLate Night Latte by Harrison Amer\nLicensed by Premiumbeat.com, https://www.premiumbeat.com/home\n\n\u27a1\ufe0f Styleframe Saturdays is a proud member of the @formerle brand family, https://www.formerle.com.\n\n\u27a1\ufe0f More podcast episodes: https://www.youtube.com/c/StyleframeSaturdays\n\nPermissions granted by the artist.\n\n#podcast #illustration #motiondesign",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bcNBfHsdqUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Styleframe Saturdays",
+          "tags": [
+            "concept design",
+            "animation",
+            "motion design",
+            "motion graphics",
+            "mograph",
+            "design",
+            "podcast",
+            "creative podcast",
+            "new podcast",
+            "interview",
+            "video production",
+            "post production",
+            "pre production",
+            "styleframe",
+            "styleframe saturdays",
+            "illustration",
+            "how to draw",
+            "learn character design",
+            "illo",
+            "illustrator",
+            "illustrator tutorial",
+            "drawing tutorial",
+            "illustration for motion",
+            "book cover design",
+            "adobe illustrator",
+            "graphic design",
+            "vector illustration",
+            "creative cloud",
+            "after effects",
+            "motion design school"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Design in Motion: The Captivating Art of Movement with Rommel Ruiz (Ep. 18)",
+            "description": "\u27a1\ufe0f Today we\u2019re chatting with illustrator and designer Rommel Ruiz! His journey from classical theater to motion design is simply fascinating, and can even be felt in his own work today, which we explore while discussing his Favorite Frame\u2122 \ud83d\uddbc\ufe0f\n\n\u27a1\ufe0f Check out this episode of the podcast on the following platforms too:\nSpotify, https://spoti.fi/3K8UDd7\nApple Podcasts, https://podcasts.apple.com/us/podcast/styleframe-saturdays/id1607658120\n\n\u27a1\ufe0f Come connect with us on social:\nInstagram, https://www.instagram.com/styleframesat/\nTwitter, https://twitter.com/styleframesat\nFacebook, https://www.facebook.com/styleframesat\nLinkedIn, https://www.linkedin.com/showcase/styleframe-saturdays-podcast\n\n\u27a1\ufe0f Today\u2019s show notes:\nRommel\u2019s website, https://www.rommelruiz.com/\nUniversidad Aut\u00f3noma de Santo Domingo, https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Santo_Domingo\nInnovo Physical Theatre, https://innovotheatre.academia.edu/\nDash Bash, https://www.dashbash.net/\nGolly\u2019s Folly, https://www.rommelruiz.com/work-index/gollys-folly\nCartoon Network\u2019s Ben 10, https://www.rommelruiz.com/work-index/ben10-animation\nJorge Canedo, http://jrcanest.co/\nOrdinary Folk, https://www.ordinaryfolk.co/\nBlend Fest, https://vimeo.com/440342397\nEyvind Earle, https://en.wikipedia.org/wiki/Eyvind_Earle\nDisney\u2019s The Sleeping Beauty, https://movies.disney.com/sleeping-beauty\nThe Furrow, https://thefurrow.tv/\nWelcome to Synth, https://thefurrow.tv/project/welcome-to-synth\nRenaud Lavency, https://www.renaudlavency.com/\nCraig Mullins, http://www.goodbrush.com/\nDiscovering the WHY Behind Your Styleframes, https://youtu.be/ThJIz9esa4M\nStill Haven\u2019t Found What I\u2019m Looking For by U2, https://www.youtube.com/watch?v=e3-5YC_oHjE\n\n\u27a1\ufe0f Affiliate Links*:\n\n*Please note, if you decide to make a purchase through one of our affiliate links we will get a small commission at no additional cost to you. Rest assured that we would recommend these products regardless of their commission-based opportunities.\n\nRiverside, https://riverside.fm/?utm_campaign=campaign_1&utm_medium=affiliate&utm_source=rewardful&via=styleframesat\n\n\u27a1\ufe0f Theme music:\nLate Night Latte by Harrison Amer\nLicensed by Premiumbeat.com, https://www.premiumbeat.com/home\n\n\u27a1\ufe0f Styleframe Saturdays is a proud member of the @formerle brand family, https://www.formerle.com.\n\n\u27a1\ufe0f More podcast episodes: https://www.youtube.com/c/StyleframeSaturdays\n\nPermissions granted by the artist.\n\n#podcast #illustration #motiondesign"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H7M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "320",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "X9eNN_db2Vt3tSe5-UEpjV5juco",
+        "id": "aKyuKqgEdeA",
+        "snippet": {
+          "publishedAt": "2023-07-08T22:16:43Z",
+          "channelId": "UCfJTU5T-i1xrN1LRmI5f0bQ",
+          "title": "Matt Ramos vs. Jacob Moran",
+          "description": "This was a big match to start off the Purdue vs. Indiana dual. Jacob Moran did not give up bonus points to Matt Ramos, a huge team victory despite the individual loss. The Boilermakers ended up losing the dual 17-16, those non-bonus points were crucial to the Hoosier win. \n\npbp - Craig Combs \ncolor commentary - Brendon Gorham",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aKyuKqgEdeA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brendon Gorham",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Matt Ramos vs. Jacob Moran",
+            "description": "This was a big match to start off the Purdue vs. Indiana dual. Jacob Moran did not give up bonus points to Matt Ramos, a huge team victory despite the individual loss. The Boilermakers ended up losing the dual 17-16, those non-bonus points were crucial to the Hoosier win. \n\npbp - Craig Combs \ncolor commentary - Brendon Gorham"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "212",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dn7rIXRsj8qGGaS53-VjXgq0Hq0",
+        "id": "JvG1y96QaFM",
+        "snippet": {
+          "publishedAt": "2023-10-21T23:43:42Z",
+          "channelId": "UC0OFPvrlWV-FiAVIYjBHkQg",
+          "title": "Dorian Olivarez & Logan Paradice Have One Of The Craziest Day 1 Super 32 Matches!",
+          "description": "Stream 2023 Super 32 Here: https://flosports.link/45oH3Ma\n\nMake sure to like, comment, and subscribe to access all of the latest wrestling videos!\n\nWebsite: https://www.flowrestling.org\nSubscribe: http://bit.ly/2p4v31C\n\nGet the FloSports iOS app: http://bit.ly/FloWrestlingiOSApp_9\n\nFollow FloWrestling\nFacebook: https://www.facebook.com/FloWrestling/\nTwitter: https://twitter.com/flowrestling\nInstagram: https://www.instagram.com/flowrestling/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JvG1y96QaFM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FloWrestling",
+          "tags": [
+            "FloWrestling",
+            "Wrestling"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dorian Olivarez & Logan Paradice Have One Of The Craziest Day 1 Super 32 Matches!",
+            "description": "Stream 2023 Super 32 Here: https://flosports.link/45oH3Ma\n\nMake sure to like, comment, and subscribe to access all of the latest wrestling videos!\n\nWebsite: https://www.flowrestling.org\nSubscribe: http://bit.ly/2p4v31C\n\nGet the FloSports iOS app: http://bit.ly/FloWrestlingiOSApp_9\n\nFollow FloWrestling\nFacebook: https://www.facebook.com/FloWrestling/\nTwitter: https://twitter.com/flowrestling\nInstagram: https://www.instagram.com/flowrestling/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "51239",
+          "likeCount": "613",
+          "favoriteCount": "0",
+          "commentCount": "58"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZR7ntUECXhCfuDToVpD33RIC6jw",
+        "id": "qoocpR5fvlE",
+        "snippet": {
+          "publishedAt": "2023-08-22T00:49:25Z",
+          "channelId": "UCaVCSa1Kf-r07QIbO6Tz-uw",
+          "title": "Big Diamond Speedway | Prelude to the Coalcracker Feature Highlights | 8/18/23",
+          "description": "Highlights from Big Diamond Speedway in Minersville, Pa., on Friday, August 18, 2023.  \n\nIt was a race that had many twists and turns but at the end it was invader Anthony Perrego standing in Red White and Blue Autos victory lane after capturing the 50-lap Prelude to the Coalcracker.\n\nWatch racing events from around the Northeast live on Dirt Track Digest TV at http://www.dirttrackdigest.tv including weekly action from the Big Diamond Speedway.\n\nClick the subscribe button to see more from Dirt Track Digest and Dirt Track Digest TV.\n\nVisit Dirt Track Digest: \nDirt Track Digest News \u2013 http://www.dirttrackdigest.com\nDirt Track Digest Forum - http://www.dirttrackdigest.com/DTD/\nDirt Track Digest Photo Gallery - http://www.dirttrackdigest.com/gallery7/\n\nFollow Dirt Track Digest on Social Media:\nDirt Track Digest Twitter - https://twitter.com/DirtTrackDigest\nDirt Track Digest Twitter Live Updates - https://twitter.com/DTDMike\nDirt Track Digest Facebook - https://www.facebook.com/dirttrackdigest/\nDirt Track Digest Instagram - https://www.instagram.com/dirttrackdigest/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qoocpR5fvlE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dirt Track Digest",
+          "tags": [
+            "Big Diamond Speedway",
+            "Prelude to the Coalcracker",
+            "Dirt Track Digest TV",
+            "DTD TV",
+            "Anthony Perrego",
+            "Bily Pauch Jr.",
+            "Craig Von Dohren",
+            "Doug Manmiller",
+            "Jack Butler",
+            "Louden Reimert"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Big Diamond Speedway | Prelude to the Coalcracker Feature Highlights | 8/18/23",
+            "description": "Highlights from Big Diamond Speedway in Minersville, Pa., on Friday, August 18, 2023.  \n\nIt was a race that had many twists and turns but at the end it was invader Anthony Perrego standing in Red White and Blue Autos victory lane after capturing the 50-lap Prelude to the Coalcracker.\n\nWatch racing events from around the Northeast live on Dirt Track Digest TV at http://www.dirttrackdigest.tv including weekly action from the Big Diamond Speedway.\n\nClick the subscribe button to see more from Dirt Track Digest and Dirt Track Digest TV.\n\nVisit Dirt Track Digest: \nDirt Track Digest News \u2013 http://www.dirttrackdigest.com\nDirt Track Digest Forum - http://www.dirttrackdigest.com/DTD/\nDirt Track Digest Photo Gallery - http://www.dirttrackdigest.com/gallery7/\n\nFollow Dirt Track Digest on Social Media:\nDirt Track Digest Twitter - https://twitter.com/DirtTrackDigest\nDirt Track Digest Twitter Live Updates - https://twitter.com/DTDMike\nDirt Track Digest Facebook - https://www.facebook.com/dirttrackdigest/\nDirt Track Digest Instagram - https://www.instagram.com/dirttrackdigest/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2655",
+          "likeCount": "50",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4uDgOUueh9U00vCXhCHSC5xpmJM",
+        "id": "gHSKU_xZ_Vg",
+        "snippet": {
+          "publishedAt": "2023-04-10T12:00:27Z",
+          "channelId": "UCOTWc6iY4Ms8xZjVTg7VPow",
+          "title": "132 2A \u2013 Zachary Montez {G} of Geneseo IL vs. Jacob Redington {R} of Freeport IL",
+          "description": "February 16\u201318, 2023 \u2014 Illinois High School Boys Wrestling Individual Tournament \u2014 University of Illinois, Champaign, IL\n\nZachary Montez {G} of Geneseo IL defeated Jacob Redington {R} of Freeport IL by Sudden Victory 9\u20137",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gHSKU_xZ_Vg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Midwest Wrestle",
+          "tags": [
+            "IHSA",
+            "Boys",
+            "Boys Wrestling",
+            "Highlight",
+            "Grappling",
+            "Folkstyle",
+            "Wrestling",
+            "High School",
+            "High School Wrestling",
+            "Highlight Reel"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "132 2A \u2013 Zachary Montez {G} of Geneseo IL vs. Jacob Redington {R} of Freeport IL",
+            "description": "February 16\u201318, 2023 \u2014 Illinois High School Boys Wrestling Individual Tournament \u2014 University of Illinois, Champaign, IL\n\nZachary Montez {G} of Geneseo IL defeated Jacob Redington {R} of Freeport IL by Sudden Victory 9\u20137"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29794",
+          "likeCount": "734",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ANqZk5iYW9_5DRjb5vNJKzWtldA",
+        "id": "rq6wGVZrcRQ",
+        "snippet": {
+          "publishedAt": "2023-03-16T04:54:53Z",
+          "channelId": "UCkGGTe8CuT8QTPiYme8LDSQ",
+          "title": "\u201cWhy Do Some Thomists Scoff at Analytic Philosophy?\u201d | Philip-Neri Reese, OP",
+          "description": "Fr. Philip-Neri Reese, O.P., is a Dominican friar of the Province of St. Joseph and a Professor of Philosophy at the Pontifical University of St. Thomas (Angelicum) in Rome. He is also the principal investigator for the Angelicum Thomistic Institute's new Project on Philosophy and the Thomistic Tradition. Fr. Philip-Neri received his Licentiate in Philosophy from the Catholic University of America in 2015 and his Doctorate in Philosophy from the University of Notre Dame in 2022. From 2015-2017 he taught philosophy at Providence College in Providence, RI. His main area of research is metaphysics and anything adjacent to it (e.g., the history of metaphysics, the methodology of metaphysics, etc.), with a special emphasis on the metaphysical thought of St. Thomas Aquinas and its subsequent reception and interpretation. His publications, however, range widely, including articles on philosophical anthropology, ethics, and economics. He is also an enthusiast of classical Indian philosophy. Fr. Philip-Neri is a member of the American Philosophical Association (APA), the Society for Medieval and Renaissance Philosophy (SMRP), the Aquinas and the Arabs International Working Group (AAIWG), the Society for Medieval and Renaissance Thomism (SMART), and currently has the honor of serving on the executive committee of the American Catholic Philosophical Association (ACPA).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rq6wGVZrcRQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Angelicum Thomistic Institute",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "\u201cWhy Do Some Thomists Scoff at Analytic Philosophy?\u201d | Philip-Neri Reese, OP",
+            "description": "Fr. Philip-Neri Reese, O.P., is a Dominican friar of the Province of St. Joseph and a Professor of Philosophy at the Pontifical University of St. Thomas (Angelicum) in Rome. He is also the principal investigator for the Angelicum Thomistic Institute's new Project on Philosophy and the Thomistic Tradition. Fr. Philip-Neri received his Licentiate in Philosophy from the Catholic University of America in 2015 and his Doctorate in Philosophy from the University of Notre Dame in 2022. From 2015-2017 he taught philosophy at Providence College in Providence, RI. His main area of research is metaphysics and anything adjacent to it (e.g., the history of metaphysics, the methodology of metaphysics, etc.), with a special emphasis on the metaphysical thought of St. Thomas Aquinas and its subsequent reception and interpretation. His publications, however, range widely, including articles on philosophical anthropology, ethics, and economics. He is also an enthusiast of classical Indian philosophy. Fr. Philip-Neri is a member of the American Philosophical Association (APA), the Society for Medieval and Renaissance Philosophy (SMRP), the Aquinas and the Arabs International Working Group (AAIWG), the Society for Medieval and Renaissance Thomism (SMART), and currently has the honor of serving on the executive committee of the American Catholic Philosophical Association (ACPA)."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H9M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1674",
+          "likeCount": "64",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UI-etoWDNWfRPVlqAQspaFz05Jk",
+        "id": "mx7AU3aud4E",
+        "snippet": {
+          "publishedAt": "2023-03-18T16:06:25Z",
+          "channelId": "UCw0eW2fOcRoFFJD_K9_2Grg",
+          "title": "Idris Elba as the first black James Bond",
+          "description": "I asked Midjourney v5 to imagine what Idris Elba might look like if he was cast as the first black James Bond. Here are the results. \n\n#AI #AIArt #AIArtCommunity #Midjourney #Midjourneyv5 #IdrisElba #JamesBond #007",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mx7AU3aud4E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Digital and AI art",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Idris Elba as the first black James Bond",
+            "description": "I asked Midjourney v5 to imagine what Idris Elba might look like if he was cast as the first black James Bond. Here are the results. \n\n#AI #AIArt #AIArtCommunity #Midjourney #Midjourneyv5 #IdrisElba #JamesBond #007"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "292",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "THv_7OxNH77AnJXPcFkY5n4aKrc",
+        "id": "tXj_0bbnIVQ",
+        "snippet": {
+          "publishedAt": "2023-04-06T11:00:40Z",
+          "channelId": "UCd55APptap1Ve7Jwqa8OcBA",
+          "title": "St. Thomas' Five Ways: How to Prove God Exists w/ Fr. Gregory Pine, O.P. & Prof. Edward Feser",
+          "description": "\u2b50 The new Aquinas 101 Learning Platform is LIVE! Unlock all the Aquinas 101 courses in one place and track your progression at your own pace through the wisdom of the Angelic Doctor for FREE at https://go.thomisticinstitute.org/register-youtube-a101.\n\n\ud83c\udfa5, Keep the Aquinas 101 cameras rolling! Donate $5 today to pay it forward for the next viewer: https://go.thomisticinstitute.org/donate-youtube-a101.\n\nJoin Fr. Gregory Pine, O.P. of Aquinas 101, Godsplaining, and Pints with Aquinas for an off-campus conversation with Dr. Edward Feser.\n\nSt. Thomas's Five Ways: How to Prove God Exists w/ Fr. Gregory Pine, O.P. & Prof. Edward Feser (Off-Campus Conversations)\n\nYou can listen to the original lecture here: \nhttps://soundcloud.com/thomisticinstitute/demonstrating-the-existence-of-god-prof-ed-feser\n\nSubscribe to our channel here:\nhttps://www.youtube.com/c/TheThomisticInstitute?sub_confirmation=1 \n\n--\n\nEnroll in Aquinas 101 to receive the latest videos, readings, and podcasts in your email inbox each week. \nSign up here: https://aquinas101.thomisticinstitute.org/ \n\nHelp us film Aquinas 101!\nDonate here: https://go.thomisticinstitute.org/donate-youtube-a101\n\nWant to represent the Thomistic Institute on your campus? Check out our online store!\nExplore here: https://go.thomisticinstitute.org/store-youtube-a101\n\nStay connected on social media:\nhttps://www.facebook.com/ThomisticInstitute\nhttps://www.instagram.com/thomisticinstitute\nhttps://twitter.com/thomisticInst\n\nVisit us at: https://thomisticinstitute.org/\n\n#ThomisticInstitute #ThomasAquinas #Catholic",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tXj_0bbnIVQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Thomistic Institute",
+          "tags": [
+            "aquinas",
+            "thomas aquinas",
+            "philosophy",
+            "theology",
+            "awesome",
+            "wisdom",
+            "faith",
+            "reason",
+            "science",
+            "thomism",
+            "summa theologiae",
+            "scholasticism",
+            "saint",
+            "belief",
+            "christianity",
+            "catholicism",
+            "aquinas 101",
+            "aquinas101",
+            "dominicans",
+            "dominican friars",
+            "province of st. joseph",
+            "faith and reason",
+            "science and faith",
+            "science and religion",
+            "thomistic institute",
+            "st. thomas aquinas",
+            "catholic",
+            "op",
+            "o.p.",
+            "fr. dominic legge",
+            "fr. gregory pine",
+            "fr. thomas joseph white",
+            "fr. james brent",
+            "fr. thomas davenport"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "St. Thomas' Five Ways: How to Prove God Exists w/ Fr. Gregory Pine, O.P. & Prof. Edward Feser",
+            "description": "\u2b50 The new Aquinas 101 Learning Platform is LIVE! Unlock all the Aquinas 101 courses in one place and track your progression at your own pace through the wisdom of the Angelic Doctor for FREE at https://go.thomisticinstitute.org/register-youtube-a101.\n\n\ud83c\udfa5, Keep the Aquinas 101 cameras rolling! Donate $5 today to pay it forward for the next viewer: https://go.thomisticinstitute.org/donate-youtube-a101.\n\nJoin Fr. Gregory Pine, O.P. of Aquinas 101, Godsplaining, and Pints with Aquinas for an off-campus conversation with Dr. Edward Feser.\n\nSt. Thomas's Five Ways: How to Prove God Exists w/ Fr. Gregory Pine, O.P. & Prof. Edward Feser (Off-Campus Conversations)\n\nYou can listen to the original lecture here: \nhttps://soundcloud.com/thomisticinstitute/demonstrating-the-existence-of-god-prof-ed-feser\n\nSubscribe to our channel here:\nhttps://www.youtube.com/c/TheThomisticInstitute?sub_confirmation=1 \n\n--\n\nEnroll in Aquinas 101 to receive the latest videos, readings, and podcasts in your email inbox each week. \nSign up here: https://aquinas101.thomisticinstitute.org/ \n\nHelp us film Aquinas 101!\nDonate here: https://go.thomisticinstitute.org/donate-youtube-a101\n\nWant to represent the Thomistic Institute on your campus? Check out our online store!\nExplore here: https://go.thomisticinstitute.org/store-youtube-a101\n\nStay connected on social media:\nhttps://www.facebook.com/ThomisticInstitute\nhttps://www.instagram.com/thomisticinstitute\nhttps://twitter.com/thomisticInst\n\nVisit us at: https://thomisticinstitute.org/\n\n#ThomisticInstitute #ThomasAquinas #Catholic"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT43M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25937",
+          "likeCount": "936",
+          "favoriteCount": "0",
+          "commentCount": "108"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SxcaYjizUsVl6FgyL5Xj2W5D4qo",
+        "id": "Zr34NMllg70",
+        "snippet": {
+          "publishedAt": "2023-03-12T16:53:30Z",
+          "channelId": "UCJMYUELS5PvzNmIJtt2fECg",
+          "title": "Ishmael Brown - Wrestling        English Junior Championships 2023",
+          "description": "39kg category fight 2",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Zr34NMllg70/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brick Builder Ish",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ishmael Brown - Wrestling        English Junior Championships 2023",
+            "description": "39kg category fight 2"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "200",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sQ_pBQrlEx6x4UMSC0gNyjJyxj0",
+        "id": "XnWAEJuBgyM",
+        "snippet": {
+          "publishedAt": "2023-04-26T14:00:05Z",
+          "channelId": "UCwbPEfus0ZUBcBq8Yy1-1Og",
+          "title": "Izzak Olejnik | Heavyweight Nation Podcast 164",
+          "description": "New Merch Drop (HWT20) 20% Off\n- https://www.hwtnationshop.com/\n\nAll Up To Date Wrestling News\n- https://heavyweightnationblog.com/\n\nFollow Heavyweight Nation on Instagram\n- https://www.instagram.com/heavyweightnation/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XnWAEJuBgyM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Heavyweight Nation",
+          "tags": [
+            "Wrestling",
+            "NCAA Wrestling",
+            "United World Wrestling",
+            "Flo Wrestling",
+            "College Wrestling",
+            "Track Wrestling",
+            "High School Wrestling",
+            "Freestyle Wrestling",
+            "Folkstyle Wrestling"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Izzak Olejnik | Heavyweight Nation Podcast 164",
+            "description": "New Merch Drop (HWT20) 20% Off\n- https://www.hwtnationshop.com/\n\nAll Up To Date Wrestling News\n- https://heavyweightnationblog.com/\n\nFollow Heavyweight Nation on Instagram\n- https://www.instagram.com/heavyweightnation/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT40M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "356",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QgeM28gMflYwHeENbJUh0ZWu_s0",
+        "id": "GkqP_wwGZ90",
+        "snippet": {
+          "publishedAt": "2023-08-21T14:44:44Z",
+          "channelId": "UCTSmtpFVLcZGS7G599_vCow",
+          "title": "Chewjitsu Podcast #273 - Big Dan Mansoiu",
+          "description": "On this episode of the podcast, Chewy and Eugene are joined by Jiu-Jitsu Purple Belt \"Big\" Dan Manasoiu.\n\nDan joins the podcast to discuss his start in Jiu-Jitsu at age 14, his 6 hour commute from Pennsylvania to train at Renzo Gracie New York, what set Renzo Gracie New York apart from other gyms, getting humbled by smaller grapplers, his daily training schedule, the advantage of teaching Jiu-Jitsu, how he fine tunes a technique to work at a high level, dealing with internet trolls, his strength training routine, Dan\u2019s thoughts on John Danaher\u2019s commitment to his students and to Jiu-Jitsu, his proudest Jiu-Jitsu achievement, favorite Jiu-Jitsu rule set, and Dan\u2019s hobbies outside of Jiu-Jitsu.\n\nThanks to the podcast sponsors:\n\nCharlotte's Web CBD.\n\nHead over to https://bit.ly/chewjitsu30 and use the promo code Chewjitsu30 to get 30% off of your total purchase of some high quality CBD to help with all of your recovery needs.\n\nEpic Roll BJJ. \n\nCheck out https://www.epicrollbjj.com and use the promo code Chewjitsu20 to get 20% off of your total purchase.\n\nManscaped.\n\nCheck out https://www.manscaped.com/ and use the promo code Chewjitsu20 to get 20% off and free shipping!\n\nCheck out podcast exclusives including conversations with guests, Q&A sessions, and tons more at https://patreon.com/thechewjitsupodcast \n\nSong Code: AO7NABGBTEHOUXPK",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GkqP_wwGZ90/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chewjitsu Podcast",
+          "tags": [
+            "Chewjitsu",
+            "BJJ",
+            "Jiu-Jitsu",
+            "BJJ Podcast",
+            "The Chewjitsu Podcast",
+            "Grappling",
+            "Martial Arts",
+            "Martial Arts Podcast",
+            "Chewy",
+            "Health",
+            "Wellness",
+            "BJJ Injuries",
+            "Chewjitsu Podcast",
+            "Podcast",
+            "BJJ Pod",
+            "Jiu-Jitsu Podcast",
+            "Podcasting",
+            "Jiu-Jitsu Pod",
+            "New Wave Jiu-Jitsu",
+            "Gordon Ryan",
+            "Dan Manasoiu",
+            "ADCC",
+            "ADCC Trials",
+            "John Danaher"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chewjitsu Podcast #273 - Big Dan Mansoiu",
+            "description": "On this episode of the podcast, Chewy and Eugene are joined by Jiu-Jitsu Purple Belt \"Big\" Dan Manasoiu.\n\nDan joins the podcast to discuss his start in Jiu-Jitsu at age 14, his 6 hour commute from Pennsylvania to train at Renzo Gracie New York, what set Renzo Gracie New York apart from other gyms, getting humbled by smaller grapplers, his daily training schedule, the advantage of teaching Jiu-Jitsu, how he fine tunes a technique to work at a high level, dealing with internet trolls, his strength training routine, Dan\u2019s thoughts on John Danaher\u2019s commitment to his students and to Jiu-Jitsu, his proudest Jiu-Jitsu achievement, favorite Jiu-Jitsu rule set, and Dan\u2019s hobbies outside of Jiu-Jitsu.\n\nThanks to the podcast sponsors:\n\nCharlotte's Web CBD.\n\nHead over to https://bit.ly/chewjitsu30 and use the promo code Chewjitsu30 to get 30% off of your total purchase of some high quality CBD to help with all of your recovery needs.\n\nEpic Roll BJJ. \n\nCheck out https://www.epicrollbjj.com and use the promo code Chewjitsu20 to get 20% off of your total purchase.\n\nManscaped.\n\nCheck out https://www.manscaped.com/ and use the promo code Chewjitsu20 to get 20% off and free shipping!\n\nCheck out podcast exclusives including conversations with guests, Q&A sessions, and tons more at https://patreon.com/thechewjitsupodcast \n\nSong Code: AO7NABGBTEHOUXPK"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H7M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1624",
+          "likeCount": "62",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 32
+    }
+  }
+}

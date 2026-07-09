@@ -1,0 +1,427 @@
+{
+  "ceo": "Kevin P. Hourican",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "eqEvT3t84FhrrE1SvkWCeOPLMAc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XARz7he5gQusRh49dVzWPpEOx74",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LuwL81Hyj-Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-26T09:55:37Z",
+          "channelId": "UCvJjlO8b8vsCK08vEmBGpLA",
+          "title": "Marketing with Food Inflation - Restaurant Industry",
+          "description": "Tune in to our latest podcast episode to learn how the food service industry is navigating inflation and marketing challenges.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sysco Canada",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-26T09:55:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bhi2JKiL4nT-FTRxncilszaiM4Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "536S0VpgLxI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-15T04:00:02Z",
+          "channelId": "UCh4xFDJp9nmNveKrSCL9FGA",
+          "title": "Lynn Good, Chair, President and CEO, Duke Energy",
+          "description": "In this Executive Profile Host Chris William goes one on one with one of the region's most influential CEOs. Topics include ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Carolina Business Review",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-15T04:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7iSsPbNJWvwS4Mtu6bE0wQBu2cM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GrydRaHLrFo"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-31T20:30:02Z",
+          "channelId": "UCyCv2FDWlZMyNiILlPr8TCw",
+          "title": "$SYY Sysco Corp Q1 2024 Earnings Conference Call",
+          "description": "10/31/2023 Q&A: 27:21 Sysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "EARNMOAR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-31T20:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z662JZM8HkF_fdqLUKgJXCkKK8E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XaUDSicIcw8"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-27T21:24:04Z",
+          "channelId": "UCTvZcgH_rsvaGuZ8mU5jpnA",
+          "title": "Sysco drivers strike over labor practices; How it could impact JCPS",
+          "description": "Union leaders say Sysco won't come back to the negotiating table after they rejected the company's last offer. More on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WHAS11",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-27T21:24:04Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "L5I9vRX5Gpl6zSHcUl1l8fJ6bcY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "olSK-y4tA3n5hFqR4x1tBOjeoXo",
+        "id": "LuwL81Hyj-Q",
+        "snippet": {
+          "publishedAt": "2023-01-26T09:55:37Z",
+          "channelId": "UCvJjlO8b8vsCK08vEmBGpLA",
+          "title": "Marketing with Food Inflation - Restaurant Industry",
+          "description": "Tune in to our latest podcast episode to learn how the food service industry is navigating inflation and marketing challenges. From menu changes and business strategies to creative marketing tactics, we dive deep into the world of the food service providers. Don't miss out on the industry insights that will keep you ahead of the curve and informed. Listen now!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LuwL81Hyj-Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sysco Canada",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Marketing with Food Inflation - Restaurant Industry",
+            "description": "Tune in to our latest podcast episode to learn how the food service industry is navigating inflation and marketing challenges. From menu changes and business strategies to creative marketing tactics, we dive deep into the world of the food service providers. Don't miss out on the industry insights that will keep you ahead of the curve and informed. Listen now!"
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT38M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17",
+          "likeCount": "0",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qjyXz914Ydy7SFbGeCM9x5KBesY",
+        "id": "536S0VpgLxI",
+        "snippet": {
+          "publishedAt": "2023-10-15T04:00:02Z",
+          "channelId": "UCh4xFDJp9nmNveKrSCL9FGA",
+          "title": "Lynn Good, Chair, President and CEO, Duke Energy",
+          "description": "In this Executive Profile Host Chris William goes one on one with one of the region's most influential CEOs. Topics include managing consumer costs, operations and growth amid record inflation, pivoting to cleaner energies, a newly proposed nuclear plant, AI's impact on the industry and precautions to avoid rolling blackouts.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/536S0VpgLxI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Carolina Business Review",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lynn Good, Chair, President and CEO, Duke Energy",
+            "description": "In this Executive Profile Host Chris William goes one on one with one of the region's most influential CEOs. Topics include managing consumer costs, operations and growth amid record inflation, pivoting to cleaner energies, a newly proposed nuclear plant, AI's impact on the industry and precautions to avoid rolling blackouts."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT26M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "433",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Gl_nDth3jrvqylX2bIdKzGPEklc",
+        "id": "GrydRaHLrFo",
+        "snippet": {
+          "publishedAt": "2023-10-31T20:30:02Z",
+          "channelId": "UCyCv2FDWlZMyNiILlPr8TCw",
+          "title": "$SYY Sysco Corp Q1 2024 Earnings Conference Call",
+          "description": "10/31/2023 Q&A: 27:21\nSysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and related products to the foodservice or food-away-from-home industry in the United States, Canada, the United Kingdom, France, and internationally. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments. The company distributes frozen food, such as meat, seafood, fully prepared entrees, fruits, vegetables, and desserts; canned and dry food products; fresh meat and seafood products; dairy products; beverages; imported specialties; and fresh produce products. It also supplies various non-food items, including paper products comprising disposable napkins, plates, and cups; tableware consisting of glassware and silverware; cookware, such as pots, pans, and utensils; restaurant and kitchen equipment and supplies; and cleaning supplies. The company serves restaurants, hospitals and nursing facilities, schools and colleges, hotels and motels, industrial caterers, and other foodservice venues. Sysco Corporation was incorporated in 1969 and is headquartered in Houston, Texas.\n#sysco #earnings #fundamentals #earningscall #syy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GrydRaHLrFo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "EARNMOAR",
+          "tags": [
+            "$SYY",
+            "SYY",
+            "Sysco",
+            "earnings",
+            "investing",
+            "investment",
+            "investor",
+            "stock",
+            "fundamentals"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "$SYY Sysco Corp Q1 2024 Earnings Conference Call",
+            "description": "10/31/2023 Q&A: 27:21\nSysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and related products to the foodservice or food-away-from-home industry in the United States, Canada, the United Kingdom, France, and internationally. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments. The company distributes frozen food, such as meat, seafood, fully prepared entrees, fruits, vegetables, and desserts; canned and dry food products; fresh meat and seafood products; dairy products; beverages; imported specialties; and fresh produce products. It also supplies various non-food items, including paper products comprising disposable napkins, plates, and cups; tableware consisting of glassware and silverware; cookware, such as pots, pans, and utensils; restaurant and kitchen equipment and supplies; and cleaning supplies. The company serves restaurants, hospitals and nursing facilities, schools and colleges, hotels and motels, industrial caterers, and other foodservice venues. Sysco Corporation was incorporated in 1969 and is headquartered in Houston, Texas.\n#sysco #earnings #fundamentals #earningscall #syy"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H5M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "105",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tFoD5xPWJ2Lv2SJ12ZScLcqlVtM",
+        "id": "XaUDSicIcw8",
+        "snippet": {
+          "publishedAt": "2023-03-27T21:24:04Z",
+          "channelId": "UCTvZcgH_rsvaGuZ8mU5jpnA",
+          "title": "Sysco drivers strike over labor practices; How it could impact JCPS",
+          "description": "Union leaders say Sysco won't come back to the negotiating table after they rejected the company's last offer.\r\n\r\nMore on whas11.com\r\n-----------------------------------------\r\nFollow WHAS11 on Social:\r\nFacebook: https://www.facebook.com/WHAS11/\r\nTwitter: https://twitter.com/WHAS11\r\nWebsite: https://www.whas11.com/\r\n\r\nSubscribe to WHAS11 for exclusive content: https://www.youtube.com/c/WHAS11News \r\n\r\nDownload the WHAS11 News app:\r\nApple: https://itunes.apple.com/us/app/whas11-news-louisville/id1453184391?ls=1&mt=8 \r\nAndroid: https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_b3ff766402d6d975200b86a42ea504b0 \r\n\r\n#sysco #strike #louisville #jcps",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XaUDSicIcw8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WHAS11",
+          "tags": [
+            "[ local",
+            "news ]",
+            "sysco strike",
+            "truck drivers",
+            "sysco strike 2023",
+            "sysco strike louisville",
+            "louisville kentucky",
+            "whas11 news",
+            "whas11 news louisville"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sysco drivers strike over labor practices; How it could impact JCPS",
+            "description": "Union leaders say Sysco won't come back to the negotiating table after they rejected the company's last offer.\r\n\r\nMore on whas11.com\r\n-----------------------------------------\r\nFollow WHAS11 on Social:\r\nFacebook: https://www.facebook.com/WHAS11/\r\nTwitter: https://twitter.com/WHAS11\r\nWebsite: https://www.whas11.com/\r\n\r\nSubscribe to WHAS11 for exclusive content: https://www.youtube.com/c/WHAS11News \r\n\r\nDownload the WHAS11 News app:\r\nApple: https://itunes.apple.com/us/app/whas11-news-louisville/id1453184391?ls=1&mt=8 \r\nAndroid: https://play.google.com/store/apps/details?id=com.doapps.android.mln.MLN_b3ff766402d6d975200b86a42ea504b0 \r\n\r\n#sysco #strike #louisville #jcps"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2204",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}

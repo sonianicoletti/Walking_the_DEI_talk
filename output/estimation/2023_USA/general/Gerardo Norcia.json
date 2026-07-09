@@ -1,0 +1,858 @@
+{
+  "ceo": "Gerardo Norcia",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "mhcpo5v-LF5kMrVqnqzzvPffLb0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 8
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R9sXs_A-mZe6rH5Pf2ABpeh0bys",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5xc3dzukNdY"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-05T15:21:05Z",
+          "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+          "title": "Flashpoint: Devin Scillian interviews DTE Energy CEO about mass power outages, customer frustration",
+          "description": "Devin Scillian interviewed DTE Energy CEO Jerry Norcia about the recent mass power outages and customer frustration.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Click On Detroit | Local 4 | WDIV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-05T15:21:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pMSDe9699o5PJqhwkgpdVYqeNyk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QE9M9-PoEPU"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-24T00:42:55Z",
+          "channelId": "UCey1XV5-R-I28NvDcP8oaiw",
+          "title": "A message from President/CEO of #DTE Energy,  Jerry Norcia\uff5c Dragon Eagle TV (DETV)-APIA News Network",
+          "description": "Subscribe to our YouTube channel to be notified for a new episode of one of our shows and live stream! #DragonEagleTV ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dragon Eagle TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-24T00:42:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YBA4zhlGtne5_QeNejSg3kBIPmE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5_5d203PZ5o"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-31T16:45:22Z",
+          "channelId": "UClmFQfVyDvdtCralM-Oo_mw",
+          "title": "DTE Energy committed to Ann Arbor&#39;s 100% renewable energy goal, CEO Jerry Norcia says",
+          "description": "Despite opposing Ann Arbor's proposed ban on gas service for new buildings, DTE Energy CEO Jerry Norcia says the utility ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MLive",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-31T16:45:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PptDFdzfEktQv2DcZfNBH4Va7dY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TFOcUyYD7xo"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-02T23:22:53Z",
+          "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+          "title": "What DTE Energy is saying after ice storm caused massive power outage across Metro Detroit",
+          "description": "As hundreds of thousands who lost power in last week's ice storm now anticipate this next round of winter weather Local 4 asked ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Click On Detroit | Local 4 | WDIV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-02T23:22:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xgKlLu0AF_XvYznf1hQapOiUZdM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Qi923dqsXH0"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-17T13:00:22Z",
+          "channelId": "UCn-LrHNSs5UefYS1tUbmgWg",
+          "title": "Have You Struggled With Vulnerability? #LeadingWithVulnerability #leadership #shorts",
+          "description": "DTE Energy CEO Jerry Norcia's journey to embracing vulnerability in leadership wasn't an overnight transformation. But with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Future Ready Leadership With Jacob Morgan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-17T13:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c8XszzNXSuDoxbt_1qe_JTpJ0L8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oYIbKMiwS8o"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-03T04:32:42Z",
+          "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+          "title": "What DTE Energy is saying after ice storm caused massive power outage across Metro Detroit",
+          "description": "As hundreds of thousands who lost power in last week's ice storm now anticipate this next round of winter weather Local 4 asked ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Click On Detroit | Local 4 | WDIV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-03T04:32:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "krchllgrS4oqYY5rPRAw2_0L8OU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "u6Oyk3ulyT8"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-21T07:00:21Z",
+          "channelId": "UCn-LrHNSs5UefYS1tUbmgWg",
+          "title": "Why Your Greatest Strength Is Also Your Greatest Weakness - Jerry Norcia, CEO &amp; President DTE Energy",
+          "description": "If you enjoyed this video, please like and subscribe! It helps the channel grow and allows us to make more. Thank you!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Future Ready Leadership With Jacob Morgan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-21T07:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FL3oAeTRt8Vf8TM-aKO2eBmT7Fk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZPG2ilimJbc"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T16:08:19Z",
+          "channelId": "UCOGa-48fFt4cW0UnW5WSdRg",
+          "title": "DTE, Consumers give testimony after widespread power outages",
+          "description": "The Michigan Energy, Communications, and Technology Committee will hear testimony from DTE Energy and Consumers Energy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FOX 2 Detroit",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T16:08:19Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5AjE5wFlidkoXzJ6Vy39PHSayHA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "vNRo53v99BvXSo-zFxuqi9Ox9Ck",
+        "id": "5xc3dzukNdY",
+        "snippet": {
+          "publishedAt": "2023-03-05T15:21:05Z",
+          "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+          "title": "Flashpoint: Devin Scillian interviews DTE Energy CEO about mass power outages, customer frustration",
+          "description": "Devin Scillian interviewed DTE Energy CEO Jerry Norcia about the recent mass power outages and customer frustration.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5xc3dzukNdY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Click On Detroit | Local 4 | WDIV",
+          "tags": [
+            "DTE",
+            "DTE Energy",
+            "Devin Scillian",
+            "Flashpoint",
+            "Jerry Norcia",
+            "Metro Detroit",
+            "Michigan",
+            "Power Outages",
+            "local news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Flashpoint: Devin Scillian interviews DTE Energy CEO about mass power outages, customer frustration",
+            "description": "Devin Scillian interviewed DTE Energy CEO Jerry Norcia about the recent mass power outages and customer frustration."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1652",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "22"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "95Zk5PVTUR99wEUYmQ_bpodxQ0w",
+        "id": "QE9M9-PoEPU",
+        "snippet": {
+          "publishedAt": "2023-06-24T00:42:55Z",
+          "channelId": "UCey1XV5-R-I28NvDcP8oaiw",
+          "title": "A message from President/CEO of #DTE Energy,  Jerry Norcia\uff5c Dragon Eagle TV (DETV)-APIA News Network",
+          "description": "Subscribe to our YouTube channel to be notified for a new episode of one of our shows and  live stream!\n\n#DragonEagleTV #apianewsnetwork #AAPIvoice #DETV #LisaDialogue \n\nSubscribe to Dragon Eagle TV! \nhttps://www.youtube.com/c/DragonEagleTV\nhttps://www.dragoneagle.tv\nhttps://www.facebook.com/DragonEagleTV\nhttps://www.linkedin.com/company/64889611/admin/\nhttps://twitter.com/DragonEagleTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QE9M9-PoEPU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dragon Eagle TV",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A message from President/CEO of #DTE Energy,  Jerry Norcia\uff5c Dragon Eagle TV (DETV)-APIA News Network",
+            "description": "Subscribe to our YouTube channel to be notified for a new episode of one of our shows and  live stream!\n\n#DragonEagleTV #apianewsnetwork #AAPIvoice #DETV #LisaDialogue \n\nSubscribe to Dragon Eagle TV! \nhttps://www.youtube.com/c/DragonEagleTV\nhttps://www.dragoneagle.tv\nhttps://www.facebook.com/DragonEagleTV\nhttps://www.linkedin.com/company/64889611/admin/\nhttps://twitter.com/DragonEagleTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "80",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y5FZAVDcKkDwUZ7pjPnkIh6A_L0",
+        "id": "5_5d203PZ5o",
+        "snippet": {
+          "publishedAt": "2023-01-31T16:45:22Z",
+          "channelId": "UClmFQfVyDvdtCralM-Oo_mw",
+          "title": "DTE Energy committed to Ann Arbor's 100% renewable energy goal, CEO Jerry Norcia says",
+          "description": "Despite opposing Ann Arbor's proposed ban on gas service for new buildings, DTE Energy CEO Jerry Norcia says the utility company is committed to partnering with Ann Arbor on its goal to power the community with 100% renewable energy by 2030. He spoke before a crowd of city officials and others at the Broadway Park West groundbreaking ceremony Jan. 31, 2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5_5d203PZ5o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MLive",
+          "tags": [
+            "auth-ryanstanton@mlive.com-auth",
+            "local-aa"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DTE Energy committed to Ann Arbor's 100% renewable energy goal, CEO Jerry Norcia says",
+            "description": "Despite opposing Ann Arbor's proposed ban on gas service for new buildings, DTE Energy CEO Jerry Norcia says the utility company is committed to partnering with Ann Arbor on its goal to power the community with 100% renewable energy by 2030. He spoke before a crowd of city officials and others at the Broadway Park West groundbreaking ceremony Jan. 31, 2023."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "245",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g0e0KK9AzkLKLvT3UV3f8VSO1Ao",
+        "id": "TFOcUyYD7xo",
+        "snippet": {
+          "publishedAt": "2023-03-02T23:22:53Z",
+          "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+          "title": "What DTE Energy is saying after ice storm caused massive power outage across Metro Detroit",
+          "description": "As hundreds of thousands who lost power in last week's ice storm now anticipate this next round of winter weather Local 4 asked on our Facebook page, \"What's one question you would ask the CEO of DTE?\"     Not surprisingly, we got hundreds of responses. And Thursday (March 2), I had the chance to ask many of those questions of Jerry Norcia in a one-on-one interview.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TFOcUyYD7xo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Click On Detroit | Local 4 | WDIV",
+          "tags": [
+            "DTE",
+            "Power Outages",
+            "Winter Ice Storm"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What DTE Energy is saying after ice storm caused massive power outage across Metro Detroit",
+            "description": "As hundreds of thousands who lost power in last week's ice storm now anticipate this next round of winter weather Local 4 asked on our Facebook page, \"What's one question you would ask the CEO of DTE?\"     Not surprisingly, we got hundreds of responses. And Thursday (March 2), I had the chance to ask many of those questions of Jerry Norcia in a one-on-one interview."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "796",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TidNchkA_HDvTmUd95JQhozSqoY",
+        "id": "Qi923dqsXH0",
+        "snippet": {
+          "publishedAt": "2023-10-17T13:00:22Z",
+          "channelId": "UCn-LrHNSs5UefYS1tUbmgWg",
+          "title": "Have You Struggled With Vulnerability? #LeadingWithVulnerability #leadership #shorts",
+          "description": "DTE Energy CEO Jerry Norcia\u2019s journey to embracing vulnerability in leadership wasn't an overnight transformation. But with practice, what seems challenging became his second nature, leading to deeper, more genuine conversations. \n\nJerry Norcia is one of the 100+ CEOs I interviewed for my new book, Leading With Vulnerability which is out now! Check it out here: https://www.amazon.com/Leading-Vulnerability-Superpower-Transform-Organization/dp/1119895243/\n\n#LeadingWithVulnerability #leadership\n\n----------------------------------------------\n\nIf you enjoyed this video, please like and subscribe! It helps the channel grow and allows us to make more. Thank you!\nhttps://www.youtube.com/user/jacobmorgan8/featured?sub_confirmation=1\n\n--------------------------------------------------\n\nJacob Morgan is a keynote speaker, best-selling author, and futurist. He explores how the world of work is changing, what the future of work is going to look like, and we need to do to prepare. To work with Jacob or have him speak at your event visit TheFutureOrganization.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Qi923dqsXH0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Future Ready Leadership With Jacob Morgan",
+          "tags": [
+            "jacob morgan",
+            "future of work",
+            "jerry norcia",
+            "dte energy",
+            "leadership",
+            "great leadership",
+            "leading with vulnerability",
+            "vulnerability",
+            "vulnerable leader",
+            "leadership transformation",
+            "leadership insights",
+            "embracing vulnerability",
+            "leadership skills",
+            "leadership journey",
+            "effective leadership",
+            "leadership growth",
+            "leadership development",
+            "leadership strategies",
+            "leadership success",
+            "mindset",
+            "enriching interactions"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Have You Struggled With Vulnerability? #LeadingWithVulnerability #leadership #shorts",
+            "description": "DTE Energy CEO Jerry Norcia\u2019s journey to embracing vulnerability in leadership wasn't an overnight transformation. But with practice, what seems challenging became his second nature, leading to deeper, more genuine conversations. \n\nJerry Norcia is one of the 100+ CEOs I interviewed for my new book, Leading With Vulnerability which is out now! Check it out here: https://www.amazon.com/Leading-Vulnerability-Superpower-Transform-Organization/dp/1119895243/\n\n#LeadingWithVulnerability #leadership\n\n----------------------------------------------\n\nIf you enjoyed this video, please like and subscribe! It helps the channel grow and allows us to make more. Thank you!\nhttps://www.youtube.com/user/jacobmorgan8/featured?sub_confirmation=1\n\n--------------------------------------------------\n\nJacob Morgan is a keynote speaker, best-selling author, and futurist. He explores how the world of work is changing, what the future of work is going to look like, and we need to do to prepare. To work with Jacob or have him speak at your event visit TheFutureOrganization.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "70",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "boKBcHmcNnvCbi1cYvW6JdA66aQ",
+        "id": "oYIbKMiwS8o",
+        "snippet": {
+          "publishedAt": "2023-03-03T04:32:42Z",
+          "channelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+          "title": "What DTE Energy is saying after ice storm caused massive power outage across Metro Detroit",
+          "description": "As hundreds of thousands who lost power in last week\u2019s ice storm now anticipate this next round of winter weather Local 4 asked on our Facebook page, \u201cWhat\u2019s one question you would ask the CEO of DTE?\u201d  Not surprisingly, we got hundreds of responses. And Thursday (March 2), I had the chance to ask many of those questions of Jerry Norcia in a one-on-one interview.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oYIbKMiwS8o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Click On Detroit | Local 4 | WDIV",
+          "tags": [
+            "DTE",
+            "February 2023 Ice Storm",
+            "Metro Detroit",
+            "Weather"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What DTE Energy is saying after ice storm caused massive power outage across Metro Detroit",
+            "description": "As hundreds of thousands who lost power in last week\u2019s ice storm now anticipate this next round of winter weather Local 4 asked on our Facebook page, \u201cWhat\u2019s one question you would ask the CEO of DTE?\u201d  Not surprisingly, we got hundreds of responses. And Thursday (March 2), I had the chance to ask many of those questions of Jerry Norcia in a one-on-one interview."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "677",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kBlQOi7WYq8lKQqXjrdLO4L31Lo",
+        "id": "u6Oyk3ulyT8",
+        "snippet": {
+          "publishedAt": "2023-10-21T07:00:21Z",
+          "channelId": "UCn-LrHNSs5UefYS1tUbmgWg",
+          "title": "Why Your Greatest Strength Is Also Your Greatest Weakness - Jerry Norcia, CEO & President DTE Energy",
+          "description": "If you enjoyed this video, please like and subscribe! It helps the channel grow and allows us to make more. Thank you!\nhttps://greatleadership.substack.com/p/jerry-norcia-ceo-dte-energy-leadership\n\n----------------------------------------------\n\nIn today's dynamic world, vulnerability isn't a sign of weakness, but a badge of authentic leadership. \n\nBy embracing vulnerability, leaders pave the way for inclusive decision-making processes where everyone's voice feels valued. \n\nJerry Norcia, Chairman and CEO of DTE Energy, believes that being a good leader means being real and honest. \n\nHe believes in treating everyone the same and he also thinks that leaders should be trustworthy, do what they say, care about others, and be confident. \n\nLearn more about Jerry\u2019s leadership journey and how he embraced vulnerable leadership here:\n\nJerry Norcia is one of the 100+ CEOs I interviewed for my new book, Leading With Vulnerability which is out now! Check it out here: https://www.amazon.com/Leading-Vulnerability-Superpower-Transform-Organization/dp/1119895243/ \n\n#LeadingWithVulnerability #leadership #authenticity #honesty #openness\n\n--------------------------------------------------\n\nJacob Morgan is a keynote speaker, best-selling author, and futurist. He explores how the world of work is changing, what the future of work is going to look like, and we need to do to prepare. To work with Jacob or have him speak at your event visit TheFutureOrganization.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u6Oyk3ulyT8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Future Ready Leadership With Jacob Morgan",
+          "tags": [
+            "jacob morgan",
+            "future of work",
+            "jerry norcia",
+            "DTE Energy",
+            "leading with vulnerability",
+            "leadership",
+            "vulnerability",
+            "great leadership",
+            "vulnerability in leadership",
+            "authentic leadership",
+            "decision-making",
+            "leadership insights",
+            "leadership values",
+            "leadership qualities",
+            "leadership journey",
+            "leadership style",
+            "inclusive leadership",
+            "leadership advice",
+            "success"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why Your Greatest Strength Is Also Your Greatest Weakness - Jerry Norcia, CEO & President DTE Energy",
+            "description": "If you enjoyed this video, please like and subscribe! It helps the channel grow and allows us to make more. Thank you!\nhttps://greatleadership.substack.com/p/jerry-norcia-ceo-dte-energy-leadership\n\n----------------------------------------------\n\nIn today's dynamic world, vulnerability isn't a sign of weakness, but a badge of authentic leadership. \n\nBy embracing vulnerability, leaders pave the way for inclusive decision-making processes where everyone's voice feels valued. \n\nJerry Norcia, Chairman and CEO of DTE Energy, believes that being a good leader means being real and honest. \n\nHe believes in treating everyone the same and he also thinks that leaders should be trustworthy, do what they say, care about others, and be confident. \n\nLearn more about Jerry\u2019s leadership journey and how he embraced vulnerable leadership here:\n\nJerry Norcia is one of the 100+ CEOs I interviewed for my new book, Leading With Vulnerability which is out now! Check it out here: https://www.amazon.com/Leading-Vulnerability-Superpower-Transform-Organization/dp/1119895243/ \n\n#LeadingWithVulnerability #leadership #authenticity #honesty #openness\n\n--------------------------------------------------\n\nJacob Morgan is a keynote speaker, best-selling author, and futurist. He explores how the world of work is changing, what the future of work is going to look like, and we need to do to prepare. To work with Jacob or have him speak at your event visit TheFutureOrganization.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT28M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "339",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Siz1kF51J0kuPj9ORnUDPCiVsl0",
+        "id": "ZPG2ilimJbc",
+        "snippet": {
+          "publishedAt": "2023-03-15T16:08:19Z",
+          "channelId": "UCOGa-48fFt4cW0UnW5WSdRg",
+          "title": "DTE, Consumers give testimony after widespread power outages",
+          "description": "The Michigan Energy, Communications, and Technology Committee will hear testimony from DTE Energy and Consumers Energy on Wednesday.\n\nREAD MORE: https://bit.ly/3Lo4SgC\n\nWatch FOX 2 Detroit Live:\nhttps://www.fox2detroit.com/live\n\nFOX 2 is working for you and delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from Detroit, Michigan, and across the nation.\n\nDownload the FOX 2 Detroit News & Weather apps:\nhttps://www.fox2detroit.com/fox-2-mobile-apps\n\nFollow FOX 2 Detroit  on Facebook:\nhttps://www.facebook.com/WJBKFox2Detroit/\n\nFollow FOX 2 Detroit  on Twitter:\nhttps://twitter.com/fox2news\n\nFollow FOX 2 Detroit  on Instagram:\nhttps://www.instagram.com/fox2detroit/\n\nSubscribe to FOX 2's newsletters:\nhttps://www.fox2detroit.com/email",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZPG2ilimJbc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "FOX 2 Detroit",
+          "tags": [
+            "Ethan Crumbley",
+            "James and Jennifer Crumbley",
+            "Oxford School mass shooting",
+            "Michigan Appeals Court",
+            "Involuntary manslaughter"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DTE, Consumers give testimony after widespread power outages",
+            "description": "The Michigan Energy, Communications, and Technology Committee will hear testimony from DTE Energy and Consumers Energy on Wednesday.\n\nREAD MORE: https://bit.ly/3Lo4SgC\n\nWatch FOX 2 Detroit Live:\nhttps://www.fox2detroit.com/live\n\nFOX 2 is working for you and delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from Detroit, Michigan, and across the nation.\n\nDownload the FOX 2 Detroit News & Weather apps:\nhttps://www.fox2detroit.com/fox-2-mobile-apps\n\nFollow FOX 2 Detroit  on Facebook:\nhttps://www.facebook.com/WJBKFox2Detroit/\n\nFollow FOX 2 Detroit  on Twitter:\nhttps://twitter.com/fox2news\n\nFollow FOX 2 Detroit  on Instagram:\nhttps://www.instagram.com/fox2detroit/\n\nSubscribe to FOX 2's newsletters:\nhttps://www.fox2detroit.com/email"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3H15M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1702",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 8
+    }
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "ceo": "Charles F. Lowrey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "At-MinPk2Y5rc1_25wXuYROl-Vs",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 17,
+      "resultsPerPage": 14
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K0MEyh_5CjAA7EjgiHqwmaflqC4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H_CT64U8vy4"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-09T09:17:33Z",
+          "channelId": "UCg2rexusra_Jz4Gqy2EbWmg",
+          "title": "The Geneva Association at 50 years: Charles F. Lowrey",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TheGenevaAssociation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-09T09:17:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UYGvzTlRazqflqUw-wx2Si6YPoM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6KGl5WiIu04"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-19T17:15:00Z",
+          "channelId": "UC3cs8FgJIrtEjHP2sf8p11g",
+          "title": "The Secret History of Prudential Financial!",
+          "description": "In this video, we'll take a look at the history of Prudential Financial, one of the most prominent financial institutions in the world.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Awaken Eagle Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-19T17:15:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HcymH-6ugbgLQl8_O1MqnxiM0Ts",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kX11C1bWdQE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T13:00:09Z",
+          "channelId": "UC39iSdG_4CFwkpZtJIemPrA",
+          "title": "|TZP Ep97| Prudential CEO on; How to become the CEO of a multinational company at a young age.",
+          "description": "Kachiza Kwenda is the CEO of Prudential (Zambia). His journey to success is one worth emulating. Listen to this guy closely.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "That Zed Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T13:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oO5iGImKoGExAgYmpzIQNseLF64",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ngaa-nw0NAM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-31T05:10:02Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Many of our markets have had &#39;very strong&#39; sales momentum, Prudential CEO says",
+          "description": "Anil Wadhwani, CEO of Prudential, discusses its half-year results.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-31T05:10:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "a8evmjmsXFl0OW-M-EXUll4UShs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PJNrpO3t7AU"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T02:44:24Z",
+          "channelId": "UCz0lMQZGY4S1SF-mXAw-yZg",
+          "title": "Los seguros de vida son imprescindibles: el CEO de Prudential en el especial mensual desde el NH",
+          "description": "No es un viernes cualquiera. Es el viernes en que llega un nuevo programa especial mensual de 100% SEGURO desde el hotel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100SEGURO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T02:44:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wO3i2BvCZFPHvEngTHZFhVNd-NY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ftNwgQhEcK0"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-04T23:11:55Z",
+          "channelId": "UC0RG0Sj_zfhhb5V3V2gAGNg",
+          "title": "Largest pipe organ in the world. I am OBSESSED. #pipeorgan #organist #organtok #classicalmusic",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Anna Lapwood",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-04T23:11:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "y8WTrN7QVdjSuILOkHJ59sF2pK8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1N-5wpt4jEo"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T22:45:09Z",
+          "channelId": "UCoKxrhANeQIdBrVJiPwdlzw",
+          "title": "Prudential Life insurance . lunching MEKAKRAWA",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stephen Appiah",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T22:45:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8oxD4oqZua1hw6ycnnnPEKUOf3s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9wNvCWp3Q-k"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-26T09:01:53Z",
+          "channelId": "UCj4qaXEHCD82DiLhKdZjX6g",
+          "title": "How to Clear DataEngineer Interview ? Interview Preparation and Tips",
+          "description": "Hello Geeks, End-to-End Project Course: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GeekCoders",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-26T09:01:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SB9Kn6T73cTA4KTnOvpfK6kzXk0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j62Es0YPiFQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-06T23:53:03Z",
+          "channelId": "UCj_hrN_R0AO3UnpdYZvFWPw",
+          "title": "Every Producer&#39;s Tag",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Seth \ud83c\udfb5",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-06T23:53:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aaf-O2CNpdGAHmMcFHXHw5gufM8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PMFD07qxQ6U"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-29T13:00:32Z",
+          "channelId": "UCS2KdtM_ToGpJkDYPxbnuFg",
+          "title": "The Prudential , Insurance Company of America",
+          "description": "The Prudential , Insurance Company of America.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PMFD07qxQ6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PMFD07qxQ6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PMFD07qxQ6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Club68",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-29T13:00:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sbJcGtZkF1dbD61SHrFGlpYmBDI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3X1DYtB3XB8"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-11T14:00:02Z",
+          "channelId": "UCcIfqL77FTgHcFRvgJCrFhw",
+          "title": "Prudential Financial (PRU) Stock Analysis: Should You Invest in $PRU?",
+          "description": "GrowthShares takes a closer look at Prudential Financial (PRU) to determine whether it's a strong long-term investment ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GrowthShares",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-11T14:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qo9nrJp6XRgK_UCSiBNtoftmmvY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mw6VUX8N1ZE"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-20T21:45:01Z",
+          "channelId": "UCXLsFE82fDqbQEVvXmKGzXQ",
+          "title": "Prudential Financial Stock pick of the day #Dividends #PassiveIncome #Investing #stocks #Dividends",
+          "description": "Webull Link *** https://a.webull.com/eSWWUnMplWVvo2avhN *** Welcome everyone to Vested Interest. This is Shane in today's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vested Interest",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-20T21:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qZTOUdJHklq-KqygD2zqNOFf_HI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GyDINOYg7-I"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-10T12:08:18Z",
+          "channelId": "UC05ZIewkgAsnLv7SskdGmxQ",
+          "title": "How can security practitioners balance between &quot;shift-left&quot; and the emergence of &quot;shift-right&quot;?",
+          "description": "Check out highlights from our signature, annual Cybertech Fireside Chat, hosted in partnership with SYN Ventures, NightDragon, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "YL Ventures",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-10T12:08:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r8H5tsEy7F3_IGjHppQJpPSVdL4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WGaWYJ9CqP8"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-04T23:25:51Z",
+          "channelId": "UCRb7NXq7aNmO66DFX5VxlEw",
+          "title": "Prudential Insurance Company Limited dividend offered, how much cash and bonus share market in nepal",
+          "description": "Prudential Insurance Company Limited dividend offered, how much cash and bonus share market in nepal Hi I am Pratik dc.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pratik dc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-04T23:25:51Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "dl-TcJ0XlK9AZd0mQaQaplIl-sg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "rAcJ3dcIryNZwkOCEc3y5uxHT2s",
+        "id": "H_CT64U8vy4",
+        "snippet": {
+          "publishedAt": "2023-10-09T09:17:33Z",
+          "channelId": "UCg2rexusra_Jz4Gqy2EbWmg",
+          "title": "The Geneva Association at 50 years: Charles F. Lowrey",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheGenevaAssociation",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Geneva Association at 50 years: Charles F. Lowrey",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "196",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "f80Yx6We4I8Sekkh-48z3XdTndA",
+        "id": "6KGl5WiIu04",
+        "snippet": {
+          "publishedAt": "2023-04-19T17:15:00Z",
+          "channelId": "UC3cs8FgJIrtEjHP2sf8p11g",
+          "title": "The Secret History of Prudential Financial!",
+          "description": "In this video, we'll take a look at the history of Prudential Financial, one of the most prominent financial institutions in the world.\n\nFrom its humble beginnings as a mutual insurance company, Prudential has grown into one of the largest and most well-known financial institutions in the world. We'll explore Prudential's history, from its founding to its current status, and discuss the company's unique strengths and challenges.\n\nIf you're interested in the history and business of financial institutions, this video is for you! By the end, you'll have a better understanding of Prudential Financial and the important role it plays in the world economy.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6KGl5WiIu04/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Awaken Eagle Media",
+          "tags": [
+            "dividend stocks",
+            "dividend stocks 2022",
+            "dividend growth stocks",
+            "dividend investing",
+            "value stocks",
+            "value stocks 2022",
+            "value stocks now",
+            "Best stocks to buy now",
+            "best stocks now",
+            "value investing",
+            "prudential financial stock",
+            "prudential financial stock analysis",
+            "prudential financial inc",
+            "prudential financial",
+            "pru stock",
+            "pru stock analysis",
+            "pru stock price",
+            "pru stock prediction",
+            "pru stock 2023",
+            "pru stock forecast"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Secret History of Prudential Financial!",
+            "description": "In this video, we'll take a look at the history of Prudential Financial, one of the most prominent financial institutions in the world.\n\nFrom its humble beginnings as a mutual insurance company, Prudential has grown into one of the largest and most well-known financial institutions in the world. We'll explore Prudential's history, from its founding to its current status, and discuss the company's unique strengths and challenges.\n\nIf you're interested in the history and business of financial institutions, this video is for you! By the end, you'll have a better understanding of Prudential Financial and the important role it plays in the world economy."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1392",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lSr_O4nqNYUfd9tdlRXIVu6E7Bs",
+        "id": "kX11C1bWdQE",
+        "snippet": {
+          "publishedAt": "2023-10-24T13:00:09Z",
+          "channelId": "UC39iSdG_4CFwkpZtJIemPrA",
+          "title": "|TZP Ep97| Prudential CEO on; How to become the CEO of a multinational company at a young age.",
+          "description": "Kachiza Kwenda is the CEO of Prudential (Zambia). His journey to success is one worth emulating. Listen to this guy closely. You might learn something.\n\n#BetLion #KachizaKwenda #AwardWinningPodcast #ThatZedPodcast",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kX11C1bWdQE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "That Zed Podcast",
+          "tags": [
+            "THAT ZED PODCAST",
+            "ZAMBIA",
+            "ZAMBIAN PODCAST",
+            "K-PLUS",
+            "ZAMBIAN CHATS"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "|TZP Ep97| Prudential CEO on; How to become the CEO of a multinational company at a young age.",
+            "description": "Kachiza Kwenda is the CEO of Prudential (Zambia). His journey to success is one worth emulating. Listen to this guy closely. You might learn something.\n\n#BetLion #KachizaKwenda #AwardWinningPodcast #ThatZedPodcast"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H55M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22887",
+          "likeCount": "479",
+          "favoriteCount": "0",
+          "commentCount": "80"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NIhAtMf0kJEnMU_MeK0XfwaVrFM",
+        "id": "ngaa-nw0NAM",
+        "snippet": {
+          "publishedAt": "2023-08-31T05:10:02Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Many of our markets have had 'very strong' sales momentum, Prudential CEO says",
+          "description": "Anil Wadhwani, CEO of Prudential, discusses its half-year results.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ngaa-nw0NAM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "tags": [
+            "Capital Connection",
+            "CNBC"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Many of our markets have had 'very strong' sales momentum, Prudential CEO says",
+            "description": "Anil Wadhwani, CEO of Prudential, discusses its half-year results."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "703",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9WF49MuNeWmqZdfpjqD7QtgsF44",
+        "id": "PJNrpO3t7AU",
+        "snippet": {
+          "publishedAt": "2023-06-13T02:44:24Z",
+          "channelId": "UCz0lMQZGY4S1SF-mXAw-yZg",
+          "title": "Los seguros de vida son imprescindibles: el CEO de Prudential en el especial mensual desde el NH",
+          "description": "No es un viernes cualquiera. Es el viernes en que llega un nuevo programa especial mensual de 100% SEGURO desde el hotel NH Collection Lancaster, con una entrevista relajada y distendida, comida de por medio, con los ejecutivos que llevan las riendas de las principales aseguradoras del pa\u00eds.\n\nEn esta ocasi\u00f3n, el invitado es Mauricio Zanatta, Presidente y CEO de Prudential Seguros, con quien dialogamos en profundidad sobre los seguros de personas en Argentina. Sus or\u00edgenes en la actividad, las implicancias de trabajar en el pa\u00eds en una aseguradora de capitales extranjeros y ni m\u00e1s ni menos que en el segmento de vida, el estado de los incentivos fiscales, el impacto de la inflaci\u00f3n en este tipo de negocios, la innovaci\u00f3n y la omnicanalidad para llegar a m\u00e1s gente, y su mirada respecto a por qu\u00e9 es imprescindible contar con un seguro de vida.\n\nPROGRAMA EMITIDO EL 09/06/2023 POR CANAL METRO HD.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PJNrpO3t7AU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "100SEGURO",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "Los seguros de vida son imprescindibles: el CEO de Prudential en el especial mensual desde el NH",
+            "description": "No es un viernes cualquiera. Es el viernes en que llega un nuevo programa especial mensual de 100% SEGURO desde el hotel NH Collection Lancaster, con una entrevista relajada y distendida, comida de por medio, con los ejecutivos que llevan las riendas de las principales aseguradoras del pa\u00eds.\n\nEn esta ocasi\u00f3n, el invitado es Mauricio Zanatta, Presidente y CEO de Prudential Seguros, con quien dialogamos en profundidad sobre los seguros de personas en Argentina. Sus or\u00edgenes en la actividad, las implicancias de trabajar en el pa\u00eds en una aseguradora de capitales extranjeros y ni m\u00e1s ni menos que en el segmento de vida, el estado de los incentivos fiscales, el impacto de la inflaci\u00f3n en este tipo de negocios, la innovaci\u00f3n y la omnicanalidad para llegar a m\u00e1s gente, y su mirada respecto a por qu\u00e9 es imprescindible contar con un seguro de vida.\n\nPROGRAMA EMITIDO EL 09/06/2023 POR CANAL METRO HD."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT28M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "599",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4xP0tKa2EyMjjpZL3bt2Oj_X9ZI",
+        "id": "ftNwgQhEcK0",
+        "snippet": {
+          "publishedAt": "2023-04-04T23:11:55Z",
+          "channelId": "UC0RG0Sj_zfhhb5V3V2gAGNg",
+          "title": "Largest pipe organ in the world. I am OBSESSED. #pipeorgan #organist #organtok #classicalmusic",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ftNwgQhEcK0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anna Lapwood",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Largest pipe organ in the world. I am OBSESSED. #pipeorgan #organist #organtok #classicalmusic",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1094334",
+          "likeCount": "31978",
+          "favoriteCount": "0",
+          "commentCount": "502"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6S2wjdi3tm0kzNQqwTOLScY6-Kc",
+        "id": "1N-5wpt4jEo",
+        "snippet": {
+          "publishedAt": "2023-06-07T22:45:09Z",
+          "channelId": "UCoKxrhANeQIdBrVJiPwdlzw",
+          "title": "Prudential Life insurance . lunching MEKAKRAWA",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1N-5wpt4jEo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stephen Appiah",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Prudential Life insurance . lunching MEKAKRAWA",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "78",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yaV3dwmfXbo0y9XFvVvIpSmDYvE",
+        "id": "9wNvCWp3Q-k",
+        "snippet": {
+          "publishedAt": "2023-04-26T09:01:53Z",
+          "channelId": "UCj4qaXEHCD82DiLhKdZjX6g",
+          "title": "How to Clear DataEngineer Interview ? Interview Preparation and Tips",
+          "description": "Hello Geeks,\n\nEnd-to-End Project Course: https://www.geekcoders.co.in/courses/End-to-End-Azure-Data-Engineering-Project-644fba73e4b0a1072ff43a72\n\nPlease watch the video till the end\n\n Full Playlist of Interview Questions of SQL: \n\u2705https://www.youtube.com/watch?v=XZHp-u5QzYE&list=PLxy0DxWEupiOU8M_GkSTYOMLB7Q9pAAZe\nFull Playlist of Snowflake SQL: \n\u2705https://www.youtube.com/watch?v=no5VjmmPDGc&list=PLxy0DxWEupiP3oJralHpT8SjtdBY0BpYR\nFull Playlist of Golang:\n\u2705 https://www.youtube.com/watch?v=F3Wg2dYPh_U&list=PLxy0DxWEupiMckHLAJGQuHpYkKqYhqCZ5\nFull Playlist of NumPY Library:\n\u2705 https://www.youtube.com/watch?v=F3Wg2dYPh_U&list=PLxy0DxWEupiMckHLAJGQuHpYkKqYhqCZ5\n Full Playlist of PTQT5:\n\u2705 https://www.youtube.com/watch?v=NcATA...\nFull Playlist of Pandas: \n\u2705 https://www.youtube.com/watch?v=DKTcf6Wyuck&list=PLxy0DxWEupiP86ruA3QWoBG1Rb0b1BH4n\n\nYouTube Link: https://www.youtube.com/channel/UCj4q...\nInstragram : https://www.instagram.com/prajaji/\nLinkedin : https://www.linkedin.com/in/sagar-prajapati-86073b155/\nTopmate: https://topmate.io/geekcoders\n\n#dataengineering   #dataengineer   #interviewtipsandtricks",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9wNvCWp3Q-k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GeekCoders",
+          "tags": [
+            "Geekcoders",
+            "Sagarprajapati",
+            "Freecontent",
+            "Azure",
+            "Dataengineer",
+            "Python",
+            "Sql",
+            "Data",
+            "Databass",
+            "Database",
+            "Engineering",
+            "Databricks",
+            "Azuredatafactory",
+            "Spark",
+            "Hadoop"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How to Clear DataEngineer Interview ? Interview Preparation and Tips",
+            "description": "Hello Geeks,\n\nEnd-to-End Project Course: https://www.geekcoders.co.in/courses/End-to-End-Azure-Data-Engineering-Project-644fba73e4b0a1072ff43a72\n\nPlease watch the video till the end\n\n Full Playlist of Interview Questions of SQL: \n\u2705https://www.youtube.com/watch?v=XZHp-u5QzYE&list=PLxy0DxWEupiOU8M_GkSTYOMLB7Q9pAAZe\nFull Playlist of Snowflake SQL: \n\u2705https://www.youtube.com/watch?v=no5VjmmPDGc&list=PLxy0DxWEupiP3oJralHpT8SjtdBY0BpYR\nFull Playlist of Golang:\n\u2705 https://www.youtube.com/watch?v=F3Wg2dYPh_U&list=PLxy0DxWEupiMckHLAJGQuHpYkKqYhqCZ5\nFull Playlist of NumPY Library:\n\u2705 https://www.youtube.com/watch?v=F3Wg2dYPh_U&list=PLxy0DxWEupiMckHLAJGQuHpYkKqYhqCZ5\n Full Playlist of PTQT5:\n\u2705 https://www.youtube.com/watch?v=NcATA...\nFull Playlist of Pandas: \n\u2705 https://www.youtube.com/watch?v=DKTcf6Wyuck&list=PLxy0DxWEupiP86ruA3QWoBG1Rb0b1BH4n\n\nYouTube Link: https://www.youtube.com/channel/UCj4q...\nInstragram : https://www.instagram.com/prajaji/\nLinkedin : https://www.linkedin.com/in/sagar-prajapati-86073b155/\nTopmate: https://topmate.io/geekcoders\n\n#dataengineering   #dataengineer   #interviewtipsandtricks"
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT55M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2353",
+          "likeCount": "68",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3nXOLOZbxv2M66bJBsLS8qgmmis",
+        "id": "j62Es0YPiFQ",
+        "snippet": {
+          "publishedAt": "2023-10-06T23:53:03Z",
+          "channelId": "UCj_hrN_R0AO3UnpdYZvFWPw",
+          "title": "Every Producer's Tag",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/j62Es0YPiFQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Seth \ud83c\udfb5",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Every Producer's Tag",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2620773",
+          "likeCount": "92758",
+          "favoriteCount": "0",
+          "commentCount": "4037"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CkiPoH7__BRNzHC_OWDiFSSZgLQ",
+        "id": "PMFD07qxQ6U",
+        "snippet": {
+          "publishedAt": "2023-01-29T13:00:32Z",
+          "channelId": "UCS2KdtM_ToGpJkDYPxbnuFg",
+          "title": "The Prudential , Insurance Company of America",
+          "description": "The Prudential , Insurance Company of America",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PMFD07qxQ6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PMFD07qxQ6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PMFD07qxQ6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Club68",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Prudential , Insurance Company of America",
+            "description": "The Prudential , Insurance Company of America"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "382",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Xaj6DW9EHbGuuP3ErWwtAUCwyIY",
+        "id": "3X1DYtB3XB8",
+        "snippet": {
+          "publishedAt": "2023-04-11T14:00:02Z",
+          "channelId": "UCcIfqL77FTgHcFRvgJCrFhw",
+          "title": "Prudential Financial (PRU) Stock Analysis: Should You Invest in $PRU?",
+          "description": "GrowthShares takes a closer look at Prudential Financial (PRU) to determine whether it's a strong long-term investment opportunity. Our assessment is based on three key questions: 1) Is Prudential a good business? 2) Does Prudential have an attractive stock? and 3) What is Prudential's fair value price? If you're considering investing in Prudential, this analysis will provide valuable insights into the company's potential for growth and profitability. Stay informed with GrowthShares.\n\n\u2b50 Become a Patreon Member:\nhttps://www.patreon.com/growthshares\n\n\u2b50 Subscribe to GrowthShares:\nhttps://www.youtube.com/channel/UCcIfqL77FTgHcFRvgJCrFhw?sub_confirmation=1\n\n\u2b50 What do these 14 Metrics mean?\nhttps://youtu.be/5eklUK477do\n\n\u2b50 Great Long-Term Investments:\nhttps://youtube.com/playlist?list=PL6zwrLDrJDAu4MfLzumIzCrhdPk-LeLy-\n\n\u2b50 The analysis is split into 3 Factors: Business, Investment, and Price. Each factor is weighted differently and also includes 14 Metrics: Growth, Business Margins, Operations, Efficiency, Debt Utilization, Dividends, Sustainability, Market Dominance, Stock Performance, Technical Analysis, Short Interest, Wall Street Analysis, Employee Growth,  and Intrinsic Value.\n\n\u2b50 I may or may not have a financial interest (investment) in this company before or after the publication of this video.\n\n#PrudentialFinancial #PRU #GrowthShares\n\nMusic: Wehrmut by Godmode\n\n**NOT FINANCIAL OR INVESTMENT ADVICE. DO YOUR OWN RESEARCH**\n\nDisclaimer: The content in this video and this channel are for educational purposes only. I'm not a financial advisor and it is your responsibility to do your own research before making any decision when it comes to your money and your life. This does not constitute investment advice of any kind.\n\nAffiliate Disclaimer: Some of the links in the description of this video may be affiliate links. That means if you click on those links and make a purchase on those websites, I may receive a commission at no extra cost to you.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3X1DYtB3XB8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GrowthShares",
+          "tags": [
+            "growthshares",
+            "growth shares",
+            "growthshares stock analysis",
+            "stock analysis growthshares",
+            "growthshares stock",
+            "growthshares analysis",
+            "stock charts",
+            "fundamental stock analysis",
+            "technical stock analysis",
+            "free stock analysis",
+            "long term investing",
+            "stock research",
+            "free stock research",
+            "prudential financial",
+            "pru"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Prudential Financial (PRU) Stock Analysis: Should You Invest in $PRU?",
+            "description": "GrowthShares takes a closer look at Prudential Financial (PRU) to determine whether it's a strong long-term investment opportunity. Our assessment is based on three key questions: 1) Is Prudential a good business? 2) Does Prudential have an attractive stock? and 3) What is Prudential's fair value price? If you're considering investing in Prudential, this analysis will provide valuable insights into the company's potential for growth and profitability. Stay informed with GrowthShares.\n\n\u2b50 Become a Patreon Member:\nhttps://www.patreon.com/growthshares\n\n\u2b50 Subscribe to GrowthShares:\nhttps://www.youtube.com/channel/UCcIfqL77FTgHcFRvgJCrFhw?sub_confirmation=1\n\n\u2b50 What do these 14 Metrics mean?\nhttps://youtu.be/5eklUK477do\n\n\u2b50 Great Long-Term Investments:\nhttps://youtube.com/playlist?list=PL6zwrLDrJDAu4MfLzumIzCrhdPk-LeLy-\n\n\u2b50 The analysis is split into 3 Factors: Business, Investment, and Price. Each factor is weighted differently and also includes 14 Metrics: Growth, Business Margins, Operations, Efficiency, Debt Utilization, Dividends, Sustainability, Market Dominance, Stock Performance, Technical Analysis, Short Interest, Wall Street Analysis, Employee Growth,  and Intrinsic Value.\n\n\u2b50 I may or may not have a financial interest (investment) in this company before or after the publication of this video.\n\n#PrudentialFinancial #PRU #GrowthShares\n\nMusic: Wehrmut by Godmode\n\n**NOT FINANCIAL OR INVESTMENT ADVICE. DO YOUR OWN RESEARCH**\n\nDisclaimer: The content in this video and this channel are for educational purposes only. I'm not a financial advisor and it is your responsibility to do your own research before making any decision when it comes to your money and your life. This does not constitute investment advice of any kind.\n\nAffiliate Disclaimer: Some of the links in the description of this video may be affiliate links. That means if you click on those links and make a purchase on those websites, I may receive a commission at no extra cost to you."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1044",
+          "likeCount": "29",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gj9Os6QL-GwwkVdeswgp73uQhTY",
+        "id": "mw6VUX8N1ZE",
+        "snippet": {
+          "publishedAt": "2023-03-20T21:45:01Z",
+          "channelId": "UCXLsFE82fDqbQEVvXmKGzXQ",
+          "title": "Prudential Financial Stock pick of the day #Dividends #PassiveIncome #Investing #stocks #Dividends",
+          "description": "Webull Link  ***       https://a.webull.com/eSWWUnMplWVvo2avhN         ***\n\n\nWelcome everyone to Vested Interest. This is Shane in today's video we will cover The Stock Pick of the day Prudential Financial ticker PRU.  With the recent pull back, it may be a great time to pick up stocks on sale, increase that dividend yield and future returns. My best advice in good times or bad is to have a diversified portfolio, investing in good growing companies, that pay dividends, with positive cash flow to cover the dividend. Companies with high earnings yield, a high rate of return on capital and don't overpay for them. Don't chase hype stocks and look to get rich overnight, this is a long-term investment strategy, to invest in any market or economic conditions. Long-term investing not day trading. I have nothing to sell, no Patrion, no courses you can see everything I'm looking at on my watch list, buying, selling and how my dividend portfolio is doing on this channel. I've included some links so if you use these links, it will help me out, the Webull link will give you and me some free stocks based on Webulls most recent promotion so, if you're looking to open a new brokerage account to start buying stocks give that one a try and if you're looking to increase your investing knowledge and library, I have included some links to Amazon for books I think add value to any investor seeking to broaden their knowledge base. \nThis is Shane signing off wishing Peace and Prosperity to you and yours and remember financial security comes to those who take a VESTED INTEREST. See you next time. \n\nDisclaimer: I\u2019m not a financial advisor",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mw6VUX8N1ZE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vested Interest",
+          "tags": [
+            "dividend investing",
+            "dividend stocks",
+            "passive income investing",
+            "investing in stocks",
+            "dividend income",
+            "dividend income strategy",
+            "best dividend stocks",
+            "dividends",
+            "buy the dip",
+            "how to start investing",
+            "investing for beginners",
+            "best investment",
+            "stock market",
+            "stock crash",
+            "high yield dividend stocks",
+            "stocks to buy",
+            "dividend investing strategy",
+            "dividend stocks for passive income",
+            "dividend growth investing",
+            "prudential financial stock",
+            "pru stock",
+            "financial education",
+            "financial freedom"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Prudential Financial Stock pick of the day #Dividends #PassiveIncome #Investing #stocks #Dividends",
+            "description": "Webull Link  ***       https://a.webull.com/eSWWUnMplWVvo2avhN         ***\n\n\nWelcome everyone to Vested Interest. This is Shane in today's video we will cover The Stock Pick of the day Prudential Financial ticker PRU.  With the recent pull back, it may be a great time to pick up stocks on sale, increase that dividend yield and future returns. My best advice in good times or bad is to have a diversified portfolio, investing in good growing companies, that pay dividends, with positive cash flow to cover the dividend. Companies with high earnings yield, a high rate of return on capital and don't overpay for them. Don't chase hype stocks and look to get rich overnight, this is a long-term investment strategy, to invest in any market or economic conditions. Long-term investing not day trading. I have nothing to sell, no Patrion, no courses you can see everything I'm looking at on my watch list, buying, selling and how my dividend portfolio is doing on this channel. I've included some links so if you use these links, it will help me out, the Webull link will give you and me some free stocks based on Webulls most recent promotion so, if you're looking to open a new brokerage account to start buying stocks give that one a try and if you're looking to increase your investing knowledge and library, I have included some links to Amazon for books I think add value to any investor seeking to broaden their knowledge base. \nThis is Shane signing off wishing Peace and Prosperity to you and yours and remember financial security comes to those who take a VESTED INTEREST. See you next time. \n\nDisclaimer: I\u2019m not a financial advisor"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "395",
+          "likeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jSkh7ENHaot3uYGDe94dIuSnQ_c",
+        "id": "GyDINOYg7-I",
+        "snippet": {
+          "publishedAt": "2023-08-10T12:08:18Z",
+          "channelId": "UC05ZIewkgAsnLv7SskdGmxQ",
+          "title": "How can security practitioners balance between \"shift-left\" and the emergence of \"shift-right\"?",
+          "description": "Check out highlights from our signature, annual Cybertech Fireside Chat, hosted in partnership with SYN Ventures, NightDragon, Momentum Cyber, and Ten Eleven Ventures.\n\nGain insights from our esteemed panelists Jay Leek ( SYN Ventures), Amy De Salvatore (NightDragon), Todd Weber (Ten Eleven Ventures), Prabhath Karanth (TripActions), Brad Arkin (Cisco), Dino Boukouris (Momentum Cyber), and moderator Yoav Leitersdorf (YL Ventures).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GyDINOYg7-I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YL Ventures",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How can security practitioners balance between \"shift-left\" and the emergence of \"shift-right\"?",
+            "description": "Check out highlights from our signature, annual Cybertech Fireside Chat, hosted in partnership with SYN Ventures, NightDragon, Momentum Cyber, and Ten Eleven Ventures.\n\nGain insights from our esteemed panelists Jay Leek ( SYN Ventures), Amy De Salvatore (NightDragon), Todd Weber (Ten Eleven Ventures), Prabhath Karanth (TripActions), Brad Arkin (Cisco), Dino Boukouris (Momentum Cyber), and moderator Yoav Leitersdorf (YL Ventures)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "151",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GpvPrf1hk_VWGm2TwFUN6sMiHCE",
+        "id": "WGaWYJ9CqP8",
+        "snippet": {
+          "publishedAt": "2023-02-04T23:25:51Z",
+          "channelId": "UCRb7NXq7aNmO66DFX5VxlEw",
+          "title": "Prudential Insurance Company Limited dividend offered, how much cash and bonus share market in nepal",
+          "description": "Prudential Insurance Company Limited dividend offered, how much cash and bonus share market in nepal\n\nHi\nI am Pratik dc. Welcome to our youtube channel Pratik dc.\n\n#prudentialinsurancecompanylimited \n#nepalisharemarket \n#nepse \n#nepalsharemarketnews \n#nepsetechnicalanalysistoday \n#nepsechartanalysis \n#nepsetechnicalanalysis \n#nepalstockexchange \n#meroshare \n#nepalonlinesharemarket \n#sharemarket \n#nepalsharemarket \n#nepalshare \n#sharemarketinnepal \n#nepsebull  \n\nPlease visit to my website: https://www.economyreaders.com/\n\nFOLLOW ME ON:\nFacebook Page: https://www.facebook.com/profile.php?id=100064082798697\nInstagram: https://www.instagram.com/pratik.dc.9/\nTwitter: https://twitter.com/dc_pratik\nFor Sponsors or Business inquiries: pratikdc87@gmail.com\n\nThis is video Releated to the following bellow:- \nshare market nepal, \nnepse, nepal share market, \nNepse Technical Analysis, \nNepse Update, \nshare market trading, \nnepse online trading system, \ndividend announcement, \nnew upcoming ipo in nepal, \nshare market news, \nipo result date and opening price, \nLife insurance ipo and update, \nshare market basics for beginners, \nstcok market, \nipo, \nupcoming ipo in nepal, \nipo share market, \nshare market basics for beginners in nepal, \nnepal share Analysis, \nNepse Daily Market Update, \nNepali Share Market News, \nNepal Stock Exchange, \nNepse Analysis, \nTechnical Analysis For Beginners in Stock Market, \nNepse Update, \nStock Analysis Nepal, \nSharebazar, \nSharemarket, \nShare Market in Nepal, \nBasics of Stock Market For Beginners, \nToday nepse, \nNepse update today, \nNepse share, \nNepse market in Nepal, \nNepse daily update, \nNepse hydropowers Nepse index, \nLearn technical analysis, \nNepal share bazar, \nTechnical analysis latest, \nNepse daily analysis Nepse all, \nNepse correction, \nNepse new update, \nNabil, \nTechnical analysis in nepali, \nUpcoming ipo Nepal, \nNepal share market,stock markets, \nNepse chart today, \ngbbl, \nipo Nepal, \nnew ipo, \nnepse share analysis, \nipo news, \nshare tech, \nbonus announcement, \ncompany news, \nadvance technical analysis course details, \nhidcl, \nshare market technical analysis free training, \nnepse online trading system, \nnepse wave analysis, \nstock analysis in nepali, \nmerolagani, \nnepse live nepse alpha, \ndiscussion, \nnepse live clubhouse, \nnepse nifra, \nhydropower stock market\u2026\u2026.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WGaWYJ9CqP8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Pratik dc",
+          "tags": [
+            "share market in nepali",
+            "nepal share market news",
+            "nepal share market",
+            "nepse analysis",
+            "share market in nepal",
+            "investment in nepal",
+            "share knowledge in nepal",
+            "latest nepse analysis",
+            "learn nepse analysis",
+            "how to learn nepse analysis",
+            "nepal share market information",
+            "nepse chart analysis",
+            "nepse technical analysis",
+            "nepal stock exchange",
+            "nepse",
+            "nepse technical analysis today",
+            "nepse analysis today",
+            "upcoming ipo in nepal",
+            "ipo share market in nepal",
+            "new upcoming ipo in nepal",
+            "nepse live"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Prudential Insurance Company Limited dividend offered, how much cash and bonus share market in nepal",
+            "description": "Prudential Insurance Company Limited dividend offered, how much cash and bonus share market in nepal\n\nHi\nI am Pratik dc. Welcome to our youtube channel Pratik dc.\n\n#prudentialinsurancecompanylimited \n#nepalisharemarket \n#nepse \n#nepalsharemarketnews \n#nepsetechnicalanalysistoday \n#nepsechartanalysis \n#nepsetechnicalanalysis \n#nepalstockexchange \n#meroshare \n#nepalonlinesharemarket \n#sharemarket \n#nepalsharemarket \n#nepalshare \n#sharemarketinnepal \n#nepsebull  \n\nPlease visit to my website: https://www.economyreaders.com/\n\nFOLLOW ME ON:\nFacebook Page: https://www.facebook.com/profile.php?id=100064082798697\nInstagram: https://www.instagram.com/pratik.dc.9/\nTwitter: https://twitter.com/dc_pratik\nFor Sponsors or Business inquiries: pratikdc87@gmail.com\n\nThis is video Releated to the following bellow:- \nshare market nepal, \nnepse, nepal share market, \nNepse Technical Analysis, \nNepse Update, \nshare market trading, \nnepse online trading system, \ndividend announcement, \nnew upcoming ipo in nepal, \nshare market news, \nipo result date and opening price, \nLife insurance ipo and update, \nshare market basics for beginners, \nstcok market, \nipo, \nupcoming ipo in nepal, \nipo share market, \nshare market basics for beginners in nepal, \nnepal share Analysis, \nNepse Daily Market Update, \nNepali Share Market News, \nNepal Stock Exchange, \nNepse Analysis, \nTechnical Analysis For Beginners in Stock Market, \nNepse Update, \nStock Analysis Nepal, \nSharebazar, \nSharemarket, \nShare Market in Nepal, \nBasics of Stock Market For Beginners, \nToday nepse, \nNepse update today, \nNepse share, \nNepse market in Nepal, \nNepse daily update, \nNepse hydropowers Nepse index, \nLearn technical analysis, \nNepal share bazar, \nTechnical analysis latest, \nNepse daily analysis Nepse all, \nNepse correction, \nNepse new update, \nNabil, \nTechnical analysis in nepali, \nUpcoming ipo Nepal, \nNepal share market,stock markets, \nNepse chart today, \ngbbl, \nipo Nepal, \nnew ipo, \nnepse share analysis, \nipo news, \nshare tech, \nbonus announcement, \ncompany news, \nadvance technical analysis course details, \nhidcl, \nshare market technical analysis free training, \nnepse online trading system, \nnepse wave analysis, \nstock analysis in nepali, \nmerolagani, \nnepse live nepse alpha, \ndiscussion, \nnepse live clubhouse, \nnepse nifra, \nhydropower stock market\u2026\u2026."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "190",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 14,
+      "resultsPerPage": 14
+    }
+  }
+}

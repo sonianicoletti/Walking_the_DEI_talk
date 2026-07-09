@@ -1,0 +1,585 @@
+{
+  "ceo": "William S. Demchak",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "zMWKq0xjRqC43sI0yUR10jM7gnI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NGlWzkoJ7Mjg299ylJIV4a6AA98",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Vw2bQshTNzs"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-19T16:25:08Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "PNC CEO: What happened with the banks that failed has nothing to do with their sizes",
+          "description": "PNC CEO Bill Demchak joins 'Squawk on the Street' to discuss the company's earnings report, banking turbulence, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-19T16:25:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yMY9mBPqbuDxo2HyahmjN-1mdVg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xtQAys3ONLQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T15:31:13Z",
+          "channelId": "UCzXvcrj3Gs8u463hCkCjFPg",
+          "title": "W. L. Mellon Speaker Series: William Demchak",
+          "description": "The W.L. Mellon Speaker Series is a forum that encourages insightful and lively dialogue between Tepper students and global ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TepperCMU",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T15:31:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jyS01d5sa1QB-yO56kR4v6UW_0Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2h2B85muXxc"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-03T20:26:21Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Bitcoin dips post-jobs report, and Core Scientific to hand over rigs to pay debt: CNBC Crypto World",
+          "description": "CNBC Crypto World features the latest news and daily trading updates from the digital currency markets and provides viewers ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-03T20:26:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LJRvJAE7AjUCjWCW_q3nP2-ka-w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M4c7CX4DsCw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-22T09:14:41Z",
+          "channelId": "UCreq7uQ9Pqc9SGgalQczUlQ",
+          "title": "Collaboration Corner at DCW 2023",
+          "description": "CollaborationCorner goes to #DCW2023 Revizto Digital Construction Week Great to get back out on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Collaboration Corner",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-22T09:14:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_-_uDa8XV1-5iTxUGaAcDvni0sE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zQ38CZ4x5P8"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-01T21:54:10Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Market expected to have a fight with the Fed, says Jefferies&#39; David Zervos",
+          "description": "David Zervos, Jefferies chief market strategist, joins 'Closing Bell' to discuss the Fed Chair Powell's remarks after raising the rate ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-01T21:54:10Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "FRKwL0DxdEjCOgw5UUgtjn2ROYM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "SS1r_6daqrweWdqJqXbvncbBR1c",
+        "id": "Vw2bQshTNzs",
+        "snippet": {
+          "publishedAt": "2023-04-19T16:25:08Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "PNC CEO: What happened with the banks that failed has nothing to do with their sizes",
+          "description": "PNC CEO Bill Demchak joins 'Squawk on the Street' to discuss the company's earnings report, banking turbulence, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Vw2bQshTNzs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PNC CEO: What happened with the banks that failed has nothing to do with their sizes",
+            "description": "PNC CEO Bill Demchak joins 'Squawk on the Street' to discuss the company's earnings report, banking turbulence, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14059",
+          "likeCount": "105",
+          "favoriteCount": "0",
+          "commentCount": "32"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g-c1bA0IBqoeSl7h2cny691xS1Q",
+        "id": "xtQAys3ONLQ",
+        "snippet": {
+          "publishedAt": "2023-11-01T15:31:13Z",
+          "channelId": "UCzXvcrj3Gs8u463hCkCjFPg",
+          "title": "W. L. Mellon Speaker Series: William Demchak",
+          "description": "The W.L. Mellon Speaker Series is a forum that encourages insightful and lively dialogue between Tepper students and global leaders, CEOs, and management experts. William \"Bill\" Demchak is in his element in rapidly-changing environments punctuated by periods of crisis. As chairman, President and CEO of The PNC Financial Services Group, one of the largest diversified financial services companies in the U.S, he has seen his share.\n\nIn this video, Demchak imparts wisdom and candid insight gained through his career.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TepperCMU",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "W. L. Mellon Speaker Series: William Demchak",
+            "description": "The W.L. Mellon Speaker Series is a forum that encourages insightful and lively dialogue between Tepper students and global leaders, CEOs, and management experts. William \"Bill\" Demchak is in his element in rapidly-changing environments punctuated by periods of crisis. As chairman, President and CEO of The PNC Financial Services Group, one of the largest diversified financial services companies in the U.S, he has seen his share.\n\nIn this video, Demchak imparts wisdom and candid insight gained through his career."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT55M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "658",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oq8ynQWwgHZ52nG43EWS_nySS10",
+        "id": "2h2B85muXxc",
+        "snippet": {
+          "publishedAt": "2023-02-03T20:26:21Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Bitcoin dips post-jobs report, and Core Scientific to hand over rigs to pay debt: CNBC Crypto World",
+          "description": "CNBC Crypto World features the latest news and daily trading updates from the digital currency markets and provides viewers with a look at what\u2019s ahead with high-profile interviews, explainers, and unique stories from the ever-changing crypto industry. On today\u2019s show, Andrew Thurman, head of content at Nansen, discusses the analytics firm\u2019s research on liquid staking and what to expect from the Ethereum network\u2019s next upgrade. \n\nChapters: \n00:00 - CNBC Crypto World, Feb 3, 2023\n0:26- Bitcoin dips\n1:14- The headlines\n4:25 Andrew Thurman of Nansen\n\nFor access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0 \n\nBitcoin dips post-jobs report, and Core Scientific to hand over rigs to pay debt: CNBC Crypto World",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2h2B85muXxc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "crypto world",
+            "cryptocurrency",
+            "bitcoin",
+            "digital currency",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks",
+            "crypto investing",
+            "crypto",
+            "NFTs",
+            "mining",
+            "crypto mining",
+            "bitcoin mining",
+            "crypto industry",
+            "ether",
+            "U.S. currency",
+            "U.S. economy",
+            "cryptocurrency news",
+            "FTX",
+            "Bitcoin",
+            "Coinbase",
+            "Genesis",
+            "blockfi",
+            "NFT",
+            "Celsius"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bitcoin dips post-jobs report, and Core Scientific to hand over rigs to pay debt: CNBC Crypto World",
+            "description": "CNBC Crypto World features the latest news and daily trading updates from the digital currency markets and provides viewers with a look at what\u2019s ahead with high-profile interviews, explainers, and unique stories from the ever-changing crypto industry. On today\u2019s show, Andrew Thurman, head of content at Nansen, discusses the analytics firm\u2019s research on liquid staking and what to expect from the Ethereum network\u2019s next upgrade. \n\nChapters: \n00:00 - CNBC Crypto World, Feb 3, 2023\n0:26- Bitcoin dips\n1:14- The headlines\n4:25 Andrew Thurman of Nansen\n\nFor access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0 \n\nBitcoin dips post-jobs report, and Core Scientific to hand over rigs to pay debt: CNBC Crypto World"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12443",
+          "likeCount": "176",
+          "favoriteCount": "0",
+          "commentCount": "140"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2x8Si-BHE8sA_rfPeIJ4QAkLfTg",
+        "id": "M4c7CX4DsCw",
+        "snippet": {
+          "publishedAt": "2023-05-22T09:14:41Z",
+          "channelId": "UCreq7uQ9Pqc9SGgalQczUlQ",
+          "title": "Collaboration Corner at DCW 2023",
+          "description": "\ud83c\udfa5 #\ud835\ude3e\ud835\ude64\ud835\ude61\ud835\ude61\ud835\ude56\ud835\ude57\ud835\ude64\ud835\ude67\ud835\ude56\ud835\ude69\ud835\ude5e\ud835\ude64\ud835\ude63\ud835\ude3e\ud835\ude64\ud835\ude67\ud835\ude63\ud835\ude5a\ud835\ude67 goes to #DCW2023 \ud83c\udfa5\n\nRevizto  \ud83e\udd1d Digital Construction Week \n\nGreat to get back out on the shop floor with friends, clients and partners!\n\nThanks to all those that took the time to speak to me during the crazy 2 days:\n\nOliver Hughes of Digital Construction Week \nAdam Fairbairn  of Procore Technologies \nGreg Demchak of Bentley Systems \nTom Gould, Shane Considine  of Skanska \nJohn Williams \nDavid Philp  of Cohesive   \nDuncan Reed of Trimble Inc. \nFULmax \nJonathan Walters of Kier Group \nJohnathan Munkley of WSP | ZERO \nRoman Baran of Canary Wharf Group \nElliott Crossley FCIAT of BDP (Building Design Partnership Ltd) \n\n\ud83d\udc4f\ud83d\udc4f The Revizto team did an amazing job at the show as usual!\nPam Bhandal | James Lawrence | Ash Curzon | Levi Brown MCInstCES \ud83d\udc4f\ud83d\udc4f\n\nAs always I\u2019d love to hear your feedback and if you\u2019d like to #collaborate then get in touch!\n\n\ud83d\ude4f Thanks for watching!\n\n#Coordination #Construction #TeamWork #ReviztoSite #ClashDetection",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/M4c7CX4DsCw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Collaboration Corner",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Collaboration Corner at DCW 2023",
+            "description": "\ud83c\udfa5 #\ud835\ude3e\ud835\ude64\ud835\ude61\ud835\ude61\ud835\ude56\ud835\ude57\ud835\ude64\ud835\ude67\ud835\ude56\ud835\ude69\ud835\ude5e\ud835\ude64\ud835\ude63\ud835\ude3e\ud835\ude64\ud835\ude67\ud835\ude63\ud835\ude5a\ud835\ude67 goes to #DCW2023 \ud83c\udfa5\n\nRevizto  \ud83e\udd1d Digital Construction Week \n\nGreat to get back out on the shop floor with friends, clients and partners!\n\nThanks to all those that took the time to speak to me during the crazy 2 days:\n\nOliver Hughes of Digital Construction Week \nAdam Fairbairn  of Procore Technologies \nGreg Demchak of Bentley Systems \nTom Gould, Shane Considine  of Skanska \nJohn Williams \nDavid Philp  of Cohesive   \nDuncan Reed of Trimble Inc. \nFULmax \nJonathan Walters of Kier Group \nJohnathan Munkley of WSP | ZERO \nRoman Baran of Canary Wharf Group \nElliott Crossley FCIAT of BDP (Building Design Partnership Ltd) \n\n\ud83d\udc4f\ud83d\udc4f The Revizto team did an amazing job at the show as usual!\nPam Bhandal | James Lawrence | Ash Curzon | Levi Brown MCInstCES \ud83d\udc4f\ud83d\udc4f\n\nAs always I\u2019d love to hear your feedback and if you\u2019d like to #collaborate then get in touch!\n\n\ud83d\ude4f Thanks for watching!\n\n#Coordination #Construction #TeamWork #ReviztoSite #ClashDetection"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT10M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "136",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MSMl23ak39ebfSxxoBTz3c-k05s",
+        "id": "zQ38CZ4x5P8",
+        "snippet": {
+          "publishedAt": "2023-02-01T21:54:10Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Market expected to have a fight with the Fed, says Jefferies' David Zervos",
+          "description": "David Zervos, Jefferies chief market strategist, joins 'Closing Bell' to discuss the Fed Chair Powell's remarks after raising the rate by 25 basis points.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zQ38CZ4x5P8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Closing Bell",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Market expected to have a fight with the Fed, says Jefferies' David Zervos",
+            "description": "David Zervos, Jefferies chief market strategist, joins 'Closing Bell' to discuss the Fed Chair Powell's remarks after raising the rate by 25 basis points."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15480",
+          "likeCount": "85",
+          "favoriteCount": "0",
+          "commentCount": "28"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

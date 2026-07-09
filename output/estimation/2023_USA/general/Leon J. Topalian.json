@@ -1,0 +1,861 @@
+{
+  "ceo": "Leon J. Topalian",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "5KZOtTobpmNmC22pjDrvDHNz8ao",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 8
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iSMm1ClSdOcD9LmkaOtly02t70s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m2DK4nr_fiU"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T00:02:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "We have to continue to advocate for the steel industry in the U.S., says Nucor CEO Leon Topalian",
+          "description": "Nucor CEO Leon Topalian goes one-on-one with 'Mad Money' host Jim Cramer to talk share repurchasing, steel tariffs and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T00:02:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JU_U8P4E2Lflg5Z9Vz6ehYV8tRA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-oiOQoBtfxU"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-27T00:20:03Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Nucor CEO on the company&#39;s growth plan, anticipated tailwinds from the CHIPS Act",
+          "description": "Cramer spoke with Nucor CEO Leon Topalian on Thursday. Sign up and learn more about the CNBC Investing Club with Jim ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-27T00:20:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "negprOCiBMTPUDe4-NpIyWxPcvg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Aofm0sq6-1o"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-26T23:45:22Z",
+          "channelId": "UCKTguOu9lqgEvmt1lcgntdA",
+          "title": "Jim Cramer interviews Nucor CEO Topalian on Mad Money.",
+          "description": "Video clipped from CNBC on 2023-01-26. Must agree with Topalian's comments about the coming demand for steel through 2024 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jimmy Slamat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-26T23:45:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7t2UTkhuDyqneAITzYABCieFKhQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8YgGmE_DNKA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-22T16:14:35Z",
+          "channelId": "UCLVQsX-nQmeqFH2AFVOMm0g",
+          "title": "Strategic Acquisition of Routejade with Dr. Raj Talluri, CEO of Enovix",
+          "description": "In this episode, we talk with Enovix President & CEO, Dr. Raj Talluri about the recent acquisition of South Korean coating and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Enovix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-22T16:14:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NUDP5HkYsW7ziltzrrPW2GUcwko",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "v-6M3WoUlQ8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T02:49:21Z",
+          "channelId": "UCZ-TaHvueDPngykyRXezoPg",
+          "title": "2023 Congressional Steel Caucus Meeting",
+          "description": "Executives from steel companies and the United Steelworkers testified before the Congressional Steel Caucus. The witnesses ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AISISteel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T02:49:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gpcteQHRn85pNmNxkDY3b9iSjOA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p3R6cq62ENo"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-03T23:40:25Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Macy&#39;s and Bloomingdales can learn from one another: Macy&#39;s President Tony Spring",
+          "description": "Jeff Gennette, Macy's chairman and CEO, and Tony Spring, Macy's president and CEO-elect, join 'Mad Money' host Jim Cramer to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-03T23:40:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CVxfbW4aefB36d2m92jalxK_R7s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uK08F9307WI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-27T14:41:20Z",
+          "channelId": "UCm4Dn_e0l31Pm2JE50pm96w",
+          "title": "Unleashing Everyday Genius with John Ferriola",
+          "description": "John Ferriola is the former CEO of Nucor, America's preeminent steelmaker. At Nucor, operating crews take responsibility for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The New Human Movement",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-27T14:41:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Y8Wu-vlhhK1Heuq2lpI9MesB9hc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2ZwDXZJsicE"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-03T16:00:05Z",
+          "channelId": "UC17G7KUP2jEjWLSncyv1bIw",
+          "title": "Nucor Stock Analysis | NUE Stock | $NUE Stock Analysis |  Best Stock to Buy Now?",
+          "description": "Want to support Global Value? https://www.interactivebrokers.com/mkt/?src=gvy1&url=%2Fen%2Fwhyib%2Foverview.php ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Global Value",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-03T16:00:05Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "OpEi6-CSLrhV6TlYREEZeXiYBWs",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pDww_9UBFDyL5_xV-rMv1ldRoYQ",
+        "id": "m2DK4nr_fiU",
+        "snippet": {
+          "publishedAt": "2023-09-23T00:02:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "We have to continue to advocate for the steel industry in the U.S., says Nucor CEO Leon Topalian",
+          "description": "Nucor CEO Leon Topalian goes one-on-one with 'Mad Money' host Jim Cramer to talk share repurchasing, steel tariffs and more. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We have to continue to advocate for the steel industry in the U.S., says Nucor CEO Leon Topalian",
+            "description": "Nucor CEO Leon Topalian goes one-on-one with 'Mad Money' host Jim Cramer to talk share repurchasing, steel tariffs and more. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7251",
+          "likeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xQQ9jJjffFxn-gXHYIOS8_NXWR0",
+        "id": "-oiOQoBtfxU",
+        "snippet": {
+          "publishedAt": "2023-01-27T00:20:03Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Nucor CEO on the company's growth plan, anticipated tailwinds from the CHIPS Act",
+          "description": "Cramer spoke with Nucor CEO Leon Topalian on Thursday. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-oiOQoBtfxU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nucor CEO on the company's growth plan, anticipated tailwinds from the CHIPS Act",
+            "description": "Cramer spoke with Nucor CEO Leon Topalian on Thursday. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "936",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jhW8C5_TGA2X98ZYJpe0Da0z7ng",
+        "id": "Aofm0sq6-1o",
+        "snippet": {
+          "publishedAt": "2023-01-26T23:45:22Z",
+          "channelId": "UCKTguOu9lqgEvmt1lcgntdA",
+          "title": "Jim Cramer interviews Nucor CEO Topalian on Mad Money.",
+          "description": "Video clipped from CNBC on 2023-01-26. Must agree with Topalian's comments about the coming demand for steel through 2024 from infrastructure... but both are wrong about size...  \"Cleveland-Cliffs is the Largest Flat\u2011Rolled Steel Company in North America.\"",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Aofm0sq6-1o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jimmy Slamat",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jim Cramer interviews Nucor CEO Topalian on Mad Money.",
+            "description": "Video clipped from CNBC on 2023-01-26. Must agree with Topalian's comments about the coming demand for steel through 2024 from infrastructure... but both are wrong about size...  \"Cleveland-Cliffs is the Largest Flat\u2011Rolled Steel Company in North America.\""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1157",
+          "likeCount": "14",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "smhlS_s9zWrr3TJP8rz8wWApSjQ",
+        "id": "8YgGmE_DNKA",
+        "snippet": {
+          "publishedAt": "2023-09-22T16:14:35Z",
+          "channelId": "UCLVQsX-nQmeqFH2AFVOMm0g",
+          "title": "Strategic Acquisition of Routejade with Dr. Raj Talluri, CEO of Enovix",
+          "description": "In this episode, we talk with Enovix President & CEO, Dr. Raj Talluri about the recent acquisition of South Korean coating and battery manufacturer Routejade and the critical strategic advantages it provides as we scale up to high volume manufacturing.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8YgGmE_DNKA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Enovix",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Strategic Acquisition of Routejade with Dr. Raj Talluri, CEO of Enovix",
+            "description": "In this episode, we talk with Enovix President & CEO, Dr. Raj Talluri about the recent acquisition of South Korean coating and battery manufacturer Routejade and the critical strategic advantages it provides as we scale up to high volume manufacturing."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1264",
+          "likeCount": "39",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ftWNdLUS_CEvpWEXC4528WBvc1A",
+        "id": "v-6M3WoUlQ8",
+        "snippet": {
+          "publishedAt": "2023-06-08T02:49:21Z",
+          "channelId": "UCZ-TaHvueDPngykyRXezoPg",
+          "title": "2023 Congressional Steel Caucus Meeting",
+          "description": "Executives from steel companies and the United Steelworkers testified before the Congressional Steel Caucus. The witnesses discussed the state of the steel industry and key steel industry policy priorities for Congress and the administration. The meeting is hosted by Steel Caucus Chairman and Vice-Chairman Reps. Rick Crawford (R-AR) and Frank Mrvan (D-IN).\n\nWitness List: \nLourenco Goncalves \u2013 Chairman, President and CEO, Cleveland-Cliffs Inc.\nLeon Topalian \u2013Chair, President and CEO, Nucor Corporation\nRoy Houseman \u2013 Legislative Director, United Steelworkers (USW)\nRichard Fruehauf \u2013 Senior Vice President, Chief Strategy & Sustainability Officer, U.S. Steel Corporation\nBarbara Smith \u2013 Chairman of the Board and CEO, Commercial Metals Company\nAndy Annakin \u2013 Chief Commercial Officer & EVP, Bull Moose Industries, Inc",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v-6M3WoUlQ8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AISISteel",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2023 Congressional Steel Caucus Meeting",
+            "description": "Executives from steel companies and the United Steelworkers testified before the Congressional Steel Caucus. The witnesses discussed the state of the steel industry and key steel industry policy priorities for Congress and the administration. The meeting is hosted by Steel Caucus Chairman and Vice-Chairman Reps. Rick Crawford (R-AR) and Frank Mrvan (D-IN).\n\nWitness List: \nLourenco Goncalves \u2013 Chairman, President and CEO, Cleveland-Cliffs Inc.\nLeon Topalian \u2013Chair, President and CEO, Nucor Corporation\nRoy Houseman \u2013 Legislative Director, United Steelworkers (USW)\nRichard Fruehauf \u2013 Senior Vice President, Chief Strategy & Sustainability Officer, U.S. Steel Corporation\nBarbara Smith \u2013 Chairman of the Board and CEO, Commercial Metals Company\nAndy Annakin \u2013 Chief Commercial Officer & EVP, Bull Moose Industries, Inc"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H38M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1426",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HMW_no9tHkEOTVIE4bYK9PDa1P4",
+        "id": "p3R6cq62ENo",
+        "snippet": {
+          "publishedAt": "2023-10-03T23:40:25Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Macy's and Bloomingdales can learn from one another: Macy's President Tony Spring",
+          "description": "Jeff Gennette, Macy's chairman and CEO, and Tony Spring, Macy's president and CEO-elect, join 'Mad Money' host Jim Cramer to talk the direction of the company moving forward. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p3R6cq62ENo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Macy's and Bloomingdales can learn from one another: Macy's President Tony Spring",
+            "description": "Jeff Gennette, Macy's chairman and CEO, and Tony Spring, Macy's president and CEO-elect, join 'Mad Money' host Jim Cramer to talk the direction of the company moving forward. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1220",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3aMzOAoClKJ5vt65IYs3ncEh30E",
+        "id": "uK08F9307WI",
+        "snippet": {
+          "publishedAt": "2023-06-27T14:41:20Z",
+          "channelId": "UCm4Dn_e0l31Pm2JE50pm96w",
+          "title": "Unleashing Everyday Genius with John Ferriola",
+          "description": "John Ferriola is the former CEO of Nucor, America's preeminent steelmaker. At Nucor, operating crews take responsibility for business development, capital planning, product innovation, process improvement, and cross-plant coordination. Every worker is trained in the economics of steel, and generous bonuses reward teams for boosting capital efficiency. Overhead is a fraction of the industry, while productivity and profitability are far higher.  In this episode of the New Human Movement, former CEO John Ferriola unpacks the key ingredients of Nucor's unique management approach and shares some practical lessons for leaders aiming to ignite ingenuity at scale.\n\n\u25ac Episode Links \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nThe biggest problem with capitalism? Not enough capitalists (Fortune): https://fortune.com/2020/11/21/capitalism-entrepreneurship-economic-inequality-us-bureaucracy/\n\nCulture Eats Strategy - Nucor\u2019s Ken Iverson on Building a Different Kind of Company: https://fs.blog/ken-iverson-nucor/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uK08F9307WI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The New Human Movement",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Unleashing Everyday Genius with John Ferriola",
+            "description": "John Ferriola is the former CEO of Nucor, America's preeminent steelmaker. At Nucor, operating crews take responsibility for business development, capital planning, product innovation, process improvement, and cross-plant coordination. Every worker is trained in the economics of steel, and generous bonuses reward teams for boosting capital efficiency. Overhead is a fraction of the industry, while productivity and profitability are far higher.  In this episode of the New Human Movement, former CEO John Ferriola unpacks the key ingredients of Nucor's unique management approach and shares some practical lessons for leaders aiming to ignite ingenuity at scale.\n\n\u25ac Episode Links \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nThe biggest problem with capitalism? Not enough capitalists (Fortune): https://fortune.com/2020/11/21/capitalism-entrepreneurship-economic-inequality-us-bureaucracy/\n\nCulture Eats Strategy - Nucor\u2019s Ken Iverson on Building a Different Kind of Company: https://fs.blog/ken-iverson-nucor/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H8M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1966",
+          "likeCount": "27",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pYCmIGZhAGOl-bXPqpVdpzy1pL8",
+        "id": "2ZwDXZJsicE",
+        "snippet": {
+          "publishedAt": "2023-02-03T16:00:05Z",
+          "channelId": "UC17G7KUP2jEjWLSncyv1bIw",
+          "title": "Nucor Stock Analysis | NUE Stock | $NUE Stock Analysis |  Best Stock to Buy Now?",
+          "description": "Want to support Global Value? https://www.interactivebrokers.com/mkt/?src=gvy1&url=%2Fen%2Fwhyib%2Foverview.php\nhttps://www.patreon.com/GlobalValue\nIn this video, we'll perform a NUE stock analysis and figure out what the company looks like based on the numbers. We'll also try to figure out what a reasonable fair value is for Nucor. And answer is Nucor one of the best future dividend king contenders to buy at the current price? Find out in the video above! Global Value's Nucor stock analysis.\n\nTIKR is the website I use for financial data in my videos. Join me and thousands of investors worldwide by using TIKR in your investment analysis. All funds from referrals directly support the channel to improve video quality!\nReferral link - https://www.tikr.com/globalvalue\n\nCheck out Seeking Alpha Premium and score a 14-day free trial. Plus all funds from affiliate referrals go directly towards supporting the channel!\nAffiliate link - https://www.sahg6dtr.com/H4BHRJ/R74QP/\n\nIf you'd like to try Sharesight, please use my referral link to support the channel! https://www.sharesight.com/globalvalue (remember you get 4 months free if you sign up for an annual subscription!)\n\nDiscover new investing resources and directly support the channel by shopping my Amazon storefront! All commissions are reinvested to improve the quality of videos! https://www.amazon.com/shop/globalvalue\n\nNucor ($NUE) | Nucor Stock Value Analysis | Nucor Stock Dividend Analysis | NUE Dividend Analysis | $NUE Dividend Analysis | SNucor Intrinsic Value | NUE Intrinsic Value | $NUE Intrinsic Value | Nucor Corporation Intrinsic Value | Nucor Discounted Cash Flow Model | Nucor DCF Analysis | NUE Discounted Cash Flow Analysis | NUE DCF Model\n\n#NUE #Nucor #dividendkings #dividendstocks  #stockmarket #dividend #stocks #investing #valueinvesting \n\n(Recorded January 28, 2023)\n\n \u2756 MUSIC \u2756\n\u266a \"Lift\"\nArtist: Andy Hu \nLicense: Creative Commons Attribution 3.0.\n\u27a2 https://creativecommons.org/licenses/by/3.0/legalcode\n\u27a2 https://www.youtube.com/watch?v=sQCuf...\n\n\ud83d\udea8\u26a0\ufe0f By watching videos posted on Global Value's YouTube channel, you acknowledge that you have read, understand, and agree to the following:\nGlobal Value is Not an Investment Advisor: Global Value is not an investment adviser, and it is not registered as such with the U.S. Securities & Exchange Commission or any other state or federal authority under the Investment Advisers Act of 1940 or any other law. The investments and strategies discussed in Global Value\u2019s YouTube videos are not and should not be considered investment advice and may not be suitable for you. They do not take into account your particular investment objectives, financial situation, needs, or personal circumstances and are not intended to be specific to you. Before acting on any investment or strategy discussed, you should always do your own research and make your own independent decision about whether it is suitable for your particular circumstances. You should also consider seeking advice from your own legal, financial, tax, accounting, or investment advisers. Global Value does not provide such advice. All content and communication from this channel is for discussion, entertainment, and illustrative purposes only and should not be construed as professional financial advice, solicitation, or recommendation to buy or sell any securities, notwithstanding anything stated on the Channel. There are risks associated with investing in securities. Loss of principal is possible. Some high-risk investments may use leverage, which could accentuate losses. Foreign investing involves special risks, including greater volatility and political, economic, and currency risks and differences in accounting methods. Past performance is not a predictor of future investment performance. Should you need such advice, consult a licensed financial advisor, legal advisor, or tax advisor. You agree to verify all information yourself before investing. \n\n\ud83d\udcddContact Information: GlobalValueYT@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2ZwDXZJsicE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Global Value",
+          "tags": [
+            "Global Value Stock Analysis",
+            "Fundamental Stock Analysis",
+            "Stocks",
+            "Stock Market",
+            "Stock Analysis",
+            "Best Stock to Buy Now?",
+            "Dividend Stock",
+            "Best Dividend Stock to Buy Now?",
+            "Best Stock?",
+            "Dividend Stock Analysis",
+            "Stock Analysis for Beginners",
+            "Best Stock Analysis",
+            "Stock Investing",
+            "Investing",
+            "Intrinsic Value",
+            "Global Value",
+            "Stock Intrinsic Value",
+            "Select 6",
+            "Select Six",
+            "DCF",
+            "Discounted Cash Flow",
+            "DCF Analysis",
+            "Stock Fair Value",
+            "Business",
+            "Stock Review",
+            "Investment",
+            "Stock Value",
+            "Stock",
+            "Shares"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nucor Stock Analysis | NUE Stock | $NUE Stock Analysis |  Best Stock to Buy Now?",
+            "description": "Want to support Global Value? https://www.interactivebrokers.com/mkt/?src=gvy1&url=%2Fen%2Fwhyib%2Foverview.php\nhttps://www.patreon.com/GlobalValue\nIn this video, we'll perform a NUE stock analysis and figure out what the company looks like based on the numbers. We'll also try to figure out what a reasonable fair value is for Nucor. And answer is Nucor one of the best future dividend king contenders to buy at the current price? Find out in the video above! Global Value's Nucor stock analysis.\n\nTIKR is the website I use for financial data in my videos. Join me and thousands of investors worldwide by using TIKR in your investment analysis. All funds from referrals directly support the channel to improve video quality!\nReferral link - https://www.tikr.com/globalvalue\n\nCheck out Seeking Alpha Premium and score a 14-day free trial. Plus all funds from affiliate referrals go directly towards supporting the channel!\nAffiliate link - https://www.sahg6dtr.com/H4BHRJ/R74QP/\n\nIf you'd like to try Sharesight, please use my referral link to support the channel! https://www.sharesight.com/globalvalue (remember you get 4 months free if you sign up for an annual subscription!)\n\nDiscover new investing resources and directly support the channel by shopping my Amazon storefront! All commissions are reinvested to improve the quality of videos! https://www.amazon.com/shop/globalvalue\n\nNucor ($NUE) | Nucor Stock Value Analysis | Nucor Stock Dividend Analysis | NUE Dividend Analysis | $NUE Dividend Analysis | SNucor Intrinsic Value | NUE Intrinsic Value | $NUE Intrinsic Value | Nucor Corporation Intrinsic Value | Nucor Discounted Cash Flow Model | Nucor DCF Analysis | NUE Discounted Cash Flow Analysis | NUE DCF Model\n\n#NUE #Nucor #dividendkings #dividendstocks  #stockmarket #dividend #stocks #investing #valueinvesting \n\n(Recorded January 28, 2023)\n\n \u2756 MUSIC \u2756\n\u266a \"Lift\"\nArtist: Andy Hu \nLicense: Creative Commons Attribution 3.0.\n\u27a2 https://creativecommons.org/licenses/by/3.0/legalcode\n\u27a2 https://www.youtube.com/watch?v=sQCuf...\n\n\ud83d\udea8\u26a0\ufe0f By watching videos posted on Global Value's YouTube channel, you acknowledge that you have read, understand, and agree to the following:\nGlobal Value is Not an Investment Advisor: Global Value is not an investment adviser, and it is not registered as such with the U.S. Securities & Exchange Commission or any other state or federal authority under the Investment Advisers Act of 1940 or any other law. The investments and strategies discussed in Global Value\u2019s YouTube videos are not and should not be considered investment advice and may not be suitable for you. They do not take into account your particular investment objectives, financial situation, needs, or personal circumstances and are not intended to be specific to you. Before acting on any investment or strategy discussed, you should always do your own research and make your own independent decision about whether it is suitable for your particular circumstances. You should also consider seeking advice from your own legal, financial, tax, accounting, or investment advisers. Global Value does not provide such advice. All content and communication from this channel is for discussion, entertainment, and illustrative purposes only and should not be construed as professional financial advice, solicitation, or recommendation to buy or sell any securities, notwithstanding anything stated on the Channel. There are risks associated with investing in securities. Loss of principal is possible. Some high-risk investments may use leverage, which could accentuate losses. Foreign investing involves special risks, including greater volatility and political, economic, and currency risks and differences in accounting methods. Past performance is not a predictor of future investment performance. Should you need such advice, consult a licensed financial advisor, legal advisor, or tax advisor. You agree to verify all information yourself before investing. \n\n\ud83d\udcddContact Information: GlobalValueYT@gmail.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1271",
+          "likeCount": "49",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 8
+    }
+  }
+}

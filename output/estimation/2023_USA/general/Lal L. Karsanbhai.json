@@ -1,0 +1,629 @@
+{
+  "ceo": "Lal L. Karsanbhai",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "hFxqvkEzkiRvB8bQa8P_EGohKuQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0lgYr1y5nBr1zGrX1vijBGx1fQs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "B-M86Vzj2xg"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-04T19:45:05Z",
+          "channelId": "UC11RRI571HrJkBUJWNGYsxg",
+          "title": "C-Suite Insights: Reinvigorating Culture, Focus at Emerson",
+          "description": "At a Leadership Speaker Series event, Emerson CEO Lal Karsanbhai sat down with Darden Dean Scott Beardsley to discuss his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DardenMBA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-04T19:45:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t7oeY6gRTYXpvldkUuUfZ2H0-eM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3SXlDLPCPEk"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-09T16:31:08Z",
+          "channelId": "UClMs26ViHFMy7MS897Alcxw",
+          "title": "Emerson announces new headquarters site in Clayton",
+          "description": "Emerson announces a new corporate headquarters Friday. CEO Lal Karsanbhai and Clayton Mayor Michelle Harris are sharing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FOX 2 St. Louis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-09T16:31:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9OFcMZN_DKhiSdOrsDHwRU6Ov9U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DHcGz0RKOUk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-26T01:16:11Z",
+          "channelId": "UCYFMPziBvyNaQkOwoqQ9mug",
+          "title": "Essex Property Trust Maintaining Capital Allocation Discipline",
+          "description": "Angela Kleiman, president and CEO of Essex Property Trust, Inc. (NYSE: ESS), participated in a video interview at Nareit's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "REITs Bolivia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-26T01:16:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UCXCK2j3mohphCEZ2QYZVmgCCXM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "26K1Ye44gBI"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-14T06:32:58Z",
+          "channelId": "UCP8lwty0ribA6O7oS515njw",
+          "title": "An interview with Balaji Sridharan, Senior Vice President, Citibank",
+          "description": "Balaji Sridharan, Senior Vice President, Citibank spoke candidly about the World Blockchain Summit Singapore 2023 on the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HODL (Formerly WBS)",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-14T06:32:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UB8Dea5cWvuDxZuOhZJBspnvQao",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3Xcgc4erYdE"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-26T23:32:43Z",
+          "channelId": "UCOPgiB9BRNaVNRBjEm7UuoA",
+          "title": "Applied Materials Announcement with Gary Dickerson: Arizona State University (ASU)",
+          "description": "Find more stories on our social media channels: Instagram: https://www.instagram.com/asunewsofficial/ Twitter: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ASU News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-26T23:32:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LE1HeEN0pa-hiKxH0Yc1TiyOQ6Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "itymgilcYao"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-01T06:01:50Z",
+          "channelId": "UCklBMBtUDnWMqZ0aJdOZYvQ",
+          "title": "100 years of Dr. BrijMohan Lall Munjal",
+          "description": "100YearsofBrijMohanLallMunjal He saw the broad canvas of history unfolding before him. From the suffering under colonial rule, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hero Homes",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-01T06:01:50Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SY3vhPCvgU0-K7tbL0Vux_QNhGs",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "zODhQgQZ1PJ4_xOhXjjEwWP-ol0",
+        "id": "B-M86Vzj2xg",
+        "snippet": {
+          "publishedAt": "2023-04-04T19:45:05Z",
+          "channelId": "UC11RRI571HrJkBUJWNGYsxg",
+          "title": "C-Suite Insights: Reinvigorating Culture, Focus at Emerson",
+          "description": "At a Leadership Speaker Series event, Emerson CEO Lal Karsanbhai sat down with Darden Dean Scott Beardsley to discuss his personal journey, how to develop a global perspective, and his efforts to modernize Emerson's corporate culture and instill innovation.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/B-M86Vzj2xg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DardenMBA",
+          "tags": [
+            "Darden School of Business",
+            "University of Virginia",
+            "UVA",
+            "MBA",
+            "Leadership",
+            "Darden",
+            "Emerson",
+            "Technology"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "C-Suite Insights: Reinvigorating Culture, Focus at Emerson",
+            "description": "At a Leadership Speaker Series event, Emerson CEO Lal Karsanbhai sat down with Darden Dean Scott Beardsley to discuss his personal journey, how to develop a global perspective, and his efforts to modernize Emerson's corporate culture and instill innovation."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT39M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2236",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "URXJg9MwgUEh_r0viSOpjel-5vc",
+        "id": "3SXlDLPCPEk",
+        "snippet": {
+          "publishedAt": "2023-06-09T16:31:08Z",
+          "channelId": "UClMs26ViHFMy7MS897Alcxw",
+          "title": "Emerson announces new headquarters site in Clayton",
+          "description": "Emerson announces a new corporate headquarters Friday. CEO Lal Karsanbhai and Clayton Mayor Michelle Harris are sharing the news from the lobby of the new Forsythe Point building located near Shaw park.\n\nEmerson will be leasing the top three floors of the 14-story building and portions of two other floors. They are set to open in mid- to late 2024.\u00a0\n\n\u00a0Emerson included news that they have chosen to remain in St. Louis in their\u00a0report on first quarter earnings.\u00a0Nearly 1,300 people work at the Emerson headquarters on West Florissant.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3SXlDLPCPEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FOX 2 St. Louis",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Emerson announces new headquarters site in Clayton",
+            "description": "Emerson announces a new corporate headquarters Friday. CEO Lal Karsanbhai and Clayton Mayor Michelle Harris are sharing the news from the lobby of the new Forsythe Point building located near Shaw park.\n\nEmerson will be leasing the top three floors of the 14-story building and portions of two other floors. They are set to open in mid- to late 2024.\u00a0\n\n\u00a0Emerson included news that they have chosen to remain in St. Louis in their\u00a0report on first quarter earnings.\u00a0Nearly 1,300 people work at the Emerson headquarters on West Florissant."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "310",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tl0Kx7QZhM25HEG4G3XH-jldUJA",
+        "id": "DHcGz0RKOUk",
+        "snippet": {
+          "publishedAt": "2023-07-26T01:16:11Z",
+          "channelId": "UCYFMPziBvyNaQkOwoqQ9mug",
+          "title": "Essex Property Trust Maintaining Capital Allocation Discipline",
+          "description": "Angela Kleiman, president and CEO of Essex Property Trust, Inc. (NYSE: ESS), participated in a video interview at Nareit\u2019s REITweek: 2023 Investor Conference, held in New York June 6-8.\n\nKleiman discussed her priorities for the company in her new role as CEO, fundamentals in Essex\u2019s core West Coast markets, including the supply outlook and whether Essex is seeing an impact on leasing levels from layoffs in the tech sector, how active Essex is likely to be on the acquisition, disposition, and development front for the remainder of 2023, and the outlook for the multifamily sector more broadly.\n#REITsBolivia #REITs",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DHcGz0RKOUk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "REITs Bolivia",
+          "tags": [
+            "REITs Bolivia",
+            "REITs",
+            "Real Estate Investment Trust",
+            "Real Estate Investment Trust Bolivia",
+            "Agente Inmobiliario",
+            "Inmobiliaria",
+            "Real Estate Bolivia",
+            "Real Estate",
+            "Bienes Raices",
+            "Bienes Ra\u00edces Bolivia",
+            "Comprar",
+            "Vender",
+            "Alquilar",
+            "Anticr\u00e9tico",
+            "Corredor Inmobiliario"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Essex Property Trust Maintaining Capital Allocation Discipline",
+            "description": "Angela Kleiman, president and CEO of Essex Property Trust, Inc. (NYSE: ESS), participated in a video interview at Nareit\u2019s REITweek: 2023 Investor Conference, held in New York June 6-8.\n\nKleiman discussed her priorities for the company in her new role as CEO, fundamentals in Essex\u2019s core West Coast markets, including the supply outlook and whether Essex is seeing an impact on leasing levels from layoffs in the tech sector, how active Essex is likely to be on the acquisition, disposition, and development front for the remainder of 2023, and the outlook for the multifamily sector more broadly.\n#REITsBolivia #REITs"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TcTu3xJj1xL7H3PvYb-7M8o3j0o",
+        "id": "26K1Ye44gBI",
+        "snippet": {
+          "publishedAt": "2023-09-14T06:32:58Z",
+          "channelId": "UCP8lwty0ribA6O7oS515njw",
+          "title": "An interview with Balaji Sridharan, Senior Vice President, Citibank",
+          "description": "Balaji Sridharan, Senior Vice President, Citibank spoke candidly about the World Blockchain Summit Singapore 2023 on the following questions.\n1. How was your overall experience at the summit?\n2. What the three highlights of the summit?\n\n\n****************************************\nAbout World Blockchain Summit (WBS)\n\nWorld Blockchain Summit (WBS) is a part of Trescon, a rapidly growing company that organizes emerging tech events. It aims to support the growth of Web 3.0 globally. The management team has over 20 years of experience managing successful conferences, expos, and summits. Additionally, WBS works with web 3.0 industry leaders and innovators as advisors to ensure alignment with current market trends and needs.\n\nWBS is the world's longest-running blockchain, crypto, and web 3.0-focused summit series. Since our inception in 2017, we have hosted more than 20 editions in 11 countries as we strived to create the ultimate networking and deal flow platform for the Web 3.0 ecosystem. Each edition brings together global leaders and emerging startups in the space, including investors, developers, IT leaders, entrepreneurs, government authorities, and others.\n\nTo find a summit taking place near you, visit: https://www.worldblockchainsummit.com/\n Follow us on Social Media! \nhttps://twitter.com/WBSglobalseries\n\nhttps://www.linkedin.com/company/wbs",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/26K1Ye44gBI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HODL (Formerly WBS)",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "An interview with Balaji Sridharan, Senior Vice President, Citibank",
+            "description": "Balaji Sridharan, Senior Vice President, Citibank spoke candidly about the World Blockchain Summit Singapore 2023 on the following questions.\n1. How was your overall experience at the summit?\n2. What the three highlights of the summit?\n\n\n****************************************\nAbout World Blockchain Summit (WBS)\n\nWorld Blockchain Summit (WBS) is a part of Trescon, a rapidly growing company that organizes emerging tech events. It aims to support the growth of Web 3.0 globally. The management team has over 20 years of experience managing successful conferences, expos, and summits. Additionally, WBS works with web 3.0 industry leaders and innovators as advisors to ensure alignment with current market trends and needs.\n\nWBS is the world's longest-running blockchain, crypto, and web 3.0-focused summit series. Since our inception in 2017, we have hosted more than 20 editions in 11 countries as we strived to create the ultimate networking and deal flow platform for the Web 3.0 ecosystem. Each edition brings together global leaders and emerging startups in the space, including investors, developers, IT leaders, entrepreneurs, government authorities, and others.\n\nTo find a summit taking place near you, visit: https://www.worldblockchainsummit.com/\n Follow us on Social Media! \nhttps://twitter.com/WBSglobalseries\n\nhttps://www.linkedin.com/company/wbs"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "208",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oKRJVYto1PBkd-RoVNUrUYnKXVQ",
+        "id": "3Xcgc4erYdE",
+        "snippet": {
+          "publishedAt": "2023-07-26T23:32:43Z",
+          "channelId": "UCOPgiB9BRNaVNRBjEm7UuoA",
+          "title": "Applied Materials Announcement with Gary Dickerson: Arizona State University (ASU)",
+          "description": "Find more stories on our social media channels:\nInstagram: https://www.instagram.com/asunewsofficial/ \nTwitter: https://twitter.com/asunews\nFacebook: https://www.facebook.com/ASUNewsOfficial",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3Xcgc4erYdE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ASU News",
+          "tags": [
+            "arizona state university",
+            "asu",
+            "universities in arizona",
+            "university arizona",
+            "phoenix",
+            "tempe"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Applied Materials Announcement with Gary Dickerson: Arizona State University (ASU)",
+            "description": "Find more stories on our social media channels:\nInstagram: https://www.instagram.com/asunewsofficial/ \nTwitter: https://twitter.com/asunews\nFacebook: https://www.facebook.com/ASUNewsOfficial"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT3M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1143",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o2ykibc-ffYrtwX8uAohBgCWOz4",
+        "id": "itymgilcYao",
+        "snippet": {
+          "publishedAt": "2023-07-01T06:01:50Z",
+          "channelId": "UCklBMBtUDnWMqZ0aJdOZYvQ",
+          "title": "100 years of Dr. BrijMohan Lall Munjal",
+          "description": "#100YearsofBrijMohanLallMunjal\nHe saw the broad canvas of history unfolding before him. From the suffering under colonial rule, the ravages of Partition, the raising of the Tricolour, Licence Raj, to the liberalisation of the economy, triumphs of Indian entrepreneurship across the world, and the digital age of the twenty-first century. Not only did he live through all this, he turned challenges into opportunities, and worked hard with dignity, until he saw light at the end of the tunnel. His vision was to help empower India through building institutions of excellence.\n#100YearsofBrijMohanLallMunjal\nFrom humble beginnings, Dr. Munjal went on to set-up a world-class ethical, value-based and professional enterprise that today employs over 35,000 people; and has verticals ranging from two-wheelers and cycles to auto parts, from BPO and financial services to insurance distribution, clean energy and real estate. Hero Group is now a US$ 5 billion enterprise, which includes Hero MotoCorp, the World\u2019s largest two-wheeler manufacturer with operations across continents.\nHis passion for institution building was not confined to businesses alone. He built and nurtured a large number of social enterprises in the realms of adult education, women\u2019s empowerment, healthcare and education. The trusts that he set-up now successfully run numerous well-known primary, secondary, vocational and tertiary education institutes across multiple states of India. He believed, \u201cthere is no greater investment and no better return than that in education. It benefits not only an individual but society at large.\u201d\nDr. Brijmohan Lall Munjal was an entrepreneur, philanthropist, social engineer and above all a humanist, who inspired millions of people by his exemplary vision. In recognition of his immense contribution, a very large number of prestigious awards were bestowed upon him. At Hero MotoCorp, we are honoured to have been guided by this legend; and will continue to draw inspiration from his extraordinary life.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/itymgilcYao/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hero Homes",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "100 years of Dr. BrijMohan Lall Munjal",
+            "description": "#100YearsofBrijMohanLallMunjal\nHe saw the broad canvas of history unfolding before him. From the suffering under colonial rule, the ravages of Partition, the raising of the Tricolour, Licence Raj, to the liberalisation of the economy, triumphs of Indian entrepreneurship across the world, and the digital age of the twenty-first century. Not only did he live through all this, he turned challenges into opportunities, and worked hard with dignity, until he saw light at the end of the tunnel. His vision was to help empower India through building institutions of excellence.\n#100YearsofBrijMohanLallMunjal\nFrom humble beginnings, Dr. Munjal went on to set-up a world-class ethical, value-based and professional enterprise that today employs over 35,000 people; and has verticals ranging from two-wheelers and cycles to auto parts, from BPO and financial services to insurance distribution, clean energy and real estate. Hero Group is now a US$ 5 billion enterprise, which includes Hero MotoCorp, the World\u2019s largest two-wheeler manufacturer with operations across continents.\nHis passion for institution building was not confined to businesses alone. He built and nurtured a large number of social enterprises in the realms of adult education, women\u2019s empowerment, healthcare and education. The trusts that he set-up now successfully run numerous well-known primary, secondary, vocational and tertiary education institutes across multiple states of India. He believed, \u201cthere is no greater investment and no better return than that in education. It benefits not only an individual but society at large.\u201d\nDr. Brijmohan Lall Munjal was an entrepreneur, philanthropist, social engineer and above all a humanist, who inspired millions of people by his exemplary vision. In recognition of his immense contribution, a very large number of prestigious awards were bestowed upon him. At Hero MotoCorp, we are honoured to have been guided by this legend; and will continue to draw inspiration from his extraordinary life."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1175",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

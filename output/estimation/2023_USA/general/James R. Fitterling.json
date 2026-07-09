@@ -1,0 +1,595 @@
+{
+  "ceo": "James R. Fitterling",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "rv9YHhQ3ypc0Yi6EB3R09CvFxRA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xoMv_PoEBwD6a_UmeSSEW9Uha8s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J9Mx_Dfi5Vo"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-21T15:08:35Z",
+          "channelId": "UCjhoRw-WfKsKRWIb_Noy7fg",
+          "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+          "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Conference Board",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-21T15:08:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QjoEMV4Tmyj_ro7zX9jlq-JxMrU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MojTNZpXhfw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-21T15:08:41Z",
+          "channelId": "UCjhoRw-WfKsKRWIb_Noy7fg",
+          "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+          "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Conference Board",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-21T15:08:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GGVWwQzNnskypGYi2LXj3DFav7Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XVOL8SCqyRM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-21T15:08:38Z",
+          "channelId": "UCjhoRw-WfKsKRWIb_Noy7fg",
+          "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+          "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Conference Board",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-21T15:08:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qD1YBO_qjJ79lGAFLBso95zcJ4M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c4QkNAD2Owk"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-25T14:50:26Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Dow CEO Jim Fitterling on Q1 earnings",
+          "description": "Dow CEO Jim Fitterling joins 'Squawk on the Street' to discuss the company's first-quarter earnings. For access to live and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-25T14:50:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BznNBbPVhiMEC7jZ8-6UbxDTYDo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6_f8q6gV5nE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-01T12:00:07Z",
+          "channelId": "UC63_ndpOrdzca6k1FThGDqg",
+          "title": "Stock DOWN 25% Since the IPO! \ud83d\ude31 Dividend Yield AT 4%! A Stock to BUY NOW or WAIT for further PAIN?!\ud83e\udd14",
+          "description": "This stock IPO'd earlier this year. In addition, they were from a spin-off from a major dividend growth stock. Lastly, the dividend ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dividend Diplomats",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-01T12:00:07Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "2a0kAV6kv8R_w56moFJPSRdtmFk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "XhPCUlZjpOmRgcWsYeVD4Tryk1A",
+        "id": "J9Mx_Dfi5Vo",
+        "snippet": {
+          "publishedAt": "2023-08-21T15:08:35Z",
+          "channelId": "UCjhoRw-WfKsKRWIb_Noy7fg",
+          "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+          "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for the organization\u2026But\u2026you've got to find the right balance. You can't just solve for one thing at the expense of everything else. Our job is to figure out how to do better, but we also have to be affordable, and we have to be sustainable long term.\" \n\nThis reflection comes from Jim Fitterling, Chair and CEO of Dow. Fitterling is the latest guest in CED\u2019s Leadership in Challenging Times podcast/webcast series and\u2014along with the Dow team\u2014a recipient of CED\u2019s 2023 Distinguished Leadership Awards. \n\nCED\u2019s Leadership in Challenging Times series interviews outstanding business leaders who are the recipients of CED's Annual Distinguished Leadership Awards, about the unprecedented challenges facing our nation and how they have helped chart a path forward for their companies, communities, and the nation at large.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/J9Mx_Dfi5Vo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Conference Board",
+          "tags": [
+            "dow",
+            "ai",
+            "artificial intelligence",
+            "lab",
+            "testing",
+            "generative ai",
+            "net zero",
+            "carbon emissions",
+            "leadership",
+            "climate change",
+            "diversity",
+            "equity",
+            "inclusion",
+            "diversity equity and inclusion"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+            "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for the organization\u2026But\u2026you've got to find the right balance. You can't just solve for one thing at the expense of everything else. Our job is to figure out how to do better, but we also have to be affordable, and we have to be sustainable long term.\" \n\nThis reflection comes from Jim Fitterling, Chair and CEO of Dow. Fitterling is the latest guest in CED\u2019s Leadership in Challenging Times podcast/webcast series and\u2014along with the Dow team\u2014a recipient of CED\u2019s 2023 Distinguished Leadership Awards. \n\nCED\u2019s Leadership in Challenging Times series interviews outstanding business leaders who are the recipients of CED's Annual Distinguished Leadership Awards, about the unprecedented challenges facing our nation and how they have helped chart a path forward for their companies, communities, and the nation at large."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT20M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "297",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "VUWFx9m5La1CacrPFaFrED2UIxc",
+        "id": "MojTNZpXhfw",
+        "snippet": {
+          "publishedAt": "2023-08-21T15:08:41Z",
+          "channelId": "UCjhoRw-WfKsKRWIb_Noy7fg",
+          "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+          "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for the organization\u2026But\u2026you've got to find the right balance. You can't just solve for one thing at the expense of everything else. Our job is to figure out how to do better, but we also have to be affordable, and we have to be sustainable long term.\" \n\nThis reflection comes from Jim Fitterling, Chair and CEO of Dow. Fitterling is the latest guest in CED\u2019s Leadership in Challenging Times podcast/webcast series and\u2014along with the Dow team\u2014a recipient of CED\u2019s 2023 Distinguished Leadership Awards. \n\nCED\u2019s Leadership in Challenging Times series interviews outstanding business leaders who are the recipients of CED's Annual Distinguished Leadership Awards, about the unprecedented challenges facing our nation and how they have helped chart a path forward for their companies, communities, and the nation at large.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MojTNZpXhfw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Conference Board",
+          "tags": [
+            "dow",
+            "ai",
+            "artificial intelligence",
+            "lab",
+            "testing",
+            "generative ai",
+            "net zero",
+            "carbon emissions",
+            "leadership",
+            "climate change",
+            "diversity",
+            "equity",
+            "inclusion",
+            "diversity equity and inclusion"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+            "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for the organization\u2026But\u2026you've got to find the right balance. You can't just solve for one thing at the expense of everything else. Our job is to figure out how to do better, but we also have to be affordable, and we have to be sustainable long term.\" \n\nThis reflection comes from Jim Fitterling, Chair and CEO of Dow. Fitterling is the latest guest in CED\u2019s Leadership in Challenging Times podcast/webcast series and\u2014along with the Dow team\u2014a recipient of CED\u2019s 2023 Distinguished Leadership Awards. \n\nCED\u2019s Leadership in Challenging Times series interviews outstanding business leaders who are the recipients of CED's Annual Distinguished Leadership Awards, about the unprecedented challenges facing our nation and how they have helped chart a path forward for their companies, communities, and the nation at large."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT3M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "61",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XMLUhBNkY9KJJuXATyb3t2wj6EA",
+        "id": "XVOL8SCqyRM",
+        "snippet": {
+          "publishedAt": "2023-08-21T15:08:38Z",
+          "channelId": "UCjhoRw-WfKsKRWIb_Noy7fg",
+          "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+          "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for the organization\u2026But\u2026you've got to find the right balance. You can't just solve for one thing at the expense of everything else. Our job is to figure out how to do better, but we also have to be affordable, and we have to be sustainable long term.\" \n\nThis reflection comes from Jim Fitterling, Chair and CEO of Dow. Fitterling is the latest guest in CED\u2019s Leadership in Challenging Times podcast/webcast series and\u2014along with the Dow team\u2014a recipient of CED\u2019s 2023 Distinguished Leadership Awards. \n\nCED\u2019s Leadership in Challenging Times series interviews outstanding business leaders who are the recipients of CED's Annual Distinguished Leadership Awards, about the unprecedented challenges facing our nation and how they have helped chart a path forward for their companies, communities, and the nation at large.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XVOL8SCqyRM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Conference Board",
+          "tags": [
+            "dow",
+            "ai",
+            "artificial intelligence",
+            "lab",
+            "testing",
+            "generative ai",
+            "net zero",
+            "carbon emissions",
+            "leadership",
+            "climate change",
+            "diversity",
+            "equity",
+            "inclusion",
+            "diversity equity and inclusion"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Leadership in Challenging Times: A Discussion with Jim Fitterling, Dow",
+            "description": "\"Leadership is about being the number-one change agent. You have to set the bar higher. You have to define what's possible for the organization\u2026But\u2026you've got to find the right balance. You can't just solve for one thing at the expense of everything else. Our job is to figure out how to do better, but we also have to be affordable, and we have to be sustainable long term.\" \n\nThis reflection comes from Jim Fitterling, Chair and CEO of Dow. Fitterling is the latest guest in CED\u2019s Leadership in Challenging Times podcast/webcast series and\u2014along with the Dow team\u2014a recipient of CED\u2019s 2023 Distinguished Leadership Awards. \n\nCED\u2019s Leadership in Challenging Times series interviews outstanding business leaders who are the recipients of CED's Annual Distinguished Leadership Awards, about the unprecedented challenges facing our nation and how they have helped chart a path forward for their companies, communities, and the nation at large."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-AmxrGmcG7oKwhyAT06OfUFhMUw",
+        "id": "c4QkNAD2Owk",
+        "snippet": {
+          "publishedAt": "2023-04-25T14:50:26Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Dow CEO Jim Fitterling on Q1 earnings",
+          "description": "Dow CEO Jim Fitterling joins 'Squawk on the Street' to discuss the company's first-quarter earnings. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c4QkNAD2Owk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dow CEO Jim Fitterling on Q1 earnings",
+            "description": "Dow CEO Jim Fitterling joins 'Squawk on the Street' to discuss the company's first-quarter earnings. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3151",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4AatHoZwre4O28krGGTSeZokxAg",
+        "id": "6_f8q6gV5nE",
+        "snippet": {
+          "publishedAt": "2023-10-01T12:00:07Z",
+          "channelId": "UC63_ndpOrdzca6k1FThGDqg",
+          "title": "Stock DOWN 25% Since the IPO! \ud83d\ude31 Dividend Yield AT 4%! A Stock to BUY NOW or WAIT for further PAIN?!\ud83e\udd14",
+          "description": "This stock IPO'd earlier this year.  In addition, they were from a spin-off from a major dividend growth stock.  Lastly, the dividend yield is soaring to 4% with plenty of iconic brands under their belt.\n\nWhy do dividends matter?  Dividends are one of the best passive income sources.  Dividend investing increases your passive income, as you reach financial freedom!\n\nReference items:\n\u25baSoFi - Earn $25 FREE Stock when you Invest $10!: https://bit.ly/3BHfJfs\n\u25baSoFi  - Open a Savings/Checking Account, earn up to $275!: https://rb.gy/3itol\n\u25baFundrise - Dividend Diplomats Use this for Real Estate Investing: https://fundrise.sjv.io/9aJWW\n\u25baGoogleFi - Save ~$30 month for switching to Google's Phone Plan: https://g.co/fi/r/1292VY\n\u25baDividend Diplomats Stock Portfolios: https://bit.ly/3fc7G2B\n\u25baDividend Diplomats Blog: https://www.dividenddiplomats.com/\n\nThis dividend stock is now down 25% from the initial public offering (IPO) price.\n\nFurther, the \"big\" discount was a 7% off on the stock price over the weekend of August 18th, if you owned shares of JNJ, to own this stock - by trading in some JNJ shares, in a tax-free transaction.\n\nThe stock was trading near $23 at that time and closed slightly higher at $24 per share after that weekend.\n\nThe stock has now plummeted down to almost a flat $20 per share, over a double digit decline.\n\nNow, the dividend yield is up to almost 4%.\n\nThe brands are deep and have loyalty from their consumer base.  Brands such as: Tylenol, Band-aid, Aveeno, Lubriderm, Neutrogena, Benadryl, Sudafed, Zyrtec, you name it.\n\nThis dividend stock is Kenvue (KVUE).\n\nThe dividend stock metrics appear fairly solid, with ~62% dividend payout ratio and a less than 16x price to earnings ratio.\n\nQuestion I have is - are you buying this dividend stock right now? Do you own Kenvue stock?  If you don't own this stock, do you think this is a stock to buy right now?\n\nThank you everyone!  Subscribe, like and let us know your feedback & questions below!\n\nFollow us on:\n\u25baTwitter: https://twitter.com/DvdndDiplomats\n\u25baInstagram: https://www.instagram.com/dividenddiplomats/\n\u25baThreads: https://www.threads.net/@dividenddiplomats\n\n#investing #stocks #dividends #financialfreedom #money #moneytips #PersonalFinance",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6_f8q6gV5nE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dividend Diplomats",
+          "tags": [
+            "dividend stocks to buy now",
+            "stocks to buy now",
+            "buying stocks",
+            "buying dividend stocks",
+            "how to start investing",
+            "how to start dividend investing",
+            "investing for beginners",
+            "investing 101",
+            "should I start investing",
+            "should I start dividend investing",
+            "dividend income",
+            "passive income",
+            "dividend growth investing",
+            "dividend growth stocks",
+            "creating passive income",
+            "passive income streams",
+            "financial freedom",
+            "financial independence",
+            "personal finance",
+            "investing right now",
+            "Dividend Growth"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Stock DOWN 25% Since the IPO! \ud83d\ude31 Dividend Yield AT 4%! A Stock to BUY NOW or WAIT for further PAIN?!\ud83e\udd14",
+            "description": "This stock IPO'd earlier this year.  In addition, they were from a spin-off from a major dividend growth stock.  Lastly, the dividend yield is soaring to 4% with plenty of iconic brands under their belt.\n\nWhy do dividends matter?  Dividends are one of the best passive income sources.  Dividend investing increases your passive income, as you reach financial freedom!\n\nReference items:\n\u25baSoFi - Earn $25 FREE Stock when you Invest $10!: https://bit.ly/3BHfJfs\n\u25baSoFi  - Open a Savings/Checking Account, earn up to $275!: https://rb.gy/3itol\n\u25baFundrise - Dividend Diplomats Use this for Real Estate Investing: https://fundrise.sjv.io/9aJWW\n\u25baGoogleFi - Save ~$30 month for switching to Google's Phone Plan: https://g.co/fi/r/1292VY\n\u25baDividend Diplomats Stock Portfolios: https://bit.ly/3fc7G2B\n\u25baDividend Diplomats Blog: https://www.dividenddiplomats.com/\n\nThis dividend stock is now down 25% from the initial public offering (IPO) price.\n\nFurther, the \"big\" discount was a 7% off on the stock price over the weekend of August 18th, if you owned shares of JNJ, to own this stock - by trading in some JNJ shares, in a tax-free transaction.\n\nThe stock was trading near $23 at that time and closed slightly higher at $24 per share after that weekend.\n\nThe stock has now plummeted down to almost a flat $20 per share, over a double digit decline.\n\nNow, the dividend yield is up to almost 4%.\n\nThe brands are deep and have loyalty from their consumer base.  Brands such as: Tylenol, Band-aid, Aveeno, Lubriderm, Neutrogena, Benadryl, Sudafed, Zyrtec, you name it.\n\nThis dividend stock is Kenvue (KVUE).\n\nThe dividend stock metrics appear fairly solid, with ~62% dividend payout ratio and a less than 16x price to earnings ratio.\n\nQuestion I have is - are you buying this dividend stock right now? Do you own Kenvue stock?  If you don't own this stock, do you think this is a stock to buy right now?\n\nThank you everyone!  Subscribe, like and let us know your feedback & questions below!\n\nFollow us on:\n\u25baTwitter: https://twitter.com/DvdndDiplomats\n\u25baInstagram: https://www.instagram.com/dividenddiplomats/\n\u25baThreads: https://www.threads.net/@dividenddiplomats\n\n#investing #stocks #dividends #financialfreedom #money #moneytips #PersonalFinance"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT11M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1907",
+          "likeCount": "177",
+          "favoriteCount": "0",
+          "commentCount": "43"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}
