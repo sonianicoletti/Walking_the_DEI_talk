@@ -1,0 +1,23 @@
+{
+  "ceo": "Mario Greco",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cz5Tfz1d5LaUPef7C5dJE3B6c6Y",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 634,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5ITS7-fsu7z8OR4AqzvXTr3Kvkk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

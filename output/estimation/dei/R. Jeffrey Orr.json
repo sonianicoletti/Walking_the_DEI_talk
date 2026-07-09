@@ -1,0 +1,653 @@
+{
+  "ceo": "R. Jeffrey Orr",
+  "query": "R. Jeffrey Orr (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "MYDJclNRlbrm-wrpDqi7gl6JI9I",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eVO8qsW-Dk1N-T8js9SgnCHirbM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mixLXaSDmqo"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-18T17:49:40Z",
+          "channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+          "title": "Mark Rober&#39;s Dangerous Strategy On Hot Ones",
+          "description": "Mark Rober recently appeared on Hot Ones and made a big mistake. I'm a big fan of both Mark and Hot Ones, so don't think this ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Doctor Mike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-18T17:49:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PhxTyOrljDxuLewOEVC7bovuMjA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wGJj_-1QlyY"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-10T16:00:38Z",
+          "channelId": "UCB_CCSAGP_YCuR36_w2bG1w",
+          "title": "When you make the village your home in Minecraft",
+          "description": "Shorts I'm sure villagers deep down despise Steve lol Join my discord server: https://discord.gg/nYAdBdtsCh Contact info ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Greg Renko",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-10T16:00:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oaijpCt6XEzOAaPuCqenx_50SmI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cowL9wyONyo"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-02T12:37:45Z",
+          "channelId": "UCmgo9jeT8tSSGx0V9nCiR1Q",
+          "title": "How Nitish Rajput Create His Content &amp; Make His Videos | Mridul Madhok",
+          "description": "To get chemical free products visit https://mridulmadhok.in/ If you have enjoyed this video then don't forget to LIKE, SHARE ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mridul Madhok",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-02T12:37:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uYBLxqp6La1N-0gV8WTBOLpcimY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6afIXxLM26g"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-31T17:00:04Z",
+          "channelId": "UCIoD-SEdUWMA74tWXRMyCZQ",
+          "title": "HVAC 150 Vacuum p17 Example 5 Triple Evacuation",
+          "description": "Triple evacuation, there are many variation of this method here is just one of many examples As promised here is Jeremy Smiths ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Love2HVAC with Ty Branaman",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-31T17:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nJMyo6QfKM2KWIEGWdoj43cQBlc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C-X5LXG3Wjs"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-17T15:15:00Z",
+          "channelId": "UCwPBgw60m9FRy_HIPKRu79Q",
+          "title": "Gatos Silver News (#GATO) Gato Stock \ud83d\udcc9 SHAREHOLDERS In Gatos Silver Securities Class Action $GATO",
+          "description": "April 25, 2022 Deadline Register Now Here https://bit.ly/GATOSILVER Gatos Silver News (#GATO) Gato Stock ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Gross Law Firm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-17T15:15:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S88DVDYCylr517HT1zNCbc3Uh94",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yiWps5nKu0w"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-02T15:29:53Z",
+          "channelId": "UCv8lDWdzTE0PptWsazR1Ttw",
+          "title": "Gmail hack  | Sirf Gmail I&#39;D Se Mobile Hack Kaise Karen @Gadeltechlab",
+          "description": "Gmail hack | Sirf Gmail I'D Se Mobile Hack Kaise Karen Gmail Se Kisi Ka Bhi Phone Kaise Hack Kare @Gadeltechlab dusro ka ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Gadel techlab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-02T15:29:53Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "e_6uECoDKwBcJRomEpwAFbLxKlc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "WkBcsMo8D1fn5gKSyHeeAVf8LvE",
+        "id": "mixLXaSDmqo",
+        "snippet": {
+          "publishedAt": "2022-08-18T17:49:40Z",
+          "channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+          "title": "Mark Rober's Dangerous Strategy On Hot Ones",
+          "description": "Mark Rober recently appeared on Hot Ones and made a big mistake. I'm a big fan of both Mark and Hot Ones, so don't think this makes me any less of a fan, but I do believe it's important to call out medical misinformation when it appears on such a larger platform from such influential people. To combat the pain of the heat, Mark used Chloraseptic Throat Numbing Spray. The instructions on the back of the bottle state you should not use more than 5 sprays per every 2 hours for adults. Mark and Sean Evans clearly used it dozens of times, and even appeared to swallow it, which you're not supposed to do. The FDA has actually issued warnings about this. So, if you want to avoid pain from spicy foods, might I recommend just dialing down the spice level to begin with. #shorts #shorts \n\nI LOVE reading your comments and take your suggestions seriously. If there\u2019s a subject you want me to discuss or something you\u2019d like for me to react to, leave a comment down below. Many of my videos have been born out of suggestions directly from you, so don\u2019t hold back!\n-Doctor Mike Varshavski\n\nHelp us continue the fight against medical misinformation and change the world through charity by becoming a Doctor Mike Resident on Patreon where every month I donate 100% of the proceeds to the charity, organization, or cause of your choice! Residents get access to bonus content, exclusive live streams, and many other perks for just $10 a month Become a Resident today:\n\nhttps://www.patreon.com/doctormike\n\nPlease SUBSCRIBE for new videos every Wednesday afternoon and Sunday morning!  https://goo.gl/87kYq6\n\nLet\u2019s connect:\n\nIG https://goo.gl/41ZS7w - Doctor Mike\nReddit https://www.reddit.com/r/DoctorMike/\nTwitter https://goo.gl/kzmGs5 - Real Doctor Mike\nFacebook https://goo.gl/QH4nJS - Real Doctor Mike\n\nContact Email: DoctorMikeMedia@Gmail.com\n\n \n\nExecutive Producer: Doctor Mike\nProduction Director and Editor: Dan Owens\nManaging Editor and Producer: Sam Bowers\nEditor and Designer: Caroline Weigum\n\n* Select photos/videos provided by Getty Images *\n\n** The information in this video is not intended nor implied to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images, and information, contained in this video is for general information purposes only and does not replace a consultation with your own doctor/health professional **",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mixLXaSDmqo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Doctor Mike",
+          "tags": [
+            "doctor mike",
+            "dr mike",
+            "drmike",
+            "dr. mike",
+            "mikhail varshavski",
+            "doctor mikhail varshavski",
+            "mike varshavski",
+            "doctor reacts",
+            "hot ones",
+            "mark rober",
+            "sean evans",
+            "first we feast",
+            "hot wings",
+            "spicy wings",
+            "hot sauce",
+            "spicy sauce",
+            "chile",
+            "pepper",
+            "peppers",
+            "throat numbing spray",
+            "scoville",
+            "scovil",
+            "last dab",
+            "da bomb",
+            "mark rober controversy"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mark Rober's Dangerous Strategy On Hot Ones",
+            "description": "Mark Rober recently appeared on Hot Ones and made a big mistake. I'm a big fan of both Mark and Hot Ones, so don't think this makes me any less of a fan, but I do believe it's important to call out medical misinformation when it appears on such a larger platform from such influential people. To combat the pain of the heat, Mark used Chloraseptic Throat Numbing Spray. The instructions on the back of the bottle state you should not use more than 5 sprays per every 2 hours for adults. Mark and Sean Evans clearly used it dozens of times, and even appeared to swallow it, which you're not supposed to do. The FDA has actually issued warnings about this. So, if you want to avoid pain from spicy foods, might I recommend just dialing down the spice level to begin with. #shorts #shorts \n\nI LOVE reading your comments and take your suggestions seriously. If there\u2019s a subject you want me to discuss or something you\u2019d like for me to react to, leave a comment down below. Many of my videos have been born out of suggestions directly from you, so don\u2019t hold back!\n-Doctor Mike Varshavski\n\nHelp us continue the fight against medical misinformation and change the world through charity by becoming a Doctor Mike Resident on Patreon where every month I donate 100% of the proceeds to the charity, organization, or cause of your choice! Residents get access to bonus content, exclusive live streams, and many other perks for just $10 a month Become a Resident today:\n\nhttps://www.patreon.com/doctormike\n\nPlease SUBSCRIBE for new videos every Wednesday afternoon and Sunday morning!  https://goo.gl/87kYq6\n\nLet\u2019s connect:\n\nIG https://goo.gl/41ZS7w - Doctor Mike\nReddit https://www.reddit.com/r/DoctorMike/\nTwitter https://goo.gl/kzmGs5 - Real Doctor Mike\nFacebook https://goo.gl/QH4nJS - Real Doctor Mike\n\nContact Email: DoctorMikeMedia@Gmail.com\n\n \n\nExecutive Producer: Doctor Mike\nProduction Director and Editor: Dan Owens\nManaging Editor and Producer: Sam Bowers\nEditor and Designer: Caroline Weigum\n\n* Select photos/videos provided by Getty Images *\n\n** The information in this video is not intended nor implied to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images, and information, contained in this video is for general information purposes only and does not replace a consultation with your own doctor/health professional **"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "66201396",
+          "likeCount": "3404423",
+          "favoriteCount": "0",
+          "commentCount": "19140"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I2cRMNIzIETVAW7ZvArRP80ejbc",
+        "id": "wGJj_-1QlyY",
+        "snippet": {
+          "publishedAt": "2022-08-10T16:00:38Z",
+          "channelId": "UCB_CCSAGP_YCuR36_w2bG1w",
+          "title": "When you make the village your home in Minecraft",
+          "description": "#Shorts\nI'm sure villagers deep down despise Steve lol\n\nJoin my discord server: https://discord.gg/nYAdBdtsCh\n\nContact info (business inquiries only please):\ngregrenko@rbrollc.com\n\nFollow my socials:\nInstagram: https://www.instagram.com/greg_renko/\nTwitter: https://twitter.com/GregRenkoYT\ntiktok: https://www.tiktok.com/@gregrenko\nTwitch: https://www.twitch.tv/gregrenko",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wGJj_-1QlyY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Greg Renko",
+          "tags": [
+            "Shorts",
+            "shorts"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "When you make the village your home in Minecraft",
+            "description": "#Shorts\nI'm sure villagers deep down despise Steve lol\n\nJoin my discord server: https://discord.gg/nYAdBdtsCh\n\nContact info (business inquiries only please):\ngregrenko@rbrollc.com\n\nFollow my socials:\nInstagram: https://www.instagram.com/greg_renko/\nTwitter: https://twitter.com/GregRenkoYT\ntiktok: https://www.tiktok.com/@gregrenko\nTwitch: https://www.twitch.tv/gregrenko"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32168689",
+          "likeCount": "1424382",
+          "favoriteCount": "0",
+          "commentCount": "2359"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GiqyC_b9AIxXJHxpgvindALYFcM",
+        "id": "cowL9wyONyo",
+        "snippet": {
+          "publishedAt": "2022-07-02T12:37:45Z",
+          "channelId": "UCmgo9jeT8tSSGx0V9nCiR1Q",
+          "title": "How Nitish Rajput Create His Content & Make His Videos | Mridul Madhok",
+          "description": "To get chemical free products visit https://mridulmadhok.in/   \n\n\n\nIf you have enjoyed this video then don't forget to LIKE, SHARE & COMMENT!!\n\u25b7 CONNECT with us!!\n\n\nINSTAGRAM \u2665 \u2665 https://www.instagram.com/mridulmadhok\nFACEBOOK \u2665 \u2665 https://www.facebook.com/mridulmadhok\nSNAPCHAT \u2665 \u2665 @mridulcybie\n\n\n\n\n\n\nDISCLAIMER: The information provided on this channel and its videos is for general purposes only and should NOT be considered as professional advice. We always try our best to provide accurate information and sound advice but please note that we are not a licensed professional or a medical practitioner so always make sure you consult a professional in case of need. All products/services reviewed on this channel have been purchased by me unless stated otherwise. We always try to keep our channel and its content updated but we cannot guarantee it. All opinions expressed here are our own and we are not compensated by any brand, advertiser, PR representative or affiliate for the same unless explicitly stated in our videos and/or description box. We never try to push products on anyone but we do make recommendations based on our personal experience. All the content published on this channel is our own creative work and is protected under copyright law ! #MridulMadhok",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cowL9wyONyo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mridul Madhok",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "How Nitish Rajput Create His Content & Make His Videos | Mridul Madhok",
+            "description": "To get chemical free products visit https://mridulmadhok.in/   \n\n\n\nIf you have enjoyed this video then don't forget to LIKE, SHARE & COMMENT!!\n\u25b7 CONNECT with us!!\n\n\nINSTAGRAM \u2665 \u2665 https://www.instagram.com/mridulmadhok\nFACEBOOK \u2665 \u2665 https://www.facebook.com/mridulmadhok\nSNAPCHAT \u2665 \u2665 @mridulcybie\n\n\n\n\n\n\nDISCLAIMER: The information provided on this channel and its videos is for general purposes only and should NOT be considered as professional advice. We always try our best to provide accurate information and sound advice but please note that we are not a licensed professional or a medical practitioner so always make sure you consult a professional in case of need. All products/services reviewed on this channel have been purchased by me unless stated otherwise. We always try to keep our channel and its content updated but we cannot guarantee it. All opinions expressed here are our own and we are not compensated by any brand, advertiser, PR representative or affiliate for the same unless explicitly stated in our videos and/or description box. We never try to push products on anyone but we do make recommendations based on our personal experience. All the content published on this channel is our own creative work and is protected under copyright law ! #MridulMadhok"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1202910",
+          "likeCount": "51454",
+          "favoriteCount": "0",
+          "commentCount": "198"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Jz0mEHCfyBJEkXyxBhYL63lOBZY",
+        "id": "6afIXxLM26g",
+        "snippet": {
+          "publishedAt": "2022-01-31T17:00:04Z",
+          "channelId": "UCIoD-SEdUWMA74tWXRMyCZQ",
+          "title": "HVAC 150 Vacuum p17 Example 5 Triple Evacuation",
+          "description": "Triple evacuation, there are many variation of this method here is just one of many examples\n\nAs promised here is Jeremy Smiths article on triple evacuation.\nhttps://hvacrschool.com/triple-evacuation-and-nitrogen-facts/\n\nBryan Orr take on triple Evac \nhttps://hvacrschool.com/podcasts/triple-evacuation-short-short-121/\nhttps://open.spotify.com/episode/2aUbPUu7207zRQfHIap6O0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6afIXxLM26g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Love2HVAC with Ty Branaman",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HVAC 150 Vacuum p17 Example 5 Triple Evacuation",
+            "description": "Triple evacuation, there are many variation of this method here is just one of many examples\n\nAs promised here is Jeremy Smiths article on triple evacuation.\nhttps://hvacrschool.com/triple-evacuation-and-nitrogen-facts/\n\nBryan Orr take on triple Evac \nhttps://hvacrschool.com/podcasts/triple-evacuation-short-short-121/\nhttps://open.spotify.com/episode/2aUbPUu7207zRQfHIap6O0"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT14M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "38356",
+          "likeCount": "758",
+          "favoriteCount": "0",
+          "commentCount": "71"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7hTP8aS57WVyUEHhjn2GBjF4dM4",
+        "id": "C-X5LXG3Wjs",
+        "snippet": {
+          "publishedAt": "2022-03-17T15:15:00Z",
+          "channelId": "UCwPBgw60m9FRy_HIPKRu79Q",
+          "title": "Gatos Silver News (#GATO) Gato Stock \ud83d\udcc9 SHAREHOLDERS In Gatos Silver Securities Class Action $GATO",
+          "description": "\ud83d\udc49 April 25, 2022 Deadline \ud83d\udc49 Register Now Here https://bit.ly/GATOSILVER  Gatos Silver News (#GATO) Gato Stock \ud83d\udcc9 SHAREHOLDERS In Gatos Silver Securities Class Action $GATO\n\nGatos Silver News and Gato Stock\n\nInvestors, did you purchase Gatos: (a) common stock pursuant and/or traceable to the Registration Statement issued in connection with the Company\u2019s initial public offering conducted on or about October 28, 2020; and/or (b) securities between October 28, 2020 and January 25, 2022?\n\nThe Gross Law Firm announces that a securities fraud class action lawsuit has been filed against Gatos Silver, Inc., ticker symbol G A T O\n\nDid you lose money by investing in G A T O? And are you aware that you may recover your losses with no out of pocket costs?\n\nInvestors who purchased Gatos (a) the Company\u2019s initial public offering conducted on or about October 28, 2020; and/or (b) securities between October 28, 2020 and January 25, 2022 may be entitled to recover losses.\n\nThese injured investors have until April 25, 2022 to join the lawsuit as a lead plaintiff.\n\nContact The Gross Law Firm to inquire about your recovery opportunities.\n\nWhat is the G A T O lawsuit about?\n\nThe complaint filed against Gatos alleges that the company violated federal securities laws by making false and/or misleading statements and/or failing to disclose that:\n\n(1) The technical report for Gatos\u2019s primary mine, the Cerro Los Gatos deposit, contained certain errors.\n\n(2) Among other things, the mineral reserves had been overestimated by as much as 50%.\n\n(3) As a result of the foregoing, Defendants\u2019 positive statements about the Company\u2019s business, operations, and prospects were materially misleading and/or lacked a reasonable basis.\n\nTo get information about your rights, submit your information as an investor before the April 25, 2022 deadline.\n\nThe Gross Law Firm is ready to help you recoup your losses.\n\n\n\nTo join Click here \ud83d\udc49 https://bit.ly/GATOSILVER\n\nThe Gross Law Firm is committed to ensuring that companies adhere to responsible business practices and engage in good corporate citizenship. The firm seeks recovery on behalf of investors who incurred losses when false and/or misleading statements or the omission of material information by a Company lead to artificial inflation of the Company's stock. Attorney advertising. Prior results do not guarantee similar outcomes.\n\nGatos Silver News and Gato Stock\n\nRegister on CORE. Join more than 150K users and protect your portfolio \ud83d\udc49 https://www.compensationrecovery.com/...\n___________________________  Visit The Gross Law Firm   _____________________\n https://securitiesclasslaw.com/\nGet Social\nTwitter \u25ba https://twitter.com/ClassSecurities\nYoutube \u25ba https://www.youtube.com/channel/UCwPBgw60m9FRy_HIPKRu79Q\nGoogle \u25ba https://g.page/r/CbCJpsDumAR9EBA?we\n_________________________Time Stamp \u23f2\ufe0f ________________________\n00:00 GATO STOCK\n00:38 Did you lose money\n00:47 The Gross Law Firm Represent shareholders\n00:53 Investors who purchase \n01:04 What is the GATO lawsuit about? \n01:44 To get information\n01:51 The Gross Law Firm\n________________________________________________________________\n\n#GATO \n#GATOSTOCK \n#gatostocknews\n#GatosSilverInc\n#business \n#stockstobuy \n#beststocks    \n#stocksbuynow \n#NYSE\n\n\nVideos that discuss Gatos Silver News and Gato Stock\n\nWhat's Happening With Gatos Silver (GATO)? Mariusz Skonieczny\nGATO stock crash MMT Investing\n69% Stock Loss GATO Stock News | Gatos Silver Securities Class Action ($GATO) GATO Stock Levi & Korsinsky LLP\nGATO STOCK: THE DIRTY TRUTH WAS JUST REVEALED! | GATO Stock - Very Big Bad News For Share Holders IT NEWS BIKUL\nInvestor Class Action Filed Against Gatos Silver (GATOS) for Securities Fraud Violations Kessler Topaz Meltzer & Check, LLP\nGatos Silver on New Silver Production in the Los Gatos District and Focus on Optimization SNN Network\nGATO STOCK: Gatos Silver Stock Breaking News Today | GATO Stock Price Prediction | GATO Stock Target IT NEWS BIKUL\n#shorts Analysts see 31% upside in this stock! GATO stock Penny Stocks - NAK stock, TXMD stock, ATOS stock\n\n\nLooking for gatos silver news? gato stock and gatos silver stock news today information for shareholders, gato stock news and gatos silver stock alert or ticker GATO which references to gato stock analysis which is for gatos silver stock review this video discusses securities class action litigation and could affect gatos silver stock update and gatos silver stock forecast to buy nyse 100 forecast and stocks to buy now,gatos silver inc and gatos silver stock analysis is target for why gato stock is down.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/C-X5LXG3Wjs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Gross Law Firm",
+          "tags": [
+            "gatos silver news",
+            "gato stock",
+            "gatos silver stock news today",
+            "gato stock news",
+            "gatos silver stock alert",
+            "gato stock analysis",
+            "gatos silver stock review",
+            "gatos silver stock update",
+            "gatos silver stock forecast",
+            "gatos silver inc",
+            "gatos silver stock analysis",
+            "gatos silver stock prediction",
+            "gato stock price",
+            "gato stock forecast",
+            "gatos silver stock",
+            "gatos silver stock price",
+            "gato silver stock",
+            "gatos silver",
+            "gato",
+            "securities class action",
+            "class action securities",
+            "stockholder rights"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Gatos Silver News (#GATO) Gato Stock \ud83d\udcc9 SHAREHOLDERS In Gatos Silver Securities Class Action $GATO",
+            "description": "\ud83d\udc49 April 25, 2022 Deadline \ud83d\udc49 Register Now Here https://bit.ly/GATOSILVER  Gatos Silver News (#GATO) Gato Stock \ud83d\udcc9 SHAREHOLDERS In Gatos Silver Securities Class Action $GATO\n\nGatos Silver News and Gato Stock\n\nInvestors, did you purchase Gatos: (a) common stock pursuant and/or traceable to the Registration Statement issued in connection with the Company\u2019s initial public offering conducted on or about October 28, 2020; and/or (b) securities between October 28, 2020 and January 25, 2022?\n\nThe Gross Law Firm announces that a securities fraud class action lawsuit has been filed against Gatos Silver, Inc., ticker symbol G A T O\n\nDid you lose money by investing in G A T O? And are you aware that you may recover your losses with no out of pocket costs?\n\nInvestors who purchased Gatos (a) the Company\u2019s initial public offering conducted on or about October 28, 2020; and/or (b) securities between October 28, 2020 and January 25, 2022 may be entitled to recover losses.\n\nThese injured investors have until April 25, 2022 to join the lawsuit as a lead plaintiff.\n\nContact The Gross Law Firm to inquire about your recovery opportunities.\n\nWhat is the G A T O lawsuit about?\n\nThe complaint filed against Gatos alleges that the company violated federal securities laws by making false and/or misleading statements and/or failing to disclose that:\n\n(1) The technical report for Gatos\u2019s primary mine, the Cerro Los Gatos deposit, contained certain errors.\n\n(2) Among other things, the mineral reserves had been overestimated by as much as 50%.\n\n(3) As a result of the foregoing, Defendants\u2019 positive statements about the Company\u2019s business, operations, and prospects were materially misleading and/or lacked a reasonable basis.\n\nTo get information about your rights, submit your information as an investor before the April 25, 2022 deadline.\n\nThe Gross Law Firm is ready to help you recoup your losses.\n\n\n\nTo join Click here \ud83d\udc49 https://bit.ly/GATOSILVER\n\nThe Gross Law Firm is committed to ensuring that companies adhere to responsible business practices and engage in good corporate citizenship. The firm seeks recovery on behalf of investors who incurred losses when false and/or misleading statements or the omission of material information by a Company lead to artificial inflation of the Company's stock. Attorney advertising. Prior results do not guarantee similar outcomes.\n\nGatos Silver News and Gato Stock\n\nRegister on CORE. Join more than 150K users and protect your portfolio \ud83d\udc49 https://www.compensationrecovery.com/...\n___________________________  Visit The Gross Law Firm   _____________________\n https://securitiesclasslaw.com/\nGet Social\nTwitter \u25ba https://twitter.com/ClassSecurities\nYoutube \u25ba https://www.youtube.com/channel/UCwPBgw60m9FRy_HIPKRu79Q\nGoogle \u25ba https://g.page/r/CbCJpsDumAR9EBA?we\n_________________________Time Stamp \u23f2\ufe0f ________________________\n00:00 GATO STOCK\n00:38 Did you lose money\n00:47 The Gross Law Firm Represent shareholders\n00:53 Investors who purchase \n01:04 What is the GATO lawsuit about? \n01:44 To get information\n01:51 The Gross Law Firm\n________________________________________________________________\n\n#GATO \n#GATOSTOCK \n#gatostocknews\n#GatosSilverInc\n#business \n#stockstobuy \n#beststocks    \n#stocksbuynow \n#NYSE\n\n\nVideos that discuss Gatos Silver News and Gato Stock\n\nWhat's Happening With Gatos Silver (GATO)? Mariusz Skonieczny\nGATO stock crash MMT Investing\n69% Stock Loss GATO Stock News | Gatos Silver Securities Class Action ($GATO) GATO Stock Levi & Korsinsky LLP\nGATO STOCK: THE DIRTY TRUTH WAS JUST REVEALED! | GATO Stock - Very Big Bad News For Share Holders IT NEWS BIKUL\nInvestor Class Action Filed Against Gatos Silver (GATOS) for Securities Fraud Violations Kessler Topaz Meltzer & Check, LLP\nGatos Silver on New Silver Production in the Los Gatos District and Focus on Optimization SNN Network\nGATO STOCK: Gatos Silver Stock Breaking News Today | GATO Stock Price Prediction | GATO Stock Target IT NEWS BIKUL\n#shorts Analysts see 31% upside in this stock! GATO stock Penny Stocks - NAK stock, TXMD stock, ATOS stock\n\n\nLooking for gatos silver news? gato stock and gatos silver stock news today information for shareholders, gato stock news and gatos silver stock alert or ticker GATO which references to gato stock analysis which is for gatos silver stock review this video discusses securities class action litigation and could affect gatos silver stock update and gatos silver stock forecast to buy nyse 100 forecast and stocks to buy now,gatos silver inc and gatos silver stock analysis is target for why gato stock is down."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1436",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_fSOXm1M1YuVGQnmKMGSzsaLrYw",
+        "id": "yiWps5nKu0w",
+        "snippet": {
+          "publishedAt": "2022-08-02T15:29:53Z",
+          "channelId": "UCv8lDWdzTE0PptWsazR1Ttw",
+          "title": "Gmail hack  | Sirf Gmail I'D Se Mobile Hack Kaise Karen @Gadeltechlab",
+          "description": "Gmail hack  | Sirf Gmail I'D Se Mobile Hack Kaise Karen Gmail Se Kisi Ka Bhi Phone Kaise Hack Kare\n@Gadeltechlab \n\ndusro ka Gmail hack kaise kare | Gmail ka password kaise dekhe \n\nGmail ka password bhul gaye to\nkaise pata kare || How to reset\ngmail password if forgotten !\nhindi\n\nGmail account recovery kaise\nkare 2022 || How to recover\nGmail account || Gogle account\n\nuseful videos try this tricks\n\n1.   Phone ka pattern lock kaise tode / password kaise tode 2023\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/z3uVTgocvzw\n\n2.  YouTube chalate chalate thak jaaogey net khatam nhi hoga\n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/S7q8cnqW7Rg\n\n3.  Net speed kaise fast kare 5g to 6g  \n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/oAgF99po_IA\n\n4.  Aapke  phone mein baar baar add. Aati hai kaise band kare \n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/h_twYMkJKek\n\n\n\n\nrecovery\n\n\u0907\u0902\u0938\u094d\u091f\u093e\u0917\u094d\u0930\u093e\u092e \u0915\u093e \u092a\u093e\u0938\u0935\u0930\u094d\u0921 \u0915\u0948\u0938\u0947 \u092a\u0924\u093e \u0932\u0917\u093e\u092f\u0947\n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47 \nhttps://youtu.be/JsFFPlR7w68\n\n\nyour questions.\n\nGmail hack kaise karte hain 2022\nGmail password forgot\nemail id se phone hack kaise karen\ngmail account recovery\ngmail account recovery kaise kare\ngmail account recovery kaise kare 2022\ngmail account recovery password\ngmail account recovery problem\ngmail account recovery without phone number and email\ngoogle account recovery\ngoogle gmail account recovery gmail help\nhow to recover gmail account\nrecover gmail account without phone or email\n\n\n\n[NOTE: Our Channel or The Stuff Related To Our Channel Does Not Hold Any Kind Of The Responsibility And This\nVideo Is Only For Educational Purpose,If You Do Any Activity. It's Totally Your Responsibility.]\n\n#gadeltechlab #viral #gmailaccount  #gmail #youtube  #youtuber  #androidtricks #suggested  #suggestion #support \n\n\nmessage kaise dekhe\nhttps://youtu.be/89hUHuiK7Mg\n\n\n\n\u00a9 Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.Fair use is a use permitted by copyright statute that might otherwise be infringing.\nNon-profit, educational or personal use tips the balance in favour of fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yiWps5nKu0w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gadel techlab",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "hi",
+          "localized": {
+            "title": "Gmail hack  | Sirf Gmail I'D Se Mobile Hack Kaise Karen @Gadeltechlab",
+            "description": "Gmail hack  | Sirf Gmail I'D Se Mobile Hack Kaise Karen Gmail Se Kisi Ka Bhi Phone Kaise Hack Kare\n@Gadeltechlab \n\ndusro ka Gmail hack kaise kare | Gmail ka password kaise dekhe \n\nGmail ka password bhul gaye to\nkaise pata kare || How to reset\ngmail password if forgotten !\nhindi\n\nGmail account recovery kaise\nkare 2022 || How to recover\nGmail account || Gogle account\n\nuseful videos try this tricks\n\n1.   Phone ka pattern lock kaise tode / password kaise tode 2023\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/z3uVTgocvzw\n\n2.  YouTube chalate chalate thak jaaogey net khatam nhi hoga\n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/S7q8cnqW7Rg\n\n3.  Net speed kaise fast kare 5g to 6g  \n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/oAgF99po_IA\n\n4.  Aapke  phone mein baar baar add. Aati hai kaise band kare \n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\nhttps://youtu.be/h_twYMkJKek\n\n\n\n\nrecovery\n\n\u0907\u0902\u0938\u094d\u091f\u093e\u0917\u094d\u0930\u093e\u092e \u0915\u093e \u092a\u093e\u0938\u0935\u0930\u094d\u0921 \u0915\u0948\u0938\u0947 \u092a\u0924\u093e \u0932\u0917\u093e\u092f\u0947\n\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47 \nhttps://youtu.be/JsFFPlR7w68\n\n\nyour questions.\n\nGmail hack kaise karte hain 2022\nGmail password forgot\nemail id se phone hack kaise karen\ngmail account recovery\ngmail account recovery kaise kare\ngmail account recovery kaise kare 2022\ngmail account recovery password\ngmail account recovery problem\ngmail account recovery without phone number and email\ngoogle account recovery\ngoogle gmail account recovery gmail help\nhow to recover gmail account\nrecover gmail account without phone or email\n\n\n\n[NOTE: Our Channel or The Stuff Related To Our Channel Does Not Hold Any Kind Of The Responsibility And This\nVideo Is Only For Educational Purpose,If You Do Any Activity. It's Totally Your Responsibility.]\n\n#gadeltechlab #viral #gmailaccount  #gmail #youtube  #youtuber  #androidtricks #suggested  #suggestion #support \n\n\nmessage kaise dekhe\nhttps://youtu.be/89hUHuiK7Mg\n\n\n\n\u00a9 Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.Fair use is a use permitted by copyright statute that might otherwise be infringing.\nNon-profit, educational or personal use tips the balance in favour of fair use."
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT6M13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "720078",
+          "likeCount": "10090",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

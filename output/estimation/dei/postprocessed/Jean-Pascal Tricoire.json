@@ -1,0 +1,128 @@
+{
+  "ceo": "Jean-Pascal Tricoire",
+  "query": "Jean-Pascal Tricoire (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7vyl1rtBFmiS_gfOGWiY9xLlDbY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D7AADDoX4uhxyJwqBD-tohtuJWU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gsixCcn92n4"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-02T08:45:10Z",
+          "channelId": "UC6ip3rb4w_LIq1Q8kJXcKlw",
+          "title": "Jean-Pascal Tricoire, Chairman &amp; CEO Of Schneider Electric: Empowering The Future",
+          "description": "As the world embraces a new age of digitalization and sustainable change, Schneider Electric is leading the way in global energy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Forbes Middle East",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-02T08:45:10Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "-AR3FwungVwlpJk3q3AoZf7yq38",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "r8mcdCPxYPqMfCS9HwPnY6iRD9E",
+        "id": "gsixCcn92n4",
+        "snippet": {
+          "publishedAt": "2022-03-02T08:45:10Z",
+          "channelId": "UC6ip3rb4w_LIq1Q8kJXcKlw",
+          "title": "Jean-Pascal Tricoire, Chairman & CEO Of Schneider Electric: Empowering The Future",
+          "description": "As the world embraces a new age of digitalization and sustainable change, Schneider Electric is leading the way in global energy management and automation. Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric, discusses his company\u2019s mission to drive forward digital transformation, sustainability, and workplace inclusivity.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Forbes Middle East",
+          "tags": [
+            "Forbes Middle East",
+            "business",
+            "arab world",
+            "arab",
+            "entrepreneurship"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jean-Pascal Tricoire, Chairman & CEO Of Schneider Electric: Empowering The Future",
+            "description": "As the world embraces a new age of digitalization and sustainable change, Schneider Electric is leading the way in global energy management and automation. Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric, discusses his company\u2019s mission to drive forward digital transformation, sustainability, and workplace inclusivity."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34658",
+          "likeCount": "160",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

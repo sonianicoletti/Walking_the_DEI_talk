@@ -1,0 +1,23 @@
+{
+  "ceo": "Stephane Richard",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "c1XM4dvSkphN70gEEYKXpyjLTds",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 98640,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SZvkrn6zYwM10q3Dsd5GLYTONyc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

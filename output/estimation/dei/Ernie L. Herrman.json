@@ -1,0 +1,17 @@
+{
+  "ceo": "Ernie L. Herrman",
+  "query": "Ernie L. Herrman (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "BbKd8yJbwKglBW-J5pLAF1PPrMY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 0
+    },
+    "items": []
+  },
+  "video_details": {
+    "items": []
+  }
+}

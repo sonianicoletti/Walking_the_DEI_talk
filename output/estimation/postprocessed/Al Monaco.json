@@ -1,0 +1,23 @@
+{
+  "ceo": "Al Monaco",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "5XqFqcYwLqsEPNeI7Fl4AOcpZrA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 894543,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "usocd2SQg6Wi4QmPIYLTqj4YUKI",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

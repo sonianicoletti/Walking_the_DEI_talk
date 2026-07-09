@@ -1,0 +1,2030 @@
+{
+  "ceo": "Bruce Flatt",
+  "query": "Bruce Flatt (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Sq6NDsqc0PWMQLbxqRFuzdAI0IU",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 23,
+      "resultsPerPage": 19
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HhoRHxrpRrDKuEasVUqYNTetbbM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XXAfWDCX2Cg"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-23T21:28:24Z",
+          "channelId": "UCnaecRNKB5w39GhBn8mOZTg",
+          "title": "Capital Impact Partners\u2019 40th Anniversary: Peter Scher",
+          "description": "Join Capital Impact Partners in celebrating 40 years of impact with communities. It's been an incredible journey and we want to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Capital Impact Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-23T21:28:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R_aNITlKAwpi6P4t1mhJWXwG-Hs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MiJEwJU3uN0"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-01T15:03:00Z",
+          "channelId": "UCVTrDBjyx2YUs-IyqTn2AVg",
+          "title": "Brascan Ltd. v. Edper Equities Ltd. Case Brief Summary | Law Case Explained",
+          "description": "Get more case briefs explained with Quimbee. Quimbee has over 16300 case briefs (and counting) keyed to 223 casebooks ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Quimbee",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-01T15:03:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8fCrWp1u2o3j66vVdfCw20pTKAw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t6-InfKs3ko"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T20:17:54Z",
+          "channelId": "UCOCWQtjt0lzdK0U5RdJedZA",
+          "title": "What happened with Brookfield Asset Management?  Ep. 137",
+          "description": "In this video I start by giving a short update to my portfolio, and then I share the latest news regarding the spin-off I Brookfield asset ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Lazy Money Game",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T20:17:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YVKfgWhpJl4DfmV5Q2W2Gi4DF_I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rl_MbindCAs"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-18T16:47:38Z",
+          "channelId": "UC7jbr29AMpgEPlEXxMcAB8A",
+          "title": "Brookfield Asset Management SPIN-OFF!",
+          "description": "Brookfield Asset Management teased the idea of a spin-off of its Asset Management division into a standalone operation, and if ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "checkmark\u2019d",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-18T16:47:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_0ALMJvhF7u1AJ_WqAavc_kTrSA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CzvKJVjpnBM"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-16T11:55:49Z",
+          "channelId": "UCUyH4QfXX-5NOT0bULqG6lQ",
+          "title": "The Biggest Trading Loss in Wall Street Banking History",
+          "description": "In this video we go over the crazy story about how JP Morgan, the largest bank in the US, lost $6.2 billion as the result of a rouge ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Wall Street Millennial",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-16T11:55:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JEZrPj1hDryIDnGd5iGxR-6-juI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E9iGe0n8MIU"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-07T19:52:34Z",
+          "channelId": "UC5D18IyKtwxlSWVgEVfxBCQ",
+          "title": "Jeffrey Sherman interview - Yahoo Finance 1-4-22",
+          "description": "DoubleLine deputy CIO, Jeffrey Sherman sits down for an interview with Yahoo Finance's, Brian Sozzi during DoubleLine's Round ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DoubleLine Capital",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-07T19:52:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "a0acq0-WzG404CfwjOYvYs5BTWU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "44aCyrz7eL4"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-09T16:07:50Z",
+          "channelId": "UCLUxbcv4XvqB-ihz1r0P_pw",
+          "title": "Impact Investing, ESG &amp; Sustainable Investment",
+          "description": "Richard Betts, Group Publisher, Real Asset Media (Moderator) Maximilian Riede, Head ESG Germany, Swiss Life Asset ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Real Asset Live TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-09T16:07:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AjpE-QCR8H0ZqrCgGuJk2fc8w4Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eEOZ9JnubhE"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-27T12:45:01Z",
+          "channelId": "UCPAirmcpJgphm89DVBL-SYA",
+          "title": "Brookfield Asset Management (BAM) - Financial Services, Real Estate, Renewable Power, Infrastructure",
+          "description": "Is Brookfield Asset Management (BAM) Stock A Buy? 2022 Fundamental Analysis - Investing in Brookfield Asset Management.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Superior North",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-27T12:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "v0nm6uTepyxh4k4lMWMo-aIpvXs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DchJlB4Dzyk"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-11T01:13:22Z",
+          "channelId": "UCtL0nnTeoSVm_ByASbAFsqw",
+          "title": "Asset Allocation and Percentage of Growth Assets (Financial Mappers)",
+          "description": "With Financial Mappers you can explore asset allocation and growth assets for your complete portfolio of investments or separate ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Financial Mappers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-11T01:13:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MhDCnkpGffHMJpMQUFI0KRppzQI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3mRiNAp13TM"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-11T00:14:52Z",
+          "channelId": "UCumYmrTCTWMRt0zS2gFV7hA",
+          "title": "Judy Justice - &quot;Hustler&quot; refuses to leave courtroom after her case is dismissed!!",
+          "description": "JudyJustice #JudgeJudy I own Nothing. Clip Remains Property of Original Owners.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bits 'n Pieces",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-11T00:14:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tSY-_AwBvxK8qOiOi-QlKsZQ3WU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HNwUmMyX3qY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-14T13:00:15Z",
+          "channelId": "UCZj5Af3HwpY1s3svCKDG4_A",
+          "title": "The REAL Portfolio of Mohnish Pabrai.",
+          "description": "Mohnish Pabrai has a very concentrated stock portfolio, if we look at his 13F. But if we look at his international investments, we ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bald Investor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-14T13:00:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oN6gO1foYdKUG9MdIyZizBzKUss",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bZ6wGzglbB8"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-27T19:29:40Z",
+          "channelId": "UCyz6-taovlaOkPsPtK4KNEg",
+          "title": "Investing with KKR\u2019s Joe Bae",
+          "description": "In the latest episode of Exchanges at Goldman Sachs: Great Investors, Joe Bae, Co-CEO of KKR, shares his thoughts with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Goldman Sachs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-27T19:29:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QlSYhR8-RFNhrTjqUtXa7gZsmN4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lnphCswTFsw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T18:11:24Z",
+          "channelId": "UCBmIztCiBMr8tA7iuuRhk3Q",
+          "title": "Why Billionaires Are Investing in REITs in 2023 (You Should Too)",
+          "description": "Over the last couple of years, we have been seeing a lot of those multi billionaires putting their money into REITs, otherwise ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dividend Bear",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T18:11:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BzMlhveFjuJPbNRhDcNF_7PD3Bg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9bCvVuE7AnA"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-01T16:30:01Z",
+          "channelId": "UCQvSqObd4nnhUWRm7fkRiRA",
+          "title": "TREVENA INC GET READY FOR BIG MOVE | TRVN STOCK ANALYSIS | TRVN STOCK FORECAST | TRVN STOCK UPDATE",
+          "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCQvSqObd4nnhUWRm7fkRiRA/join ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SATYAJIT DASGUPTA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-01T16:30:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GrHxI5s4JWoYwWv8VWSYcTwujrY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kIdlXPP-JzE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-13T05:59:26Z",
+          "channelId": "UCnlyaLgmqTcmXLRLLfH1Rsg",
+          "title": "Brookfield Spin-off! I OWN IT! BAM Stock Analysis! Buy More?",
+          "description": "Brookfield Corp. (BN stock) has crushed the market indices over the last few decades, growing at nearly 19% annualized.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "UNRIVALED INVESTING",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-13T05:59:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "U0Cq3O3oAtyIQaEPBVUrBebc8u4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H5E-qdbwCJ0"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-08T14:17:54Z",
+          "channelId": "UCyz6-taovlaOkPsPtK4KNEg",
+          "title": "Investing with KKR\u2019s Tara Davies",
+          "description": "How is one of the most senior dealmakers in Europe navigating inflationary pressures? In the latest episode of Exchanges at ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Goldman Sachs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-08T14:17:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "U8sUuj8UqrhOyekL1j8C9m9jaK4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DHtnj8-pnYs"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T19:25:20Z",
+          "channelId": "UCjK40LwGEYMmcP3do8S7Hig",
+          "title": "Multifamily Asset Management Through Turbulent Times With Shane Carter",
+          "description": "Welcome to Real Estate Hustlers, where we sit down with top industry leaders and entrepreneurs to discuss their experiences, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Real Estate Hustlers\u00ae",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T19:25:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-wnkTJr2uQJqvPmr-YEAaKp1l1k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ijfjEaRNZQg"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-12T14:32:53Z",
+          "channelId": "UCd6vZjVhBYqznybx9dXT2lA",
+          "title": "Annual Meeting: Featuring A Fireside Chat with Tony Ressler",
+          "description": "Antony (Tony) Ressler | Co-Founder and Executive Chairman | Ares Management Corporation Mr. Ressler is a Co-Founder and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CFA Society Atlanta",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-12T14:32:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hBLvUgWl3M4TuBQAnAiL3tnNevo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GmsvhUch8LA"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-21T14:29:39Z",
+          "channelId": "UCogPcBQNew31mg6n6gbcZDQ",
+          "title": "Principles of Investing in RealEstate",
+          "description": "Realestate investment is the best, secure and surest form of investing you can go into, While it can be very profiting, it can also be ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BethelEhi TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-21T14:29:39Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Pa5hq99Ep6rNQ43b4k4xrM-wgCA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "uqZxBMO_34lIGhVm2h22pzssvaY",
+        "id": "XXAfWDCX2Cg",
+        "snippet": {
+          "publishedAt": "2022-03-23T21:28:24Z",
+          "channelId": "UCnaecRNKB5w39GhBn8mOZTg",
+          "title": "Capital Impact Partners\u2019 40th Anniversary: Peter Scher",
+          "description": "Join Capital Impact Partners in celebrating 40 years of impact with communities. It\u2019s been an incredible journey and we want to share this milestone with you!  \n\nPeter Scher, Vice Chairman, JPMorgan Chase & Co. shares how his relationship with Capital Impact Partners started in Detroit and grown into a multi-faceted partnership, what drew him to invest in Capital Impact, and the importance of CDFIs.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XXAfWDCX2Cg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Capital Impact Partners",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Capital Impact Partners\u2019 40th Anniversary: Peter Scher",
+            "description": "Join Capital Impact Partners in celebrating 40 years of impact with communities. It\u2019s been an incredible journey and we want to share this milestone with you!  \n\nPeter Scher, Vice Chairman, JPMorgan Chase & Co. shares how his relationship with Capital Impact Partners started in Detroit and grown into a multi-faceted partnership, what drew him to invest in Capital Impact, and the importance of CDFIs."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "255",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pqNsFANPH2OZdKOIJzgThbo7nZU",
+        "id": "MiJEwJU3uN0",
+        "snippet": {
+          "publishedAt": "2022-12-01T15:03:00Z",
+          "channelId": "UCVTrDBjyx2YUs-IyqTn2AVg",
+          "title": "Brascan Ltd. v. Edper Equities Ltd. Case Brief Summary | Law Case Explained",
+          "description": "Get more case briefs explained with Quimbee. Quimbee has over 16,300 case briefs (and counting) keyed to 223 casebooks \u25ba https://www.quimbee.com/case-briefs-overview \n\nBrascan Ltd. v. Edper Equities Ltd. | 477 F. Supp. 773 (1979)\n\nThe Williams Act protects shareholders from hostile takeovers by regulating tender offers. In Brascan versus Edper Equities, the Southern District of New York considered the meaning of the term tender offer.\n\nBrascan Limited was a Canadian company traded in Canada, the United Kingdom, and the United States. Edper Equities Limited, a minority shareholder, wanted to acquire majority control of Brascan. Initially, Edper approached Brascan with an acquisition offer, which Brascan rejected.\n\nNevertheless, Edper was still determined to acquire a dominant stake in Brascan. Due to Canadian securities regulations, Edper couldn\u2019t purchase the necessary stock on the Canadian exchange. Instead, Edper consulted James Connacher, the president of Gordon Securities, on buying Brascan shares on the American stock exchange.\n\nGordon contacted Brascan\u2019s major shareholders and communicated to them that if three to four million shares became available, Edper might pay a premium price for them. On April thirtieth, Edper wound up buying three point one million shares. At the close of the day, Canadian officials required Edper to issue a press release stating its intention. Edper announced that it had purchased Brascan shares but didn\u2019t plan to buy more.\n\nThe next day, Edper purchased another three point two million shares.\n\nBrascan obtained an ex parte restraining order preventing Edper from making additional purchases. \n\nBrascan moved for a preliminary injunction, arguing that Edper had violated Section Fourteen E of the Williams Act.\n\nWant more details on this case? Get the rule of law, issues, holding and reasonings, and more case facts here: https://www.quimbee.com/cases/brascan-ltd-v-edper-equities-ltd\n\nThe Quimbee App features over 16,300 case briefs keyed to 223 casebooks. Try it free for 7 days! \u25ba https://www.quimbee.com/case-briefs-overview \n\nHave Questions about this Case? Submit your questions and get answers from a real attorney here: https://www.quimbee.com/cases/brascan-ltd-v-edper-equities-ltd\n\nDid we just become best friends? Stay connected to Quimbee here: Subscribe to our YouTube Channel \u25ba https://www.youtube.com/subscription_center?add_user=QuimbeeDotCom \n\nQuimbee Case Brief App \u25ba https://www.quimbee.com/case-briefs-overview \n\nFacebook \u25ba https://www.facebook.com/quimbeedotcom/ \n\nTwitter \u25ba https://twitter.com/quimbeedotcom \n\n#casebriefs #lawcases #casesummaries",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MiJEwJU3uN0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Quimbee",
+          "tags": [
+            "briefs",
+            "quimbee",
+            "law case",
+            "case brief example",
+            "brief case",
+            "case brief",
+            "press brief",
+            "case summaries",
+            "legal brief",
+            "how to brief a case",
+            "case brief template",
+            "legal brief case",
+            "how to write a case brief",
+            "legal brief example",
+            "sample case brief",
+            "case brief format",
+            "example of a brief",
+            "law briefs",
+            "legal brief definition",
+            "what is a brief in law",
+            "what is a case brief",
+            "court brief",
+            "brief definition law",
+            "legal brief template",
+            "Brascan Ltd. v. Edper Equities Ltd."
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brascan Ltd. v. Edper Equities Ltd. Case Brief Summary | Law Case Explained",
+            "description": "Get more case briefs explained with Quimbee. Quimbee has over 16,300 case briefs (and counting) keyed to 223 casebooks \u25ba https://www.quimbee.com/case-briefs-overview \n\nBrascan Ltd. v. Edper Equities Ltd. | 477 F. Supp. 773 (1979)\n\nThe Williams Act protects shareholders from hostile takeovers by regulating tender offers. In Brascan versus Edper Equities, the Southern District of New York considered the meaning of the term tender offer.\n\nBrascan Limited was a Canadian company traded in Canada, the United Kingdom, and the United States. Edper Equities Limited, a minority shareholder, wanted to acquire majority control of Brascan. Initially, Edper approached Brascan with an acquisition offer, which Brascan rejected.\n\nNevertheless, Edper was still determined to acquire a dominant stake in Brascan. Due to Canadian securities regulations, Edper couldn\u2019t purchase the necessary stock on the Canadian exchange. Instead, Edper consulted James Connacher, the president of Gordon Securities, on buying Brascan shares on the American stock exchange.\n\nGordon contacted Brascan\u2019s major shareholders and communicated to them that if three to four million shares became available, Edper might pay a premium price for them. On April thirtieth, Edper wound up buying three point one million shares. At the close of the day, Canadian officials required Edper to issue a press release stating its intention. Edper announced that it had purchased Brascan shares but didn\u2019t plan to buy more.\n\nThe next day, Edper purchased another three point two million shares.\n\nBrascan obtained an ex parte restraining order preventing Edper from making additional purchases. \n\nBrascan moved for a preliminary injunction, arguing that Edper had violated Section Fourteen E of the Williams Act.\n\nWant more details on this case? Get the rule of law, issues, holding and reasonings, and more case facts here: https://www.quimbee.com/cases/brascan-ltd-v-edper-equities-ltd\n\nThe Quimbee App features over 16,300 case briefs keyed to 223 casebooks. Try it free for 7 days! \u25ba https://www.quimbee.com/case-briefs-overview \n\nHave Questions about this Case? Submit your questions and get answers from a real attorney here: https://www.quimbee.com/cases/brascan-ltd-v-edper-equities-ltd\n\nDid we just become best friends? Stay connected to Quimbee here: Subscribe to our YouTube Channel \u25ba https://www.youtube.com/subscription_center?add_user=QuimbeeDotCom \n\nQuimbee Case Brief App \u25ba https://www.quimbee.com/case-briefs-overview \n\nFacebook \u25ba https://www.facebook.com/quimbeedotcom/ \n\nTwitter \u25ba https://twitter.com/quimbeedotcom \n\n#casebriefs #lawcases #casesummaries"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "140",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZLA3qqy76PUdqjjQULd9kdldt0w",
+        "id": "t6-InfKs3ko",
+        "snippet": {
+          "publishedAt": "2022-12-18T20:17:54Z",
+          "channelId": "UCOCWQtjt0lzdK0U5RdJedZA",
+          "title": "What happened with Brookfield Asset Management?  Ep. 137",
+          "description": "In this video I start by giving a short update to my portfolio, and then I share the latest news regarding the spin-off I Brookfield asset management. Then I share the latest news regarding 8 financial influencers who are being sued for a pump and dump scheme. \n\nTimeline\n0:00 Intro\n0:28 Portfolio update \n1:12 Brookfield Asset Management update\n5:39 Influencers sued\n7:21 Outro\n\n\nBrookfield press release \nhttps://bam.brookfield.com/press-releases/brookfield-corporation-successfully-completes-distribution-25-interest-its-asset\n\nInfluencers are being sued.\nhttps://www.cnbc.com/2022/12/14/sec-charges-social-media-influencers-in-alleged-100-million-fraud-scheme.html\n\nMy Google Sheet https://docs.google.com/spreadsheets/d/1VidoRkFDEUadSF2mKnEd0wioU3zdIHAZkpzI9JNVab0/edit?fbclid=IwAR0QV-LodttyxFw4RQtXdj_kL177PRra3_zzp89HW4u2UXS7sUk3srmoNKI#gid=0\n\n\nFeel free to ask questions, if you don\u00b4t want everyone else to know what you are asking then send a mail to: thelazymoneygame@gmail.com \n\nDisclaimer All investments carry risk, always do your own research before investing. The expressed opinions in this video are my own opinions and expressed purely for entertainment. I'm not a professional investor and this video should not be considered legal or financial advice.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t6-InfKs3ko/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Lazy Money Game",
+          "tags": [
+            "Dividends",
+            "Dividend Growth",
+            "Lazy",
+            "Lazy Money",
+            "Money Game",
+            "Growth",
+            "Dividend growth investing",
+            "LMG",
+            "Portfolio update",
+            "a portfolio that beats the market",
+            "How to beat the Market return.",
+            "How to get rich?",
+            "Why I continue to invest?",
+            "How do I get good returns?",
+            "Investing with good returns?",
+            "How do I get rich?",
+            "How to find the next investment",
+            "What are the best investors doing?",
+            "Being a shameless cloner",
+            "How to mirror the best investors?",
+            "Spin-off ?"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What happened with Brookfield Asset Management?  Ep. 137",
+            "description": "In this video I start by giving a short update to my portfolio, and then I share the latest news regarding the spin-off I Brookfield asset management. Then I share the latest news regarding 8 financial influencers who are being sued for a pump and dump scheme. \n\nTimeline\n0:00 Intro\n0:28 Portfolio update \n1:12 Brookfield Asset Management update\n5:39 Influencers sued\n7:21 Outro\n\n\nBrookfield press release \nhttps://bam.brookfield.com/press-releases/brookfield-corporation-successfully-completes-distribution-25-interest-its-asset\n\nInfluencers are being sued.\nhttps://www.cnbc.com/2022/12/14/sec-charges-social-media-influencers-in-alleged-100-million-fraud-scheme.html\n\nMy Google Sheet https://docs.google.com/spreadsheets/d/1VidoRkFDEUadSF2mKnEd0wioU3zdIHAZkpzI9JNVab0/edit?fbclid=IwAR0QV-LodttyxFw4RQtXdj_kL177PRra3_zzp89HW4u2UXS7sUk3srmoNKI#gid=0\n\n\nFeel free to ask questions, if you don\u00b4t want everyone else to know what you are asking then send a mail to: thelazymoneygame@gmail.com \n\nDisclaimer All investments carry risk, always do your own research before investing. The expressed opinions in this video are my own opinions and expressed purely for entertainment. I'm not a professional investor and this video should not be considered legal or financial advice."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "306",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MZHGtiSs35ROLp8D8nrDS_QVCXU",
+        "id": "rl_MbindCAs",
+        "snippet": {
+          "publishedAt": "2022-02-18T16:47:38Z",
+          "channelId": "UC7jbr29AMpgEPlEXxMcAB8A",
+          "title": "Brookfield Asset Management SPIN-OFF!",
+          "description": "Brookfield Asset Management teased the idea of a spin-off of its Asset Management division into a standalone operation, and if anything is to be taken from the latest earnings call, it appears that it's more a question of WHEN this will happen, and not if.\n\n__________\nResources I Use and Recommend: \n\u25ba Sign up and Get two FREE stocks with Wealthsimple Trade \ud83c\udde8\ud83c\udde6\ud83d\udcb5 (Stock Brokerage): https://my.wealthsimple.com/app/public/trade-referral-signup?code=ZEX3XQ \n\nSocial media:\n\u25ba \ud83d\udcf8 Instagram: https://www.instagram.com/marktalksfinance \n\u25ba \ud83d\udc26 Twitter: https://twitter.com/marktalkfinance \n\nDISCLAIMER: I am not a financial advisor. The contents of this video are personal opinions and experiences, and are for entertainment purposes only. Please consult an appropriate advisor, do your research, and be aware of your financial situation, as you are ultimately responsible for the financial decisions that you make.\n\n#brookfield #canadianstocks #marktalksfinance",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rl_MbindCAs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "checkmark\u2019d",
+          "tags": [
+            "brookfield asset management",
+            "brookfield asset management stock",
+            "brookfield spin off",
+            "brookfield asset management stock analysis",
+            "brookfield earnings call",
+            "canadian investor",
+            "canadian stock",
+            "canadian stocks to buy now",
+            "stock market"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brookfield Asset Management SPIN-OFF!",
+            "description": "Brookfield Asset Management teased the idea of a spin-off of its Asset Management division into a standalone operation, and if anything is to be taken from the latest earnings call, it appears that it's more a question of WHEN this will happen, and not if.\n\n__________\nResources I Use and Recommend: \n\u25ba Sign up and Get two FREE stocks with Wealthsimple Trade \ud83c\udde8\ud83c\udde6\ud83d\udcb5 (Stock Brokerage): https://my.wealthsimple.com/app/public/trade-referral-signup?code=ZEX3XQ \n\nSocial media:\n\u25ba \ud83d\udcf8 Instagram: https://www.instagram.com/marktalksfinance \n\u25ba \ud83d\udc26 Twitter: https://twitter.com/marktalkfinance \n\nDISCLAIMER: I am not a financial advisor. The contents of this video are personal opinions and experiences, and are for entertainment purposes only. Please consult an appropriate advisor, do your research, and be aware of your financial situation, as you are ultimately responsible for the financial decisions that you make.\n\n#brookfield #canadianstocks #marktalksfinance"
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT5M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1179",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uHqLIHKUdXe0ORUw1OCQyPvsBnA",
+        "id": "CzvKJVjpnBM",
+        "snippet": {
+          "publishedAt": "2022-04-16T11:55:49Z",
+          "channelId": "UCUyH4QfXX-5NOT0bULqG6lQ",
+          "title": "The Biggest Trading Loss in Wall Street Banking History",
+          "description": "In this video we go over the crazy story about how JP Morgan, the largest bank in the US, lost $6.2 billion as the result of a rouge trader in the \"risk management\" division.\n\nEmail us: Wallstreetmillennial@gmail.com\n\nCheck out our new website: Wallstreetmillennial.com\n\nSupport us on Patreon: https://www.patreon.com/WallStreetMillennial?fan_landing=true\n\nCheck out our new podcast on Spotify: https://open.spotify.com/show/4UZL13dUPYW1s4XtvHcEwt?si=08579cc0424d4999&nd=1\n\nAll materials in these videos are used for educational purposes and fall within the guidelines of fair use. No copyright infringement intended. If you are or represent the copyright owner of materials used in this video and have a problem with the use of said material, please send me an email, wallstreetmillennial.com, and we can sort it out.\n\n#Wallstreetmillennial #JPMorgan\n \n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nBuddha by Kontekst https://soundcloud.com/kontekstmusic\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported \u2014 CC BY-SA 3.0\nFree Download / Stream: http://bit.ly/2Pe7mBN\nMusic promoted by Audio Library https://youtu.be/b6jK2t3lcRs\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CzvKJVjpnBM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Wall Street Millennial",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Biggest Trading Loss in Wall Street Banking History",
+            "description": "In this video we go over the crazy story about how JP Morgan, the largest bank in the US, lost $6.2 billion as the result of a rouge trader in the \"risk management\" division.\n\nEmail us: Wallstreetmillennial@gmail.com\n\nCheck out our new website: Wallstreetmillennial.com\n\nSupport us on Patreon: https://www.patreon.com/WallStreetMillennial?fan_landing=true\n\nCheck out our new podcast on Spotify: https://open.spotify.com/show/4UZL13dUPYW1s4XtvHcEwt?si=08579cc0424d4999&nd=1\n\nAll materials in these videos are used for educational purposes and fall within the guidelines of fair use. No copyright infringement intended. If you are or represent the copyright owner of materials used in this video and have a problem with the use of said material, please send me an email, wallstreetmillennial.com, and we can sort it out.\n\n#Wallstreetmillennial #JPMorgan\n \n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nBuddha by Kontekst https://soundcloud.com/kontekstmusic\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported \u2014 CC BY-SA 3.0\nFree Download / Stream: http://bit.ly/2Pe7mBN\nMusic promoted by Audio Library https://youtu.be/b6jK2t3lcRs\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT12M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "100654",
+          "likeCount": "2355",
+          "favoriteCount": "0",
+          "commentCount": "278"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "b12j_EV-Dg59FQx0BUlZtqs-S1k",
+        "id": "E9iGe0n8MIU",
+        "snippet": {
+          "publishedAt": "2022-01-07T19:52:34Z",
+          "channelId": "UC5D18IyKtwxlSWVgEVfxBCQ",
+          "title": "Jeffrey Sherman interview - Yahoo Finance 1-4-22",
+          "description": "DoubleLine deputy CIO, Jeffrey Sherman sits down for an interview with Yahoo Finance's, Brian Sozzi during DoubleLine's Round Table Prime. Original recording date: 1-4-22\n\n\u2022 This material contains the opinions of the manager as of the date it was recorded and such opinions are subject to change without notice.\n\n\u2022 The material represents DoubleLine\u2019s intellectual property. No portion of this presentation may be published, reproduced, transmitted, or rebroadcast in any media in any form without the express written permission of DoubleLine.  To receive permission from DoubleLine, please contact media@doubleline.com.\n\n\u2022 The views and forecasts expressed in any materials on this website are as of the date indicated, are subject to change without notice, may not come to pass and do not represent a recommendation or offer of any particular security, strategy, or investment. DoubleLine has no obligation to provide revised assessments in the event of changed circumstances. There can be no assurance that the strategies described will achieve their objectives and goals. \n\n\u2022 DoubleLine\u00ae is a registered trademark of DoubleLine Capital LP.\n\n\u2022 \u00a92022 DoubleLine",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E9iGe0n8MIU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DoubleLine Capital",
+          "tags": [
+            "DoubleLine",
+            "Jeffrey Sherman",
+            "Brian Sozzi",
+            "Yahoo Finance"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jeffrey Sherman interview - Yahoo Finance 1-4-22",
+            "description": "DoubleLine deputy CIO, Jeffrey Sherman sits down for an interview with Yahoo Finance's, Brian Sozzi during DoubleLine's Round Table Prime. Original recording date: 1-4-22\n\n\u2022 This material contains the opinions of the manager as of the date it was recorded and such opinions are subject to change without notice.\n\n\u2022 The material represents DoubleLine\u2019s intellectual property. No portion of this presentation may be published, reproduced, transmitted, or rebroadcast in any media in any form without the express written permission of DoubleLine.  To receive permission from DoubleLine, please contact media@doubleline.com.\n\n\u2022 The views and forecasts expressed in any materials on this website are as of the date indicated, are subject to change without notice, may not come to pass and do not represent a recommendation or offer of any particular security, strategy, or investment. DoubleLine has no obligation to provide revised assessments in the event of changed circumstances. There can be no assurance that the strategies described will achieve their objectives and goals. \n\n\u2022 DoubleLine\u00ae is a registered trademark of DoubleLine Capital LP.\n\n\u2022 \u00a92022 DoubleLine"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1977",
+          "likeCount": "53",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Atb0FpTJ8WEJjHR22OM0deWmAWA",
+        "id": "44aCyrz7eL4",
+        "snippet": {
+          "publishedAt": "2022-10-09T16:07:50Z",
+          "channelId": "UCLUxbcv4XvqB-ihz1r0P_pw",
+          "title": "Impact Investing, ESG & Sustainable Investment",
+          "description": "Richard Betts, Group Publisher, Real Asset Media (Moderator)\n\r\r\nMaximilian Riede, Head ESG Germany, Swiss Life Asset Managers\r\nVincent Bryant, co-founder and CEO, Deepki\r\nJens B\u00f6hnlein, Global Head of Asset Management and Sustainability, Commerz Real AG\n\rPaul Wessels, Founder, Blue Module\r\nSebastian Kreutel, Director, PwC\n\rJan Petr, Head of Asset Management, Germany, Schroders Capital",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/44aCyrz7eL4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Real Asset Live TV",
+          "tags": [
+            "Real Estate Investment",
+            "Real Asset Investment",
+            "Business strategy",
+            "investment strategy",
+            "thought leadership",
+            "property",
+            "property investment",
+            "Real Estate",
+            "Real Assets",
+            "Market insight",
+            "market intelligence",
+            "research",
+            "investment research"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Impact Investing, ESG & Sustainable Investment",
+            "description": "Richard Betts, Group Publisher, Real Asset Media (Moderator)\n\r\r\nMaximilian Riede, Head ESG Germany, Swiss Life Asset Managers\r\nVincent Bryant, co-founder and CEO, Deepki\r\nJens B\u00f6hnlein, Global Head of Asset Management and Sustainability, Commerz Real AG\n\rPaul Wessels, Founder, Blue Module\r\nSebastian Kreutel, Director, PwC\n\rJan Petr, Head of Asset Management, Germany, Schroders Capital"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT37M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "86",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Wm4CCSs2ayEbcall3oY6GZCPgUA",
+        "id": "eEOZ9JnubhE",
+        "snippet": {
+          "publishedAt": "2022-02-27T12:45:01Z",
+          "channelId": "UCPAirmcpJgphm89DVBL-SYA",
+          "title": "Brookfield Asset Management (BAM) - Financial Services, Real Estate, Renewable Power, Infrastructure",
+          "description": "Is Brookfield Asset Management (BAM) Stock A Buy? 2022 Fundamental Analysis - Investing in Brookfield Asset Management. In this video, we look at Brookfield Asset Management's Fundamentals. We review Brookfield Asset Management's Business, Key Ratios, and perform a Discounted Cash Flow (DCF) analysis to find the intrinsic value. We review Key Ratios such as Revenue, Net Income, Shares outstanding, Dividends, Payout Ratio, Free Cash Flows (FCF), Financial Leverage, Current Ratio, Debt to Equity Ratio, Return on Equity (ROE), etc. We also look at Brookfield Asset Management's current valuation measurements.\n\nTimestamp\n0:00\u200b Introduction \n0:37 Business Overview\n6:10 Key Ratios Analysis\n15:16\u200b Discounted Cash Flow Analysis / Intrinsic Value\n17:46 Conclusion\n\nBrookfield Asset Management is an alternative asset manager and REIT/Real Estate Investment Manager firm focuses on real estate, renewable power, infrastructure and venture capital and private equity assets. It manages a range of public and private investment products and services for institutional and retail clients. It typically makes investments in sizeable, premier assets across geographies and asset classes. It invests both its own capital as well as capital from other investors. Within private equity and venture capital, it focuses on acquisition, early ventures, control buyouts and financially distressed, buyouts and corporate carve-outs, recapitalizations, convertible, senior and mezzanine financings, operational and capital structure restructuring, strategic re-direction, turnaround, and under-performing midmarket companies. It invests in both public debt and equity markets. It invests in private equity sectors with focus on Business Services include infrastructure, healthcare, road fuel distribution and marketing, construction and real estate; Industrials include manufacturers of automotive batteries, graphite electrodes, returnable plastic packaging, and sanitation management and development; and Residential/ infrastructure services. It targets companies which likely possess underlying real assets, primarily in sectors such as industrial products, building materials, metals, mining, homebuilding, oil and gas, paper and packaging, manufacturing and forest product sectors. It invests globally with focus on North America including Brazil, the United States, Canada; Europe; and Australia; and Asia-Pacific. The firm considers equity investments in the range of $2 million to $500 million. It has a four-year investment period and a 10-year term with two one-year extensions. The firm prefers to take minority stake and majority stake. Brookfield Asset Management Inc. was founded in 1997 and based in Toronto, Canada with additional offices across Northern America; South America; Europe; Middle East and Asia. (Source: Yahoo Finance)\n\nBrookfield Asset Management's Company Website: https://www.brookfield.com/\n\nBrookfield Asset Management's Key Ratios: https://financials.morningstar.com/ratios/r.html?t=BAM\n\nVisit our blogs at Superior North LLC here: https://superiornorthllc.com/\u200b\n\nYou can like us on Facebook here: https://www.facebook.com/SuperiorNort\u200b...\n\nSuperior North LLC\u2019s content is for educational purposes only. The calculators, videos, recommendations, and general investment ideas are not to be actioned with real money. Vyom Joshi is not a professional money manager or a financial advisor. Contact a professional and certified financial advisor before making any financial decisions.\n\nThe information in this presentation should not be considered as a recommendation to buy or sell any particular security and should not be considered as investment advice of any kind. You should not assume that the security discussed in this report is or will be profitable, or references we make in the future will be profitable or equal the performance of the security discussed in this presentation. The report is based on data obtained from sources believed to be reliable but is not guaranteed as being accurate and does not purport to be a complete summary of the available data.\n\n#BrookfieldAssetManagement #BAM #Brookfield #Investing #Fundamentals #IntrinsicValue #KeyRatios #StockAnalysis #DCF #Value #Stocks #DiscountedFreeCashFlow #StockMarket #Review #Analysis #Fundamentals #Finance #StockMarket #ValueInvestor #Valuation #SuperiorNorth #Vyom #VyomJoshi #AssetManagement #RealEstate #RenewablePower #Infrastructure #VentureCapital #PrivateEquity #REIT #JoshTarasoff #GreenleaLaneCapital",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eEOZ9JnubhE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Superior North",
+          "tags": [
+            "Fundamental Analysis",
+            "Investing",
+            "Stocks",
+            "Value Investing",
+            "Vyom",
+            "Vyom Joshi",
+            "Superior North",
+            "Valuation",
+            "Stock Analysis",
+            "Investor",
+            "Value Investor",
+            "Buffett"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brookfield Asset Management (BAM) - Financial Services, Real Estate, Renewable Power, Infrastructure",
+            "description": "Is Brookfield Asset Management (BAM) Stock A Buy? 2022 Fundamental Analysis - Investing in Brookfield Asset Management. In this video, we look at Brookfield Asset Management's Fundamentals. We review Brookfield Asset Management's Business, Key Ratios, and perform a Discounted Cash Flow (DCF) analysis to find the intrinsic value. We review Key Ratios such as Revenue, Net Income, Shares outstanding, Dividends, Payout Ratio, Free Cash Flows (FCF), Financial Leverage, Current Ratio, Debt to Equity Ratio, Return on Equity (ROE), etc. We also look at Brookfield Asset Management's current valuation measurements.\n\nTimestamp\n0:00\u200b Introduction \n0:37 Business Overview\n6:10 Key Ratios Analysis\n15:16\u200b Discounted Cash Flow Analysis / Intrinsic Value\n17:46 Conclusion\n\nBrookfield Asset Management is an alternative asset manager and REIT/Real Estate Investment Manager firm focuses on real estate, renewable power, infrastructure and venture capital and private equity assets. It manages a range of public and private investment products and services for institutional and retail clients. It typically makes investments in sizeable, premier assets across geographies and asset classes. It invests both its own capital as well as capital from other investors. Within private equity and venture capital, it focuses on acquisition, early ventures, control buyouts and financially distressed, buyouts and corporate carve-outs, recapitalizations, convertible, senior and mezzanine financings, operational and capital structure restructuring, strategic re-direction, turnaround, and under-performing midmarket companies. It invests in both public debt and equity markets. It invests in private equity sectors with focus on Business Services include infrastructure, healthcare, road fuel distribution and marketing, construction and real estate; Industrials include manufacturers of automotive batteries, graphite electrodes, returnable plastic packaging, and sanitation management and development; and Residential/ infrastructure services. It targets companies which likely possess underlying real assets, primarily in sectors such as industrial products, building materials, metals, mining, homebuilding, oil and gas, paper and packaging, manufacturing and forest product sectors. It invests globally with focus on North America including Brazil, the United States, Canada; Europe; and Australia; and Asia-Pacific. The firm considers equity investments in the range of $2 million to $500 million. It has a four-year investment period and a 10-year term with two one-year extensions. The firm prefers to take minority stake and majority stake. Brookfield Asset Management Inc. was founded in 1997 and based in Toronto, Canada with additional offices across Northern America; South America; Europe; Middle East and Asia. (Source: Yahoo Finance)\n\nBrookfield Asset Management's Company Website: https://www.brookfield.com/\n\nBrookfield Asset Management's Key Ratios: https://financials.morningstar.com/ratios/r.html?t=BAM\n\nVisit our blogs at Superior North LLC here: https://superiornorthllc.com/\u200b\n\nYou can like us on Facebook here: https://www.facebook.com/SuperiorNort\u200b...\n\nSuperior North LLC\u2019s content is for educational purposes only. The calculators, videos, recommendations, and general investment ideas are not to be actioned with real money. Vyom Joshi is not a professional money manager or a financial advisor. Contact a professional and certified financial advisor before making any financial decisions.\n\nThe information in this presentation should not be considered as a recommendation to buy or sell any particular security and should not be considered as investment advice of any kind. You should not assume that the security discussed in this report is or will be profitable, or references we make in the future will be profitable or equal the performance of the security discussed in this presentation. The report is based on data obtained from sources believed to be reliable but is not guaranteed as being accurate and does not purport to be a complete summary of the available data.\n\n#BrookfieldAssetManagement #BAM #Brookfield #Investing #Fundamentals #IntrinsicValue #KeyRatios #StockAnalysis #DCF #Value #Stocks #DiscountedFreeCashFlow #StockMarket #Review #Analysis #Fundamentals #Finance #StockMarket #ValueInvestor #Valuation #SuperiorNorth #Vyom #VyomJoshi #AssetManagement #RealEstate #RenewablePower #Infrastructure #VentureCapital #PrivateEquity #REIT #JoshTarasoff #GreenleaLaneCapital"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT19M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "891",
+          "likeCount": "40",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "l8Vttdt9mKbNZZymVCGNAGsBsxc",
+        "id": "DchJlB4Dzyk",
+        "snippet": {
+          "publishedAt": "2022-10-11T01:13:22Z",
+          "channelId": "UCtL0nnTeoSVm_ByASbAFsqw",
+          "title": "Asset Allocation and Percentage of Growth Assets (Financial Mappers)",
+          "description": "With Financial Mappers you can explore asset allocation and growth assets for your complete portfolio of investments or separate them into Retirement Accounts and Personal Investments",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DchJlB4Dzyk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Financial Mappers",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Asset Allocation and Percentage of Growth Assets (Financial Mappers)",
+            "description": "With Financial Mappers you can explore asset allocation and growth assets for your complete portfolio of investments or separate them into Retirement Accounts and Personal Investments"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "45",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mmqbWuUNe0lZUv_FSVpwhNZr9Rw",
+        "id": "3mRiNAp13TM",
+        "snippet": {
+          "publishedAt": "2022-04-11T00:14:52Z",
+          "channelId": "UCumYmrTCTWMRt0zS2gFV7hA",
+          "title": "Judy Justice - \"Hustler\" refuses to leave courtroom after her case is dismissed!!",
+          "description": "#JudyJustice #JudgeJudy\nI own Nothing.\nClip Remains Property of Original Owners.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3mRiNAp13TM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bits 'n Pieces",
+          "tags": [
+            "Judy Justice",
+            "Judge Judy",
+            "Clip",
+            "Tv",
+            "Show",
+            "episodes"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Judy Justice - \"Hustler\" refuses to leave courtroom after her case is dismissed!!",
+            "description": "#JudyJustice #JudgeJudy\nI own Nothing.\nClip Remains Property of Original Owners."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3250149",
+          "likeCount": "27097",
+          "favoriteCount": "0",
+          "commentCount": "1750"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4lLIiDV4RnmQIV5M15_x3YINlBQ",
+        "id": "HNwUmMyX3qY",
+        "snippet": {
+          "publishedAt": "2022-12-14T13:00:15Z",
+          "channelId": "UCZj5Af3HwpY1s3svCKDG4_A",
+          "title": "The REAL Portfolio of Mohnish Pabrai.",
+          "description": "Mohnish Pabrai has a very concentrated stock portfolio, if we look at his 13F. But if we look at his international investments, we see a different story. So let's take a closer look at the real stock portfolio of Mohnish Pabrai. And let's try to analyze how he invests over the years, and maybe we can find patterns that we can clone, to make ourselves better investors.\n\n\ud83c\udfa5\nBrookfield Asset Management Analysis - https://youtu.be/BcyNw7aky08\nMicron Analysis - https://youtu.be/win6oGG7zd4\n\nFirst month FREE \ud83d\udc49 https://www.stockinvesting.academy \ud83d\udc48 \nJoin Stock Investing Academy and get access to:\n\ud83d\udcb5 Analysis Table\n\ud83d\uddc2\ufe0f Analysis Library\n\ud83d\udcc8 Elite Investor Portfolios\n\ud83e\uddee 4 Intrinsic Value Calculators\n\ud83c\udf93 Courses\n\n\ud83c\udfaf FREE Investing Calculators - https://www.stockinvesting.academy/free-calculators\nQuickly assess if a company is fairly priced\n\n\ud83d\udcf0 Stock Investing Academy Newsletter - https://stockinvestingacademy.substack.com\nGet your brief weekly investing update - for free\n\n\u2b50\ufe0f Patreon - https://www.patreon.com/c/baldinvestor\nSupport my work directly\n\n\ud83d\uddc3 Content:\n0:00 Mohnish Pabrai Stock Portfolio\n1:34 Seritage Growth Properties \n3:04 Brookfield Asset Management\n4:10 NICE Holdings\n4:52 Rain Industries\n5:38 Edelweiss Financial Services\n6:07 Sunteck Realty\n7:18 Reysas\n8:48 Micron Technology \n10:30 Prosus\n10:59 Finale Analysis of Mohnish Pabrai's stock portfolio\n\n#investing #mohnishpabrai #stockportfolioreview \n\n-----\nCreated with mapchart.net\n-----\n\n\ud83d\udcbb Best Websites For Investors:\nSEEKING ALPHA ($30 OFF) - https://www.sahg6dtr.com/36L15JB/R74QP/\nFINCHAT (15% OFF) - https://finchat.io/?via=bald \nSIMPLY WALL STREET - https://simplywall.st/?via=bald \n\n\ud83d\uddc4\ufe0f Best Portfolio Trackers: \nSHARESIGHT  (4 Months FREE) -https://www.sharesight.com/baldinvestor\nGETQUIN - https://www.qhkv6trk.com/cmp/4ZK1T1/HXP6K/\n\n-----\n\nDisclaimer:\nI am not a financial adviser. This video is for educational and entertainment purposes only. Seek professional help before making any investment decision.\u200b\n\n-----\n\nAffiliate Links: \nSome of the links in my video descriptions are affiliate links, which means, at no extra cost to you, I will make a small commission if you click them and make a purchase.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HNwUmMyX3qY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bald Investor",
+          "tags": [
+            "Stock market",
+            "Warren Buffett",
+            "Stocks",
+            "passive income",
+            "Investing",
+            "Charlie Munger",
+            "Stock",
+            "portfolio",
+            "how to invest",
+            "mohnish pabrai",
+            "value investing",
+            "guy spier",
+            "stock portfolio",
+            "bald investor",
+            "bold investor",
+            "Mohnish Pabrai portfolio",
+            "mohnish pabrai interview",
+            "mohnish pabrai stock portfolio",
+            "mohnish pabrai stocks",
+            "Seritage Growth Properties",
+            "Brookfield Asset Management",
+            "NICE Holdings",
+            "Rain Industries",
+            "Edelweiss Financial Services",
+            "Sunteck Realty",
+            "Reysas",
+            "Micron Technology",
+            "Prosus"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The REAL Portfolio of Mohnish Pabrai.",
+            "description": "Mohnish Pabrai has a very concentrated stock portfolio, if we look at his 13F. But if we look at his international investments, we see a different story. So let's take a closer look at the real stock portfolio of Mohnish Pabrai. And let's try to analyze how he invests over the years, and maybe we can find patterns that we can clone, to make ourselves better investors.\n\n\ud83c\udfa5\nBrookfield Asset Management Analysis - https://youtu.be/BcyNw7aky08\nMicron Analysis - https://youtu.be/win6oGG7zd4\n\nFirst month FREE \ud83d\udc49 https://www.stockinvesting.academy \ud83d\udc48 \nJoin Stock Investing Academy and get access to:\n\ud83d\udcb5 Analysis Table\n\ud83d\uddc2\ufe0f Analysis Library\n\ud83d\udcc8 Elite Investor Portfolios\n\ud83e\uddee 4 Intrinsic Value Calculators\n\ud83c\udf93 Courses\n\n\ud83c\udfaf FREE Investing Calculators - https://www.stockinvesting.academy/free-calculators\nQuickly assess if a company is fairly priced\n\n\ud83d\udcf0 Stock Investing Academy Newsletter - https://stockinvestingacademy.substack.com\nGet your brief weekly investing update - for free\n\n\u2b50\ufe0f Patreon - https://www.patreon.com/c/baldinvestor\nSupport my work directly\n\n\ud83d\uddc3 Content:\n0:00 Mohnish Pabrai Stock Portfolio\n1:34 Seritage Growth Properties \n3:04 Brookfield Asset Management\n4:10 NICE Holdings\n4:52 Rain Industries\n5:38 Edelweiss Financial Services\n6:07 Sunteck Realty\n7:18 Reysas\n8:48 Micron Technology \n10:30 Prosus\n10:59 Finale Analysis of Mohnish Pabrai's stock portfolio\n\n#investing #mohnishpabrai #stockportfolioreview \n\n-----\nCreated with mapchart.net\n-----\n\n\ud83d\udcbb Best Websites For Investors:\nSEEKING ALPHA ($30 OFF) - https://www.sahg6dtr.com/36L15JB/R74QP/\nFINCHAT (15% OFF) - https://finchat.io/?via=bald \nSIMPLY WALL STREET - https://simplywall.st/?via=bald \n\n\ud83d\uddc4\ufe0f Best Portfolio Trackers: \nSHARESIGHT  (4 Months FREE) -https://www.sharesight.com/baldinvestor\nGETQUIN - https://www.qhkv6trk.com/cmp/4ZK1T1/HXP6K/\n\n-----\n\nDisclaimer:\nI am not a financial adviser. This video is for educational and entertainment purposes only. Seek professional help before making any investment decision.\u200b\n\n-----\n\nAffiliate Links: \nSome of the links in my video descriptions are affiliate links, which means, at no extra cost to you, I will make a small commission if you click them and make a purchase."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7717",
+          "likeCount": "190",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "S_ylXOLeMOSMyWTjvPyMJ10pxnI",
+        "id": "bZ6wGzglbB8",
+        "snippet": {
+          "publishedAt": "2022-06-27T19:29:40Z",
+          "channelId": "UCyz6-taovlaOkPsPtK4KNEg",
+          "title": "Investing with KKR\u2019s Joe Bae",
+          "description": "In the latest episode of Exchanges at Goldman Sachs: Great Investors, Joe Bae, Co-CEO of KKR, shares his thoughts with Goldman Sachs\u2019 Alison Mass, Chairman of the Investment Banking Division, about the evolution of the private equity industry, what\u2019s top of mind for CEOs and how the firm is navigating a challenging macro environment.\n\n\n\nDate recorded\nApril 14, 2022\n\nFor more episodes of \u201cExchanges at Goldman Sachs\u201d please visit us at https://www.goldmansachs.com/exchanges/ or subscribe wherever you get your podcasts\n\nThis podcast should not be copied, distributed, published or reproduced, in whole or in part. The information contained in this recording was obtained from publicly available sources, has not been independently verified by Goldman Sachs, may not be current, and Goldman Sachs has no obligation to provide any updates or changes. All price references and market forecasts are as of the date of recording. This podcast is not a product of Goldman Sachs Global Investment Research and the information contained in this podcast is not financial research. The views and opinions expressed in this podcast are not necessarily those of Goldman Sachs and may differ from the views and opinions of other departments or divisions of Goldman Sachs and its affiliates. Goldman Sachs is not providing any financial, economic, legal, accounting, or tax advice or recommendations in this podcast. The information contained in this podcast does not constitute investment advice or an offer to buy or sell securities from any Goldman Sachs entity to the listener and should not be relied upon to evaluate any potential transaction. In addition, the receipt of this podcast by any listener is not to be taken to constitute such person a client of any Goldman Sachs entity. Neither Goldman Sachs nor any of its affiliates makes any representation or warranty, express or implied, as to the accuracy or completeness of the statements or any information contained in this podcast and any liability therefore (including in respect of direct, indirect or consequential loss or damage) is expressly disclaimed.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bZ6wGzglbB8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Goldman Sachs",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Investing with KKR\u2019s Joe Bae",
+            "description": "In the latest episode of Exchanges at Goldman Sachs: Great Investors, Joe Bae, Co-CEO of KKR, shares his thoughts with Goldman Sachs\u2019 Alison Mass, Chairman of the Investment Banking Division, about the evolution of the private equity industry, what\u2019s top of mind for CEOs and how the firm is navigating a challenging macro environment.\n\n\n\nDate recorded\nApril 14, 2022\n\nFor more episodes of \u201cExchanges at Goldman Sachs\u201d please visit us at https://www.goldmansachs.com/exchanges/ or subscribe wherever you get your podcasts\n\nThis podcast should not be copied, distributed, published or reproduced, in whole or in part. The information contained in this recording was obtained from publicly available sources, has not been independently verified by Goldman Sachs, may not be current, and Goldman Sachs has no obligation to provide any updates or changes. All price references and market forecasts are as of the date of recording. This podcast is not a product of Goldman Sachs Global Investment Research and the information contained in this podcast is not financial research. The views and opinions expressed in this podcast are not necessarily those of Goldman Sachs and may differ from the views and opinions of other departments or divisions of Goldman Sachs and its affiliates. Goldman Sachs is not providing any financial, economic, legal, accounting, or tax advice or recommendations in this podcast. The information contained in this podcast does not constitute investment advice or an offer to buy or sell securities from any Goldman Sachs entity to the listener and should not be relied upon to evaluate any potential transaction. In addition, the receipt of this podcast by any listener is not to be taken to constitute such person a client of any Goldman Sachs entity. Neither Goldman Sachs nor any of its affiliates makes any representation or warranty, express or implied, as to the accuracy or completeness of the statements or any information contained in this podcast and any liability therefore (including in respect of direct, indirect or consequential loss or damage) is expressly disclaimed."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT32M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9750",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YVE5fdZvZrp8s-boftRdIS8Ygsk",
+        "id": "lnphCswTFsw",
+        "snippet": {
+          "publishedAt": "2022-12-18T18:11:24Z",
+          "channelId": "UCBmIztCiBMr8tA7iuuRhk3Q",
+          "title": "Why Billionaires Are Investing in REITs in 2023 (You Should Too)",
+          "description": "Over the last couple of years, we have been seeing a lot of those multi billionaires putting their money into REITs, otherwise known as real estate investment trust. Some of the richest and most well known investors have been stacking up shares in several of those companies. Warren Buffett, Blackrock\u2019s Stephen Schwarzman, and Brookfield\u2019s CEO Bruce Flatt are just a small part of the long list of investors that are interested in REITs. Another strange name that has recently come up is no other that the famous Michael Burry. The investor, just recently bough heavily into one former REIT, despite the fact that he is known for betting against the house market in 2008.\n\n If you like our team and the videos we upload, please subscribe to our channel \ud83d\udd14\u27a1\ufe0f https://bit.ly/3BlkdZ1\n\nHere are some other videos you might like:\n\nBest Dividend Stocks for 2023: Which stocks are worth investing in?\u27a1\ufe0fbit.ly/3hDGRWv\n\nHow to Live Off of Dividends by The End of 2022 \u27a1\ufe0f https://bit.ly/3Da17Hx\n\nWhy Kevin O'Leary holds Dividend Stocks during Recession \u27a1\ufe0fhttps://bit.ly/3dajeCL\n\nMy personal Top 15 Dividend Stocks for 2022 Recession\u27a1\ufe0fhttps://bit.ly/3U3FxdY\n\nWhich High Yield Dividend Stocks should you Buy during Recession \u27a1\ufe0fhttps://bit.ly/3do2fNl\n\nHow the Death of Queen Elizabeth will affect The British Economy\u27a1\ufe0fhttps://bit.ly/3Bwh9Jj\n\nWhy YOU Should Start Dividend Investing Yesterday | Snowball Effect\u27a1\ufe0fhttps://bit.ly/3dwHvDh\n\nMobilization In Russia = Economical Suicide?\u27a1\ufe0fhttps://bit.ly/3Cw6xdY\n\nCHECK OUT OUR NEWEST SERIES:\nWhich is The Best Dividend ETF Episode 1 - QYLD\u27a1\ufe0fhttps://bit.ly/3r6CpAJ\n\nWhich is The Best Dividend ETF Episode 2 - SCHD \u27a1\ufe0f http://bit.ly/3tdDp75\n\nWhich is The Best Dividend ETF Episode 3 - WPS \u27a1\ufe0fhttp://bit.ly/3gAfUT9\n\nWhich is The Best Dividend ETF Episode 4 - QYLD \u27a1\ufe0f http://bit.ly/3hqJ5IL\n\nDISCLAIMER\nThis video is not to be considered financial advice. The channel owner is not responsible in any way for future losses! Please do your research!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lnphCswTFsw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dividend Bear",
+          "tags": [
+            "real estate investing",
+            "passive income",
+            "stock market",
+            "real estate investing for beginners",
+            "investing in real estate",
+            "real estate"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why Billionaires Are Investing in REITs in 2023 (You Should Too)",
+            "description": "Over the last couple of years, we have been seeing a lot of those multi billionaires putting their money into REITs, otherwise known as real estate investment trust. Some of the richest and most well known investors have been stacking up shares in several of those companies. Warren Buffett, Blackrock\u2019s Stephen Schwarzman, and Brookfield\u2019s CEO Bruce Flatt are just a small part of the long list of investors that are interested in REITs. Another strange name that has recently come up is no other that the famous Michael Burry. The investor, just recently bough heavily into one former REIT, despite the fact that he is known for betting against the house market in 2008.\n\n If you like our team and the videos we upload, please subscribe to our channel \ud83d\udd14\u27a1\ufe0f https://bit.ly/3BlkdZ1\n\nHere are some other videos you might like:\n\nBest Dividend Stocks for 2023: Which stocks are worth investing in?\u27a1\ufe0fbit.ly/3hDGRWv\n\nHow to Live Off of Dividends by The End of 2022 \u27a1\ufe0f https://bit.ly/3Da17Hx\n\nWhy Kevin O'Leary holds Dividend Stocks during Recession \u27a1\ufe0fhttps://bit.ly/3dajeCL\n\nMy personal Top 15 Dividend Stocks for 2022 Recession\u27a1\ufe0fhttps://bit.ly/3U3FxdY\n\nWhich High Yield Dividend Stocks should you Buy during Recession \u27a1\ufe0fhttps://bit.ly/3do2fNl\n\nHow the Death of Queen Elizabeth will affect The British Economy\u27a1\ufe0fhttps://bit.ly/3Bwh9Jj\n\nWhy YOU Should Start Dividend Investing Yesterday | Snowball Effect\u27a1\ufe0fhttps://bit.ly/3dwHvDh\n\nMobilization In Russia = Economical Suicide?\u27a1\ufe0fhttps://bit.ly/3Cw6xdY\n\nCHECK OUT OUR NEWEST SERIES:\nWhich is The Best Dividend ETF Episode 1 - QYLD\u27a1\ufe0fhttps://bit.ly/3r6CpAJ\n\nWhich is The Best Dividend ETF Episode 2 - SCHD \u27a1\ufe0f http://bit.ly/3tdDp75\n\nWhich is The Best Dividend ETF Episode 3 - WPS \u27a1\ufe0fhttp://bit.ly/3gAfUT9\n\nWhich is The Best Dividend ETF Episode 4 - QYLD \u27a1\ufe0f http://bit.ly/3hqJ5IL\n\nDISCLAIMER\nThis video is not to be considered financial advice. The channel owner is not responsible in any way for future losses! Please do your research!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5294",
+          "likeCount": "175",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ccLp23Qgxm8BgU2VQGU0wGcMVp0",
+        "id": "9bCvVuE7AnA",
+        "snippet": {
+          "publishedAt": "2022-04-01T16:30:01Z",
+          "channelId": "UCQvSqObd4nnhUWRm7fkRiRA",
+          "title": "TREVENA INC GET READY FOR BIG MOVE | TRVN STOCK ANALYSIS | TRVN STOCK FORECAST | TRVN STOCK UPDATE",
+          "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCQvSqObd4nnhUWRm7fkRiRA/join\n--------------------------------------------------------------\nFor paid consultation / business contacts / queries : sdasgupta.7187@gmail.com\nJoin me on my Telegram : https://t.me/satyajitdasgupta\ufeff (Open telegram and copy and paste this link in the search bar of telegram app)\n--------------------------------------------------------------\nSUPPORT THE CHANNEL : If you think that my channel is creating valuable content, then you can support the channel with your small donation at you free will. If interested reach me click on the donation button, or reach me through mail\n--------------------------------------------------------------\nTREVENA INC GET READY FOR BIG MOVE | TRVN STOCK UPDATE |  TRVN STOCK TARGET |  TRVN STOCK ANALYSIS |  TRVN STOCK NEWS |  TRVN STOCK FORECAST |  TRVN STOCK REVIEW |  TRVN STOCK FORUM |  TRVN STOCK |  TRVN STOCK BUY OR SELL |  TRVN STOCK AFTER HOURS\n--------------------------------------------------------------\nHi, I am Satyajit Dasgupta, and heartily welcomes you to my channel\n--------------------------------------------------------------\nAbout the video: Hello friends, in this video of my You Tube Channel, I am going to discuss about TREVENA INC GET READY FOR BIG MOVE | TRVN STOCK UPDATE |  TRVN STOCK TARGET |  TRVN STOCK ANALYSIS |  TRVN STOCK NEWS |  TRVN STOCK FORECAST |  TRVN STOCK REVIEW |  TRVN STOCK FORUM |  TRVN STOCK |  TRVN STOCK BUY OR SELL |  TRVN STOCK AFTER HOURS\n\nBOOK ON HOW TO SELECT STOCKS\nLink : https://amzn.to/3ekW73E\nLink : https://amzn.to/2Z16lzI\n\n\nFor more videos :\nhttps://www.youtube.com/satyajitdasgupta?sub_confirmation=1\n\nTechnical analysis of chart\u2019s playlist link : https://www.youtube.com/watch?v=TW3wohqCwWA&list=PLNVadTErd0ne201nM6oOh88wkC7vwkGfG\n\nFinancial Ratio Analysis playlist Series link: https://www.youtube.com/watch?v=aJ6iU-vKO24&list=PLNVadTErd0ndGkRaB3kUzbhX8PT72p1WD\n\nStock Analysis and Trend Forecasting series: https://www.youtube.com/watch?v=m_Kz-tky2uU&list=PLNVadTErd0nfYHpleKgNFKDm-Rzb4F3P_\n\nEconomic and Stock Market Indicators Series: https://www.youtube.com/watch?v=t6K2oGORZLk&list=PLNVadTErd0nesIyRZPaKUpCTBKjq5arg7\n\nInvesting Series: https://www.youtube.com/watch?v=K0M_mqqi9d4&list=PLNVadTErd0nfOOAbSshRdkbyISLWaRVbi\n\nHow to select a company / stock Series: https://www.youtube.com/watch?v=LlLhWENDoE8&list=PLNVadTErd0netgmKl-TTxhStX_h7aVX5K\n\nUS Market:https://www.youtube.com/watch?v=itq2dFytJMY&list=PLNVadTErd0neXIjJmbpc4x_gjcvPwVwKa \n\nTrading Tutorial Series: https://www.youtube.com/watch?v=fMAkwfGpl9g&list=PLNVadTErd0nc20kWbrFB8xyROmn0pnIgo\n\n\nDisclaimer:\nThis content is specifically for educational purpose and I am not recommending or suggesting any trading or investing ideas out of this. Money spent on any financial instruments (equities, stocks, bonds, mutual funds etc.) requires due diligence and it is the sole responsibility of that individual before taking any financial decisions\n\nPlease like, share and subscribe the channel \n--------------------------------------------------------------------\nAbout the channel:\nI will provide educational, informative and stock/financial market (#satyajitdasgupta,#trevena,#trvn,#multibaggershare) related contents in this channel\n-----------------------------------------",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9bCvVuE7AnA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SATYAJIT DASGUPTA",
+          "tags": [
+            "usa",
+            "united states",
+            "trevena",
+            "trevena stock target",
+            "trevena stock price",
+            "trevena stock target 2025",
+            "trevena stock forecast",
+            "trevena stock twits",
+            "trevena stock price forecast",
+            "trevena stock reddit",
+            "trevena price prediction",
+            "trevena price target",
+            "trevena stock after hours",
+            "trevena stock buy or sell",
+            "trvn stock price",
+            "trvn stock target 2025",
+            "trvn stock forecast",
+            "trvn stock twits",
+            "trvn stock price forecast",
+            "trvn share price target",
+            "trvn stock reddit",
+            "trvn price prediction"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "TREVENA INC GET READY FOR BIG MOVE | TRVN STOCK ANALYSIS | TRVN STOCK FORECAST | TRVN STOCK UPDATE",
+            "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCQvSqObd4nnhUWRm7fkRiRA/join\n--------------------------------------------------------------\nFor paid consultation / business contacts / queries : sdasgupta.7187@gmail.com\nJoin me on my Telegram : https://t.me/satyajitdasgupta\ufeff (Open telegram and copy and paste this link in the search bar of telegram app)\n--------------------------------------------------------------\nSUPPORT THE CHANNEL : If you think that my channel is creating valuable content, then you can support the channel with your small donation at you free will. If interested reach me click on the donation button, or reach me through mail\n--------------------------------------------------------------\nTREVENA INC GET READY FOR BIG MOVE | TRVN STOCK UPDATE |  TRVN STOCK TARGET |  TRVN STOCK ANALYSIS |  TRVN STOCK NEWS |  TRVN STOCK FORECAST |  TRVN STOCK REVIEW |  TRVN STOCK FORUM |  TRVN STOCK |  TRVN STOCK BUY OR SELL |  TRVN STOCK AFTER HOURS\n--------------------------------------------------------------\nHi, I am Satyajit Dasgupta, and heartily welcomes you to my channel\n--------------------------------------------------------------\nAbout the video: Hello friends, in this video of my You Tube Channel, I am going to discuss about TREVENA INC GET READY FOR BIG MOVE | TRVN STOCK UPDATE |  TRVN STOCK TARGET |  TRVN STOCK ANALYSIS |  TRVN STOCK NEWS |  TRVN STOCK FORECAST |  TRVN STOCK REVIEW |  TRVN STOCK FORUM |  TRVN STOCK |  TRVN STOCK BUY OR SELL |  TRVN STOCK AFTER HOURS\n\nBOOK ON HOW TO SELECT STOCKS\nLink : https://amzn.to/3ekW73E\nLink : https://amzn.to/2Z16lzI\n\n\nFor more videos :\nhttps://www.youtube.com/satyajitdasgupta?sub_confirmation=1\n\nTechnical analysis of chart\u2019s playlist link : https://www.youtube.com/watch?v=TW3wohqCwWA&list=PLNVadTErd0ne201nM6oOh88wkC7vwkGfG\n\nFinancial Ratio Analysis playlist Series link: https://www.youtube.com/watch?v=aJ6iU-vKO24&list=PLNVadTErd0ndGkRaB3kUzbhX8PT72p1WD\n\nStock Analysis and Trend Forecasting series: https://www.youtube.com/watch?v=m_Kz-tky2uU&list=PLNVadTErd0nfYHpleKgNFKDm-Rzb4F3P_\n\nEconomic and Stock Market Indicators Series: https://www.youtube.com/watch?v=t6K2oGORZLk&list=PLNVadTErd0nesIyRZPaKUpCTBKjq5arg7\n\nInvesting Series: https://www.youtube.com/watch?v=K0M_mqqi9d4&list=PLNVadTErd0nfOOAbSshRdkbyISLWaRVbi\n\nHow to select a company / stock Series: https://www.youtube.com/watch?v=LlLhWENDoE8&list=PLNVadTErd0netgmKl-TTxhStX_h7aVX5K\n\nUS Market:https://www.youtube.com/watch?v=itq2dFytJMY&list=PLNVadTErd0neXIjJmbpc4x_gjcvPwVwKa \n\nTrading Tutorial Series: https://www.youtube.com/watch?v=fMAkwfGpl9g&list=PLNVadTErd0nc20kWbrFB8xyROmn0pnIgo\n\n\nDisclaimer:\nThis content is specifically for educational purpose and I am not recommending or suggesting any trading or investing ideas out of this. Money spent on any financial instruments (equities, stocks, bonds, mutual funds etc.) requires due diligence and it is the sole responsibility of that individual before taking any financial decisions\n\nPlease like, share and subscribe the channel \n--------------------------------------------------------------------\nAbout the channel:\nI will provide educational, informative and stock/financial market (#satyajitdasgupta,#trevena,#trvn,#multibaggershare) related contents in this channel\n-----------------------------------------"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "234",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_XaWyYhbymrtRwMZdUM0NPvo3Bk",
+        "id": "kIdlXPP-JzE",
+        "snippet": {
+          "publishedAt": "2022-12-13T05:59:26Z",
+          "channelId": "UCnlyaLgmqTcmXLRLLfH1Rsg",
+          "title": "Brookfield Spin-off! I OWN IT! BAM Stock Analysis! Buy More?",
+          "description": "Brookfield Corp. (BN stock) has crushed the market indices over the last few decades, growing at nearly 19% annualized. They recently announced a SPIN OFF of 25% of their asset management business, Brookfield Asset Management (BAM Stock).  In this video I discuss BAM's valuation and my thoughts on future potential returns.  I own both BN and BAM stock at the time of this video publication.\n\n...\n\nIf you're ready to take charge of your financial journey, check out:\n\n\u2705 : https://www.unrivaledinvesting.com\n\n\ud83d\udca1UNRIVALED INVESTING MEMBERSHIP: Includes frequent letters with new stock ideas, stock market commentary, real-money portfolio updates, and a community of likeminded investors at Discord (for annual subscribers). \n\n....\n\n\ud83c\udf93 EDUCATIONAL COURSES!\n\n\u25ba Learn how to RESEARCH financial statements: https://www.unrivaledinvesting.com/offers/tNF3eawN\n\n\u25ba Learn how to VALUE stocks:  https://www.unrivaledinvesting.com/offers/npFaoSCg\n\n...\n\n\ud83d\udcc8: Which investment brokerage do I use to buy and sell investments?\n\n\u25ba Interactive Brokers Link: https://www.interactivebrokers.com/mkt/?src=unrivaledNPY1&url=%2Fen%2Findex.php%3Ff%3D1338\n\n...\n\n\ud83d\udcfd\ufe0f Have a priority video request? \nhttps://unrivaledinvesting.mykajabi.com/offers/bWYoTxgo/checkout\n\n\ud83d\udc26 Twitter: @UnrivaledInvest\n\nDISCLAIMER:\nThis video is purely for informational and educational purposes. This is NOT investment advice. You should not treat any opinion expressed by Daniel or Unrivaled Investing as a specific inducement to make a particular investment or follow a particular strategy but only as an expression of opinion. Daniel and Unrivaled Investing are not under any obligation to update or correct any information provided on this website or in these videos. Daniel and Unrivaled Investing\u2019s statements and opinions are subject to change without notice. \n\nYou should be aware of the real risk of loss in following any strategy or investment discussed in this video or on this website. Strategies or investments discussed may fluctuate in price or value. Investors may get back less than invested. Investments or strategies mentioned by Daniel or Unrivaled Investing may not be suitable for you. Past performance is not indicative of future results. \n\nAt the time of this video publication I owned stock in both Brookfield (BN) and Brookfield Asset Management (BAM). \n\nINTERACTIVE BROKERS DISCLAIMER: \nInteractive Brokers provides execution and clearing services to its customers. UNRIVALED INVESTING is not affiliated with, recommended by or an agent of Interactive Brokers. Interactive Brokers makes no representation and assumes no liability to the accuracy or completeness of the information provided in this video. For more information regarding Interactive Brokers, please visit www.interactivebrokers.com.\n\nNone of the information contained herein constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Investment involves risks. Investors should obtain\ntheir own independent financial advice and understand the risks associated with investment products/ services before making investment decisions. Risk disclosure statements can be found on the Interactive Brokers website.\n\nUNRIVALED INVESTING is a customer of Interactive Brokers. Interactive Brokers and UNRIVALED INVESTING have entered into a cost-per-click agreement under which Interactive pays Unrivaled Investing a fee for each click-through of the Interactive Brokers URL posted herein.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kIdlXPP-JzE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "UNRIVALED INVESTING",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brookfield Spin-off! I OWN IT! BAM Stock Analysis! Buy More?",
+            "description": "Brookfield Corp. (BN stock) has crushed the market indices over the last few decades, growing at nearly 19% annualized. They recently announced a SPIN OFF of 25% of their asset management business, Brookfield Asset Management (BAM Stock).  In this video I discuss BAM's valuation and my thoughts on future potential returns.  I own both BN and BAM stock at the time of this video publication.\n\n...\n\nIf you're ready to take charge of your financial journey, check out:\n\n\u2705 : https://www.unrivaledinvesting.com\n\n\ud83d\udca1UNRIVALED INVESTING MEMBERSHIP: Includes frequent letters with new stock ideas, stock market commentary, real-money portfolio updates, and a community of likeminded investors at Discord (for annual subscribers). \n\n....\n\n\ud83c\udf93 EDUCATIONAL COURSES!\n\n\u25ba Learn how to RESEARCH financial statements: https://www.unrivaledinvesting.com/offers/tNF3eawN\n\n\u25ba Learn how to VALUE stocks:  https://www.unrivaledinvesting.com/offers/npFaoSCg\n\n...\n\n\ud83d\udcc8: Which investment brokerage do I use to buy and sell investments?\n\n\u25ba Interactive Brokers Link: https://www.interactivebrokers.com/mkt/?src=unrivaledNPY1&url=%2Fen%2Findex.php%3Ff%3D1338\n\n...\n\n\ud83d\udcfd\ufe0f Have a priority video request? \nhttps://unrivaledinvesting.mykajabi.com/offers/bWYoTxgo/checkout\n\n\ud83d\udc26 Twitter: @UnrivaledInvest\n\nDISCLAIMER:\nThis video is purely for informational and educational purposes. This is NOT investment advice. You should not treat any opinion expressed by Daniel or Unrivaled Investing as a specific inducement to make a particular investment or follow a particular strategy but only as an expression of opinion. Daniel and Unrivaled Investing are not under any obligation to update or correct any information provided on this website or in these videos. Daniel and Unrivaled Investing\u2019s statements and opinions are subject to change without notice. \n\nYou should be aware of the real risk of loss in following any strategy or investment discussed in this video or on this website. Strategies or investments discussed may fluctuate in price or value. Investors may get back less than invested. Investments or strategies mentioned by Daniel or Unrivaled Investing may not be suitable for you. Past performance is not indicative of future results. \n\nAt the time of this video publication I owned stock in both Brookfield (BN) and Brookfield Asset Management (BAM). \n\nINTERACTIVE BROKERS DISCLAIMER: \nInteractive Brokers provides execution and clearing services to its customers. UNRIVALED INVESTING is not affiliated with, recommended by or an agent of Interactive Brokers. Interactive Brokers makes no representation and assumes no liability to the accuracy or completeness of the information provided in this video. For more information regarding Interactive Brokers, please visit www.interactivebrokers.com.\n\nNone of the information contained herein constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Investment involves risks. Investors should obtain\ntheir own independent financial advice and understand the risks associated with investment products/ services before making investment decisions. Risk disclosure statements can be found on the Interactive Brokers website.\n\nUNRIVALED INVESTING is a customer of Interactive Brokers. Interactive Brokers and UNRIVALED INVESTING have entered into a cost-per-click agreement under which Interactive pays Unrivaled Investing a fee for each click-through of the Interactive Brokers URL posted herein."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT11M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27579",
+          "likeCount": "861",
+          "favoriteCount": "0",
+          "commentCount": "66"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WX9gSH0r_gHCPtxmj7cXzbJQLds",
+        "id": "H5E-qdbwCJ0",
+        "snippet": {
+          "publishedAt": "2022-07-08T14:17:54Z",
+          "channelId": "UCyz6-taovlaOkPsPtK4KNEg",
+          "title": "Investing with KKR\u2019s Tara Davies",
+          "description": "How is one of the most senior dealmakers in Europe navigating inflationary pressures? In the latest episode of Exchanges at Goldman Sachs: Great Investors, Tara Davies, Partner, Global Head of Core Infrastructure and Co-head of European Infrastructure at KKR, talks with Goldman Sachs\u2019 Alison Mass, Chairman of the Investment Banking Division, about the European infrastructure space and the inflation pass-through mechanic in infrastructure assets.\n\nRecorded on March 17, 2022\n\nFor more episodes of \u201cExchanges at Goldman Sachs\u201d please visit us at https://www.goldmansachs.com/exchanges/ or subscribe wherever you get your podcasts \n\nThis podcast should not be copied, distributed, published or reproduced, in whole or in part. The information contained in this recording was obtained from publicly available sources, has not been independently verified by Goldman Sachs, may not be current, and Goldman Sachs has no obligation to provide any updates or changes. All price references and market forecasts are as of the date of recording. This podcast is not a product of Goldman Sachs Global Investment Research and the information contained in this podcast is not financial research. The views and opinions expressed in this podcast are not necessarily those of Goldman Sachs and may differ from the views and opinions of other departments or divisions of Goldman Sachs and its affiliates. Goldman Sachs is not providing any financial, economic, legal, accounting, or tax advice or recommendations in this podcast. The information contained in this podcast does not constitute investment advice or an offer to buy or sell securities from any Goldman Sachs entity to the listener and should not be relied upon to evaluate any potential transaction. In addition, the receipt of this podcast by any listener is not to be taken to constitute such person a client of any Goldman Sachs entity. Neither Goldman Sachs nor any of its affiliates makes any representation or warranty, express or implied, as to the accuracy or completeness of the statements or any information contained in this podcast and any liability therefore (including in respect of direct, indirect or consequential loss or damage) is expressly disclaimed.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H5E-qdbwCJ0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Goldman Sachs",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Investing with KKR\u2019s Tara Davies",
+            "description": "How is one of the most senior dealmakers in Europe navigating inflationary pressures? In the latest episode of Exchanges at Goldman Sachs: Great Investors, Tara Davies, Partner, Global Head of Core Infrastructure and Co-head of European Infrastructure at KKR, talks with Goldman Sachs\u2019 Alison Mass, Chairman of the Investment Banking Division, about the European infrastructure space and the inflation pass-through mechanic in infrastructure assets.\n\nRecorded on March 17, 2022\n\nFor more episodes of \u201cExchanges at Goldman Sachs\u201d please visit us at https://www.goldmansachs.com/exchanges/ or subscribe wherever you get your podcasts \n\nThis podcast should not be copied, distributed, published or reproduced, in whole or in part. The information contained in this recording was obtained from publicly available sources, has not been independently verified by Goldman Sachs, may not be current, and Goldman Sachs has no obligation to provide any updates or changes. All price references and market forecasts are as of the date of recording. This podcast is not a product of Goldman Sachs Global Investment Research and the information contained in this podcast is not financial research. The views and opinions expressed in this podcast are not necessarily those of Goldman Sachs and may differ from the views and opinions of other departments or divisions of Goldman Sachs and its affiliates. Goldman Sachs is not providing any financial, economic, legal, accounting, or tax advice or recommendations in this podcast. The information contained in this podcast does not constitute investment advice or an offer to buy or sell securities from any Goldman Sachs entity to the listener and should not be relied upon to evaluate any potential transaction. In addition, the receipt of this podcast by any listener is not to be taken to constitute such person a client of any Goldman Sachs entity. Neither Goldman Sachs nor any of its affiliates makes any representation or warranty, express or implied, as to the accuracy or completeness of the statements or any information contained in this podcast and any liability therefore (including in respect of direct, indirect or consequential loss or damage) is expressly disclaimed."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4223",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D3mnk7LzVXawZhhI3Y5WaUSDbwo",
+        "id": "DHtnj8-pnYs",
+        "snippet": {
+          "publishedAt": "2022-12-15T19:25:20Z",
+          "channelId": "UCjK40LwGEYMmcP3do8S7Hig",
+          "title": "Multifamily Asset Management Through Turbulent Times With Shane Carter",
+          "description": "Welcome to Real Estate Hustlers, where we sit down with top industry leaders and entrepreneurs to discuss their experiences, strategies, and insights in the world of real estate.\n\nToday, we have Shane Carter, President and CEO of Hampshire Capital, LLC. Shane has been in the real estate industry for over 24 years, and has acquired, renovated, and managed over $215MM in multi-family and commercial assets. He has also developed and built over $110MM in real estate through his construction and development firm.\n\nStay tuned as we dive into Shane's journey as a successful real estate entrepreneur and get his insights on the current state of the industry.\n\n*Connect With Shane*\nshane@hampshire.capital\nwww.hampshire.capital\n\nJoin my Facebook Community of real estate hustlers: https://www.facebook.com/groups/reale... \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\n\u26a0\ufe0f #CreativeFinance #Investing #Wealth #RealEstateInvesting #Wholesaling #SubjectTo #HowToGetStartedInRealEstate #multifamily #success #realestate\u26a0\ufe0f\n\n\ud83d\udea7\ud83d\udea7\ud83d\udea7 DISCLAIMER \ud83d\udea7\ud83d\udea7\ud83d\udea7\n\n \u274e I am not a CPA, attorney, insurance, contractor, lender, or financial advisor. The content in these videos shall not be construed as tax, legal, insurance, construction, engineering, health & safety, electrical, financial advice, or other and may be outdated or inaccurate; it is your responsibility to verify all information yourself. This is a YouTube video for entertainment purposes ONLY \u274e",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DHtnj8-pnYs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Real Estate Hustlers\u00ae",
+          "tags": [
+            "invest",
+            "real estate",
+            "success",
+            "multifamily",
+            "money",
+            "cashflow",
+            "#accredited investor",
+            "apart",
+            "apartment",
+            "apartment multifamily syndication",
+            "cash flow",
+            "commercial",
+            "commercial real estate",
+            "economy",
+            "financial independence",
+            "fix and flip",
+            "house hacking",
+            "multi family",
+            "real estate investing",
+            "rental rates"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Multifamily Asset Management Through Turbulent Times With Shane Carter",
+            "description": "Welcome to Real Estate Hustlers, where we sit down with top industry leaders and entrepreneurs to discuss their experiences, strategies, and insights in the world of real estate.\n\nToday, we have Shane Carter, President and CEO of Hampshire Capital, LLC. Shane has been in the real estate industry for over 24 years, and has acquired, renovated, and managed over $215MM in multi-family and commercial assets. He has also developed and built over $110MM in real estate through his construction and development firm.\n\nStay tuned as we dive into Shane's journey as a successful real estate entrepreneur and get his insights on the current state of the industry.\n\n*Connect With Shane*\nshane@hampshire.capital\nwww.hampshire.capital\n\nJoin my Facebook Community of real estate hustlers: https://www.facebook.com/groups/reale... \u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\n\u26a0\ufe0f #CreativeFinance #Investing #Wealth #RealEstateInvesting #Wholesaling #SubjectTo #HowToGetStartedInRealEstate #multifamily #success #realestate\u26a0\ufe0f\n\n\ud83d\udea7\ud83d\udea7\ud83d\udea7 DISCLAIMER \ud83d\udea7\ud83d\udea7\ud83d\udea7\n\n \u274e I am not a CPA, attorney, insurance, contractor, lender, or financial advisor. The content in these videos shall not be construed as tax, legal, insurance, construction, engineering, health & safety, electrical, financial advice, or other and may be outdated or inaccurate; it is your responsibility to verify all information yourself. This is a YouTube video for entertainment purposes ONLY \u274e"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT27M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "108",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "b7OhGF3Ne7EQogyz6o3nB3NBGmc",
+        "id": "ijfjEaRNZQg",
+        "snippet": {
+          "publishedAt": "2022-07-12T14:32:53Z",
+          "channelId": "UCd6vZjVhBYqznybx9dXT2lA",
+          "title": "Annual Meeting: Featuring A Fireside Chat with Tony Ressler",
+          "description": "Antony (Tony) Ressler | Co-Founder and Executive Chairman | Ares Management Corporation\n\nMr. Ressler is a Co-Founder and the Executive Chairman of Ares Management Corporation. He serves as Chairman of the Ares Executive Management Committee. Mr. Ressler also serves as a member of the Investment Committees of certain funds managed by the Ares Private Equity Group and certain funds managed by the Ares Real Estate Group. Mr. Ressler has been with Ares since its founding in 1997. Mr. Ressler has served on several boards of directors of companies owned or controlled by Ares investment funds. In the not-for-profit sector, Mr. Ressler serves as Co-Chair of the Board of the Los Angeles County Museum of Art (LACMA) and one of the founders and former member of the board of the Painted Turtle Camp (affiliated with Paul Newman's Hole in the Wall Association), which serves children dealing with chronic & life-threatening illnesses by providing old-fashioned camping experiences. In the public education sector, Mr. Ressler is a Founder and former Chairman of the Alliance for College Ready Public Schools. Mr. Ressler also serves as the Principal Owner and Chairman of the Board of Advisors of the Atlanta Hawks Basketball Club. Mr. Ressler also serves at a Senior Advisor to the Hawks Foundation, a not for profit organization focused on building bridges with the metro Atlanta community through basketball. Mr. Ressler received his B.S.F.S. from Georgetown University's School of Foreign Service and received his M.B.A. from Columbia University's Graduate School of Business.\n\nErnie Caballero | Chief Investment Officer | United Parcel Service\n\nErnie is the Chief Investment Officer for UPS.  Ernie has the fiduciary responsibility for all aspects of the investment portfolios for UPS\u2019 Single Employer Defined Benefit Plans.  Assets under management are in excess of $50 billion.  Prior to this he was domiciled in Europe, between Brussels & London, overseeing various aspects of the UPS businesses.  While in Belgium, he held the roles of CFO for UPS Europe & Emerging Markets Strategy Coordinator for Europe, the Middle East, India and Africa.  While living in London, he was responsible for Treasury & Trading Operations, Risk Management, and Mergers Acquisitions within the Europe, Middle East and Africa Asia Pacific Regions.  He has held many other Audit, Finance, & Treasury leadership positions throughout his career.\n\nCaballero is a current board member of CIEBA and Chair of the CIEBA Defined Benefit Committee.  He is a Certified Internal Auditor and a Certified Investments and Derivatives Auditor.  He also holds an MBA in Finance from Kennesaw State University, GA, an MBA in Total Quality Management from Dowling College, NY, and a BS in Electrical Engineering/Industrial Technology from SUNY Farmingdale.  He has also received executive/leadership certificates from Harvard & Emory University.\n\nQualifications: Ihr Professional Learning | CFA Institute Competency Framework Skill = Leadership + Industry Awareness + World Economy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ijfjEaRNZQg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CFA Society Atlanta",
+          "tags": [
+            "asfip",
+            "money",
+            "finance",
+            "financial",
+            "cfa",
+            "society",
+            "investing",
+            "investment",
+            "atlanta"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Annual Meeting: Featuring A Fireside Chat with Tony Ressler",
+            "description": "Antony (Tony) Ressler | Co-Founder and Executive Chairman | Ares Management Corporation\n\nMr. Ressler is a Co-Founder and the Executive Chairman of Ares Management Corporation. He serves as Chairman of the Ares Executive Management Committee. Mr. Ressler also serves as a member of the Investment Committees of certain funds managed by the Ares Private Equity Group and certain funds managed by the Ares Real Estate Group. Mr. Ressler has been with Ares since its founding in 1997. Mr. Ressler has served on several boards of directors of companies owned or controlled by Ares investment funds. In the not-for-profit sector, Mr. Ressler serves as Co-Chair of the Board of the Los Angeles County Museum of Art (LACMA) and one of the founders and former member of the board of the Painted Turtle Camp (affiliated with Paul Newman's Hole in the Wall Association), which serves children dealing with chronic & life-threatening illnesses by providing old-fashioned camping experiences. In the public education sector, Mr. Ressler is a Founder and former Chairman of the Alliance for College Ready Public Schools. Mr. Ressler also serves as the Principal Owner and Chairman of the Board of Advisors of the Atlanta Hawks Basketball Club. Mr. Ressler also serves at a Senior Advisor to the Hawks Foundation, a not for profit organization focused on building bridges with the metro Atlanta community through basketball. Mr. Ressler received his B.S.F.S. from Georgetown University's School of Foreign Service and received his M.B.A. from Columbia University's Graduate School of Business.\n\nErnie Caballero | Chief Investment Officer | United Parcel Service\n\nErnie is the Chief Investment Officer for UPS.  Ernie has the fiduciary responsibility for all aspects of the investment portfolios for UPS\u2019 Single Employer Defined Benefit Plans.  Assets under management are in excess of $50 billion.  Prior to this he was domiciled in Europe, between Brussels & London, overseeing various aspects of the UPS businesses.  While in Belgium, he held the roles of CFO for UPS Europe & Emerging Markets Strategy Coordinator for Europe, the Middle East, India and Africa.  While living in London, he was responsible for Treasury & Trading Operations, Risk Management, and Mergers Acquisitions within the Europe, Middle East and Africa Asia Pacific Regions.  He has held many other Audit, Finance, & Treasury leadership positions throughout his career.\n\nCaballero is a current board member of CIEBA and Chair of the CIEBA Defined Benefit Committee.  He is a Certified Internal Auditor and a Certified Investments and Derivatives Auditor.  He also holds an MBA in Finance from Kennesaw State University, GA, an MBA in Total Quality Management from Dowling College, NY, and a BS in Electrical Engineering/Industrial Technology from SUNY Farmingdale.  He has also received executive/leadership certificates from Harvard & Emory University.\n\nQualifications: Ihr Professional Learning | CFA Institute Competency Framework Skill = Leadership + Industry Awareness + World Economy"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H8M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1029",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7y1ygwP9cVa-4bzoeXp5CaFApE4",
+        "id": "GmsvhUch8LA",
+        "snippet": {
+          "publishedAt": "2022-04-21T14:29:39Z",
+          "channelId": "UCogPcBQNew31mg6n6gbcZDQ",
+          "title": "Principles of Investing in RealEstate",
+          "description": "Realestate investment is the best, secure and surest form of investing you can go into, While it can be very profiting, it can also be very frustrating if not done properly. \n\nIn this video, I shared basic principles that you should take cognizance of before investing in RealEstate.\n1. Seek advice from the right source\n2. Population trend\n3. Organizational Credibility and Reliability\n\nTo help you get started on your RealEstate investment journey, possible and the best ways to invest, available properties with huge ROI, Get in touch with me and I will be glad to hand walk you through the process so you don't get your fingers burnt and so you can create generational wealth for yourself.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GmsvhUch8LA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BethelEhi TV",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Principles of Investing in RealEstate",
+            "description": "Realestate investment is the best, secure and surest form of investing you can go into, While it can be very profiting, it can also be very frustrating if not done properly. \n\nIn this video, I shared basic principles that you should take cognizance of before investing in RealEstate.\n1. Seek advice from the right source\n2. Population trend\n3. Organizational Credibility and Reliability\n\nTo help you get started on your RealEstate investment journey, possible and the best ways to invest, available properties with huge ROI, Get in touch with me and I will be glad to hand walk you through the process so you don't get your fingers burnt and so you can create generational wealth for yourself."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2398",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 19,
+      "resultsPerPage": 19
+    }
+  }
+}

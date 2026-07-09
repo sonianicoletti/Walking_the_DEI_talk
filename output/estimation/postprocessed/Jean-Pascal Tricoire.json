@@ -1,0 +1,306 @@
+{
+  "ceo": "Jean-Pascal Tricoire",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cD-CI7S3_MinZB54NFFp6IUMigQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 96,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q7vGENoT1usxhDkzA4LSgv4DuWI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7VcuXAKOWRo"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-29T09:09:14Z",
+          "channelId": "UCTZqTZrMnTnC9pfTlqddKIg",
+          "title": "Jean-Pascal Tricoire, Chairman, Schneider Electric on India as a global hub for talent",
+          "description": "With the focus on India being the Global Hub for talent, Jean-Pascal Tricoire, Chairman, Schneider Electric takes us through the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Schneider Electric India",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-29T09:09:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vMpJUQsg7RK6Pd1tv1_n7oBm1TE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XficfkTo9w4"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-26T11:17:54Z",
+          "channelId": "UCJPt7cgSt_zlnzbvxkHiLCQ",
+          "title": "ZEBOX Panel With Jean-Pascal TRICOIRE: Sustainable innovation in a large companies.",
+          "description": "ZEBOX was honored to welcome, Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric to discuss sustainable innovation ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ZEBOX",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-26T11:17:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lF6bsX97bWAvCHWqAe16TuxwP6w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3rokd2v7AFk"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-20T11:24:49Z",
+          "channelId": "UCTZqTZrMnTnC9pfTlqddKIg",
+          "title": "Jean-Pascal Tricoire at Elecrama",
+          "description": "We got talking with our global Chairman & CEO, Jean-Pascal Tricoire, about his experience at Elecrama and India's future in the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Schneider Electric India",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-20T11:24:49Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "j_9gcQBWPYwBTph8FNdkE1FR4QM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "LMI1sivwTEBvHfsc_nmgrTJWHko",
+        "id": "7VcuXAKOWRo",
+        "snippet": {
+          "publishedAt": "2023-09-29T09:09:14Z",
+          "channelId": "UCTZqTZrMnTnC9pfTlqddKIg",
+          "title": "Jean-Pascal Tricoire, Chairman, Schneider Electric on India as a global hub for talent",
+          "description": "With the focus on India being the Global Hub for talent, Jean-Pascal Tricoire, Chairman, Schneider Electric takes us through the varied kinds of opportunities that India holds.  \n\nCome join the team - http://spr.ly/6052uH5jK\n.\n.\n#SEGreatPeople #LifeIsOn #SchneiderElectric",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7VcuXAKOWRo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Schneider Electric India",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jean-Pascal Tricoire, Chairman, Schneider Electric on India as a global hub for talent",
+            "description": "With the focus on India being the Global Hub for talent, Jean-Pascal Tricoire, Chairman, Schneider Electric takes us through the varied kinds of opportunities that India holds.  \n\nCome join the team - http://spr.ly/6052uH5jK\n.\n.\n#SEGreatPeople #LifeIsOn #SchneiderElectric"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "360",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pLf_pwZe5GBUsW4zfzuSspDRyj0",
+        "id": "XficfkTo9w4",
+        "snippet": {
+          "publishedAt": "2023-04-26T11:17:54Z",
+          "channelId": "UCJPt7cgSt_zlnzbvxkHiLCQ",
+          "title": "ZEBOX Panel With Jean-Pascal TRICOIRE: Sustainable innovation in a large companies.",
+          "description": "ZEBOX was honored to welcome, Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric to discuss sustainable innovation in large companies.\n\nTwo startups supported by ZEBOX and Gwen Salley, CEO of ZEBOX were on stage to participate in this great panel.\n\nMore upcoming events: https://www.ze-box.io/newsroom",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XficfkTo9w4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ZEBOX",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "ZEBOX Panel With Jean-Pascal TRICOIRE: Sustainable innovation in a large companies.",
+            "description": "ZEBOX was honored to welcome, Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric to discuss sustainable innovation in large companies.\n\nTwo startups supported by ZEBOX and Gwen Salley, CEO of ZEBOX were on stage to participate in this great panel.\n\nMore upcoming events: https://www.ze-box.io/newsroom"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1H24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "118",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PyMZ-_e66stv_VPw2OFJNKUugz0",
+        "id": "3rokd2v7AFk",
+        "snippet": {
+          "publishedAt": "2023-02-20T11:24:49Z",
+          "channelId": "UCTZqTZrMnTnC9pfTlqddKIg",
+          "title": "Jean-Pascal Tricoire at Elecrama",
+          "description": "We got talking with our global Chairman & CEO, Jean-Pascal Tricoire, about his experience at Elecrama and India's future in the energy sector. Visit us at Elecrama, Hall 9, India Expo Center, Greater Noida to know more about how we are reimagining a net-zero future. \n.\n.\n#SchneiderAtElecrama23 #GreenYodha #SchneiderElectric #LifeIsOn",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3rokd2v7AFk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Schneider Electric India",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jean-Pascal Tricoire at Elecrama",
+            "description": "We got talking with our global Chairman & CEO, Jean-Pascal Tricoire, about his experience at Elecrama and India's future in the energy sector. Visit us at Elecrama, Hall 9, India Expo Center, Greater Noida to know more about how we are reimagining a net-zero future. \n.\n.\n#SchneiderAtElecrama23 #GreenYodha #SchneiderElectric #LifeIsOn"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "360",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

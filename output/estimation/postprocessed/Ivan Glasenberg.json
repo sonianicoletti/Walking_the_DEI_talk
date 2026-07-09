@@ -1,0 +1,109 @@
+{
+  "ceo": "Ivan Glasenberg",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WupzhGT0BPpMKag7eaUkAVTGRNk",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 16,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-Btkx3WXMdcwt3nhNaZaNLKpYAE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YkrFakWF6nk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-29T08:04:12Z",
+          "channelId": "UCv8fAFnIJ6jlvDBGvRymM4g",
+          "title": "Vilnius Conference2023. Presentation by Ivan Glasenberg",
+          "description": "Investorsforum #Vilnius #conference Ivan Glasenberg is a South African business executive and former CEO of Glencore, one of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Investors Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-29T08:04:12Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "miLUiiO7YnN7Owim73wHuIDTOvc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "1n47ZdpfwTUtOrHZttm2k2aA4nE",
+        "id": "YkrFakWF6nk",
+        "snippet": {
+          "publishedAt": "2023-09-29T08:04:12Z",
+          "channelId": "UCv8fAFnIJ6jlvDBGvRymM4g",
+          "title": "Vilnius Conference2023. Presentation by Ivan Glasenberg",
+          "description": "#Investorsforum #Vilnius #conference \nIvan Glasenberg is a South African business executive and former CEO of Glencore, one of the world's largest commodity trading and mining companies. I. Glasenberg looked at sustainability from another angle. The growth of electric vehicles, electrical infrastructure and other areas of transition energy can cause significant tensions in the markets of various raw materials.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Investors Forum",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vilnius Conference2023. Presentation by Ivan Glasenberg",
+            "description": "#Investorsforum #Vilnius #conference \nIvan Glasenberg is a South African business executive and former CEO of Glencore, one of the world's largest commodity trading and mining companies. I. Glasenberg looked at sustainability from another angle. The growth of electric vehicles, electrical infrastructure and other areas of transition energy can cause significant tensions in the markets of various raw materials."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1954",
+          "likeCount": "39",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

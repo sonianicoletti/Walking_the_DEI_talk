@@ -1,0 +1,131 @@
+{
+  "ceo": "Christian Klein",
+  "query": "Christian Klein (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "17os4xJNOoJSJWPSeaa-9zJollI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 177,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p9gaim0zef26Q6XPawJmW7NrFOQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "38ezsCWWfQY"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-24T08:02:05Z",
+          "channelId": "UCQTgDOLHBEDgLDyBznmWMmw",
+          "title": "Comments from Takayuki Morita, President of NEC and Christian Klein, CEO of SAP SE [NEC official]",
+          "description": "NEC Corporation has strengthened its strategic collaboration with SAP, marking a new chapter in the history of our long, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NEC Corporation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-24T08:02:05Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "QbMrJbtKrcarqEwjNwOtGrRKkl4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "tPxrqCyQZOduHqxDlX2aEGPTVt4",
+        "id": "38ezsCWWfQY",
+        "snippet": {
+          "publishedAt": "2022-02-24T08:02:05Z",
+          "channelId": "UCQTgDOLHBEDgLDyBznmWMmw",
+          "title": "Comments from Takayuki Morita, President of NEC and Christian Klein, CEO of SAP SE [NEC official]",
+          "description": "NEC Corporation has strengthened its strategic collaboration with SAP, marking a new chapter in the history of our long, successful partnership. To fulfill our shared corporate philosophy of creating social value, both companies are fully committed to driving new initiatives under this collaboration, including accelerating NEC\u2019s own corporate transformation and jointly supporting customers\u2019 digital transformation journey.\n\nLearn more:\nPress release\nhttps://www.nec.com/en/press/202202/global_20220224_01.html\n\nSubscribe to the NEC Channel:\nhttps://www.youtube.com/user/NECglobalOfficial\n\nWith our focus on Solutions for Society, NEC's goal is to lead the advancement of the world's social infrastructure by leveraging ICT and new business models. Our Solutions for Society activities will become the pillars of NEC over the company's next 100 years.\n\nFind NEC on Facebook:\nhttps://www.facebook.com/nec.global\n\nVisit NEC's Website:\nhttps://www.nec.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/38ezsCWWfQY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "NEC Corporation",
+          "tags": [
+            "NEC",
+            "NEC Corporation",
+            "IT",
+            "Technology",
+            "Innovation",
+            "Social Infrastructure",
+            "official",
+            "Orchestrating a brighter world",
+            "SAP",
+            "DX",
+            "corporate transformation",
+            "RISE with SAP",
+            "Christian Klein"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Comments from Takayuki Morita, President of NEC and Christian Klein, CEO of SAP SE [NEC official]",
+            "description": "NEC Corporation has strengthened its strategic collaboration with SAP, marking a new chapter in the history of our long, successful partnership. To fulfill our shared corporate philosophy of creating social value, both companies are fully committed to driving new initiatives under this collaboration, including accelerating NEC\u2019s own corporate transformation and jointly supporting customers\u2019 digital transformation journey.\n\nLearn more:\nPress release\nhttps://www.nec.com/en/press/202202/global_20220224_01.html\n\nSubscribe to the NEC Channel:\nhttps://www.youtube.com/user/NECglobalOfficial\n\nWith our focus on Solutions for Society, NEC's goal is to lead the advancement of the world's social infrastructure by leveraging ICT and new business models. Our Solutions for Society activities will become the pillars of NEC over the company's next 100 years.\n\nFind NEC on Facebook:\nhttps://www.facebook.com/nec.global\n\nVisit NEC's Website:\nhttps://www.nec.com/"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT3M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "706",
+          "likeCount": "18",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

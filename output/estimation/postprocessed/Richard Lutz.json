@@ -1,0 +1,402 @@
+{
+  "ceo": "Richard Lutz",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "enZzNLYS95NAN8_0ueR-Hx9o4-U",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 836,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gul93l98mCNf2gqyFV0LI14L9tc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O-C5FOUx6-4"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-31T14:43:55Z",
+          "channelId": "UCUg4JOrvj1xuIgXJVAAwo8g",
+          "title": "Videobotschaft von Bahn-Chef Richard Lutz zum Integrierten Bericht 2022 der Deutschen Bahn AG",
+          "description": "Copyright: Deutsche Bahn AG.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marius Reimann",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-31T14:43:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "koJwO0VqWA1dXmdmUdWjcpszopM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wFKmt46ZdqI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T15:12:59Z",
+          "channelId": "UC6W7wwPTP6UF4zUqWLUKAfw",
+          "title": "&quot;Schach tut gut&quot; - Ein Interview mit Bahnchef Dr. Richard Lutz",
+          "description": "Zum Artikel auf der ChessBase Newsseite ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ChessBase Deutschland",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T15:12:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7Txa-UgweWlQPH_V9TV07mwBAjw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2SIxjh7yf7Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-31T14:41:10Z",
+          "channelId": "UCUg4JOrvj1xuIgXJVAAwo8g",
+          "title": "Statement von Deutsche-Bahn-Chef Richard Lutz zur Bilanzpressekonferenz am 30.03.2023",
+          "description": "Copyright: Deutsche Bahn AG.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marius Reimann",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-31T14:41:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xaDMmX0cRptClrB9XEHm1TnpxUQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aBdeRK2A8pE"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-08T11:43:18Z",
+          "channelId": "UCT20GTHYZVTa40mmrfvfMqw",
+          "title": "&#39;DAC is a game changer for the rail freight needed out of different perspectives,&#39; says Richard Lutz",
+          "description": "At the 2023 European Railway Award that took place in Brussels, RAILTARGET's editorial team was lucky to meet Richard Lutz, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RAILTARGET",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-08T11:43:18Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KeNcv79kaLG22HEltXdnDB9j6oA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pDSGc-veZ2VAWDuVSNOn1SnBSJs",
+        "id": "O-C5FOUx6-4",
+        "snippet": {
+          "publishedAt": "2023-03-31T14:43:55Z",
+          "channelId": "UCUg4JOrvj1xuIgXJVAAwo8g",
+          "title": "Videobotschaft von Bahn-Chef Richard Lutz zum Integrierten Bericht 2022 der Deutschen Bahn AG",
+          "description": "Copyright: Deutsche Bahn AG",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O-C5FOUx6-4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Marius Reimann",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Videobotschaft von Bahn-Chef Richard Lutz zum Integrierten Bericht 2022 der Deutschen Bahn AG",
+            "description": "Copyright: Deutsche Bahn AG"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M55S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1146",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vy6jOdXBySNx9Jg3ZVf0tFrxiMc",
+        "id": "wFKmt46ZdqI",
+        "snippet": {
+          "publishedAt": "2023-06-13T15:12:59Z",
+          "channelId": "UC6W7wwPTP6UF4zUqWLUKAfw",
+          "title": "\"Schach tut gut\" - Ein Interview mit Bahnchef Dr. Richard Lutz",
+          "description": "Zum Artikel auf der ChessBase Newsseite - https://de.chessbase.com/post/schach-tut-gut-ein-interview-mit-bahnchef-dr-richard-lutz\n\nAm Samstag, den 11. Juni, organisierte die Emanuel Lasker Gesellschaft in der Schule Alter Teichweg in Hamburg ein Benefizsimultan zugunsten der Initiative \"Chess4refugees\". Simultanspieler waren Dr. Helmut Pfleger, Gro\u00dfmeister, Fernsehmoderator und Autor, und Dr. Richard Lutz, Vorstandschef der Deutschen Bahn. Vor Beginn des Simultans nahm sich der Bahnchef, fr\u00fcher einer der besten deutschen Jugendspieler, Zeit f\u00fcr ein entspanntes Interview mit ChessBase und verriet unter anderem, was er dem Schach verdankt und warum ihn das Spiel immer noch fasziniert.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wFKmt46ZdqI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ChessBase Deutschland",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "\"Schach tut gut\" - Ein Interview mit Bahnchef Dr. Richard Lutz",
+            "description": "Zum Artikel auf der ChessBase Newsseite - https://de.chessbase.com/post/schach-tut-gut-ein-interview-mit-bahnchef-dr-richard-lutz\n\nAm Samstag, den 11. Juni, organisierte die Emanuel Lasker Gesellschaft in der Schule Alter Teichweg in Hamburg ein Benefizsimultan zugunsten der Initiative \"Chess4refugees\". Simultanspieler waren Dr. Helmut Pfleger, Gro\u00dfmeister, Fernsehmoderator und Autor, und Dr. Richard Lutz, Vorstandschef der Deutschen Bahn. Vor Beginn des Simultans nahm sich der Bahnchef, fr\u00fcher einer der besten deutschen Jugendspieler, Zeit f\u00fcr ein entspanntes Interview mit ChessBase und verriet unter anderem, was er dem Schach verdankt und warum ihn das Spiel immer noch fasziniert."
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT14M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1041",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-5TWvPVn33UKAN4u2dH9JJzB94A",
+        "id": "2SIxjh7yf7Q",
+        "snippet": {
+          "publishedAt": "2023-03-31T14:41:10Z",
+          "channelId": "UCUg4JOrvj1xuIgXJVAAwo8g",
+          "title": "Statement von Deutsche-Bahn-Chef Richard Lutz zur Bilanzpressekonferenz am 30.03.2023",
+          "description": "Copyright: Deutsche Bahn AG",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2SIxjh7yf7Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Marius Reimann",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Statement von Deutsche-Bahn-Chef Richard Lutz zur Bilanzpressekonferenz am 30.03.2023",
+            "description": "Copyright: Deutsche Bahn AG"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "161",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LCutktANxncHfp1x-XAshWyg8bs",
+        "id": "aBdeRK2A8pE",
+        "snippet": {
+          "publishedAt": "2023-02-08T11:43:18Z",
+          "channelId": "UCT20GTHYZVTa40mmrfvfMqw",
+          "title": "'DAC is a game changer for the rail freight needed out of different perspectives,' says Richard Lutz",
+          "description": "At the 2023 European Railway Award that took place in Brussels, RAILTARGET's editorial team was lucky to meet Richard Lutz, CEO of Deutsche Bahn AG. In the interview, he spoke about the challenges the railway sector faced in 2022 and the ones awaiting in the upcoming years, as well as about the DAC's contribution to the competitiveness of rail freight.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aBdeRK2A8pE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RAILTARGET",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "'DAC is a game changer for the rail freight needed out of different perspectives,' says Richard Lutz",
+            "description": "At the 2023 European Railway Award that took place in Brussels, RAILTARGET's editorial team was lucky to meet Richard Lutz, CEO of Deutsche Bahn AG. In the interview, he spoke about the challenges the railway sector faced in 2022 and the ones awaiting in the upcoming years, as well as about the DAC's contribution to the competitiveness of rail freight."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "128",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

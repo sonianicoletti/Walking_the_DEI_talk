@@ -1,0 +1,22 @@
+{
+  "ceo": "Chen Dongsheng",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "BUi02u2Ghwid7TVAshxRizGUNZk",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 17
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "pWRyoZ8AgogEoVSApjNZJ1_As2I",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 17,
+      "resultsPerPage": 17
+    }
+  }
+}

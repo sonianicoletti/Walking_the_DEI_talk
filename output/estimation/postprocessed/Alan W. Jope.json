@@ -1,0 +1,22 @@
+{
+  "ceo": "Alan W. Jope",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "i_D-QFCA7_qd0BsGQ18RqmT8cbI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "rL2ruM4VCrfvdaB0Sz9WDZ_mALA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

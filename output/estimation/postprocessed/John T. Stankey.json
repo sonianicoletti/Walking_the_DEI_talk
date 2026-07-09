@@ -1,0 +1,22 @@
+{
+  "ceo": "John T. Stankey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "G-vNe6kRhXDIqb6rQIaO60zNgM8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 38,
+      "resultsPerPage": 27
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KbRhn84NsyoDVGXTRnlI18Bq_7w",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 27,
+      "resultsPerPage": 27
+    }
+  }
+}

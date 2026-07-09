@@ -1,0 +1,128 @@
+{
+  "ceo": "Alexandre Bompard",
+  "query": "Alexandre Bompard (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Zx1S7NffZ08iNFKbsGBmosr1Kfc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KdBa1eETrEuj_ceQnd7Meb7I7rM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jm5XsDQKb6g"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-27T10:16:58Z",
+          "channelId": "UCKJ13Fk5VbJ0MXA4LceoG4w",
+          "title": "Alexandre Bompard conference at NEOMA",
+          "description": "On 15 March 2022, Alexandre Bompard, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NEOMA Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-27T10:16:58Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "bBlu6bkSqqg6fz2zD2jIk8qVACU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "UFDuqq-mh7B78m5wL8UcBfpy45Q",
+        "id": "jm5XsDQKb6g",
+        "snippet": {
+          "publishedAt": "2022-06-27T10:16:58Z",
+          "channelId": "UCKJ13Fk5VbJ0MXA4LceoG4w",
+          "title": "Alexandre Bompard conference at NEOMA",
+          "description": "On 15 March 2022, Alexandre Bompard, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. On 15 March 2022, ALEXANDRE BOMPARD, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. He spoke about innovation, digitalisation and the Metaverse, as well as the 'food transition', CSR and youth employment. \n\nIt is important to note that this young CEO, aged 48 years, started his career at the Inspection des Finances, then moved to Europe 1 and the FNAC before joining Carrefour.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NEOMA Business School",
+          "tags": [
+            "NEOMA Business School",
+            "\u00e9cole de commerce",
+            "Business School",
+            "\u00e9cole de commerce France",
+            "French Business School"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Alexandre Bompard conference at NEOMA",
+            "description": "On 15 March 2022, Alexandre Bompard, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. On 15 March 2022, ALEXANDRE BOMPARD, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. He spoke about innovation, digitalisation and the Metaverse, as well as the 'food transition', CSR and youth employment. \n\nIt is important to note that this young CEO, aged 48 years, started his career at the Inspection des Finances, then moved to Europe 1 and the FNAC before joining Carrefour."
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "226",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

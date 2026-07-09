@@ -1,0 +1,23 @@
+{
+  "ceo": "John T. Stankey",
+  "query": "John T. Stankey (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ZsA-kIVmeJm-2_t4HCeFZfbIZ54",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 13
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Cpin3AJ2RBtoCpH5GxAQ7Eq4nIU",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 13
+    }
+  }
+}

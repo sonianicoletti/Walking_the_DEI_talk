@@ -1,0 +1,23 @@
+{
+  "ceo": "Andrew Tinsley",
+  "query": "Andrew Tinsley (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ltsLy8S90C_qpEpxQ2Hf4A4-gYE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 12
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "gu7dV2NGmoOYo8nV-0tVqyyqcqo",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

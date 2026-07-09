@@ -1,0 +1,130 @@
+{
+  "ceo": "Alan W. Jope",
+  "query": "Alan W. Jope (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "MA_ezgyTM9kBBj7JxeMlk2_H2wo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qiXk1nqQb_TGbKiDsYKPDWB0cYU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tljcscii-P0"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-13T18:28:44Z",
+          "channelId": "UCOlxIv6pqgiCpdiaFXxLmNw",
+          "title": "HEC TALKS: Purpose-led, future-fit: business in the 21st century with Alan Jope, CEO at Unilever",
+          "description": "HECtalksxJope When business comes to face social and environmental challenges: can it be part of the solution? How to drive ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HEC Paris",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-13T18:28:44Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "DumtQDtVEXxjcLLGM00BhZ4EXi0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "yCvLkC9_BmIA3tElktEzXs0rs-E",
+        "id": "Tljcscii-P0",
+        "snippet": {
+          "publishedAt": "2022-04-13T18:28:44Z",
+          "channelId": "UCOlxIv6pqgiCpdiaFXxLmNw",
+          "title": "HEC TALKS: Purpose-led, future-fit: business in the 21st century with Alan Jope, CEO at Unilever",
+          "description": "#HECtalksxJope\r\n\r\nWhen business comes to face social and environmental challenges: can it be part of the solution? How to drive large organizations, despite constraints, with purpose and for impact? Alan Jope, CEO of Unilever, offers us his outstanding testimony and a privileged dialogue to better understand what business can do best \u2013 what it can do better.\r\n\r\nAlan Jope was appointed Chief Executive Officer in January 2019. As CEO of Unilever, Alan is responsible for leading one of the world\u2019s largest and most geographically diverse consumer goods businesses, with presence in 190 countries, serving 2.5 billion people every day.\r\n\r\nAlan is Chair of the Board of UNICEF\u2019s Generation Unlimited, Vice co-Chair of the Consumer Goods Forum, and Vice Chair of the World Business Council for Sustainable Development (WBCSD) Executive Committee. Most recently he was appointed to the World Economic Forum\u2019s International Business Council Executive Committee. He is also Visiting Fellow at the University of Oxford.\r\n\r\nHEC Talks is a forum devoted to the values of Curiosity and Diversity. Created in September 2021, this forum welcomes global thought leaders and personalities who count in the economic, political, media and academic spheres, to name a few.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HEC Paris",
+          "tags": [
+            "purpose",
+            "purposeful leadership",
+            "sustainability",
+            "sustainable development",
+            "compass vision",
+            "unilever",
+            "Alan Jope",
+            "leading with purpose"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "HEC TALKS: Purpose-led, future-fit: business in the 21st century with Alan Jope, CEO at Unilever",
+            "description": "#HECtalksxJope\r\n\r\nWhen business comes to face social and environmental challenges: can it be part of the solution? How to drive large organizations, despite constraints, with purpose and for impact? Alan Jope, CEO of Unilever, offers us his outstanding testimony and a privileged dialogue to better understand what business can do best \u2013 what it can do better.\r\n\r\nAlan Jope was appointed Chief Executive Officer in January 2019. As CEO of Unilever, Alan is responsible for leading one of the world\u2019s largest and most geographically diverse consumer goods businesses, with presence in 190 countries, serving 2.5 billion people every day.\r\n\r\nAlan is Chair of the Board of UNICEF\u2019s Generation Unlimited, Vice co-Chair of the Consumer Goods Forum, and Vice Chair of the World Business Council for Sustainable Development (WBCSD) Executive Committee. Most recently he was appointed to the World Economic Forum\u2019s International Business Council Executive Committee. He is also Visiting Fellow at the University of Oxford.\r\n\r\nHEC Talks is a forum devoted to the values of Curiosity and Diversity. Created in September 2021, this forum welcomes global thought leaders and personalities who count in the economic, political, media and academic spheres, to name a few."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H6M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1663",
+          "likeCount": "37",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "ceo": "Andy Briggs",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "abFAeE8in5OHAQ_PLIxH6-GZpSY",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12098,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1Ns7qeK3waXWRiQQmGIAh_4eda0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8ehmDK6wCMY"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-18T20:14:31Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "Welcome to Gigg Lane - Andy Briggs | Incoming | Bury FC",
+          "description": "Bury FC are delighted to confirm Andy Briggs has joined the club ahead of the 2023/24 season. The 25-year-old striker joins the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-18T20:14:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pRfvxVjbhV0M4uGvUkJNteMifbg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jqNeTJpkw6A"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-31T17:52:29Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "ANDY BRIGGS ON BUILDING ON A GOOD PERFORMANCE | Post Match Interview | Bury FC",
+          "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-31T17:52:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JCi9Yq7Z-cXwt2mkk3vF0rTFUb4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RsHqib-4Cic"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T20:31:05Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "ANDY BRIGGS ON BAGGING A BRACE | Post Match Interview | Bury FC",
+          "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T20:31:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_tL-EhgbCCzhgBwDgWkqCNs2zzU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Jarlehy82OA"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-30T17:39:28Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "ANDY BRIGGS ON A DISAPPOINTING ENDING | Post Match Interview | Bury FC",
+          "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-30T17:39:28Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Fctd58o9CCSeguAA7raaWPnBQEY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pBjhRPLq42zrYq0I5AiWpdo15Hw",
+        "id": "8ehmDK6wCMY",
+        "snippet": {
+          "publishedAt": "2023-06-18T20:14:31Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "Welcome to Gigg Lane - Andy Briggs | Incoming | Bury FC",
+          "description": "Bury FC are delighted to confirm Andy Briggs has joined the club ahead of the 2023/24 season.\n\nThe 25-year-old striker joins the club from NWCFL Division One North side Steeton where he scored 35 goals last season.\n\nBriggs has played in his home West Yorkshire town since the age of 16 and has spent the last nine seasons playing in Steeton green, he\u2019s played through their journey from amateur football to them joining the National League System.\n\nUpon joining the club, he said: \u201cI felt like it was time for a new challenge and when Andy [Welsh] called me and said he wanted me to come down here, it was almost a no-brainer.\u201d\n\n\u201cJust looking at the setup down here and where this club plans to be and wants to be, it\u2019s going to be a real great experience\u201d\n\nThank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  We're by the fans, for the fans, and we couldn't do this without you.\n\n#BuryFC",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8ehmDK6wCMY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "tags": [
+            "bury",
+            "nonleague football",
+            "bury afc",
+            "sus",
+            "shaken up show",
+            "nwcfl",
+            "north west counties football league",
+            "chris murray",
+            "andy welsh",
+            "adam mcwilliam",
+            "liam macdevitt",
+            "fa vase",
+            "the shakers",
+            "shakers",
+            "the shaken up show",
+            "twitch",
+            "itunes",
+            "spotify",
+            "goal",
+            "views",
+            "match highlights",
+            "goal of the month",
+            "incoming",
+            "quickfire",
+            "footie",
+            "football"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Welcome to Gigg Lane - Andy Briggs | Incoming | Bury FC",
+            "description": "Bury FC are delighted to confirm Andy Briggs has joined the club ahead of the 2023/24 season.\n\nThe 25-year-old striker joins the club from NWCFL Division One North side Steeton where he scored 35 goals last season.\n\nBriggs has played in his home West Yorkshire town since the age of 16 and has spent the last nine seasons playing in Steeton green, he\u2019s played through their journey from amateur football to them joining the National League System.\n\nUpon joining the club, he said: \u201cI felt like it was time for a new challenge and when Andy [Welsh] called me and said he wanted me to come down here, it was almost a no-brainer.\u201d\n\n\u201cJust looking at the setup down here and where this club plans to be and wants to be, it\u2019s going to be a real great experience\u201d\n\nThank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  We're by the fans, for the fans, and we couldn't do this without you.\n\n#BuryFC"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1152",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vGqxYYB16stazTqxMb6nmEhuTCo",
+        "id": "jqNeTJpkw6A",
+        "snippet": {
+          "publishedAt": "2023-12-31T17:52:29Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "ANDY BRIGGS ON BUILDING ON A GOOD PERFORMANCE | Post Match Interview | Bury FC",
+          "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  \n\n#BuryFC | #partofit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jqNeTJpkw6A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "tags": [
+            "bury",
+            "nonleague football",
+            "sus",
+            "shaken up show",
+            "nwcfl",
+            "north west counties football league",
+            "chris murray",
+            "andy welsh",
+            "adam mcwilliam",
+            "liam macdevitt",
+            "fa vase",
+            "the shakers",
+            "shakers",
+            "the shaken up show",
+            "twitch",
+            "itunes",
+            "spotify",
+            "goal",
+            "views",
+            "match highlights",
+            "goal of the month",
+            "incoming",
+            "quickfire",
+            "footie",
+            "football"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ANDY BRIGGS ON BUILDING ON A GOOD PERFORMANCE | Post Match Interview | Bury FC",
+            "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  \n\n#BuryFC | #partofit"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "571",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nE28LWukhztf7KLDQ6TIMWJD4dw",
+        "id": "RsHqib-4Cic",
+        "snippet": {
+          "publishedAt": "2023-09-23T20:31:05Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "ANDY BRIGGS ON BAGGING A BRACE | Post Match Interview | Bury FC",
+          "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  \n\n#BuryFC | #partofit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RsHqib-4Cic/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "tags": [
+            "bury",
+            "nonleague football",
+            "sus",
+            "shaken up show",
+            "nwcfl",
+            "north west counties football league",
+            "chris murray",
+            "andy welsh",
+            "adam mcwilliam",
+            "liam macdevitt",
+            "fa vase",
+            "the shakers",
+            "shakers",
+            "the shaken up show",
+            "twitch",
+            "itunes",
+            "spotify",
+            "goal",
+            "views",
+            "match highlights",
+            "goal of the month",
+            "incoming",
+            "quickfire",
+            "footie",
+            "football"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ANDY BRIGGS ON BAGGING A BRACE | Post Match Interview | Bury FC",
+            "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  \n\n#BuryFC | #partofit"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "986",
+          "likeCount": "26",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AIaRAQlsvv2sphTVulvDmggSpug",
+        "id": "Jarlehy82OA",
+        "snippet": {
+          "publishedAt": "2023-08-30T17:39:28Z",
+          "channelId": "UCefnvkc7hpwjX98cUPfz5-w",
+          "title": "ANDY BRIGGS ON A DISAPPOINTING ENDING | Post Match Interview | Bury FC",
+          "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  \n\n#BuryFC | #partofit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Jarlehy82OA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bury Football Club",
+          "tags": [
+            "bury",
+            "nonleague football",
+            "sus",
+            "shaken up show",
+            "nwcfl",
+            "north west counties football league",
+            "chris murray",
+            "andy welsh",
+            "adam mcwilliam",
+            "liam macdevitt",
+            "fa vase",
+            "the shakers",
+            "shakers",
+            "the shaken up show",
+            "twitch",
+            "itunes",
+            "spotify",
+            "goal",
+            "views",
+            "match highlights",
+            "goal of the month",
+            "incoming",
+            "quickfire",
+            "footie",
+            "football"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ANDY BRIGGS ON A DISAPPOINTING ENDING | Post Match Interview | Bury FC",
+            "description": "Thank you for your continued support of the club. Bury FC is a community, fan-owned football club competing in the North West Counties Football League Premier Division.  \n\n#BuryFC | #partofit"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "563",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

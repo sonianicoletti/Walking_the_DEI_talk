@@ -1,0 +1,22 @@
+{
+  "ceo": "Chen Derong",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "OlnlYg8lLxdzDRquzrg31Iiz4n0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 20,
+      "resultsPerPage": 12
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "xXNvvNLN-RvbArGOnZktAj5jazs",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

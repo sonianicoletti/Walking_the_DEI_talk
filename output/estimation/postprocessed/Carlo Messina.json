@@ -1,0 +1,342 @@
+{
+  "ceo": "Carlo Messina",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "W8iskZcczTn7tHme7p9R6YfjvsU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 616,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uIELGa6YX1hO5-TvNSw3-Ck_Z-Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tkvH91ROtHc"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-14T18:45:52Z",
+          "channelId": "UC1RCX0RMghY-QFb35hx5uqQ",
+          "title": "14 ottobre 2022 - POLIBA, a Carlo Messina la laurea honoris causa in ingegneria gestionale",
+          "description": "ANTENNA SUD Tutte le notizie in tempo reale della Puglia e Basilicata Cronaca, Sport, Economia, Attualit\u00e0, Politica sul canale 14 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Antenna Sud - canale 14",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-14T18:45:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xV3dzcb8Zz857LuKjg7LF4zIV1A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OjYR0ng1dro"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-28T16:13:46Z",
+          "channelId": "UCTYnB58dI7jWLHPF1cTjnkw",
+          "title": "Intervista a Carlo Messina, Ceo Gruppo Intesa Sanpaolo, al 7\u00b0 Congresso Nazionale Uilca",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OjYR0ng1dro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OjYR0ng1dro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OjYR0ng1dro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Uilca Nazionale",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-28T16:13:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eI0awvJHzPYksOg31DaW0orjGcw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jXxUtSLKU-g"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-04T13:38:45Z",
+          "channelId": "UCNuUNq0leZhJA59WYqaZLhw",
+          "title": "6\u00b0 Congresso Nazionale Unisin - Intervento Carlo Messina",
+          "description": "Intervento Carlo Messina - CEO Intesa Sanpaolo DIRITTI, TUTELE, PROSPETTIVE PER AFFRONTARE LE SFIDE DEL FUTURO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Unisin - Unit\u00e0 Sindacale Falcri Silcea Sinfub",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-04T13:38:45Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "cK1hBAvC2MrVDxdvP8THHQ9QZGY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "YJYtYA84RbAS5lBKXNyvBplsRBE",
+        "id": "tkvH91ROtHc",
+        "snippet": {
+          "publishedAt": "2022-10-14T18:45:52Z",
+          "channelId": "UC1RCX0RMghY-QFb35hx5uqQ",
+          "title": "14 ottobre 2022 - POLIBA, a Carlo Messina la laurea honoris causa in ingegneria gestionale",
+          "description": "ANTENNA SUD \nTutte le notizie in tempo reale della Puglia e Basilicata\nCronaca, Sport, Economia, Attualit\u00e0, Politica sul canale 14 del nuovo digitale terrestre, sul nostro sito www.antennasud.com e sui nostri profili social",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tkvH91ROtHc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Antenna Sud - canale 14",
+          "tags": [
+            "Antenna Sud",
+            "Canale 13",
+            "Cronaca",
+            "Sport",
+            "Attualit\u00e0",
+            "Economia",
+            "Politica",
+            "Intrattenimento",
+            "Format TV",
+            "Notizie Puglia",
+            "Informazione Puglia",
+            "On Demand",
+            "Programmi TV",
+            "TV Puglia",
+            "Notizie Basilicata",
+            "Informazione Basilicata",
+            "Edizioni TG",
+            "Bari",
+            "BAT",
+            "Foggia"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "14 ottobre 2022 - POLIBA, a Carlo Messina la laurea honoris causa in ingegneria gestionale",
+            "description": "ANTENNA SUD \nTutte le notizie in tempo reale della Puglia e Basilicata\nCronaca, Sport, Economia, Attualit\u00e0, Politica sul canale 14 del nuovo digitale terrestre, sul nostro sito www.antennasud.com e sui nostri profili social"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "167",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FIbF8zvm3zJo_v1CsNEPVmhf0G8",
+        "id": "OjYR0ng1dro",
+        "snippet": {
+          "publishedAt": "2022-09-28T16:13:46Z",
+          "channelId": "UCTYnB58dI7jWLHPF1cTjnkw",
+          "title": "Intervista a Carlo Messina, Ceo Gruppo Intesa Sanpaolo, al 7\u00b0 Congresso Nazionale Uilca",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OjYR0ng1dro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OjYR0ng1dro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OjYR0ng1dro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Uilca Nazionale",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Intervista a Carlo Messina, Ceo Gruppo Intesa Sanpaolo, al 7\u00b0 Congresso Nazionale Uilca",
+            "description": ""
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1058",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jchukd50vNjQhnn61jG42iIv_uo",
+        "id": "jXxUtSLKU-g",
+        "snippet": {
+          "publishedAt": "2022-06-04T13:38:45Z",
+          "channelId": "UCNuUNq0leZhJA59WYqaZLhw",
+          "title": "6\u00b0 Congresso Nazionale Unisin - Intervento Carlo Messina",
+          "description": "Intervento Carlo Messina - CEO Intesa Sanpaolo\n\nDIRITTI, TUTELE, PROSPETTIVE PER AFFRONTARE LE SFIDE DEL FUTURO\n\nEtica, equit\u00e0 e professionalit\u00e0 del lavoro bancario nell\u2019 epoca della transizione digitale",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jXxUtSLKU-g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Unisin - Unit\u00e0 Sindacale Falcri Silcea Sinfub",
+          "tags": [
+            "Unisin",
+            "Falcri",
+            "Silcea",
+            "Sinfub",
+            "Sindacato",
+            "Diritti",
+            "Tutele",
+            "Futuro",
+            "Etica",
+            "Equit\u00e0",
+            "Professionalit\u00e0",
+            "Lavoro",
+            "Congresso",
+            "Transizione Digitale",
+            "Carlo Messina",
+            "Intesa Sanpaolo"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "6\u00b0 Congresso Nazionale Unisin - Intervento Carlo Messina",
+            "description": "Intervento Carlo Messina - CEO Intesa Sanpaolo\n\nDIRITTI, TUTELE, PROSPETTIVE PER AFFRONTARE LE SFIDE DEL FUTURO\n\nEtica, equit\u00e0 e professionalit\u00e0 del lavoro bancario nell\u2019 epoca della transizione digitale"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT8M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "53",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

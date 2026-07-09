@@ -1,0 +1,121 @@
+{
+  "ceo": "Chao Wang",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "9kc3H10uNAqLqQngiheXaYTmEAY",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 5909,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BIBvIMFlq-vfp7U8XJfDYsWZS-8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HJ-IeNp3L0k"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-03T10:04:47Z",
+          "channelId": "UCKbzts5l3wDUyTOr7ge9Q2g",
+          "title": "&quot;How can I make my resume stand out?&quot; w/ Chao Wang",
+          "description": "thisisnotadvice -- Day 296 Today's question: \"How can I make my resume stand out?\" Chao Wang is the co-founder and CEO of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Beta",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-03T10:04:47Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "l1S5ckqw7JdHyOa23EiAehTwI1c",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "7nxvEGS7ZwlD1mHxBra_NAC6TzA",
+        "id": "HJ-IeNp3L0k",
+        "snippet": {
+          "publishedAt": "2022-03-03T10:04:47Z",
+          "channelId": "UCKbzts5l3wDUyTOr7ge9Q2g",
+          "title": "\"How can I make my resume stand out?\" w/ Chao Wang",
+          "description": "#thisisnotadvice -- Day 296\r\n\r\nToday's question: \"How can I make my resume stand out?\"\r\n\r\nChao Wang is the co-founder and CEO of Dopple. Dopple is a children's clothing subscription service, offering the coolest kids styles in a convenient try-on-at-home model. \r\n\r\nWe're here on #thisisnotadvice to answer all your questions about startups, venture, and the future of work.\r\n\r\nIf you have any questions you want us to answer next time, drop us a comment below or on Twitter.\r\n\r\nFor more, check out our community-edited, comprehensive reference guide on how to work: www.thisisnotadvice.work",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HJ-IeNp3L0k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Beta",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"How can I make my resume stand out?\" w/ Chao Wang",
+            "description": "#thisisnotadvice -- Day 296\r\n\r\nToday's question: \"How can I make my resume stand out?\"\r\n\r\nChao Wang is the co-founder and CEO of Dopple. Dopple is a children's clothing subscription service, offering the coolest kids styles in a convenient try-on-at-home model. \r\n\r\nWe're here on #thisisnotadvice to answer all your questions about startups, venture, and the future of work.\r\n\r\nIf you have any questions you want us to answer next time, drop us a comment below or on Twitter.\r\n\r\nFor more, check out our community-edited, comprehensive reference guide on how to work: www.thisisnotadvice.work"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "56",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "ceo": "Mario Greco",
+  "query": "Mario Greco (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "lDKH000xUOMkfwTQHu9goa3wKUI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 52,
+      "resultsPerPage": 41
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8_xhpGKJl06tE98NogBZi8NX3Ho",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c-XSYg_j-JE"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-11T04:49:04Z",
+          "channelId": "UCZvGM1xF1U7lWkHZ86L1_Ew",
+          "title": "Zurich Half-Year Results 2022 - Mario Greco",
+          "description": "Zurich Insurance Group (Zurich) reported the highest first-half business operating profit since 2008 and the second highest ever, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Zurich Insurance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-11T04:49:04Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "BlMPRnWLNVmhR-nJV6wS64qXYMU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "P-6dWGsV6u055tZ9Hewiz8W3RLU",
+        "id": "c-XSYg_j-JE",
+        "snippet": {
+          "publishedAt": "2022-08-11T04:49:04Z",
+          "channelId": "UCZvGM1xF1U7lWkHZ86L1_Ew",
+          "title": "Zurich Half-Year Results 2022 - Mario Greco",
+          "description": "Zurich Insurance Group (Zurich) reported the highest first-half business operating profit since 2008 and the second highest ever, with all regions and business lines contributing to the successful results.\n\nRead the full release here: https://www.zurich.com/media/news-releases/2022/2022-0811-01",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c-XSYg_j-JE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zurich Insurance",
+          "tags": [
+            "Zurich",
+            "Insurance",
+            "LifeatZurich",
+            "Zurich Innovates",
+            "ZResults",
+            "Global Risks",
+            "Cyber Risks",
+            "Sustainability",
+            "Zurich Forest",
+            "Atlantic Forest",
+            "Climate Change",
+            "Social Responsibility",
+            "ZurichNeverStops",
+            "Climate Action"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Zurich Half-Year Results 2022 - Mario Greco",
+            "description": "Zurich Insurance Group (Zurich) reported the highest first-half business operating profit since 2008 and the second highest ever, with all regions and business lines contributing to the successful results.\n\nRead the full release here: https://www.zurich.com/media/news-releases/2022/2022-0811-01"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1761",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 41,
+      "resultsPerPage": 41
+    }
+  }
+}

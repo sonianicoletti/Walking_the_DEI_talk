@@ -1,0 +1,225 @@
+{
+  "ceo": "Arvind Krishna",
+  "query": "Arvind Krishna (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "efIfxT47XKI3pcfiu9nty-rKqak",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 172530,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "U-61LmZX3nOLpjjiPOXfGH48Xn0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fQmxak0cJDM"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-10T11:14:35Z",
+          "channelId": "UCnFtPtFwMrRkuGUTk4Rh4tA",
+          "title": "ADIPEC 2022 Thought Leadership - Arvind Krishna, Chairman &amp; CEO, IBM",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ADIPEC Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-10T11:14:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4hkH2rn1Em_mNG_2H9fCy3x7gHk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RgTnwra0v60"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-27T20:50:03Z",
+          "channelId": "UCqcy7yHkQCC3-TyEhBNrCTA",
+          "title": "ECNY Events - Arvind Krishna",
+          "description": "Signature Luncheon @EconClubNY 687th meeting of the club Thursday, November 17, 2022 Diversity, Equity & Inclusion Series ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Economic Club of New York",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-27T20:50:03Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "4EDakXU4Ksl-ddCHqFGb5PEKEkY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "PxlH5Ur6YooNwBrJxgtpKSpjCtE",
+        "id": "fQmxak0cJDM",
+        "snippet": {
+          "publishedAt": "2022-11-10T11:14:35Z",
+          "channelId": "UCnFtPtFwMrRkuGUTk4Rh4tA",
+          "title": "ADIPEC 2022 Thought Leadership - Arvind Krishna, Chairman & CEO, IBM",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fQmxak0cJDM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ADIPEC Official",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "ADIPEC 2022 Thought Leadership - Arvind Krishna, Chairman & CEO, IBM",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "256",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GU1DIw3C8u9pM9IFPnql_-fXuSY",
+        "id": "RgTnwra0v60",
+        "snippet": {
+          "publishedAt": "2022-11-27T20:50:03Z",
+          "channelId": "UCqcy7yHkQCC3-TyEhBNrCTA",
+          "title": "ECNY Events - Arvind Krishna",
+          "description": "Signature Luncheon @EconClubNY\n687th meeting of the club\nThursday, November 17, 2022\n\nDiversity, Equity & Inclusion Series\n\nArvind Krishna\nChairman and CEO, IBM\n\nModerator: Sara Eisen\nAnchor, Closing Bell, CNBC",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RgTnwra0v60/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Economic Club of New York",
+          "tags": [
+            "ECNY",
+            "Economic Club of New York",
+            "econclubny.org",
+            "IBM",
+            "Arvind Krishna"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ECNY Events - Arvind Krishna",
+            "description": "Signature Luncheon @EconClubNY\n687th meeting of the club\nThursday, November 17, 2022\n\nDiversity, Equity & Inclusion Series\n\nArvind Krishna\nChairman and CEO, IBM\n\nModerator: Sara Eisen\nAnchor, Closing Bell, CNBC"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1490",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

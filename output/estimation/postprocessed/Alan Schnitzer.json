@@ -1,0 +1,22 @@
+{
+  "ceo": "Alan Schnitzer",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "JU7HeOWzcVHEdjMZ5GTIT_79FIc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 11
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "eUmq2AvlGEF6FYJmEyzAuaE3lVc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

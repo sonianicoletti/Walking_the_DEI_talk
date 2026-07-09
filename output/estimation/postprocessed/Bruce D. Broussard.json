@@ -1,0 +1,23 @@
+{
+  "ceo": "Bruce D. Broussard",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "jyJNL0cbsOeztmTRqGdDKXi1wWM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 350,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "atWn0MAnU31XTT7RSP5tGAw08FQ",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

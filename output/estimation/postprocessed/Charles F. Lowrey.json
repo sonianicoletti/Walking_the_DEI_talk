@@ -1,0 +1,22 @@
+{
+  "ceo": "Charles F. Lowrey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "8IY3gDkQIEDhVrV-fid0Ht7R3qI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 25,
+      "resultsPerPage": 23
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "c4FLIr4GZF5G55M40YcVreRU-3k",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 23,
+      "resultsPerPage": 23
+    }
+  }
+}

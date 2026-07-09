@@ -1,0 +1,23 @@
+{
+  "ceo": "Cho Man",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "gxOlvlMPp4e8MhJm1np9k02FCa0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "_wehfTbdvPWfTT1S3VLrGS2BUpw",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

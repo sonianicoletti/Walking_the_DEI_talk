@@ -1,0 +1,22 @@
+{
+  "ceo": "Gao Hongwei",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "UNDsCIdvCzZs2VZ52ZkhI4ppe8U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "x9SymIvxarl6NdEUg2kJHeAdRzE",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

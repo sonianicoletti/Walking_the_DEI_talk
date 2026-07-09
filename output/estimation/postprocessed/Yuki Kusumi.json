@@ -1,0 +1,22 @@
+{
+  "ceo": "Yuki Kusumi",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "RAew5qfrof8O-fuzlH73Xesj-A0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 10
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "tHktYa4xZxSHkxdbaSwq-qvp484",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 10,
+      "resultsPerPage": 10
+    }
+  }
+}

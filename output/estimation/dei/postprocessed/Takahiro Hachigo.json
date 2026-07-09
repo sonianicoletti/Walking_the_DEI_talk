@@ -1,0 +1,23 @@
+{
+  "ceo": "Takahiro Hachigo",
+  "query": "Takahiro Hachigo (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "9Jsezs21YVKQ_sLYQ4UW8FOuh0E",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "CgaLQVxOVQtOpYx-JAPT8w3qL_Q",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

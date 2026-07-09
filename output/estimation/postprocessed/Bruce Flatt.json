@@ -1,0 +1,418 @@
+{
+  "ceo": "Bruce Flatt",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ZoGUriL1_W-IKel3H9kfqAauVAo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 527,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J26rdAeNDSHgbecv8OKTYYvaIc8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "y3UOPlIHADw"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-06T11:08:42Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "Brookfield CEO Bruce Flatt on Bloomberg Wealth with David Rubenstein",
+          "description": "Brookfield CEO Bruce Flatt discusses the secret to his firm's success, where he sees opportunities in energy transformation and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-06T11:08:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WPrNaEJq26U23rC7MKegwVPytXU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gT54Me6DuQI"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-11T18:58:48Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "Inflation Isn&#39;t Necessarily Bad for Brookfield, Says Bruce Flatt",
+          "description": "Brookfield CEO Bruce Flatt says inflation is a positive for most of their business. Flatt discusses the issue of inflation and rising ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-11T18:58:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UDaCOEdoNo-6oudR-Dpj5KNCMWM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mE3LNUZZu5Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-27T04:22:20Z",
+          "channelId": "UCXEQ3MCLUTyUv_Hk_XLyC6g",
+          "title": "Weathering Inflation w/ Bruce Flatt, CEO, Brookfield Asset Management &amp; Lubna Bouza - #FII6 - Day 2",
+          "description": "IN CONVERSATION: WEATHERING INFLATION I Future Investment Initiative 6th Edition Inflation has become a global crisis.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FII Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-27T04:22:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fvmq2QwCQTGrgU7Olng_AXGVioI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0Siy-oo1f9Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-11T16:00:11Z",
+          "channelId": "UCFy61nfihhrTn9BlEIqMeEg",
+          "title": "5 sectores en los que Bruce Flatt recomienda invertir + Las caracter\u00edsticas de los mejores negocios",
+          "description": "Te muestro los consejos de inversi\u00f3n de Bruce Flatt (\"el Warren Buffett de Canad\u00e1\"), es el mejor gestor de activos del mundo y ha ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "La F\u00f3rmula para Invertir",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-11T16:00:11Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "tMV3PCLX_pw5aVMq3BYPgbuVGa0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "6jk-IPsE5YiPXzaQ7rn1wpE7c5U",
+        "id": "y3UOPlIHADw",
+        "snippet": {
+          "publishedAt": "2022-04-06T11:08:42Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "Brookfield CEO Bruce Flatt on Bloomberg Wealth with David Rubenstein",
+          "description": "Brookfield CEO Bruce Flatt discusses the secret to his firm's success, where he sees opportunities in energy transformation and infrastructure, and shares his advice for average investors. He speaks on \"Bloomberg Wealth With David Rubenstein.\" This interview was recorded March 2 in New York.\n --------\nLike this video? Subscribe to The David Rubenstein Show on YouTube:\nhttps://www.youtube.com/channel/UCqsN9MYiu1mKSAsYoF6ppTg\n\nWatch the latest episodes of \"The David Rubenstein Show: Peer-to-Peer Conversations\" here:\nhttps://www.bloomberg.com/peer-to-peer\n\nLearn more about David:\nhttp://www.davidrubenstein.com/\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/y3UOPlIHADw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brookfield CEO Bruce Flatt on Bloomberg Wealth with David Rubenstein",
+            "description": "Brookfield CEO Bruce Flatt discusses the secret to his firm's success, where he sees opportunities in energy transformation and infrastructure, and shares his advice for average investors. He speaks on \"Bloomberg Wealth With David Rubenstein.\" This interview was recorded March 2 in New York.\n --------\nLike this video? Subscribe to The David Rubenstein Show on YouTube:\nhttps://www.youtube.com/channel/UCqsN9MYiu1mKSAsYoF6ppTg\n\nWatch the latest episodes of \"The David Rubenstein Show: Peer-to-Peer Conversations\" here:\nhttps://www.bloomberg.com/peer-to-peer\n\nLearn more about David:\nhttp://www.davidrubenstein.com/\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "178545",
+          "likeCount": "3156",
+          "favoriteCount": "0",
+          "commentCount": "84"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AjP2RCzdZB3wXTbxytlAI9ndXeA",
+        "id": "gT54Me6DuQI",
+        "snippet": {
+          "publishedAt": "2022-04-11T18:58:48Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "Inflation Isn't Necessarily Bad for Brookfield, Says Bruce Flatt",
+          "description": "Brookfield CEO Bruce Flatt says inflation is a positive for most of their business. Flatt discusses the issue of inflation and rising interest rates on \"Bloomberg Wealth With David Rubenstein.\" Flatt spoke with Rubenstein March 2 in New York.\n --------\nLike this video? Subscribe to The David Rubenstein Show on YouTube:\nhttps://www.youtube.com/channel/UCqsN9MYiu1mKSAsYoF6ppTg\n\nWatch the latest episodes of \"The David Rubenstein Show: Peer-to-Peer Conversations\" here:\nhttps://www.bloomberg.com/peer-to-peer\n\nLearn more about David:\nhttp://www.davidrubenstein.com/\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gT54Me6DuQI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Inflation Isn't Necessarily Bad for Brookfield, Says Bruce Flatt",
+            "description": "Brookfield CEO Bruce Flatt says inflation is a positive for most of their business. Flatt discusses the issue of inflation and rising interest rates on \"Bloomberg Wealth With David Rubenstein.\" Flatt spoke with Rubenstein March 2 in New York.\n --------\nLike this video? Subscribe to The David Rubenstein Show on YouTube:\nhttps://www.youtube.com/channel/UCqsN9MYiu1mKSAsYoF6ppTg\n\nWatch the latest episodes of \"The David Rubenstein Show: Peer-to-Peer Conversations\" here:\nhttps://www.bloomberg.com/peer-to-peer\n\nLearn more about David:\nhttp://www.davidrubenstein.com/\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4254",
+          "likeCount": "49",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jAh7nNI5udYmspLSckyH45YxKIQ",
+        "id": "mE3LNUZZu5Q",
+        "snippet": {
+          "publishedAt": "2022-10-27T04:22:20Z",
+          "channelId": "UCXEQ3MCLUTyUv_Hk_XLyC6g",
+          "title": "Weathering Inflation w/ Bruce Flatt, CEO, Brookfield Asset Management & Lubna Bouza - #FII6 - Day 2",
+          "description": "IN CONVERSATION: WEATHERING INFLATION I Future Investment Initiative 6th Edition\n\nInflation has become a global crisis. Consumer prices in June increased from 2021 by 9.1% in the U.S., and 9.6% in the E.U. And the factors fueling inflationary forces have carried across the world. In the U.S., worldwide supply crunches have failed to catch up to increased American consumer demand post-pandemic, raising prices. In Europe, diminished energy supplies have sent shockwaves across the economy. What are the factors contributing to global runaway inflation, and what do these pressures mean for the road ahead?\n\nSPEAKER\n\u25cf Bruce Flatt, CEO, Brookfield Asset Management MODERATOR\n\u25cf Lubna Bouza, Editor In Chief, Skynews Arabia",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mE3LNUZZu5Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FII Institute",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Weathering Inflation w/ Bruce Flatt, CEO, Brookfield Asset Management & Lubna Bouza - #FII6 - Day 2",
+            "description": "IN CONVERSATION: WEATHERING INFLATION I Future Investment Initiative 6th Edition\n\nInflation has become a global crisis. Consumer prices in June increased from 2021 by 9.1% in the U.S., and 9.6% in the E.U. And the factors fueling inflationary forces have carried across the world. In the U.S., worldwide supply crunches have failed to catch up to increased American consumer demand post-pandemic, raising prices. In Europe, diminished energy supplies have sent shockwaves across the economy. What are the factors contributing to global runaway inflation, and what do these pressures mean for the road ahead?\n\nSPEAKER\n\u25cf Bruce Flatt, CEO, Brookfield Asset Management MODERATOR\n\u25cf Lubna Bouza, Editor In Chief, Skynews Arabia"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT10M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7914",
+          "likeCount": "122",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "59_pNnIWo3hSQ_4B9Tt-xu1XX8E",
+        "id": "0Siy-oo1f9Q",
+        "snippet": {
+          "publishedAt": "2022-09-11T16:00:11Z",
+          "channelId": "UCFy61nfihhrTn9BlEIqMeEg",
+          "title": "5 sectores en los que Bruce Flatt recomienda invertir + Las caracter\u00edsticas de los mejores negocios",
+          "description": "Te muestro los consejos de inversi\u00f3n de Bruce Flatt (\"el Warren Buffett de Canad\u00e1\"), es el mejor gestor de activos del mundo y ha conseguido rentabilidades anualizadas del 15,5% durante m\u00e1s de 19 a\u00f1os como CEO de Brookfield Asset Management.\n\nLa principal diferencia entre Bruce Flatt y el resto de inversores es que Bruce invierte para hacerse el control de las compa\u00f1\u00edas y hace los cambios necesarios en ellas para lograr grandes rentabilidades (otros inversores como Warren Buffett compran participaciones minoritarias en una compa\u00f1\u00eda y no interfieren en la operativa).\n\nEn este v\u00eddeo te traigo la siguiente informaci\u00f3n redactada por el mismo Bruce Flatt: en qu\u00e9 sectores deber\u00edas invertir para no perder dinero, cu\u00e1les son las 6 cualidades que tienen los mejores negocios y qu\u00e9 preguntas deber\u00edas hacerte antes de invertir en una empresa. Junto con la informaci\u00f3n anterior ver\u00e1s ejemplos pr\u00e1cticos de acciones que cumplen cada una de las 6 cualidades de un buen negocio.\n\nPor otra parte, te analizo la cartera de unos de los mejores inversores value del mundo y disc\u00edpulo de Warren Buffett: Seth Klarman. Este superinversor ha conseguido rentabilidades anualizadas del 20% durante m\u00e1s de 34 a\u00f1os. Al analizar su cartera de inversi\u00f3n te descubro una tendencia de inversi\u00f3n bastante interesante.\n\nTambi\u00e9n encontrar\u00e1s en este v\u00eddeo un nuevo caso pr\u00e1ctico de trampa de valor y como siempre te analizo las acciones que me hab\u00e9is pedido en los comentarios.\n\n00:00 Introducci\u00f3n\n01:10 \u00a1SOMOS M\u00c1S DE 1.000 INVERSORES en el canal! Mil gracias\n01:55 C\u00f3mo deber\u00edas invertir seg\u00fan Bruce Flatt\n04:05 5 sectores en los que invierte Bruce Flatt (y donde deber\u00edas estar invertido)\n05:17 6 atributos que tienen las mejores empresas (introducci\u00f3n)\n07:06 Atributo 1  (ejemplos de acciones y preguntas clave)\n09:28 Atributo 2  (ejs. y preguntas clave)\n15:06 Atributo 3  (ejs. y preguntas clave)\n19:33 Atributo 4  (ejs. y preguntas clave)\n25:47 Atributo 5  (ejs. y preguntas clave)\n30:37 Atributo 6  (ejs. y preguntas clave)\n36:30 Pregunta para ti y anuncio\n37:28 La cartera de inversi\u00f3n de Seth Klarman\n41:38 Caso de trampa de valor: crecimiento del 23,1% anual !!!\n49:41 An\u00e1lisis de American Water\n55:46 An\u00e1lisis de Fluidra\n\n\u26a0\ufe0f S\u00edgueme: http://www.youtube.com/channel/UCFy61nfihhrTn9BlEIqMeEg?sub_confirmation=1\n\n\u2714\ufe0f Acu\u00e9rdate tambi\u00e9n de dejarme en los comentarios las acciones que quieras que analice.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nAn\u00e1lisis destacados\n\n\u2705 22 MONOPOLIOS para invertir con tranquilidad: https://www.youtube.com/watch?v=yZ0osWTwsD4\n\n\u2705 C\u00f3mo van a evolucionar las bolsas seg\u00fan Vanguard: https://www.youtube.com/watch?v=UeF_rwpBc_o\n\n\u2705 El indicador adelantado que predice la evoluci\u00f3n de la bolsa: https://www.youtube.com/watch?v=hrCoUGaZV6Q\n\n\u2705 An\u00e1lisis del sector REAL ESTATE / Inmobiliario / SOCIMI / REIT:  https://www.youtube.com/watch?v=Ph2NwOTBkm8\n\n\u2705 An\u00e1lisis de Apple: https://www.youtube.com/watch?v=-g6XevwF69M\n\n\u2705 An\u00e1lisis de Microsoft: https://www.youtube.com/watch?v=n2dOlp4GAJs\n\n\u2705 An\u00e1lisis de Meta Platforms (Facebook): https://www.youtube.com/watch?v=0-rzI9OlgBE\n\n\u2705 An\u00e1lisis de Amazon: https://www.youtube.com/watch?v=0-rzI9OlgBE\n\n\u2705 An\u00e1lisis de Alphabet (Google): https://www.youtube.com/watch?v=MTKGyxQiE8E\n\n\u2705 An\u00e1lisis de Netflix: https://www.youtube.com/watch?v=J3B5J05M5e4\n\n\u2705 An\u00e1lisis del S&P500: https://www.youtube.com/watch?v=AREr9-ibdk0\n\n\u2705 En qu\u00e9 invierten los mejores inversores (an\u00e1lisis de su cartera de inversi\u00f3n): https://www.youtube.com/watch?v=JNWkiaXe3qs\n\nOtros v\u00eddeos que te interesan:\n\n\ud83d\udc49\ud83c\udffb 20 acciones con margen de seguridad (seg\u00fan Goldman Sachs) \u2013 https://www.youtube.com/watch?v=ph5V7UI9C10\n\n\ud83d\udc49\ud83c\udffb \u00bfCu\u00e1les son las ventajas competitivas (MOATs) y qu\u00e9 100+ acciones tienen ventajas competitivas? \u2013 https://www.youtube.com/watch?v=zsjUeldfPhg\n\n\ud83d\udc49\ud83c\udffb Mejores y peores acciones para 2022 \u2013 https://www.youtube.com/watch?v=EWBMGK6f3EU\n\ud83d\udc49\ud83c\udffb Invertir usando Value Investing + An\u00e1lisis de Acciones \u2013 https://www.youtube.com/watch?v=QbNse675zj8\n\ud83d\udc49\ud83c\udffb La FED va a subir los tipos de inter\u00e9s \u00bfQu\u00e9 pasa ahora?: https://youtu.be/Mn35KJSZVP0\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n\u26a0\ufe0f Curso de bolsa para invertir GRATIS de la F\u00f3rmula Para Invertir: https://youtube.com/playlist?list=PLLTwlsxw_QvziEHKdpv3oP-1eqA1k9ZTZ\n\n\u2705 Este curso est\u00e1 destinado a aquellas personas que quieran aprender a invertir o que quieran saber c\u00f3mo invertir en acciones de la forma correcta.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nS\u00edgueme en mi otras redes:\nTwitter @ formulainvertir : https://twitter.com/formulainvertir\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nRecuerda que SI TE GUSTA ESTE V\u00cdDEO: DALE LIKE Y S\u00cdGUEME\n\n#formulaparainvertir #invertir #valueinvesting #inversion #aprenderainvertir #sp500 #nasdaq #analisisfundamental #analisisfinanciero #invertirenbolsa \n\n#brookfield #BruceFlatt #SethKlarman #warrenbuffett #Warren #Buffett #fluidra #invertirmejor #analisisdemercado #acciones #invertirdesdecero",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0Siy-oo1f9Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "La F\u00f3rmula para Invertir",
+          "tags": [
+            "invertir",
+            "inversi\u00f3n",
+            "formulaparainvertir",
+            "bolsa",
+            "acciones",
+            "aprenderainvertir",
+            "invertirenbolsa",
+            "an\u00e1lisisdeacciones"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "5 sectores en los que Bruce Flatt recomienda invertir + Las caracter\u00edsticas de los mejores negocios",
+            "description": "Te muestro los consejos de inversi\u00f3n de Bruce Flatt (\"el Warren Buffett de Canad\u00e1\"), es el mejor gestor de activos del mundo y ha conseguido rentabilidades anualizadas del 15,5% durante m\u00e1s de 19 a\u00f1os como CEO de Brookfield Asset Management.\n\nLa principal diferencia entre Bruce Flatt y el resto de inversores es que Bruce invierte para hacerse el control de las compa\u00f1\u00edas y hace los cambios necesarios en ellas para lograr grandes rentabilidades (otros inversores como Warren Buffett compran participaciones minoritarias en una compa\u00f1\u00eda y no interfieren en la operativa).\n\nEn este v\u00eddeo te traigo la siguiente informaci\u00f3n redactada por el mismo Bruce Flatt: en qu\u00e9 sectores deber\u00edas invertir para no perder dinero, cu\u00e1les son las 6 cualidades que tienen los mejores negocios y qu\u00e9 preguntas deber\u00edas hacerte antes de invertir en una empresa. Junto con la informaci\u00f3n anterior ver\u00e1s ejemplos pr\u00e1cticos de acciones que cumplen cada una de las 6 cualidades de un buen negocio.\n\nPor otra parte, te analizo la cartera de unos de los mejores inversores value del mundo y disc\u00edpulo de Warren Buffett: Seth Klarman. Este superinversor ha conseguido rentabilidades anualizadas del 20% durante m\u00e1s de 34 a\u00f1os. Al analizar su cartera de inversi\u00f3n te descubro una tendencia de inversi\u00f3n bastante interesante.\n\nTambi\u00e9n encontrar\u00e1s en este v\u00eddeo un nuevo caso pr\u00e1ctico de trampa de valor y como siempre te analizo las acciones que me hab\u00e9is pedido en los comentarios.\n\n00:00 Introducci\u00f3n\n01:10 \u00a1SOMOS M\u00c1S DE 1.000 INVERSORES en el canal! Mil gracias\n01:55 C\u00f3mo deber\u00edas invertir seg\u00fan Bruce Flatt\n04:05 5 sectores en los que invierte Bruce Flatt (y donde deber\u00edas estar invertido)\n05:17 6 atributos que tienen las mejores empresas (introducci\u00f3n)\n07:06 Atributo 1  (ejemplos de acciones y preguntas clave)\n09:28 Atributo 2  (ejs. y preguntas clave)\n15:06 Atributo 3  (ejs. y preguntas clave)\n19:33 Atributo 4  (ejs. y preguntas clave)\n25:47 Atributo 5  (ejs. y preguntas clave)\n30:37 Atributo 6  (ejs. y preguntas clave)\n36:30 Pregunta para ti y anuncio\n37:28 La cartera de inversi\u00f3n de Seth Klarman\n41:38 Caso de trampa de valor: crecimiento del 23,1% anual !!!\n49:41 An\u00e1lisis de American Water\n55:46 An\u00e1lisis de Fluidra\n\n\u26a0\ufe0f S\u00edgueme: http://www.youtube.com/channel/UCFy61nfihhrTn9BlEIqMeEg?sub_confirmation=1\n\n\u2714\ufe0f Acu\u00e9rdate tambi\u00e9n de dejarme en los comentarios las acciones que quieras que analice.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nAn\u00e1lisis destacados\n\n\u2705 22 MONOPOLIOS para invertir con tranquilidad: https://www.youtube.com/watch?v=yZ0osWTwsD4\n\n\u2705 C\u00f3mo van a evolucionar las bolsas seg\u00fan Vanguard: https://www.youtube.com/watch?v=UeF_rwpBc_o\n\n\u2705 El indicador adelantado que predice la evoluci\u00f3n de la bolsa: https://www.youtube.com/watch?v=hrCoUGaZV6Q\n\n\u2705 An\u00e1lisis del sector REAL ESTATE / Inmobiliario / SOCIMI / REIT:  https://www.youtube.com/watch?v=Ph2NwOTBkm8\n\n\u2705 An\u00e1lisis de Apple: https://www.youtube.com/watch?v=-g6XevwF69M\n\n\u2705 An\u00e1lisis de Microsoft: https://www.youtube.com/watch?v=n2dOlp4GAJs\n\n\u2705 An\u00e1lisis de Meta Platforms (Facebook): https://www.youtube.com/watch?v=0-rzI9OlgBE\n\n\u2705 An\u00e1lisis de Amazon: https://www.youtube.com/watch?v=0-rzI9OlgBE\n\n\u2705 An\u00e1lisis de Alphabet (Google): https://www.youtube.com/watch?v=MTKGyxQiE8E\n\n\u2705 An\u00e1lisis de Netflix: https://www.youtube.com/watch?v=J3B5J05M5e4\n\n\u2705 An\u00e1lisis del S&P500: https://www.youtube.com/watch?v=AREr9-ibdk0\n\n\u2705 En qu\u00e9 invierten los mejores inversores (an\u00e1lisis de su cartera de inversi\u00f3n): https://www.youtube.com/watch?v=JNWkiaXe3qs\n\nOtros v\u00eddeos que te interesan:\n\n\ud83d\udc49\ud83c\udffb 20 acciones con margen de seguridad (seg\u00fan Goldman Sachs) \u2013 https://www.youtube.com/watch?v=ph5V7UI9C10\n\n\ud83d\udc49\ud83c\udffb \u00bfCu\u00e1les son las ventajas competitivas (MOATs) y qu\u00e9 100+ acciones tienen ventajas competitivas? \u2013 https://www.youtube.com/watch?v=zsjUeldfPhg\n\n\ud83d\udc49\ud83c\udffb Mejores y peores acciones para 2022 \u2013 https://www.youtube.com/watch?v=EWBMGK6f3EU\n\ud83d\udc49\ud83c\udffb Invertir usando Value Investing + An\u00e1lisis de Acciones \u2013 https://www.youtube.com/watch?v=QbNse675zj8\n\ud83d\udc49\ud83c\udffb La FED va a subir los tipos de inter\u00e9s \u00bfQu\u00e9 pasa ahora?: https://youtu.be/Mn35KJSZVP0\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n\u26a0\ufe0f Curso de bolsa para invertir GRATIS de la F\u00f3rmula Para Invertir: https://youtube.com/playlist?list=PLLTwlsxw_QvziEHKdpv3oP-1eqA1k9ZTZ\n\n\u2705 Este curso est\u00e1 destinado a aquellas personas que quieran aprender a invertir o que quieran saber c\u00f3mo invertir en acciones de la forma correcta.\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nS\u00edgueme en mi otras redes:\nTwitter @ formulainvertir : https://twitter.com/formulainvertir\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nRecuerda que SI TE GUSTA ESTE V\u00cdDEO: DALE LIKE Y S\u00cdGUEME\n\n#formulaparainvertir #invertir #valueinvesting #inversion #aprenderainvertir #sp500 #nasdaq #analisisfundamental #analisisfinanciero #invertirenbolsa \n\n#brookfield #BruceFlatt #SethKlarman #warrenbuffett #Warren #Buffett #fluidra #invertirmejor #analisisdemercado #acciones #invertirdesdecero"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H2M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "529",
+          "likeCount": "47",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

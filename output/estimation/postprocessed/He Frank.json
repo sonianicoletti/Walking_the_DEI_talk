@@ -1,0 +1,135 @@
+{
+  "ceo": "He Frank",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ms0aktlKUHE7Iy7Z2edZGrD3wJo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wFNFYqNbGrHlywGl2YpMmA-mBHg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i52HSjTcELs"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-30T08:37:17Z",
+          "channelId": "UCf8-2krw-EU8jPtTtGzAElQ",
+          "title": "The Frank Gambale Interview",
+          "description": "Chris Johnston and I interview the one and only Frank Gambale! Frank gives a detailed interview about his unique and highly ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brett Garsed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-30T08:37:17Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "yzxYg8E6RFKmJSoOsqKKGhxpjPI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Qa3Q2d9hlSgHEj0QeYWoZJIqg3o",
+        "id": "i52HSjTcELs",
+        "snippet": {
+          "publishedAt": "2023-01-30T08:37:17Z",
+          "channelId": "UCf8-2krw-EU8jPtTtGzAElQ",
+          "title": "The Frank Gambale Interview",
+          "description": "Chris Johnston and I interview the one and only Frank Gambale! Frank gives a detailed interview about his unique and highly original style of guitar playing that revolutionized the instrument.  He also shows us his equally unique tuning that allows him to play keyboard voicings on the guitar which would be impossible in standard tuning.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i52HSjTcELs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brett Garsed",
+          "tags": [
+            "Frank Gambale",
+            "Brett Garsed",
+            "Chris Johnston",
+            "Fusion",
+            "Sweep Picking",
+            "Jazz",
+            "Thunder from downunder",
+            "Chick Corea",
+            "Electric Band",
+            "Guitar",
+            "improvisation",
+            "jazz fusion",
+            "rock fusion"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Frank Gambale Interview",
+            "description": "Chris Johnston and I interview the one and only Frank Gambale! Frank gives a detailed interview about his unique and highly original style of guitar playing that revolutionized the instrument.  He also shows us his equally unique tuning that allows him to play keyboard voicings on the guitar which would be impossible in standard tuning."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H14M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16930",
+          "likeCount": "729",
+          "favoriteCount": "0",
+          "commentCount": "74"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

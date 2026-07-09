@@ -1,0 +1,322 @@
+{
+  "ceo": "Ben Van Beurden",
+  "query": "Ben Van Beurden (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pUvdhG3ztq94isrr4ZZ4aIuJ1PE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qS2u3HRtsbMDV3bOyIcyBJY24wY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c3lznyXd_Sc"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-30T12:45:47Z",
+          "channelId": "UCvGcUpPRFGDzzZ0HAJAK2NQ",
+          "title": "108. Climate, Fossil Fuels and the Future of Shell with Ben Van Buerden",
+          "description": "In May 2021, the District Court in The Hague delivered its landmark ruling in the climate change case filed against Royal Dutch ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Outrage+Optimism",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-30T12:45:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cste16HI6Lnz7XO0_uDwtY5JVvY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3nRJBQYNb3w"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T17:05:35Z",
+          "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
+          "title": "Shell pays 15 million euros in compensation to Nigerian farmers",
+          "description": "\"Shell and Milieudefensie have negotiated a settlement for the benefit of the communities of Oruma, Goi and Ikot Ada Udo in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3nRJBQYNb3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3nRJBQYNb3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3nRJBQYNb3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "africanews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T17:05:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4QBeeqzreg7s0K2fyUOQXJHxhMY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EOvUhPBTYxM"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-26T03:21:57Z",
+          "channelId": "UCqZPu9mRHVn-p6LsKy_Eh8A",
+          "title": "How to survive year 12 (And ace the ATAR!)",
+          "description": "This is a recording of a FREE KIS Academics event: 23/01     Year 12 is coming up fast, and for those in NSW it's already here, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Keep It Simple Academics",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-26T03:21:57Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "tE7q9JEfbaOPxKha0jGmJGCbxyI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Y6gvSfGtP7hNJHHyG_pcEhkO-3Y",
+        "id": "c3lznyXd_Sc",
+        "snippet": {
+          "publishedAt": "2022-09-30T12:45:47Z",
+          "channelId": "UCvGcUpPRFGDzzZ0HAJAK2NQ",
+          "title": "108. Climate, Fossil Fuels and the Future of Shell with Ben Van Buerden",
+          "description": "In May 2021, the District Court in The Hague delivered its landmark ruling in the climate change case filed against Royal Dutch Shell (\u201cShell\u201d). In her ruling on the case, Judge Larisa Alwin ordered Shell to reduce its greenhouse gas emissions 45% by 2030 from 2019 levels. The court found that Shell\u2019s existing carbon mitigation strategy was \u201cnot concrete and is full of conditions \u2026 that\u2019s not enough.\u201d The court also ruled that Shell is responsible for emissions from its customers and suppliers, known as scope 3 emissions, and further that Shell\u2019s activities constituted a threat to the \u201cright to life\u201d and \u201cundisturbed family life,\u201d as set out in the European Convention on Human Rights.\n\nSo, what next? Pending an appeal to the case, how is Shell going to follow the court ruling to reduce its greenhouse gas emissions 45% by 2030? We sit down with Ben van Beurden, CEO of Royal Dutch Shell Plc to discuss what the decisive decade looks like for oil and gas majors.\n\nCatch up on our Race To Zero Series so that you\u2019re ready for next week\u2019s episode!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c3lznyXd_Sc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Outrage+Optimism",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "108. Climate, Fossil Fuels and the Future of Shell with Ben Van Buerden",
+            "description": "In May 2021, the District Court in The Hague delivered its landmark ruling in the climate change case filed against Royal Dutch Shell (\u201cShell\u201d). In her ruling on the case, Judge Larisa Alwin ordered Shell to reduce its greenhouse gas emissions 45% by 2030 from 2019 levels. The court found that Shell\u2019s existing carbon mitigation strategy was \u201cnot concrete and is full of conditions \u2026 that\u2019s not enough.\u201d The court also ruled that Shell is responsible for emissions from its customers and suppliers, known as scope 3 emissions, and further that Shell\u2019s activities constituted a threat to the \u201cright to life\u201d and \u201cundisturbed family life,\u201d as set out in the European Convention on Human Rights.\n\nSo, what next? Pending an appeal to the case, how is Shell going to follow the court ruling to reduce its greenhouse gas emissions 45% by 2030? We sit down with Ben van Beurden, CEO of Royal Dutch Shell Plc to discuss what the decisive decade looks like for oil and gas majors.\n\nCatch up on our Race To Zero Series so that you\u2019re ready for next week\u2019s episode!"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1H7M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "48",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ivrQZhS2595E4t_pqAYdDY2An2M",
+        "id": "3nRJBQYNb3w",
+        "snippet": {
+          "publishedAt": "2022-12-23T17:05:35Z",
+          "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
+          "title": "Shell pays 15 million euros in compensation to Nigerian farmers",
+          "description": "\"Shell and Milieudefensie have negotiated a settlement for the benefit of the communities of Oruma, Goi and Ikot Ada Udo in Nigeria, which were impacted by four oil spills between 2004 and 2007,\" the oil giant said in a statement.\n\nREAD MORE : https://www.africanews.com/2022/12/23/shell-pays-15-mln-euros-in-compensation-to-nigerian-farmers\n\nSubscribe on our Youtube channel https://www.youtube.com/c/africanews?sub_confirmation=1 and receive all the latest news from the continent.\n\nAfricanews is available in English and French.\nWebsite : www.africanews.com\nFacebook : https://www.facebook.com/africanews.channel/\nTwitter : https://twitter.com/africanews\n\n#afnews , #shell , #nigeria , #pollution , #environment",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3nRJBQYNb3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3nRJBQYNb3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3nRJBQYNb3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "africanews",
+          "tags": [
+            "Africanews",
+            "Farmers",
+            "Oil spill",
+            "Shell",
+            "castrol_negative_uk",
+            "gb_safe",
+            "gs_business",
+            "gs_law",
+            "gs_law_misc",
+            "gs_science",
+            "gs_society_misc",
+            "gv_safe",
+            "neg_audi_list2",
+            "neg_facebook_2021",
+            "neg_facebook_q4",
+            "neg_mobkoi_castrol",
+            "news",
+            "pos_equinor",
+            "pos_facebook",
+            "pos_pmi",
+            "pos_ukraine-russia",
+            "pos_ukrainecrisis"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shell pays 15 million euros in compensation to Nigerian farmers",
+            "description": "\"Shell and Milieudefensie have negotiated a settlement for the benefit of the communities of Oruma, Goi and Ikot Ada Udo in Nigeria, which were impacted by four oil spills between 2004 and 2007,\" the oil giant said in a statement.\n\nREAD MORE : https://www.africanews.com/2022/12/23/shell-pays-15-mln-euros-in-compensation-to-nigerian-farmers\n\nSubscribe on our Youtube channel https://www.youtube.com/c/africanews?sub_confirmation=1 and receive all the latest news from the continent.\n\nAfricanews is available in English and French.\nWebsite : www.africanews.com\nFacebook : https://www.facebook.com/africanews.channel/\nTwitter : https://twitter.com/africanews\n\n#afnews , #shell , #nigeria , #pollution , #environment"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M12S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "450",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FwxVuu4_o8bsK4YVjhEy0bNqdWs",
+        "id": "EOvUhPBTYxM",
+        "snippet": {
+          "publishedAt": "2022-01-26T03:21:57Z",
+          "channelId": "UCqZPu9mRHVn-p6LsKy_Eh8A",
+          "title": "How to survive year 12 (And ace the ATAR!)",
+          "description": "\ud83d\udd25\ud83d\udd25 This is a recording of a FREE KIS Academics event: 23/01\ud83d\udd25\ud83d\udd25\n\nYear 12 is coming up fast, and for those in NSW it's already here, so let's get straight to the point. This event gives you the opportunity to ask some of the top scorers in the entire country how they survived and thrived in year 12.\n\n\ud83e\udd37\u200d\u2640\ufe0f Why does KIS run these events?\nWe were in your shoes not too long ago and know just how stressful year 12 can be - so we want to help. Let us ease your mind and guide you through some tricky decisions by giving you the advice we wish we had when we started our year 12 journey's.\n\nAt KIS we believe students deserve free resources - it's just the right thing to do.\n\nThank us later \ud83d\ude0e\n\n\ud83e\udd14 What are we going to cover?\nWe will be covering:\nhow the ATAR is calculated\nanswering those burning questions about scaling,\nwhy your rank matters\nimportance of internal v externals\nmental health\nstudy life balance\napplying for uni\nlife after year 12\nand anything else you want to ask us!\n\n\ud83c\udf99 The Panelists\nFrom QLD we have \u2600\ufe0f\n\n\u2600\ufe0f Vishaak Gangasandra- 99.95 ATAR\n\nVishaak was THE top scorer (as in the very best of the best) in the QLD class of 2020. Vishaak was vice captain at his school and since graduating has appeared on panel discussions this year with notable figures including CEO of Shell (Ben van Beurden), Nobel Peace Prize Winner (Leymah Gbowee) and Rapper Will I Am.\n\nRead more about Vishaak here: https://kisacademics.com/w/tutors/vishaak-gangasandra-225\n\n\u2600\ufe0f Amelia Mackie - 99.30 ATAR\n\nAmelia is the head of our QLD team and has been working hard behind the scenes to make sure you know everything about the QCE system. Outside of KIS Amelia is currently pursuing her dream degree Bachelor of Science/Doctor of Medicine at UQ. Her hobbies ****include swimming, music and spending time with friends, which weren\u2019t activities she was willing to give up in order to achieve academic success.\n\nRead more about Amelia here: https://kisacademics.com/w/tutors/amelia-mackie-119\n\nFrom NSW we have \ud83c\udf38\n\n\ud83c\udf38 Josh Goldsmith - 99.85 ATAR\n\nJosh has gone on to study Math and Physics at the ANU. Josh love socialising, learning foreign languages, and playing cricket and piano. Whilst he don't have his whole future career mapped out, Josh says he would like it to be in something where he is constantly learning new things, and making a real difference to people's lives.\n\nRead more about Josh here: https://kisacademics.com/w/tutors/joshua-goldsmith-155\n\n\ud83c\udf38 Lilli Black - 97.40 ATAR\n\nLilli is also currently at the ANU studying Law and International Relations**.** In high school, Lilli devoted a lot of attention to her studies, whilst also participating in extracurriculars such as Basketball, debating, model UN and student leadership.\n\nRead more about Lilli here: https://kisacademics.com/w/tutors/lilli-black-221\n\nFrom VIC we have \ud83e\uded0\n\n\ud83e\uded0 Felix Zhou - 99.60 ATAR\n\nFelix is now studying Biomed after achieving a balance in academics, sports, music, leadership, and life outside of school. Felix has always kept himself busy and wants to share this experience with as many students as possible to let them know that it is possible to\n\nRead more about Felix here: https://kisacademics.com/w/tutors/felix-zhou-9\n\n\ud83e\uded0 Elena Cruz - 99.60 ATAR\n\nElena is our wonderful head of VCE here at KIS so is all over the victorian ATAR system. Elena was the Dux of her high school, completed accelerated subjects and received a VCE Premier's Award for Excellence in English. Now Elena is studying arts at uni and is a happy ****VCE survivor wanting to pass on tips and tricks- all the things that will ultimately help you help yourself!\n\nRead more about Elena here: https://kisacademics.com/w/tutors/elena-cruz-105\n\n\ud83e\udd29 Your Host - Emma Ashley\nEmma Ashley is not only the KIS Academics Events Manager who has put this all together for you but also a top scorer herself achieving a 99.45 ATAR in 2020! With a years worth of tutoring experience under her belt - she knows just what students want and desperately need!! Trust me - you are in good hands \ud83e\udd70\n\n\ud83e\udde0 Want to know more about KIS?\nThis free event is organised by KIS Academics. For more free resources, online courses and private tutoring, visit the KIS Academics website:\n\nhttps://kisacademics.com/\n\n\n\ud83e\udd7a Can't Get Enough of our FREE lecturers?\nAttend future events: https://kisacademics.com/w/events",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EOvUhPBTYxM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Keep It Simple Academics",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How to survive year 12 (And ace the ATAR!)",
+            "description": "\ud83d\udd25\ud83d\udd25 This is a recording of a FREE KIS Academics event: 23/01\ud83d\udd25\ud83d\udd25\n\nYear 12 is coming up fast, and for those in NSW it's already here, so let's get straight to the point. This event gives you the opportunity to ask some of the top scorers in the entire country how they survived and thrived in year 12.\n\n\ud83e\udd37\u200d\u2640\ufe0f Why does KIS run these events?\nWe were in your shoes not too long ago and know just how stressful year 12 can be - so we want to help. Let us ease your mind and guide you through some tricky decisions by giving you the advice we wish we had when we started our year 12 journey's.\n\nAt KIS we believe students deserve free resources - it's just the right thing to do.\n\nThank us later \ud83d\ude0e\n\n\ud83e\udd14 What are we going to cover?\nWe will be covering:\nhow the ATAR is calculated\nanswering those burning questions about scaling,\nwhy your rank matters\nimportance of internal v externals\nmental health\nstudy life balance\napplying for uni\nlife after year 12\nand anything else you want to ask us!\n\n\ud83c\udf99 The Panelists\nFrom QLD we have \u2600\ufe0f\n\n\u2600\ufe0f Vishaak Gangasandra- 99.95 ATAR\n\nVishaak was THE top scorer (as in the very best of the best) in the QLD class of 2020. Vishaak was vice captain at his school and since graduating has appeared on panel discussions this year with notable figures including CEO of Shell (Ben van Beurden), Nobel Peace Prize Winner (Leymah Gbowee) and Rapper Will I Am.\n\nRead more about Vishaak here: https://kisacademics.com/w/tutors/vishaak-gangasandra-225\n\n\u2600\ufe0f Amelia Mackie - 99.30 ATAR\n\nAmelia is the head of our QLD team and has been working hard behind the scenes to make sure you know everything about the QCE system. Outside of KIS Amelia is currently pursuing her dream degree Bachelor of Science/Doctor of Medicine at UQ. Her hobbies ****include swimming, music and spending time with friends, which weren\u2019t activities she was willing to give up in order to achieve academic success.\n\nRead more about Amelia here: https://kisacademics.com/w/tutors/amelia-mackie-119\n\nFrom NSW we have \ud83c\udf38\n\n\ud83c\udf38 Josh Goldsmith - 99.85 ATAR\n\nJosh has gone on to study Math and Physics at the ANU. Josh love socialising, learning foreign languages, and playing cricket and piano. Whilst he don't have his whole future career mapped out, Josh says he would like it to be in something where he is constantly learning new things, and making a real difference to people's lives.\n\nRead more about Josh here: https://kisacademics.com/w/tutors/joshua-goldsmith-155\n\n\ud83c\udf38 Lilli Black - 97.40 ATAR\n\nLilli is also currently at the ANU studying Law and International Relations**.** In high school, Lilli devoted a lot of attention to her studies, whilst also participating in extracurriculars such as Basketball, debating, model UN and student leadership.\n\nRead more about Lilli here: https://kisacademics.com/w/tutors/lilli-black-221\n\nFrom VIC we have \ud83e\uded0\n\n\ud83e\uded0 Felix Zhou - 99.60 ATAR\n\nFelix is now studying Biomed after achieving a balance in academics, sports, music, leadership, and life outside of school. Felix has always kept himself busy and wants to share this experience with as many students as possible to let them know that it is possible to\n\nRead more about Felix here: https://kisacademics.com/w/tutors/felix-zhou-9\n\n\ud83e\uded0 Elena Cruz - 99.60 ATAR\n\nElena is our wonderful head of VCE here at KIS so is all over the victorian ATAR system. Elena was the Dux of her high school, completed accelerated subjects and received a VCE Premier's Award for Excellence in English. Now Elena is studying arts at uni and is a happy ****VCE survivor wanting to pass on tips and tricks- all the things that will ultimately help you help yourself!\n\nRead more about Elena here: https://kisacademics.com/w/tutors/elena-cruz-105\n\n\ud83e\udd29 Your Host - Emma Ashley\nEmma Ashley is not only the KIS Academics Events Manager who has put this all together for you but also a top scorer herself achieving a 99.45 ATAR in 2020! With a years worth of tutoring experience under her belt - she knows just what students want and desperately need!! Trust me - you are in good hands \ud83e\udd70\n\n\ud83e\udde0 Want to know more about KIS?\nThis free event is organised by KIS Academics. For more free resources, online courses and private tutoring, visit the KIS Academics website:\n\nhttps://kisacademics.com/\n\n\n\ud83e\udd7a Can't Get Enough of our FREE lecturers?\nAttend future events: https://kisacademics.com/w/events"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1H10M23S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "241",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

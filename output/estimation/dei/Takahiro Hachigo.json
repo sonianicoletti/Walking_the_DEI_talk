@@ -1,0 +1,149 @@
+{
+  "ceo": "Takahiro Hachigo",
+  "query": "Takahiro Hachigo (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "9Jsezs21YVKQ_sLYQ4UW8FOuh0E",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2Wc-7NAhTblhQ_ugfRcj6yfeKTU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XvNjBfY89Q8"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-03T11:32:18Z",
+          "channelId": "UC-Oa163PsSBm_jPTbIb9N1w",
+          "title": "SANTANDER INTERNATIONAL BANKING CONFERENCE 2022 | Keys to growth in a changing economy",
+          "description": "Moderator: James Harding Speakers: Ana Bot\u00edn, Roberto Campos Neto, Oby Ezekwesili and Johannes Hahn Real economic, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BANCO SANTANDER",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-03T11:32:18Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "CgaLQVxOVQtOpYx-JAPT8w3qL_Q",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "mmeE6as8pa3my6cAo7iKiVR-enw",
+        "id": "XvNjBfY89Q8",
+        "snippet": {
+          "publishedAt": "2022-11-03T11:32:18Z",
+          "channelId": "UC-Oa163PsSBm_jPTbIb9N1w",
+          "title": "SANTANDER INTERNATIONAL BANKING CONFERENCE 2022 | Keys to growth in a changing economy",
+          "description": "Moderator: James Harding\nSpeakers: Ana Bot\u00edn, Roberto Campos Neto, Oby Ezekwesili and Johannes Hahn\n\nReal economic, social and technological imperatives drove the latest wave of globalization for more than four decades, raising global prosperity, reducing inequality among nations and fostering more open societies. That wave has given way to a new fragmentation, driven largely by geopolitical strategic concerns and history. Has globalization run its course? How far can fragmentation go? What does the new trend mean for people, businesses and societies? How has the role of businesses changed?\n\nMore info: https://www.santander.com/en/press-room/santander-international-banking-conference/2022?utm_source=youtube&utm_medium=social\n\n#SantanderIBC #AnaBotin #BancoSantander \n\nSubscribe to Santander Bank's YouTube Channel: https://www.youtube.com/channel/UC-Oa...\nMore about Financial Results and Shareholders Meetings: https://www.youtube.com/playlist?list=PLJFRFrcmkqdysvvWzW05HLA3qEXYTqapx\n\nFollow us on Social Media:\nTwitter: https://twitter.com/bancosantander\nLinkedIn: https://www.linkedin.com/company/banco-santander\n\nWelcome to SantanderGroup, the official communication channel of Santander Bank on YouTube. All bank information can be found in the corporate web communication room, at www.santander.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XvNjBfY89Q8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BANCO SANTANDER",
+          "tags": [
+            "santander ibc",
+            "SANTANDER INTERNATIONAL BANKING CONFERENCE",
+            "banco santander",
+            "ohannes Hahn",
+            "Ana Bot\u00edn's Speech",
+            "take another look",
+            "conferencia internacional de banca",
+            "santander conferencia internacional de banca",
+            "discurso ana botin",
+            "ana botin",
+            "economia cambiante",
+            "economia",
+            "futuro dinero",
+            "criptomonedas",
+            "digitalizacion",
+            "economy",
+            "changing economy",
+            "digitalization",
+            "currencies",
+            "future of money",
+            "cryto",
+            "cryptocurrency",
+            "nadia calvi\u00f1o",
+            "cryptocurrency news",
+            "santander",
+            "ana bot\u00edn's speech",
+            "ana bot\u00edn"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "SANTANDER INTERNATIONAL BANKING CONFERENCE 2022 | Keys to growth in a changing economy",
+            "description": "Moderator: James Harding\nSpeakers: Ana Bot\u00edn, Roberto Campos Neto, Oby Ezekwesili and Johannes Hahn\n\nReal economic, social and technological imperatives drove the latest wave of globalization for more than four decades, raising global prosperity, reducing inequality among nations and fostering more open societies. That wave has given way to a new fragmentation, driven largely by geopolitical strategic concerns and history. Has globalization run its course? How far can fragmentation go? What does the new trend mean for people, businesses and societies? How has the role of businesses changed?\n\nMore info: https://www.santander.com/en/press-room/santander-international-banking-conference/2022?utm_source=youtube&utm_medium=social\n\n#SantanderIBC #AnaBotin #BancoSantander \n\nSubscribe to Santander Bank's YouTube Channel: https://www.youtube.com/channel/UC-Oa...\nMore about Financial Results and Shareholders Meetings: https://www.youtube.com/playlist?list=PLJFRFrcmkqdysvvWzW05HLA3qEXYTqapx\n\nFollow us on Social Media:\nTwitter: https://twitter.com/bancosantander\nLinkedIn: https://www.linkedin.com/company/banco-santander\n\nWelcome to SantanderGroup, the official communication channel of Santander Bank on YouTube. All bank information can be found in the corporate web communication room, at www.santander.com"
+          },
+          "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+          "duration": "PT43M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1358",
+          "likeCount": "12",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

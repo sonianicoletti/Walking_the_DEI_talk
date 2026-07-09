@@ -1,0 +1,23 @@
+{
+  "ceo": "Yuki Kusumi",
+  "query": "Yuki Kusumi (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "T6fhsMVM42K8Muy8aRJ4r0XR0pY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 5
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "-3_b_4i1pVSZ3g2b0zE99f143bQ",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

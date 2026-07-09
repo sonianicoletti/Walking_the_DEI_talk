@@ -1,0 +1,23 @@
+{
+  "ceo": "Ryan M. Lance",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "NlLelTXVzzaqjnb2eQMJ1rq2J-8",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 65925,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "NS70M4muJ1L4ykjsb8Et51HZHMU",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

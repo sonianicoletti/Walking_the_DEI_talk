@@ -1,0 +1,23 @@
+{
+  "ceo": "Brian C. Cornell",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "HXmnz4CuGd2koofl0gXSldIcU1Y",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 303,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "hs-ALUHu_wI9WXeCiEqKxFrqHLo",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

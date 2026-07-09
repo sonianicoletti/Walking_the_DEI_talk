@@ -1,0 +1,120 @@
+{
+  "ceo": "Thomas P. Gottstein",
+  "query": "Thomas P. Gottstein (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "REGxHpumI-8z8dll8hlfIGYqdIo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SLmbzs79yMs5M3CGWUlFV0deOlU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T0Kt_Lb8Ut0"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-25T16:08:12Z",
+          "channelId": "UCeJAxUH2PEE9g_b0hqRL66Q",
+          "title": "Credit Suisse\u2019s sustainability objectives and shaking up the world of finance",
+          "description": "Marisa discusses how sustainability is reshaping Credit Suisse and the world of finance, why private capital is needed to achieve ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Deloitte Switzerland",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-25T16:08:12Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "72Dfu9qqqTa1R8e2NRm3g_pK_hQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "UMHyIRHvtYY3Awd8AwIuJnqB0d8",
+        "id": "T0Kt_Lb8Ut0",
+        "snippet": {
+          "publishedAt": "2022-01-25T16:08:12Z",
+          "channelId": "UCeJAxUH2PEE9g_b0hqRL66Q",
+          "title": "Credit Suisse\u2019s sustainability objectives and shaking up the world of finance",
+          "description": "Marisa discusses how sustainability is reshaping Credit Suisse and the world of finance, why private capital is needed to achieve the UN\u2019s Sustainable Development Goals and how she is using her role to solve our biggest challenges.\n\nSee more interviews: https://www2.deloitte.com/ch/en/pages/risk/articles/visionary-heroes.html",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/T0Kt_Lb8Ut0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Deloitte Switzerland",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Credit Suisse\u2019s sustainability objectives and shaking up the world of finance",
+            "description": "Marisa discusses how sustainability is reshaping Credit Suisse and the world of finance, why private capital is needed to achieve the UN\u2019s Sustainable Development Goals and how she is using her role to solve our biggest challenges.\n\nSee more interviews: https://www2.deloitte.com/ch/en/pages/risk/articles/visionary-heroes.html"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT43M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "587",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

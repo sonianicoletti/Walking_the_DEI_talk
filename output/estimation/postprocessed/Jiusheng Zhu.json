@@ -1,0 +1,22 @@
+{
+  "ceo": "Jiusheng Zhu",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "dN4rw6A6FX9XHUH1ocGQPTlAGX0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KSSEf9Mtew5jXVj-QUFzr6CN94c",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

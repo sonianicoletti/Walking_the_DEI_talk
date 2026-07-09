@@ -1,0 +1,222 @@
+{
+  "ceo": "Bharat B. Masrani",
+  "query": "Bharat B. Masrani (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ciJTI2h_RTPyQONxRid89f2TtGw",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TPPR_Jas77NaO3l62c7sEInw4Kk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3X0hTZN3TBY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T16:44:44Z",
+          "channelId": "UC5Cr0l3VUR5aOTcQDZ51_ow",
+          "title": "SIDHU MOOSE WALA Da Asool C, Oh Kde Mang Ke Taarhi Nhi Lenda C #sidhumoosewala #liveshow#chachasinri",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chacha Sinri Shorts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T16:44:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QFjwclSp-u7eA5JkX0UnowA73tU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_Vx4aTmVdl8"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-24T04:38:01Z",
+          "channelId": "UCJrmiC0df4Dj1f-I6F8yxjA",
+          "title": "#Golda Chingri  DirectContact No -9002598447 -  #Tuhin(Medinipurer)#Short Video #Shorts#Viral Video",
+          "description": "I Tuhin Rana Galda Chingri Business Man From- Medinipurer, West Bengal, India Phone No- 9002598447 Any one can contact ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TUHIN RANA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-24T04:38:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5EdyHOXkNAD89FgexjkiMjWtGqg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "unwoFdBTE61hGQm6-el1O4V9hJU",
+        "id": "3X0hTZN3TBY",
+        "snippet": {
+          "publishedAt": "2022-12-15T16:44:44Z",
+          "channelId": "UC5Cr0l3VUR5aOTcQDZ51_ow",
+          "title": "SIDHU MOOSE WALA Da Asool C, Oh Kde Mang Ke Taarhi Nhi Lenda C #sidhumoosewala #liveshow#chachasinri",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3X0hTZN3TBY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chacha Sinri Shorts",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "SIDHU MOOSE WALA Da Asool C, Oh Kde Mang Ke Taarhi Nhi Lenda C #sidhumoosewala #liveshow#chachasinri",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2039011",
+          "likeCount": "58984",
+          "favoriteCount": "0",
+          "commentCount": "124"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QKRlxmHouzVN7jLp5ymBxrz4dPw",
+        "id": "_Vx4aTmVdl8",
+        "snippet": {
+          "publishedAt": "2022-09-24T04:38:01Z",
+          "channelId": "UCJrmiC0df4Dj1f-I6F8yxjA",
+          "title": "#Golda Chingri  DirectContact No -9002598447 -  #Tuhin(Medinipurer)#Short Video #Shorts#Viral Video",
+          "description": "I Tuhin Rana\nGalda Chingri Business Man\nFrom- Medinipurer, West Bengal, India\nPhone No- 9002598447\nAny one can contact with me for Galda Chingri, Bagda\nBangladesh ka all Fisherman mera sath contact kar sakta ho is no me\n\nI will try to help all the fisherman \n\nAll India ma Galda supply hota ha in one call .\n\nMeri daily ka Galda Chingri ka vdo is channel me agaga \n\nDaily Vdo update paneklia channel ko \n\nLIKE OR SUBSCRIBE karia.\u2764\ufe0f\ud83d\udc4d\ud83e\udd1d\ud83c\udf10\ud83c\udf0e\ud83c\udf0a\n\nThanks for Watching\n\nGod Bless all\nSab khus raiha or paribar ko khus  rakhiya\n\nYour Quary\n#Tuhin\n#Tuhinrana\n#Golda\n#Galda\n#Galdachingri\n#Fishari\n#Machli \n#Machli palan in west bengal\n# Tuhin Dada\n#Dada\n\nLove you all\nEnjoy Life\nBest of Luck",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_Vx4aTmVdl8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TUHIN RANA",
+          "tags": [
+            "#Tuhin",
+            "#Tuhindada",
+            "#Golda",
+            "#Galda chingri",
+            "#Machli in West bengal"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#Golda Chingri  DirectContact No -9002598447 -  #Tuhin(Medinipurer)#Short Video #Shorts#Viral Video",
+            "description": "I Tuhin Rana\nGalda Chingri Business Man\nFrom- Medinipurer, West Bengal, India\nPhone No- 9002598447\nAny one can contact with me for Galda Chingri, Bagda\nBangladesh ka all Fisherman mera sath contact kar sakta ho is no me\n\nI will try to help all the fisherman \n\nAll India ma Galda supply hota ha in one call .\n\nMeri daily ka Galda Chingri ka vdo is channel me agaga \n\nDaily Vdo update paneklia channel ko \n\nLIKE OR SUBSCRIBE karia.\u2764\ufe0f\ud83d\udc4d\ud83e\udd1d\ud83c\udf10\ud83c\udf0e\ud83c\udf0a\n\nThanks for Watching\n\nGod Bless all\nSab khus raiha or paribar ko khus  rakhiya\n\nYour Quary\n#Tuhin\n#Tuhinrana\n#Golda\n#Galda\n#Galdachingri\n#Fishari\n#Machli \n#Machli palan in west bengal\n# Tuhin Dada\n#Dada\n\nLove you all\nEnjoy Life\nBest of Luck"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "335538",
+          "likeCount": "2122",
+          "favoriteCount": "0",
+          "commentCount": "63"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

@@ -1,0 +1,3304 @@
+{
+  "ceo": "Carlos Tavares",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7OKQ8vTZKC0DsE_qmNPXjShotPQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 14869,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PSOr0kBGk8f4IlgDbdpd8Hovc0U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "szfFJtpb_6U"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-11T23:55:12Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "Exclusive interview : Carlos Tavares",
+          "description": "Interview exclusive ! Grand entretien avec Carlos Tavares, directeur g\u00e9n\u00e9ral du groupe Stellantis diffus\u00e9 en direct sur Reuters TV, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-11T23:55:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uDnuVhtOAwPFNFBEunTX3PcPkdg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5Ty1lfDMtvU"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-11T16:37:45Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "EXCLUSIVE INTERVIEW : CARLOS TAVARES",
+          "description": "Interview exclusive ! Grand entretien avec Carlos Tavares, directeur g\u00e9n\u00e9ral du groupe Stellantis diffus\u00e9 en direct sur Reuters TV, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-11T16:37:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "25sHuBrAfNa8XjGqxzOu698NaUU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Bx7AO-8NEZ4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-07T14:29:50Z",
+          "channelId": "UCKgSLvI1SYKOTpEToycAz7Q",
+          "title": "Stellantis Dare Forward 2030 - Highlights by CEO Carlos Tavares",
+          "description": "\"Dare Forward 2030\" is #Stellantis' bold strategic plan for the coming decade. It will drive Stellantis employees to be 'second to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stellantis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-07T14:29:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HGFdUg6g9ASL9Wx7jHv8AAGBeyQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C64EWY2SxzU"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-18T16:48:54Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "Interview Carlos Tavares, CEO de Stellantis / Mondial de l&#39;Automobile 2022",
+          "description": "Interview Carlos Tavares, CEO de Stellantis / Mondial de l'Automobile 2022. Carlos Tavares nous donne son avis sur le Mondial ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-18T16:48:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W4WnthLQmbnVFgIcDxongm3fbbA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Jf9vYJ6RHz4"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-20T16:27:39Z",
+          "channelId": "UCKgSLvI1SYKOTpEToycAz7Q",
+          "title": "Stellantis CEO Carlos Tavares Keynote | Paris Automotive Summit 2022",
+          "description": "Stellantis #CEO Carlos Tavares addressed the Company's progress on its commitments during a #keynote speech on October 18, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stellantis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-20T16:27:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8jZY-8Hwr7WanqDz8MqZ7dBUxbU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7Ku23CkmtTY"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-10T10:31:40Z",
+          "channelId": "UCKgSLvI1SYKOTpEToycAz7Q",
+          "title": "Stellantis: Carlos Tavares Webcast at #CES2022",
+          "description": "Stellantis #CEO Carlos Tavares hosts webcast to discuss the transition of #Stellantis to a sustainable mobility tech company.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stellantis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-10T10:31:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0K9SJDQT4IYpssmqiYAXFbw_QcE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V06H9twViIA"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-14T18:32:02Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "ENTRETIEN EXCLUSIF : CARLOS TAVARES R\u00c9ACTIONS",
+          "description": "Claude Cham, Patrick Roger, Serge Gachot et Fr\u00e9d\u00e9ric Bedin nous donnent leur avis sur cette premi\u00e8re de Mobility TV World.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-14T18:32:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zgWqxu8fyMye-1dLsT61wvXbDCM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EXJgqBKFVIY"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-13T17:32:36Z",
+          "channelId": "UCIMGfEAERXjmWwQeg15BFsg",
+          "title": "Stellantis : le salaire de Carlos Tavares provoque des remous",
+          "description": "Les millions d'euros de primes attribu\u00e9es au directeur g\u00e9n\u00e9ral du groupe automobile Stellantis (Peugeot-Citro\u00ebn-Fiat...), Carlos ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Europe 1",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-13T17:32:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1zLLkpVEsKq4sMd4vKiHQmQJYkE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rhxTOjI2PGc"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-05T07:07:28Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares, CEO Stellantis, speaks about Dare Forward 2030 program - Motor News n\u00b0 6 (2022)",
+          "description": "After one year since Stellantis has been created, the CEO Carlos Tavares speaks about the first long term strategic plan named ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-05T07:07:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ErUeTWKiwh0ItvvitpSGzMAwn-g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "15yPjtpot4M"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-06T10:00:24Z",
+          "channelId": "UCZ1adoWtdSQGI79Uq9zaGzQ",
+          "title": "Carlos TAVARES (Stellantis) sur le Bang \u00e0 #BIG2022",
+          "description": "Retrouvez l'intervention de Carlos TAVARES, Dirigeant de Stellantis sur la grande sc\u00e8ne du Bang \u00e0 l'occasion de la 8e \u00e9dition de ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bpifrance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-06T10:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CylPXICRvSxFLnl2q2GwbCvStZM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_xLrxR4IQOQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-28T14:37:45Z",
+          "channelId": "UChZWs6PJY0hND384d2_RrhQ",
+          "title": "Carlos Tavares, un patron hors du commun en 6 dates cl\u00e9s",
+          "description": "Carlos Tavares a fait toute sa carri\u00e8re chez des constructeurs automobiles. Arriv\u00e9 en 1981 chez Renault, il est aujourd'hui le ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Les Echos",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-28T14:37:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8HrFOXViG1oYgKjGNXsSAGEZXaw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fXMQbEtEFwo"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T07:30:09Z",
+          "channelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+          "title": "Philippe Caverivi\u00e8re face \u00e0 Carlos Tavares",
+          "description": "Philippe Caverivi\u00e8re est revenu sur l'attribution du Ballon d'Or ce soir. Karim Benzema devrait succ\u00e9der \u00e0 Zin\u00e9dine Zidane ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RTL  ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T07:30:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wWC5fpVK182cWIgsJzsGvCsk01s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Nq2aj2hBMlE"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-25T14:02:54Z",
+          "channelId": "UC-6qccHOCby3QI9dtqrR6ng",
+          "title": "Carlos Tavares - der Stellantis CEO im Interview mit Christian Danner",
+          "description": "Christian Danner hatte w\u00e4hrend des 24h-Rennen auf dem N\u00fcrburgring die Gelegenheit den CEO von Stelantis / PSA-Group ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nq2aj2hBMlE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nq2aj2hBMlE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nq2aj2hBMlE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marius Althof",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-25T14:02:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WaQ6E4MXIQQJPBwfJbu8gdLvqKc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J7b0UmfFmjs"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-15T12:46:45Z",
+          "channelId": "UCnJ8fyizHQi6A_5_5Im7cVA",
+          "title": "Pourquoi les actionnaires de Stellantis ont-ils vot\u00e9 contre la r\u00e9mun\u00e9ration de Carlos Tavares ?",
+          "description": "Les actionnaires de Stellantis ont vot\u00e9 \u00e0 52% contre le package de r\u00e9mun\u00e9ration colossale de Carlos Tavares, de pr\u00e8s de 66 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Boursorama",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-15T12:46:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VL7-K06kMd81ONFUoQw9OkmObvI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "55kcGw6dLj4"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-14T15:16:51Z",
+          "channelId": "UCIhN4qlifcx1PBTZRHO5oGQ",
+          "title": "\u00bfCARLOS TAVARES POL\u00c9MICO?",
+          "description": "Dale \"Me Gusta\" / Suscr\u00edbete / Comparte. El pago recibido por el CEO de Stellantis en 2021 est\u00e1 causando reacciones negativas.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FIATISTI",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-14T15:16:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VT_RFRlwAWgb4CqtC1bdZcsABBE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hp6kd6e3ouk"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-26T02:24:06Z",
+          "channelId": "UCjzBsoy7fMZE8lm5T13QD2w",
+          "title": "Message to Carlos Tavares Stellantis",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sharyn",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-26T02:24:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "81d8R4ZmegaMUsCX2z73KakbL2A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LGG1zzjNj8g"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T17:48:23Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Carlos Tavares est l&#39;invit\u00e9 d&#39;Hedwige Chevrillon",
+          "description": "\"Nous sommes pr\u00eats pour la course, (...) les d\u00e9cisions dogmatiques europ\u00e9ennes ont d\u00e9roul\u00e9 un tapis rouge devant les ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T17:48:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_0d8tjvDN1xll3k3VevCEBaPBtg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UGeYs23n8XU"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T09:30:07Z",
+          "channelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+          "title": "Stellantis : &quot;Il n&#39;y a pas de fermetures d&#39;usines&quot;, assure Carlos Tavares",
+          "description": "\"Il n'y a pas de fermetures d'usines\", assure Carlos Tavares, au micro d'Amandine B\u00e9got en direct du Mondial de l'auto.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RTL  ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T09:30:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sO4uKIYnOQPifbjyU1oSTCvMvA8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3nNxIOvKrHA"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-13T11:00:25Z",
+          "channelId": "UCoaaAzTbSEUVvCgWdiEwxDw",
+          "title": "Alfa Romeo Tonale | Carlos Tavares ve Jean Philippe Imparato ile \u00e7ok \u00f6zel bir test s\u00fcr\u00fc\u015f\u00fc",
+          "description": "Carlos Tavares ve Jean-Philippe Imparato, Alfa Romeo'nun ilk elektrikli arac\u0131 olan yeni Tonale'yi, \u0130talyan bilim insan\u0131 Alessandro ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Alfa Romeo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-13T11:00:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "15k4z-yLN2cNLo8lSWVeE9YtfaY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_nTnidAoII4"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-14T09:11:58Z",
+          "channelId": "UCCCPCZNChQdGa9EkATeye4g",
+          "title": "La r\u00e9mun\u00e9ration de Carlos Tavares choque jusqu&#39;aux actionnaires de Stellantis \u2022 FRANCE 24",
+          "description": "Les actionnaires de Stellantis se sont prononc\u00e9s mercredi contre l'enveloppe salariale pr\u00e9vue pour la r\u00e9mun\u00e9ration de la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FRANCE 24",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-14T09:11:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iSpvsXIJ-GN3XukWuIeYbTny5qY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7zbZfw8mjE4"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-12T20:02:56Z",
+          "channelId": "UCZ1adoWtdSQGI79Uq9zaGzQ",
+          "title": "Carlos TAVARES on the BANG at BIG2022",
+          "description": "Speech of Carlos TAVARES, Stelliantis, on the main stage of the #Bang during the 8th edition of #Bpifrance Inno Generation, the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bpifrance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-12T20:02:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XnNQCOcbdm6jW6UBZT5kX7R81ms",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2smSy0yke4E"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-11T16:09:33Z",
+          "channelId": "UC6IlmSvgI9XLvj-NRXUmnoA",
+          "title": "2022 Le Mans Classic with Carlos Tavares",
+          "description": "On the occasion of the 10th edition of Le Mans Classic, one of the biggest classic car events, we had the pleasure to welcome Mr.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Heritage HUB Italy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-11T16:09:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mrr5EpfYHPU1cxLmsh6TVEObxmU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Boirf2vUBGE"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-19T09:07:23Z",
+          "channelId": "UCEqpPisICUloX3IGkt7__kw",
+          "title": "itw Carlos TAVARES Oct 22 FRANCEINFO CLE",
+          "description": "ITW du Patron du groupe Stellantis, 14 marques automobiles (Peugeot/Fiat/Jeep/Opel/DS...) en direct du Mondial de l'Auto dans ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bazizin Luc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-19T09:07:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w9HWz8SCPibFGhnk4wrF_K7F1Ek",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j1pMfZJXEP8"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-13T12:56:45Z",
+          "channelId": "UCt25dvtlJ922JGvh1dRU4LA",
+          "title": "Por\u00e3o de Cultura Entrevista - Carlos Tavares e John Snake (Corinthians MMA)",
+          "description": "Vem galera, abre a porta e acende a luz e chega pro Por\u00e3o! Salve Galera vamos conversar com @treinador.carlos_tavares e o ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Por\u00e3o de Cultura",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-13T12:56:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-GYSbHJ0BCKJxUeMSjwUCBSJCQ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ABiYg2nf6JU"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-12T16:24:23Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares e le monoposto elettriche - Electric Motor News n\u00b0 13 (2022)",
+          "description": "Il CEO di Stellantis Carlos Tavares parla delle monoposto elettriche e di alcuni particolari che riguardano la guida e i piloti, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-12T16:24:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1N1lhV-O15GliXobsdcmCCNsr40",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1nKYdwHQtZw"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-07T14:02:51Z",
+          "channelId": "UCQd5LYcykaFeZtjDaP3bNSA",
+          "title": "La le\u00e7on chinoise du professeur Carlos Tavares",
+          "description": "C'est un moment essentiel durant lequel l'un des plus grands patrons de la plan\u00e8te parle sans chichis ni langue de bois de la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Le Point",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-07T14:02:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BByOpp2_sqdDOs3jqNstRcQQO4Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LQFzBM0eEdA"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-14T13:15:57Z",
+          "channelId": "UCCCPCZNChQdGa9EkATeye4g",
+          "title": "66 millions d&#39;euros pour Carlos Tavares : le salaire du dirigeant de Stellantis contest\u00e9",
+          "description": "Les millions d'euros de primes attribu\u00e9es aux dirigeants du groupe automobile Stellantis (Peugeot, Citro\u00ebn, Fiat...) pour l'ann\u00e9e ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FRANCE 24",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-14T13:15:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "C_N6lPdkyskoX6aGlmtX6EGE1sc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jfhzANrebDQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-10T11:15:13Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares talks about Formula E and Formula 1 - Electric Motor News dal Roma E-Prix",
+          "description": "What does the CEO of the Stellantis Group think of Formula E and Formula 1. We asked him in the pits of the Rome E-Prix ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-10T11:15:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Pkw4WiD2WHg2NcR6mll7l5tlaBc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pEOjjI647ks"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-21T17:43:48Z",
+          "channelId": "UCg7J9d8r2ojs73VDW09wiiA",
+          "title": "Juan Carlos Tavares",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Men Super Model",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-21T17:43:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9BONbUMWz5LXN5DWrsWFVGXtYrA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MY3Qc11zguc"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-19T09:08:02Z",
+          "channelId": "UCRLCXBWch76m0H1ylBWKy0g",
+          "title": "Carlos Tavares CEO Stellantis recommendation",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Interimsmanager - Consultant",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-19T09:08:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ylxv9aSd85yosK-j2QDcJ3BjPoM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZzENCf0KHSs"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T18:00:19Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Carlos Tavares, PDG du groupe Stellantis est l&#39;invit\u00e9 d&#39;Hedwige Chevrillon",
+          "description": "Carlos Tavares, PDG du groupe Stellantis est l'invit\u00e9 d'Hedwige Chevrillon.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZzENCf0KHSs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZzENCf0KHSs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZzENCf0KHSs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T18:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "o62rkb4c1NVvLMZuqk-s2jCQNhY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "srDqyU2_aIc"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-12T17:06:11Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares e i tre pilastri del motorsport - Electric Motor News n\u00b0 13 (2022)",
+          "description": "Carlos Tavares parla ancora di motorsport\u2026 e dice chiaramente quali sono i tre elementi fondamentali per avere un campionato ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-12T17:06:11Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "rlwC5d505gQ-3w8pS_0UgVQqoxo",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "GiBqkn0IobQs7Hf7Cwn6sovwXm8",
+        "id": "szfFJtpb_6U",
+        "snippet": {
+          "publishedAt": "2022-03-11T23:55:12Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "Exclusive interview : Carlos Tavares",
+          "description": "Interview exclusive !\nGrand entretien avec Carlos Tavares, directeur g\u00e9n\u00e9ral du groupe Stellantis diffus\u00e9 en direct sur Reuters TV, la cha\u00eene YouTube et la page LinkedIn de Mobility TV le 11 mars \u00e0 12h CET.\nCarlos Tavares \u00e9voquera les r\u00e9sultats inou\u00efs de Stellantis ainsi que toute l\u2019actualit\u00e9 de la mobilit\u00e9.\nUne \u00e9mission in\u00e9dite qui marque la naissance de Mobility TV World, un format enti\u00e8rement d\u00e9di\u00e9e aux CEO des plus grands groupes de notre plan\u00e8te automobile.\n\nPr\u00e9sent\u00e9 par Pierre de Vilno.\n\nEn partenariat avec Mondial de l'auto Paris -  LIVECARS - EQUIP AUTO\n\nExclusive interview !\nIn-depth talk with Carlos Tavares, CEO of the Stellantis Group broadcasted live on Reuters TV, the YouTube channel and the LinkedIn page of Mobility TV on March 11 at 12:00 CET.\nCarlos Tavares will talk about Stellantis' unprecedented results as well as his real goals behind the revolutionary concept of Mobile Tech Company he is looking after.\nThis is the first time that Mobility TV World will be broadcast, a program entirely dedicated to the CEOs of the biggest groups on the automotive planet.\n\nPresented by Pierre de Vilno.\n\nIn partnership with Mondial de l'auto Paris -  LIVECARS - EQUIP AUTO",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/szfFJtpb_6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Exclusive interview : Carlos Tavares",
+            "description": "Interview exclusive !\nGrand entretien avec Carlos Tavares, directeur g\u00e9n\u00e9ral du groupe Stellantis diffus\u00e9 en direct sur Reuters TV, la cha\u00eene YouTube et la page LinkedIn de Mobility TV le 11 mars \u00e0 12h CET.\nCarlos Tavares \u00e9voquera les r\u00e9sultats inou\u00efs de Stellantis ainsi que toute l\u2019actualit\u00e9 de la mobilit\u00e9.\nUne \u00e9mission in\u00e9dite qui marque la naissance de Mobility TV World, un format enti\u00e8rement d\u00e9di\u00e9e aux CEO des plus grands groupes de notre plan\u00e8te automobile.\n\nPr\u00e9sent\u00e9 par Pierre de Vilno.\n\nEn partenariat avec Mondial de l'auto Paris -  LIVECARS - EQUIP AUTO\n\nExclusive interview !\nIn-depth talk with Carlos Tavares, CEO of the Stellantis Group broadcasted live on Reuters TV, the YouTube channel and the LinkedIn page of Mobility TV on March 11 at 12:00 CET.\nCarlos Tavares will talk about Stellantis' unprecedented results as well as his real goals behind the revolutionary concept of Mobile Tech Company he is looking after.\nThis is the first time that Mobility TV World will be broadcast, a program entirely dedicated to the CEOs of the biggest groups on the automotive planet.\n\nPresented by Pierre de Vilno.\n\nIn partnership with Mondial de l'auto Paris -  LIVECARS - EQUIP AUTO"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT52M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2283",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "83BeY3sy6QrpVlN2zrokdUQMr7Y",
+        "id": "5Ty1lfDMtvU",
+        "snippet": {
+          "publishedAt": "2022-03-11T16:37:45Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "EXCLUSIVE INTERVIEW : CARLOS TAVARES",
+          "description": "Interview exclusive !\nGrand entretien avec Carlos Tavares, directeur g\u00e9n\u00e9ral du groupe Stellantis diffus\u00e9 en direct sur Reuters TV, la cha\u00eene YouTube et la page LinkedIn de Mobility TV le 11 mars \u00e0 12h CET.\nCarlos Tavares \u00e9voquera les r\u00e9sultats inou\u00efs de Stellantis ainsi que toute l\u2019actualit\u00e9 de la mobilit\u00e9.\nUne \u00e9mission in\u00e9dite qui marque la naissance de Mobility TV World, un format enti\u00e8rement d\u00e9di\u00e9e aux CEO des plus grands groupes de notre plan\u00e8te automobile.\n\nPr\u00e9sent\u00e9 par Pierre Piotrowski de Vilno.\n\nEn partenariat avec Mondial de l\u2019Auto - Paris - LIVECARS - EQUIP AUTO\n\nExclusive interview !\nIn-depth talk with Carlos Tavares, CEO of the Stellantis Group broadcasted live on Reuters TV, the YouTube channel and the LinkedIn page of Mobility TV on March 11 at 12:00 CET.\nCarlos Tavares will talk about Stellantis' unprecedented results as well as his real goals behind the revolutionary concept of Mobile Tech Company he is looking after.\nThis is the first time that Mobility TV World will be broadcast, a program entirely dedicated to the CEOs of the biggest groups on the automotive planet.\n\nPresented by Pierre Piotrowski de Vilno.\n\nIn partnership with Mondial de l\u2019Auto - Paris - LIVECARS - EQUIP AUTO\n\n\nNos partenaires : \n\nReworld Media, LIVECARS, PFA - Plateforme automobile, TotalEnergies, la FIEV, MOBILIANS, Equipauto.\n\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nNos r\u00e9seaux sociaux\n\nTwitter: @_Mobility_TV / https://twitter.com/_Mobility_TV\n\nInstagram: @mobility_tv_ / https://www.instagram.com/mobility_tv_/\n\nFacebook: @MobilityTV / https://www.facebook.com/MobilityTV\n\nLinkedin: https://www.linkedin.com/company/mobility-tv\n\nContact: mobility.tv.social@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5Ty1lfDMtvU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "EXCLUSIVE INTERVIEW : CARLOS TAVARES",
+            "description": "Interview exclusive !\nGrand entretien avec Carlos Tavares, directeur g\u00e9n\u00e9ral du groupe Stellantis diffus\u00e9 en direct sur Reuters TV, la cha\u00eene YouTube et la page LinkedIn de Mobility TV le 11 mars \u00e0 12h CET.\nCarlos Tavares \u00e9voquera les r\u00e9sultats inou\u00efs de Stellantis ainsi que toute l\u2019actualit\u00e9 de la mobilit\u00e9.\nUne \u00e9mission in\u00e9dite qui marque la naissance de Mobility TV World, un format enti\u00e8rement d\u00e9di\u00e9e aux CEO des plus grands groupes de notre plan\u00e8te automobile.\n\nPr\u00e9sent\u00e9 par Pierre Piotrowski de Vilno.\n\nEn partenariat avec Mondial de l\u2019Auto - Paris - LIVECARS - EQUIP AUTO\n\nExclusive interview !\nIn-depth talk with Carlos Tavares, CEO of the Stellantis Group broadcasted live on Reuters TV, the YouTube channel and the LinkedIn page of Mobility TV on March 11 at 12:00 CET.\nCarlos Tavares will talk about Stellantis' unprecedented results as well as his real goals behind the revolutionary concept of Mobile Tech Company he is looking after.\nThis is the first time that Mobility TV World will be broadcast, a program entirely dedicated to the CEOs of the biggest groups on the automotive planet.\n\nPresented by Pierre Piotrowski de Vilno.\n\nIn partnership with Mondial de l\u2019Auto - Paris - LIVECARS - EQUIP AUTO\n\n\nNos partenaires : \n\nReworld Media, LIVECARS, PFA - Plateforme automobile, TotalEnergies, la FIEV, MOBILIANS, Equipauto.\n\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nNos r\u00e9seaux sociaux\n\nTwitter: @_Mobility_TV / https://twitter.com/_Mobility_TV\n\nInstagram: @mobility_tv_ / https://www.instagram.com/mobility_tv_/\n\nFacebook: @MobilityTV / https://www.facebook.com/MobilityTV\n\nLinkedin: https://www.linkedin.com/company/mobility-tv\n\nContact: mobility.tv.social@gmail.com"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT47M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1212",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5QjO2SJGHw2Rt5MEb4HnkOotTyk",
+        "id": "Bx7AO-8NEZ4",
+        "snippet": {
+          "publishedAt": "2022-12-07T14:29:50Z",
+          "channelId": "UCKgSLvI1SYKOTpEToycAz7Q",
+          "title": "Stellantis Dare Forward 2030 - Highlights by CEO Carlos Tavares",
+          "description": "\"Dare Forward 2030\" is #Stellantis\u2019 bold strategic plan for the coming decade. It will drive Stellantis employees to be \u2018second to none\u2019\u202fin value creation for all stakeholders. \n\nCheck out the highlights of the plan presented by Carlos #Tavares, Chief Executive Officer, to find out how Stellantis commits to becoming the industry champion in the fight against climate change, reaching carbon net zero emissions by 2038. Powered by our diversity, Stellantis leads the way the world moves by delivering innovative, clean, safe, and affordable #mobility solutions. \n\nWatch the full \"Dare Forward 2030\" presentation video here: https://youtu.be/Awv9-qt33J0\nThe individual video chapters can be seen in the presentation's playlist: https://www.youtube.com/playlist?list=PLKg1QcWLA_EtkTREVVGCnDQ3LV4DQRu8w\n\nRead more about the strategic plan: https://www.stellantis.com/en/company/dare-forward-2030\nAll related documents are available on the Stellantis Corporate website: https://www.stellantis.com/en/investors/events/strategic-plan\n\n#StellantisDareForward 2030 #StrategicPlan #ceo \n\nFor more Stellantis news subscribe to our YouTube channel and follow us on:\n- Facebook: https://www.facebook.com/Stellantis \n- Twitter: https://twitter.com/stellantis \n- LinkedIn: https://www.linkedin.com/company/stellantis",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Bx7AO-8NEZ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stellantis",
+          "tags": [
+            "Stellantis",
+            "Automotive",
+            "Mobility",
+            "connectivity",
+            "GroupePSA",
+            "FCA",
+            "FGC Group",
+            "Tavares",
+            "technology",
+            "tech",
+            "automotive",
+            "electrification",
+            "emobility",
+            "ecars",
+            "autonomy",
+            "connected car",
+            "Peugeot",
+            "Citroen",
+            "DS",
+            "DS Automobiles",
+            "Opel",
+            "Vauxhall",
+            "Opel-Vauxhall",
+            "Fiat",
+            "Chrysler",
+            "Jeep",
+            "Ram",
+            "Ram Trucks",
+            "Arbath",
+            "Alfaromeo",
+            "Alfa Romeo",
+            "Dodge",
+            "Lancia",
+            "Maserati",
+            "Mopar",
+            "Free2Move",
+            "free to move",
+            "free 2 move",
+            "Leasys",
+            "Amazon",
+            "autonomous"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stellantis Dare Forward 2030 - Highlights by CEO Carlos Tavares",
+            "description": "\"Dare Forward 2030\" is #Stellantis\u2019 bold strategic plan for the coming decade. It will drive Stellantis employees to be \u2018second to none\u2019\u202fin value creation for all stakeholders. \n\nCheck out the highlights of the plan presented by Carlos #Tavares, Chief Executive Officer, to find out how Stellantis commits to becoming the industry champion in the fight against climate change, reaching carbon net zero emissions by 2038. Powered by our diversity, Stellantis leads the way the world moves by delivering innovative, clean, safe, and affordable #mobility solutions. \n\nWatch the full \"Dare Forward 2030\" presentation video here: https://youtu.be/Awv9-qt33J0\nThe individual video chapters can be seen in the presentation's playlist: https://www.youtube.com/playlist?list=PLKg1QcWLA_EtkTREVVGCnDQ3LV4DQRu8w\n\nRead more about the strategic plan: https://www.stellantis.com/en/company/dare-forward-2030\nAll related documents are available on the Stellantis Corporate website: https://www.stellantis.com/en/investors/events/strategic-plan\n\n#StellantisDareForward 2030 #StrategicPlan #ceo \n\nFor more Stellantis news subscribe to our YouTube channel and follow us on:\n- Facebook: https://www.facebook.com/Stellantis \n- Twitter: https://twitter.com/stellantis \n- LinkedIn: https://www.linkedin.com/company/stellantis"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14849",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kOKJncjgDHUcGYiQmAJCLYxToPY",
+        "id": "C64EWY2SxzU",
+        "snippet": {
+          "publishedAt": "2022-10-18T16:48:54Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "Interview Carlos Tavares, CEO de Stellantis / Mondial de l'Automobile 2022",
+          "description": "Interview Carlos Tavares, CEO de Stellantis / Mondial de l'Automobile 2022.\nCarlos Tavares nous donne son avis sur le Mondial de l'Automobile, les questions de rendement concernant l'organisateur mais aussi des constructeurs.\nLe combat qui attend Stellantis vis \u00e0 vis des nouveaux concurrents chinois.\nL' Europe doit arr\u00eater d'\u00eatre na\u00efve face aux asiatiques !\n\n\nInterview\u00e9 par Jean-Marie Bordry.\n\nNos partenaires :\n\nMOBILIANS / The Adecco Group / Roole / AUTODISTRIBUTION\n\n\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nPour plus de contenus abonnez-vous : \ud83d\udce2 https://3tkm.short.gy/T0vYP4 \n\n\n\ud83d\udfe6Nos r\u00e9seaux sociaux\ud83d\udfe6\n\nTwitter: @_Mobility_TV / https://twitter.com/_Mobility_TV\nInstagram: @mobility_tv_ / https://www.instagram.com/mobility_tv_/\nFacebook: @MobilityTV / https://www.facebook.com/MobilityTV\nLinkedin: https://www.linkedin.com/company/mobility-tv\nContact: mobility.tv.social@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/C64EWY2SxzU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Interview Carlos Tavares, CEO de Stellantis / Mondial de l'Automobile 2022",
+            "description": "Interview Carlos Tavares, CEO de Stellantis / Mondial de l'Automobile 2022.\nCarlos Tavares nous donne son avis sur le Mondial de l'Automobile, les questions de rendement concernant l'organisateur mais aussi des constructeurs.\nLe combat qui attend Stellantis vis \u00e0 vis des nouveaux concurrents chinois.\nL' Europe doit arr\u00eater d'\u00eatre na\u00efve face aux asiatiques !\n\n\nInterview\u00e9 par Jean-Marie Bordry.\n\nNos partenaires :\n\nMOBILIANS / The Adecco Group / Roole / AUTODISTRIBUTION\n\n\n---------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nPour plus de contenus abonnez-vous : \ud83d\udce2 https://3tkm.short.gy/T0vYP4 \n\n\n\ud83d\udfe6Nos r\u00e9seaux sociaux\ud83d\udfe6\n\nTwitter: @_Mobility_TV / https://twitter.com/_Mobility_TV\nInstagram: @mobility_tv_ / https://www.instagram.com/mobility_tv_/\nFacebook: @MobilityTV / https://www.facebook.com/MobilityTV\nLinkedin: https://www.linkedin.com/company/mobility-tv\nContact: mobility.tv.social@gmail.com"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT5M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1839",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dFT_jse0RE6LZMlsgiFPYec-9Us",
+        "id": "Jf9vYJ6RHz4",
+        "snippet": {
+          "publishedAt": "2022-10-20T16:27:39Z",
+          "channelId": "UCKgSLvI1SYKOTpEToycAz7Q",
+          "title": "Stellantis CEO Carlos Tavares Keynote | Paris Automotive Summit 2022",
+          "description": "Stellantis #CEO Carlos Tavares addressed the Company\u2019s progress on its commitments during a #keynote speech on October 18, at the Paris Automotive Summit 2022. The focus was managing a global company in an increasingly fragmented world.\n\n#ParisAutomotiveSummit #MondialAuto #StellantisDareForward\n\nMore about the Stellantis presence at the #ParisMotorShow: https://www.stellantis.com/en/news/press-releases/2022/october/stellantis-energizes-paris-motor-show-with-electrified-portfolio-taking-center-stage\n\nFor news about Stellantis subscribe to our YouTube channel and follow us on: \n- Facebook: https://www.facebook.com/Stellantis \n- Twitter: https://twitter.com/stellantis \n- LinkedIn: https://www.linkedin.com/company/stellantis",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jf9vYJ6RHz4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Stellantis",
+          "tags": [
+            "Stellantis",
+            "Automotive",
+            "Mobility",
+            "connectivity",
+            "GroupePSA",
+            "FCA",
+            "FGC Group",
+            "Tavares",
+            "technology",
+            "tech",
+            "automotive",
+            "electrification",
+            "emobility",
+            "ecars",
+            "autonomy",
+            "connected car",
+            "Peugeot",
+            "Citroen",
+            "DS",
+            "DS Automobiles",
+            "Opel",
+            "Vauxhall",
+            "Opel-Vauxhall",
+            "Fiat",
+            "Chrysler",
+            "Jeep",
+            "Ram",
+            "Ram Trucks",
+            "Arbath",
+            "Alfaromeo",
+            "Alfa Romeo",
+            "Dodge",
+            "Lancia",
+            "Maserati",
+            "Mopar",
+            "Free2Move",
+            "free to move",
+            "free 2 move",
+            "Leasys",
+            "Amazon",
+            "autonomous"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stellantis CEO Carlos Tavares Keynote | Paris Automotive Summit 2022",
+            "description": "Stellantis #CEO Carlos Tavares addressed the Company\u2019s progress on its commitments during a #keynote speech on October 18, at the Paris Automotive Summit 2022. The focus was managing a global company in an increasingly fragmented world.\n\n#ParisAutomotiveSummit #MondialAuto #StellantisDareForward\n\nMore about the Stellantis presence at the #ParisMotorShow: https://www.stellantis.com/en/news/press-releases/2022/october/stellantis-energizes-paris-motor-show-with-electrified-portfolio-taking-center-stage\n\nFor news about Stellantis subscribe to our YouTube channel and follow us on: \n- Facebook: https://www.facebook.com/Stellantis \n- Twitter: https://twitter.com/stellantis \n- LinkedIn: https://www.linkedin.com/company/stellantis"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15148",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TBXIVSDmlEedDRUNfr2F_S7S1zI",
+        "id": "7Ku23CkmtTY",
+        "snippet": {
+          "publishedAt": "2022-01-10T10:31:40Z",
+          "channelId": "UCKgSLvI1SYKOTpEToycAz7Q",
+          "title": "Stellantis: Carlos Tavares Webcast at #CES2022",
+          "description": "Stellantis #CEO Carlos Tavares hosts webcast to discuss the transition of #Stellantis to a sustainable mobility tech company.  Watch the replay including an extended Q&A session.\n\nAt CES, we invited the world to see the full capability and potential of Stellantis with a quickly progressing tech plan. Our ambition is to be among the first to deliver open, software-defined platforms to our customers and to achieve leading positions in several domains by 2025: e-Powertrains, Digital Cockpit, Connected Services and Complexity Reduction.\nFor the experience at the stand, we invite you to enter the virtual experience: https://stellantisvirtual.com/landing\n\nFor more Stellantis technology news, check also our Software Day playlist https://www.youtube.com/playlist?list=PLKg1QcWLA_Es8ipuCpJN46Bh4Cr_pWua7 or subscribe to our YouTube channel.\n\nFollow us on:\n- Facebook: https://www.facebook.com/Stellantis\n- Twitter: https://twitter.com/stellantis\n- LinkedIn: https://www.linkedin.com/company/stellantis\n\nFilming was carried out in compliance with the health rules and barrier measures in force in the country.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7Ku23CkmtTY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stellantis",
+          "tags": [
+            "Stellantis",
+            "Automotive",
+            "Mobility",
+            "connectivity",
+            "electrification",
+            "Jeep 4xe",
+            "Citroen Ami",
+            "Chrysler Airflow concept",
+            "Carlos Tavares",
+            "CES 2022",
+            "DS Formula E"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stellantis: Carlos Tavares Webcast at #CES2022",
+            "description": "Stellantis #CEO Carlos Tavares hosts webcast to discuss the transition of #Stellantis to a sustainable mobility tech company.  Watch the replay including an extended Q&A session.\n\nAt CES, we invited the world to see the full capability and potential of Stellantis with a quickly progressing tech plan. Our ambition is to be among the first to deliver open, software-defined platforms to our customers and to achieve leading positions in several domains by 2025: e-Powertrains, Digital Cockpit, Connected Services and Complexity Reduction.\nFor the experience at the stand, we invite you to enter the virtual experience: https://stellantisvirtual.com/landing\n\nFor more Stellantis technology news, check also our Software Day playlist https://www.youtube.com/playlist?list=PLKg1QcWLA_Es8ipuCpJN46Bh4Cr_pWua7 or subscribe to our YouTube channel.\n\nFollow us on:\n- Facebook: https://www.facebook.com/Stellantis\n- Twitter: https://twitter.com/stellantis\n- LinkedIn: https://www.linkedin.com/company/stellantis\n\nFilming was carried out in compliance with the health rules and barrier measures in force in the country."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT55M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11468",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6ORRszpVo6_ybtWEnrsXFJKYKCg",
+        "id": "V06H9twViIA",
+        "snippet": {
+          "publishedAt": "2022-03-14T18:32:02Z",
+          "channelId": "UClvGE67sMT2u_2oYbD8iMkw",
+          "title": "ENTRETIEN EXCLUSIF : CARLOS TAVARES R\u00c9ACTIONS",
+          "description": "Claude Cham, Patrick Roger, Serge Gachot et Fr\u00e9d\u00e9ric Bedin nous donnent leur avis sur cette premi\u00e8re de Mobility TV World.\n\nUne interview exclusive de Carlos Tavares, directeur g\u00e9n\u00e9ral Stellantis.\nVous l'avez manqu\u00e9 ? Revivez cette interview qui s'est d\u00e9roul\u00e9 en direct sur notre cha\u00eene YouTube et LinkedIn.\n\n\u25b6\ufe0fhttps://youtu.be/5Ty1lfDMtvU\n\n\nNos partenaires : \n\nReworld Media, LIVECARS, PFA - Plateforme automobile, TotalEnergies, la FIEV, MOBILIANS, Equipauto.\n\n---------------------------------------------------------------------------------------------------------------------------\n\nNos r\u00e9seaux sociaux\n\nTwitter: @_Mobility_TV / https://twitter.com/_Mobility_TV\n\nInstagram: @mobility_tv_ / https://www.instagram.com/mobility_tv_/\n\nFacebook: @MobilityTV / https://www.facebook.com/MobilityTV\n\nLinkedin: https://www.linkedin.com/company/mobility-tv\n\nContact: mobility.tv.social@gmail.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V06H9twViIA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mobility TV",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "ENTRETIEN EXCLUSIF : CARLOS TAVARES R\u00c9ACTIONS",
+            "description": "Claude Cham, Patrick Roger, Serge Gachot et Fr\u00e9d\u00e9ric Bedin nous donnent leur avis sur cette premi\u00e8re de Mobility TV World.\n\nUne interview exclusive de Carlos Tavares, directeur g\u00e9n\u00e9ral Stellantis.\nVous l'avez manqu\u00e9 ? Revivez cette interview qui s'est d\u00e9roul\u00e9 en direct sur notre cha\u00eene YouTube et LinkedIn.\n\n\u25b6\ufe0fhttps://youtu.be/5Ty1lfDMtvU\n\n\nNos partenaires : \n\nReworld Media, LIVECARS, PFA - Plateforme automobile, TotalEnergies, la FIEV, MOBILIANS, Equipauto.\n\n---------------------------------------------------------------------------------------------------------------------------\n\nNos r\u00e9seaux sociaux\n\nTwitter: @_Mobility_TV / https://twitter.com/_Mobility_TV\n\nInstagram: @mobility_tv_ / https://www.instagram.com/mobility_tv_/\n\nFacebook: @MobilityTV / https://www.facebook.com/MobilityTV\n\nLinkedin: https://www.linkedin.com/company/mobility-tv\n\nContact: mobility.tv.social@gmail.com"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "217",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-84PUSI2iSpOU4wl1HV_2xViB2g",
+        "id": "EXJgqBKFVIY",
+        "snippet": {
+          "publishedAt": "2022-04-13T17:32:36Z",
+          "channelId": "UCIMGfEAERXjmWwQeg15BFsg",
+          "title": "Stellantis : le salaire de Carlos Tavares provoque des remous",
+          "description": "Les millions d'euros de primes attribu\u00e9es au directeur g\u00e9n\u00e9ral du groupe automobile Stellantis (Peugeot-Citro\u00ebn-Fiat...), Carlos Tavares pour l'exercice 2021 sont contest\u00e9es par des actionnaires, des syndicats et jusque dans le champ politique. \n\nABONNEZ-VOUS pour plus de vid\u00e9os : http://bit.ly/radioE1\nLE DIRECT : http://www.europe1.fr/direct-video\n\n Retrouvez-nous sur :\n | Notre site : http://www.europe1.fr\n | Facebook : https://www.facebook.com/Europe1\n | Twitter : https://twitter.com/europe1\n | Google + : https://plus.google.com/+Europe1/posts\n | Pinterest : http://www.pinterest.com/europe1/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EXJgqBKFVIY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Europe 1",
+          "tags": [
+            "actu",
+            "actualit\u00e9",
+            "actus",
+            "europ1",
+            "europe 1",
+            "europe un",
+            "europe1",
+            "news",
+            "radio",
+            "radio actu",
+            "radio d\u2019actualit\u00e9",
+            "radio europe 1",
+            "radio news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Stellantis : le salaire de Carlos Tavares provoque des remous",
+            "description": "Les millions d'euros de primes attribu\u00e9es au directeur g\u00e9n\u00e9ral du groupe automobile Stellantis (Peugeot-Citro\u00ebn-Fiat...), Carlos Tavares pour l'exercice 2021 sont contest\u00e9es par des actionnaires, des syndicats et jusque dans le champ politique. \n\nABONNEZ-VOUS pour plus de vid\u00e9os : http://bit.ly/radioE1\nLE DIRECT : http://www.europe1.fr/direct-video\n\n Retrouvez-nous sur :\n | Notre site : http://www.europe1.fr\n | Facebook : https://www.facebook.com/Europe1\n | Twitter : https://twitter.com/europe1\n | Google + : https://plus.google.com/+Europe1/posts\n | Pinterest : http://www.pinterest.com/europe1/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2207",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9JSAGHJK7aEGKRVn4M_FXRc3GQA",
+        "id": "rhxTOjI2PGc",
+        "snippet": {
+          "publishedAt": "2022-05-05T07:07:28Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares, CEO Stellantis, speaks about Dare Forward 2030 program - Motor News n\u00b0 6 (2022)",
+          "description": "After one year since Stellantis has been created, the CEO Carlos Tavares speaks about the first long term strategic plan named Dare Forward 2030 with a Carbon Net Zero objective by 2038.\nIn italiano - Carlos Tavares, CEO Stellantis, parla del programma Dare Forward 2030\nDopo un anno dalla creazione di Stellantis, il CEO Carlos Tavares parla del primo piano strategico a lungo termine denominato Dare Forward 2030 con un obiettivo Carbon Net Zero entro il 2038.\nVideo in lingua inglese.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rhxTOjI2PGc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "tags": [
+            "Carlos Tavares",
+            "Stellantis",
+            "CEO Stellantis",
+            "Motor News",
+            "Marcelo Padin"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Carlos Tavares, CEO Stellantis, speaks about Dare Forward 2030 program - Motor News n\u00b0 6 (2022)",
+            "description": "After one year since Stellantis has been created, the CEO Carlos Tavares speaks about the first long term strategic plan named Dare Forward 2030 with a Carbon Net Zero objective by 2038.\nIn italiano - Carlos Tavares, CEO Stellantis, parla del programma Dare Forward 2030\nDopo un anno dalla creazione di Stellantis, il CEO Carlos Tavares parla del primo piano strategico a lungo termine denominato Dare Forward 2030 con un obiettivo Carbon Net Zero entro il 2038.\nVideo in lingua inglese."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2403",
+          "likeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uT-_MgvSnSpwIaTj4PO2CkFuzMA",
+        "id": "15yPjtpot4M",
+        "snippet": {
+          "publishedAt": "2022-10-06T10:00:24Z",
+          "channelId": "UCZ1adoWtdSQGI79Uq9zaGzQ",
+          "title": "Carlos TAVARES (Stellantis) sur le Bang \u00e0 #BIG2022",
+          "description": "Retrouvez l'intervention de Carlos TAVARES, Dirigeant de Stellantis sur la grande sc\u00e8ne du Bang \u00e0 l'occasion de la 8e \u00e9dition de Bpifrance Inno Generation. \n\n#Bpifrance #BIG #Bang #BIG2022",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/15yPjtpot4M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bpifrance",
+          "tags": [
+            "BIG",
+            "Bang",
+            "Bpifrance",
+            "Business",
+            "Entrepreneuriat",
+            "Interview",
+            "Paris"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Carlos TAVARES (Stellantis) sur le Bang \u00e0 #BIG2022",
+            "description": "Retrouvez l'intervention de Carlos TAVARES, Dirigeant de Stellantis sur la grande sc\u00e8ne du Bang \u00e0 l'occasion de la 8e \u00e9dition de Bpifrance Inno Generation. \n\n#Bpifrance #BIG #Bang #BIG2022"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT6M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "686",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eRyCuZJzSegtSPjtUUjrVntEggA",
+        "id": "_xLrxR4IQOQ",
+        "snippet": {
+          "publishedAt": "2022-07-28T14:37:45Z",
+          "channelId": "UChZWs6PJY0hND384d2_RrhQ",
+          "title": "Carlos Tavares, un patron hors du commun en 6 dates cl\u00e9s",
+          "description": "Carlos Tavares a fait toute sa carri\u00e8re chez des constructeurs automobiles. Arriv\u00e9 en 1981 chez Renault, il est aujourd\u2019hui le directeur du g\u00e9ant automobile Stellantis. Portrait de ce patron rigoureux en 6 dates cl\u00e9s. \n\n#CarlosTavares #Stellantis #constructeurautomobile\n______________________________________\n\nPour ne manquer aucune vid\u00e9o, abonnez-vous \u00e0 la cha\u00eene YouTube des Echos : https://bit.ly/2GZgOWy\n\nRetrouvez plus d'articles sur : https://www.lesechos.fr/\n\nToutes nos vid\u00e9os : https://videos.lesechos.fr/\nFacebook : https://www.facebook.com/lesechos/\nTwitter : https://twitter.com/LesEchos?lang=fr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_xLrxR4IQOQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Les Echos",
+          "tags": [
+            "Les Echos",
+            "les echos",
+            "info",
+            "actu",
+            "news",
+            "\u00e9conomie",
+            "d\u00e9cryptage",
+            "economie",
+            "youtube les echos"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Carlos Tavares, un patron hors du commun en 6 dates cl\u00e9s",
+            "description": "Carlos Tavares a fait toute sa carri\u00e8re chez des constructeurs automobiles. Arriv\u00e9 en 1981 chez Renault, il est aujourd\u2019hui le directeur du g\u00e9ant automobile Stellantis. Portrait de ce patron rigoureux en 6 dates cl\u00e9s. \n\n#CarlosTavares #Stellantis #constructeurautomobile\n______________________________________\n\nPour ne manquer aucune vid\u00e9o, abonnez-vous \u00e0 la cha\u00eene YouTube des Echos : https://bit.ly/2GZgOWy\n\nRetrouvez plus d'articles sur : https://www.lesechos.fr/\n\nToutes nos vid\u00e9os : https://videos.lesechos.fr/\nFacebook : https://www.facebook.com/lesechos/\nTwitter : https://twitter.com/LesEchos?lang=fr"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT3M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "74352",
+          "likeCount": "328",
+          "favoriteCount": "0",
+          "commentCount": "152"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YshXHDfnLygEQ_wCdQI0jysDT0Y",
+        "id": "fXMQbEtEFwo",
+        "snippet": {
+          "publishedAt": "2022-10-17T07:30:09Z",
+          "channelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+          "title": "Philippe Caverivi\u00e8re face \u00e0 Carlos Tavares",
+          "description": "\u26bd Philippe Caverivi\u00e8re est revenu sur l'attribution du Ballon d'Or ce soir.  Karim Benzema devrait succ\u00e9der \u00e0 Zin\u00e9dine Zidane : \"CNews en deuil, \u00e7a fait deux arabes d'affil\u00e9e\"... \n\nSuivez toute l'actualit\u00e9 de \"L'Oeil de Philippe Caverivi\u00e8re\" :\nSur la page \u00e9mission de RTL.fr : https://bit.ly/3zdbrK5\nSur la page Facebook de RTL : https://bit.ly/3f0ogyV\nSur la page Instagram de RTL : https://bit.ly/3zy6QTM\nSur la page Twitter de RTL : https://bit.ly/3andEYl\nRetrouvez \u00e9galement tous les replays de \"L'Oeil de Philippe Caveriviere\" sur l'application RTL",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fXMQbEtEFwo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RTL  ",
+          "tags": [
+            "RTL",
+            "Actualit\u00e9s",
+            "Divertissement",
+            "Musique"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Philippe Caverivi\u00e8re face \u00e0 Carlos Tavares",
+            "description": "\u26bd Philippe Caverivi\u00e8re est revenu sur l'attribution du Ballon d'Or ce soir.  Karim Benzema devrait succ\u00e9der \u00e0 Zin\u00e9dine Zidane : \"CNews en deuil, \u00e7a fait deux arabes d'affil\u00e9e\"... \n\nSuivez toute l'actualit\u00e9 de \"L'Oeil de Philippe Caverivi\u00e8re\" :\nSur la page \u00e9mission de RTL.fr : https://bit.ly/3zdbrK5\nSur la page Facebook de RTL : https://bit.ly/3f0ogyV\nSur la page Instagram de RTL : https://bit.ly/3zy6QTM\nSur la page Twitter de RTL : https://bit.ly/3andEYl\nRetrouvez \u00e9galement tous les replays de \"L'Oeil de Philippe Caveriviere\" sur l'application RTL"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT5M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "291501",
+          "likeCount": "2625",
+          "favoriteCount": "0",
+          "commentCount": "45"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yfILYrfKi_EVA3ESKCTDVsw-NhE",
+        "id": "Nq2aj2hBMlE",
+        "snippet": {
+          "publishedAt": "2022-07-25T14:02:54Z",
+          "channelId": "UC-6qccHOCby3QI9dtqrR6ng",
+          "title": "Carlos Tavares - der Stellantis CEO im Interview mit Christian Danner",
+          "description": "Christian Danner hatte w\u00e4hrend des 24h-Rennen auf dem N\u00fcrburgring die Gelegenheit den CEO von Stelantis / PSA-Group Carlos Tavares zu interviewen. Und ich war mit der Kamera dabei.\n\nDer Stellantis CEO gab \u00e4u\u00dferst offen ein paar Pl\u00e4ne des Konzerns bekannt\nund warum f\u00fcr ihn der Motorsport wichtig ist.\n\nEin spannendes Interview f\u00fcr alle Automobilisten :)\n\n#CarlosTavares #ChristianDanner #Businesstalk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nq2aj2hBMlE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nq2aj2hBMlE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nq2aj2hBMlE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marius Althof",
+          "tags": [
+            "AVD",
+            "AVDTALK",
+            "automobilclubvondeutschalnd",
+            "motorsport",
+            "stelantis",
+            "talk",
+            "danner",
+            "christiandanner",
+            "24h",
+            "nuerburgring",
+            "n\u00fcrburgring",
+            "nordschleife",
+            "peugeot",
+            "automotive",
+            "CarlosTavares",
+            "psa"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Carlos Tavares - der Stellantis CEO im Interview mit Christian Danner",
+            "description": "Christian Danner hatte w\u00e4hrend des 24h-Rennen auf dem N\u00fcrburgring die Gelegenheit den CEO von Stelantis / PSA-Group Carlos Tavares zu interviewen. Und ich war mit der Kamera dabei.\n\nDer Stellantis CEO gab \u00e4u\u00dferst offen ein paar Pl\u00e4ne des Konzerns bekannt\nund warum f\u00fcr ihn der Motorsport wichtig ist.\n\nEin spannendes Interview f\u00fcr alle Automobilisten :)\n\n#CarlosTavares #ChristianDanner #Businesstalk"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT10M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "698",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "J0KyZNno144mBFmOOBs-3LohnVc",
+        "id": "J7b0UmfFmjs",
+        "snippet": {
+          "publishedAt": "2022-04-15T12:46:45Z",
+          "channelId": "UCnJ8fyizHQi6A_5_5Im7cVA",
+          "title": "Pourquoi les actionnaires de Stellantis ont-ils vot\u00e9 contre la r\u00e9mun\u00e9ration de Carlos Tavares ?",
+          "description": "Les actionnaires de Stellantis ont vot\u00e9 \u00e0 52% contre le package de r\u00e9mun\u00e9ration colossale de Carlos Tavares, de pr\u00e8s de 66 millions d'euros. Au regard des bonnes performances du groupe, cette d\u00e9cision des actionnaires est-elle justifi\u00e9e ? Sera-t-elle prise en compte par le conseil d'administration du constructeur automobile ? Les explications de Franck Dedieu, directeur adjoint de la r\u00e9daction de Marianne. Ecorama du 15 avril 2022, pr\u00e9sent\u00e9 par David Jacquot sur Boursorama.com\n#Boursorama #CarlosTavares #Stellantis\n_________________________________________________________________________________________________\n\u2192 Retrouvez la derni\u00e8re interview de Carlos Tavares, \"Chez PSA, notre obsession c'est d'\u00eatre des psychopathes de la performance\" : https://www.youtube.com/watch?v=459u4421zDc\n\u2192 Retrouvez la derni\u00e8re interview de Franck Dedieu, \"Les candidats \u00e0 la pr\u00e9sidentielle sont-ils tous devenus souverainistes ?\" : https://www.youtube.com/watch?v=k_IB1lAOToQ\n\u2192 Retrouvez l'ensemble des vid\u00e9os Ecorama, l'\u00e9mission qui vous simplifie l'\u00e9conomie, ici : https://www.youtube.com/playlist?list=PL7nT4D7dQjA6_y65SEA3oXM0Orgj3iahi\n\u2192 D\u00e9couvrez \"le Debrief Bourse\", le point sur l'actualit\u00e9 des march\u00e9s financiers \u00e0 la cl\u00f4ture du CAC40, ici : https://www.boursorama.com/videos/tv/debrief-bourse\n\u2192 Pour avoir acc\u00e8s \u00e0 l'ensemble du portail d'information \u00e9conomique et financi\u00e8re Boursorama, c'est par ici :  https://www.boursorama.com/\n\u2192 Retrouvez-nous aussi sur Facebook : https://www.facebook.com/Boursorama-132746953466063/ et sur Twitter : https://twitter.com/Boursorama",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/J7b0UmfFmjs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Boursorama",
+          "tags": [
+            "actionnaires",
+            "actu",
+            "bonus",
+            "bourse",
+            "boursorama",
+            "carlos tavares",
+            "david jacquot",
+            "ecorama",
+            "franck dedieu",
+            "marches financiers",
+            "marianne",
+            "remuneration",
+            "renault",
+            "stellantis",
+            "volkswagen"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Pourquoi les actionnaires de Stellantis ont-ils vot\u00e9 contre la r\u00e9mun\u00e9ration de Carlos Tavares ?",
+            "description": "Les actionnaires de Stellantis ont vot\u00e9 \u00e0 52% contre le package de r\u00e9mun\u00e9ration colossale de Carlos Tavares, de pr\u00e8s de 66 millions d'euros. Au regard des bonnes performances du groupe, cette d\u00e9cision des actionnaires est-elle justifi\u00e9e ? Sera-t-elle prise en compte par le conseil d'administration du constructeur automobile ? Les explications de Franck Dedieu, directeur adjoint de la r\u00e9daction de Marianne. Ecorama du 15 avril 2022, pr\u00e9sent\u00e9 par David Jacquot sur Boursorama.com\n#Boursorama #CarlosTavares #Stellantis\n_________________________________________________________________________________________________\n\u2192 Retrouvez la derni\u00e8re interview de Carlos Tavares, \"Chez PSA, notre obsession c'est d'\u00eatre des psychopathes de la performance\" : https://www.youtube.com/watch?v=459u4421zDc\n\u2192 Retrouvez la derni\u00e8re interview de Franck Dedieu, \"Les candidats \u00e0 la pr\u00e9sidentielle sont-ils tous devenus souverainistes ?\" : https://www.youtube.com/watch?v=k_IB1lAOToQ\n\u2192 Retrouvez l'ensemble des vid\u00e9os Ecorama, l'\u00e9mission qui vous simplifie l'\u00e9conomie, ici : https://www.youtube.com/playlist?list=PL7nT4D7dQjA6_y65SEA3oXM0Orgj3iahi\n\u2192 D\u00e9couvrez \"le Debrief Bourse\", le point sur l'actualit\u00e9 des march\u00e9s financiers \u00e0 la cl\u00f4ture du CAC40, ici : https://www.boursorama.com/videos/tv/debrief-bourse\n\u2192 Pour avoir acc\u00e8s \u00e0 l'ensemble du portail d'information \u00e9conomique et financi\u00e8re Boursorama, c'est par ici :  https://www.boursorama.com/\n\u2192 Retrouvez-nous aussi sur Facebook : https://www.facebook.com/Boursorama-132746953466063/ et sur Twitter : https://twitter.com/Boursorama"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2552",
+          "likeCount": "32",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y4gKS5mGh4Ela98vbDZOrTM2XMo",
+        "id": "55kcGw6dLj4",
+        "snippet": {
+          "publishedAt": "2022-04-14T15:16:51Z",
+          "channelId": "UCIhN4qlifcx1PBTZRHO5oGQ",
+          "title": "\u00bfCARLOS TAVARES POL\u00c9MICO?",
+          "description": "Dale \"Me Gusta\" / Suscr\u00edbete / Comparte.\n\nEl pago recibido por el CEO de Stellantis en 2021 est\u00e1 causando reacciones negativas.\n\nM\u00fasica:\n\n\"Cjbeards - Winter Breeze\" is under a Creative Commons license.\nMusic promoted by BreakingCopyright: https://youtu.be/iv1gitOQORs\n\n\"Electronic Senses - Ice Machine\" is under a Creative Commons (CC BY-SA 3.0) license.\nhttps://www.youtube.com/channel/UCGt1...\nMusic promoted by BreakingCopyright: https://youtu.be/hMgtVGAZRFk\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nS\u00edgueme en:\nTwitter: https://www.twitter.com/fiatistifan\nFacebook:https://www.facebook.com/fiatisti.fan\nInstagram: https://www.instagram.com/fiatisti\n\nEn YouTube:\n\nFiatisti: https://www.youtube.com/channel/fiatistifan\nSupercargado: https://www.youtube.com/channel/UCw6kHPiYmCSk1eGzSnrKoDA\n3Fcars: https://www.youtube.com/channel/UChTQknzVxMrRi511lj1JCIg\n\n#Stellantis #CarlosTavares #Europa #pago #beneficios #ceo #gerencia #Fiat #Fiatisti",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/55kcGw6dLj4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FIATISTI",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "\u00bfCARLOS TAVARES POL\u00c9MICO?",
+            "description": "Dale \"Me Gusta\" / Suscr\u00edbete / Comparte.\n\nEl pago recibido por el CEO de Stellantis en 2021 est\u00e1 causando reacciones negativas.\n\nM\u00fasica:\n\n\"Cjbeards - Winter Breeze\" is under a Creative Commons license.\nMusic promoted by BreakingCopyright: https://youtu.be/iv1gitOQORs\n\n\"Electronic Senses - Ice Machine\" is under a Creative Commons (CC BY-SA 3.0) license.\nhttps://www.youtube.com/channel/UCGt1...\nMusic promoted by BreakingCopyright: https://youtu.be/hMgtVGAZRFk\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nS\u00edgueme en:\nTwitter: https://www.twitter.com/fiatistifan\nFacebook:https://www.facebook.com/fiatisti.fan\nInstagram: https://www.instagram.com/fiatisti\n\nEn YouTube:\n\nFiatisti: https://www.youtube.com/channel/fiatistifan\nSupercargado: https://www.youtube.com/channel/UCw6kHPiYmCSk1eGzSnrKoDA\n3Fcars: https://www.youtube.com/channel/UChTQknzVxMrRi511lj1JCIg\n\n#Stellantis #CarlosTavares #Europa #pago #beneficios #ceo #gerencia #Fiat #Fiatisti"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "328",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "d9uAjToYUYRFgdoL_rWOg3Gi1HQ",
+        "id": "hp6kd6e3ouk",
+        "snippet": {
+          "publishedAt": "2022-04-26T02:24:06Z",
+          "channelId": "UCjzBsoy7fMZE8lm5T13QD2w",
+          "title": "Message to Carlos Tavares Stellantis",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hp6kd6e3ouk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sharyn",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Message to Carlos Tavares Stellantis",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "132",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XQvi3XlDaJ5mU4mQEPfyTTts7DM",
+        "id": "LGG1zzjNj8g",
+        "snippet": {
+          "publishedAt": "2022-10-17T17:48:23Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Carlos Tavares est l'invit\u00e9 d'Hedwige Chevrillon",
+          "description": "\"Nous sommes pr\u00eats pour la course, (...) les d\u00e9cisions dogmatiques europ\u00e9ennes ont d\u00e9roul\u00e9 un tapis rouge devant les constructeurs Chinois\" - Carlos Tavares, PDG du groupe Stellantis \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LGG1zzjNj8g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Carlos Tavares est l'invit\u00e9 d'Hedwige Chevrillon",
+            "description": "\"Nous sommes pr\u00eats pour la course, (...) les d\u00e9cisions dogmatiques europ\u00e9ennes ont d\u00e9roul\u00e9 un tapis rouge devant les constructeurs Chinois\" - Carlos Tavares, PDG du groupe Stellantis \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2599",
+          "likeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jXofWNVl4LaDBJwbbO6ZssorPOo",
+        "id": "UGeYs23n8XU",
+        "snippet": {
+          "publishedAt": "2022-10-17T09:30:07Z",
+          "channelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+          "title": "Stellantis : \"Il n'y a pas de fermetures d'usines\", assure Carlos Tavares",
+          "description": "\ud83d\udd34\ud83c\udf99\ufe0f\ud83d\udcac \"Il n'y a pas de fermetures d'usines\", assure Carlos Tavares, au micro d'Amandine B\u00e9got en direct du Mondial de l'auto. Le Directeur G\u00e9n\u00e9ral de Stellantis dans #RTLMatin ce lundi 17 octobre 2022 \ud83d\udc48\n\nSuivez toute l'actualit\u00e9 de \"L'Invit\u00e9 de RTL\" :\n- Sur la page \u00e9mission de RTL.fr : http://bit.ly/2JoA0P0\n- Sur la page Facebook de RTL : https://bit.ly/39C805p\n- Sur la page Instagram de RTL : https://bit.ly/36FmrUt\n- Sur la page Twitter de RTL : https://bit.ly/3andEYl\nRetrouvez \u00e9galement tous les replays de \"L'Invit\u00e9 de RTL\" sur l'application RTL",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UGeYs23n8XU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RTL  ",
+          "tags": [
+            "RTL",
+            "Actualit\u00e9s",
+            "Divertissement",
+            "Musique"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Stellantis : \"Il n'y a pas de fermetures d'usines\", assure Carlos Tavares",
+            "description": "\ud83d\udd34\ud83c\udf99\ufe0f\ud83d\udcac \"Il n'y a pas de fermetures d'usines\", assure Carlos Tavares, au micro d'Amandine B\u00e9got en direct du Mondial de l'auto. Le Directeur G\u00e9n\u00e9ral de Stellantis dans #RTLMatin ce lundi 17 octobre 2022 \ud83d\udc48\n\nSuivez toute l'actualit\u00e9 de \"L'Invit\u00e9 de RTL\" :\n- Sur la page \u00e9mission de RTL.fr : http://bit.ly/2JoA0P0\n- Sur la page Facebook de RTL : https://bit.ly/39C805p\n- Sur la page Instagram de RTL : https://bit.ly/36FmrUt\n- Sur la page Twitter de RTL : https://bit.ly/3andEYl\nRetrouvez \u00e9galement tous les replays de \"L'Invit\u00e9 de RTL\" sur l'application RTL"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8721",
+          "likeCount": "57",
+          "favoriteCount": "0",
+          "commentCount": "24"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-e0-KiX_zzOOr-kEqp4MoQKOGJo",
+        "id": "3nNxIOvKrHA",
+        "snippet": {
+          "publishedAt": "2022-05-13T11:00:25Z",
+          "channelId": "UCoaaAzTbSEUVvCgWdiEwxDw",
+          "title": "Alfa Romeo Tonale | Carlos Tavares ve Jean Philippe Imparato ile \u00e7ok \u00f6zel bir test s\u00fcr\u00fc\u015f\u00fc",
+          "description": "Carlos Tavares ve Jean-Philippe Imparato, Alfa Romeo\u2019nun ilk elektrikli arac\u0131 olan yeni Tonale'yi, \u0130talyan bilim insan\u0131 Alessandro Volta'n\u0131n ilk elektrik pilini icat etti\u011fi Como G\u00f6l\u00fc'n\u00fcn g\u00fczel ortam\u0131nda kullan\u0131yor ve t\u00fcm ayr\u0131nt\u0131lar, s\u0131rlar ve \u00f6ne \u00e7\u0131kanlar hakk\u0131nda g\u00f6r\u00fc\u015flerini payla\u015f\u0131yor.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3nNxIOvKrHA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alfa Romeo",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "tr",
+          "localized": {
+            "title": "Alfa Romeo Tonale | Carlos Tavares ve Jean Philippe Imparato ile \u00e7ok \u00f6zel bir test s\u00fcr\u00fc\u015f\u00fc",
+            "description": "Carlos Tavares ve Jean-Philippe Imparato, Alfa Romeo\u2019nun ilk elektrikli arac\u0131 olan yeni Tonale'yi, \u0130talyan bilim insan\u0131 Alessandro Volta'n\u0131n ilk elektrik pilini icat etti\u011fi Como G\u00f6l\u00fc'n\u00fcn g\u00fczel ortam\u0131nda kullan\u0131yor ve t\u00fcm ayr\u0131nt\u0131lar, s\u0131rlar ve \u00f6ne \u00e7\u0131kanlar hakk\u0131nda g\u00f6r\u00fc\u015flerini payla\u015f\u0131yor."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "402",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-CeuE99CgnWxtApCDE8VZKL_dTw",
+        "id": "_nTnidAoII4",
+        "snippet": {
+          "publishedAt": "2022-04-14T09:11:58Z",
+          "channelId": "UCCCPCZNChQdGa9EkATeye4g",
+          "title": "La r\u00e9mun\u00e9ration de Carlos Tavares choque jusqu'aux actionnaires de Stellantis \u2022 FRANCE 24",
+          "description": "Les actionnaires de Stellantis se sont prononc\u00e9s\u00a0mercredi contre l'enveloppe salariale pr\u00e9vue pour la\u00a0r\u00e9mun\u00e9ration de la direction, dont celle du directeur g\u00e9n\u00e9ral\u00a0Carlos Tavares. Ce vote est non contraignant car\u00a0Stellantis est enregistr\u00e9 aux Pays Bas\u00a0o\u00f9 la r\u00e9mun\u00e9ration des dirigeants n'est pas soumise au vote des actionnaires.\u00a0Cette r\u00e9mun\u00e9ration, qui pourrait atteindre 66 millions d'euros si les objectifs sont atteints,\u00a0ferait de Carlos Tavares le patron fran\u00e7ais le mieux pay\u00e9 de l'histoire.\n\nEn savoir plus avec notre article : https://f24.my/8YAN.y\n\n\ud83d\udd14 Abonnez-vous \u00e0 notre cha\u00eene sur YouTube : https://f24.my/YTfr\n\ud83d\udd34 En DIRECT - Suivez FRANCE 24 ici : https://f24.my/YTliveFR\n\n\ud83c\udf0d Retrouvez toute l\u2019actualit\u00e9 internationale sur notre site : https://www.france24.com/fr/\n\nRejoignez-nous sur Facebook : https://f24.my/FBvideos\nSuivez-nous sur Twitter : https://f24.my/TWvideos\nD\u00e9couvrez l\u2019actu en images sur Instagram: https://f24.my/IGfr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_nTnidAoII4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "FRANCE 24",
+          "tags": [
+            "L_INFO ECO",
+            "Medef",
+            "PSA",
+            "france24",
+            "news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "La r\u00e9mun\u00e9ration de Carlos Tavares choque jusqu'aux actionnaires de Stellantis \u2022 FRANCE 24",
+            "description": "Les actionnaires de Stellantis se sont prononc\u00e9s\u00a0mercredi contre l'enveloppe salariale pr\u00e9vue pour la\u00a0r\u00e9mun\u00e9ration de la direction, dont celle du directeur g\u00e9n\u00e9ral\u00a0Carlos Tavares. Ce vote est non contraignant car\u00a0Stellantis est enregistr\u00e9 aux Pays Bas\u00a0o\u00f9 la r\u00e9mun\u00e9ration des dirigeants n'est pas soumise au vote des actionnaires.\u00a0Cette r\u00e9mun\u00e9ration, qui pourrait atteindre 66 millions d'euros si les objectifs sont atteints,\u00a0ferait de Carlos Tavares le patron fran\u00e7ais le mieux pay\u00e9 de l'histoire.\n\nEn savoir plus avec notre article : https://f24.my/8YAN.y\n\n\ud83d\udd14 Abonnez-vous \u00e0 notre cha\u00eene sur YouTube : https://f24.my/YTfr\n\ud83d\udd34 En DIRECT - Suivez FRANCE 24 ici : https://f24.my/YTliveFR\n\n\ud83c\udf0d Retrouvez toute l\u2019actualit\u00e9 internationale sur notre site : https://www.france24.com/fr/\n\nRejoignez-nous sur Facebook : https://f24.my/FBvideos\nSuivez-nous sur Twitter : https://f24.my/TWvideos\nD\u00e9couvrez l\u2019actu en images sur Instagram: https://f24.my/IGfr"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT5M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5795",
+          "likeCount": "34",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QAWvZjzWgl36TNzGX_8Cgs-wuik",
+        "id": "7zbZfw8mjE4",
+        "snippet": {
+          "publishedAt": "2022-10-12T20:02:56Z",
+          "channelId": "UCZ1adoWtdSQGI79Uq9zaGzQ",
+          "title": "Carlos TAVARES on the BANG at BIG2022",
+          "description": "Speech of Carlos TAVARES, Stelliantis, on the main stage of the #Bang during the 8th edition of #Bpifrance Inno Generation, the largest business meeting in Europe. #BIG2022",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7zbZfw8mjE4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bpifrance",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Carlos TAVARES on the BANG at BIG2022",
+            "description": "Speech of Carlos TAVARES, Stelliantis, on the main stage of the #Bang during the 8th edition of #Bpifrance Inno Generation, the largest business meeting in Europe. #BIG2022"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT6M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "55",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5DA1niVMs-QPn4jH0gNVAZpA080",
+        "id": "2smSy0yke4E",
+        "snippet": {
+          "publishedAt": "2022-07-11T16:09:33Z",
+          "channelId": "UC6IlmSvgI9XLvj-NRXUmnoA",
+          "title": "2022 Le Mans Classic with Carlos Tavares",
+          "description": "On the occasion of the 10th edition of Le Mans Classic, one of the biggest classic car events, we had the pleasure to welcome Mr. Carlos Tavares. He did us the honor to drive a lap around the track in the superb 33/2 Daytona. Discover his reaction and impressions!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2smSy0yke4E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Heritage HUB Italy",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2022 Le Mans Classic with Carlos Tavares",
+            "description": "On the occasion of the 10th edition of Le Mans Classic, one of the biggest classic car events, we had the pleasure to welcome Mr. Carlos Tavares. He did us the honor to drive a lap around the track in the superb 33/2 Daytona. Discover his reaction and impressions!"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "61035",
+          "likeCount": "53",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WDWyaiOONK5MnQCQiL8DGD9R0GE",
+        "id": "Boirf2vUBGE",
+        "snippet": {
+          "publishedAt": "2022-10-19T09:07:23Z",
+          "channelId": "UCEqpPisICUloX3IGkt7__kw",
+          "title": "itw Carlos TAVARES Oct 22 FRANCEINFO CLE",
+          "description": "ITW du Patron du groupe Stellantis, 14 marques automobiles (Peugeot/Fiat/Jeep/Opel/DS...) en direct du Mondial de l'Auto dans un contexte o\u00f9 la voiture \u00e9lectrique fait sa perc\u00e9e bouscul\u00e9e par la concurrence chinoise et du carburant absent des pompes \u00e0 essence !",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Boirf2vUBGE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bazizin Luc",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "itw Carlos TAVARES Oct 22 FRANCEINFO CLE",
+            "description": "ITW du Patron du groupe Stellantis, 14 marques automobiles (Peugeot/Fiat/Jeep/Opel/DS...) en direct du Mondial de l'Auto dans un contexte o\u00f9 la voiture \u00e9lectrique fait sa perc\u00e9e bouscul\u00e9e par la concurrence chinoise et du carburant absent des pompes \u00e0 essence !"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "772",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-ctMCFffaRPPwMUP7tMhU1DIfNA",
+        "id": "j1pMfZJXEP8",
+        "snippet": {
+          "publishedAt": "2022-08-13T12:56:45Z",
+          "channelId": "UCt25dvtlJ922JGvh1dRU4LA",
+          "title": "Por\u00e3o de Cultura Entrevista - Carlos Tavares e John Snake (Corinthians MMA)",
+          "description": "Vem galera, abre a porta e acende a luz e chega pro Por\u00e3o!\n\nSalve Galera vamos conversar com @treinador.carlos_tavares e o atual campe\u00e3o do Jungle Fight o @johnsnakeoficial ele representa o @corinthians.mma.brasil no MMA e \u00e9 o atual detentor do cintur\u00e3o!\n\nVamos falar sobre as curiosidades do mundo das lutas, como acontece a prepara\u00e7\u00e3o de atletas campe\u00f5es no Brasil e pelo Mundo.\n\n\nSexta Feira, \u00e0s 20:30h ao vivo no canal Por\u00e3o de Cultura Podcast no Youtube, vamos conversar com essas duas feras do MMA nacional!\n\nEnt\u00e3o, \ud83d\udeaaabra a porta, \ud83d\udca1acende a luz e vem pro @poraodecultura !\n\nEspero todos voc\u00eas, at\u00e9 l\u00e1!\n\n#Por\u00e3odeCultura #Podcast #Entrevista #BatePapo #CarlosTavares #JohnSnake #JungleFight #Lutador #Profissional #MuayThai #JiuJitsu #KickBoxing #MMA #CorinthiansMMA #Arte #Cultura #AbreaPortaeVemProPorao",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/j1pMfZJXEP8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Por\u00e3o de Cultura",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Por\u00e3o de Cultura Entrevista - Carlos Tavares e John Snake (Corinthians MMA)",
+            "description": "Vem galera, abre a porta e acende a luz e chega pro Por\u00e3o!\n\nSalve Galera vamos conversar com @treinador.carlos_tavares e o atual campe\u00e3o do Jungle Fight o @johnsnakeoficial ele representa o @corinthians.mma.brasil no MMA e \u00e9 o atual detentor do cintur\u00e3o!\n\nVamos falar sobre as curiosidades do mundo das lutas, como acontece a prepara\u00e7\u00e3o de atletas campe\u00f5es no Brasil e pelo Mundo.\n\n\nSexta Feira, \u00e0s 20:30h ao vivo no canal Por\u00e3o de Cultura Podcast no Youtube, vamos conversar com essas duas feras do MMA nacional!\n\nEnt\u00e3o, \ud83d\udeaaabra a porta, \ud83d\udca1acende a luz e vem pro @poraodecultura !\n\nEspero todos voc\u00eas, at\u00e9 l\u00e1!\n\n#Por\u00e3odeCultura #Podcast #Entrevista #BatePapo #CarlosTavares #JohnSnake #JungleFight #Lutador #Profissional #MuayThai #JiuJitsu #KickBoxing #MMA #CorinthiansMMA #Arte #Cultura #AbreaPortaeVemProPorao"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H2M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "175",
+          "likeCount": "20",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uLQRHZygHoF8nz78vVGPu4B4xZg",
+        "id": "ABiYg2nf6JU",
+        "snippet": {
+          "publishedAt": "2022-07-12T16:24:23Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares e le monoposto elettriche - Electric Motor News n\u00b0 13 (2022)",
+          "description": "Il CEO di Stellantis Carlos Tavares parla delle monoposto elettriche e di alcuni particolari che riguardano la guida e i piloti, sempre con un occhio di riguardo verso la produzione in serie e quello che il Gruppo pu\u00f2 offrire ai clienti attraverso l\u2019esperienza in Formula E.\nMarcelo Padin dal Rome E-Prix di Formula E.\nhttps://www.electricmotornews.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ABiYg2nf6JU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "tags": [
+            "Carlos Tavares",
+            "Stellantis",
+            "Formula E",
+            "Rome E-Prix",
+            "Electric Motor News",
+            "Marcelo Padin"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Carlos Tavares e le monoposto elettriche - Electric Motor News n\u00b0 13 (2022)",
+            "description": "Il CEO di Stellantis Carlos Tavares parla delle monoposto elettriche e di alcuni particolari che riguardano la guida e i piloti, sempre con un occhio di riguardo verso la produzione in serie e quello che il Gruppo pu\u00f2 offrire ai clienti attraverso l\u2019esperienza in Formula E.\nMarcelo Padin dal Rome E-Prix di Formula E.\nhttps://www.electricmotornews.com"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "26",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4WHPabUTJMQ0IHdNgdK6QWvb7PI",
+        "id": "1nKYdwHQtZw",
+        "snippet": {
+          "publishedAt": "2022-09-07T14:02:51Z",
+          "channelId": "UCQd5LYcykaFeZtjDaP3bNSA",
+          "title": "La le\u00e7on chinoise du professeur Carlos Tavares",
+          "description": "C'est un moment essentiel durant lequel l'un des plus grands patrons de la plan\u00e8te parle sans chichis ni langue de bois de la deuxi\u00e8me \u00e9conomie mondiale, la Chine, et de l'\u00e9trange climat des affaires qui y r\u00e8gne depuis quelques mois. En ce mois de juillet 2022, lors d'une table ronde organis\u00e9e avec quelques journalistes \u00e0 l'occasion de la pr\u00e9sentation des r\u00e9sultats semestriels de Stellantis, son PDG Carlos Tavares se laisse aller \u00e0 des confidences et des commentaires d\u00e9capants sur l'empire du Milieu. https://www.lepoint.fr/economie/la-lecon-chinoise-du-professeur-carlos-tavares-07-09-2022-2488929_28.php Suivez nous sur : - Youtube : https://www.youtube.com/c/lepoint/ - Facebook : https://www.facebook.com/lepoint.fr/ - Twitter : https://twitter.com/LePoint - Instagram : https://www.instagram.com/lepointfr - www.lepoint.fr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1nKYdwHQtZw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Le Point",
+          "tags": [
+            "Automobile",
+            "Carlos Tavares",
+            "Chine",
+            "Industrie automobile",
+            "Jeep",
+            "PDG",
+            "Peugeot-Citro\u00ebn",
+            "Stellantis",
+            "Voitures"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "La le\u00e7on chinoise du professeur Carlos Tavares",
+            "description": "C'est un moment essentiel durant lequel l'un des plus grands patrons de la plan\u00e8te parle sans chichis ni langue de bois de la deuxi\u00e8me \u00e9conomie mondiale, la Chine, et de l'\u00e9trange climat des affaires qui y r\u00e8gne depuis quelques mois. En ce mois de juillet 2022, lors d'une table ronde organis\u00e9e avec quelques journalistes \u00e0 l'occasion de la pr\u00e9sentation des r\u00e9sultats semestriels de Stellantis, son PDG Carlos Tavares se laisse aller \u00e0 des confidences et des commentaires d\u00e9capants sur l'empire du Milieu. https://www.lepoint.fr/economie/la-lecon-chinoise-du-professeur-carlos-tavares-07-09-2022-2488929_28.php Suivez nous sur : - Youtube : https://www.youtube.com/c/lepoint/ - Facebook : https://www.facebook.com/lepoint.fr/ - Twitter : https://twitter.com/LePoint - Instagram : https://www.instagram.com/lepointfr - www.lepoint.fr"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2900",
+          "likeCount": "20",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "X9j5AWSi-2CtFj33-btQzGQtUAc",
+        "id": "LQFzBM0eEdA",
+        "snippet": {
+          "publishedAt": "2022-04-14T13:15:57Z",
+          "channelId": "UCCCPCZNChQdGa9EkATeye4g",
+          "title": "66 millions d'euros pour Carlos Tavares : le salaire du dirigeant de Stellantis contest\u00e9",
+          "description": "Les millions d'euros de primes attribu\u00e9es aux dirigeants du groupe automobile Stellantis (Peugeot, Citro\u00ebn, Fiat...) pour l'ann\u00e9e 2021 sont contest\u00e9s par des actionnaires, des syndicats et jusque dans le champ politique, \u00e0 quelques jours du second tour de la pr\u00e9sidentielle.\n#CarlosTavares #Stellantis #Economie\n\n\ud83d\udd14 Abonnez-vous \u00e0 notre cha\u00eene sur YouTube : https://f24.my/YTfr\n\ud83d\udd34 En DIRECT - Suivez FRANCE 24 ici : https://f24.my/YTliveFR\n\n\ud83c\udf0d Retrouvez toute l\u2019actualit\u00e9 internationale sur notre site : https://www.france24.com/fr/\n\nRejoignez-nous sur Facebook : https://f24.my/FBvideos\nSuivez-nous sur Twitter : https://f24.my/TWvideos\nD\u00e9couvrez l\u2019actu en images sur Instagram: https://f24.my/IGfr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LQFzBM0eEdA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "FRANCE 24",
+          "tags": [
+            "Carlos Tavares",
+            "Stellantis",
+            "economie"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "66 millions d'euros pour Carlos Tavares : le salaire du dirigeant de Stellantis contest\u00e9",
+            "description": "Les millions d'euros de primes attribu\u00e9es aux dirigeants du groupe automobile Stellantis (Peugeot, Citro\u00ebn, Fiat...) pour l'ann\u00e9e 2021 sont contest\u00e9s par des actionnaires, des syndicats et jusque dans le champ politique, \u00e0 quelques jours du second tour de la pr\u00e9sidentielle.\n#CarlosTavares #Stellantis #Economie\n\n\ud83d\udd14 Abonnez-vous \u00e0 notre cha\u00eene sur YouTube : https://f24.my/YTfr\n\ud83d\udd34 En DIRECT - Suivez FRANCE 24 ici : https://f24.my/YTliveFR\n\n\ud83c\udf0d Retrouvez toute l\u2019actualit\u00e9 internationale sur notre site : https://www.france24.com/fr/\n\nRejoignez-nous sur Facebook : https://f24.my/FBvideos\nSuivez-nous sur Twitter : https://f24.my/TWvideos\nD\u00e9couvrez l\u2019actu en images sur Instagram: https://f24.my/IGfr"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12638",
+          "likeCount": "65",
+          "favoriteCount": "0",
+          "commentCount": "51"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aYG-onW0ldX3pU7TUWRk8dkcdYk",
+        "id": "jfhzANrebDQ",
+        "snippet": {
+          "publishedAt": "2022-04-10T11:15:13Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares talks about Formula E and Formula 1 - Electric Motor News dal Roma E-Prix",
+          "description": "What does the CEO of the Stellantis Group think of Formula E and Formula 1. We asked him in the pits of the Rome E-Prix Formula E and his answer was very interesting ...\nIn italiano - Carlos Tavares parla della Formula E e della Formula 1\nCosa ne pensa l\u2019Amministratore Delegato del Gruppo Stellantis della Formula E e della Formula 1. Nei box del Rome E-Prix di Formula E glielo abbiamo chiesto e la sua risposta \u00e8 stata molto interessante\u2026\nIntervista di Marcelo Padin dal Rome E-Prix.\nhttps://www.electricmotornews.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jfhzANrebDQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "tags": [
+            "Carlos Tavares",
+            "Stellantis",
+            "Rome E-Prix",
+            "Formula E",
+            "Electric Motor News",
+            "Marcelo Padin"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Carlos Tavares talks about Formula E and Formula 1 - Electric Motor News dal Roma E-Prix",
+            "description": "What does the CEO of the Stellantis Group think of Formula E and Formula 1. We asked him in the pits of the Rome E-Prix Formula E and his answer was very interesting ...\nIn italiano - Carlos Tavares parla della Formula E e della Formula 1\nCosa ne pensa l\u2019Amministratore Delegato del Gruppo Stellantis della Formula E e della Formula 1. Nei box del Rome E-Prix di Formula E glielo abbiamo chiesto e la sua risposta \u00e8 stata molto interessante\u2026\nIntervista di Marcelo Padin dal Rome E-Prix.\nhttps://www.electricmotornews.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "169",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qXXe4syPnWiL1t1t0Lcwzu_S6J8",
+        "id": "pEOjjI647ks",
+        "snippet": {
+          "publishedAt": "2022-11-21T17:43:48Z",
+          "channelId": "UCg7J9d8r2ojs73VDW09wiiA",
+          "title": "Juan Carlos Tavares",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pEOjjI647ks/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Men Super Model",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "Juan Carlos Tavares",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7ChuTJwvYabybLJuhMlZUfWBWOg",
+        "id": "MY3Qc11zguc",
+        "snippet": {
+          "publishedAt": "2022-09-19T09:08:02Z",
+          "channelId": "UCRLCXBWch76m0H1ylBWKy0g",
+          "title": "Carlos Tavares CEO Stellantis recommendation",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MY3Qc11zguc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Interimsmanager - Consultant",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "Carlos Tavares CEO Stellantis recommendation",
+            "description": ""
+          },
+          "defaultAudioLanguage": "fr-FR"
+        },
+        "contentDetails": {
+          "duration": "PT6M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "41",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JREXDhg5chh90NuZuyjp0WmKxv4",
+        "id": "ZzENCf0KHSs",
+        "snippet": {
+          "publishedAt": "2022-10-17T18:00:19Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Carlos Tavares, PDG du groupe Stellantis est l'invit\u00e9 d'Hedwige Chevrillon",
+          "description": "Carlos Tavares, PDG du groupe Stellantis est l'invit\u00e9 d'Hedwige Chevrillon",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZzENCf0KHSs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZzENCf0KHSs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZzENCf0KHSs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Carlos Tavares, PDG du groupe Stellantis est l'invit\u00e9 d'Hedwige Chevrillon",
+            "description": "Carlos Tavares, PDG du groupe Stellantis est l'invit\u00e9 d'Hedwige Chevrillon"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT18M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7018",
+          "likeCount": "77",
+          "favoriteCount": "0",
+          "commentCount": "24"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_7ZrmecYjhoqxsU3v_h_tAcr7e8",
+        "id": "srDqyU2_aIc",
+        "snippet": {
+          "publishedAt": "2022-07-12T17:06:11Z",
+          "channelId": "UCjouxqGW8Ncg1MKj8jzTn3Q",
+          "title": "Carlos Tavares e i tre pilastri del motorsport - Electric Motor News n\u00b0 13 (2022)",
+          "description": "Carlos Tavares parla ancora di motorsport\u2026 e dice chiaramente quali sono i tre elementi fondamentali per avere un campionato appetibile per coinvolgere i costruttori a fare dei programmi di partecipazione.\nMarcelo Padin dal Rome E-Prix di Formula E.\nhttps://www.electricmotornews.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/srDqyU2_aIc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "electricmotornews",
+          "tags": [
+            "Carlos Tavares",
+            "Stellantis",
+            "Formula E",
+            "Rome E-Prix",
+            "Electric Motor News",
+            "Marcelo Padin"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Carlos Tavares e i tre pilastri del motorsport - Electric Motor News n\u00b0 13 (2022)",
+            "description": "Carlos Tavares parla ancora di motorsport\u2026 e dice chiaramente quali sono i tre elementi fondamentali per avere un campionato appetibile per coinvolgere i costruttori a fare dei programmi di partecipazione.\nMarcelo Padin dal Rome E-Prix di Formula E.\nhttps://www.electricmotornews.com"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

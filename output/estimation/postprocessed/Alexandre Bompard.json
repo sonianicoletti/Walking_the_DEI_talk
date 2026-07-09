@@ -1,0 +1,939 @@
+{
+  "ceo": "Alexandre Bompard",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "SG4MlXA0aSjLsv6C26UlYqgxNLs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 380,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "19r-eKlDRcIEV6wtuyPsA-1SQkc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wFjtuUeL4T0"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-14T08:15:11Z",
+          "channelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+          "title": "Philippe Caverivi\u00e8re face \u00e0 Alexandre Bompard",
+          "description": "\"Les tentes, un peu les zizis de cur\u00e9s : elles se d\u00e9ploient tr\u00e8s vite et les scouts apprennent \u00e0 s'en servir tr\u00e8s t\u00f4t\" Suivez toute ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RTL  ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-14T08:15:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MUZSx9rfRclAd2YAtDCGox_kHqU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Kowjgve3-rQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-09T07:31:16Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Alexandre Bompard, PDG du groupe Carrefour, est l&#39;invit\u00e9 de Good Morning Business",
+          "description": "Alexandre Bompard, PDG du groupe Carrefour, est l'invit\u00e9 de Good Morning Business.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kowjgve3-rQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kowjgve3-rQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kowjgve3-rQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-09T07:31:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-oKexnbDNE9UGuL0qBpOmEgDuxU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sLemQ-M9MJ4"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-08T18:30:27Z",
+          "channelId": "UCejTWYquMXD_MFHRZiqo_Aw",
+          "title": "Inflation, p\u00e9nuries : le PDG de Carrefour face \u00e0 la crise - Alexandre Bompard - C \u00e0 Vous -08/11/2022",
+          "description": "C \u00e0 vous https://bit.ly/CaVousReplay C \u00e0 vous la suite https://bit.ly/ReplayCaVousLaSuite \u2014 Abonnez-vous \u00e0 la cha\u00eene ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "C \u00e0 vous - France T\u00e9l\u00e9visions",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-08T18:30:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-6JE-bYEUC8IIu_ZxV0cNEVmias",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dpObGU-8HAg"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-15T22:00:14Z",
+          "channelId": "UCXwDLMDV86ldKoFVc_g8P0g",
+          "title": "Face-\u00e0-Face : Alexandre Bompard",
+          "description": "Apolline de Malherbe re\u00e7oit Alexandre Bompard, PDG de Carrefour, dans \"Face-\u00e0-Face\" sur BFMTV et RMC, ce mercredi 31 ao\u00fbt ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFMTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-15T22:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QC9zijLe-CYMZ2ebHL0NrtX6sDA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wqhKFdgmmXQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-22T17:30:06Z",
+          "channelId": "UCdWkUZm_uMb5ecrQT98MF5Q",
+          "title": "La Matinale du Top AFEP 2022 - Pierre Corgnet &amp; Alexandre Bompard",
+          "description": "Le TOP est le 1er \u00e9v\u00e9nement de speed-dating entre dirigeants de PME, ETI & grandes entreprises fran\u00e7aises. Retour sur la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Les Bougies de Charroux",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-22T17:30:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KdBa1eETrEuj_ceQnd7Meb7I7rM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jm5XsDQKb6g"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-27T10:16:58Z",
+          "channelId": "UCKJ13Fk5VbJ0MXA4LceoG4w",
+          "title": "Alexandre Bompard conference at NEOMA",
+          "description": "On 15 March 2022, Alexandre Bompard, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NEOMA Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-27T10:16:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cwRFwL8Mhg3ZF7vJkkPplbxNDME",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0pXKr0Fa-rQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-13T14:41:28Z",
+          "channelId": "UCKv4FpLsXx6KIt2FSZfRgxg",
+          "title": "Sciences Po 20 ans CEP Alexandre Bompard",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sciences Po 2022",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-13T14:41:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OUNMGklCBWvArPDsuxfPFVaaQoQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oKJisAZD_t4"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-31T06:55:54Z",
+          "channelId": "UCgGb7tN3tIH5_Kk05D1J_bA",
+          "title": "\ud83d\udd34 EN DIRECT - Alexandre Bompard, PDG de Carrefour, r\u00e9pond aux questions d&#39;Apolline de Malherbe d...",
+          "description": "EN DIRECT - Alexandre Bompard, PDG de Carrefour, r\u00e9pond aux questions d'Apolline de Malherbe dans le #FaceAFace.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oKJisAZD_t4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oKJisAZD_t4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oKJisAZD_t4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RMC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-31T06:55:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UFWybxZvZYTk78JGoz10ia9EmNY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mVL3TTzgfTk"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-02T13:28:47Z",
+          "channelId": "UCZTYPIRCyeZvneuTEKAKfmA",
+          "title": "Recrutement dans le Metaverse - Discours arriv\u00e9e Alexandre Bompard",
+          "description": "metaverse #futureofwork #rh #metavers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "VR Academie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-02T13:28:47Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "6VDEQmr1K2KseiA5PUbX61dER1w",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "RgT_CYeZhiyRdXwz_3ww6F9rRaU",
+        "id": "wFjtuUeL4T0",
+        "snippet": {
+          "publishedAt": "2022-11-14T08:15:11Z",
+          "channelId": "UCzBoVtUqSyAyr0kF5ABW7gQ",
+          "title": "Philippe Caverivi\u00e8re face \u00e0 Alexandre Bompard",
+          "description": "\"Les tentes, un peu les zizis de cur\u00e9s : elles se d\u00e9ploient tr\u00e8s vite et les scouts apprennent \u00e0 s'en servir tr\u00e8s t\u00f4t\"\n\nSuivez toute l'actualit\u00e9 de \"L'Oeil de Philippe Caverivi\u00e8re\" :\nSur la page \u00e9mission de RTL.fr : https://bit.ly/3zdbrK5\nSur la page Facebook de RTL : https://bit.ly/3f0ogyV\nSur la page Instagram de RTL : https://bit.ly/3zy6QTM\nSur la page Twitter de RTL : https://bit.ly/3andEYl\nRetrouvez \u00e9galement tous les replays de \"L'Oeil de Philippe Caveriviere\" sur l'application RTL",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wFjtuUeL4T0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RTL  ",
+          "tags": [
+            "RTL",
+            "Actualit\u00e9s",
+            "Divertissement",
+            "Musique",
+            "Philippe Caverivi\u00e8re",
+            "Caverivi\u00e8re",
+            "Caverivi\u00e8re RTL"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Philippe Caverivi\u00e8re face \u00e0 Alexandre Bompard",
+            "description": "\"Les tentes, un peu les zizis de cur\u00e9s : elles se d\u00e9ploient tr\u00e8s vite et les scouts apprennent \u00e0 s'en servir tr\u00e8s t\u00f4t\"\n\nSuivez toute l'actualit\u00e9 de \"L'Oeil de Philippe Caverivi\u00e8re\" :\nSur la page \u00e9mission de RTL.fr : https://bit.ly/3zdbrK5\nSur la page Facebook de RTL : https://bit.ly/3f0ogyV\nSur la page Instagram de RTL : https://bit.ly/3zy6QTM\nSur la page Twitter de RTL : https://bit.ly/3andEYl\nRetrouvez \u00e9galement tous les replays de \"L'Oeil de Philippe Caveriviere\" sur l'application RTL"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT5M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "321314",
+          "likeCount": "3555",
+          "favoriteCount": "0",
+          "commentCount": "124"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "s-aaOmCTDQOw-S3NgAQaP0zu0wI",
+        "id": "Kowjgve3-rQ",
+        "snippet": {
+          "publishedAt": "2022-11-09T07:31:16Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Alexandre Bompard, PDG du groupe Carrefour, est l'invit\u00e9 de Good Morning Business",
+          "description": "Alexandre Bompard, PDG du groupe Carrefour, est l'invit\u00e9 de Good Morning Business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kowjgve3-rQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kowjgve3-rQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kowjgve3-rQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Alexandre Bompard",
+            "Carrefour",
+            "interview"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Alexandre Bompard, PDG du groupe Carrefour, est l'invit\u00e9 de Good Morning Business",
+            "description": "Alexandre Bompard, PDG du groupe Carrefour, est l'invit\u00e9 de Good Morning Business"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT16M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1568",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kiJ9pIyI4bxvpOxGArODHMieUNc",
+        "id": "sLemQ-M9MJ4",
+        "snippet": {
+          "publishedAt": "2022-11-08T18:30:27Z",
+          "channelId": "UCejTWYquMXD_MFHRZiqo_Aw",
+          "title": "Inflation, p\u00e9nuries : le PDG de Carrefour face \u00e0 la crise - Alexandre Bompard - C \u00e0 Vous -08/11/2022",
+          "description": "C \u00e0 vous \ud83d\udc49 https://bit.ly/CaVousReplay\nC \u00e0 vous la suite \ud83d\udc49 https://bit.ly/ReplayCaVousLaSuite\n\u2014 Abonnez-vous \u00e0 la cha\u00eene YouTube de #C\u00e0Vous ! https://bit.ly/2wPCDDa \u2014\nEt retrouvez-nous sur :\n| Notre site : https://www.france.tv/france-5/c-a-vous/\n| Facebook : https://www.facebook.com/cavousf5/\n| Twitter : https://twitter.com/CavousF5\n| Instagram : https://www.instagram.com/c_a_vous/\nInvit\u00e9 : Alexandre Bompard - Pr\u00e9sident-directeur g\u00e9n\u00e9ral de Carrefour\n\u2022 Inflation, p\u00e9nuries : le PDG de Carrefour face \u00e0 la crise",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sLemQ-M9MJ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "C \u00e0 vous - France T\u00e9l\u00e9visions",
+          "tags": [
+            "Alexandre Bompard",
+            "Bertrand Chameroy",
+            "Emilie tran Nguyen",
+            "Matthieu Belliard",
+            "Mohamed Bouhafsi",
+            "anne-elisabeth lemoine",
+            "c \u00e0 vous",
+            "carrefour",
+            "consommation",
+            "crise",
+            "distributeurs",
+            "france 5",
+            "inflation",
+            "patrick cohen",
+            "pierre lescure",
+            "p\u00e9nurie",
+            "salaires",
+            "\u00e9cologie"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Inflation, p\u00e9nuries : le PDG de Carrefour face \u00e0 la crise - Alexandre Bompard - C \u00e0 Vous -08/11/2022",
+            "description": "C \u00e0 vous \ud83d\udc49 https://bit.ly/CaVousReplay\nC \u00e0 vous la suite \ud83d\udc49 https://bit.ly/ReplayCaVousLaSuite\n\u2014 Abonnez-vous \u00e0 la cha\u00eene YouTube de #C\u00e0Vous ! https://bit.ly/2wPCDDa \u2014\nEt retrouvez-nous sur :\n| Notre site : https://www.france.tv/france-5/c-a-vous/\n| Facebook : https://www.facebook.com/cavousf5/\n| Twitter : https://twitter.com/CavousF5\n| Instagram : https://www.instagram.com/c_a_vous/\nInvit\u00e9 : Alexandre Bompard - Pr\u00e9sident-directeur g\u00e9n\u00e9ral de Carrefour\n\u2022 Inflation, p\u00e9nuries : le PDG de Carrefour face \u00e0 la crise"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13708",
+          "likeCount": "71",
+          "favoriteCount": "0",
+          "commentCount": "42"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bJ8k1BL8FjMTz1gQa2iSULbOeZA",
+        "id": "dpObGU-8HAg",
+        "snippet": {
+          "publishedAt": "2022-09-15T22:00:14Z",
+          "channelId": "UCXwDLMDV86ldKoFVc_g8P0g",
+          "title": "Face-\u00e0-Face : Alexandre Bompard",
+          "description": "Apolline de Malherbe re\u00e7oit Alexandre Bompard, PDG de Carrefour, dans \"Face-\u00e0-Face\" sur BFMTV et RMC, ce mercredi 31 ao\u00fbt 2022.\r\n\r\nApolline de Malherbe re\u00e7oit \u00e0 8h35 les candidats \u00e0 la pr\u00e9sidentielle pour une interview en direct et en simultan\u00e9 sur BFMTV et RMC. Chaque matin un face-\u00e0-face v\u00e9rit\u00e9, sans concession avec la candidate ou le candidat du jour.\r\n\r\nBFMTV, 1\u00e8re chaine d\u2019information en continu de France, vous propose toute l\u2019info en temps r\u00e9el avec 18h d\u2019antenne live par jour et des directs partout \u00e0 travers le monde o\u00f9 l'actualit\u00e9 le n\u00e9cessite. BFMTV, c'est aussi les d\u00e9bats et les grands reportages d'actualit\u00e9. Retrouvez BFMTV sur le canal 15 de la TNT et sur BFMTV.com.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dpObGU-8HAg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFMTV",
+          "tags": [
+            "Apolline de Malherbe",
+            "actualites",
+            "alexandre bompard",
+            "bourdin direct",
+            "bourdindirect",
+            "carrefour",
+            "conso",
+            "distribution",
+            "economie",
+            "emission",
+            "inflation",
+            "interview",
+            "penurie",
+            "politique",
+            "production"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Face-\u00e0-Face : Alexandre Bompard",
+            "description": "Apolline de Malherbe re\u00e7oit Alexandre Bompard, PDG de Carrefour, dans \"Face-\u00e0-Face\" sur BFMTV et RMC, ce mercredi 31 ao\u00fbt 2022.\r\n\r\nApolline de Malherbe re\u00e7oit \u00e0 8h35 les candidats \u00e0 la pr\u00e9sidentielle pour une interview en direct et en simultan\u00e9 sur BFMTV et RMC. Chaque matin un face-\u00e0-face v\u00e9rit\u00e9, sans concession avec la candidate ou le candidat du jour.\r\n\r\nBFMTV, 1\u00e8re chaine d\u2019information en continu de France, vous propose toute l\u2019info en temps r\u00e9el avec 18h d\u2019antenne live par jour et des directs partout \u00e0 travers le monde o\u00f9 l'actualit\u00e9 le n\u00e9cessite. BFMTV, c'est aussi les d\u00e9bats et les grands reportages d'actualit\u00e9. Retrouvez BFMTV sur le canal 15 de la TNT et sur BFMTV.com."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT20M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4344",
+          "likeCount": "22",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "w2kPbDiZFUaWWq_BmcvE6HTZ4h4",
+        "id": "wqhKFdgmmXQ",
+        "snippet": {
+          "publishedAt": "2022-05-22T17:30:06Z",
+          "channelId": "UCdWkUZm_uMb5ecrQT98MF5Q",
+          "title": "La Matinale du Top AFEP 2022 - Pierre Corgnet & Alexandre Bompard",
+          "description": "Le TOP est le 1er \u00e9v\u00e9nement de speed-dating entre dirigeants de PME, ETI & grandes entreprises fran\u00e7aises.\n\nRetour sur la rencontre entre Alexandre Bompard et Pierre Corgnet, orchestr\u00e9e par Emmanuel LECHYPRE, lors de la MATINALE DU TOP sur BFM Business. Un \u00e9change riche et instructif sur le th\u00e8me de la digitalisation en entreprise.\n\nPremi\u00e8re diffusion : le 12 mars 2022",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wqhKFdgmmXQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Les Bougies de Charroux",
+          "tags": [
+            "#digital",
+            "#pme",
+            "#artisanat",
+            "#alexandre bompard",
+            "#pierre corgnet",
+            "#transformation digitale",
+            "#digitalisation",
+            "#carrefour",
+            "#retail",
+            "#retailer"
+          ],
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "La Matinale du Top AFEP 2022 - Pierre Corgnet & Alexandre Bompard",
+            "description": "Le TOP est le 1er \u00e9v\u00e9nement de speed-dating entre dirigeants de PME, ETI & grandes entreprises fran\u00e7aises.\n\nRetour sur la rencontre entre Alexandre Bompard et Pierre Corgnet, orchestr\u00e9e par Emmanuel LECHYPRE, lors de la MATINALE DU TOP sur BFM Business. Un \u00e9change riche et instructif sur le th\u00e8me de la digitalisation en entreprise.\n\nPremi\u00e8re diffusion : le 12 mars 2022"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT6M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "142",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UFDuqq-mh7B78m5wL8UcBfpy45Q",
+        "id": "jm5XsDQKb6g",
+        "snippet": {
+          "publishedAt": "2022-06-27T10:16:58Z",
+          "channelId": "UCKJ13Fk5VbJ0MXA4LceoG4w",
+          "title": "Alexandre Bompard conference at NEOMA",
+          "description": "On 15 March 2022, Alexandre Bompard, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. On 15 March 2022, ALEXANDRE BOMPARD, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. He spoke about innovation, digitalisation and the Metaverse, as well as the 'food transition', CSR and youth employment. \n\nIt is important to note that this young CEO, aged 48 years, started his career at the Inspection des Finances, then moved to Europe 1 and the FNAC before joining Carrefour.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jm5XsDQKb6g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NEOMA Business School",
+          "tags": [
+            "NEOMA Business School",
+            "\u00e9cole de commerce",
+            "Business School",
+            "\u00e9cole de commerce France",
+            "French Business School"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Alexandre Bompard conference at NEOMA",
+            "description": "On 15 March 2022, Alexandre Bompard, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. On 15 March 2022, ALEXANDRE BOMPARD, CEO of Carrefour, visited the Rouen campus to answer questions from NEOMA students. He spoke about innovation, digitalisation and the Metaverse, as well as the 'food transition', CSR and youth employment. \n\nIt is important to note that this young CEO, aged 48 years, started his career at the Inspection des Finances, then moved to Europe 1 and the FNAC before joining Carrefour."
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "226",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iXBgZfCveYOy425X2A9XW88Adjs",
+        "id": "0pXKr0Fa-rQ",
+        "snippet": {
+          "publishedAt": "2022-04-13T14:41:28Z",
+          "channelId": "UCKv4FpLsXx6KIt2FSZfRgxg",
+          "title": "Sciences Po 20 ans CEP Alexandre Bompard",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0pXKr0Fa-rQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sciences Po 2022",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Sciences Po 20 ans CEP Alexandre Bompard",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "84",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nGmaIWhA5xyQ2_YUyg8QQg53jxU",
+        "id": "oKJisAZD_t4",
+        "snippet": {
+          "publishedAt": "2022-08-31T06:55:54Z",
+          "channelId": "UCgGb7tN3tIH5_Kk05D1J_bA",
+          "title": "\ud83d\udd34 EN DIRECT - Alexandre Bompard, PDG de Carrefour, r\u00e9pond aux questions d'Apolline de Malherbe d...",
+          "description": "\ud83d\udd34 EN DIRECT - Alexandre Bompard, PDG de Carrefour, r\u00e9pond aux questions d'Apolline de Malherbe dans le #FaceAFace.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oKJisAZD_t4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oKJisAZD_t4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oKJisAZD_t4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RMC",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "\ud83d\udd34 EN DIRECT - Alexandre Bompard, PDG de Carrefour, r\u00e9pond aux questions d'Apolline de Malherbe d...",
+            "description": "\ud83d\udd34 EN DIRECT - Alexandre Bompard, PDG de Carrefour, r\u00e9pond aux questions d'Apolline de Malherbe dans le #FaceAFace."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19371",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JEQ-UMwbx_uKPwSea5fjbeLBquY",
+        "id": "mVL3TTzgfTk",
+        "snippet": {
+          "publishedAt": "2022-06-02T13:28:47Z",
+          "channelId": "UCZTYPIRCyeZvneuTEKAKfmA",
+          "title": "Recrutement dans le Metaverse - Discours arriv\u00e9e Alexandre Bompard",
+          "description": "#metaverse #futureofwork #rh #metavers",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mVL3TTzgfTk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VR Academie",
+          "tags": [
+            "r\u00e9alit\u00e9",
+            "virtuelle",
+            "vr teambuilding vr vr academie",
+            "animation virtuelle"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Recrutement dans le Metaverse - Discours arriv\u00e9e Alexandre Bompard",
+            "description": "#metaverse #futureofwork #rh #metavers"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT12M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1988",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

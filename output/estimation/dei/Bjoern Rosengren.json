@@ -1,0 +1,238 @@
+{
+  "ceo": "Bjoern Rosengren",
+  "query": "Bjoern Rosengren (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "vsptNInH6CHpNJ23l7Tvlgx0NV4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XixgwXbSkcHPQHn37jY9nGvncw4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Vg7bQgbqYKc"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-24T18:25:11Z",
+          "channelId": "UC10XEWaSTU7wo9IJL-SXM3g",
+          "title": "ABB India Ltd Annual General Meeting",
+          "description": "Earnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/ Exclusive Indian CEO Interviews ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet India",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-24T18:25:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wvrMAWRYPWXKWZLGnIxeXTXKkmA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "v0W1KsJSaaI"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-07T14:00:49Z",
+          "channelId": "UC-x5TGI60MMlHH4mZFn3PWw",
+          "title": "ABB India Share Target ABB India Share Latest News Today ABB India Latest News Today",
+          "description": "ABB India Share Target ABB India Share Latest News Today ABB India Latest News Today ABB India Share Target 3490 Follow ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MR STOCK",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-07T14:00:49Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "DPWPdxwM7tDHZ3TUAF5_-X2Wef0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ARVoSxBwCDW-TowIITlPDxp9VwY",
+        "id": "Vg7bQgbqYKc",
+        "snippet": {
+          "publishedAt": "2022-03-24T18:25:11Z",
+          "channelId": "UC10XEWaSTU7wo9IJL-SXM3g",
+          "title": "ABB India Ltd Annual General Meeting",
+          "description": "Earnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\n\nFollow us on:\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Vg7bQgbqYKc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet India",
+          "tags": [
+            "\"ABB earnings",
+            "ABB stock news",
+            "ABB stock Estimates",
+            "ABB\nstock price",
+            "ABB stock price today",
+            "ABB stock buy",
+            "ABB share\nprice",
+            "ABB Earnings Concall",
+            "ABB earnings transcript",
+            "ABB share value",
+            "ABB India Ltd Earnings Concall",
+            "ABB India Ltd Earnings transcript"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "ABB India Ltd Annual General Meeting",
+            "description": "Earnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\n\nFollow us on:\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H18M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "154",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y5PiiNeIF0l_bZhjojJcgdd-QeU",
+        "id": "v0W1KsJSaaI",
+        "snippet": {
+          "publishedAt": "2022-11-07T14:00:49Z",
+          "channelId": "UC-x5TGI60MMlHH4mZFn3PWw",
+          "title": "ABB India Share Target ABB India Share Latest News Today ABB India Latest News Today",
+          "description": "ABB India Share Target ABB India Share Latest News Today ABB India Latest News Today\n\n\nABB India Share Target 3490\n\nFollow Us On\n\n\u2611\ufe0fInstagram \u27a1\ufe0f - https://rb.gy/rbksu1\n\u2611\ufe0fTelegram\u27a1\ufe0f - https://t.me/MRSTOCKLTD \n\n#mrstock\n#stockmarket \n#abbindia  \n\n----------------------------------------------------------------------------------\nDisclaimer-\nShare Market Is Subject To Market Risk Past Performance Is Not A Guarantee Of Future Performance . The Risk Of Loss In Trading And Investment In Share Include Equity Derivative Commodity And Currency Can Be Substantial. These Are Leveraged Product That Carry Substantial Risk Of Loss Up To Your Invested Capital And May Not Be Substantial For Everyone You Should Therefore Careful Consider Weather Sach Trading Is Suitable For You In Light Of Your Financial Condition Please Ensure That Your Understand Fully The Risk Involved And To Invest Money According To The Risk Bearing Capacity. Mr STOCK And Any Person Associated With This Channel Accept No Liability For Any Kind Of Content Uploaded On The Channel Or Responsible For Any Direct Indirect Implied Directly Or Indirectly On Account Of Any Action Taken Based On The Information Provided On This Channel .We Request People Not To Take Our Content To Serious And We Sincerely Apologize For Any Such That Our Video Might Have Caused.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v0W1KsJSaaI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "MR STOCK",
+          "tags": [
+            "ABB India share future",
+            "what to do in ABB India share",
+            "Why ABB India share is going down",
+            "why ABB India share is going up",
+            "ABB India share good or bad",
+            "ABB India share buy or Sell",
+            "ABB India share target tomorrow",
+            "ABB India share detail analysis",
+            "ABB India share chat explanation",
+            "when ABB India share will go up",
+            "ABB India share fundamental analysis",
+            "ABB India share news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ABB India Share Target ABB India Share Latest News Today ABB India Latest News Today",
+            "description": "ABB India Share Target ABB India Share Latest News Today ABB India Latest News Today\n\n\nABB India Share Target 3490\n\nFollow Us On\n\n\u2611\ufe0fInstagram \u27a1\ufe0f - https://rb.gy/rbksu1\n\u2611\ufe0fTelegram\u27a1\ufe0f - https://t.me/MRSTOCKLTD \n\n#mrstock\n#stockmarket \n#abbindia  \n\n----------------------------------------------------------------------------------\nDisclaimer-\nShare Market Is Subject To Market Risk Past Performance Is Not A Guarantee Of Future Performance . The Risk Of Loss In Trading And Investment In Share Include Equity Derivative Commodity And Currency Can Be Substantial. These Are Leveraged Product That Carry Substantial Risk Of Loss Up To Your Invested Capital And May Not Be Substantial For Everyone You Should Therefore Careful Consider Weather Sach Trading Is Suitable For You In Light Of Your Financial Condition Please Ensure That Your Understand Fully The Risk Involved And To Invest Money According To The Risk Bearing Capacity. Mr STOCK And Any Person Associated With This Channel Accept No Liability For Any Kind Of Content Uploaded On The Channel Or Responsible For Any Direct Indirect Implied Directly Or Indirectly On Account Of Any Action Taken Based On The Information Provided On This Channel .We Request People Not To Take Our Content To Serious And We Sincerely Apologize For Any Such That Our Video Might Have Caused."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M26S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "230",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

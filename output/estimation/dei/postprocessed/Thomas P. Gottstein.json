@@ -1,0 +1,23 @@
+{
+  "ceo": "Thomas P. Gottstein",
+  "query": "Thomas P. Gottstein (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "REGxHpumI-8z8dll8hlfIGYqdIo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "72Dfu9qqqTa1R8e2NRm3g_pK_hQ",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

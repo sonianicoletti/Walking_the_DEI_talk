@@ -1,0 +1,23 @@
+{
+  "ceo": "Brian L. Roberts",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "gn6A6fVaIA3AoBOr6C1m0N71GNk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 65712,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "nj1SeRB6pbmajX8aGk-D-dxKyzE",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

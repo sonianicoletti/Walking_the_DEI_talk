@@ -1,0 +1,116 @@
+{
+  "ceo": "Mary T. Barra",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "SCHnr9EMF8-Bmbjw5xZqs0tb5qk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1991,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WlXxXOrcBR9xMur1jRUlNwdKnyI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KWQ1BsmVWVc"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-13T21:23:21Z",
+          "channelId": "UCMxg9TQdOZSu21CHffziZlw",
+          "title": "Mary T. Barra, Chair and Chief Executive Officer of General Motors",
+          "description": "David Rubenstein interviewed Mary T. Barra, Chair and Chief Executive Officer of General Motors and Chair of the Business ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Economic Club of Washington, D.C.",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-13T21:23:21Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "NAjcYBfyv1v86FGcxVy8WE16z_g",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "eVM4pLCsFaAQ1aICi9RT86NO2Xc",
+        "id": "KWQ1BsmVWVc",
+        "snippet": {
+          "publishedAt": "2023-12-13T21:23:21Z",
+          "channelId": "UCMxg9TQdOZSu21CHffziZlw",
+          "title": "Mary T. Barra, Chair and Chief Executive Officer of General Motors",
+          "description": "David Rubenstein interviewed Mary T. Barra, Chair and Chief Executive Officer of General Motors and Chair of the Business Roundtable.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KWQ1BsmVWVc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "The Economic Club of Washington, D.C.",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mary T. Barra, Chair and Chief Executive Officer of General Motors",
+            "description": "David Rubenstein interviewed Mary T. Barra, Chair and Chief Executive Officer of General Motors and Chair of the Business Roundtable."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT40M42S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27694",
+          "likeCount": "262",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

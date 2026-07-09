@@ -1,0 +1,23 @@
+{
+  "ceo": "Bruce D. Broussard",
+  "query": "Bruce D. Broussard (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pC2p6k7PSJKn-MK5vtEzpC-vchQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 19,
+      "resultsPerPage": 17
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "k-ChkOQjcpli8E7JYQbbFHJJgbk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 17,
+      "resultsPerPage": 17
+    }
+  }
+}

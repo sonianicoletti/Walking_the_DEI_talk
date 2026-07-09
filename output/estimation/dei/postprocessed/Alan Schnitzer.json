@@ -1,0 +1,23 @@
+{
+  "ceo": "Alan Schnitzer",
+  "query": "Alan Schnitzer (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "rFOnlLAkjmu1VWz69Qwf0MOZu0E",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ylDChFS1Yzb-TbK1pzOOWX13V3Y",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

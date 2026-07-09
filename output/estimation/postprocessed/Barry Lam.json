@@ -1,0 +1,130 @@
+{
+  "ceo": "Barry Lam",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wyIqd5CZ783i8fd_GrcOIPwzz9o",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12666,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-I0WKjwhWzruTSwvxdvN5Oh1L_Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Sk3Lt-Kj8HA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-14T20:32:13Z",
+          "channelId": "UClSKSus_cJ9W1oueUIGfT7g",
+          "title": "New Philosophies for Graduate Education: A Conversation with Barry Lam *07",
+          "description": "How might we imagine the tenure track in ways that account both for individual preference and for societal impact? In what ways is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GradFUTURES Princeton University",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-14T20:32:13Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "baawz62N-YussuSIfU2gohV0fdA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "6GkyRrrfOYanaXjsM2lthjIb-Uo",
+        "id": "Sk3Lt-Kj8HA",
+        "snippet": {
+          "publishedAt": "2023-09-14T20:32:13Z",
+          "channelId": "UClSKSus_cJ9W1oueUIGfT7g",
+          "title": "New Philosophies for Graduate Education: A Conversation with Barry Lam *07",
+          "description": "How might we imagine the tenure track in ways that account both for individual preference and for societal impact? In what ways is the landscape for Ph.D.s changing, and how might graduate students best navigate this changing landscape? \r\n\r\n Join Barry Lam *07 and Ph.D. student Hellen Wainaina for an engaging and personal conversation about the ways they are rethinking what a Ph.D. can be. You'll be encouraged to center your own strengths, values, and preferences, and you'll hear firsthand how academia's relationship to publicly-engaged scholarship is changing--and why it must!\r\n\r\n Led by Princeton graduate student Hellen Wainaina, the GradFUTURES podcast centers on the futures of PhDs: both those in training at Princeton, and Princeton graduate alumni who are in and beyond academia. The podcast tells the professional development stories of graduate students, graduate alumni, and those who partner and collaborate with them.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Sk3Lt-Kj8HA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GradFUTURES Princeton University",
+          "tags": [
+            "Humanities",
+            "careers",
+            "education",
+            "graduateeducation",
+            "highereducation",
+            "phd",
+            "philosophy",
+            "professional development"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New Philosophies for Graduate Education: A Conversation with Barry Lam *07",
+            "description": "How might we imagine the tenure track in ways that account both for individual preference and for societal impact? In what ways is the landscape for Ph.D.s changing, and how might graduate students best navigate this changing landscape? \r\n\r\n Join Barry Lam *07 and Ph.D. student Hellen Wainaina for an engaging and personal conversation about the ways they are rethinking what a Ph.D. can be. You'll be encouraged to center your own strengths, values, and preferences, and you'll hear firsthand how academia's relationship to publicly-engaged scholarship is changing--and why it must!\r\n\r\n Led by Princeton graduate student Hellen Wainaina, the GradFUTURES podcast centers on the futures of PhDs: both those in training at Princeton, and Princeton graduate alumni who are in and beyond academia. The podcast tells the professional development stories of graduate students, graduate alumni, and those who partner and collaborate with them."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT34M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "41",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

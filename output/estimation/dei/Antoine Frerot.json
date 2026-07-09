@@ -1,0 +1,343 @@
+{
+  "ceo": "Antoine Frerot",
+  "query": "Antoine Frerot (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "sV40DVokgSeguzd0CZRYveGspLo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JFnfBwrisirCRP8NH9RE4Yyo37w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t0_qRWiuxAE"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-25T23:09:22Z",
+          "channelId": "UC13Lljv1mUvZqCHioKtRnbA",
+          "title": "GMK EMBROUILLE UN VIDEUR \ud83d\ude31 #gmk #monaco #fight",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KF CARS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-25T23:09:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w0rdzyprQdd15BBabZKAXk_38CM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tFW9D3JDcA8"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-03T17:00:27Z",
+          "channelId": "UChrLHImT12OXBPl3AlBJuxQ",
+          "title": "ALONZO - TRAFICANTE (Clip Officiel)",
+          "description": "\u00c9coute le titre \"TRAFICANTE\" ici : https://alonzo.lnk.to/traficante Compos\u00e9 par Hufel / Spike Miller R\u00e9alis\u00e9 par Jean-Charles ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Alonzo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-03T17:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8GHgH51R8R6MhC7NE-31oJL7vTI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6PCMTld9wpo"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-30T17:02:35Z",
+          "channelId": "UCqeIRvS2Z_Q0p70ARvphdLA",
+          "title": "Strategy Imagination Forum: A Broader Vision of Business",
+          "description": "For twenty years, heavy criticisms have been levied at companies, challenging their legitimacy. Previously thought of as ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Strategic Management Society",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-30T17:02:35Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ImHzOY_AMih9LyPnpLnl5Q5jewk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "eSSjBCDe87uZ2KbWZ2mQaWTMjTI",
+        "id": "t0_qRWiuxAE",
+        "snippet": {
+          "publishedAt": "2022-06-25T23:09:22Z",
+          "channelId": "UC13Lljv1mUvZqCHioKtRnbA",
+          "title": "GMK EMBROUILLE UN VIDEUR \ud83d\ude31 #gmk #monaco #fight",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t0_qRWiuxAE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "KF CARS",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "GMK EMBROUILLE UN VIDEUR \ud83d\ude31 #gmk #monaco #fight",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4046735",
+          "favoriteCount": "0",
+          "commentCount": "1201"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I6eobcXpGVWxnQeomyeqBE2euwQ",
+        "id": "tFW9D3JDcA8",
+        "snippet": {
+          "publishedAt": "2022-03-03T17:00:27Z",
+          "channelId": "UChrLHImT12OXBPl3AlBJuxQ",
+          "title": "ALONZO - TRAFICANTE (Clip Officiel)",
+          "description": "\u00c9coute le titre \"TRAFICANTE\" ici : https://alonzo.lnk.to/traficante\n\nCompos\u00e9 par Hufel / Spike Miller\nR\u00e9alis\u00e9 par Jean-Charles Charavin\nProduit par INCENDIE FILMS\n\n\nRejoins Alonzo sur \nhttps://www.snapchat.com/add/Mauvaismelange\nhttps://www.instagram.com/alonzofficiel\nhttps://twitter.com/Alonzopsy4\nhttps://www.facebook.com/Alonzofficiel",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tFW9D3JDcA8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alonzo",
+          "tags": [
+            "Alonzo",
+            "Alonzo Capo dei capi 2",
+            "Alonzo Capo Dei capi",
+            "Alonzo nouveau clip",
+            "Alonzo nouveau single",
+            "alonzo officiel",
+            "alonzo new",
+            "Alonzo Marseille",
+            "alonzo nouvelle video",
+            "Capo dei capi",
+            "capo dei capi 2",
+            "Papa allo",
+            "alonzo capo",
+            "capo",
+            "alonzo derni\u00e8re fois",
+            "alonzo capo paroles",
+            "capo paroles",
+            "alonzo selecao",
+            "la selecao",
+            "alonzo 2021",
+            "ALONZO TRAFICANTE",
+            "traficante",
+            "traficant\u00e9",
+            "alonzo 2022"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "ALONZO - TRAFICANTE (Clip Officiel)",
+            "description": "\u00c9coute le titre \"TRAFICANTE\" ici : https://alonzo.lnk.to/traficante\n\nCompos\u00e9 par Hufel / Spike Miller\nR\u00e9alis\u00e9 par Jean-Charles Charavin\nProduit par INCENDIE FILMS\n\n\nRejoins Alonzo sur \nhttps://www.snapchat.com/add/Mauvaismelange\nhttps://www.instagram.com/alonzofficiel\nhttps://twitter.com/Alonzopsy4\nhttps://www.facebook.com/Alonzofficiel"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT3M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "73212348",
+          "likeCount": "197317",
+          "favoriteCount": "0",
+          "commentCount": "3270"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HuZ6f5Chp-AsTs5MXj7Qct8AFL4",
+        "id": "6PCMTld9wpo",
+        "snippet": {
+          "publishedAt": "2022-06-30T17:02:35Z",
+          "channelId": "UCqeIRvS2Z_Q0p70ARvphdLA",
+          "title": "Strategy Imagination Forum: A Broader Vision of Business",
+          "description": "For twenty years, heavy criticisms have been levied at companies, challenging their legitimacy. Previously thought of as repositories of progress, today companies are charged with contributing to planet-plaguing evils from widening inequality to the ecological crisis. However, a new book recently translated from French titled \u201cA Broader Vision of Business: Toward a New Narrative\u201d by Rodolphe Durand (Professor of Strategy and Business Policy, HEC Paris) and Antoine Fr\u00e9rot (CEO, Veolia, worldwide leader in water and waste treatment) challenges this view. They reflect on the conditions to elaborate a new narrative and make firms more responsible and boons to address the colossal challenges of our time. While some companies\u2019 actors have forgotten this perspective, this underlines the urgency of bringing it back to their true raison d'\u00eatre: the company\u2019s usefulness for society. In this webinar, Durand explored these ideas to lay the foundation for modern companies based on the lessons of recent crises and shared perspective from a CEO and a research professor.\n\nTo purchase \"A Broader Vision of Business: Toward a New Narrative,\" please visit this link: https://editions.flammarion.com/a-broader-vision-of-business/9782080278548\n--\nThis session is part of the Strategy Imagination Forums, where cutting-edge thinking on current strategy issues and topics is presented by accomplished strategy thinkers from academia, business, and consulting. \n\nThis webinar comes from the Strategic Management Society (SMS). SMS is a membership-based organization. All of the activities within SMS target the development and delivery of engagement and networking opportunities for members of the Society. By joining the Strategic Management Society as a member, you not only help further this mission, but also receive exclusive membership benefits. To learn more about membership please visit: https://www.strategicmanagement.net/h...\n\nStrategy Imagination Forum: A Broader Vision of Business | SMS",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6PCMTld9wpo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Strategic Management Society",
+          "tags": [
+            "management",
+            "strategy",
+            "sustainability",
+            "responsible capitalism"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Strategy Imagination Forum: A Broader Vision of Business",
+            "description": "For twenty years, heavy criticisms have been levied at companies, challenging their legitimacy. Previously thought of as repositories of progress, today companies are charged with contributing to planet-plaguing evils from widening inequality to the ecological crisis. However, a new book recently translated from French titled \u201cA Broader Vision of Business: Toward a New Narrative\u201d by Rodolphe Durand (Professor of Strategy and Business Policy, HEC Paris) and Antoine Fr\u00e9rot (CEO, Veolia, worldwide leader in water and waste treatment) challenges this view. They reflect on the conditions to elaborate a new narrative and make firms more responsible and boons to address the colossal challenges of our time. While some companies\u2019 actors have forgotten this perspective, this underlines the urgency of bringing it back to their true raison d'\u00eatre: the company\u2019s usefulness for society. In this webinar, Durand explored these ideas to lay the foundation for modern companies based on the lessons of recent crises and shared perspective from a CEO and a research professor.\n\nTo purchase \"A Broader Vision of Business: Toward a New Narrative,\" please visit this link: https://editions.flammarion.com/a-broader-vision-of-business/9782080278548\n--\nThis session is part of the Strategy Imagination Forums, where cutting-edge thinking on current strategy issues and topics is presented by accomplished strategy thinkers from academia, business, and consulting. \n\nThis webinar comes from the Strategic Management Society (SMS). SMS is a membership-based organization. All of the activities within SMS target the development and delivery of engagement and networking opportunities for members of the Society. By joining the Strategic Management Society as a member, you not only help further this mission, but also receive exclusive membership benefits. To learn more about membership please visit: https://www.strategicmanagement.net/h...\n\nStrategy Imagination Forum: A Broader Vision of Business | SMS"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT42M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "248",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

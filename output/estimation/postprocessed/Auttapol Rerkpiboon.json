@@ -1,0 +1,142 @@
+{
+  "ceo": "Auttapol Rerkpiboon",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "PDZSoMk6P7OjDdjWM4FUs3pEqkc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 12
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RBFv2wfpZBSBGVK2zhSHlpXjPsg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tUt_FBieoh4"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-23T08:15:01Z",
+          "channelId": "UCleN27jHlAY0AHvfutxegYQ",
+          "title": "\ud83c\uddf9\ud83c\udded CEO  Powering Life Auttapol Rerkpiboon  Beyond @ Auditorium PTT  2021",
+          "description": "GPSC #CHPP #\u0e1b\u0e15\u0e17 #SmartEnergy #BESS #PeertoPeerEnergyTrading #AI #HighDensityPolyethylene #VISTEC #\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e15\u0e17 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "\ud83c\uddf9\ud83c\udded Tsundoku",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-23T08:15:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "nqmcJF_gP6ggRbnRZGoVpMPLC14",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "mMEOIR7lD-kOah9e95TIJVHDNeY",
+        "id": "tUt_FBieoh4",
+        "snippet": {
+          "publishedAt": "2022-04-23T08:15:01Z",
+          "channelId": "UCleN27jHlAY0AHvfutxegYQ",
+          "title": "\ud83c\uddf9\ud83c\udded CEO  Powering Life Auttapol Rerkpiboon  Beyond @ Auditorium PTT  2021",
+          "description": "#GPSC #CHPP #\u0e1b\u0e15\u0e17 #SmartEnergy #BESS #PeertoPeerEnergyTrading  #AI  #HighDensityPolyethylene #VISTEC  #\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e15\u0e17  #FloatingSolaronsea  #\u0e1e\u0e35\u0e17\u0e35\u0e17\u0e35\u0e41\u0e17\u0e07\u0e04\u0e4c\u0e40\u0e17\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e19\u0e31\u0e25 #PTTTank #SmartEnergyforEvolvinglife  #GPSCgroup #\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e23\u0e23\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 Report of Board of Directors\u2019 Responsibilities \nfor the Financial Reporting\nTo Shareholders,\nThe Board of Directors is responsible for the consolidated financial statements of PTT Public Company Limited and \nits subsidiaries and the separate financial statements of PTT Public Company Limited. The aforementioned financial statements \nare prepared in accordance with Thai Financial Reporting Standards. The financial statements are prepared under appropriated \naccounting policies and applied consistently by using careful judgment and the best estimation. Important information is \nadequately and transparently disclosed in the notes to financial statements for the company\u2019s shareholders and investors.\nThe Board of Directors provides good corporate governance and maintains the risk management system and internal \ncontrols to ensure that accounting records are accurate, reliable, free from material misstatement, timely and adequate to \nprotect the company\u2019s assets as well as to prevent fraud and significant irregular operations.\nThe Board of Directors has appointed an Audit Committee comprising independent directors to be responsible for \nreviewing the reliability and correctness of financial reports, evaluating the effectiveness and efficiency of internal control \nprocess and governing the effectiveness of internal audit function. The audit committee\u2019s comments on these issues are \npresented in the audit committee report included in this annual report.\nThe Board of Directors considers that the internal control system and the internal audit of the company provide credibility \nand reliability to the consolidated financial statements of PTT Public Company Limited and its subsidiaries and the separate \nfinancial statements of PTT Public Company Limited for the year ended December 31, 2020. The Board of Directors also \nbelieves that the financial position, financial results and cash flows, audited by the independent auditors (EY Office Limited), \nare fairly and accurately presented in all material respects with Thai Financial Reporting Standards. The auditors\u2019 opinion \nis presented in the auditors\u2019 report as part of this annual report",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "\ud83c\uddf9\ud83c\udded Tsundoku",
+          "tags": [
+            "\u0e23\u0e35\u0e27\u0e34\u0e27",
+            "\u0e17\u0e32\u0e2a\u0e41\u0e21\u0e27",
+            "\u0e41\u0e15\u0e07\u0e42\u0e21",
+            "\u0e41\u0e15\u0e07\u0e42\u0e21\u0e19\u0e34\u0e14\u0e32",
+            "\u0e42\u0e2b\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a",
+            "\u0e1e\u0e34\u0e21\u0e23\u0e35\u0e48\u0e1e\u0e32\u0e22",
+            "review",
+            "\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19",
+            "\u0e01\u0e23\u0e30\u0e17\u0e48\u0e2d\u0e21",
+            "\u0e1f\u0e49\u0e32\u0e17\u0e30\u0e25\u0e32\u0e22\u0e42\u0e08\u0e23",
+            "\u0e41\u0e15\u0e07\u0e42\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e21\u0e48\u0e15\u0e32\u0e22\u0e1f\u0e23\u0e35",
+            "\u0e2b\u0e19\u0e38\u0e48\u0e21\u0e01\u0e23\u0e23\u0e0a\u0e31\u0e22",
+            "\u0e2b\u0e27\u0e22",
+            "\u0e41\u0e09",
+            "\u0e01\u0e31\u0e0d\u0e0a\u0e32",
+            "\u0e2a\u0e32\u0e21\u0e01\u0e35\u0e1a",
+            "meaow",
+            "\u0e1e\u0e31\u0e19\u0e17\u0e34\u0e1b",
+            "pantip",
+            "cat"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\ud83c\uddf9\ud83c\udded CEO  Powering Life Auttapol Rerkpiboon  Beyond @ Auditorium PTT  2021",
+            "description": "#GPSC #CHPP #\u0e1b\u0e15\u0e17 #SmartEnergy #BESS #PeertoPeerEnergyTrading  #AI  #HighDensityPolyethylene #VISTEC  #\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e15\u0e17  #FloatingSolaronsea  #\u0e1e\u0e35\u0e17\u0e35\u0e17\u0e35\u0e41\u0e17\u0e07\u0e04\u0e4c\u0e40\u0e17\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e19\u0e31\u0e25 #PTTTank #SmartEnergyforEvolvinglife  #GPSCgroup #\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e23\u0e23\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 Report of Board of Directors\u2019 Responsibilities \nfor the Financial Reporting\nTo Shareholders,\nThe Board of Directors is responsible for the consolidated financial statements of PTT Public Company Limited and \nits subsidiaries and the separate financial statements of PTT Public Company Limited. The aforementioned financial statements \nare prepared in accordance with Thai Financial Reporting Standards. The financial statements are prepared under appropriated \naccounting policies and applied consistently by using careful judgment and the best estimation. Important information is \nadequately and transparently disclosed in the notes to financial statements for the company\u2019s shareholders and investors.\nThe Board of Directors provides good corporate governance and maintains the risk management system and internal \ncontrols to ensure that accounting records are accurate, reliable, free from material misstatement, timely and adequate to \nprotect the company\u2019s assets as well as to prevent fraud and significant irregular operations.\nThe Board of Directors has appointed an Audit Committee comprising independent directors to be responsible for \nreviewing the reliability and correctness of financial reports, evaluating the effectiveness and efficiency of internal control \nprocess and governing the effectiveness of internal audit function. The audit committee\u2019s comments on these issues are \npresented in the audit committee report included in this annual report.\nThe Board of Directors considers that the internal control system and the internal audit of the company provide credibility \nand reliability to the consolidated financial statements of PTT Public Company Limited and its subsidiaries and the separate \nfinancial statements of PTT Public Company Limited for the year ended December 31, 2020. The Board of Directors also \nbelieves that the financial position, financial results and cash flows, audited by the independent auditors (EY Office Limited), \nare fairly and accurately presented in all material respects with Thai Financial Reporting Standards. The auditors\u2019 opinion \nis presented in the auditors\u2019 report as part of this annual report"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

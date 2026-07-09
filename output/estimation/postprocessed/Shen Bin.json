@@ -1,0 +1,23 @@
+{
+  "ceo": "Shen Bin",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "IPcj9cBZN9xZABvyK6xvRE9C3yE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1768,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "iSZV1Rww9_SXufiApsoFH3_jZMk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

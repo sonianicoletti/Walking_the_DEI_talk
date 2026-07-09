@@ -1,0 +1,23 @@
+{
+  "ceo": "Toshihiro Suzuki",
+  "query": "Toshihiro Suzuki (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "O79Xr7Nw0v0eGeujXO0H0Vqe-fI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ZrDAX7_fDPob7jbtn_PI3CKdQ7M",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

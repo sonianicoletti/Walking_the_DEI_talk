@@ -1,0 +1,22 @@
+{
+  "ceo": "Bharat B. Masrani",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "gbnMo6wxMsn6F5hCXDpAGhTfw5U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 6
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "HG63z4Gf3NbLb0DO0Xx3I8ds_L8",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

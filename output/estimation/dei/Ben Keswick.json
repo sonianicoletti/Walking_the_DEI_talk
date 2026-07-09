@@ -1,0 +1,381 @@
+{
+  "ceo": "Ben Keswick",
+  "query": "Ben Keswick (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "z1UPSp_runW_Q2C5kiJSGqlu8HQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 3
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XRnyriBbvqgAdpzO0Kws_z8CLsY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4oe-Cy_dIQk"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-06T13:45:22Z",
+          "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+          "title": "Dude Perfect EXPOSED \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4oe-Cy_dIQk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4oe-Cy_dIQk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4oe-Cy_dIQk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dude Perfect",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-06T13:45:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PkAP02ZY77BXZFzGTMKCieAEAwg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0TNmWdJowyI"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-24T18:41:38Z",
+          "channelId": "UCyZ91n51FX7iBwyVoIW9HPA",
+          "title": "Fully RESTORED Land Rover DEFENDER 110 Soft Top with 450 HP LT1 Engine | ECD Automotive Design",
+          "description": "SUBSCRIBE TO OUR CHANNEL - http://ht.ly/4jCE30oWAd8 \u2022 CHECK OUT OTHER RECENTLY COMPLETED TRUCKS Project ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ECD Auto Design",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-24T18:41:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "C14LivUag7DIslCCwwh2GCYM8Oo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q98G04O3Ulg"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-03T15:00:14Z",
+          "channelId": "UCQT_k0rezXc0AShKx3VirvA",
+          "title": "Back in the Mountains - 100 Mile Ultramarathon Training Vlog - Lakeland 100 &amp; Lakeland 50",
+          "description": "100 Mile Ultramarathon Training Vlog - Week 4 - Lakeland 100 & Lakeland 50 Ultra Trail Marathon I enjoyed this week. It's been ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tea & Trails",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-03T15:00:14Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "CUC5DctAgbghA3cTlgKnEXC7MSk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "XFwMfn2aB2AXfNkQhUhCeTJJVD0",
+        "id": "4oe-Cy_dIQk",
+        "snippet": {
+          "publishedAt": "2022-08-06T13:45:22Z",
+          "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+          "title": "Dude Perfect EXPOSED \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4oe-Cy_dIQk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4oe-Cy_dIQk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4oe-Cy_dIQk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dude Perfect",
+          "tags": [
+            "dude perfect",
+            "dude perfect stereotypes",
+            "dude perfect water bottle flip",
+            "bottle flip",
+            "water bottle flip",
+            "dude perfect bottle flip",
+            "dude perfect basketball",
+            "dp",
+            "dude perfect world record",
+            "edition",
+            "nerf",
+            "trick shots",
+            "trick shot",
+            "family",
+            "ping pong",
+            "bowling",
+            "clean",
+            "family friendly",
+            "bubble wrap",
+            "soccer",
+            "football",
+            "spinner",
+            "spinners",
+            "fidget spinners",
+            "dude"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dude Perfect EXPOSED \ud83e\udd2b\ud83e\udd2b\ud83e\udd2b",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "67872109",
+          "likeCount": "2784978",
+          "favoriteCount": "0",
+          "commentCount": "25866"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YvA--vYh_AzUytX7FmTT0GoH0g4",
+        "id": "0TNmWdJowyI",
+        "snippet": {
+          "publishedAt": "2022-05-24T18:41:38Z",
+          "channelId": "UCyZ91n51FX7iBwyVoIW9HPA",
+          "title": "Fully RESTORED Land Rover DEFENDER 110 Soft Top with 450 HP LT1 Engine | ECD Automotive Design",
+          "description": "----------------------------------------------------------------\n\n\u2022  SUBSCRIBE TO OUR CHANNEL - http://ht.ly/4jCE30oWAd8\n\n\u2022  CHECK OUT OTHER RECENTLY COMPLETED TRUCKS\nProject New England Safari - http://ht.ly/cHq730qc2rH\nProject Stirling - http://ht.ly/g38h30qc2sc\nProject Gunn - http://ht.ly/I5O930qc2sN\nProject Blackcomb - http://ht.ly/RoGV30qc2sq\nProject Invictus - http://ht.ly/g3Dp30pYLIW\nProject Big Tex - http://ht.ly/AiGH30oWAoz\nProject Camper - http://ht.ly/Aqcc30oWAoJ\nProject Viking - http://ht.ly/MiMd30oWAoT\n\n\u2022  SEE OUR FULL VEHICLE SHOWCASE - http://ht.ly/xsXl30oWAps\n\n\u2022  TRUCKS AVAILABLE NOW - http://ht.ly/zMNB30oWAq3\n\n\u2022  FOLLOW US ON SOCIAL FOR THE LATEST NEWS\nFacebook - https://www.facebook.com/ECDAutomotive/\nInstagram - https://www.instagram.com/ecdautodesign/\nTwitter - https://twitter.com/ECDautodesign\n\n\u2022  BE THE FIRST TO SEE NEW TRUCK RELEASES - http://ht.ly/mY4730oWArL\n\n\u2022  CONTACT E.C.D TO DESIGN YOUR DREAM VEHICLE - http://ht.ly/IDKj30oWAt2\n\n\u2022  ABOUT E.C.D AUTOMOTIVE DESIGN\nE.C.D Automotive Design is an award-winning creator of prestigious, high-end luxury vehicles that combines classic British beauty with innovation and modern luxury. Our current models include the D90, D110, D130, UVC, Heritage, and RRC. Each E.C.D vehicle is designed by the client and hand-built in the USA at our Rover Dome located in Central Florida.\n\nCreate it. Build it. Live it.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0TNmWdJowyI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ECD Auto Design",
+          "tags": [
+            "ecd automotive design",
+            "east coast defender",
+            "2020 land rover defender",
+            "land rover defender",
+            "defender 90",
+            "defender 110",
+            "defender 130",
+            "custom defender 90",
+            "custom defender 110",
+            "custom defender 130",
+            "land rover defender custom",
+            "custom land rover defender",
+            "defender ls3",
+            "defender 110 modified",
+            "defender 90 modified",
+            "defender 130 modified",
+            "custom defender",
+            "defender build",
+            "arkonik defender",
+            "arkonik",
+            "himalaya defender",
+            "restored defender 110",
+            "restored defender 90",
+            "restored defender 130"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fully RESTORED Land Rover DEFENDER 110 Soft Top with 450 HP LT1 Engine | ECD Automotive Design",
+            "description": "----------------------------------------------------------------\n\n\u2022  SUBSCRIBE TO OUR CHANNEL - http://ht.ly/4jCE30oWAd8\n\n\u2022  CHECK OUT OTHER RECENTLY COMPLETED TRUCKS\nProject New England Safari - http://ht.ly/cHq730qc2rH\nProject Stirling - http://ht.ly/g38h30qc2sc\nProject Gunn - http://ht.ly/I5O930qc2sN\nProject Blackcomb - http://ht.ly/RoGV30qc2sq\nProject Invictus - http://ht.ly/g3Dp30pYLIW\nProject Big Tex - http://ht.ly/AiGH30oWAoz\nProject Camper - http://ht.ly/Aqcc30oWAoJ\nProject Viking - http://ht.ly/MiMd30oWAoT\n\n\u2022  SEE OUR FULL VEHICLE SHOWCASE - http://ht.ly/xsXl30oWAps\n\n\u2022  TRUCKS AVAILABLE NOW - http://ht.ly/zMNB30oWAq3\n\n\u2022  FOLLOW US ON SOCIAL FOR THE LATEST NEWS\nFacebook - https://www.facebook.com/ECDAutomotive/\nInstagram - https://www.instagram.com/ecdautodesign/\nTwitter - https://twitter.com/ECDautodesign\n\n\u2022  BE THE FIRST TO SEE NEW TRUCK RELEASES - http://ht.ly/mY4730oWArL\n\n\u2022  CONTACT E.C.D TO DESIGN YOUR DREAM VEHICLE - http://ht.ly/IDKj30oWAt2\n\n\u2022  ABOUT E.C.D AUTOMOTIVE DESIGN\nE.C.D Automotive Design is an award-winning creator of prestigious, high-end luxury vehicles that combines classic British beauty with innovation and modern luxury. Our current models include the D90, D110, D130, UVC, Heritage, and RRC. Each E.C.D vehicle is designed by the client and hand-built in the USA at our Rover Dome located in Central Florida.\n\nCreate it. Build it. Live it."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4380",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "E2c_ghLQQn4p-4-1k_i6XmHnRFc",
+        "id": "Q98G04O3Ulg",
+        "snippet": {
+          "publishedAt": "2022-10-03T15:00:14Z",
+          "channelId": "UCQT_k0rezXc0AShKx3VirvA",
+          "title": "Back in the Mountains - 100 Mile Ultramarathon Training Vlog - Lakeland 100 & Lakeland 50",
+          "description": "100 Mile Ultramarathon Training Vlog - Week 4 - Lakeland 100 & Lakeland 50 Ultra Trail Marathon\n\nI enjoyed this week. It's been so long since we had a trip to the Lakes. We all had a great time exploring the trails and the motto for the day was stay high and straight line! We didn't summit Helveylln, but we still got a taste of how awful the weather can be at times. Looking forward to the next trip already.\n\nStart - 00:00:00\nInterval Session - 00:03:50\nTrip to the Lakes - 00:08:15\n\n'The Lakeland 100 \u2018Ultra Tour of the Lake District\u2019 is the most spectacular long distance trail race which has ever taken place within the UK. The circular route encompasses the whole of the lakeland fells, includes in the region of 6300m of ascent and consists almost entirely of public bridleways and footpaths. The route starts in Coniston and heads South before completing a clockwise loop which takes in the Dunnerdale fells, Eskdale, Wasdale and Buttermere before arriving in Keswick. From here the route heads to Matterdale and continues over to Haweswater before returning via Kentmere, Ambleside and Elterwater to the finish at Coniston.'\n\nIf you like Ben Parkes, Run4Adventure, The Ginger Runner, Seth James Demoor and Vo2MaxProductions then you might like this upload too.\n\n\u2615\ufe0f - Buy me a coffee - https://ko-fi.com/garythwaites\n\ud83c\udfc3\u200d\u2642\ufe0f - https://www.strava.com/athletes/1679418\n\ud83c\udfc5 - https://www.etsy.com/uk/shop/MedalHangersUK?ref=seller-platform-mcnav\n\ud83d\udcf7 - https://www.instagram.com/garythwaites2498/\n\ud83d\udc25 - https://twitter.com/gthwaites2498\n\nThanks Active Root Sports Nutrition. Use the code OUTDOORPOVAR5 for \u00a35 off all orders over \u00a314.99 - http://www.activeroot.co.uk\n\nGet 10 EURO off the Outdooractive Pro or Pro+ Subscription* with voucher code\nPOV10U\n\nFind out more about Outdooractive, and details of how to sign up, by visiting http://www.outdooractive.com\n\n*Terms apply. Discount is only redeemable against the Outdooractive Pro (currently 29.99 EURO) Pro+ (currently 59.99 EURO) subscription, and is applied to the first year only. For information on how to redeem a voucher code visit https://www.outdooractive.com/how-do-i-redeem-a-voucher\nhttps://www.outdooractive.com/en/terms-and-conditions.html Please note: enter the voucher code BEFORE entering payment details to ensure discount is applied.\n\nDisclaimer:\nGary Thwaites YouTube channel should never be used to replace any medical advice or treatment. If you have any medical or psychological conditions, please consult your medical practitioner immediately.\n\nBy using this channel you do so at your own risk. Gary Thwaites YouTube channel accepts no liability in part or in full for any damages or injury caused by the use of any content provided.\n\nDo not drive or operate heavy machinery while using The Outdoor POV's audio/video recordings.\n\n\u00a9 NE3D Ltd 2022 - The videos on my channel are copyrighted. All copy, reproduction or partial use is prohibited.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q98G04O3Ulg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tea & Trails",
+          "tags": [
+            "100 mile ultramarathon",
+            "100 mile ultra marathon",
+            "lakeland 100",
+            "lakeland 100 2023",
+            "Lake district vlog",
+            "lakeland 100 blog",
+            "lakeland 100 training",
+            "lakeland 100 vlog",
+            "lakeland 50 vlog",
+            "lakeland 100 ultra",
+            "lakeland 50 2023",
+            "lakeland 100 training plan",
+            "lakeland 50",
+            "lakeland 100 recce",
+            "ultra training",
+            "100 mile ultramarathon training plan",
+            "ultra marathon",
+            "ultra marathon training",
+            "100mile ultra marathon",
+            "lake district",
+            "running",
+            "trail running",
+            "ultra running",
+            "Black toenails"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Back in the Mountains - 100 Mile Ultramarathon Training Vlog - Lakeland 100 & Lakeland 50",
+            "description": "100 Mile Ultramarathon Training Vlog - Week 4 - Lakeland 100 & Lakeland 50 Ultra Trail Marathon\n\nI enjoyed this week. It's been so long since we had a trip to the Lakes. We all had a great time exploring the trails and the motto for the day was stay high and straight line! We didn't summit Helveylln, but we still got a taste of how awful the weather can be at times. Looking forward to the next trip already.\n\nStart - 00:00:00\nInterval Session - 00:03:50\nTrip to the Lakes - 00:08:15\n\n'The Lakeland 100 \u2018Ultra Tour of the Lake District\u2019 is the most spectacular long distance trail race which has ever taken place within the UK. The circular route encompasses the whole of the lakeland fells, includes in the region of 6300m of ascent and consists almost entirely of public bridleways and footpaths. The route starts in Coniston and heads South before completing a clockwise loop which takes in the Dunnerdale fells, Eskdale, Wasdale and Buttermere before arriving in Keswick. From here the route heads to Matterdale and continues over to Haweswater before returning via Kentmere, Ambleside and Elterwater to the finish at Coniston.'\n\nIf you like Ben Parkes, Run4Adventure, The Ginger Runner, Seth James Demoor and Vo2MaxProductions then you might like this upload too.\n\n\u2615\ufe0f - Buy me a coffee - https://ko-fi.com/garythwaites\n\ud83c\udfc3\u200d\u2642\ufe0f - https://www.strava.com/athletes/1679418\n\ud83c\udfc5 - https://www.etsy.com/uk/shop/MedalHangersUK?ref=seller-platform-mcnav\n\ud83d\udcf7 - https://www.instagram.com/garythwaites2498/\n\ud83d\udc25 - https://twitter.com/gthwaites2498\n\nThanks Active Root Sports Nutrition. Use the code OUTDOORPOVAR5 for \u00a35 off all orders over \u00a314.99 - http://www.activeroot.co.uk\n\nGet 10 EURO off the Outdooractive Pro or Pro+ Subscription* with voucher code\nPOV10U\n\nFind out more about Outdooractive, and details of how to sign up, by visiting http://www.outdooractive.com\n\n*Terms apply. Discount is only redeemable against the Outdooractive Pro (currently 29.99 EURO) Pro+ (currently 59.99 EURO) subscription, and is applied to the first year only. For information on how to redeem a voucher code visit https://www.outdooractive.com/how-do-i-redeem-a-voucher\nhttps://www.outdooractive.com/en/terms-and-conditions.html Please note: enter the voucher code BEFORE entering payment details to ensure discount is applied.\n\nDisclaimer:\nGary Thwaites YouTube channel should never be used to replace any medical advice or treatment. If you have any medical or psychological conditions, please consult your medical practitioner immediately.\n\nBy using this channel you do so at your own risk. Gary Thwaites YouTube channel accepts no liability in part or in full for any damages or injury caused by the use of any content provided.\n\nDo not drive or operate heavy machinery while using The Outdoor POV's audio/video recordings.\n\n\u00a9 NE3D Ltd 2022 - The videos on my channel are copyrighted. All copy, reproduction or partial use is prohibited."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT12M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "901",
+          "likeCount": "56",
+          "favoriteCount": "0",
+          "commentCount": "29"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

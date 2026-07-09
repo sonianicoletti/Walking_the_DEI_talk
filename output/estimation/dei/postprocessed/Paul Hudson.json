@@ -1,0 +1,121 @@
+{
+  "ceo": "Paul Hudson",
+  "query": "Paul Hudson (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "z9hOh98PxprFL7FxhaZ-gJmwarQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 300,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ONTa4jEwU0xnQ6kRFP5uFWB6mO0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0QVfpHvWrA0"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-25T15:04:46Z",
+          "channelId": "UC2eMvPUloi9hTa_1mEMqsPw",
+          "title": "The #NoNaturalDisasters Conference - Paul Hudson micro-presentation",
+          "description": "There is an increasing behavioural turn in flood risk management, focusing on individual behaviour and responsibilities.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "#NoNaturalDisasters",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-25T15:04:46Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "MSbC8EOu4BxmVgWBXdWmDXlI4_4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "sXdZqoNmD7aoCuQL5_sd0ago4-U",
+        "id": "0QVfpHvWrA0",
+        "snippet": {
+          "publishedAt": "2022-11-25T15:04:46Z",
+          "channelId": "UC2eMvPUloi9hTa_1mEMqsPw",
+          "title": "The #NoNaturalDisasters Conference - Paul Hudson micro-presentation",
+          "description": "There is an increasing behavioural turn in flood risk management, focusing on individual behaviour and responsibilities. For example, a greater focus on implementing property-level resilience measures, as a complement to structural protection measures. A conclusion from this trend is that there are additional expectations and pressures being placed on the residents of flood-prone areas, in the hope that is overall reduction in this burden in the long run. Therefore, we must understand the burden that is being created as we can unintentionally create new patterns of inequality in terms of who is and is not protected if certain individuals can be judged to be overburdened. This is particularly relevant in the aftermath of disaster events when there is a push to build resilience. Once concept for measuring this aspect of the burden generated is affordability, which seeks to define and measure what a suitable burden on an actor is, and then can be targeted for additional assistance, e.g., loans, vouchers, or subsidies to eliminate the burden. However, the way this burden can be defined and addressed can also be influenced by different social justice considerations and definitions. This research explores the implications that different social justice concepts for defining what is a reasonable burden that can be placed on the individuals/households expected to adapt to and limit flood impacts and on the policy strategies and outcomes.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0QVfpHvWrA0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "#NoNaturalDisasters",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The #NoNaturalDisasters Conference - Paul Hudson micro-presentation",
+            "description": "There is an increasing behavioural turn in flood risk management, focusing on individual behaviour and responsibilities. For example, a greater focus on implementing property-level resilience measures, as a complement to structural protection measures. A conclusion from this trend is that there are additional expectations and pressures being placed on the residents of flood-prone areas, in the hope that is overall reduction in this burden in the long run. Therefore, we must understand the burden that is being created as we can unintentionally create new patterns of inequality in terms of who is and is not protected if certain individuals can be judged to be overburdened. This is particularly relevant in the aftermath of disaster events when there is a push to build resilience. Once concept for measuring this aspect of the burden generated is affordability, which seeks to define and measure what a suitable burden on an actor is, and then can be targeted for additional assistance, e.g., loans, vouchers, or subsidies to eliminate the burden. However, the way this burden can be defined and addressed can also be influenced by different social justice considerations and definitions. This research explores the implications that different social justice concepts for defining what is a reasonable burden that can be placed on the individuals/households expected to adapt to and limit flood impacts and on the policy strategies and outcomes."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

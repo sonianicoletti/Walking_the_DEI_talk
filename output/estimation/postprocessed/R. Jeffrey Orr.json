@@ -1,0 +1,23 @@
+{
+  "ceo": "R. Jeffrey Orr",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "hgC2-5GS-UXGr07lLuAl1-Vjk58",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 90,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "pM3tcnsjQbU-6Gu3I844pjRqvYg",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

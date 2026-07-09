@@ -1,0 +1,670 @@
+{
+  "ceo": "Paul Hudson",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "8YJLY1DIX9_tXyf4AiX2u1wG4OQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 457842,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zbrTdc0DWQ0x7eSd4213fwutxI0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lpSg0rz7_ZQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-07T13:25:04Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Sanofi CEO Paul Hudson on R&amp;D Day: We&#39;re going to be the world&#39;s leading immunology company",
+          "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to preview the company's R&D Day, drug pipeline outlook, growth outlook, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-07T13:25:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GCU0UR5ufqMfHQUQLuPxWRfTyis",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tg0oNxHfPZs"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-28T06:15:26Z",
+          "channelId": "UCP-CyvGQF6BVCfKwXaNvORA",
+          "title": "Sanofi \u2013 Paul Hudson comments on Q2 2023 results",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sanofi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-28T06:15:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2V2YcrU_KsFKoToUy5U3-idxVM4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lBD8YAiFHmg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-27T12:03:51Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Sanofi CEO Paul Hudson on Q3 results: Increased R&amp;D spending will impact 2024 profit",
+          "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to discuss the company's quarterly earnings results, spin off of its consumer health ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-27T12:03:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9C2zx-lLKPmzhsAd0OBvlmw5m4k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zC1e9RcFN1M"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-08T15:18:51Z",
+          "channelId": "UCzX6DlYZ5XcWgt4dGVdrpWA",
+          "title": "Paul Hudson | An Invitation to a Higher Perspective",
+          "description": "This week, we have Paul Hudson preaching. Paul currently serves as the Elim Regional Leader in the Midlands and North East.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kensington Temple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-08T15:18:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6VhnD58S2gMvq6HFKZ_zTthrjMc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d81GQ7h8pBU"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-30T20:56:43Z",
+          "channelId": "UCfGKKCvmOlxGvCuTxU908sg",
+          "title": "Insight250 Spotlight: FlexMR&#39;s CEO, Paul Hudson, on Survey Quality and Participant Experience",
+          "description": "FlexMR's Founder & CEO discusses the threats and challenges to survey research and the tactics and best practices to elevate ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Insight250",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-30T20:56:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F2uoA_rGrMNLBQUUShHCTMGK3w8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ma7TaaCoi18"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-28T11:56:17Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Sanofi CEO Paul Hudson on Q2 results: Our underlying growth is still high-single digit",
+          "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to discuss the company's quarterly results after its earnings beat estimates, new ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-28T11:56:17Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "4nIeP2_jNJeXYC3WmJxxw1Y0Rt4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "WGfYjEw6aNn5Kd4AJ-Wd4WkyMlE",
+        "id": "lpSg0rz7_ZQ",
+        "snippet": {
+          "publishedAt": "2023-12-07T13:25:04Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Sanofi CEO Paul Hudson on R&D Day: We're going to be the world's leading immunology company",
+          "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to preview the company's R&D Day, drug pipeline outlook, growth outlook, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lpSg0rz7_ZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sanofi CEO Paul Hudson on R&D Day: We're going to be the world's leading immunology company",
+            "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to preview the company's R&D Day, drug pipeline outlook, growth outlook, and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6192",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QZ_XFumvh_xT9x-ZZEIK7Q6O1dY",
+        "id": "Tg0oNxHfPZs",
+        "snippet": {
+          "publishedAt": "2023-07-28T06:15:26Z",
+          "channelId": "UCP-CyvGQF6BVCfKwXaNvORA",
+          "title": "Sanofi \u2013 Paul Hudson comments on Q2 2023 results",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Tg0oNxHfPZs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sanofi",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Sanofi \u2013 Paul Hudson comments on Q2 2023 results",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1005",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "43jQvYtDou0doJzkONFFQBIOng8",
+        "id": "lBD8YAiFHmg",
+        "snippet": {
+          "publishedAt": "2023-10-27T12:03:51Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Sanofi CEO Paul Hudson on Q3 results: Increased R&D spending will impact 2024 profit",
+          "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to discuss the company's quarterly earnings results, spin off of its consumer health care business, growth outlook, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lBD8YAiFHmg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sanofi CEO Paul Hudson on Q3 results: Increased R&D spending will impact 2024 profit",
+            "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to discuss the company's quarterly earnings results, spin off of its consumer health care business, growth outlook, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7385",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3d-slrZwwuRNLgay_IHvHmZiMZA",
+        "id": "zC1e9RcFN1M",
+        "snippet": {
+          "publishedAt": "2023-08-08T15:18:51Z",
+          "channelId": "UCzX6DlYZ5XcWgt4dGVdrpWA",
+          "title": "Paul Hudson | An Invitation to a Higher Perspective",
+          "description": "This week, we have Paul Hudson preaching.\n\nPaul currently serves as the Elim Regional Leader in the Midlands and North East. Paul will be sharing God\u2019s word with us during the 9am and 11am services on \u2018An invitation to a higher perspective\u2018.\n\nVisit our Website at www.kt.org",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zC1e9RcFN1M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kensington Temple",
+          "tags": [
+            "Kensington Temple",
+            "KT"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Paul Hudson | An Invitation to a Higher Perspective",
+            "description": "This week, we have Paul Hudson preaching.\n\nPaul currently serves as the Elim Regional Leader in the Midlands and North East. Paul will be sharing God\u2019s word with us during the 9am and 11am services on \u2018An invitation to a higher perspective\u2018.\n\nVisit our Website at www.kt.org"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT36M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "350",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SVfOAmeykUUV7ryCqk2XI0woS5U",
+        "id": "d81GQ7h8pBU",
+        "snippet": {
+          "publishedAt": "2023-11-30T20:56:43Z",
+          "channelId": "UCfGKKCvmOlxGvCuTxU908sg",
+          "title": "Insight250 Spotlight: FlexMR's CEO, Paul Hudson, on Survey Quality and Participant Experience",
+          "description": "FlexMR's Founder & CEO discusses the threats and challenges to survey research and the tactics and best practices to elevate participant experience and research quality.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/d81GQ7h8pBU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Insight250",
+          "tags": [
+            "#marketresearch",
+            "#customersurveys",
+            "#consumerinsights",
+            "#MRX"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Insight250 Spotlight: FlexMR's CEO, Paul Hudson, on Survey Quality and Participant Experience",
+            "description": "FlexMR's Founder & CEO discusses the threats and challenges to survey research and the tactics and best practices to elevate participant experience and research quality."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "36",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ba8ikI1HaX1angFXyn_rRYTody4",
+        "id": "ma7TaaCoi18",
+        "snippet": {
+          "publishedAt": "2023-07-28T11:56:17Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Sanofi CEO Paul Hudson on Q2 results: Our underlying growth is still high-single digit",
+          "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to discuss the company's quarterly results after its earnings beat estimates, new drug launches, rest of the year outlook, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ma7TaaCoi18/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sanofi CEO Paul Hudson on Q2 results: Our underlying growth is still high-single digit",
+            "description": "Sanofi CEO Paul Hudson joins 'Squawk Box' to discuss the company's quarterly results after its earnings beat estimates, new drug launches, rest of the year outlook, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3689",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

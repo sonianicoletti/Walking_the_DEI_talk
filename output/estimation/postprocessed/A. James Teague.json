@@ -1,0 +1,23 @@
+{
+  "ceo": "A. James Teague",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "P_wK-RtxiGwyYJ2NubnkIXgPv6w",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2497,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "XQVIrxZjuNYHzwOKcA38EdrLu38",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "ceo": "Amanda Blanc",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "r-DJha75o9mziGxyzlo1HhAe2Fg",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 29844,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-ajNBvPcu-2tM3dEZ3Kla6xtS78",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rwcFOBKM1cY"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-23T08:20:33Z",
+          "channelId": "UCT4hFq01krOatjiSG7z3iag",
+          "title": "Amanda Blanc: Finding Your Voice And Speaking Up",
+          "description": "This episode is the start of our CEO Series, in which we will be deep diving into what it takes to be a CEO. Amanda Blanc is a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "High Performance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-23T08:20:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xQ5fDlZuhs2Z-xSBtpPuTqXczLs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_eKNukEIkY8"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-02T07:26:57Z",
+          "channelId": "UCvvnr8wOKdBFie1NnI_49-g",
+          "title": "Our Group CEO, Amanda Blanc, discusses our 2021 full year results",
+          "description": "Take a look at our Group CEO, Amanda Blanc, in discussion about our 2021 full year results - covering key themes such as our ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aviva",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-02T07:26:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nfL_n6VYCLIk5wEob4HgmIkZpBU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iCMMiH5dAIk"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-09T07:46:53Z",
+          "channelId": "UCvvnr8wOKdBFie1NnI_49-g",
+          "title": "Aviva Group CEO, Amanda Blanc, discusses our Q3 2022 Trading Update",
+          "description": "Watch our Group CEO Amanda Blanc talk about our Q3 2022 Trading Update. To find out more visit aviva.com #AvivaQ32022 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aviva",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-09T07:46:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-ShiZGKmnAa3fhhJeot1zIMSxVo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mmwDSGwjuyA"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-11T15:52:28Z",
+          "channelId": "UCvvnr8wOKdBFie1NnI_49-g",
+          "title": "Watch our Group CEO, Amanda Blanc, talk through our 2022 half year results",
+          "description": "Aviva Group CEO, Amanda Blanc: \"Our scale and diversification give us resilience and opportunity, enabling Aviva to withstand ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Aviva",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-11T15:52:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mwxx0lz_2nTrp4mI4llz-pe_cbM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CbsideSu3g4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-09T13:38:30Z",
+          "channelId": "UCg2rexusra_Jz4Gqy2EbWmg",
+          "title": "Opening address: Amanda Blanc, CEO, Aviva",
+          "description": "Climate Change & Environment Conference 2022, #GAClimateConf22.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TheGenevaAssociation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-09T13:38:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "zIh8QRRjQ-6MRGNuULrdVN7Fg1o",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "T9C9_olvsWINDtftPOUREHaqn7M",
+        "id": "rwcFOBKM1cY",
+        "snippet": {
+          "publishedAt": "2022-09-23T08:20:33Z",
+          "channelId": "UCT4hFq01krOatjiSG7z3iag",
+          "title": "Amanda Blanc: Finding Your Voice And Speaking Up",
+          "description": "This episode is the start of our CEO Series, in which we will be deep diving into what it takes to be a CEO.\n\nAmanda Blanc is a Welsh businesswoman and the current CEO of Aviva, stepping into the role in July 2020. Amanda grew up in Rhondda valley in Wales, both her grandparents were miners. In this episode she shares how her childhood in Rhondda instilled in her the importance of community, freedom, happiness and fun.\n\nAmanda discusses what she has learnt from her role as CEO and how she approaches leading a million pound company. Communication is key for Amanda, she approaches every conversation with an open mind, wanting to learn how she can improve her work and in turn, the company. During Covid, Amanda would hold virtual town-halls in which she would invite colleagues to share their thoughts with her directly. A key learning for Amanda is, \u201cbe your own customer\u201d. You need to use your own service, see how it functions as a user - the good and the bad parts.\n\nIn this episode Jake, Damian and Amanda also discuss emotional intelligence, why she will always choose the hard option and how she dealt with being told she was not \u201cthe man for the job\u201d.\n\nThank you to PwC for sponsoring this special CEO Series. PwC\u2019s purpose is to build trust and solve important problems, and their global strategy - The New Equation - is bringing this to life for their clients, people and society. By combining technology with human ingenuity, passion and experience, PwC works with organisations to deliver more intelligent, sustained outcomes.\n\nAbout: \nThe High Performance Podcast offers an intimate glimpse into the lives of high-achieving, successful individuals. It doesn\u2019t matter where our guest has excelled - in sport, music, business or entertainment \u2013 they all have first-hand experiences and lessons to share. Find out what non-negotiable behaviours they employed to get them to the top, and keep them there.\n \nHosting every conversation is sports broadcaster Jake Humphrey and leading organisational psychologist Professor Damian Hughes. Jake is currently BT Sport\u2019s Premier League anchor and former face of BBC\u2019s Formula One coverage. Damian continues to work with leading sports organisations and teams to create a high performing culture.\n\nWatch full unseen interviews from the podcast: https://www.youtube.com/playlist?list=PLhEga43DyktQKiqShJ75awYPgShWWAxko\n\nFor more episodes of the podcast, listen here: http://www.podfollow.com/highperformance\n#highperformancepodcast #aviva #ceo #femaleceo #entrepreneurship #teamworkteambuilding #femaleentrepreneur #businesswoman #2022 #chiefexecutiveofficer",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rwcFOBKM1cY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "High Performance",
+          "tags": [
+            "Podcast",
+            "The High Performance Podcast",
+            "Jake Humphrey",
+            "Damian Hughes",
+            "Liquid thinker",
+            "ceo",
+            "chief executive officer",
+            "femaleceo",
+            "female ceos",
+            "top female ceo",
+            "business woman",
+            "business women",
+            "Aviva",
+            "axa",
+            "aviva",
+            "aviva ceo",
+            "amanda blanc",
+            "amanda blanc salary",
+            "Amanda",
+            "Blanc",
+            "Welsh Ceo",
+            "avova plc",
+            "millionaire",
+            "billionaire",
+            "FTSE100",
+            "SNP500",
+            "investment",
+            "finances",
+            "Forbes",
+            "net worth",
+            "westlife aviva stadium",
+            "aviva rugby premiership",
+            "rugby highlights",
+            "Aviva Divivdend",
+            "Insurance",
+            "aviva tulley",
+            "ceo series"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Amanda Blanc: Finding Your Voice And Speaking Up",
+            "description": "This episode is the start of our CEO Series, in which we will be deep diving into what it takes to be a CEO.\n\nAmanda Blanc is a Welsh businesswoman and the current CEO of Aviva, stepping into the role in July 2020. Amanda grew up in Rhondda valley in Wales, both her grandparents were miners. In this episode she shares how her childhood in Rhondda instilled in her the importance of community, freedom, happiness and fun.\n\nAmanda discusses what she has learnt from her role as CEO and how she approaches leading a million pound company. Communication is key for Amanda, she approaches every conversation with an open mind, wanting to learn how she can improve her work and in turn, the company. During Covid, Amanda would hold virtual town-halls in which she would invite colleagues to share their thoughts with her directly. A key learning for Amanda is, \u201cbe your own customer\u201d. You need to use your own service, see how it functions as a user - the good and the bad parts.\n\nIn this episode Jake, Damian and Amanda also discuss emotional intelligence, why she will always choose the hard option and how she dealt with being told she was not \u201cthe man for the job\u201d.\n\nThank you to PwC for sponsoring this special CEO Series. PwC\u2019s purpose is to build trust and solve important problems, and their global strategy - The New Equation - is bringing this to life for their clients, people and society. By combining technology with human ingenuity, passion and experience, PwC works with organisations to deliver more intelligent, sustained outcomes.\n\nAbout: \nThe High Performance Podcast offers an intimate glimpse into the lives of high-achieving, successful individuals. It doesn\u2019t matter where our guest has excelled - in sport, music, business or entertainment \u2013 they all have first-hand experiences and lessons to share. Find out what non-negotiable behaviours they employed to get them to the top, and keep them there.\n \nHosting every conversation is sports broadcaster Jake Humphrey and leading organisational psychologist Professor Damian Hughes. Jake is currently BT Sport\u2019s Premier League anchor and former face of BBC\u2019s Formula One coverage. Damian continues to work with leading sports organisations and teams to create a high performing culture.\n\nWatch full unseen interviews from the podcast: https://www.youtube.com/playlist?list=PLhEga43DyktQKiqShJ75awYPgShWWAxko\n\nFor more episodes of the podcast, listen here: http://www.podfollow.com/highperformance\n#highperformancepodcast #aviva #ceo #femaleceo #entrepreneurship #teamworkteambuilding #femaleentrepreneur #businesswoman #2022 #chiefexecutiveofficer"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1H5M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6184",
+          "likeCount": "52",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zjkx3Pq9b5PiRf7MIw2Yk2Rr7Ys",
+        "id": "_eKNukEIkY8",
+        "snippet": {
+          "publishedAt": "2022-03-02T07:26:57Z",
+          "channelId": "UCvvnr8wOKdBFie1NnI_49-g",
+          "title": "Our Group CEO, Amanda Blanc, discusses our 2021 full year results",
+          "description": "Take a look at our Group CEO, Amanda Blanc, in discussion about our 2021 full year results - covering key themes such as our strategic performance, the return of capital to shareholders and our dividend policy.\n\nhttps://in.aviva.com/3htZgBh\n\n00:00-00:57 Progress under Amanda Blanc's leadership\n00:58-01:52 Capital return\n01:53-03:01 Core business performance\n03:02-03:31 Shareholder dividends\n03:32-06:13 2022 priorities\n06:14-06:45 Upgraded targets\n06:46-7:39 Key takeaways",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_eKNukEIkY8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Aviva",
+          "tags": [
+            "Aviva",
+            "CEO",
+            "financial results",
+            "insurance",
+            "full year 2021",
+            "amanda blanc"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Our Group CEO, Amanda Blanc, discusses our 2021 full year results",
+            "description": "Take a look at our Group CEO, Amanda Blanc, in discussion about our 2021 full year results - covering key themes such as our strategic performance, the return of capital to shareholders and our dividend policy.\n\nhttps://in.aviva.com/3htZgBh\n\n00:00-00:57 Progress under Amanda Blanc's leadership\n00:58-01:52 Capital return\n01:53-03:01 Core business performance\n03:02-03:31 Shareholder dividends\n03:32-06:13 2022 priorities\n06:14-06:45 Upgraded targets\n06:46-7:39 Key takeaways"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT7M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "966",
+          "likeCount": "5",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "rCsdTYhL6FGHNdYXvcck5OyNU-I",
+        "id": "iCMMiH5dAIk",
+        "snippet": {
+          "publishedAt": "2022-11-09T07:46:53Z",
+          "channelId": "UCvvnr8wOKdBFie1NnI_49-g",
+          "title": "Aviva Group CEO, Amanda Blanc, discusses our Q3 2022 Trading Update",
+          "description": "Watch our Group CEO Amanda Blanc talk about our Q3 2022 Trading Update.\n\nTo find out more visit aviva.com\n\n#AvivaQ32022\n\n00:11-01:02  Progress since half year results\n01:03-03:15  Strategic priorities\n03:16-04:15 Optimism for 2023",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iCMMiH5dAIk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Aviva",
+          "tags": [
+            "#Aviva",
+            "CEO",
+            "Results film",
+            "trading update",
+            "insurance"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Aviva Group CEO, Amanda Blanc, discusses our Q3 2022 Trading Update",
+            "description": "Watch our Group CEO Amanda Blanc talk about our Q3 2022 Trading Update.\n\nTo find out more visit aviva.com\n\n#AvivaQ32022\n\n00:11-01:02  Progress since half year results\n01:03-03:15  Strategic priorities\n03:16-04:15 Optimism for 2023"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT4M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1495",
+          "likeCount": "15",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I1KJvMzOLoVQ_WBL8KW_APjpWPQ",
+        "id": "mmwDSGwjuyA",
+        "snippet": {
+          "publishedAt": "2022-08-11T15:52:28Z",
+          "channelId": "UCvvnr8wOKdBFie1NnI_49-g",
+          "title": "Watch our Group CEO, Amanda Blanc, talk through our 2022 half year results",
+          "description": "Aviva Group CEO, Amanda Blanc:  \"Our scale and diversification give us resilience and opportunity, enabling Aviva to withstand the challenging economic climate.\" \n\n#AvivaResults",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mmwDSGwjuyA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Aviva",
+          "tags": [
+            "Aviva",
+            "Amanda Blanc",
+            "CEO",
+            "Insurance",
+            "Financial results",
+            "Interim results"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Watch our Group CEO, Amanda Blanc, talk through our 2022 half year results",
+            "description": "Aviva Group CEO, Amanda Blanc:  \"Our scale and diversification give us resilience and opportunity, enabling Aviva to withstand the challenging economic climate.\" \n\n#AvivaResults"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT7M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2646",
+          "likeCount": "18",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fu14AnlHveQKMJ4gZ52L3GF7acg",
+        "id": "CbsideSu3g4",
+        "snippet": {
+          "publishedAt": "2022-12-09T13:38:30Z",
+          "channelId": "UCg2rexusra_Jz4Gqy2EbWmg",
+          "title": "Opening address: Amanda Blanc, CEO, Aviva",
+          "description": "Climate Change & Environment Conference 2022, #GAClimateConf22",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CbsideSu3g4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheGenevaAssociation",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Opening address: Amanda Blanc, CEO, Aviva",
+            "description": "Climate Change & Environment Conference 2022, #GAClimateConf22"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "259",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 25,
+      "resultsPerPage": 25
+    }
+  }
+}

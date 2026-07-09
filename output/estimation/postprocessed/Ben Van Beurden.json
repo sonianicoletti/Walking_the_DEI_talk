@@ -1,0 +1,351 @@
+{
+  "ceo": "Ben Van Beurden",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ToRpPCoeVLdG84nV0vHv43FeM9s",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 112,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NZqxbbqFuxi1vzsCsNVv3OhMxs4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MyYnCXHWezI"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-20T05:51:00Z",
+          "channelId": "UC4_DFscs7GifFdHJQpVjFPQ",
+          "title": "Ben Van Beurden Will Step Down As CEO Of Shell After Almost 10 Years: Wael Sawan Will Become New CEO",
+          "description": "Hi, thanks for watching our video about Business News across globe! In this video we'll walk you through: \u27a1 0:00 - Intro \u27a1 0:06 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nex-Gen News Network",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-20T05:51:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "H6a4kOQEl2LbjYMtjnk3gnFfMDI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TMNvcaJJ_s4"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-03T13:09:09Z",
+          "channelId": "UCrS1z1uOvw0pXlFvTyU2kwA",
+          "title": "Returning to Shell shareholders is 2022&#39;s priority, says CEO Ben van Beurden",
+          "description": "Van Beurden discusses riding the energy price wave, noisy activists, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Business Day",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-03T13:09:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xgAjANWOB7ITVUp0WoJbiTCsTss",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eAHqGBBBaIk"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-13T11:15:04Z",
+          "channelId": "UCrC2KY9PYi53AnzS579SWTg",
+          "title": "\ud83d\udd34 Live: Openbaar verhoor Ben van Beurden (CEO SHELL) - Gaswinning Groningen",
+          "description": "Openbaar verhoor Ben van Beurden.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haagse Bluf",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-13T11:15:04Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5hdqohEE72OaI-HnRey-KMiqjGw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "GMRvxLFGiNL3pdxLymA7a24ioXg",
+        "id": "MyYnCXHWezI",
+        "snippet": {
+          "publishedAt": "2022-09-20T05:51:00Z",
+          "channelId": "UC4_DFscs7GifFdHJQpVjFPQ",
+          "title": "Ben Van Beurden Will Step Down As CEO Of Shell After Almost 10 Years: Wael Sawan Will Become New CEO",
+          "description": "Hi, thanks for watching our video about Business News across globe!\nIn this video we\u2019ll walk you through:\n\u27a1 0:00 - Intro\n\u27a1 0:06 - After ten years as CEO of Shell, Ben van Beurden will step down\n\nAfter nearly ten years as CEO of Shell, Ben van Beurden will step down at the end of 2022. Wael Sawan, the firm's head of gas and renewables, will take his place. Beurden, who joined Shell in 1983, will serve as a board adviser until June 30, 2023, when he will depart the business. \n\nSawan's appointment comes at a critical juncture for the oil giant, which is trying to decrease emissions to net zero by 2050 and transition away from fossil fuels even as Europe relies on them to withstand a rising energy crisis. \n\nDuring his tenure, van Beurden oversaw Shell's largest purchase in decades, as well as two significant downturns and a critical drive to reduce carbon emissions - a challenge that will only become more important for his successor.\n  \n\u27a1 0:55 Special Reward\n\nABOUT OUR CHANNEL \u270c\nOur channel is about latest news (in short form) across the globe. We cover lots of cool stuff such as tech news, world news and business news\nCheck out our channel here:\nhttps://bit.ly/NGNN-Subs\nDon\u2019t forget to subscribe!\n\nFREE GIFT Worth $10/Rs. 750 For Every Viewer\nCRYPTOCURRENCY worth $10 Free. Checkout the below link:\nhttps://bit.ly/USD10FreeGift\nSignup on Mudrex using the above link and get $10 worth of Free Cryptocurrency. You many also use my gift voucher S195A2GA while signing up\n\nCHECK OUT OUR OTHER PLAYLIST\nWorld News:- https://bit.ly/NGNN-WorldNews\nBusiness News:- https://bit.ly/NGNN-BusinessNews\n\nStay tuned for more on ben van beurden resignation, shell ben van beurden resignation, wael sawan shell new ceo and ben van beurden shell\n\nGET IN TOUCH\nContact us on nexgen.news.network@gmail.com\n\n#benvanbeurden #shell #newceo #waelsawan #shellceo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MyYnCXHWezI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nex-Gen News Network",
+          "tags": [
+            "business news",
+            "shell chief ben van beurden",
+            "shell chief",
+            "shell ceo",
+            "oil and gas",
+            "ben van beurden",
+            "ceo",
+            "shell",
+            "shell company",
+            "van beurden",
+            "ben van beurden shell",
+            "ben van beurden step down",
+            "ben van beurden resignation",
+            "shell ben van beurden resignation",
+            "ben van beurden resign",
+            "wael sawan",
+            "wael sawan shell",
+            "shell oil and gas production",
+            "wael sawan shell new ceo",
+            "shell new ceo",
+            "shell ceo stepping down",
+            "shell ceo stepping down 2022",
+            "shell new ceo 2023",
+            "shell chief to step down"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Ben Van Beurden Will Step Down As CEO Of Shell After Almost 10 Years: Wael Sawan Will Become New CEO",
+            "description": "Hi, thanks for watching our video about Business News across globe!\nIn this video we\u2019ll walk you through:\n\u27a1 0:00 - Intro\n\u27a1 0:06 - After ten years as CEO of Shell, Ben van Beurden will step down\n\nAfter nearly ten years as CEO of Shell, Ben van Beurden will step down at the end of 2022. Wael Sawan, the firm's head of gas and renewables, will take his place. Beurden, who joined Shell in 1983, will serve as a board adviser until June 30, 2023, when he will depart the business. \n\nSawan's appointment comes at a critical juncture for the oil giant, which is trying to decrease emissions to net zero by 2050 and transition away from fossil fuels even as Europe relies on them to withstand a rising energy crisis. \n\nDuring his tenure, van Beurden oversaw Shell's largest purchase in decades, as well as two significant downturns and a critical drive to reduce carbon emissions - a challenge that will only become more important for his successor.\n  \n\u27a1 0:55 Special Reward\n\nABOUT OUR CHANNEL \u270c\nOur channel is about latest news (in short form) across the globe. We cover lots of cool stuff such as tech news, world news and business news\nCheck out our channel here:\nhttps://bit.ly/NGNN-Subs\nDon\u2019t forget to subscribe!\n\nFREE GIFT Worth $10/Rs. 750 For Every Viewer\nCRYPTOCURRENCY worth $10 Free. Checkout the below link:\nhttps://bit.ly/USD10FreeGift\nSignup on Mudrex using the above link and get $10 worth of Free Cryptocurrency. You many also use my gift voucher S195A2GA while signing up\n\nCHECK OUT OUR OTHER PLAYLIST\nWorld News:- https://bit.ly/NGNN-WorldNews\nBusiness News:- https://bit.ly/NGNN-BusinessNews\n\nStay tuned for more on ben van beurden resignation, shell ben van beurden resignation, wael sawan shell new ceo and ben van beurden shell\n\nGET IN TOUCH\nContact us on nexgen.news.network@gmail.com\n\n#benvanbeurden #shell #newceo #waelsawan #shellceo"
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT1M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "104",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o8eLnSVuyOlnT9vCGg6HyHvmtt0",
+        "id": "TMNvcaJJ_s4",
+        "snippet": {
+          "publishedAt": "2022-02-03T13:09:09Z",
+          "channelId": "UCrS1z1uOvw0pXlFvTyU2kwA",
+          "title": "Returning to Shell shareholders is 2022's priority, says CEO Ben van Beurden",
+          "description": "Van Beurden discusses riding the energy price wave, noisy activists, and more",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TMNvcaJJ_s4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Business Day",
+          "tags": [
+            "business",
+            "south africa",
+            "business live",
+            "business in south africa",
+            "business news in south africa",
+            "company news in south africa",
+            "business day",
+            "financial mail",
+            "shell",
+            "Shell CEO",
+            "Ben van Beurden",
+            "energy prices",
+            "activist investors",
+            "markets",
+            "oil company",
+            "portfolio",
+            "oil and gas"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Returning to Shell shareholders is 2022's priority, says CEO Ben van Beurden",
+            "description": "Van Beurden discusses riding the energy price wave, noisy activists, and more"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "371",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gksmp7wCksQHD50GfDQAZxVZSmc",
+        "id": "eAHqGBBBaIk",
+        "snippet": {
+          "publishedAt": "2022-10-13T11:15:04Z",
+          "channelId": "UCrC2KY9PYi53AnzS579SWTg",
+          "title": "\ud83d\udd34 Live: Openbaar verhoor Ben van Beurden (CEO SHELL) - Gaswinning Groningen",
+          "description": "Openbaar verhoor Ben van Beurden",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eAHqGBBBaIk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haagse Bluf",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "\ud83d\udd34 Live: Openbaar verhoor Ben van Beurden (CEO SHELL) - Gaswinning Groningen",
+            "description": "Openbaar verhoor Ben van Beurden"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT3H38M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "834",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

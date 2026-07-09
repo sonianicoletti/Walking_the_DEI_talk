@@ -1,0 +1,22 @@
+{
+  "ceo": "Charles W. Scharf",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "GSXbSKZJ_XVpUvW0k42Jv9IrN8k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 45,
+      "resultsPerPage": 41
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "DLCp8hIADPsoFMIBzqWEbQFlZ04",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 41,
+      "resultsPerPage": 41
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ceo": "Fujio Mitarai",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7va_y1nCJQQPKvLl83b6sf3eEao",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 1
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "hmBGj3ZzSuc0HkRtIkC7Bne_Gu0",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

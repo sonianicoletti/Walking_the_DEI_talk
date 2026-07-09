@@ -1,0 +1,124 @@
+{
+  "ceo": "Cao Jianguo",
+  "query": "Cao Jianguo (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "87jvTIgq3egev-CmNgqmLbhYMu0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2j_K-snmJFVcMZqqMhkOC-_HZXs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Fnj03nLmk_E"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-27T03:53:30Z",
+          "channelId": "UCK90Xvv_2fl6-bsJVp8uVKw",
+          "title": "Rush hour riding Beijing Guomao  Sanlitun under the social control during the COVID\u201019\u30104K\u3011\u9a91\u884c\u5728\u5317\u4eac",
+          "description": "Try to record the real streets of Beijing. most of time, I will ride a bicycle. In Chaoyang District, in addition to catering and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sunLight",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-27T03:53:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "UhbQFLlAy_Xn0YnmLNbpGLBf4e4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "s0nhSslIB3G0YgCxbx4ukYucP7E",
+        "id": "Fnj03nLmk_E",
+        "snippet": {
+          "publishedAt": "2022-05-27T03:53:30Z",
+          "channelId": "UCK90Xvv_2fl6-bsJVp8uVKw",
+          "title": "Rush hour riding Beijing Guomao  Sanlitun under the social control during the COVID\u201019\u30104K\u3011\u9a91\u884c\u5728\u5317\u4eac",
+          "description": "Try to record the real streets of Beijing. most of time, I will ride a bicycle.\nIn Chaoyang District, in addition to catering and supermarkets, most shops and companies are only allowed to work from home. Of course, those who cannot work from home have to stop operating, and the catering industry is also restricted from dine-in.\nShooting Date: 2022/05/16 AM about22\u2103\n\n00:00:00 Route on map\n00:00:34 East Third Ring Road, Changhong Bridge\n00:00:59 Workers Stadium North Road\n00:08:13 East Second Ring Road\n00:15:34 Jianguomen Outer Street\n00:23:34 East Third Ring Road\n00:31:43 Agricultural Exhibition Hall South Road\n00:36:45 Sweetwater Garden Street\n00:41:31 Jintai Road\n00:43:27 West Dawang Road\n00:46:22 Jianguo Road\n\nGopro 9 settings:Version Number:1.60\n4K60FPS / Lens:Linear / HyperSmooth:On / ISO:100-1600 / Shutter:960 EV:NA / White Balance:5000 / Color:Gopro / Sharpness:Medium",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fnj03nLmk_E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "sunLight",
+          "tags": [
+            "china"
+          ],
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Rush hour riding Beijing Guomao  Sanlitun under the social control during the COVID\u201019\u30104K\u3011\u9a91\u884c\u5728\u5317\u4eac",
+            "description": "Try to record the real streets of Beijing. most of time, I will ride a bicycle.\nIn Chaoyang District, in addition to catering and supermarkets, most shops and companies are only allowed to work from home. Of course, those who cannot work from home have to stop operating, and the catering industry is also restricted from dine-in.\nShooting Date: 2022/05/16 AM about22\u2103\n\n00:00:00 Route on map\n00:00:34 East Third Ring Road, Changhong Bridge\n00:00:59 Workers Stadium North Road\n00:08:13 East Second Ring Road\n00:15:34 Jianguomen Outer Street\n00:23:34 East Third Ring Road\n00:31:43 Agricultural Exhibition Hall South Road\n00:36:45 Sweetwater Garden Street\n00:41:31 Jintai Road\n00:43:27 West Dawang Road\n00:46:22 Jianguo Road\n\nGopro 9 settings:Version Number:1.60\n4K60FPS / Lens:Linear / HyperSmooth:On / ISO:100-1600 / Shutter:960 EV:NA / White Balance:5000 / Color:Gopro / Sharpness:Medium"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT50M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1188",
+          "likeCount": "40",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

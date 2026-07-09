@@ -1,0 +1,23 @@
+{
+  "ceo": "Carlos Tavares",
+  "query": "Carlos Tavares (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "QFy0rr6SgUzuye25v61_bF4QI2M",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 54,
+      "resultsPerPage": 43
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Dk8HpnbFtb3HfPbYu4dnqE9eHjM",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 43,
+      "resultsPerPage": 43
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Bjoern Rosengren",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "2le2ryCu2H8xS857elcSnVyM9sI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 97,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Anm2oDM4Wuq6ikwovfbsOybofLA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

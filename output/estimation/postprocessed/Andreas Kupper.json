@@ -1,0 +1,23 @@
+{
+  "ceo": "Andreas Kupper",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "dJ1snlrCpbHOLGlImWLxmLE2aTU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 67,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SjUgCS67kC1ZmHVo6xXPKb_rMRA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

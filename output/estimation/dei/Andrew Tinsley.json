@@ -1,0 +1,1447 @@
+{
+  "ceo": "Andrew Tinsley",
+  "query": "Andrew Tinsley (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ltsLy8S90C_qpEpxQ2Hf4A4-gYE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 12
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Id5vCi1N-bDm2MB00EZ6n-d26mc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Hl6BsjadeVE"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-04T16:36:24Z",
+          "channelId": "UC7IeD-bOHg9oN1lA6KslpCA",
+          "title": "Summer Candy Kiss Challenge \ud83d\ude33\ud83d\udc8b #SHORTS",
+          "description": "We advise adult supervision and care at all times. This video is made for entertainment purposes. We do not make any warranties ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "5-Minute Crafts HOUSE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-04T16:36:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xXj4XEsNlCF_3ewTbCqT0pJlsnY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RNEJC4AFBaU"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-12T16:57:03Z",
+          "channelId": "UCT9SAqmt6AnD3lNaps03pJw",
+          "title": "Hi, my name is Doechii \ud83d\ude0e\u2728\u2764\ufe0f",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FREVERVERSE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-12T16:57:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NQRASq-CpCnUeJdwi0Lir2lcVRY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DQytwTwoMI8"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-26T11:00:04Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "How To Get Funded $100k+ For Trading (The5ers Prop Firm)",
+          "description": "In this interview, I sit down with Saul Lokier full-time trader and general manager at The5ers prop firm. We discuss how traders can ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-26T11:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QRz_ITVy1TyOEJ3qeyl9nTzlQu8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IoRuywXg7Ww"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-03T11:00:16Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "&quot;Fully Automated Trading Systems&quot; - Matt DeLong | Trader Interview",
+          "description": "In this trader interview, Etienne sits down wth full-time automated trading systems developer Matt DeLong. He is a pro when it ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-03T11:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Roeh3yo_7c-y1gFHzX2fzLIAzyg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JVv4tNn_Is8"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-13T14:35:04Z",
+          "channelId": "UCxS1wJFcpXBbpm6Gyb_jB9A",
+          "title": "Greatest NCAA Tournament Performances - The 2000 Wisconsin Badgers with Dick Bennett and his Defense",
+          "description": "90s Sports Nostalgia presents, Greatest NCAA Tournament Performances: 1999 - 2000 Wisconsin Badgers Final Four Run.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "90s Sports Nostalgia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-13T14:35:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LBQVA7nr7AC1ivR7mMH42J4KTJI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PhE5dMJCzDE"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-17T11:00:16Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "&quot;The Reality of Full-Time Trading&quot; - Rolf Schlotmann | Trader Interview",
+          "description": "In this trader interview, Etienne sits down with full-time trader Rolf Schlotmann (from @Tradeciety) to discuss what it's really like to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-17T11:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dXoxu_tqN_CWVhy5qTwOxGb4cO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sNhoRiYJ1oc"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-14T12:00:21Z",
+          "channelId": "UCPFbLcFipff2OVJC2KdARbw",
+          "title": "186 - The Disappearance of Gail Joiner",
+          "description": "Take the Trace Evidence 2022 Survey: https://www.surveymonkey.com/r/RXB9HZW On the first day of Fall in 1972, thirteen year ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Trace Evidence Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-14T12:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1KLt6zGRhh388cpKfHVrab_uAVQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "N3tmjMey9xo"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-20T12:00:09Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "Full-Time Income From Systematic Trading - Adam Grimes | Trader Interview",
+          "description": "In this trader interview, I sit down with full-time trading legend Adam Grimes. Being a systematic trader with a hint of discretion, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-20T12:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iw5q9LtCD57mwftM8NZX1us1SVA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TKVE6DL7ubU"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-19T11:00:11Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "He Makes a Living Algo Trading in Forex - Scott Welsh | Trader Interview",
+          "description": "In this trader interview, Etienne sits down with Scott Welsh, a full-time algo trader. Scott trades automated trading strategies for a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-19T11:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hIMs9HrzIEOwJ6DyR-0vAwctA3o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Fu3X1hE466Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-24T21:00:12Z",
+          "channelId": "UC3O34bCJB1hkwTrLaD0J7Pw",
+          "title": "BREAKING! RAMONA SINGER FIRED! RHONY CAST SHAKEUP!",
+          "description": "realhousewivesofnewyorkcity #ramonasinger #rhony ramona singer fired ramona singer real housewives of new york rhonyc leah ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sebastian Soto",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-24T21:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Fm8hfNn3AlAVmyrJh8I-bC8Z5dU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "64NIG6cp1gY"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-21T11:00:05Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "&quot;The $8M Professional Trader&quot; - Aatu Kokkila | Trader Interview",
+          "description": "In this trader interview, I interview professional trader Aatu Kokkila who got funded more than $8 million by Darwinex in managed ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-21T11:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dQwM084kUW20D_0fG8b4jiJhRSk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BXrA6aB4Tjc"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-10T11:00:09Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "&quot;Professional Trader Secrets Revealed&quot; - Ali Crooks | Trader Interview",
+          "description": "In this trader interview, I sit down with full-time professional trader Ali Crooks. He has been trading for close to 20 years and runs a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-10T11:00:09Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "gu7dV2NGmoOYo8nV-0tVqyyqcqo",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "2UiQYl11diP2HtELscoriBnr1Rg",
+        "id": "Hl6BsjadeVE",
+        "snippet": {
+          "publishedAt": "2022-07-04T16:36:24Z",
+          "channelId": "UC7IeD-bOHg9oN1lA6KslpCA",
+          "title": "Summer Candy Kiss Challenge \ud83d\ude33\ud83d\udc8b #SHORTS",
+          "description": "We advise adult supervision and care at all times. \r\n\r\nThis video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. \r\n\r\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. \r\n\r\nAll product and company names shown in the video are trademarks\u2122\ufe0f or registered\u00ae\ufe0f trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. \r\n\r\n---------------------------------------------------------------------------------------- \r\n\r\n5-Minute Crafts: http://bit.ly/2itjCyw \r\n\r\nFacebook: https://www.facebook.com/5min.crafts/ \r\n\r\nInstagram: https://www.instagram.com/5.min.crafts/ \r\n\r\nTwitter: https://twitter.com/5m_crafts \r\n\r\n5-Minute Crafts DIY: https://goo.gl/fWbJqz\r\n\r\n5-Minute Crafts PLAY: https://goo.gl/PEuLVt\r\n\r\nThe Bright Side of Youtube: https://goo.gl/rQTJZz \r\n\r\nFor more videos and articles visit: http://www.brightside.me/\r\n \r\nMusic by Epidemic Sound: https://www.epidemicsound.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Hl6BsjadeVE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "5-Minute Crafts HOUSE",
+          "tags": [
+            "123",
+            "123go",
+            "123go food",
+            "123go hacks",
+            "123go school",
+            "5 min craft",
+            "5 minute craft",
+            "5 minute crafts school",
+            "5 minutes craft",
+            "5 minutscraft",
+            "5-minute crafts",
+            "5-minute crafts house",
+            "best",
+            "challenge",
+            "craft",
+            "crafts",
+            "diy",
+            "do it yourself",
+            "five minute craft",
+            "five minute crafts",
+            "five minutes craft",
+            "friends",
+            "fun",
+            "funny",
+            "hacks",
+            "how to",
+            "howto",
+            "life hacks",
+            "pop it",
+            "school hacks",
+            "tik tok",
+            "tik tok house",
+            "tiktok",
+            "tiktok house",
+            "tiktok trends",
+            "tiktok video",
+            "tips",
+            "tricks",
+            "trucos",
+            "tutorial"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Summer Candy Kiss Challenge \ud83d\ude33\ud83d\udc8b #SHORTS",
+            "description": "We advise adult supervision and care at all times. \r\n\r\nThis video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. \r\n\r\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. \r\n\r\nAll product and company names shown in the video are trademarks\u2122\ufe0f or registered\u00ae\ufe0f trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. \r\n\r\n---------------------------------------------------------------------------------------- \r\n\r\n5-Minute Crafts: http://bit.ly/2itjCyw \r\n\r\nFacebook: https://www.facebook.com/5min.crafts/ \r\n\r\nInstagram: https://www.instagram.com/5.min.crafts/ \r\n\r\nTwitter: https://twitter.com/5m_crafts \r\n\r\n5-Minute Crafts DIY: https://goo.gl/fWbJqz\r\n\r\n5-Minute Crafts PLAY: https://goo.gl/PEuLVt\r\n\r\nThe Bright Side of Youtube: https://goo.gl/rQTJZz \r\n\r\nFor more videos and articles visit: http://www.brightside.me/\r\n \r\nMusic by Epidemic Sound: https://www.epidemicsound.com/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8608780",
+          "likeCount": "63749",
+          "favoriteCount": "0",
+          "commentCount": "80"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pDnOVUiwm52eTgJfy10l8jWkyJI",
+        "id": "RNEJC4AFBaU",
+        "snippet": {
+          "publishedAt": "2022-10-12T16:57:03Z",
+          "channelId": "UCT9SAqmt6AnD3lNaps03pJw",
+          "title": "Hi, my name is Doechii \ud83d\ude0e\u2728\u2764\ufe0f",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RNEJC4AFBaU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FREVERVERSE",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hi, my name is Doechii \ud83d\ude0e\u2728\u2764\ufe0f",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6060200",
+          "likeCount": "169807",
+          "favoriteCount": "0",
+          "commentCount": "1466"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "i-YhdaqKdC6uNhDz8_9Tx1WFWzU",
+        "id": "DQytwTwoMI8",
+        "snippet": {
+          "publishedAt": "2022-06-26T11:00:04Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "How To Get Funded $100k+ For Trading (The5ers Prop Firm)",
+          "description": "In this interview, I sit down with Saul Lokier full-time trader and general manager at The5ers prop firm. We discuss how traders can get funded by The5ers and scale up to $3.6M (currently the maximum capital you can get from this prop firm). You'll also learn from Saul's journey as a trader as well as the obstacles he had to overcome.\n\nTake The5ers prop firm challenge (5% Discount on your 1st Evaluation): https://d2t.link/the5ers\n\nChapters: \n0:00 Start of the intervierw\n0:13 Introduction\n0:48 Who are Saul and The5ers?\n1:24 Why did Saul join The5%ers in the 1st place?\n2:10 How The5%ers is different from most online prop firms\n3:42 When should you look to become a funded trader\n4:48 Saul's experience with other online prop \"challenges\"\n6:32 Why 30-day time limits are bad for traders\n7:53 Quick overview of The%5ers options for trader funding\n11:00 How The5%ers makes money\n11:37 Why the5%ers need profitable traders\n12:05 How the new Freestyle program helps profitable traders\n13:53 What is the maximum drawdown for funded traders\n14:42 Why you don't need more than 1:30 leverage\n15:46 How to choose the correct prop firm for you\n18:11 Top tips to pass a prop firm evaluation and get funded\n20:29 Why your trading strategy doesn't matter\n21:10 Top habits from funded traders\n22:38 How many funded traders are then in The5%ers\n24:32 How prop firm traders inspire growth\n25:26 How fast can you scale your funding with the5%ers\n27:36 How can trading millions affect trader psychology\n29:02 The importance of having a team for funded traders\n30:05 Areas of improvement for The5%ers\n33:04 Where to find Saul and The5%ers\n\n#propfirm #fundedtrading #fundedtrader\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DQytwTwoMI8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "desire to trade",
+            "forex trader traveling",
+            "forex",
+            "forex trader",
+            "swing trader",
+            "forex trading"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "How To Get Funded $100k+ For Trading (The5ers Prop Firm)",
+            "description": "In this interview, I sit down with Saul Lokier full-time trader and general manager at The5ers prop firm. We discuss how traders can get funded by The5ers and scale up to $3.6M (currently the maximum capital you can get from this prop firm). You'll also learn from Saul's journey as a trader as well as the obstacles he had to overcome.\n\nTake The5ers prop firm challenge (5% Discount on your 1st Evaluation): https://d2t.link/the5ers\n\nChapters: \n0:00 Start of the intervierw\n0:13 Introduction\n0:48 Who are Saul and The5ers?\n1:24 Why did Saul join The5%ers in the 1st place?\n2:10 How The5%ers is different from most online prop firms\n3:42 When should you look to become a funded trader\n4:48 Saul's experience with other online prop \"challenges\"\n6:32 Why 30-day time limits are bad for traders\n7:53 Quick overview of The%5ers options for trader funding\n11:00 How The5%ers makes money\n11:37 Why the5%ers need profitable traders\n12:05 How the new Freestyle program helps profitable traders\n13:53 What is the maximum drawdown for funded traders\n14:42 Why you don't need more than 1:30 leverage\n15:46 How to choose the correct prop firm for you\n18:11 Top tips to pass a prop firm evaluation and get funded\n20:29 Why your trading strategy doesn't matter\n21:10 Top habits from funded traders\n22:38 How many funded traders are then in The5%ers\n24:32 How prop firm traders inspire growth\n25:26 How fast can you scale your funding with the5%ers\n27:36 How can trading millions affect trader psychology\n29:02 The importance of having a team for funded traders\n30:05 Areas of improvement for The5%ers\n33:04 Where to find Saul and The5%ers\n\n#propfirm #fundedtrading #fundedtrader\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT33M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23265",
+          "likeCount": "538",
+          "favoriteCount": "0",
+          "commentCount": "72"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ptTo1A3waTeAbXUFGhqi3AKDflk",
+        "id": "IoRuywXg7Ww",
+        "snippet": {
+          "publishedAt": "2022-04-03T11:00:16Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "\"Fully Automated Trading Systems\" - Matt DeLong | Trader Interview",
+          "description": "In this trader interview, Etienne sits down wth full-time automated trading systems developer Matt DeLong. He is a pro when it comes to mastering algo trading and strategy development. Matt will teach you how you can create fully automated trading systems that can be run fairly hands-off.\n\nChapters:\n0:00 Not every trading strategy can be automated!\n0:24 Introduction\n1:05 What has Matt done since his last interview with Etienne\n3:29 Why Matt's algo was originally a Long only strategy\n5:03 How Matt constructs algorithmic trading strategies\n7:22 Why algos should look at multiple timeframes\n7:54 Is Matt an algo trader or algo manager?\n9:08 How can someone using algo protect their capital\n11:10 How Matt monitors his algo trades\n13:18 How can you know when you need to replace an algo\n15:28 How can you know that the market conditions have changed\n17:35 How can you get started with being an algo trader\n20:16 Why Tradingview data works well for Matt\n21:37 How can you determine if a strategy is good from its statistics\n25:16 What platform does Matt use to be able to trade on multiple brokers\n27:20 How can you get an algo built for trading\n29:03 What is Matt's preferred programming platform for trading\n30:10 Where to find Matt DeLong\n30:26 What does Matt do at Real Life Trading\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\n#traderinterview #tradingsystem #tradingstrategy\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IoRuywXg7Ww/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "algo trading",
+            "algo trading system",
+            "algo trading systems",
+            "algorithmic trading",
+            "algorithmic trading system",
+            "automated forex trading",
+            "automated forex trading system",
+            "automated trading",
+            "automated trading software",
+            "automated trading system",
+            "automated trading systems",
+            "build algo trading system",
+            "desire to trade podcast",
+            "fully automated trading robot",
+            "fully automated trading system",
+            "fully automated trading systems",
+            "matt delong",
+            "trader interview",
+            "trading",
+            "trading strategies"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "\"Fully Automated Trading Systems\" - Matt DeLong | Trader Interview",
+            "description": "In this trader interview, Etienne sits down wth full-time automated trading systems developer Matt DeLong. He is a pro when it comes to mastering algo trading and strategy development. Matt will teach you how you can create fully automated trading systems that can be run fairly hands-off.\n\nChapters:\n0:00 Not every trading strategy can be automated!\n0:24 Introduction\n1:05 What has Matt done since his last interview with Etienne\n3:29 Why Matt's algo was originally a Long only strategy\n5:03 How Matt constructs algorithmic trading strategies\n7:22 Why algos should look at multiple timeframes\n7:54 Is Matt an algo trader or algo manager?\n9:08 How can someone using algo protect their capital\n11:10 How Matt monitors his algo trades\n13:18 How can you know when you need to replace an algo\n15:28 How can you know that the market conditions have changed\n17:35 How can you get started with being an algo trader\n20:16 Why Tradingview data works well for Matt\n21:37 How can you determine if a strategy is good from its statistics\n25:16 What platform does Matt use to be able to trade on multiple brokers\n27:20 How can you get an algo built for trading\n29:03 What is Matt's preferred programming platform for trading\n30:10 Where to find Matt DeLong\n30:26 What does Matt do at Real Life Trading\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\n#traderinterview #tradingsystem #tradingstrategy\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11114",
+          "likeCount": "276",
+          "favoriteCount": "0",
+          "commentCount": "24"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "V3wy-ItsYPlnDrFIkdTH_LUM1Xc",
+        "id": "JVv4tNn_Is8",
+        "snippet": {
+          "publishedAt": "2022-03-13T14:35:04Z",
+          "channelId": "UCxS1wJFcpXBbpm6Gyb_jB9A",
+          "title": "Greatest NCAA Tournament Performances - The 2000 Wisconsin Badgers with Dick Bennett and his Defense",
+          "description": "90s Sports Nostalgia presents, Greatest NCAA Tournament Performances: 1999 - 2000 Wisconsin Badgers Final Four Run.  I greatly appreciate your interest in this 90s college basketball video.  Thank you so much and enjoy this sports history documentation.   \n\n\u25b6 SUBSCRIBE and hit the bell: https://goo.gl/Kiuhf1 \n\u25b6 PATREON support: https://www.patreon.com/90ssportsnostalgia \n\u25b6 FACEBOOK: https://www.facebook.com/90ssportsnostalgia/ \n\u25b6 TWITTER: https://twitter.com/90SportsNstlgia\n\n\u2705 MERCH and SHIRTS: https://teespring.com/stores/90s-sports/collection/apparel\n\n90s Sports Nostalgia is a YouTube channel that makes historical sports content. The videos on this channel mostly documents 90s NFL football, 90s NBA Basketball, 90s Major League Baseball and some college sports.\n\nFAIR USE \n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*\n\nTrading Cards are from The Trading Card Database: tradingcarddb.com\nStats and box scores are from: sports-reference.com/\n\nAll video is from CBS Sports - credit to CBS Sports\n\nOther Attribution:\n\n1999-2000 Wisconsin Badgers team picture\nCredit: Wisconsin Athletics Badgers Website\n\nCoach Bennett Picture with UWGB\nCredit: UWGB Athletics Website \n\nUWGB - California Picture\nCredit: YouTube Screenshot\n\nCoach Bennett Wisconsin Picture\nCredit: Green Bay Press-Gazette\n\nAndy Kowske Picture\nCredit: Milwaukee Journal Sentinel / Doug Pizac\n\nMark Vershaw Picture\nCredit: Milwaukee Journal Sentinel / Jeffrey Phelps\n\nMike Kelley Picture\nUW Badgers / David Stluka\n\nCourtney Alexander Picture\nCredit: AP\n\nWisconsin Picture vs Fresno State\nCredit: Milwaukee Journal Sentinel / Paul Sakuma\n\nArizona Wildcats Picture\nCredit: Twitter - Timeless Sports\n\nStromile Swift Picture\nCredit: Bill Feig / The Advocate\n\nMike Kelley Final Four Picture\nCredit: Milwaukee Journal Sentinel / Dave Martin\n\nMichigan State Flintstones Picture\nCredit: M Live File Photo\n\nMateen Cleaves / Morris Peterson Photo\nCredit: Rod Sanford / Lansing State Journal\n\nMSU - ISU Photo\nCredit: YouTube Screenshot\n\nJamaal Tinsley Photo\nCredit: AP Photo\n\nMarcus Fizer Picture\nCredit: Des Moines Register\n\nFlorida Gators Picture\nCredit: The Gainesville Sun\n\nTiger Stadium Pic\nRdikeman at the English Wikipedia CC BY-SA 3.0 (http://creativecommons. org/licenses/by-sa/3.0/)\nVectors attribution:\nwww.123Freevectors. com\n\nhttps://www.vectorstock. com/royalty-free-vector/wave-abstract-overlap-layer-on-red-stripes-vector-34157476\n\nhttps://www.123freevectors. com/red-and-black-curve-background-vector-art-148582/\n\nDesigned by vectorstock (Image 34157476 at VectorStock. com)\n\nGrey Background\nPublic Domain\n\nMusic is either part of the royalty free music on YouTube or part of the Creative Commons - \n\nDouble O Kevin MacLeod (incompetech. com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons. org/licenses/by/3.0/\n\n#WisconsinBadgers\n#FinalFour\n#Badgers\n\nOnce again, thank you for watching this video about the Wisconsin Badgers and their Final 4 run in 2000.  Mike Kelley was tremendous with the coaching of Coach Bennett.  Thank you for your interest in this Wisconsin Badgers history.  \n\nTimestamps\n00:00 Intro\n1:33 Dick Bennett gets hired by the Wisconsin Badgers\n3:00 The 1999 - 2000 Wisconsin Badgers Final Four run\n8:47 Could the 1999-2000 Wisconsin Badgers won the championship\n10:53 Conclusion",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JVv4tNn_Is8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "90s Sports Nostalgia",
+          "tags": [
+            "dick bennett",
+            "wisconsin badgers final four appearances",
+            "greatest ncaa tournament performances",
+            "wisconsin badgers final four run",
+            "2000 wisconsin basketball",
+            "2000 wisconsin badgers",
+            "2000 wisconsin badgers basketball",
+            "2000 final four",
+            "wisconsin badgers final four",
+            "1999 wisconsin basketball",
+            "greatest ncaa tournament moments",
+            "2000 wisconsin arizona",
+            "wisconsin badgers history",
+            "wisconsin badgers",
+            "Wisconsin badgers basketball",
+            "wisconsin basketball",
+            "wisconsin badgers basketball"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Greatest NCAA Tournament Performances - The 2000 Wisconsin Badgers with Dick Bennett and his Defense",
+            "description": "90s Sports Nostalgia presents, Greatest NCAA Tournament Performances: 1999 - 2000 Wisconsin Badgers Final Four Run.  I greatly appreciate your interest in this 90s college basketball video.  Thank you so much and enjoy this sports history documentation.   \n\n\u25b6 SUBSCRIBE and hit the bell: https://goo.gl/Kiuhf1 \n\u25b6 PATREON support: https://www.patreon.com/90ssportsnostalgia \n\u25b6 FACEBOOK: https://www.facebook.com/90ssportsnostalgia/ \n\u25b6 TWITTER: https://twitter.com/90SportsNstlgia\n\n\u2705 MERCH and SHIRTS: https://teespring.com/stores/90s-sports/collection/apparel\n\n90s Sports Nostalgia is a YouTube channel that makes historical sports content. The videos on this channel mostly documents 90s NFL football, 90s NBA Basketball, 90s Major League Baseball and some college sports.\n\nFAIR USE \n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*\n\nTrading Cards are from The Trading Card Database: tradingcarddb.com\nStats and box scores are from: sports-reference.com/\n\nAll video is from CBS Sports - credit to CBS Sports\n\nOther Attribution:\n\n1999-2000 Wisconsin Badgers team picture\nCredit: Wisconsin Athletics Badgers Website\n\nCoach Bennett Picture with UWGB\nCredit: UWGB Athletics Website \n\nUWGB - California Picture\nCredit: YouTube Screenshot\n\nCoach Bennett Wisconsin Picture\nCredit: Green Bay Press-Gazette\n\nAndy Kowske Picture\nCredit: Milwaukee Journal Sentinel / Doug Pizac\n\nMark Vershaw Picture\nCredit: Milwaukee Journal Sentinel / Jeffrey Phelps\n\nMike Kelley Picture\nUW Badgers / David Stluka\n\nCourtney Alexander Picture\nCredit: AP\n\nWisconsin Picture vs Fresno State\nCredit: Milwaukee Journal Sentinel / Paul Sakuma\n\nArizona Wildcats Picture\nCredit: Twitter - Timeless Sports\n\nStromile Swift Picture\nCredit: Bill Feig / The Advocate\n\nMike Kelley Final Four Picture\nCredit: Milwaukee Journal Sentinel / Dave Martin\n\nMichigan State Flintstones Picture\nCredit: M Live File Photo\n\nMateen Cleaves / Morris Peterson Photo\nCredit: Rod Sanford / Lansing State Journal\n\nMSU - ISU Photo\nCredit: YouTube Screenshot\n\nJamaal Tinsley Photo\nCredit: AP Photo\n\nMarcus Fizer Picture\nCredit: Des Moines Register\n\nFlorida Gators Picture\nCredit: The Gainesville Sun\n\nTiger Stadium Pic\nRdikeman at the English Wikipedia CC BY-SA 3.0 (http://creativecommons. org/licenses/by-sa/3.0/)\nVectors attribution:\nwww.123Freevectors. com\n\nhttps://www.vectorstock. com/royalty-free-vector/wave-abstract-overlap-layer-on-red-stripes-vector-34157476\n\nhttps://www.123freevectors. com/red-and-black-curve-background-vector-art-148582/\n\nDesigned by vectorstock (Image 34157476 at VectorStock. com)\n\nGrey Background\nPublic Domain\n\nMusic is either part of the royalty free music on YouTube or part of the Creative Commons - \n\nDouble O Kevin MacLeod (incompetech. com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons. org/licenses/by/3.0/\n\n#WisconsinBadgers\n#FinalFour\n#Badgers\n\nOnce again, thank you for watching this video about the Wisconsin Badgers and their Final 4 run in 2000.  Mike Kelley was tremendous with the coaching of Coach Bennett.  Thank you for your interest in this Wisconsin Badgers history.  \n\nTimestamps\n00:00 Intro\n1:33 Dick Bennett gets hired by the Wisconsin Badgers\n3:00 The 1999 - 2000 Wisconsin Badgers Final Four run\n8:47 Could the 1999-2000 Wisconsin Badgers won the championship\n10:53 Conclusion"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT11M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1679",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "23"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TgNC7Svym5Q5acU459bkktr3eus",
+        "id": "PhE5dMJCzDE",
+        "snippet": {
+          "publishedAt": "2022-07-17T11:00:16Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "\"The Reality of Full-Time Trading\" - Rolf Schlotmann | Trader Interview",
+          "description": "In this trader interview, Etienne sits down with full-time trader Rolf Schlotmann (from @Tradeciety) to discuss what it's really like to build a full-time trading career. You'll learn from his experience on how to become a consistently profitable Forex trader.\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\nWhere to find Rolf:\nEducation: @Tradeciety \nTrading journal: https://d2t.link/edgewonk\n\nChapters: \n0:00 \"The Reality of Full-Time Trading\"\n0:36 Introduction\n0:57 Who is Rolf Schlotmann?\n2:01 Story Time - How trading started out\n2:55 How Rolf decided to go full time trading\n5:05 Why his early 20s was the best time to take risks\n7:12 What is Rolf's trading style\n8:06 How to overcome FOMO in the markets\n9:23 Pivot Points: Rolf's favorite indicator\n10:30 How to use Pivot Points\n11:32 Why objectivity and structure is vital in trading\n12:30 How to make Price Action trading more objective\n14:04 What more is there to price action trading\n16:42 How to filter market conditions\n18:09 The importance of accepting losses\n19:55 Why the obvious things are harder to trade\n21:56 How should you develop YOUR OWN trading style\n24:13 Why it's so hard to focus on 1 thing for 3-6 months\n26:28 Why Rolf prefers to live in Asia over Europe\n27:45 Should you move to Asia or somewhere else to trade?\n28:52 How to deal with \"the loneliness of trading\"\n31:37 How Rolf went from working 16hs/day to 2 hours/day\n32:00 How to stay on top of trading full-time\n33:48 How to review your trading performance and statistics\n35:22 How to correct mistakes and negative behaviors in trading\n36:34 Rolf's top advice for struggling traders\n38:43 Why a winning trade is not always a good trade\n39:49 How to transition from easy markets to tough markets\n41:29 How to use FAILURE to improve as a trader\n42:37 Why you should always keep a trading journal\n43:09 Where to find Rolf Schlotmann & Tradeciety\n\n#forextrader #trading #traderinterview  \n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PhE5dMJCzDE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "day trader",
+            "day trading lessons",
+            "day trading strategies",
+            "day trading success",
+            "day trading tips",
+            "forex",
+            "forex lifestyle",
+            "forex trading",
+            "forex trading full time job",
+            "full time trader",
+            "full time trading",
+            "full time trading career",
+            "learn to trade",
+            "reality of forex trading",
+            "reality of full time trader",
+            "reality of trading",
+            "rolf schlotmann",
+            "tradeciety",
+            "trader",
+            "trader interview",
+            "trading forex full time",
+            "trading full time",
+            "trading interviews",
+            "trading podcast",
+            "edgewonk"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "\"The Reality of Full-Time Trading\" - Rolf Schlotmann | Trader Interview",
+            "description": "In this trader interview, Etienne sits down with full-time trader Rolf Schlotmann (from @Tradeciety) to discuss what it's really like to build a full-time trading career. You'll learn from his experience on how to become a consistently profitable Forex trader.\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\nWhere to find Rolf:\nEducation: @Tradeciety \nTrading journal: https://d2t.link/edgewonk\n\nChapters: \n0:00 \"The Reality of Full-Time Trading\"\n0:36 Introduction\n0:57 Who is Rolf Schlotmann?\n2:01 Story Time - How trading started out\n2:55 How Rolf decided to go full time trading\n5:05 Why his early 20s was the best time to take risks\n7:12 What is Rolf's trading style\n8:06 How to overcome FOMO in the markets\n9:23 Pivot Points: Rolf's favorite indicator\n10:30 How to use Pivot Points\n11:32 Why objectivity and structure is vital in trading\n12:30 How to make Price Action trading more objective\n14:04 What more is there to price action trading\n16:42 How to filter market conditions\n18:09 The importance of accepting losses\n19:55 Why the obvious things are harder to trade\n21:56 How should you develop YOUR OWN trading style\n24:13 Why it's so hard to focus on 1 thing for 3-6 months\n26:28 Why Rolf prefers to live in Asia over Europe\n27:45 Should you move to Asia or somewhere else to trade?\n28:52 How to deal with \"the loneliness of trading\"\n31:37 How Rolf went from working 16hs/day to 2 hours/day\n32:00 How to stay on top of trading full-time\n33:48 How to review your trading performance and statistics\n35:22 How to correct mistakes and negative behaviors in trading\n36:34 Rolf's top advice for struggling traders\n38:43 Why a winning trade is not always a good trade\n39:49 How to transition from easy markets to tough markets\n41:29 How to use FAILURE to improve as a trader\n42:37 Why you should always keep a trading journal\n43:09 Where to find Rolf Schlotmann & Tradeciety\n\n#forextrader #trading #traderinterview  \n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT44M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "75345",
+          "likeCount": "1964",
+          "favoriteCount": "0",
+          "commentCount": "103"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Bk5b9Xd9zS-897gaSuRExJJwcxk",
+        "id": "sNhoRiYJ1oc",
+        "snippet": {
+          "publishedAt": "2022-06-14T12:00:21Z",
+          "channelId": "UCPFbLcFipff2OVJC2KdARbw",
+          "title": "186 - The Disappearance of Gail Joiner",
+          "description": "Take the Trace Evidence 2022 Survey:  https://www.surveymonkey.com/r/RXB9HZW\n\nOn the first day of Fall in 1972, thirteen year old Gail Joiner rushed home from school to her parents house in Thonotosassa, Florida.  An hour later, the teen attached a leash to her beloved pet racoon's collar and strode out of the house to take him on his daily walk.  She never returned.\n\nDespite exhaustive searches involving more than 200 people, not a trace of Gail was ever found.  Within a month of her disappearance the case had grown cold and the investigation was scaled back.  For the next decade, her case lingered in the limbo of joining other cold case files.\n\nThen in October of 1982, a confessed serial killer took credit for Gail's murder.  After allegedly leading police to where he had disposed of her body, Gerald Stano retracted his confession and Gail's remains were never found.  Had Stano been responsible, or was this another case of a murderer taking credit for crimes he didn't commit?\n\nFB: https://www.facebook.com/TraceEvidencePod/\n\nIG: https://www.instagram.com/traceevidencepod/\n\nTW: https://twitter.com/TraceEvPod\n\nVisit https://www.trace-evidence.com  for more information, case photos, contact information and more.\n\nMerch: https://traceevidence.threadless.com/ \n\nMusic Courtesy of: \"Lost Time\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/\n\nSources:  https://www.trace-evidence.com/gail-joiner\n\n0:00 - Intro\n01:47 - Show Notes\n03:19 - Case Evidence\n51:26 - Theories\n01:10:25 - Closing",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sNhoRiYJ1oc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Trace Evidence Podcast",
+          "tags": [
+            "missing",
+            "murder",
+            "unsolved",
+            "mysteries",
+            "crime",
+            "disappear",
+            "vanish",
+            "killed",
+            "true crime",
+            "true crime podcast",
+            "true crime documentary",
+            "unsolved mysteries",
+            "gail joiner",
+            "abduction",
+            "unsolved kidnapping",
+            "investigation",
+            "detective",
+            "florida crime",
+            "true crime florida",
+            "true crime community",
+            "thonotosassa",
+            "racoon bandit",
+            "gail joiner racoon",
+            "gerald stano",
+            "stano"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "186 - The Disappearance of Gail Joiner",
+            "description": "Take the Trace Evidence 2022 Survey:  https://www.surveymonkey.com/r/RXB9HZW\n\nOn the first day of Fall in 1972, thirteen year old Gail Joiner rushed home from school to her parents house in Thonotosassa, Florida.  An hour later, the teen attached a leash to her beloved pet racoon's collar and strode out of the house to take him on his daily walk.  She never returned.\n\nDespite exhaustive searches involving more than 200 people, not a trace of Gail was ever found.  Within a month of her disappearance the case had grown cold and the investigation was scaled back.  For the next decade, her case lingered in the limbo of joining other cold case files.\n\nThen in October of 1982, a confessed serial killer took credit for Gail's murder.  After allegedly leading police to where he had disposed of her body, Gerald Stano retracted his confession and Gail's remains were never found.  Had Stano been responsible, or was this another case of a murderer taking credit for crimes he didn't commit?\n\nFB: https://www.facebook.com/TraceEvidencePod/\n\nIG: https://www.instagram.com/traceevidencepod/\n\nTW: https://twitter.com/TraceEvPod\n\nVisit https://www.trace-evidence.com  for more information, case photos, contact information and more.\n\nMerch: https://traceevidence.threadless.com/ \n\nMusic Courtesy of: \"Lost Time\" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/\n\nSources:  https://www.trace-evidence.com/gail-joiner\n\n0:00 - Intro\n01:47 - Show Notes\n03:19 - Case Evidence\n51:26 - Theories\n01:10:25 - Closing"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H14M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "80830",
+          "likeCount": "2725",
+          "favoriteCount": "0",
+          "commentCount": "510"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "t9hBx0NxhBPDCLg6S2C6DXW7qWQ",
+        "id": "N3tmjMey9xo",
+        "snippet": {
+          "publishedAt": "2022-02-20T12:00:09Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "Full-Time Income From Systematic Trading - Adam Grimes | Trader Interview",
+          "description": "In this trader interview, I sit down with full-time trading legend Adam Grimes. Being a systematic trader with a hint of discretion, Adam has been transitioning to fully systematic trading over the past few years. You'll get to learn more about what it takes to generate a full-time income from systematic trading!\n\nRecommended book by Adam Grimes: https://geni.us/Mjvn0\nFind out more about Adam Grimes: https://adamhgrimes.com\n\nEarlier trader interview with Adam Grimes (2016): https://youtu.be/WP5eCBFZo3o\n\nChapters:\n0:00 Start\n0:27 Introduction\n0:55 What's up with Adam Grimes since his last interview with Etienne\n2:45 How Adam has adapted to markets moving less than before\n7:25 How Etienne has adapted to the changing markets\n7:57 You keep evolving as a full-time trader\n9:02 How a high R:R can be bad for your trading psychology\n11:00 Why beginner traders lose money with high R:R strategies\n11:45 What role does creativity play in trading\n17:06 Why AI sometimes doesn't work great in trading\n24:27 How to beat AI with discretionary trading\n29:07 How trading got more complicated over time\n35:21 Does more people having access to data change the game?\n39:03 Why Adam wants to become good at systematic trading\n44:25 Does a systematic trader need to learn to code?\n51:48 Where to find Adam Grimes\n53:05 Why you need to be careful who you learn from\n\n#traderinterview #systematictrading #trading\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N3tmjMey9xo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "adam grimes",
+            "adam grimes trading",
+            "automated trading",
+            "commodity trading advisors",
+            "discretionary",
+            "stocks",
+            "systematic day trader",
+            "systematic trader",
+            "systematic trading",
+            "systematic trading rule",
+            "systematic trading strategies",
+            "systematic trading strategy",
+            "systematic trading vs discretionary",
+            "systems trading",
+            "trading",
+            "trading for beginners",
+            "trading strategies",
+            "trading system",
+            "trading systems",
+            "trend following",
+            "desire to trade",
+            "full time trading",
+            "full time trader income"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "Full-Time Income From Systematic Trading - Adam Grimes | Trader Interview",
+            "description": "In this trader interview, I sit down with full-time trading legend Adam Grimes. Being a systematic trader with a hint of discretion, Adam has been transitioning to fully systematic trading over the past few years. You'll get to learn more about what it takes to generate a full-time income from systematic trading!\n\nRecommended book by Adam Grimes: https://geni.us/Mjvn0\nFind out more about Adam Grimes: https://adamhgrimes.com\n\nEarlier trader interview with Adam Grimes (2016): https://youtu.be/WP5eCBFZo3o\n\nChapters:\n0:00 Start\n0:27 Introduction\n0:55 What's up with Adam Grimes since his last interview with Etienne\n2:45 How Adam has adapted to markets moving less than before\n7:25 How Etienne has adapted to the changing markets\n7:57 You keep evolving as a full-time trader\n9:02 How a high R:R can be bad for your trading psychology\n11:00 Why beginner traders lose money with high R:R strategies\n11:45 What role does creativity play in trading\n17:06 Why AI sometimes doesn't work great in trading\n24:27 How to beat AI with discretionary trading\n29:07 How trading got more complicated over time\n35:21 Does more people having access to data change the game?\n39:03 Why Adam wants to become good at systematic trading\n44:25 Does a systematic trader need to learn to code?\n51:48 Where to find Adam Grimes\n53:05 Why you need to be careful who you learn from\n\n#traderinterview #systematictrading #trading\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT57M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "48393",
+          "likeCount": "1087",
+          "favoriteCount": "0",
+          "commentCount": "80"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3mvSvFZ2iKjU0If_Z23RjG7R-7A",
+        "id": "TKVE6DL7ubU",
+        "snippet": {
+          "publishedAt": "2022-06-19T11:00:11Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "He Makes a Living Algo Trading in Forex - Scott Welsh | Trader Interview",
+          "description": "In this trader interview, Etienne sits down with Scott Welsh, a full-time algo trader. Scott trades automated trading strategies for a living. You'll learn his best tips on algo trading and how you can start trading algorithms yourself.\n\nPrevious interview with Scott Welsh: https://youtu.be/GhKj9TAtd-s\n\nChapters: \n0:00 Start\n0:21 Introduction\n0:44  Scott's trading since the last interview?\n2:43 How much work algo trading requires\n4:56 Why you should re-optimize your algos\n6:26 How to avoid over-optimization\n11:20 Trade a few symbols or a lot?\n12:10 Scott's trading review process\n14:05 How to find strategies for algo trading\n15:25 Why you don't need to learn to code to be an algo trader\n16:52 Why trading ideas don't matter\n18:44 Example of a forex trading strategy\n20:40 Why common indicator logic may not matter\n21:20 Why a time-based stop loss works?\n24:11 The mindset of an Algo trader\n27:53 Why you shouldn't care about your P/L\n28:52 Why Scott loves trading contests\n31:33 High risk trading with algos\n33:16 Where to find Scott Welsh\n\n#algotrading #algorithmictrading #traderinterview \n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TKVE6DL7ubU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "algo trader",
+            "algo trader forex",
+            "algo trading",
+            "algo trading forex",
+            "algo trading software",
+            "algo trading strategies",
+            "algo trading strategies forex",
+            "algorithmic trading forex",
+            "automated trading",
+            "automated trading forex",
+            "basket trading",
+            "best forex ea",
+            "best forex system",
+            "forex ea",
+            "forex profit",
+            "forex robot",
+            "forex system",
+            "forex trading",
+            "forex trading algorithm",
+            "make a living trading",
+            "make a living trading forex",
+            "scott welsh trading",
+            "trading"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "He Makes a Living Algo Trading in Forex - Scott Welsh | Trader Interview",
+            "description": "In this trader interview, Etienne sits down with Scott Welsh, a full-time algo trader. Scott trades automated trading strategies for a living. You'll learn his best tips on algo trading and how you can start trading algorithms yourself.\n\nPrevious interview with Scott Welsh: https://youtu.be/GhKj9TAtd-s\n\nChapters: \n0:00 Start\n0:21 Introduction\n0:44  Scott's trading since the last interview?\n2:43 How much work algo trading requires\n4:56 Why you should re-optimize your algos\n6:26 How to avoid over-optimization\n11:20 Trade a few symbols or a lot?\n12:10 Scott's trading review process\n14:05 How to find strategies for algo trading\n15:25 Why you don't need to learn to code to be an algo trader\n16:52 Why trading ideas don't matter\n18:44 Example of a forex trading strategy\n20:40 Why common indicator logic may not matter\n21:20 Why a time-based stop loss works?\n24:11 The mindset of an Algo trader\n27:53 Why you shouldn't care about your P/L\n28:52 Why Scott loves trading contests\n31:33 High risk trading with algos\n33:16 Where to find Scott Welsh\n\n#algotrading #algorithmictrading #traderinterview \n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "61006",
+          "likeCount": "1357",
+          "favoriteCount": "0",
+          "commentCount": "77"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0MwOtgkjWPcniAbpSa4B4TQqeqA",
+        "id": "Fu3X1hE466Q",
+        "snippet": {
+          "publishedAt": "2022-08-24T21:00:12Z",
+          "channelId": "UC3O34bCJB1hkwTrLaD0J7Pw",
+          "title": "BREAKING! RAMONA SINGER FIRED! RHONY CAST SHAKEUP!",
+          "description": "#realhousewivesofnewyorkcity #ramonasinger #rhony\nramona singer fired ramona singer real housewives of new york rhonyc leah mcsweeney rhony Leah mcsweeney dorinda medley interview Dorinda medley the real housewives of new york the real housewives of new york city luann de lesseps bravo tv sonja morgan bethenny frankel andy cohen tinsley mortimer bravo show bravo clubhouse reality\n\n\ud83c\udf1f follow me on INSTAGRAM! @its_reallysebastian\n\nBook ME on cameo today for a personalized video!\nhttps://v.cameo.com/ifnGL4Ugqjb\n\nIf you loved the video.. please like and share it on your social media \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f it would help me ALOT\ud83d\udc95\n\n\ud83d\udea8DISCLAIMER\ud83d\udea8\n*Everything i said in this video is allegedly based on information that is already out there. This is an opinion based channel. *",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fu3X1hE466Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sebastian Soto",
+          "tags": [
+            "Dorinda medley",
+            "Leah mcsweeney",
+            "andy cohen",
+            "bethenny frankel",
+            "bravo",
+            "bravo clubhouse",
+            "bravo show",
+            "bravo tv",
+            "dorinda medley interview",
+            "housewives",
+            "leah mcsweeney rhony",
+            "luann de lesseps",
+            "new york city",
+            "ramona singer",
+            "ramona singer fired",
+            "ramona singer real housewives of new york",
+            "real housewives",
+            "real housewives of new york",
+            "reality",
+            "rhony",
+            "rhonyc",
+            "sonja morgan",
+            "the real housewives of new yor",
+            "the real housewives of new york",
+            "the real housewives of new york city",
+            "tinsley mortimer"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BREAKING! RAMONA SINGER FIRED! RHONY CAST SHAKEUP!",
+            "description": "#realhousewivesofnewyorkcity #ramonasinger #rhony\nramona singer fired ramona singer real housewives of new york rhonyc leah mcsweeney rhony Leah mcsweeney dorinda medley interview Dorinda medley the real housewives of new york the real housewives of new york city luann de lesseps bravo tv sonja morgan bethenny frankel andy cohen tinsley mortimer bravo show bravo clubhouse reality\n\n\ud83c\udf1f follow me on INSTAGRAM! @its_reallysebastian\n\nBook ME on cameo today for a personalized video!\nhttps://v.cameo.com/ifnGL4Ugqjb\n\nIf you loved the video.. please like and share it on your social media \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f it would help me ALOT\ud83d\udc95\n\n\ud83d\udea8DISCLAIMER\ud83d\udea8\n*Everything i said in this video is allegedly based on information that is already out there. This is an opinion based channel. *"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT8M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1050",
+          "likeCount": "62",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kkkWOBMymEzqAZL8MzOCv-C5fx8",
+        "id": "64NIG6cp1gY",
+        "snippet": {
+          "publishedAt": "2022-08-21T11:00:05Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "\"The $8M Professional Trader\" - Aatu Kokkila | Trader Interview",
+          "description": "In this trader interview, I interview professional trader Aatu Kokkila who got funded more than $8 million by Darwinex in managed capital. He shares his story as a fund manager and pro trader.\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\nChapters: \n0:00 The best of news trading\n0:19 Introduction\n0:43 How Aatu started in trading\n2:55 What factor made Aatu change his way of trading\n3:56 How he discovered his trading style\n5:30 How Aatu got millions via Darwinex\n7:18 The mindset of managing millions in trading\n9:49 Why you should stay true to your style\n10:52 How Aatu journals and develops his skill as a trader\n11:34 How Aatu trades news for huge profits\n13:18 Trade strategy showcase (screen share)\n18:46 How Aatu exits his trades\n20:20 Why you need to see the whole context when trading news\n21:50 How Aatu gets his information and context for news trading\n23:06 Why it's essential to have a good team\n24:43 What is required to build a hedge fund\n26:39 How you can get started in the path of building your fund\n31:19 Where to find Aatu\n31:55 What is next for Aatu and Finbou \n\nAatu's website: https://www.finbou.com\n\n#fundedtrader #millionairetrader #traderinterview \n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/64NIG6cp1gY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "darwinex",
+            "darwinex trader",
+            "desire to trade",
+            "finance",
+            "forex",
+            "forex trader",
+            "forex trading",
+            "funded trader",
+            "funded trader interview",
+            "millionaire professional trader",
+            "pro trader",
+            "professional forex trader interview",
+            "professional trader",
+            "professional trader interview",
+            "professional trader intreview",
+            "professional trader live trading",
+            "professional trader tips",
+            "professional traders",
+            "stock trading",
+            "swing trader",
+            "trader",
+            "trader interview",
+            "trader interview forex",
+            "trading strategies"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "\"The $8M Professional Trader\" - Aatu Kokkila | Trader Interview",
+            "description": "In this trader interview, I interview professional trader Aatu Kokkila who got funded more than $8 million by Darwinex in managed capital. He shares his story as a fund manager and pro trader.\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\nChapters: \n0:00 The best of news trading\n0:19 Introduction\n0:43 How Aatu started in trading\n2:55 What factor made Aatu change his way of trading\n3:56 How he discovered his trading style\n5:30 How Aatu got millions via Darwinex\n7:18 The mindset of managing millions in trading\n9:49 Why you should stay true to your style\n10:52 How Aatu journals and develops his skill as a trader\n11:34 How Aatu trades news for huge profits\n13:18 Trade strategy showcase (screen share)\n18:46 How Aatu exits his trades\n20:20 Why you need to see the whole context when trading news\n21:50 How Aatu gets his information and context for news trading\n23:06 Why it's essential to have a good team\n24:43 What is required to build a hedge fund\n26:39 How you can get started in the path of building your fund\n31:19 Where to find Aatu\n31:55 What is next for Aatu and Finbou \n\nAatu's website: https://www.finbou.com\n\n#fundedtrader #millionairetrader #traderinterview \n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT33M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25978",
+          "likeCount": "612",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8xzXo-SX-CFbnEKJx1c_yyMexB0",
+        "id": "BXrA6aB4Tjc",
+        "snippet": {
+          "publishedAt": "2022-07-10T11:00:09Z",
+          "channelId": "UCFuAUJU4xDLBbztemX9Qu7A",
+          "title": "\"Professional Trader Secrets Revealed\" - Ali Crooks | Trader Interview",
+          "description": "In this trader interview, I sit down with full-time professional trader Ali Crooks. He has been trading for close to 20 years and runs a private fund. We discuss how he sees the market, his mindset, and his techniques when it comes to backtesting, live trading, and more!\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\n#professionaltrader #trading #fulltimetrader \n\nChapters:\n0:00 Start\n0:11 Introduction\n0:35 Who is Ali Crooks and what does he do?\n1:17 What is needed to maintain successful trading for the long term\n4:30 How successful traders deal with the realities of trading\n7:06 How to stop making the same mistakes as a trader\n11:18 How journaling can help you find critical patterns of a trader\n13:04 How is Ali Crooks private fund going?\n15:44 How managing a fund affected Ali's trading\n18:18 Ali's top advice for traders to manage external capital\n20:43 How to use algo trading properly\n24:03 The reality of algo trading\n25:03 What to expect with algo trading\n27:38 A quick way to look at backtest results vs reality\n29:52 Setting up expectations between backtesting and live trading\n31:21 When should you drop a strategy if it's not working\n34:52 Ali's advice for traders afraid of trading live\n37:43 Common mistakes of traders\n39:25 The importance of expectations in trading\n40:52 How to explain drawdowns to investors\n41:44 Where to find Ali Crooks\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BXrA6aB4Tjc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Etienne Crete - Desire To TRADE",
+          "tags": [
+            "ali crooks trader",
+            "day trading",
+            "forex trading",
+            "full time trader",
+            "full time trader interview",
+            "learn to trade",
+            "price action trading",
+            "professional trader",
+            "professional trader advice",
+            "professional trader forex",
+            "professional trader interview",
+            "professional trader secrets revealed",
+            "professional trader tips",
+            "professional trading secret tricks",
+            "professional trading tips",
+            "technical analysis",
+            "trader interview",
+            "traders support club",
+            "trading strategies",
+            "trading tips"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "\"Professional Trader Secrets Revealed\" - Ali Crooks | Trader Interview",
+            "description": "In this trader interview, I sit down with full-time professional trader Ali Crooks. He has been trading for close to 20 years and runs a private fund. We discuss how he sees the market, his mindset, and his techniques when it comes to backtesting, live trading, and more!\n\n\ud83d\udcc8 FREE Case Study \"Quitting Your Job To Finally Trade Full-Time\": https://desiretotrade.co/case-study\n\n#professionaltrader #trading #fulltimetrader \n\nChapters:\n0:00 Start\n0:11 Introduction\n0:35 Who is Ali Crooks and what does he do?\n1:17 What is needed to maintain successful trading for the long term\n4:30 How successful traders deal with the realities of trading\n7:06 How to stop making the same mistakes as a trader\n11:18 How journaling can help you find critical patterns of a trader\n13:04 How is Ali Crooks private fund going?\n15:44 How managing a fund affected Ali's trading\n18:18 Ali's top advice for traders to manage external capital\n20:43 How to use algo trading properly\n24:03 The reality of algo trading\n25:03 What to expect with algo trading\n27:38 A quick way to look at backtest results vs reality\n29:52 Setting up expectations between backtesting and live trading\n31:21 When should you drop a strategy if it's not working\n34:52 Ali's advice for traders afraid of trading live\n37:43 Common mistakes of traders\n39:25 The importance of expectations in trading\n40:52 How to explain drawdowns to investors\n41:44 Where to find Ali Crooks\n\n// SOCIAL\nForex Trader Community (Facebook Group): https://d2t.link/FBgroup\nFacebook: https://www.facebook.com/desiretotrade/\nTwitter: @desiretotrade\nIG: @etiennecrete\n\n// TRADING MUST-HAVE RESOURCES\nForex Broker (Pepperstone): https://d2t.link/pepperstone\nForex Broker for Canada (Axi): https://d2t.link/axitrader\nBest Platform: https://d2t.link/tradingview\nBacktesting Tool: https://d2t.link/soft4fx\nVPS (for algo trading): https://d2t.link/vps\nTrading Journal: https://d2t.link/journal\n\n// MUSIC\nDavid Cutter Music - http://www.davidcuttermusic.com\nAndrew Applepie - https://andrewapplepie.com/\n\n// ABOUT ME\nMy name is Etienne Crete (from Montreal, Canada). I'm a swing Forex trader and help aspiring Forex traders develop a trading method that works for them so they can produce income allowing them to live with more freedom.  \n\nI blog at www.desiretotrade.com and host the Desire To Trade Podcast. I was fed up with the \u201cfake\u201d millionaire traders and the \u201cget-rich-quick-trading guys\u201d. That's why you can expect more free content from me than what other people charge for!\n\nIf you truly want to succeed in Forex trading, I believe you need to keep working on yourself so you can improve your strengths, but also your weaknesses. Do not focus solely on what you're good at.\n\n// Disclaimer\nThis video expresses my personal opinion only. Forex trading is risky. Make sure you are ready to trade. Even this will not guarantee you positive results. I am not responsible for any losses incurred due to your trading or anything else. I do not recommend any specific trade or action.\n\nAFFILIATE LINKS\nThank you for trusting me with my truthful and reliable opinion on any future purchase you may make. I always disclose this information when it is the case. As part of the Desire To TRADE family, you allow me to be able to use affiliate/referral links when suggesting items for purchase. As a customer of the products I refer, you help me sustain the time and resources to create content on this channel by generating revenue from your sales. This doesn't affect you in any way in the checkout process (I'm sometimes even able to arrange a discount for you that is special from other customers)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT42M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32386",
+          "likeCount": "846",
+          "favoriteCount": "0",
+          "commentCount": "42"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

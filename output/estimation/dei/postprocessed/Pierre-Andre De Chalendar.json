@@ -1,0 +1,23 @@
+{
+  "ceo": "Pierre-Andre De Chalendar",
+  "query": "Pierre-Andre De Chalendar (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cva6-lgEr6VrjnZGbuc777vZEaU",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "lINUOeW9_RuZJnWKWAVIt9u0tx0",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

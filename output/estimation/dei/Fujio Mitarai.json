@@ -1,0 +1,17 @@
+{
+  "ceo": "Fujio Mitarai",
+  "query": "Fujio Mitarai (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "DCv8u79rz_Z5yPVlSxf2awnPWTQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 0,
+      "resultsPerPage": 0
+    },
+    "items": []
+  },
+  "video_details": {
+    "items": []
+  }
+}

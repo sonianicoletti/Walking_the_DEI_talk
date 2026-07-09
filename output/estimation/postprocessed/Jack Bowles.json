@@ -1,0 +1,255 @@
+{
+  "ceo": "Jack Bowles",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wa3c-CRaaDE796J1eG-H129AAmg",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4734,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Bb7RmWoTkpG5aPFOnxDpiBloNqA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hrHa2doFkL4"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-09T14:00:24Z",
+          "channelId": "UC3-kN1xj4GygctyQfkaTAaA",
+          "title": "Jack Bowles Invitational v2: Double the Action",
+          "description": "The Second Installment of the Jack Bowles Invitational. It's longer (pause) and better then ever before. Watch as White Shirts, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hrHa2doFkL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hrHa2doFkL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hrHa2doFkL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "XW",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-09T14:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hbaTLYi39bzYnGmVyPaPRDpiryE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BnUZxXIa0_s"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T22:30:09Z",
+          "channelId": "UC3-kN1xj4GygctyQfkaTAaA",
+          "title": "3v3: The Jack Bowles Invitational",
+          "description": "This is the most basketball game ever. Not the worst, not the best, but it's basketball. The enjoyment levels vary to viewers but it's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "XW",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T22:30:09Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "cllKmqvx-80Et4rdmFQwtVO0ESo",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ukdUSzfn7q2pDFnKzELyDe6FTGQ",
+        "id": "hrHa2doFkL4",
+        "snippet": {
+          "publishedAt": "2023-12-09T14:00:24Z",
+          "channelId": "UC3-kN1xj4GygctyQfkaTAaA",
+          "title": "Jack Bowles Invitational v2: Double the Action",
+          "description": "The Second Installment of the Jack Bowles Invitational. It\u2019s longer (pause) and better then ever before. Watch as White Shirts, Child Predators, 2&1/2 White Guys, and Straight Comedy battle it out until the final buzzer and compete for championship game.\n\nMusic:\nTake me to the King - Tamela Mann\nNew Turban - Bus Snatchers \n2023 - RTR Jae\nNew Slaves Outro - Kanye West, Frank Ocean\nILoveUIHateU - Playboi Carti\nNot Allowed - TV Girl\nDrip Too Hard x Hot N***a - Lil Baby, Bobby Shmurda\nTrack Star (Baltimore Remix) - BippleyipSnip\n24 Songs - Playboi Carti\nOn the Way - RTR Jae\nRock & Roll - Yuno Miles\nGoodbye - Gumball Waterson\n\nChapters:\n0:00 Intro\n1:50 Stuff That Happened Before\n4:23 Pre-Game Interviews\n9:05 White Shirts vs 2 1/2 White Guys\n22:11 Post Game 1 (WS vs 2&1/2WGs)\n22:34 Straight Comedy vs Child Predators\n35:48 Straight Comedy vs 2 1/2 White Guys\n38:58 Danajah\u2019s Monologue\n40:09 When Straight Comedy turned into Straight Business.\n47:45 Championship Game\n57:57 Awards/All-JBI Teams\n1:05:00 Outro.\n1:06:17 Xavier\u2019s Fast Play: Bonus Content\n1:08:10 Outro. 2",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hrHa2doFkL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hrHa2doFkL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hrHa2doFkL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "XW",
+          "tags": [
+            "3v3",
+            "Basketball",
+            "Degenerocity",
+            "Tournament",
+            "Comedy",
+            "Rod Wave Elite",
+            "Cam Wilder",
+            "Sugar Pine 7",
+            "NBA",
+            "Jack Bowles",
+            "Invitational",
+            "High School Basketball",
+            "Morrilton",
+            "Koff",
+            "TommyNFG",
+            "Treyyy",
+            "Raye McKinney",
+            "Sports",
+            "Lightskin",
+            "Darkskin",
+            "Funny",
+            "Teen",
+            "AAU",
+            "FunnyZack Fox",
+            "Hoops",
+            "XW"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jack Bowles Invitational v2: Double the Action",
+            "description": "The Second Installment of the Jack Bowles Invitational. It\u2019s longer (pause) and better then ever before. Watch as White Shirts, Child Predators, 2&1/2 White Guys, and Straight Comedy battle it out until the final buzzer and compete for championship game.\n\nMusic:\nTake me to the King - Tamela Mann\nNew Turban - Bus Snatchers \n2023 - RTR Jae\nNew Slaves Outro - Kanye West, Frank Ocean\nILoveUIHateU - Playboi Carti\nNot Allowed - TV Girl\nDrip Too Hard x Hot N***a - Lil Baby, Bobby Shmurda\nTrack Star (Baltimore Remix) - BippleyipSnip\n24 Songs - Playboi Carti\nOn the Way - RTR Jae\nRock & Roll - Yuno Miles\nGoodbye - Gumball Waterson\n\nChapters:\n0:00 Intro\n1:50 Stuff That Happened Before\n4:23 Pre-Game Interviews\n9:05 White Shirts vs 2 1/2 White Guys\n22:11 Post Game 1 (WS vs 2&1/2WGs)\n22:34 Straight Comedy vs Child Predators\n35:48 Straight Comedy vs 2 1/2 White Guys\n38:58 Danajah\u2019s Monologue\n40:09 When Straight Comedy turned into Straight Business.\n47:45 Championship Game\n57:57 Awards/All-JBI Teams\n1:05:00 Outro.\n1:06:17 Xavier\u2019s Fast Play: Bonus Content\n1:08:10 Outro. 2"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H8M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "731",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o_UrXWgFPZ5_RV_5-IPzP0rMGw0",
+        "id": "BnUZxXIa0_s",
+        "snippet": {
+          "publishedAt": "2023-06-13T22:30:09Z",
+          "channelId": "UC3-kN1xj4GygctyQfkaTAaA",
+          "title": "3v3: The Jack Bowles Invitational",
+          "description": "This is the most basketball game ever. Not the worst, not the best, but it\u2019s basketball. The enjoyment levels vary to viewers but it\u2019s entertainment regardless. This video took a long time to edit but another invitational is in the works\ud83e\udd2b\ud83e\udd10.\n\nMusic Played:\nBus Snatchers - New Turban\nDrake - Sticky\nMichael Jackson - Wanna Be Startin\u2019 Something\nMeek Mill - I\u2019m a Boss (Sped Up)\nRTR Jae - 2023\nBus Snatchers - Ride to Milwaukee \nYuno Miles - Benjamin Button\n\n\nChapters: \n0:07 The Morning Of\n1:06 Sticky (Pause)\n1:49 Fit Check\n2:20 Warmups\n4:27 Pre-Game Interviews\n6:43 Jerseys vs White Power\n13:18 Post Game 1 Check-Up\n13:52 Jerseys vs Whites\n18:51 Post Game 2 Check-Up\n19:00 Whites vs White Power\n21:47 Championship Game\n25:42 Ending Interviews\n28:10 Outro.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BnUZxXIa0_s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "XW",
+          "tags": [
+            "Basketball",
+            "3v3",
+            "Degenerocity",
+            "Choir",
+            "NBA",
+            "Funny",
+            "Comedy",
+            "BlankBoy39",
+            "Koff",
+            "Raye McKinney",
+            "Cam Wilder",
+            "TommyNFG",
+            "Treyyy",
+            "Morrilton",
+            "FlightReacts",
+            "CashNasty",
+            "BlueRyai"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3v3: The Jack Bowles Invitational",
+            "description": "This is the most basketball game ever. Not the worst, not the best, but it\u2019s basketball. The enjoyment levels vary to viewers but it\u2019s entertainment regardless. This video took a long time to edit but another invitational is in the works\ud83e\udd2b\ud83e\udd10.\n\nMusic Played:\nBus Snatchers - New Turban\nDrake - Sticky\nMichael Jackson - Wanna Be Startin\u2019 Something\nMeek Mill - I\u2019m a Boss (Sped Up)\nRTR Jae - 2023\nBus Snatchers - Ride to Milwaukee \nYuno Miles - Benjamin Button\n\n\nChapters: \n0:07 The Morning Of\n1:06 Sticky (Pause)\n1:49 Fit Check\n2:20 Warmups\n4:27 Pre-Game Interviews\n6:43 Jerseys vs White Power\n13:18 Post Game 1 Check-Up\n13:52 Jerseys vs Whites\n18:51 Post Game 2 Check-Up\n19:00 Whites vs White Power\n21:47 Championship Game\n25:42 Ending Interviews\n28:10 Outro."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "385",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

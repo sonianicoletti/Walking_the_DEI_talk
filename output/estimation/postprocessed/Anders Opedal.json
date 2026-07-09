@@ -1,0 +1,149 @@
+{
+  "ceo": "Anders Opedal",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "9KEyZeo2_bKrMkHBTFfV_Bcmcqc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 18
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "StbxnHbjoQJ9NaH8sGNgoEo2P5o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q6LxaH5n9Zc"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-22T12:34:34Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Anders Opedal - CEO, Equinor",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-22T12:34:34Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "TY9ZYKmawyydh4muF1rNawd2Jw8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "II6LxWObePRiiCHND6KVRlLSXjs",
+        "id": "Q6LxaH5n9Zc",
+        "snippet": {
+          "publishedAt": "2022-11-22T12:34:34Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Anders Opedal - CEO, Equinor",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Intervju | Anders Opedal - CEO, Equinor",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H33M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2480",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

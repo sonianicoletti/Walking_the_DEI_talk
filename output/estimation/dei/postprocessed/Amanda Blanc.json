@@ -1,0 +1,23 @@
+{
+  "ceo": "Amanda Blanc",
+  "query": "Amanda Blanc (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "VYsOerSui2fFJzSiEsDr_HKfSBs",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 21
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1ddaSm2wG1LNUZjy1f_7pDknjIY",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 21
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Barry Lam",
+  "query": "Barry Lam (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Q75ziSv0bkuPmF9hf_mvQ-Z7jgY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 26,
+      "resultsPerPage": 21
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "EBwtkrBYUH-fewMdW86PK6KJ-RI",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 21
+    }
+  }
+}

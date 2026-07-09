@@ -1,0 +1,23 @@
+{
+  "ceo": "A. James Teague",
+  "query": "A. James Teague (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "S9wKHJSI_AXiYFx2iWhjh0LhSbM",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 20,
+      "resultsPerPage": 11
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "yiRaSlQfbwtDogtXQN023M9OMvo",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

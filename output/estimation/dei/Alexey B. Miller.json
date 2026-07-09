@@ -1,0 +1,136 @@
+{
+  "ceo": "Alexey B. Miller",
+  "query": "Alexey B. Miller (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cOUPesPzHZbLz-FvHEOvTGzwJ5Q",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-gr_M-axtY3BLkSiXSDAWekEzqk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ILTVAXHYggk"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-19T15:58:30Z",
+          "channelId": "UCH1oRy1dINbMVp3UFWrKP0w",
+          "title": "Judge Judy and granddaughter Sarah Rose talk new season of &#39;Judy Justice&#39; l GMA",
+          "description": "The television icon works with her granddaughter, who is the law clerk on \"Judy Justice,\" as the show heads into its second ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Good Morning America",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-19T15:58:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "8ngUXCGwhQkYfg5hZoONLkOSWIY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "3Nr6OMXNASqAK3qSG9NB77bC9CY",
+        "id": "ILTVAXHYggk",
+        "snippet": {
+          "publishedAt": "2022-10-19T15:58:30Z",
+          "channelId": "UCH1oRy1dINbMVp3UFWrKP0w",
+          "title": "Judge Judy and granddaughter Sarah Rose talk new season of 'Judy Justice' l GMA",
+          "description": "The television icon works with her granddaughter, who is the law clerk on \"Judy Justice,\" as the show heads into its second season.\n\n\nSUBSCRIBE to GMA's YouTube page: https://bit.ly/2Zq0dU5 \n\nSIGN UP to get the daily GMA Wake-Up Newsletter: \nhttps://gma.abc/2Vzcd5j\n\nVISIT GMA's homepage: \nhttps://www.goodmorningamerica.com\n\nFOLLOW GMA:\nTikTok: https://tiktok.com/@gma\nInstagram: https://instagram.com/GoodMorningAmerica\nFacebook: https://facebook.com/GoodMorningAmerica\nTwitter: https://twitter.com/gma\n\n\n#GMA #judgejudy #judyustice",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ILTVAXHYggk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Good Morning America",
+          "tags": [
+            "Rose",
+            "Sarah",
+            "abc",
+            "gma",
+            "granddaughter",
+            "judge",
+            "judy",
+            "justice",
+            "new",
+            "news",
+            "p_cmsid=2494279",
+            "p_vid=news-91727939",
+            "season",
+            "tv"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Judge Judy and granddaughter Sarah Rose talk new season of 'Judy Justice' l GMA",
+            "description": "The television icon works with her granddaughter, who is the law clerk on \"Judy Justice,\" as the show heads into its second season.\n\n\nSUBSCRIBE to GMA's YouTube page: https://bit.ly/2Zq0dU5 \n\nSIGN UP to get the daily GMA Wake-Up Newsletter: \nhttps://gma.abc/2Vzcd5j\n\nVISIT GMA's homepage: \nhttps://www.goodmorningamerica.com\n\nFOLLOW GMA:\nTikTok: https://tiktok.com/@gma\nInstagram: https://instagram.com/GoodMorningAmerica\nFacebook: https://facebook.com/GoodMorningAmerica\nTwitter: https://twitter.com/gma\n\n\n#GMA #judgejudy #judyustice"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1661817",
+          "likeCount": "12821",
+          "favoriteCount": "0",
+          "commentCount": "1845"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

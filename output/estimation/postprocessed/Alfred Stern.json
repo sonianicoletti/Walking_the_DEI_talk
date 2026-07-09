@@ -1,0 +1,121 @@
+{
+  "ceo": "Alfred Stern",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "DI4DX6lMxYw5wzkaVhSEJTBMJ2k",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 586,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0D0Py2HBYTOAbDWR6CananvAVhY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XlBQFZ3T_cg"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-30T05:23:48Z",
+          "channelId": "UCnFtPtFwMrRkuGUTk4Rh4tA",
+          "title": "Alfred Stern, CEO, OMV",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ADIPEC Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-30T05:23:48Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "igcuokYyD1zmox9AF5Glkuz0WYE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "NvZkwTbg8h19W6Lqz2J2Dd_XcRY",
+        "id": "XlBQFZ3T_cg",
+        "snippet": {
+          "publishedAt": "2022-11-30T05:23:48Z",
+          "channelId": "UCnFtPtFwMrRkuGUTk4Rh4tA",
+          "title": "Alfred Stern, CEO, OMV",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XlBQFZ3T_cg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ADIPEC Official",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Alfred Stern, CEO, OMV",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "556",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

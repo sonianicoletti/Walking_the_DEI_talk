@@ -1,0 +1,23 @@
+{
+  "ceo": "Susan Patricia Griffith",
+  "query": "Susan Patricia Griffith (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WtHoyf82JmbzKS78syKHumOSlTk",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 25,
+      "resultsPerPage": 12
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "WqO_juf3Sp2r3Rq9f-kBluvjNII",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

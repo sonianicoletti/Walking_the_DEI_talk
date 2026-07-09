@@ -1,0 +1,122 @@
+{
+  "ceo": "Mary T. Barra",
+  "query": "Mary T. Barra (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "kxvUKeedinCSRzZCS_dfYOT6d_w",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 201,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tWfibNURty84GYrHCmYxmM-s5Vo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NfVTjjUIGlA"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-21T13:00:17Z",
+          "channelId": "UC6O8Xs6H5Jr-PkxybRjuo6Q",
+          "title": "Mary T. Barra | 7 Super Tips",
+          "description": "Female Leadership, Career Advice and Talent Acquisition Sources: Tip #1: https://youtu.be/HiYmvD5COwY?t=1539 Tip #2: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "equalman",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-21T13:00:17Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "2fpJcfM3WJHSUa0UFJqkhZdJBGY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "DwBvr6EvspeqZAt5c7BcQucxNvk",
+        "id": "NfVTjjUIGlA",
+        "snippet": {
+          "publishedAt": "2022-10-21T13:00:17Z",
+          "channelId": "UC6O8Xs6H5Jr-PkxybRjuo6Q",
+          "title": "Mary T. Barra | 7 Super Tips",
+          "description": "Female Leadership, Career Advice and Talent Acquisition \n\nSources: \nTip #1: https://youtu.be/HiYmvD5COwY?t=1539\nTip #2: https://youtu.be/qu7dN_FRZUg?t=2392\nTip #3: https://youtu.be/eszrbvODpXs?t=312\nTip #4: https://youtu.be/Zbe-jhyQviE?t=605\nTip #5: https://youtu.be/YeMpXel_NGk?t=1\nTip #6: https://youtu.be/qu7dN_FRZUg?t=158\nTip #7: https://youtu.be/qu7dN_FRZUg?t=1252\n\nListen to all of our 7 Super Tips episodes on the Super U Podcast wherever you get your podcasts: https://equalman.libsyn.com\n\ufeff\nAbout Mary T. Barra:\nFemale leadership with GM CEO Mary Barra. Today, we're bringing you insights from the CEO of General Motors, Mary Teresa Barra. We discuss ways to inspire your team, what to do in reassessing your career, and how to recruit talent. Barra is an American businesswoman who has been the chair and CEO of General Motors since 2014. She is the first female CEO of a 'Big Three' automaker. Prior to being named CEO, Barra was executive vice president of global product development, purchasing, and supply chain. Barra is \ufeffcurrently driving a GMC HUMMER EV and Chevy Bolt EUV. She's focused on delivering an all-electric future.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NfVTjjUIGlA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "equalman",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mary T. Barra | 7 Super Tips",
+            "description": "Female Leadership, Career Advice and Talent Acquisition \n\nSources: \nTip #1: https://youtu.be/HiYmvD5COwY?t=1539\nTip #2: https://youtu.be/qu7dN_FRZUg?t=2392\nTip #3: https://youtu.be/eszrbvODpXs?t=312\nTip #4: https://youtu.be/Zbe-jhyQviE?t=605\nTip #5: https://youtu.be/YeMpXel_NGk?t=1\nTip #6: https://youtu.be/qu7dN_FRZUg?t=158\nTip #7: https://youtu.be/qu7dN_FRZUg?t=1252\n\nListen to all of our 7 Super Tips episodes on the Super U Podcast wherever you get your podcasts: https://equalman.libsyn.com\n\ufeff\nAbout Mary T. Barra:\nFemale leadership with GM CEO Mary Barra. Today, we're bringing you insights from the CEO of General Motors, Mary Teresa Barra. We discuss ways to inspire your team, what to do in reassessing your career, and how to recruit talent. Barra is an American businesswoman who has been the chair and CEO of General Motors since 2014. She is the first female CEO of a 'Big Three' automaker. Prior to being named CEO, Barra was executive vice president of global product development, purchasing, and supply chain. Barra is \ufeffcurrently driving a GMC HUMMER EV and Chevy Bolt EUV. She's focused on delivering an all-electric future."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "270",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

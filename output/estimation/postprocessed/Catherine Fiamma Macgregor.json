@@ -1,0 +1,22 @@
+{
+  "ceo": "Catherine Fiamma Macgregor",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "HZLYuiyEeB9gqzCDIIq8xDFEz3w",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 22,
+      "resultsPerPage": 20
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "8WR2cRtUVWRCW0j0IIqgpLBRS-Q",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 20,
+      "resultsPerPage": 20
+    }
+  }
+}

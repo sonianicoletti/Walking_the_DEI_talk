@@ -1,0 +1,23 @@
+{
+  "ceo": "Michel A. Khalaf",
+  "query": "Michel A. Khalaf (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "G8LXxwjWIqnYptHH-bTDZhpit9I",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "2qmB6RFMxC5nPr-fpo1f7tW9LnE",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}

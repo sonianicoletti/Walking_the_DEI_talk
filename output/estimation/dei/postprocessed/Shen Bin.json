@@ -1,0 +1,23 @@
+{
+  "ceo": "Shen Bin",
+  "query": "Shen Bin (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "PRW9neLsd5XI66HOlNexMtvZcAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 82,
+      "resultsPerPage": 46
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ZP1-G7--SgijTrxmZD8rcJR0qtA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 46,
+      "resultsPerPage": 46
+    }
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "ceo": "Pierre-Andre De Chalendar",
+  "query": "Pierre-Andre De Chalendar (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cva6-lgEr6VrjnZGbuc777vZEaU",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S5I8XiC8oNgpyqutBo93L_2e4LQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eyeukOH8VII"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-06T15:57:54Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Conf\u00e9rence Pierre-Andr\u00e9 de Chalendar - S\u00e9minaire de la Chaire d&#39;\u00c9conomie urbaine | ESSEC Conferences",
+          "description": "La Chaire d'\u00c9conomie urbaine de l'ESSEC a eu le plaisir de recevoir, le 19 janvier 2022 \u00e0 Cergy, au cours de l'un de ses ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-06T15:57:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lXW7lbx6S0E1o0SjMjlAg4Y4AU4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jy19oEXs3Hs"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-21T14:38:36Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Pierre-Eloi Gay-Tabarly - Alumnus de la Chaire d&#39;\u00c9conomie urbaine de l&#39;ESSEC | ESSEC Chair",
+          "description": "D\u00e9couvrez le t\u00e9moignage de Pierre-Eloi Gay-Tabarly, dipl\u00f4m\u00e9 de la Chaire d'\u00c9conomie urbaine en 2012. Retrouvez les activit\u00e9s ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-21T14:38:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l9k5KTD-fm3bAKl4EQOWmMLEEfs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AUX0WyCo_yA"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-20T14:23:43Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Nicolas Wiecek - Alumnus de la Chaire d&#39;\u00c9conomie urbaine de l&#39;ESSEC | ESSEC Chair",
+          "description": "D\u00e9couvrez le t\u00e9moignage de Nicolas Wiecek, dipl\u00f4m\u00e9 de la Chaire d'\u00c9conomie urbaine en 2017. Retrouvez les activit\u00e9s et ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-20T14:23:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mMRHaclUrp9MT0NMgO95aL5ldMw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Qg2Flqxbxcg"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-21T14:40:52Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Laure Berment - Alumna de la Chaire d&#39;\u00c9conomie urbaine de l&#39;ESSEC | ESSEC Chair",
+          "description": "D\u00e9couvrez le t\u00e9moignage de Laure Berment, dipl\u00f4m\u00e9e de la Chaire d'\u00c9conomie urbaine en 2011. Retrouvez les activit\u00e9s et ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-21T14:40:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aknHqTSJyGRVNwUx2GtSniHnpDI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ihy7-bL6xkk"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-29T13:01:08Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Les coulisses d&#39;Antropia ESSEC - S\u00e9minaire de Prise de Hauteur | Antropia ESSEC",
+          "description": "Antropia ESSEC, acc\u00e9l\u00e9rateur d'entreprises \u00e0 impact de l'ESSEC, vous propose de d\u00e9couvrir ses coulisses lors du s\u00e9minaire ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-29T13:01:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "u6imthzbBH4XigRzKWD0FPkPKwE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JRYtRCKO5_A"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-08T10:13:13Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Discours de C\u00f4me Perp\u00e8re, Chief Sustainability Officer, Microsoft France | ESSEC Commencement Day 22",
+          "description": "D\u00e9couvrez le discours inspirant de C\u00f4me Perp\u00e8re, Chief Sustainability Officer chez Microsoft France et dipl\u00f4m\u00e9 de l'ESSEC, lors ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-08T10:13:13Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "lINUOeW9_RuZJnWKWAVIt9u0tx0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "GIH-Pmz5EHvWFZwK8KDA6sHcD1g",
+        "id": "eyeukOH8VII",
+        "snippet": {
+          "publishedAt": "2022-04-06T15:57:54Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Conf\u00e9rence Pierre-Andr\u00e9 de Chalendar - S\u00e9minaire de la Chaire d'\u00c9conomie urbaine | ESSEC Conferences",
+          "description": "La Chaire d'\u00c9conomie urbaine de l'ESSEC a eu le plaisir de recevoir, le 19 janvier 2022 \u00e0 Cergy, au cours de l'un de ses s\u00e9minaires Monsieur Pierre-Andr\u00e9 de Chalendar, Pr\u00e9sident de Saint-Gobain et Pr\u00e9sident du Conseil de Surveillance de l'ESSEC, \u00e0 l'occasion de la parution de son ouvrage \"Le d\u00e9fi urbain, Retrouver le d\u00e9sir de vivre en ville\" (Odile Jacob, 2021).\n\nLa discussion \u00e9tait anim\u00e9e par Franck Vall\u00e9rugo, Professeur titulaire de la Chaire, et Joseph Ma\u00efla, Professeur de G\u00e9opolitique et directeur du programme M\u00e9diation internationale de l'IR\u00c9N\u00c9 \u00e0 l'ESSEC, autour du th\u00e8me \"La g\u00e9opolitique des villes\".\n\nRetrouvez toute l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site : https://chaire-economie-urbaine.essec.edu\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eyeukOH8VII/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "tags": [
+            "ESSEC Business School",
+            "ESSEC Executive Education",
+            "ESSEC",
+            "MBA",
+            "BBA",
+            "Top business school",
+            "ESSEC programs",
+            "French business school",
+            "Grande \u00e9cole de commerce",
+            "Master in Management",
+            "international Business School",
+            "Singapore",
+            "Rabat",
+            "Maroc",
+            "Chalendar",
+            "Economie urbaine"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Conf\u00e9rence Pierre-Andr\u00e9 de Chalendar - S\u00e9minaire de la Chaire d'\u00c9conomie urbaine | ESSEC Conferences",
+            "description": "La Chaire d'\u00c9conomie urbaine de l'ESSEC a eu le plaisir de recevoir, le 19 janvier 2022 \u00e0 Cergy, au cours de l'un de ses s\u00e9minaires Monsieur Pierre-Andr\u00e9 de Chalendar, Pr\u00e9sident de Saint-Gobain et Pr\u00e9sident du Conseil de Surveillance de l'ESSEC, \u00e0 l'occasion de la parution de son ouvrage \"Le d\u00e9fi urbain, Retrouver le d\u00e9sir de vivre en ville\" (Odile Jacob, 2021).\n\nLa discussion \u00e9tait anim\u00e9e par Franck Vall\u00e9rugo, Professeur titulaire de la Chaire, et Joseph Ma\u00efla, Professeur de G\u00e9opolitique et directeur du programme M\u00e9diation internationale de l'IR\u00c9N\u00c9 \u00e0 l'ESSEC, autour du th\u00e8me \"La g\u00e9opolitique des villes\".\n\nRetrouvez toute l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site : https://chaire-economie-urbaine.essec.edu\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/"
+          },
+          "defaultAudioLanguage": "fr-FR"
+        },
+        "contentDetails": {
+          "duration": "PT49M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1547",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EHVk8f32xuhTEj_O1XBGXr4yU6k",
+        "id": "jy19oEXs3Hs",
+        "snippet": {
+          "publishedAt": "2022-09-21T14:38:36Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Pierre-Eloi Gay-Tabarly - Alumnus de la Chaire d'\u00c9conomie urbaine de l'ESSEC | ESSEC Chair",
+          "description": "D\u00e9couvrez le t\u00e9moignage de Pierre-Eloi Gay-Tabarly, dipl\u00f4m\u00e9 de la Chaire d'\u00c9conomie urbaine en 2012.\n\nRetrouvez les activit\u00e9s et l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site internet : https://sites.google.com/essec.edu/chaire-economie-urbaine\n\nVid\u00e9o r\u00e9alis\u00e9e par Julie Lanier et C\u00e9lia Martinez, dans le cadre du projet Juice Alumni.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jy19oEXs3Hs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "tags": [
+            "ESSEC Business School",
+            "ESSEC Executive Education",
+            "ESSEC",
+            "MBA",
+            "BBA",
+            "Top business school",
+            "ESSEC programs",
+            "French business school",
+            "Grande \u00e9cole de commerce",
+            "Master in Management",
+            "international Business School",
+            "Singapore",
+            "Rabat",
+            "Maroc"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pierre-Eloi Gay-Tabarly - Alumnus de la Chaire d'\u00c9conomie urbaine de l'ESSEC | ESSEC Chair",
+            "description": "D\u00e9couvrez le t\u00e9moignage de Pierre-Eloi Gay-Tabarly, dipl\u00f4m\u00e9 de la Chaire d'\u00c9conomie urbaine en 2012.\n\nRetrouvez les activit\u00e9s et l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site internet : https://sites.google.com/essec.edu/chaire-economie-urbaine\n\nVid\u00e9o r\u00e9alis\u00e9e par Julie Lanier et C\u00e9lia Martinez, dans le cadre du projet Juice Alumni.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "302",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ABjzex9sSu4-jPC_26kBuhNT66g",
+        "id": "AUX0WyCo_yA",
+        "snippet": {
+          "publishedAt": "2022-09-20T14:23:43Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Nicolas Wiecek - Alumnus de la Chaire d'\u00c9conomie urbaine de l'ESSEC | ESSEC Chair",
+          "description": "D\u00e9couvrez le t\u00e9moignage de Nicolas Wiecek, dipl\u00f4m\u00e9 de la Chaire d'\u00c9conomie urbaine en 2017.\n\nRetrouvez les activit\u00e9s et l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site internet : https://sites.google.com/essec.edu/chaire-economie-urbaine\n\nVid\u00e9o r\u00e9alis\u00e9e par Julie Lanier et C\u00e9lia Martinez, dans le cadre du projet Juice Alumni.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AUX0WyCo_yA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "tags": [
+            "ESSEC Business School",
+            "ESSEC Executive Education",
+            "ESSEC",
+            "MBA",
+            "BBA",
+            "Top business school",
+            "ESSEC programs",
+            "French business school",
+            "Grande \u00e9cole de commerce",
+            "Master in Management",
+            "international Business School",
+            "Singapore",
+            "Rabat",
+            "Maroc"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nicolas Wiecek - Alumnus de la Chaire d'\u00c9conomie urbaine de l'ESSEC | ESSEC Chair",
+            "description": "D\u00e9couvrez le t\u00e9moignage de Nicolas Wiecek, dipl\u00f4m\u00e9 de la Chaire d'\u00c9conomie urbaine en 2017.\n\nRetrouvez les activit\u00e9s et l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site internet : https://sites.google.com/essec.edu/chaire-economie-urbaine\n\nVid\u00e9o r\u00e9alis\u00e9e par Julie Lanier et C\u00e9lia Martinez, dans le cadre du projet Juice Alumni.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "340",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-251BKLBkKLL3AwgT1xmr5F8DnA",
+        "id": "Qg2Flqxbxcg",
+        "snippet": {
+          "publishedAt": "2022-09-21T14:40:52Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Laure Berment - Alumna de la Chaire d'\u00c9conomie urbaine de l'ESSEC | ESSEC Chair",
+          "description": "D\u00e9couvrez le t\u00e9moignage de Laure Berment, dipl\u00f4m\u00e9e de la Chaire d'\u00c9conomie urbaine en 2011.\n\nRetrouvez les activit\u00e9s et l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site internet : https://sites.google.com/essec.edu/chaire-economie-urbaine\n\nVid\u00e9o r\u00e9alis\u00e9e par Julie Lanier et C\u00e9lia Martinez, dans le cadre du projet Juice Alumni.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Qg2Flqxbxcg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "tags": [
+            "ESSEC Business School",
+            "ESSEC Executive Education",
+            "ESSEC",
+            "MBA",
+            "BBA",
+            "Top business school",
+            "ESSEC programs",
+            "French business school",
+            "Grande \u00e9cole de commerce",
+            "Master in Management",
+            "international Business School",
+            "Singapore",
+            "Rabat",
+            "Maroc"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Laure Berment - Alumna de la Chaire d'\u00c9conomie urbaine de l'ESSEC | ESSEC Chair",
+            "description": "D\u00e9couvrez le t\u00e9moignage de Laure Berment, dipl\u00f4m\u00e9e de la Chaire d'\u00c9conomie urbaine en 2011.\n\nRetrouvez les activit\u00e9s et l'actualit\u00e9 de la Chaire d'\u00c9conomie urbaine sur son site internet : https://sites.google.com/essec.edu/chaire-economie-urbaine\n\nVid\u00e9o r\u00e9alis\u00e9e par Julie Lanier et C\u00e9lia Martinez, dans le cadre du projet Juice Alumni.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "453",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "z_UGhgDKyLBGEFspENsVnRJZuOw",
+        "id": "Ihy7-bL6xkk",
+        "snippet": {
+          "publishedAt": "2022-03-29T13:01:08Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Les coulisses d'Antropia ESSEC - S\u00e9minaire de Prise de Hauteur | Antropia ESSEC",
+          "description": "Antropia ESSEC, acc\u00e9l\u00e9rateur d'entreprises \u00e0 impact de l'ESSEC, vous propose de d\u00e9couvrir ses coulisses lors du s\u00e9minaire annuel de Prise de hauteur avec la promotion d'entrepreneurs \u00e0 impact des programmes Start Up, Scale Up Entreprise et Scale Up Association. L'objectif de ce s\u00e9minaire : prendre de la hauteur et confiance dans la r\u00e9alisation de ses ambitions.\n\nAntropia ESSEC est une initiative de la Chaire Entrepreneuriat et Innovation \u00e0 Impact qui accompagne dans leur sp\u00e9cificit\u00e9 les entrepreneurs \u00e0 impact qui cr\u00e9ent, d\u00e9veloppent et maximisent l\u2019impact d\u2019organisations \u00e0 la fois socialement utiles, environnementalement vertueuses et \u00e9conomiquement p\u00e9rennes. La mission : renforcer la capacit\u00e9 \u00e0 agir des entrepreneurs, en les formant, les outillant et leur offrant un accompagnement adapt\u00e9 \u00e0 leur stade de d\u00e9veloppement.\n\nDepuis 2008, ce sont plus de 400 projets qui en ont b\u00e9n\u00e9fici\u00e9 ! Parmi eux, La Recyclerie, Le Social Bar, \u00c7a commence par moi, Kelbongoo, R\u00eav\u2019elles, Simplon, Phoenix...\n\nPour plus d'infos : https://antropia-essec.fr/\n\nSuivez-nous sur : \nLinkedin : https://www.linkedin.com/company/antropia-essec\nTwitter : https://twitter.com/antropiaessec\nFacebook : https://www.facebook.com/antropia.essec\n\nVid\u00e9o par Xavier Menut : http://www.xavier-menut.com/\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ihy7-bL6xkk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "tags": [
+            "ESSEC Business School",
+            "ESSEC Executive Education",
+            "ESSEC",
+            "MBA",
+            "BBA",
+            "Top business school",
+            "ESSEC programs",
+            "French business school",
+            "Grande \u00e9cole de commerce",
+            "Master in Management",
+            "international Business School",
+            "Singapore",
+            "Rabat",
+            "Maroc",
+            "Antropia ESSEC"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Les coulisses d'Antropia ESSEC - S\u00e9minaire de Prise de Hauteur | Antropia ESSEC",
+            "description": "Antropia ESSEC, acc\u00e9l\u00e9rateur d'entreprises \u00e0 impact de l'ESSEC, vous propose de d\u00e9couvrir ses coulisses lors du s\u00e9minaire annuel de Prise de hauteur avec la promotion d'entrepreneurs \u00e0 impact des programmes Start Up, Scale Up Entreprise et Scale Up Association. L'objectif de ce s\u00e9minaire : prendre de la hauteur et confiance dans la r\u00e9alisation de ses ambitions.\n\nAntropia ESSEC est une initiative de la Chaire Entrepreneuriat et Innovation \u00e0 Impact qui accompagne dans leur sp\u00e9cificit\u00e9 les entrepreneurs \u00e0 impact qui cr\u00e9ent, d\u00e9veloppent et maximisent l\u2019impact d\u2019organisations \u00e0 la fois socialement utiles, environnementalement vertueuses et \u00e9conomiquement p\u00e9rennes. La mission : renforcer la capacit\u00e9 \u00e0 agir des entrepreneurs, en les formant, les outillant et leur offrant un accompagnement adapt\u00e9 \u00e0 leur stade de d\u00e9veloppement.\n\nDepuis 2008, ce sont plus de 400 projets qui en ont b\u00e9n\u00e9fici\u00e9 ! Parmi eux, La Recyclerie, Le Social Bar, \u00c7a commence par moi, Kelbongoo, R\u00eav\u2019elles, Simplon, Phoenix...\n\nPour plus d'infos : https://antropia-essec.fr/\n\nSuivez-nous sur : \nLinkedin : https://www.linkedin.com/company/antropia-essec\nTwitter : https://twitter.com/antropiaessec\nFacebook : https://www.facebook.com/antropia.essec\n\nVid\u00e9o par Xavier Menut : http://www.xavier-menut.com/\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT2M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "311",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RrE9YJ5HRnT-aeMylgiOGBl3PeY",
+        "id": "JRYtRCKO5_A",
+        "snippet": {
+          "publishedAt": "2022-11-08T10:13:13Z",
+          "channelId": "UChq-dfxkE70MP8W205NnOiQ",
+          "title": "Discours de C\u00f4me Perp\u00e8re, Chief Sustainability Officer, Microsoft France | ESSEC Commencement Day 22",
+          "description": "D\u00e9couvrez le discours inspirant de C\u00f4me Perp\u00e8re, Chief Sustainability Officer chez Microsoft France et dipl\u00f4m\u00e9 de l'ESSEC, lors de la c\u00e9r\u00e9monie du Commencement Day 2022 de l'ESSEC \u00e0 la Philharmonie de Paris.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JRYtRCKO5_A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESSEC Business School",
+          "tags": [
+            "ESSEC Business School",
+            "ESSEC Executive Education",
+            "ESSEC",
+            "MBA",
+            "BBA",
+            "Top business school",
+            "ESSEC programs",
+            "French business school",
+            "Grande \u00e9cole de commerce",
+            "Master in Management",
+            "international Business School",
+            "Singapore",
+            "Rabat",
+            "Maroc",
+            "Guillaume Caffin",
+            "Les deux gourmands",
+            "Discours",
+            "Parcours",
+            "Inspirationnnel",
+            "Inspirant"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Discours de C\u00f4me Perp\u00e8re, Chief Sustainability Officer, Microsoft France | ESSEC Commencement Day 22",
+            "description": "D\u00e9couvrez le discours inspirant de C\u00f4me Perp\u00e8re, Chief Sustainability Officer chez Microsoft France et dipl\u00f4m\u00e9 de l'ESSEC, lors de la c\u00e9r\u00e9monie du Commencement Day 2022 de l'ESSEC \u00e0 la Philharmonie de Paris.\n\nSubscribe to our channel for more videos: http://bit.ly/AbonnementESSEC \n\n\u25ba Who are we? Founded in 1907 in Paris, ESSEC Business School is an institution of higher education guided by the pursuit of academic excellence in teaching and research. Its distinctiveness stems from the pioneering spirit of the members of its community and its core values \u2013 humanism, responsibility, innovation and openness - that shape its scientific ambitions and pedagogical approach. The mission of ESSEC Business School, a world school with French roots, is to infuse leadership with meaning in order to prepare leaders ready to address contemporary economic, environmental and social challenges. In order to do so, it produces innovative and relevant knowledge to equip the next generation of leaders with the skills, know-how and savoir-\u00eatre that will make them truly responsible, inclusive and respectful of the environment. \n\u25ba Our channel offers testimonies, academic videos from ESSEC Business School such as courses, conferences, seminars, programs informations and all you need to know about us. \n\u25ba Find us on: \nOfficial Website: http://www.essec.edu/en/ \nESSEC Knowledge website: http://knowledge.essec.edu\nInstagram: http://www.instagram.com/essecbs\nTwitter: https://twitter.com/essec\nFacebook: https://www.facebook.com/essec\nLinkedIn: https://www.linkedin.com/school/essec-business-school/"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT12M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "703",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "ceo": "Michel A. Khalaf",
+  "query": "Michel A. Khalaf (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "G8LXxwjWIqnYptHH-bTDZhpit9I",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iF6J7xImKP3Tv__eqF-TzULk4GM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zDGrWgmOZnI"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-09T21:07:50Z",
+          "channelId": "UCbzkuLMTt2L6XYj1omikECA",
+          "title": "Statement on the Purpose of a Corporation",
+          "description": "CEOs of nearly 200 companies just said shareholder value is no longer their main objective. The business roundtable, led by ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zDGrWgmOZnI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zDGrWgmOZnI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zDGrWgmOZnI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elizabeth Christly",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-09T21:07:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "g_1GZUG3Tu--eHH3oWs-7VG07sM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ViMmlAHRx-M"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-21T07:00:11Z",
+          "channelId": "UCAfLPhSt9sTgzf9jK4Usbng",
+          "title": "Bill Pappas of MetLife on the Power of Joining Technology and Operations | Technovation 647",
+          "description": "Bill Pappas, EVP & Head of Technology and Operations at MetLife, discusses the expansion of the technology leader's role and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Metis Strategy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-21T07:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i3izH_iJcO9unFWcq8zh2jy2UwQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_Jt__x2Qq5s"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-25T14:00:26Z",
+          "channelId": "UCKwdV2I2k0tWvjVpa8szyHA",
+          "title": "How MetLife Policyholders Quietly Got Rich",
+          "description": "MetLife hasn't always been publicly traded. In fact, it was a private company mutually owned by its policy holders until 2000.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stock Stories",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-25T14:00:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ABuaveGT5PrumS-dtLtNLosJY1s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zdRCkN5sC0A"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-10T06:20:08Z",
+          "channelId": "UCRUzVEBBB-yThyat4nADP4Q",
+          "title": "Relationship, Intimacy, Feminine and Masculine Balance Live Session",
+          "description": "Relationship, Intimacy, Feminine and Masculine Balance Live Session Questions on this live session: 1) How to raise a masculine ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Alisa Abdullaeva -  Harmony In Relationships! ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-10T06:20:08Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "2qmB6RFMxC5nPr-fpo1f7tW9LnE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Xn-5YhSt3AetoX54HLGcfXoo8Cc",
+        "id": "zDGrWgmOZnI",
+        "snippet": {
+          "publishedAt": "2022-11-09T21:07:50Z",
+          "channelId": "UCbzkuLMTt2L6XYj1omikECA",
+          "title": "Statement on the Purpose of a Corporation",
+          "description": "CEOs of nearly 200 companies just said shareholder value is no longer their main objective. \n\nThe business roundtable, led by Jamie Dimon, gives a new definition of a \"purpose of a corporation.\"\n\ncnbc.com \n\u00a9 CNBC 2019\nhttps://www.cnbc.com/amp/2019/08/19/the-ceos-of-nearly-two-hundred-companies-say-shareholder-value-is-no-longer-their-main-objective.html",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zDGrWgmOZnI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zDGrWgmOZnI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zDGrWgmOZnI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elizabeth Christly",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Statement on the Purpose of a Corporation",
+            "description": "CEOs of nearly 200 companies just said shareholder value is no longer their main objective. \n\nThe business roundtable, led by Jamie Dimon, gives a new definition of a \"purpose of a corporation.\"\n\ncnbc.com \n\u00a9 CNBC 2019\nhttps://www.cnbc.com/amp/2019/08/19/the-ceos-of-nearly-two-hundred-companies-say-shareholder-value-is-no-longer-their-main-objective.html"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M39S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "151",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uh4RYXkK0ccQYKjSBRuEQ8SF_l8",
+        "id": "ViMmlAHRx-M",
+        "snippet": {
+          "publishedAt": "2022-03-21T07:00:11Z",
+          "channelId": "UCAfLPhSt9sTgzf9jK4Usbng",
+          "title": "Bill Pappas of MetLife on the Power of Joining Technology and Operations | Technovation 647",
+          "description": "Bill Pappas, EVP & Head of Technology and Operations at MetLife, discusses the expansion of the technology leader's role and its growing impact on the company\u2019s interactions with customers. Bill begins with what his joint responsibility consists of and the power it holds under one executive\u2019s responsibilities. He explains how people are the most important asset of a company and MetLife's investments in talent to retain its skilled workforce. Finally, Bill gives his perspective on being cognizant of customer experiences outside his industry to ensure he is providing the best service to his customers and the company\u2019s natural coopetition with InsurTech companies in the space.\n\n0:00:00 Introduction\n0:01:34 Bill Pappas on the Power of the Joint Responsibility Behind Technology and Operations\n0:04:28 The Power of People and MetLife's Investments in Talent\n0:08:50 Bill Pappas's Perspective on Being Cognizant of Customer Experiences Outside His Industry\n0:12:55 MetLife's Competition and Coopetition with InsurTechs\n\nAn audio-only version of this interview is available as episode #647 of Metis Strategy\u2019s podcast, Technovation with Peter High. Learn more at http://bit.ly/Technovation-647.\n\nSubscribe to Technovation on your podcast platform of choice: https://link.chtbl.com/Technovation\n\nTo learn more, visit https://www.metisstrategy.com/technovation-podcast/\n\n----------------\n\n#podcast #podcastinterview #technology #Technovation #TechnovationPodcast #operations #insurance #talent #customerexperience #coopetition #competition",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ViMmlAHRx-M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Metis Strategy",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bill Pappas of MetLife on the Power of Joining Technology and Operations | Technovation 647",
+            "description": "Bill Pappas, EVP & Head of Technology and Operations at MetLife, discusses the expansion of the technology leader's role and its growing impact on the company\u2019s interactions with customers. Bill begins with what his joint responsibility consists of and the power it holds under one executive\u2019s responsibilities. He explains how people are the most important asset of a company and MetLife's investments in talent to retain its skilled workforce. Finally, Bill gives his perspective on being cognizant of customer experiences outside his industry to ensure he is providing the best service to his customers and the company\u2019s natural coopetition with InsurTech companies in the space.\n\n0:00:00 Introduction\n0:01:34 Bill Pappas on the Power of the Joint Responsibility Behind Technology and Operations\n0:04:28 The Power of People and MetLife's Investments in Talent\n0:08:50 Bill Pappas's Perspective on Being Cognizant of Customer Experiences Outside His Industry\n0:12:55 MetLife's Competition and Coopetition with InsurTechs\n\nAn audio-only version of this interview is available as episode #647 of Metis Strategy\u2019s podcast, Technovation with Peter High. Learn more at http://bit.ly/Technovation-647.\n\nSubscribe to Technovation on your podcast platform of choice: https://link.chtbl.com/Technovation\n\nTo learn more, visit https://www.metisstrategy.com/technovation-podcast/\n\n----------------\n\n#podcast #podcastinterview #technology #Technovation #TechnovationPodcast #operations #insurance #talent #customerexperience #coopetition #competition"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT15M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1020",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k62U2oQCg6OEJ8zme4093P67ZU8",
+        "id": "_Jt__x2Qq5s",
+        "snippet": {
+          "publishedAt": "2022-08-25T14:00:26Z",
+          "channelId": "UCKwdV2I2k0tWvjVpa8szyHA",
+          "title": "How MetLife Policyholders Quietly Got Rich",
+          "description": "MetLife hasn't always been publicly traded.  In fact, it was a private company mutually owned by its policy holders until 2000.  How has the stock done since then?  And how could you possibly own thousands of dollars worth of MetLife stock without every buying it?  \n\n0:00 - What Does MetLife Do?\n0:50 - How It Got Started\n1:50 - Demutualization\n3:38 - MetLife Today\n7:21 - How Much Could You Have Made?\n\n\ud83d\udc40 Subscribe on YouTube:\nhttps://youtube.com/channel/UCKwdV2I2k0tWvjVpa8szyHA\n\n\ud83c\udfa7 Listen to 200+ episodes on other companies and mental models:\nhttps://stockstoryteller.com/podcast/\n\nDisclaimer: Everything shared is for informational and educational purposes only.  Nothing I share on this platform should be construed as financial, tax, or legal advice.  Please consult a competent professional who can assist with your specific needs and circumstances.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_Jt__x2Qq5s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stock Stories",
+          "tags": [
+            "metlife",
+            "metlife stock",
+            "MET stock",
+            "MET stock analysis",
+            "stock stories",
+            "stock storyteller",
+            "insurance stocks"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How MetLife Policyholders Quietly Got Rich",
+            "description": "MetLife hasn't always been publicly traded.  In fact, it was a private company mutually owned by its policy holders until 2000.  How has the stock done since then?  And how could you possibly own thousands of dollars worth of MetLife stock without every buying it?  \n\n0:00 - What Does MetLife Do?\n0:50 - How It Got Started\n1:50 - Demutualization\n3:38 - MetLife Today\n7:21 - How Much Could You Have Made?\n\n\ud83d\udc40 Subscribe on YouTube:\nhttps://youtube.com/channel/UCKwdV2I2k0tWvjVpa8szyHA\n\n\ud83c\udfa7 Listen to 200+ episodes on other companies and mental models:\nhttps://stockstoryteller.com/podcast/\n\nDisclaimer: Everything shared is for informational and educational purposes only.  Nothing I share on this platform should be construed as financial, tax, or legal advice.  Please consult a competent professional who can assist with your specific needs and circumstances."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "866",
+          "likeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ukZi4iapKkZ7F7C5C2oe-tLqOeY",
+        "id": "zdRCkN5sC0A",
+        "snippet": {
+          "publishedAt": "2022-09-10T06:20:08Z",
+          "channelId": "UCRUzVEBBB-yThyat4nADP4Q",
+          "title": "Relationship, Intimacy, Feminine and Masculine Balance Live Session",
+          "description": "Relationship, Intimacy, Feminine and Masculine Balance Live Session\n\nQuestions on this live session:\n1) How to raise a masculine son as a single mother? \n2) Why men becoming feminine and lazy in an equality social model?\n3) Celebrities such as Rhianna, Beyonce, Janet Jackson, Kardashians got cheated on even if they are pretty, why is that?\n4) Man have to become masculine first or do women become feminine first?\n5) How to make my man a provider?\n6) In Holland men and women don't live together we just date, not to have a divorce rate, what do you think about this model Alisa?\n7) What is a good example of a healthy relationship, marriage or family?\n8) What to do if my husband is mean and rude to me? & How to stop a victim cycle as a single mom? \n9) What if my husband didn't have a father growing up, how is that impacting him as a dad?\n10) How to influence and educate your man while dating him?\n11) What does a feminine woman does during the day and week? What is a woman's duty in a family?\n12) Is it masculine to accept another man's kid from a previous marriage?\n13) Can you influence a boyfriend?\n14) I am 28 years old should I get involved with woman or wait till I am 30 years old? Most women want to use my resources. \n15) Do you think a man is manipulating me saying he wants to stay friends after we had a sex?\n16) How long does it change for a man or a woman to change if they open to it?\n17) I don't want my kids to grow up like ex\n18) I met a provider as I listen to your channel. \n19) I cook, clean and my partner pays rent, is it fair? I will give money to girlfriend if she is obidient. \n20) What color should we wear to enhance the femininity? \n21) Why a man wants children but doesn't want to get married?\n\n\n#alisaabdullaeva #relationshiptipsforwomen #relationshipadvicefromen",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zdRCkN5sC0A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alisa Abdullaeva -  Harmony In Relationships! ",
+          "tags": [
+            "how to be feminine woman",
+            "Relationship intimacy and masculine and feminine balance",
+            "Alisa Abdullaeva live session",
+            "Alisa Ayurveda",
+            "Female Russian therapist explains",
+            "How to raise a masculine son for single mothers?",
+            "Should I wait to start dating women until I am 30 years old?",
+            "What does a feminine woman does during the day and week?",
+            "Most women want to use my resources.",
+            "Why a man wants children but doesn't want to get married?"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Relationship, Intimacy, Feminine and Masculine Balance Live Session",
+            "description": "Relationship, Intimacy, Feminine and Masculine Balance Live Session\n\nQuestions on this live session:\n1) How to raise a masculine son as a single mother? \n2) Why men becoming feminine and lazy in an equality social model?\n3) Celebrities such as Rhianna, Beyonce, Janet Jackson, Kardashians got cheated on even if they are pretty, why is that?\n4) Man have to become masculine first or do women become feminine first?\n5) How to make my man a provider?\n6) In Holland men and women don't live together we just date, not to have a divorce rate, what do you think about this model Alisa?\n7) What is a good example of a healthy relationship, marriage or family?\n8) What to do if my husband is mean and rude to me? & How to stop a victim cycle as a single mom? \n9) What if my husband didn't have a father growing up, how is that impacting him as a dad?\n10) How to influence and educate your man while dating him?\n11) What does a feminine woman does during the day and week? What is a woman's duty in a family?\n12) Is it masculine to accept another man's kid from a previous marriage?\n13) Can you influence a boyfriend?\n14) I am 28 years old should I get involved with woman or wait till I am 30 years old? Most women want to use my resources. \n15) Do you think a man is manipulating me saying he wants to stay friends after we had a sex?\n16) How long does it change for a man or a woman to change if they open to it?\n17) I don't want my kids to grow up like ex\n18) I met a provider as I listen to your channel. \n19) I cook, clean and my partner pays rent, is it fair? I will give money to girlfriend if she is obidient. \n20) What color should we wear to enhance the femininity? \n21) Why a man wants children but doesn't want to get married?\n\n\n#alisaabdullaeva #relationshiptipsforwomen #relationshipadvicefromen"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H10M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3014",
+          "likeCount": "43",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}

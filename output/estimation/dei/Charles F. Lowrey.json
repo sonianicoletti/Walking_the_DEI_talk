@@ -1,0 +1,211 @@
+{
+  "ceo": "Charles F. Lowrey",
+  "query": "Charles F. Lowrey (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cYyOBT0-E0723C0pufWUkVoFMho",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ulQv_zGlng1O4B84vF9MLJud7sw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LH8dbZtFv_8"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-17T12:08:59Z",
+          "channelId": "UC4jECtawvgbVYXjG3B24Ecg",
+          "title": "Pacific Investment - Company Overview",
+          "description": "We offer a comprehensive range of specialized capabilities that help clients at different stages of their investment journey.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pacific Investment Ltd",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-17T12:08:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c8F71fQDgkJJziefylFV4xqO7mE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Jd5YAVhu1hY"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-23T16:02:52Z",
+          "channelId": "UC3q2MIRQVAwCUrn7qJfL4Jw",
+          "title": "Financial Management Assignment Presentation Group 3",
+          "description": "MBA students from Malawi presenting their financial management assignment. The work focus on evaluating the financial ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MBA Financial Management Assignment Presentation.",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-23T16:02:52Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Q78hlnn5xEVRb8DSO5kUGM3D6Zw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "2rdE3j6JKXvLsokngY0JzZ2DHXk",
+        "id": "LH8dbZtFv_8",
+        "snippet": {
+          "publishedAt": "2022-02-17T12:08:59Z",
+          "channelId": "UC4jECtawvgbVYXjG3B24Ecg",
+          "title": "Pacific Investment - Company Overview",
+          "description": "We offer a comprehensive range of specialized capabilities that help clients at different stages of their investment journey. We seek to build long-term partnerships with investors, ensuring we fully understand their particular circumstances and requirements managing investments for both individuals and for large institutional investors.\n\nPacific Investments has a strong commitment to sustainability. Creating lasting positive impact is one of the core principles of our Charter and one that applies to all our activities as a firm. It guides our investment activities, our corporate activities and our daily interactions with all of our stakeholders.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LH8dbZtFv_8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Pacific Investment Ltd",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pacific Investment - Company Overview",
+            "description": "We offer a comprehensive range of specialized capabilities that help clients at different stages of their investment journey. We seek to build long-term partnerships with investors, ensuring we fully understand their particular circumstances and requirements managing investments for both individuals and for large institutional investors.\n\nPacific Investments has a strong commitment to sustainability. Creating lasting positive impact is one of the core principles of our Charter and one that applies to all our activities as a firm. It guides our investment activities, our corporate activities and our daily interactions with all of our stakeholders."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1204",
+          "likeCount": "380",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "diama31Q26JUj29hP-4VVAnfxKc",
+        "id": "Jd5YAVhu1hY",
+        "snippet": {
+          "publishedAt": "2022-07-23T16:02:52Z",
+          "channelId": "UC3q2MIRQVAwCUrn7qJfL4Jw",
+          "title": "Financial Management Assignment Presentation Group 3",
+          "description": "MBA students from Malawi presenting their financial management assignment. The work focus on evaluating the financial performance of Nico Holdings Plc in the financial years of 2019 and 2020. \n#BoltonUni #MIM #UniAsItShouldBe",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jd5YAVhu1hY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "MBA Financial Management Assignment Presentation.",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Financial Management Assignment Presentation Group 3",
+            "description": "MBA students from Malawi presenting their financial management assignment. The work focus on evaluating the financial performance of Nico Holdings Plc in the financial years of 2019 and 2020. \n#BoltonUni #MIM #UniAsItShouldBe"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT18M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

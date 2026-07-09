@@ -1,0 +1,23 @@
+{
+  "ceo": "Matteo Del Fante",
+  "query": "Matteo Del Fante (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pOzXJsYxfsjgPkajSoUNHrl-GeE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "rBjVh4tAYZgjvGJyRWomtJHtwUw",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

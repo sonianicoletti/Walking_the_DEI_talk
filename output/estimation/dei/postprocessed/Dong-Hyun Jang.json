@@ -1,0 +1,23 @@
+{
+  "ceo": "Dong-Hyun Jang",
+  "query": "Dong-Hyun Jang (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "AE21su7MFI2qOdKg-0DTPczeZDE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 6
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "odo5LDL1StcKP-vC-AywTLb6Nxc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

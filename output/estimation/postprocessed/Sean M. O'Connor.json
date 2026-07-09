@@ -1,0 +1,23 @@
+{
+  "ceo": "Sean M. O'Connor",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "HJ1yG39myG8zuiL5qIIHtJsCRoU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4516,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "3FZCdgx3ZXCYOWb2AmB3tz-Alcs",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

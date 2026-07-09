@@ -1,0 +1,250 @@
+{
+  "ceo": "Matteo Del Fante",
+  "query": "Matteo Del Fante (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pOzXJsYxfsjgPkajSoUNHrl-GeE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oeJqNBIR2kZs266vJZxv4oZXVk8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Nm-0NdttjfM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-22T06:27:31Z",
+          "channelId": "UCxbjLumHyVWWUMeu2ZHGdqg",
+          "title": "Capitalism Revisited Day 1: Welcome and Session 1: Business Purpose and Benefit Corporations",
+          "description": "ECGI in collaboration with Assonime (The Association of Italian Public Companies), Bocconi University and the European ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ECGI",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-22T06:27:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jNVgq7ITc9yidGGYPlITjPZo4pk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vKlz2RcE8Dc"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-25T07:30:12Z",
+          "channelId": "UCdZISa8UNFbwhazbYy_uWvQ",
+          "title": "Le competenze da avere oggi per essere leader domani",
+          "description": "Farci trovare pronti al cambiamento non \u00e8 facile, ma diventa necessario se vogliamo cogliere nuove opportunit\u00e0 e superare ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bocconi University",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-25T07:30:12Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "rBjVh4tAYZgjvGJyRWomtJHtwUw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "bBfXfUmNUR77nQwFGNjlj0GWJn8",
+        "id": "Nm-0NdttjfM",
+        "snippet": {
+          "publishedAt": "2022-12-22T06:27:31Z",
+          "channelId": "UCxbjLumHyVWWUMeu2ZHGdqg",
+          "title": "Capitalism Revisited Day 1: Welcome and Session 1: Business Purpose and Benefit Corporations",
+          "description": "ECGI in collaboration with Assonime (The Association of Italian Public Companies), Bocconi University and the European Corporate Governance Research Foundation (ECGRF) organised a two-day event on Responsible Capitalism as part of the multi-year ECGI project. \n\nDay one of the event titled: \"Capitalism Revisited: Responsible Enterprise\" was held in Milan on 15 September 2022.\n\nThe event was introduced by Claudia Parzani (Chair of the Board, Borsa Italiana), Herman Daems (Chair of the Board, ECGI) and Patrizia Grieco (Chair, Assonime).\n\nSession 1 was moderated by Margherita Bianchini (Assonime)\n\nAcademic Briefing on the topic, \"Business Purpose and Benefit Corporations\" was presented by Colin Mayer (University of Oxford and ECGI) and was discussed by Jennifer Hill (Monash University and ECGI).\n\nIt was followed by a panel discussion by Michele Crisostomo (ENEL), Matteo Del Fante (Poste Italiane) and Andrea Sironi (Assicurazioni Generali).\n\nFor more information: https://ecgi.global/content/capitalism-revisited-responsible-enterprise#",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nm-0NdttjfM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ECGI",
+          "tags": [
+            "Corporate",
+            "Governance",
+            "ECGI",
+            "European",
+            "Institute",
+            "Research",
+            "Conference",
+            "Global",
+            "Colloquia",
+            "responsible capitalism",
+            "shareholder",
+            "stakeholder",
+            "investor",
+            "ESG",
+            "sustainability",
+            "milan",
+            "investment",
+            "capitalism",
+            "EU",
+            "ownership",
+            "companies",
+            "Decarbonization",
+            "enterprise"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Capitalism Revisited Day 1: Welcome and Session 1: Business Purpose and Benefit Corporations",
+            "description": "ECGI in collaboration with Assonime (The Association of Italian Public Companies), Bocconi University and the European Corporate Governance Research Foundation (ECGRF) organised a two-day event on Responsible Capitalism as part of the multi-year ECGI project. \n\nDay one of the event titled: \"Capitalism Revisited: Responsible Enterprise\" was held in Milan on 15 September 2022.\n\nThe event was introduced by Claudia Parzani (Chair of the Board, Borsa Italiana), Herman Daems (Chair of the Board, ECGI) and Patrizia Grieco (Chair, Assonime).\n\nSession 1 was moderated by Margherita Bianchini (Assonime)\n\nAcademic Briefing on the topic, \"Business Purpose and Benefit Corporations\" was presented by Colin Mayer (University of Oxford and ECGI) and was discussed by Jennifer Hill (Monash University and ECGI).\n\nIt was followed by a panel discussion by Michele Crisostomo (ENEL), Matteo Del Fante (Poste Italiane) and Andrea Sironi (Assicurazioni Generali).\n\nFor more information: https://ecgi.global/content/capitalism-revisited-responsible-enterprise#"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H58M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "78",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WC1t23ISOhYGlxRCei8rVZX-wXQ",
+        "id": "vKlz2RcE8Dc",
+        "snippet": {
+          "publishedAt": "2022-01-25T07:30:12Z",
+          "channelId": "UCdZISa8UNFbwhazbYy_uWvQ",
+          "title": "Le competenze da avere oggi per essere leader domani",
+          "description": "Farci trovare pronti al cambiamento non \u00e8 facile, ma diventa necessario se vogliamo cogliere nuove opportunit\u00e0 e superare nuove sfide. In particolare, la pandemia, cambiando il nostro modo di vivere, avr\u00e0 profonde conseguenze anche sulle relazioni umane. Ne parlano, in questo video, Massimo Magni, professore di leadership e delle competenze relazionali all\u2019Universit\u00e0 Bocconi, e Marcello Albergoni, country manager di Linkedin Italia.\n\nFuturo@lavoro, il secondo progetto in collaborazione tra Universit\u00e0 Bocconi e la Repubblica@scuola, prevede un videocorso iniziale di 10 lezioni, un business game e un contest.\n\nPer informazioni: https://bit.ly/3HFwGZI\n\nSubscribe to our channel \u27a4 https://www.youtube.com/channel/UCdZISa8UNFbwhazbYy_uWvQ?sub_confirmation=1\nVisit our website: https://www.unibocconi.eu/\n\nFollow our social media accounts:  \nLinkedIn \u27a4 https://linkedin.com/school/universita-bocconi/ \nFacebook \u27a4 https://facebook.com/unibocconi \nTwitter \u27a4 https://twitter.com/Unibocconi \nInstagram \u27a4 https://instagram.com/unibocconi/  \n\n#Bocconi\u200b #BocconiUniversity\u200b #UniBocconi",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vKlz2RcE8Dc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bocconi University",
+          "tags": [
+            "bocconi",
+            "unibocconi",
+            "Bocconi university",
+            "universit\u00e0 bocconi",
+            "bocconi university",
+            "l'Universit\u00e0 Bocconi"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Le competenze da avere oggi per essere leader domani",
+            "description": "Farci trovare pronti al cambiamento non \u00e8 facile, ma diventa necessario se vogliamo cogliere nuove opportunit\u00e0 e superare nuove sfide. In particolare, la pandemia, cambiando il nostro modo di vivere, avr\u00e0 profonde conseguenze anche sulle relazioni umane. Ne parlano, in questo video, Massimo Magni, professore di leadership e delle competenze relazionali all\u2019Universit\u00e0 Bocconi, e Marcello Albergoni, country manager di Linkedin Italia.\n\nFuturo@lavoro, il secondo progetto in collaborazione tra Universit\u00e0 Bocconi e la Repubblica@scuola, prevede un videocorso iniziale di 10 lezioni, un business game e un contest.\n\nPer informazioni: https://bit.ly/3HFwGZI\n\nSubscribe to our channel \u27a4 https://www.youtube.com/channel/UCdZISa8UNFbwhazbYy_uWvQ?sub_confirmation=1\nVisit our website: https://www.unibocconi.eu/\n\nFollow our social media accounts:  \nLinkedIn \u27a4 https://linkedin.com/school/universita-bocconi/ \nFacebook \u27a4 https://facebook.com/unibocconi \nTwitter \u27a4 https://twitter.com/Unibocconi \nInstagram \u27a4 https://instagram.com/unibocconi/  \n\n#Bocconi\u200b #BocconiUniversity\u200b #UniBocconi"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1242",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

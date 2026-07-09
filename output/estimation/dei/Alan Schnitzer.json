@@ -1,0 +1,230 @@
+{
+  "ceo": "Alan Schnitzer",
+  "query": "Alan Schnitzer (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "rFOnlLAkjmu1VWz69Qwf0MOZu0E",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4EcYIWAllMwNnoP5rwnjgrALjiI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pMFPGc01zp4"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-26T15:55:22Z",
+          "channelId": "UCxWMU29FF4kIG8YmQf6Zv0g",
+          "title": "Creative Partnerships for Next-Level Care",
+          "description": "A moderated fireside will spotlight a groundbreaking industry partnership with Francis deSouza, Illumina and Andrew Witty, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Illumina",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-26T15:55:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3tVgc9NkqkuuIrKzaUOBtS2-XCc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p5jzZgx5Z-g"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-12T10:00:28Z",
+          "channelId": "UCuTHLfdAGdJITGPnvguW8Dg",
+          "title": "BMW 7 Series E65/E66 buyers guide (2001-2008) Avoid the common faults and problems (730/745/750/760)",
+          "description": "BMW 7 Series E65 and E66 2001-2018 Buyers guide and reliability review for 730i / 730d / 730Li / 730Ld / 735i / 735Li / 740i ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Miles Driven",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-12T10:00:28Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ylDChFS1Yzb-TbK1pzOOWX13V3Y",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "jLm8nUu6W3TqShzgHqY44U3vPqQ",
+        "id": "pMFPGc01zp4",
+        "snippet": {
+          "publishedAt": "2022-10-26T15:55:22Z",
+          "channelId": "UCxWMU29FF4kIG8YmQf6Zv0g",
+          "title": "Creative Partnerships for Next-Level Care",
+          "description": "A moderated fireside will spotlight a groundbreaking industry partnership with Francis deSouza, Illumina and Andrew Witty, UnitedHealth Group.\n\nSubscribe to the Illumina video channel http://www.youtube.com/subscription_center?add_user=IlluminaInc\r\n \r\nA global genomics leader, Illumina provides comprehensive next-generation sequencing solutions to the research, clinical, and applied markets. Illumina technology is responsible for generating more than 90% of the world\u2019s sequencing data.* Through collaborative innovation, Illumina is fueling groundbreaking advancements in oncology, reproductive health, genetic disease, microbiology, agriculture, forensic science, and beyond.\r\n \r\n*Data calculations on file. Illumina, Inc., 2015.\r\n \r\nView customer spotlight videos\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlajfheLzgbI4S7xBn7IDbt79\r\n \r\nView Illumina webinars\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlahpXlnrrXlQw9itVJ8yHwUZ\r\n \r\nView Illumina product videos\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlaj6YuZmkfxZcT9twqDgP2Xd\r\n \r\nView Illumina support videos\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlajbm2KGsICWb-JOnusJfYvM",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pMFPGc01zp4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Illumina",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Partnerships for Next-Level Care",
+            "description": "A moderated fireside will spotlight a groundbreaking industry partnership with Francis deSouza, Illumina and Andrew Witty, UnitedHealth Group.\n\nSubscribe to the Illumina video channel http://www.youtube.com/subscription_center?add_user=IlluminaInc\r\n \r\nA global genomics leader, Illumina provides comprehensive next-generation sequencing solutions to the research, clinical, and applied markets. Illumina technology is responsible for generating more than 90% of the world\u2019s sequencing data.* Through collaborative innovation, Illumina is fueling groundbreaking advancements in oncology, reproductive health, genetic disease, microbiology, agriculture, forensic science, and beyond.\r\n \r\n*Data calculations on file. Illumina, Inc., 2015.\r\n \r\nView customer spotlight videos\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlajfheLzgbI4S7xBn7IDbt79\r\n \r\nView Illumina webinars\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlahpXlnrrXlQw9itVJ8yHwUZ\r\n \r\nView Illumina product videos\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlaj6YuZmkfxZcT9twqDgP2Xd\r\n \r\nView Illumina support videos\r\nhttps://www.youtube.com/playlist?list=PLKRu7cmBQlajbm2KGsICWb-JOnusJfYvM"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT30M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1039",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "f-cO76itFq6Pu4LLQki1Gu0upwc",
+        "id": "p5jzZgx5Z-g",
+        "snippet": {
+          "publishedAt": "2022-11-12T10:00:28Z",
+          "channelId": "UCuTHLfdAGdJITGPnvguW8Dg",
+          "title": "BMW 7 Series E65/E66 buyers guide (2001-2008) Avoid the common faults and problems (730/745/750/760)",
+          "description": "BMW 7 Series E65 and E66 2001-2018 Buyers guide and reliability review for  730i / 730d / 730Li / 730Ld / 735i / 735Li / 740i / 740Li / 740d / 740Ld / 745i /745Li /745d / 745Ld /750i / 750Li /760i /760Li with 3.0i / 3.0d / 3.5 V8 / 4.0 / VB8 /4.4 V8 / 4.8 V8 / 3.9d /4.4d / and 6.0 V12 and rare hydrogen 7 or 7-Series hydrogen. Avoid buying a broken BMW 7 Series and find the E65 7 Series that shifts through the gears easily and is as luxurious as it should be that can achieve the 155mph top speed. Avoid the mistake of buying a broken BMW as a project and attempting to fix it only to find it is not as reliable as you thought it might be.  This buyer's guide covers the BMW 7 Series E65 E66 E67 and ultra-rare E68 from 2001 7 Series, 2002 7 Series, 2003 7 Series, 2004 7 Series, 2005 7 Series, 2006 7 Series, 2007 7 Series, and 2008 7 Series  in all trims SE to Sport to Individual. The E65 7 Series was controversial styled when it was released and nicknamed the bangle butt due to the rear styling nicknamed after the head of BMW styling at the time. However, owners and buyers may be nervous about reliability so we have created our guide to help inform you on how reliable the 7 Series is and why it depreciates so much and becomes cheap.\n\nThe issues discussed in our buyer's guide to the BMW 7 Series are gearbox issues, poor handling, cam chain stretch and iDrive issues. We also discuss the benefits and downsides of the petrol and diesel engines and give information on the mpg of the 730d vs 730i and the 745i vs 745d. The 760i and its V12 engine will remain a favourite of ours.\n\n\nFor our podcasts search 'the miles driven' wherever you get your podcasts.\n\nLink to full podcast episodes - https://linktr.ee/themilesdriven\n\n\nTo find out more about The Miles Driven, check us out on social or leave us a comment down below on what you think is best.\n\nwww.themilesdriven.com\nhttps://www.instagram.com/themilesdriven/\nhttps://www.facebook.com/themilesdriven\nhttps://linktr.ee/themilesdriven\n\nLegal and disclaimer - Any content not originally created by The Miles Driven remains the property of the original owner and is editorialised for media reporting. All content is used within the confines of media reporting/editorial use and is transformative in nature to inform others with new information and content about cars and vehicles. We use no more of the original content than necessary in alignment with U.S copyright law for fair use and U.K fair dealing. We accept no liability for the purchase of vehicles using our guide and suggest thorough due diligence by individual professional inspections before making a buying decision.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p5jzZgx5Z-g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Miles Driven",
+          "tags": [
+            "BMW 7 Series",
+            "E65",
+            "E66",
+            "BMW 7 series LWB",
+            "BMW 7 series buyers guide",
+            "BMW 7 series E65 buyers guide",
+            "BMW 7 series owners guide",
+            "BMW 7 series reliability",
+            "BMW 7 series depreciation",
+            "BMW 7 series common problems",
+            "BMW V12"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BMW 7 Series E65/E66 buyers guide (2001-2008) Avoid the common faults and problems (730/745/750/760)",
+            "description": "BMW 7 Series E65 and E66 2001-2018 Buyers guide and reliability review for  730i / 730d / 730Li / 730Ld / 735i / 735Li / 740i / 740Li / 740d / 740Ld / 745i /745Li /745d / 745Ld /750i / 750Li /760i /760Li with 3.0i / 3.0d / 3.5 V8 / 4.0 / VB8 /4.4 V8 / 4.8 V8 / 3.9d /4.4d / and 6.0 V12 and rare hydrogen 7 or 7-Series hydrogen. Avoid buying a broken BMW 7 Series and find the E65 7 Series that shifts through the gears easily and is as luxurious as it should be that can achieve the 155mph top speed. Avoid the mistake of buying a broken BMW as a project and attempting to fix it only to find it is not as reliable as you thought it might be.  This buyer's guide covers the BMW 7 Series E65 E66 E67 and ultra-rare E68 from 2001 7 Series, 2002 7 Series, 2003 7 Series, 2004 7 Series, 2005 7 Series, 2006 7 Series, 2007 7 Series, and 2008 7 Series  in all trims SE to Sport to Individual. The E65 7 Series was controversial styled when it was released and nicknamed the bangle butt due to the rear styling nicknamed after the head of BMW styling at the time. However, owners and buyers may be nervous about reliability so we have created our guide to help inform you on how reliable the 7 Series is and why it depreciates so much and becomes cheap.\n\nThe issues discussed in our buyer's guide to the BMW 7 Series are gearbox issues, poor handling, cam chain stretch and iDrive issues. We also discuss the benefits and downsides of the petrol and diesel engines and give information on the mpg of the 730d vs 730i and the 745i vs 745d. The 760i and its V12 engine will remain a favourite of ours.\n\n\nFor our podcasts search 'the miles driven' wherever you get your podcasts.\n\nLink to full podcast episodes - https://linktr.ee/themilesdriven\n\n\nTo find out more about The Miles Driven, check us out on social or leave us a comment down below on what you think is best.\n\nwww.themilesdriven.com\nhttps://www.instagram.com/themilesdriven/\nhttps://www.facebook.com/themilesdriven\nhttps://linktr.ee/themilesdriven\n\nLegal and disclaimer - Any content not originally created by The Miles Driven remains the property of the original owner and is editorialised for media reporting. All content is used within the confines of media reporting/editorial use and is transformative in nature to inform others with new information and content about cars and vehicles. We use no more of the original content than necessary in alignment with U.S copyright law for fair use and U.K fair dealing. We accept no liability for the purchase of vehicles using our guide and suggest thorough due diligence by individual professional inspections before making a buying decision."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT10M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "112073",
+          "likeCount": "1362",
+          "favoriteCount": "0",
+          "commentCount": "81"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

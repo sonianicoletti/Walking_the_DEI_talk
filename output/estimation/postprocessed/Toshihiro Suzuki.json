@@ -1,0 +1,125 @@
+{
+  "ceo": "Toshihiro Suzuki",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "_66F2oetPBYB8GnqwfrWDFTASCQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 46,
+      "resultsPerPage": 38
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aIpzzrKDTglLfitu_Td8Yt72X_s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zybjobqj5UY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-24T15:10:15Z",
+          "channelId": "UCbTMWOkbBelE1FCQ_G4hRkA",
+          "title": "FULL FIGHT | Virgel Vitor Vs Toshihiro Suzuki | \u9234\u6728\u7a14\u5f18",
+          "description": "\u9234\u6728\u7a14\u5f18 Virgel Vitor Vs Toshihiro Suzuki.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The ExCalibur",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-24T15:10:15Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "HyRvNaN2W1XVvGLVGD2V4i3yZUk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pPHxfdz8OC6of_803z_r7TQWing",
+        "id": "zybjobqj5UY",
+        "snippet": {
+          "publishedAt": "2023-08-24T15:10:15Z",
+          "channelId": "UCbTMWOkbBelE1FCQ_G4hRkA",
+          "title": "FULL FIGHT | Virgel Vitor Vs Toshihiro Suzuki | \u9234\u6728\u7a14\u5f18",
+          "description": "\u9234\u6728\u7a14\u5f18\nVirgel Vitor Vs Toshihiro Suzuki",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zybjobqj5UY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The ExCalibur",
+          "tags": [
+            "Virgel Vitor Vs Toshihiro Suzuki",
+            "Virgel Vitor Vs Toshihiro Suzuki full fight",
+            "Virgel Vitor",
+            "Toshihiro Suzuki"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "FULL FIGHT | Virgel Vitor Vs Toshihiro Suzuki | \u9234\u6728\u7a14\u5f18",
+            "description": "\u9234\u6728\u7a14\u5f18\nVirgel Vitor Vs Toshihiro Suzuki"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT25M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1056",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 38,
+      "resultsPerPage": 38
+    }
+  }
+}

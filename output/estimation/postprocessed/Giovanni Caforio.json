@@ -1,0 +1,22 @@
+{
+  "ceo": "Giovanni Caforio",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "MR9h9Xpp9ezh6P3fCE9iXNA41bo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 14,
+      "resultsPerPage": 13
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Op6yfSeczTqZ_1NL9sQa12QnV9s",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 13
+    }
+  }
+}

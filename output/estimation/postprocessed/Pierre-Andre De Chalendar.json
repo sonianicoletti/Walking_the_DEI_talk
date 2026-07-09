@@ -1,0 +1,22 @@
+{
+  "ceo": "Pierre-Andre De Chalendar",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "NGzNkn4fLCQQmEzz0xxAdGACZ2w",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 30
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "0O_Yd3OY0Zd6XhCOkqm_gU0Fyng",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 30,
+      "resultsPerPage": 30
+    }
+  }
+}

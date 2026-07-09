@@ -1,0 +1,456 @@
+{
+  "ceo": "Brian Porter",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "gCkMXg1LDLHTM0kDwXajoA5gzyU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 232860,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W2zDoL2_mVFgjb7secsk1wsq-jQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Vzb1_ym-Afs"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-07T11:56:50Z",
+          "channelId": "UC5Qlem5r3WNjWbUFJUznOfA",
+          "title": "What Makes a Great Sounding Pickup? Brian Porter From Porter Pickups Answers Our Questions.",
+          "description": "addictedtogear #Porterpickups Today we discuss what makes a great sounding pickup and why some pickups simply fall short of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ADDICTED TO GEAR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-07T11:56:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YmlUnbmSfmonc8DSIZGgTyzODRs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vVkTrzdZX6g"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-29T18:23:05Z",
+          "channelId": "UChZVOf7W0UuXb-Ie7uuJxyg",
+          "title": "Brian Porter video: \u2018I\u2019ve always believed banking is a calling\u2019",
+          "description": "Scotiabank President and CEO announces his retirement, appointment of Scott Thomson as Bank's new top executive After nearly ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Scotiabank",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-29T18:23:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hvintNjcO7zC2suLp-NaPMt_wNU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ovjSgBIuFTc"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-18T17:46:17Z",
+          "channelId": "UCi7UYtpHvziPZs3GTa5A0Lg",
+          "title": "Porter Pickups // Brian Porter // Starting a guitar pickup company (make more music interview)",
+          "description": "Original Air Date: 3/22/2021 EPISODE 42 // Welcome back to Make More Music, the podcast that connects people to music & one ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Make More Music",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-18T17:46:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Q6utAdB_u1wVh3gtWLRGdB_-STA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Oun32MiR5os"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T18:07:09Z",
+          "channelId": "UCqG1edTJ4y97pUJbrNQ9OBg",
+          "title": "Brian Porter BARREL ROLLS - 2022 Wingless Sprints at the Tulsa Shootout",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Crazycars81",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T18:07:09Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ot92F7Oa4nOW94Xhuj36uQHa8ek",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "r0TXi376qxe48xvT9jl6n29hacw",
+        "id": "Vzb1_ym-Afs",
+        "snippet": {
+          "publishedAt": "2022-06-07T11:56:50Z",
+          "channelId": "UC5Qlem5r3WNjWbUFJUznOfA",
+          "title": "What Makes a Great Sounding Pickup? Brian Porter From Porter Pickups Answers Our Questions.",
+          "description": "#addictedtogear #Porterpickups \n\nToday we discuss what makes a great sounding pickup and why some pickups simply fall short of hitting the mark. Our resident expert Brian Porter from Porter Pickups answers our questions.\n\n\u25ba\u25bahttps://www.porterpickups.com\n\n\u25bahttp://www.amazon.com/shop/addictedtogear\n\u25ba Follow me on Instagram - https://bit.ly/3jXnowj\u200b\u200b\u200b\u200b\u200b\u200b\n\u25ba Follow me on TikTok - https://bit.ly/2P9y9xt\u200b\u200b\u200b\u200b\u200b\u200b\n\u25ba Buy a cool Addicted To Gear T-shirt and support this channel here: https://bit.ly/3jZV6Be\u200b\u200b\u200b\u200b\u200b\u200b",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Vzb1_ym-Afs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ADDICTED TO GEAR",
+          "tags": [
+            "addicted to gear",
+            "addictedtogear",
+            "gear reviews",
+            "Porter Pickups",
+            "Pickup Review",
+            "PAF pickup",
+            "Vintage Pickup",
+            "Porter",
+            "Gatekeeper Pickups",
+            "Single Coil pickups",
+            "Winding pickups",
+            "pickup hum",
+            "reducing pickup hum",
+            "pickup wiring",
+            "pickup soldering",
+            "low wind pickups",
+            "hot pickups",
+            "duncam pickup",
+            "duncan pickup",
+            "dimaggio pickup",
+            "dimarzio pickup",
+            "fender pickup",
+            "gibson pickup",
+            "suhr pickup",
+            "Stratocaster",
+            "Strat",
+            "Telecaster",
+            "Tele",
+            "Guitar",
+            "Electric Guitar",
+            "pickups",
+            "Fender",
+            "Suhr",
+            "Gibson",
+            "Ibanez"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "What Makes a Great Sounding Pickup? Brian Porter From Porter Pickups Answers Our Questions.",
+            "description": "#addictedtogear #Porterpickups \n\nToday we discuss what makes a great sounding pickup and why some pickups simply fall short of hitting the mark. Our resident expert Brian Porter from Porter Pickups answers our questions.\n\n\u25ba\u25bahttps://www.porterpickups.com\n\n\u25bahttp://www.amazon.com/shop/addictedtogear\n\u25ba Follow me on Instagram - https://bit.ly/3jXnowj\u200b\u200b\u200b\u200b\u200b\u200b\n\u25ba Follow me on TikTok - https://bit.ly/2P9y9xt\u200b\u200b\u200b\u200b\u200b\u200b\n\u25ba Buy a cool Addicted To Gear T-shirt and support this channel here: https://bit.ly/3jZV6Be\u200b\u200b\u200b\u200b\u200b\u200b"
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT56M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "306",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IRUhk3NvJXAvae7h3-x9Le_z1ko",
+        "id": "vVkTrzdZX6g",
+        "snippet": {
+          "publishedAt": "2022-09-29T18:23:05Z",
+          "channelId": "UChZVOf7W0UuXb-Ie7uuJxyg",
+          "title": "Brian Porter video: \u2018I\u2019ve always believed banking is a calling\u2019",
+          "description": "Scotiabank President and CEO announces his retirement, appointment of Scott Thomson as Bank\u2019s new top executive\n\nAfter nearly 10 years as Scotiabank\u2019s President and Chief Executive Officer, Brian Porter has announced he is retiring. Scott Thomson, currently CEO of Finning International Inc. and a member of Scotiabank\u2019s Board of Directors since 2016, will take over.\n\n\u201cDuring this time, we've accomplished a lot,\u201d Porter said in a video for Scotiabank\u2019s 90,000 employees in which he announced his retirement and Thomson\u2019s succession to the role. \u201cWe made the Bank more resilient. We've spent a lot of time and focus on digitizing the Bank and the customer experience, making it easier for our customers to do business with us and our employees to do their roles as well.\u201d",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vVkTrzdZX6g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Scotiabank",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian Porter video: \u2018I\u2019ve always believed banking is a calling\u2019",
+            "description": "Scotiabank President and CEO announces his retirement, appointment of Scott Thomson as Bank\u2019s new top executive\n\nAfter nearly 10 years as Scotiabank\u2019s President and Chief Executive Officer, Brian Porter has announced he is retiring. Scott Thomson, currently CEO of Finning International Inc. and a member of Scotiabank\u2019s Board of Directors since 2016, will take over.\n\n\u201cDuring this time, we've accomplished a lot,\u201d Porter said in a video for Scotiabank\u2019s 90,000 employees in which he announced his retirement and Thomson\u2019s succession to the role. \u201cWe made the Bank more resilient. We've spent a lot of time and focus on digitizing the Bank and the customer experience, making it easier for our customers to do business with us and our employees to do their roles as well.\u201d"
+          },
+          "defaultAudioLanguage": "fr-CA"
+        },
+        "contentDetails": {
+          "duration": "PT4M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4648",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ep9tACMML0Q4-Wt9aJoE-C1cTOw",
+        "id": "ovjSgBIuFTc",
+        "snippet": {
+          "publishedAt": "2022-03-18T17:46:17Z",
+          "channelId": "UCi7UYtpHvziPZs3GTa5A0Lg",
+          "title": "Porter Pickups // Brian Porter // Starting a guitar pickup company (make more music interview)",
+          "description": "Original Air Date: 3/22/2021\n\nEPISODE 42 // Welcome back to Make More Music, the podcast that connects people to music & one another. Today we chat with owner of Porter Pickups / Porter Guitars and season three sponsor, Brian Porter. He shares his musical backstory and organic growth of Porter Pickups, learning through failure, and staying people oriented through his business mission.\n\nCheck out Porter Pickups - https://porterpickups.com\nPorter Pickups on IG - https://instagram.com/porterpickups\n\nSupport the show -\nFOR FREE: \n- Subscribe, Like, & Comment\n- It helps a ton if you leave a rating and review on your podcast player! \n- Share this episode with a friend/family member/coworker/stranger/etc.\n\nListen here: http://linktr.ee/make.more.music\nFollow on IG: http://instagram.com/make.more.music\nDonate to the show: http://paypal.me/makemoremusic\nGet your MMM Merch: https://teespring.com/stores/makemoremusic\nEmail: makemoremusicpodcast@gmail.com \n\nGive more grace.\nShare more love.\nMake. More. Music.\n\n#makemoremusic #porterpickup",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ovjSgBIuFTc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Make More Music",
+          "tags": [
+            "music",
+            "music podcast",
+            "make more music",
+            "musician",
+            "music interview",
+            "music career",
+            "music business"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Porter Pickups // Brian Porter // Starting a guitar pickup company (make more music interview)",
+            "description": "Original Air Date: 3/22/2021\n\nEPISODE 42 // Welcome back to Make More Music, the podcast that connects people to music & one another. Today we chat with owner of Porter Pickups / Porter Guitars and season three sponsor, Brian Porter. He shares his musical backstory and organic growth of Porter Pickups, learning through failure, and staying people oriented through his business mission.\n\nCheck out Porter Pickups - https://porterpickups.com\nPorter Pickups on IG - https://instagram.com/porterpickups\n\nSupport the show -\nFOR FREE: \n- Subscribe, Like, & Comment\n- It helps a ton if you leave a rating and review on your podcast player! \n- Share this episode with a friend/family member/coworker/stranger/etc.\n\nListen here: http://linktr.ee/make.more.music\nFollow on IG: http://instagram.com/make.more.music\nDonate to the show: http://paypal.me/makemoremusic\nGet your MMM Merch: https://teespring.com/stores/makemoremusic\nEmail: makemoremusicpodcast@gmail.com \n\nGive more grace.\nShare more love.\nMake. More. Music.\n\n#makemoremusic #porterpickup"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H10M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "105",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "a2dUVteDgA8rxs5eb0l34h4MrJE",
+        "id": "Oun32MiR5os",
+        "snippet": {
+          "publishedAt": "2022-12-29T18:07:09Z",
+          "channelId": "UCqG1edTJ4y97pUJbrNQ9OBg",
+          "title": "Brian Porter BARREL ROLLS - 2022 Wingless Sprints at the Tulsa Shootout",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Oun32MiR5os/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Crazycars81",
+          "tags": [
+            "#VideoGuru"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian Porter BARREL ROLLS - 2022 Wingless Sprints at the Tulsa Shootout",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "479",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

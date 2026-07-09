@@ -1,0 +1,23 @@
+{
+  "ceo": "Sean M. O'Connor",
+  "query": "Sean M. O'Connor (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "sr62aq6ZOPTLVobsTt42o3tsa3s",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 15
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "OW6z5WI9325mU1exccVUpwT0aDA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 15
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Brian C. Cornell",
+  "query": "Brian C. Cornell (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ZVNjioK4wctZy8Mi5LrBPYQdDU0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 27,
+      "resultsPerPage": 19
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Vqf7r-iSMF0h5ogUb56qFTXYRi8",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 19,
+      "resultsPerPage": 19
+    }
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "ceo": "Jean-Pascal Tricoire",
+  "query": "Jean-Pascal Tricoire (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7vyl1rtBFmiS_gfOGWiY9xLlDbY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D7AADDoX4uhxyJwqBD-tohtuJWU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gsixCcn92n4"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-02T08:45:10Z",
+          "channelId": "UC6ip3rb4w_LIq1Q8kJXcKlw",
+          "title": "Jean-Pascal Tricoire, Chairman &amp; CEO Of Schneider Electric: Empowering The Future",
+          "description": "As the world embraces a new age of digitalization and sustainable change, Schneider Electric is leading the way in global energy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Forbes Middle East",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-02T08:45:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mkxot3gqw3aLh-N28O_0aRuBUb0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JtvAJ4Ajq_0"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-16T20:28:41Z",
+          "channelId": "UC2MsWN0xxk63RheB5LITB9A",
+          "title": "CEO Series: Assessing Schneider&#39;s Culture",
+          "description": "Schneider's core values of safety, integrity, respect and excellence drive everything we do. In his latest CEO Series, our President ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Schneider",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-16T20:28:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c5FaBOMw8jw7UWCyhCtx1VhZq1E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bada3tvMHa0"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-24T06:49:36Z",
+          "channelId": "UCTZqTZrMnTnC9pfTlqddKIg",
+          "title": "Bidisha Nagaraj joins the good fight! Becomes a Green Yodha",
+          "description": "\"How do we live without a strong instinct of being greedy about everything?\" By being conscious of our resources. Bidisha ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Schneider Electric India",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-24T06:49:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LlGE9sMT3gIL0Hh_9NmSE2foK_I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q_OCvXgnly4"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-29T16:07:10Z",
+          "channelId": "UCnpqjEw2RHDBNVGDe8pI7tw",
+          "title": "Pacific Knowledge Series: Our Sustainability Business | Schneider Electric",
+          "description": "The 'Pacific Knowledge Series' is an informative series of brief interviews, helping you understand Schneider's thought leadership ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Schneider Electric",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-29T16:07:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P-kKbtmN21mec73ULCZ1FIEE4OA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nY2sWrylhs8"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-07T17:49:28Z",
+          "channelId": "UCz6RzD6KG_hH_oHb2kyW5jQ",
+          "title": "Walmart: Can the World\u2019s Largest Retailer Keep Growing?",
+          "description": "You can't talk about what it means to be a consumer without talking about Walmart. The company is now the world's largest ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Morgan Stanley",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-07T17:49:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3wo1w1mGzaTiRC7XqU0VNDoRe_I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yQfu2RHlVrE"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-15T17:21:14Z",
+          "channelId": "UC4R1IsRVKs_qlWKTm9pT82Q",
+          "title": "Jean Laurent Bonnafe\u0301, co-Pr\u00e9sident du Comit\u00e9 de campagne de l&#39;IHES",
+          "description": "Intervention de Jean-Laurent Bonnaf\u00e9, Administrateur Directeur G\u00e9n\u00e9ral de BNP Paribas et co-Pr\u00e9sident du Comit\u00e9 de campagne ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Institut des Hautes Etudes Scientifiques (IHES)",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-15T17:21:14Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "-AR3FwungVwlpJk3q3AoZf7yq38",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "r8mcdCPxYPqMfCS9HwPnY6iRD9E",
+        "id": "gsixCcn92n4",
+        "snippet": {
+          "publishedAt": "2022-03-02T08:45:10Z",
+          "channelId": "UC6ip3rb4w_LIq1Q8kJXcKlw",
+          "title": "Jean-Pascal Tricoire, Chairman & CEO Of Schneider Electric: Empowering The Future",
+          "description": "As the world embraces a new age of digitalization and sustainable change, Schneider Electric is leading the way in global energy management and automation. Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric, discusses his company\u2019s mission to drive forward digital transformation, sustainability, and workplace inclusivity.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gsixCcn92n4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Forbes Middle East",
+          "tags": [
+            "Forbes Middle East",
+            "business",
+            "arab world",
+            "arab",
+            "entrepreneurship"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jean-Pascal Tricoire, Chairman & CEO Of Schneider Electric: Empowering The Future",
+            "description": "As the world embraces a new age of digitalization and sustainable change, Schneider Electric is leading the way in global energy management and automation. Jean-Pascal Tricoire, Chairman & CEO of Schneider Electric, discusses his company\u2019s mission to drive forward digital transformation, sustainability, and workplace inclusivity."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34658",
+          "likeCount": "160",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1txKqAvTy8Kol9n0IUhNS7ZNb0Q",
+        "id": "JtvAJ4Ajq_0",
+        "snippet": {
+          "publishedAt": "2022-09-16T20:28:41Z",
+          "channelId": "UC2MsWN0xxk63RheB5LITB9A",
+          "title": "CEO Series: Assessing Schneider's Culture",
+          "description": "Schneider's core values of safety, integrity, respect and excellence drive everything we do. In his latest CEO Series, our President and CEO Mark Rourke spoke with Angela Fish, our Executive Vice President of Human Resources at Schneider, to explain how these values built and continue to grow a strong company culture at Schneider.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JtvAJ4Ajq_0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Schneider",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CEO Series: Assessing Schneider's Culture",
+            "description": "Schneider's core values of safety, integrity, respect and excellence drive everything we do. In his latest CEO Series, our President and CEO Mark Rourke spoke with Angela Fish, our Executive Vice President of Human Resources at Schneider, to explain how these values built and continue to grow a strong company culture at Schneider."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "140",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "75q9Vitgr4rrIl9iTGvPukxQUiw",
+        "id": "bada3tvMHa0",
+        "snippet": {
+          "publishedAt": "2022-06-24T06:49:36Z",
+          "channelId": "UCTZqTZrMnTnC9pfTlqddKIg",
+          "title": "Bidisha Nagaraj joins the good fight! Becomes a Green Yodha",
+          "description": "\"How do we live without a strong instinct of being greedy about everything?\" By being conscious of our resources. \n\nBidisha Nagaraj, Vice President, Global Marketing explains how sustainability has an economic, environmental and social aspect to it. \nIn our latest episode of 'Sustainability Under 120 Seconds', Bidisha shares her personal commitment towards a greener planet and how she is a Green Yodha in everyday life. \n\n#greenyodha is a #sustainability initiative by Schneider Electric that aims to build a community of conscious citizens and businesses to unite towards energy-efficient practices.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bada3tvMHa0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Schneider Electric India",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bidisha Nagaraj joins the good fight! Becomes a Green Yodha",
+            "description": "\"How do we live without a strong instinct of being greedy about everything?\" By being conscious of our resources. \n\nBidisha Nagaraj, Vice President, Global Marketing explains how sustainability has an economic, environmental and social aspect to it. \nIn our latest episode of 'Sustainability Under 120 Seconds', Bidisha shares her personal commitment towards a greener planet and how she is a Green Yodha in everyday life. \n\n#greenyodha is a #sustainability initiative by Schneider Electric that aims to build a community of conscious citizens and businesses to unite towards energy-efficient practices."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16540",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QM-BkEpwPXCgg0r1nwV0Fi-au2Y",
+        "id": "Q_OCvXgnly4",
+        "snippet": {
+          "publishedAt": "2022-08-29T16:07:10Z",
+          "channelId": "UCnpqjEw2RHDBNVGDe8pI7tw",
+          "title": "Pacific Knowledge Series: Our Sustainability Business | Schneider Electric",
+          "description": "The \u2018Pacific Knowledge Series\u2019 is an informative series of brief interviews, helping you understand Schneider's thought leadership themes, as well as the Pacific's strategic priorities. \u25baWatch more Sustainability Business videos: https://www.youtube.com/playlist?list=PLa7UGrWOTyjkm42do7NsDD2YMjYHwXejw\n\nDavid Eastwood, Head of Sustainability Business (Australia), interviews Michael Cox, APAC Sustainability Consultancy Director, and Lisa Zembrodt, Director of Operations - Energy Markets (Australia) about our Sustainability Business in Pacific, and our leading role in solving the world\u2019s energy challenges and delivering strategic and sustainable solutions for our customers.\n\n\u25baClick here to subscribe to Schneider Electric:\u00a0https://www.youtube.com/c/schneiderelectric?sub_confirmation=1\n\nConnect with Schneider Electric:\n\u25baGlobal Website:\u00a0http://spr.ly/SchneiderElectric\n\u25baDiscover our Services:\u00a0http://spr.ly/SE-Services\n\u25baVisit our Blog:\u00a0http://spr.ly/SE-Blog\n\u25baGain Insights: http://spr.ly/SE-insights\n\u25baJob Opportunities:\u00a0http://spr.ly/SE-Careers\n\u25baLinkedIn:\u00a0https://www.linkedin.com/company/schneider-electric\n\u25baFacebook:\u00a0https://www.facebook.com/SchneiderElectric\n\u25baTwitter:\u00a0https://twitter.com/SchneiderElec\n\u25baInstagram: https://instagram.com/schneiderelectric",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q_OCvXgnly4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Schneider Electric",
+          "tags": [
+            "schneider",
+            "schneider electric",
+            "sustainability",
+            "digital transformation",
+            "customers",
+            "decarbonisation",
+            "net zero"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pacific Knowledge Series: Our Sustainability Business | Schneider Electric",
+            "description": "The \u2018Pacific Knowledge Series\u2019 is an informative series of brief interviews, helping you understand Schneider's thought leadership themes, as well as the Pacific's strategic priorities. \u25baWatch more Sustainability Business videos: https://www.youtube.com/playlist?list=PLa7UGrWOTyjkm42do7NsDD2YMjYHwXejw\n\nDavid Eastwood, Head of Sustainability Business (Australia), interviews Michael Cox, APAC Sustainability Consultancy Director, and Lisa Zembrodt, Director of Operations - Energy Markets (Australia) about our Sustainability Business in Pacific, and our leading role in solving the world\u2019s energy challenges and delivering strategic and sustainable solutions for our customers.\n\n\u25baClick here to subscribe to Schneider Electric:\u00a0https://www.youtube.com/c/schneiderelectric?sub_confirmation=1\n\nConnect with Schneider Electric:\n\u25baGlobal Website:\u00a0http://spr.ly/SchneiderElectric\n\u25baDiscover our Services:\u00a0http://spr.ly/SE-Services\n\u25baVisit our Blog:\u00a0http://spr.ly/SE-Blog\n\u25baGain Insights: http://spr.ly/SE-insights\n\u25baJob Opportunities:\u00a0http://spr.ly/SE-Careers\n\u25baLinkedIn:\u00a0https://www.linkedin.com/company/schneider-electric\n\u25baFacebook:\u00a0https://www.facebook.com/SchneiderElectric\n\u25baTwitter:\u00a0https://twitter.com/SchneiderElec\n\u25baInstagram: https://instagram.com/schneiderelectric"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9M45S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "341",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NyFn65up_qvWP1w90YUGYwD6C_c",
+        "id": "nY2sWrylhs8",
+        "snippet": {
+          "publishedAt": "2022-12-07T17:49:28Z",
+          "channelId": "UCz6RzD6KG_hH_oHb2kyW5jQ",
+          "title": "Walmart: Can the World\u2019s Largest Retailer Keep Growing?",
+          "description": "You can\u2019t talk about what it means to be a consumer without talking about Walmart. The company is now the world\u2019s largest retailer\u2014with more than 10,000 stores in 24 countries\u2014but its growth story continues.\n\nIn the latest episode of Exceptional Leaders, Retail analyst Simeon Gutman sits down with Doug McMillon, President & CEO of Walmart, to talk about how the company pulled off one of the greatest omnichannel transformations in retail history and how it can continue to defy the law of large numbers.\n\nWatch this discussion with Walmart\u2019s CEO to learn about his vision for the future of retail.\n\nhttps://mgstn.ly/3h5K8xD",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nY2sWrylhs8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Morgan Stanley",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Walmart: Can the World\u2019s Largest Retailer Keep Growing?",
+            "description": "You can\u2019t talk about what it means to be a consumer without talking about Walmart. The company is now the world\u2019s largest retailer\u2014with more than 10,000 stores in 24 countries\u2014but its growth story continues.\n\nIn the latest episode of Exceptional Leaders, Retail analyst Simeon Gutman sits down with Doug McMillon, President & CEO of Walmart, to talk about how the company pulled off one of the greatest omnichannel transformations in retail history and how it can continue to defy the law of large numbers.\n\nWatch this discussion with Walmart\u2019s CEO to learn about his vision for the future of retail.\n\nhttps://mgstn.ly/3h5K8xD"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT14M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7195",
+          "likeCount": "90",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tgXWw43TsLB8eSiUhCrLMPmw_v4",
+        "id": "yQfu2RHlVrE",
+        "snippet": {
+          "publishedAt": "2022-11-15T17:21:14Z",
+          "channelId": "UC4R1IsRVKs_qlWKTm9pT82Q",
+          "title": "Jean Laurent Bonnafe\u0301, co-Pr\u00e9sident du Comit\u00e9 de campagne de l'IHES",
+          "description": "Intervention de Jean-Laurent Bonnaf\u00e9, Administrateur Directeur G\u00e9n\u00e9ral de BNP Paribas et co-Pr\u00e9sident du Comit\u00e9 de campagne, lors de la c\u00e9r\u00e9monie de cl\u00f4ture de la campagne de lev\u00e9e de fonds de l'IHES le 24 octobre 2022 \u00e0 la Caisse des D\u00e9p\u00f4ts.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yQfu2RHlVrE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Institut des Hautes Etudes Scientifiques (IHES)",
+          "tags": [
+            "IHES",
+            "SCIENCE",
+            "MATHEMATIQUES"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Jean Laurent Bonnafe\u0301, co-Pr\u00e9sident du Comit\u00e9 de campagne de l'IHES",
+            "description": "Intervention de Jean-Laurent Bonnaf\u00e9, Administrateur Directeur G\u00e9n\u00e9ral de BNP Paribas et co-Pr\u00e9sident du Comit\u00e9 de campagne, lors de la c\u00e9r\u00e9monie de cl\u00f4ture de la campagne de lev\u00e9e de fonds de l'IHES le 24 octobre 2022 \u00e0 la Caisse des D\u00e9p\u00f4ts."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2746",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

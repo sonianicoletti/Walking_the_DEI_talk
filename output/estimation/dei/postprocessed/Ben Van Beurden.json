@@ -1,0 +1,23 @@
+{
+  "ceo": "Ben Van Beurden",
+  "query": "Ben Van Beurden (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pUvdhG3ztq94isrr4ZZ4aIuJ1PE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 3
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "tE7q9JEfbaOPxKha0jGmJGCbxyI",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ceo": "Andreas Kupper",
+  "query": "Andreas Kupper (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "g9xM4CjmtdAGTkZpMw-9JY9uG-A",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_RI_QdTyGrjnFq7RE12Y9zhUfxs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EuxMJKkh3M0"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-23T19:34:50Z",
+          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+          "title": "Become Yourself | Kate Jiang | TEDxYouth@SanNewSchool",
+          "description": "We've all heard of evolution, but have you ever heard of involution? What is education involution? How does education involution ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TEDx Talks",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-23T19:34:50Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ls_8uKttnn9UAhdPd7glvqWAM1M",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "h6uoZ0UhRrK8-Rgd0AW0ZE3e7rY",
+        "id": "EuxMJKkh3M0",
+        "snippet": {
+          "publishedAt": "2022-02-23T19:34:50Z",
+          "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+          "title": "Become Yourself | Kate Jiang | TEDxYouth@SanNewSchool",
+          "description": "We\u2019ve all heard of evolution, but have you ever heard of involution? What is education involution? How does education involution happen? How can we become better? These are questions Kate answered in her speech. She used facts and her own stories to discuss this education phenomenon in hopes of helping parents and students to reflect on this issue. Kate Jiang is an ordinary 16-year-old girl currently studying at Wuhan Sannew School. She has grandmother hobbies such as baking and knitting while having the joyfulness and curiosity of a primary school kid that always has peculiar ideas. Both traits are mixed up and stuffed into a teenage girl\u2019s body. Kate also believes in some big dreams that would change the world. Kate has always been interested in issues regarding education. Before she entered an international high school to study, she studied in a public middle school, which allowed her to observe from different angles of education and gave her a deeper understanding. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EuxMJKkh3M0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TEDx Talks",
+          "tags": [
+            "Education",
+            "English",
+            "TEDxTalks",
+            "Youth"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Become Yourself | Kate Jiang | TEDxYouth@SanNewSchool",
+            "description": "We\u2019ve all heard of evolution, but have you ever heard of involution? What is education involution? How does education involution happen? How can we become better? These are questions Kate answered in her speech. She used facts and her own stories to discuss this education phenomenon in hopes of helping parents and students to reflect on this issue. Kate Jiang is an ordinary 16-year-old girl currently studying at Wuhan Sannew School. She has grandmother hobbies such as baking and knitting while having the joyfulness and curiosity of a primary school kid that always has peculiar ideas. Both traits are mixed up and stuffed into a teenage girl\u2019s body. Kate also believes in some big dreams that would change the world. Kate has always been interested in issues regarding education. Before she entered an international high school to study, she studied in a public middle school, which allowed her to observe from different angles of education and gave her a deeper understanding. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6994",
+          "likeCount": "170",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

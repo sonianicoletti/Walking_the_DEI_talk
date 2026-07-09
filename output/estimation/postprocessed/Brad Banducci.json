@@ -1,0 +1,235 @@
+{
+  "ceo": "Brad Banducci",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "xL95K7_YsdhwNQoN1ABU9UyEWLM",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 34,
+      "resultsPerPage": 19
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UhJVXGQoXxugmUDmsZkyyk1w9As",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vtd_wC1T2Wk"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-02T04:37:08Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3&quot;",
+          "description": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3 compared to the prior year with solidsales ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-02T04:37:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kKhKfU8yaC6lSEenvF4JsQazmig",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_CKl6Z7h2FA"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-17T01:30:14Z",
+          "channelId": "UCN9TIvgbQMPzGNrv2raR4Hg",
+          "title": "Woolworths CEO | Brad Banducci | Unconscious Bias, Wellbeing &amp; Authenticity",
+          "description": "Kicking off Season 2 of the Real STUFF podcast, Hunter Johnson is humbled to be in conversation with Woolworths CEO and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stuff That Matters",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-17T01:30:14Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "x94oKUOdh6OqUD28eqmiytcKxk4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "l5BIJxeWZJ15lqhajpFZSN8rrTw",
+        "id": "vtd_wC1T2Wk",
+        "snippet": {
+          "publishedAt": "2023-05-02T04:37:08Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3\"",
+          "description": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3 compared to the prior year with solidsales growth across all of our businesses. Availability scores in our Food businesses are improving as supply chains slowly recover, but customers are concerned about the impact of ongoing inflation on household budgets. \u201cIn general, customer spending is stable. However, value-conscious customers are becoming more thoughtful about their discretionary spend, trading into more affordable options such as our own brands and looking for additional ways to save in store or through our Digital, Rewards and eCommerce platforms. \u201cIn Australian Food, sales increased by 7.6% driven by Woolworths Food Retail sales growth of 7.4%. Woolworths Supermarkets and Metro Food Stores store-originated growth was strong as customers shopped more in store and eCom sales returned to growth after cycling COVID impacts in the prior year.\n\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\n#kalkinemedia #aunews #woolworths #retail #sales\n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "tags": [
+            "au news",
+            "kalkinemedia",
+            "kalkinemedia au",
+            "woolworths group",
+            "woolworths",
+            "asx wow",
+            "retail",
+            "sales",
+            "consumer",
+            "produce",
+            "food products",
+            "food business",
+            "food and beverage",
+            "food store",
+            "supermarket",
+            "inflation",
+            "eCommerce",
+            "consumer products"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3\"",
+            "description": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3 compared to the prior year with solidsales growth across all of our businesses. Availability scores in our Food businesses are improving as supply chains slowly recover, but customers are concerned about the impact of ongoing inflation on household budgets. \u201cIn general, customer spending is stable. However, value-conscious customers are becoming more thoughtful about their discretionary spend, trading into more affordable options such as our own brands and looking for additional ways to save in store or through our Digital, Rewards and eCommerce platforms. \u201cIn Australian Food, sales increased by 7.6% driven by Woolworths Food Retail sales growth of 7.4%. Woolworths Supermarkets and Metro Food Stores store-originated growth was strong as customers shopped more in store and eCom sales returned to growth after cycling COVID impacts in the prior year.\n\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\n#kalkinemedia #aunews #woolworths #retail #sales\n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "98",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sgDtJFA1DM0DE0_5oPOQ2ej4tpw",
+        "id": "_CKl6Z7h2FA",
+        "snippet": {
+          "publishedAt": "2023-04-17T01:30:14Z",
+          "channelId": "UCN9TIvgbQMPzGNrv2raR4Hg",
+          "title": "Woolworths CEO | Brad Banducci | Unconscious Bias, Wellbeing & Authenticity",
+          "description": "Kicking off Season 2 of the Real STUFF podcast, Hunter Johnson is humbled to be in conversation with Woolworths CEO and Managing Director Brad Banducci, one of the most respected corporate leaders in the country. Their chat explores purpose, leadership, and well-being in business and in life.\n\nBrad is incredibly self aware and shares his perspectives on conscious bias, the importance of diversity in good decision making, and how his daughters have played a role in shaping his views. He also spends his Saturdays travelling to suburbs like Blacktown, Penrith and Parramatta to ensure he has an authentic understanding of his customers and their needs. (How many other CEOs of ASX-listed companies could say the same?)\n\nBrad demonstrates a genuine care and concern for the mental wellbeing of his workforce  - which numbers over 200,000 people - and opens up about suicide rates within the business and what is being done to support Woolworths employees\n\nIf you\u2019re keen to know what it takes to be Australia\u2019s #1 most trusted brand, listen in to Brad Banducci lift the lid in his chat with Hunter Johnson on Real STUFF.\n\nIt\u2019s a confusing time to be a man. We see guys all around us suffering under the weight of limiting, toxic stereotypes that are reinforced by outdated brands. We know that suicide is the country\u2019s leading cause of death for guys aged under 45; one in five boys will experience mental illness before the age of 18; and family violence kills at least one woman every week. \n\nWe believe this is preventable if we invest in initiatives that allow men to break free of limiting constructs and express themselves more freely. Consumer brands shape culture, and there is a huge opportunity for STUFF to help tackle the escalating crisis around masculinity. It is urgent that we find new ways to do so and that\u2019s why we\u2019re here: to reflect a more authentic masculinity.\n\nA podcast by STUFF\nwww.websiteofstuff.com\nwww.instagram.com/followthestuff",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stuff That Matters",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Woolworths CEO | Brad Banducci | Unconscious Bias, Wellbeing & Authenticity",
+            "description": "Kicking off Season 2 of the Real STUFF podcast, Hunter Johnson is humbled to be in conversation with Woolworths CEO and Managing Director Brad Banducci, one of the most respected corporate leaders in the country. Their chat explores purpose, leadership, and well-being in business and in life.\n\nBrad is incredibly self aware and shares his perspectives on conscious bias, the importance of diversity in good decision making, and how his daughters have played a role in shaping his views. He also spends his Saturdays travelling to suburbs like Blacktown, Penrith and Parramatta to ensure he has an authentic understanding of his customers and their needs. (How many other CEOs of ASX-listed companies could say the same?)\n\nBrad demonstrates a genuine care and concern for the mental wellbeing of his workforce  - which numbers over 200,000 people - and opens up about suicide rates within the business and what is being done to support Woolworths employees\n\nIf you\u2019re keen to know what it takes to be Australia\u2019s #1 most trusted brand, listen in to Brad Banducci lift the lid in his chat with Hunter Johnson on Real STUFF.\n\nIt\u2019s a confusing time to be a man. We see guys all around us suffering under the weight of limiting, toxic stereotypes that are reinforced by outdated brands. We know that suicide is the country\u2019s leading cause of death for guys aged under 45; one in five boys will experience mental illness before the age of 18; and family violence kills at least one woman every week. \n\nWe believe this is preventable if we invest in initiatives that allow men to break free of limiting constructs and express themselves more freely. Consumer brands shape culture, and there is a huge opportunity for STUFF to help tackle the escalating crisis around masculinity. It is urgent that we find new ways to do so and that\u2019s why we\u2019re here: to reflect a more authentic masculinity.\n\nA podcast by STUFF\nwww.websiteofstuff.com\nwww.instagram.com/followthestuff"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT34M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1505",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 19,
+      "resultsPerPage": 19
+    }
+  }
+}

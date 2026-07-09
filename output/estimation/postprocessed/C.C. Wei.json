@@ -1,0 +1,132 @@
+{
+  "ceo": "C.C. Wei",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "vGeakSZsHr3zE7wnEjeCPVYShXU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12298,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eKCYUObEYPlQTK7EYaf3NreLKnA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q1b-FN1bG_0"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T14:16:41Z",
+          "channelId": "UCSh-dNnqe1agUSzPM01LgBA",
+          "title": "Yale Engineering Dean&#39;s Invited Speaker Series featuring C.C. Wei, CEO, TSMC",
+          "description": "Yale Engineering Dean Jeffrey Brock '92 invites the entire Yale community to attend a series of insightful talks featuring ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yale University",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T14:16:41Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "IANwNT_uBYmGRzSERr4lJ20euFc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pE1EeY4qn6dICskwvEhXUUrXmEc",
+        "id": "q1b-FN1bG_0",
+        "snippet": {
+          "publishedAt": "2023-11-15T14:16:41Z",
+          "channelId": "UCSh-dNnqe1agUSzPM01LgBA",
+          "title": "Yale Engineering Dean's Invited Speaker Series featuring C.C. Wei, CEO, TSMC",
+          "description": "Yale Engineering Dean Jeffrey Brock '92 invites the entire Yale community to attend a series of insightful talks featuring distinguished industry leaders on a variety of topics across engineering and related fields.\n\nC.C. Wei '85 PhD (Electrical Engineering), the CEO of the largest manufacturer of semiconductors in the world has shaped the electronics industry. From smartphones to supercomputers, microchips developed at TSMC continue to power and dominate the electronic manufacturing industry. C.C. Wei discusses his trajectory from Yale's campus to a prominent role in industry.\n\nFor more information on the Yale School of Engineering & Applied Science, visit https://seas.yale.edu. For more videos, please visit the Yale Engineering YouTube channel @yaleengineering.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q1b-FN1bG_0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yale University",
+          "tags": [
+            "Yale",
+            "Yale University",
+            "TSMC",
+            "Semiconductors",
+            "Microchips",
+            "Technology",
+            "Yale Engineering",
+            "Engineering",
+            "Taiwan Semiconductors",
+            "CC Wei"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Yale Engineering Dean's Invited Speaker Series featuring C.C. Wei, CEO, TSMC",
+            "description": "Yale Engineering Dean Jeffrey Brock '92 invites the entire Yale community to attend a series of insightful talks featuring distinguished industry leaders on a variety of topics across engineering and related fields.\n\nC.C. Wei '85 PhD (Electrical Engineering), the CEO of the largest manufacturer of semiconductors in the world has shaped the electronics industry. From smartphones to supercomputers, microchips developed at TSMC continue to power and dominate the electronic manufacturing industry. C.C. Wei discusses his trajectory from Yale's campus to a prominent role in industry.\n\nFor more information on the Yale School of Engineering & Applied Science, visit https://seas.yale.edu. For more videos, please visit the Yale Engineering YouTube channel @yaleengineering."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT47M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "72488",
+          "likeCount": "815",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Alexey B. Miller",
+  "query": "Alexey B. Miller (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cOUPesPzHZbLz-FvHEOvTGzwJ5Q",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "8ngUXCGwhQkYfg5hZoONLkOSWIY",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

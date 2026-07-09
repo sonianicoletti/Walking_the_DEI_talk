@@ -1,0 +1,121 @@
+{
+  "ceo": "Amin H. Nasser",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "dov9XUYQbEkAEMomRyIa9ZZc1HA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 143,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IfaZANoj6jkDgr-gw5eoEvtIylQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oeAzuvI2Tl0"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-27T04:23:28Z",
+          "channelId": "UCXEQ3MCLUTyUv_Hk_XLyC6g",
+          "title": "Future Of Global Energy with Amin H. Nasser, President &amp; CEO, Saudi Aramco - #FII6 - Day 2",
+          "description": "\"Future Of Global Energy\" took place on Day 2 of the 6th Edition of FII with Amin H. Nasser, President and CEO, Saudi Aramco, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FII Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-27T04:23:28Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "uSF3ry8tKgNN5f4sLqFUTxW-_-E",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "JB7SIVLHJSH_XGxh0b7dhMG7AgA",
+        "id": "oeAzuvI2Tl0",
+        "snippet": {
+          "publishedAt": "2022-10-27T04:23:28Z",
+          "channelId": "UCXEQ3MCLUTyUv_Hk_XLyC6g",
+          "title": "Future Of Global Energy with Amin H. Nasser, President & CEO, Saudi Aramco - #FII6 - Day 2",
+          "description": "\"Future Of Global Energy\" took place on Day 2 of the 6th Edition of FII with  Amin H. Nasser, President and CEO, Saudi Aramco, and Daniel Yergin, Vice Chairman, S&P Global",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oeAzuvI2Tl0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FII Institute",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Future Of Global Energy with Amin H. Nasser, President & CEO, Saudi Aramco - #FII6 - Day 2",
+            "description": "\"Future Of Global Energy\" took place on Day 2 of the 6th Edition of FII with  Amin H. Nasser, President and CEO, Saudi Aramco, and Daniel Yergin, Vice Chairman, S&P Global"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT13M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17729",
+          "likeCount": "201",
+          "favoriteCount": "0",
+          "commentCount": "25"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

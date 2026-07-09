@@ -1,0 +1,23 @@
+{
+  "ceo": "Carlo Messina",
+  "query": "Carlo Messina (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "FDN2T7iUGsHYMfqB4KWOaLuLxxc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 33,
+      "resultsPerPage": 28
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "R2NfbakMbGRo-OCXemRwrMQbBTk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 28,
+      "resultsPerPage": 28
+    }
+  }
+}

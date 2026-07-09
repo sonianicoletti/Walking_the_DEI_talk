@@ -1,0 +1,22 @@
+{
+  "ceo": "Takeshi Sugiyama",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "5Phxez2adqB804IGeBb3bLtCPu8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 13
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "uVj-ZYgjz49KC0Vj5ND_eVyumhc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 13
+    }
+  }
+}

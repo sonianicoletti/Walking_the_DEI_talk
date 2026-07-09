@@ -1,0 +1,255 @@
+{
+  "ceo": "Albert Bourla",
+  "query": "Albert Bourla (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "W1N72WR8p1gU1JeSdVhFAN4ARy8",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 102,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JkmDfJkBaoiumNrO-d5Ylke0R-M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PfYlJBOn3Oo"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-01T17:22:43Z",
+          "channelId": "UCp9-Nl5BxUkSwJnW8fAz3DQ",
+          "title": "2022 CED Distinguished Leadership Awards: Albert Bourla",
+          "description": "Albert Bourla, the Chairman and CEO of Pfizer Inc., accepts the CED Distinguished Leadership Award. About the CED ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Committee for Economic Development",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-01T17:22:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EATFJ7wC0shCaXaSwLataas-4gY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R7fJeskMmMg"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-12T13:53:00Z",
+          "channelId": "UCuyR-TIDZhmIkCaVIBxE0Nw",
+          "title": "Klaus Schwab and Albert Bourla Admitted this at DAVOS 2022",
+          "description": "Klaus Schwab DAVOS 2022 Subscribe now with all notifications on for more Klaus Schwab, Davos Agenda and The Great ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Revealing World",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-12T13:53:00Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "43j1ck6ToVgDx1kKmV0wQ8FfljY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "cXDT6RU_4A5jFxBmfArrGMf6X64",
+        "id": "PfYlJBOn3Oo",
+        "snippet": {
+          "publishedAt": "2022-11-01T17:22:43Z",
+          "channelId": "UCp9-Nl5BxUkSwJnW8fAz3DQ",
+          "title": "2022 CED Distinguished Leadership Awards: Albert Bourla",
+          "description": "Albert Bourla, the Chairman and CEO of Pfizer Inc., accepts the CED Distinguished Leadership Award.\n\nAbout the CED Distinguished Leadership Awards:\nhttps://www.conference-board.org/events/CED-Distinguished-Leadership-Awards-Dinner\n\nFor more than a quarter century, the CED Distinguished Leadership Awards have been honoring business leaders and their companies who exemplify CED\u2019s mission by answering the call for corporate citizenship and demonstrating a strong commitment to public policy in the nation\u2019s interests.\n\nThe CED Annual Distinguished Leadership Awards Celebration pays special tribute to business leaders and their companies who have demonstrated exceptional leadership in very challenging times and have helped our nation and the communities where they operate navigate the many challenges before us, including: defeating the pandemic, ensuring an economic recovery that provides equal opportunity for all Americans building a more civil and just society and upholding a rules-based international order.\n\nThe Awards Celebration commemorates the legacy of CED\u2019s founders, America\u2019s leading CEOs who, during WWII, heeded the call to public service to guide the transition from a wartime economy to a prosperous peacetime economy. Today, CED is fulfilling its mission by working to help ensure the nation recovers from the current crises with an economy that provides equal opportunity for all Americans.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PfYlJBOn3Oo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Committee for Economic Development",
+          "tags": [
+            "albert bourla",
+            "DVM",
+            "awards",
+            "CED",
+            "the conference board"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2022 CED Distinguished Leadership Awards: Albert Bourla",
+            "description": "Albert Bourla, the Chairman and CEO of Pfizer Inc., accepts the CED Distinguished Leadership Award.\n\nAbout the CED Distinguished Leadership Awards:\nhttps://www.conference-board.org/events/CED-Distinguished-Leadership-Awards-Dinner\n\nFor more than a quarter century, the CED Distinguished Leadership Awards have been honoring business leaders and their companies who exemplify CED\u2019s mission by answering the call for corporate citizenship and demonstrating a strong commitment to public policy in the nation\u2019s interests.\n\nThe CED Annual Distinguished Leadership Awards Celebration pays special tribute to business leaders and their companies who have demonstrated exceptional leadership in very challenging times and have helped our nation and the communities where they operate navigate the many challenges before us, including: defeating the pandemic, ensuring an economic recovery that provides equal opportunity for all Americans building a more civil and just society and upholding a rules-based international order.\n\nThe Awards Celebration commemorates the legacy of CED\u2019s founders, America\u2019s leading CEOs who, during WWII, heeded the call to public service to guide the transition from a wartime economy to a prosperous peacetime economy. Today, CED is fulfilling its mission by working to help ensure the nation recovers from the current crises with an economy that provides equal opportunity for all Americans."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "224",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8GuFYuVR48NfldDmziKunSHBRnQ",
+        "id": "R7fJeskMmMg",
+        "snippet": {
+          "publishedAt": "2022-08-12T13:53:00Z",
+          "channelId": "UCuyR-TIDZhmIkCaVIBxE0Nw",
+          "title": "Klaus Schwab and Albert Bourla Admitted this at DAVOS 2022",
+          "description": "Klaus Schwab DAVOS 2022\n\n\ud83d\udd14 Subscribe now with all notifications on for more Klaus Schwab, Davos Agenda and The Great Reset\n\n How many of you are familiar with the names #klausschwab  and #AlbertBourla ? For those who don't know them, let me introduce them. Klaus Schwab is the #worldeconomicforum  's founder\nand the #WEF 's current CEO. During the #pandemic times, which #bigpharma company produced thelargest amount of vaccines? Yes, no one can forget that. It's #Pfizer. Albert Bourla is the sitting chairman and CEO of this American #pharmaceutical  company. He was made the CEO in 2019, just before the #covid crisis broke out. Because of the same reason, he got a lot of credit for facing the #pandemic situation brilliantly. \n\nNow, are you wondering why two people from completely different arenas are introduced together? Before that, let me ask you, are you aware\nof what happens during the WEF meetings in the Swiss city of #davos ?\nAs responsible social animals, we have the right to know about global economic trends; this is what the annual WEF meetings are meant for. Do you think the Davos meeting investigates the\n#truth  and brings it to the public? WEF also held #Davos2022, and we will discuss the same today. But more precisely, we are concentrating on the things Pfizer CEO and the WEF CEO himself admitted during the 2022 convention.\n\n\ud83d\udcfa Watch the entire video for more information!\n\n_________________________________________________________________\n\nAbout REVELATION\n\ud83c\udfa5 Videos about The Great Reset and Politics Revelations\n\ud83c\udfa8 Written, voiced and produced by Revelation\n\ud83d\udd14 Subscribe now for more Great Reset, Agenda 2030 and Awakening videos\n\nWatch More from REVELATION\n\ud83d\udfe2 PANDEMIC: https://youtube.com/playlist?list=PL9-xRKvQvFtV5fQki5eZfqZ9CfCqSIMny\n\ud83d\udfe0 THE GREAT RESET: https://youtube.com/playlist?list=PL9-xRKvQvFtWsC84Qe0ppj_l472FIyHLo\n\ud83d\udd34 WORLD ECONOMIC FORUM: https://youtube.com/playlist?list=PL9-xRKvQvFtXULTaNMIxfvSka7hFUb3Gs\n_____________________________________________________\n\n\ud83d\udcbc Business Inquiries and Contact\n\u2022 For business inquiries, copyright matters or other inquiries please contact us at: yt.revelation@gmail.com.\n\n\u2753 Copyright Questions\n\u2022 If you have any copyright questions or issues you can contact us at yt.revelation@gmail.com.\n\n\u26a0\ufe0f Copyright Disclaimers\n\u2022 We use images and content in accordance with the YouTube Fair Use copyright guidelines\n\u2022 Section 107 of the U.S. Copyright Act states: \u201cNotwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.\u201d \n\u2022 This video could contain certain copyrighted video clips, pictures, or photographs that were not specifically authorized to be used by the copyright holder(s), but which we believe in good faith are protected by federal law and the fair use doctrine for one or more of the reasons noted above.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/R7fJeskMmMg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Revealing World",
+          "tags": [
+            "the great reset",
+            "great reset",
+            "WEF",
+            "world economic forum",
+            "klaus schwab",
+            "davos",
+            "davos 2022",
+            "agenda 2030",
+            "you will own nothing",
+            "you will own nothing and be happy",
+            "cdc",
+            "fda",
+            "Russell Brand",
+            "russell brand politics",
+            "davos agenda",
+            "wef22",
+            "russell brand news",
+            "davos agenda 2022",
+            "politics",
+            "davos agenda 2021",
+            "russell brand revolution",
+            "worldeconomicforum",
+            "awakening",
+            "russell brand great reset",
+            "russell brand davos",
+            "albert bourla",
+            "albert bourla wef 2022",
+            "pfizer ceo albert bourla on electronic",
+            "pfizer"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Klaus Schwab and Albert Bourla Admitted this at DAVOS 2022",
+            "description": "Klaus Schwab DAVOS 2022\n\n\ud83d\udd14 Subscribe now with all notifications on for more Klaus Schwab, Davos Agenda and The Great Reset\n\n How many of you are familiar with the names #klausschwab  and #AlbertBourla ? For those who don't know them, let me introduce them. Klaus Schwab is the #worldeconomicforum  's founder\nand the #WEF 's current CEO. During the #pandemic times, which #bigpharma company produced thelargest amount of vaccines? Yes, no one can forget that. It's #Pfizer. Albert Bourla is the sitting chairman and CEO of this American #pharmaceutical  company. He was made the CEO in 2019, just before the #covid crisis broke out. Because of the same reason, he got a lot of credit for facing the #pandemic situation brilliantly. \n\nNow, are you wondering why two people from completely different arenas are introduced together? Before that, let me ask you, are you aware\nof what happens during the WEF meetings in the Swiss city of #davos ?\nAs responsible social animals, we have the right to know about global economic trends; this is what the annual WEF meetings are meant for. Do you think the Davos meeting investigates the\n#truth  and brings it to the public? WEF also held #Davos2022, and we will discuss the same today. But more precisely, we are concentrating on the things Pfizer CEO and the WEF CEO himself admitted during the 2022 convention.\n\n\ud83d\udcfa Watch the entire video for more information!\n\n_________________________________________________________________\n\nAbout REVELATION\n\ud83c\udfa5 Videos about The Great Reset and Politics Revelations\n\ud83c\udfa8 Written, voiced and produced by Revelation\n\ud83d\udd14 Subscribe now for more Great Reset, Agenda 2030 and Awakening videos\n\nWatch More from REVELATION\n\ud83d\udfe2 PANDEMIC: https://youtube.com/playlist?list=PL9-xRKvQvFtV5fQki5eZfqZ9CfCqSIMny\n\ud83d\udfe0 THE GREAT RESET: https://youtube.com/playlist?list=PL9-xRKvQvFtWsC84Qe0ppj_l472FIyHLo\n\ud83d\udd34 WORLD ECONOMIC FORUM: https://youtube.com/playlist?list=PL9-xRKvQvFtXULTaNMIxfvSka7hFUb3Gs\n_____________________________________________________\n\n\ud83d\udcbc Business Inquiries and Contact\n\u2022 For business inquiries, copyright matters or other inquiries please contact us at: yt.revelation@gmail.com.\n\n\u2753 Copyright Questions\n\u2022 If you have any copyright questions or issues you can contact us at yt.revelation@gmail.com.\n\n\u26a0\ufe0f Copyright Disclaimers\n\u2022 We use images and content in accordance with the YouTube Fair Use copyright guidelines\n\u2022 Section 107 of the U.S. Copyright Act states: \u201cNotwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.\u201d \n\u2022 This video could contain certain copyrighted video clips, pictures, or photographs that were not specifically authorized to be used by the copyright holder(s), but which we believe in good faith are protected by federal law and the fair use doctrine for one or more of the reasons noted above."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "156",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

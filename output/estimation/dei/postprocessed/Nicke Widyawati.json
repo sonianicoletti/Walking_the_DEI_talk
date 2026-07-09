@@ -1,0 +1,121 @@
+{
+  "ceo": "Nicke Widyawati",
+  "query": "Nicke Widyawati (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "3XshIcscdbinALXJHoz3dTrNGXo",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ok6VOCQYGEiT8jK8zbjYmlIpNrM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zbNDz3GlXwA"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-07T06:28:20Z",
+          "channelId": "UCVZ6cvYsezNG8V8yUBKmgGw",
+          "title": "NICKE WIDYAWATI: REFINERY PETROCHEMICAL PROSPEK BISNIS PERTAMINA MASA DEPAN",
+          "description": "Pertamina #EnergyToday #EnergyTodayID Produksi BBM akan dipindahkan ke petrochemical ketika demand BBM turun.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "THE ENERGY TODAY",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-07T06:28:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "b9nm4ym0Lue4ekyn7P65vNtvt5g",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "sM8FjY7PZgUlmFIH6D3mEuhCeqo",
+        "id": "zbNDz3GlXwA",
+        "snippet": {
+          "publishedAt": "2022-07-07T06:28:20Z",
+          "channelId": "UCVZ6cvYsezNG8V8yUBKmgGw",
+          "title": "NICKE WIDYAWATI: REFINERY PETROCHEMICAL PROSPEK BISNIS PERTAMINA MASA DEPAN",
+          "description": "#Pertamina   #EnergyToday   #EnergyTodayID\n\nProduksi BBM akan dipindahkan ke petrochemical ketika demand BBM turun. Meskipun saat ini permintaan BBM yang masih naik namun pertamina sudah melakukan persiapan produksi petrochemical ke kilang.\n\n@PTPertamina @bumn.indonesia \n---------------------------------------------------\nKeterangan:\nSeluruh isi video ini merupakan tanggung jawab Tim Energi Today. Konten dalam video ini diproduksi dan diedit oleh Tim Energi Today. \n\nMedia sosial:\nFacebook: https://www.facebook.com/pg/energidottoday/\nFacebook: https://www.facebook.com/energinesiaID/\nTwitter: https://twitter.com/energitodayID\nInstagram: https://www.instagram.com/energitoday/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zbNDz3GlXwA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "THE ENERGY TODAY",
+          "tags": [
+            "Energi",
+            "Berita Energi",
+            "Energi Today"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "id",
+          "localized": {
+            "title": "NICKE WIDYAWATI: REFINERY PETROCHEMICAL PROSPEK BISNIS PERTAMINA MASA DEPAN",
+            "description": "#Pertamina   #EnergyToday   #EnergyTodayID\n\nProduksi BBM akan dipindahkan ke petrochemical ketika demand BBM turun. Meskipun saat ini permintaan BBM yang masih naik namun pertamina sudah melakukan persiapan produksi petrochemical ke kilang.\n\n@PTPertamina @bumn.indonesia \n---------------------------------------------------\nKeterangan:\nSeluruh isi video ini merupakan tanggung jawab Tim Energi Today. Konten dalam video ini diproduksi dan diedit oleh Tim Energi Today. \n\nMedia sosial:\nFacebook: https://www.facebook.com/pg/energidottoday/\nFacebook: https://www.facebook.com/energinesiaID/\nTwitter: https://twitter.com/energitodayID\nInstagram: https://www.instagram.com/energitoday/"
+          },
+          "defaultAudioLanguage": "id"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3569",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

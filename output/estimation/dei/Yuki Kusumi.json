@@ -1,0 +1,568 @@
+{
+  "ceo": "Yuki Kusumi",
+  "query": "Yuki Kusumi (diversity OR inclusion OR equity OR DEI OR belonging OR LGBTQ OR inclusive OR social responsibility)",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "T6fhsMVM42K8Muy8aRJ4r0XR0pY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YdH6UkFyU4hnpbK4HvwMrg_DZkw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9vPRfyACjI4"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-04T21:00:10Z",
+          "channelId": "UCBO_c3C33UPezFG8aQLtMEQ",
+          "title": "WE&#39;RE NOT IN INABA ANYMORE - Persona 3: FES - 1",
+          "description": "Game: Persona 3 FES Author: Atlus Persona 3 FES, localized in the West as Shin Megami Tensei: Persona 3 FES, is an ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bunzi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-04T21:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TqgikNIroPuNZhcTJPs_vJZmQq4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VGKo_g5s2FQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-07T17:00:22Z",
+          "channelId": "UCkIKUR1na8uMjdrdZtiqYAg",
+          "title": "Yukari &quot;Camper&quot; Edition - Character Spotlight &amp; Guide - Princess Connect Re:Dive",
+          "description": "Yukari going camping? Well as long as she can spike her coffee I suppose she'll tag along. Actually, if there is a bit of the drink to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Weeb Lounge",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-07T17:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JYl_bPqif14bnzuMizL1suqeLjU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ER06TPUplzw"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-03T11:15:15Z",
+          "channelId": "UCdrpAa2V-mXK8Q5WN-05Zsw",
+          "title": "Rare Color Photos Showcase Japan\u2019s Last Samurai, 1860-1900",
+          "description": "Subscribe And Hit the Bell Icon if You Love Our Videos : https://www.youtube.com/channel/UCdrpAa2V-mXK8Q5WN-05Zsw The ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Time Machine",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-03T11:15:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UVUg_ePi2209wF5xtKSEH0M_s-Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nVn7Vu5Pfkk"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-11T09:57:03Z",
+          "channelId": "UC5Vj5JzCfxdc1Kt2OEcyb4A",
+          "title": "Dead or Alive 6 FX 6300 e GT 730 2GB DDR5 OVERCLOCK 800x450 Low 55 a 60 FPS",
+          "description": "Anime e Game Dead or Alive 6 GamePlay OVERCLOCK Configura\u00e7\u00e3o sendo usada Fx 6300 3.5Ghz at\u00e9 4.1Ghz ( 3 n\u00facleos e 6 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Makie Games",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-11T09:57:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ox8EuDFUYPC1bW7VbwAp7FCcubk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "95K2AmX-9bk"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-10T05:00:02Z",
+          "channelId": "UCkIKUR1na8uMjdrdZtiqYAg",
+          "title": "Shinobu &quot;Pirate&quot; Edition - Character Spotlight &amp; Guide - Princess Connect Re:Dive",
+          "description": "Shinobu and her Daddy are going on a seafaring adventure! But somehow I don't think they can even find a jar of dirt.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Weeb Lounge",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-10T05:00:02Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "-3_b_4i1pVSZ3g2b0zE99f143bQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "6OoYwf-L2JTv0y1GuvGo5CfS9mI",
+        "id": "9vPRfyACjI4",
+        "snippet": {
+          "publishedAt": "2022-11-04T21:00:10Z",
+          "channelId": "UCBO_c3C33UPezFG8aQLtMEQ",
+          "title": "WE'RE NOT IN INABA ANYMORE - Persona 3: FES - 1",
+          "description": "Game: Persona 3 FES\n\nAuthor: Atlus\n\nPersona 3 FES, localized in the West as Shin Megami Tensei: Persona 3 FES, is an enhanced rerelease of Persona 3 for the PlayStation 2. It contains an estimated 30 additional hours of gameplay over the original Persona 3, most of which comes in the form of an epilogue called The Answer, also known as Episode Aegis in the Japanese version. The game was rereleased as a downloadable game on the PSN for the PS3 in 2012, but only in North America and Europe.\n\nThe Journey is essentially a slightly-enhanced remake of the original Persona 3, while The Answer is an all-new epilogue that continues the story.\n\nThe term \"FES\" stems from the word \"festival,\" and is a common abbreviation in Japanese. \n\nSet in 2009, Persona 3 begins with the protagonist returning to the city of Tatsumi Port Island ten years after his parents died from an accident. He is introduced as a transfer student that has just moved into the Iwatodai Dormitory, but arrives late. A mysterious boy, calling himself Pharos, introduces himself to the protagonist and asks him to sign a contract that states he will accept full responsibility for his own actions.\n\nHe is quickly brought into SEES (Special Extracurricular Execution Squad), a club at Gekkoukan High School which disguises itself as a completely normal after school club, when his awareness of the Shadows and the Dark Hour is revealed. The Dark Hour is a secret hour which only a select few with the \"potential\" are aware of; the rest \"transmogrify\" into coffins. Shadows are also causing many people to become victims of Apathy Syndrome, a mysterious condition that puts them into a vegetative trance-like state in which they lose the will to live; victims are referred to as \"the Lost.\" \n\nThe protagonist discovers that he can summon multiple Personas into battle. After awakening to his Persona ability, the protagonist is transported to the Velvet Room, which its proprietor, Igor, says is a realm between \"dream and reality.\" Igor explains to him that his Persona ability is special: he is the only member of SEES capable of wielding multiple Personas in battle due to possessing the Wild Card. In-game, the Velvet Room is where the protagonist may fuse two or more Personas to create a new one. Igor also encourages the protagonist to meet people and form bonds with them, which are known as Social Links. According to Igor, the power of his Social Links will determine his potential in combat. \n\nWith the help of their Personas, SEES is able to explore a mysterious tower called Tartarus, which mysteriously manifests during the Dark Hour at Gekkoukan High School. They must also defeat Greater Shadows that appear every full moon and attack the city, believing that by killing all twelve of them, they will be able to end the appearance of the Dark Hour. SEES summons Personas using gun-shaped items called Evokers by shooting themselves in the head, an action reminiscent of suicide. \n\n---Bunzi's Social Media---\n\n\u25b7Watch More of My Uploads here: https://www.youtube.com/channel/UCBO_c3C33UPezFG8aQLtMEQ\n\u25b7Follow Bunzi on Twitter: https://twitter.com/Bunzi_YT\n\u25b7Check out my Twitch: https://www.twitch.tv/bunzitv\n\u25b7Consider donating if you're feeling generous: https://streamelements.com/bunzi/tip",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9vPRfyACjI4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bunzi",
+          "tags": [
+            "Bunzi",
+            "shin megami tensei: persona 3 fes",
+            "persona",
+            "persona 3 fes",
+            "atlus",
+            "let's play persona 3 fes",
+            "persona 3 fes walkthrough",
+            "persona 3 fes playthrough",
+            "persona 3 fes let's play",
+            "rpg",
+            "jrpg",
+            "persona 3",
+            "persona 3 the answer",
+            "shin megami tensei",
+            "tarturus",
+            "apathy syndrome",
+            "SEES",
+            "dark hour",
+            "persona 3 gameplay",
+            "persona 3 portable",
+            "persona 3 ost",
+            "persona 3 fes opening",
+            "persona 3 fes part 1",
+            "persona 3 fes episode 1",
+            "shin megami tensei persona",
+            "shin megami tensei persona 3 portable"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "WE'RE NOT IN INABA ANYMORE - Persona 3: FES - 1",
+            "description": "Game: Persona 3 FES\n\nAuthor: Atlus\n\nPersona 3 FES, localized in the West as Shin Megami Tensei: Persona 3 FES, is an enhanced rerelease of Persona 3 for the PlayStation 2. It contains an estimated 30 additional hours of gameplay over the original Persona 3, most of which comes in the form of an epilogue called The Answer, also known as Episode Aegis in the Japanese version. The game was rereleased as a downloadable game on the PSN for the PS3 in 2012, but only in North America and Europe.\n\nThe Journey is essentially a slightly-enhanced remake of the original Persona 3, while The Answer is an all-new epilogue that continues the story.\n\nThe term \"FES\" stems from the word \"festival,\" and is a common abbreviation in Japanese. \n\nSet in 2009, Persona 3 begins with the protagonist returning to the city of Tatsumi Port Island ten years after his parents died from an accident. He is introduced as a transfer student that has just moved into the Iwatodai Dormitory, but arrives late. A mysterious boy, calling himself Pharos, introduces himself to the protagonist and asks him to sign a contract that states he will accept full responsibility for his own actions.\n\nHe is quickly brought into SEES (Special Extracurricular Execution Squad), a club at Gekkoukan High School which disguises itself as a completely normal after school club, when his awareness of the Shadows and the Dark Hour is revealed. The Dark Hour is a secret hour which only a select few with the \"potential\" are aware of; the rest \"transmogrify\" into coffins. Shadows are also causing many people to become victims of Apathy Syndrome, a mysterious condition that puts them into a vegetative trance-like state in which they lose the will to live; victims are referred to as \"the Lost.\" \n\nThe protagonist discovers that he can summon multiple Personas into battle. After awakening to his Persona ability, the protagonist is transported to the Velvet Room, which its proprietor, Igor, says is a realm between \"dream and reality.\" Igor explains to him that his Persona ability is special: he is the only member of SEES capable of wielding multiple Personas in battle due to possessing the Wild Card. In-game, the Velvet Room is where the protagonist may fuse two or more Personas to create a new one. Igor also encourages the protagonist to meet people and form bonds with them, which are known as Social Links. According to Igor, the power of his Social Links will determine his potential in combat. \n\nWith the help of their Personas, SEES is able to explore a mysterious tower called Tartarus, which mysteriously manifests during the Dark Hour at Gekkoukan High School. They must also defeat Greater Shadows that appear every full moon and attack the city, believing that by killing all twelve of them, they will be able to end the appearance of the Dark Hour. SEES summons Personas using gun-shaped items called Evokers by shooting themselves in the head, an action reminiscent of suicide. \n\n---Bunzi's Social Media---\n\n\u25b7Watch More of My Uploads here: https://www.youtube.com/channel/UCBO_c3C33UPezFG8aQLtMEQ\n\u25b7Follow Bunzi on Twitter: https://twitter.com/Bunzi_YT\n\u25b7Check out my Twitch: https://www.twitch.tv/bunzitv\n\u25b7Consider donating if you're feeling generous: https://streamelements.com/bunzi/tip"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H34M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "211",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3MFsgvuZ5ToIuRV-Ff0Rs4AOy8E",
+        "id": "VGKo_g5s2FQ",
+        "snippet": {
+          "publishedAt": "2022-06-07T17:00:22Z",
+          "channelId": "UCkIKUR1na8uMjdrdZtiqYAg",
+          "title": "Yukari \"Camper\" Edition - Character Spotlight & Guide - Princess Connect Re:Dive",
+          "description": "Yukari going camping?  Well as long as she can spike her coffee I suppose she'll tag along.  Actually, if there is a bit of the drink to be hand, she'll probably go anywhere....\n\nChat about anime, ask gacha advice, weeb out - nerd out - geek out or just lounge!  For whatever reason I have a lot of odd knowledge about many topics, and from old businesses, a lot of experience with anime merch in general.\n\n//// Common games we Live Stream!!\n- Princess Connect Re:Dive\n- WarZone\n- Call of Duty / Black Ops / Cold War / Vanguard / Modern Warfare\n- Halo Infinite\n- Islands of Nyne ?\n- Many random Gacha games like Blue Archive, Genshin Impact, Revived Witch, and more!\n\n//// Donations keep us alive!  Cryptocoin is welcome!  Every single cent is appreciated!\nStandard Donations:  https://streamlabs.com/iqbgdivision1/tip\nCrypto Donations:  https://1upcoin.com/donate/youtube/theweeblounge\n\n//// Please Subscribe, Share, Like, or whatever button you have to help a small streamer out!\n** Youtube.com/theweeblounge\n*** https://Facebook.com/weeblounge\n**** https://Twitter.com/TheWeebLounge\n***** Discord: https://discord.gg/acn4VP8u7n\n*TWL Store Page:  https://theweeblounge.com\n\n#theweeblounge #twl #priconne",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VGKo_g5s2FQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Weeb Lounge",
+          "tags": [
+            "yukari",
+            "camper",
+            "Princess Connect",
+            "Princess Connect Re:Dive",
+            "Event Gacha",
+            "Battle Formation",
+            "gacha guide",
+            "strategy guide",
+            "what to expect",
+            "character guide",
+            "unique equipment",
+            "UE"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Yukari \"Camper\" Edition - Character Spotlight & Guide - Princess Connect Re:Dive",
+            "description": "Yukari going camping?  Well as long as she can spike her coffee I suppose she'll tag along.  Actually, if there is a bit of the drink to be hand, she'll probably go anywhere....\n\nChat about anime, ask gacha advice, weeb out - nerd out - geek out or just lounge!  For whatever reason I have a lot of odd knowledge about many topics, and from old businesses, a lot of experience with anime merch in general.\n\n//// Common games we Live Stream!!\n- Princess Connect Re:Dive\n- WarZone\n- Call of Duty / Black Ops / Cold War / Vanguard / Modern Warfare\n- Halo Infinite\n- Islands of Nyne ?\n- Many random Gacha games like Blue Archive, Genshin Impact, Revived Witch, and more!\n\n//// Donations keep us alive!  Cryptocoin is welcome!  Every single cent is appreciated!\nStandard Donations:  https://streamlabs.com/iqbgdivision1/tip\nCrypto Donations:  https://1upcoin.com/donate/youtube/theweeblounge\n\n//// Please Subscribe, Share, Like, or whatever button you have to help a small streamer out!\n** Youtube.com/theweeblounge\n*** https://Facebook.com/weeblounge\n**** https://Twitter.com/TheWeebLounge\n***** Discord: https://discord.gg/acn4VP8u7n\n*TWL Store Page:  https://theweeblounge.com\n\n#theweeblounge #twl #priconne"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3291",
+          "likeCount": "122",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "P45ZmMumzkyEwQNopxzgE_stE90",
+        "id": "ER06TPUplzw",
+        "snippet": {
+          "publishedAt": "2022-08-03T11:15:15Z",
+          "channelId": "UCdrpAa2V-mXK8Q5WN-05Zsw",
+          "title": "Rare Color Photos Showcase Japan\u2019s Last Samurai, 1860-1900",
+          "description": "Subscribe And Hit the Bell Icon if You Love Our Videos : https://www.youtube.com/channel/UCdrpAa2V-mXK8Q5WN-05Zsw\n\nThe samurai were a class of people who served the aristocracy with arms. The word first appeared in a document of the Heian period; before that time such people had been called mono-no-fu or bushi. Mono means \u2018thing\u2019 and fu means \u2018man\u2019; that is, men who deal with things \u2013 \u2018things\u2019 in this case meaning weapons.\n\nThe word bushi means \u201cman of arms.\u2019 Another document from the Heian period, listing various professions, includes bushi along with other specialists such as men of letters, doctors, singers, dancers, and others.\n\nAs numerous studies have pointed out, they were neither landowners nor armed farmers; from the beginning, they were professional warriors. They were the well-paid retainers of the daimyo (the great feudal landholders). They had high prestige and special privileges such as wearing two swords.\n\nSamurai warriors live by Bushido, a code of behavior that covers nearly every area of life. Bushido demanded that a samurai show absolute loyalty and obedience to his lord. He must gladly face danger, even death, in the performance of his duties.\n\nThe Hagakure, an eighteenth-century collection of writings on Bushido, proclaims, \u201cThe way of the Samurai is death\u2026 When a samurai is constantly prepared for death, he\u2026 may unerringly devote his life to the service of his lord.\u201d\n\n#oldworld #oldphotos #history #oldworldphotos #historicalplaces #america #american",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ER06TPUplzw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Time Machine",
+          "tags": [
+            "history",
+            "historic",
+            "photos",
+            "historybooks",
+            "rare history",
+            "historical photos",
+            "rare historical photos",
+            "rare"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Rare Color Photos Showcase Japan\u2019s Last Samurai, 1860-1900",
+            "description": "Subscribe And Hit the Bell Icon if You Love Our Videos : https://www.youtube.com/channel/UCdrpAa2V-mXK8Q5WN-05Zsw\n\nThe samurai were a class of people who served the aristocracy with arms. The word first appeared in a document of the Heian period; before that time such people had been called mono-no-fu or bushi. Mono means \u2018thing\u2019 and fu means \u2018man\u2019; that is, men who deal with things \u2013 \u2018things\u2019 in this case meaning weapons.\n\nThe word bushi means \u201cman of arms.\u2019 Another document from the Heian period, listing various professions, includes bushi along with other specialists such as men of letters, doctors, singers, dancers, and others.\n\nAs numerous studies have pointed out, they were neither landowners nor armed farmers; from the beginning, they were professional warriors. They were the well-paid retainers of the daimyo (the great feudal landholders). They had high prestige and special privileges such as wearing two swords.\n\nSamurai warriors live by Bushido, a code of behavior that covers nearly every area of life. Bushido demanded that a samurai show absolute loyalty and obedience to his lord. He must gladly face danger, even death, in the performance of his duties.\n\nThe Hagakure, an eighteenth-century collection of writings on Bushido, proclaims, \u201cThe way of the Samurai is death\u2026 When a samurai is constantly prepared for death, he\u2026 may unerringly devote his life to the service of his lord.\u201d\n\n#oldworld #oldphotos #history #oldworldphotos #historicalplaces #america #american"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "228",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2Xy-udx6YOyRP7S-SpNwjAbHRZM",
+        "id": "nVn7Vu5Pfkk",
+        "snippet": {
+          "publishedAt": "2022-02-11T09:57:03Z",
+          "channelId": "UC5Vj5JzCfxdc1Kt2OEcyb4A",
+          "title": "Dead or Alive 6 FX 6300 e GT 730 2GB DDR5 OVERCLOCK 800x450 Low 55 a 60 FPS",
+          "description": "Anime e Game\n\nDead or Alive 6  GamePlay OVERCLOCK\n\nConfigura\u00e7\u00e3o sendo usada \n\nFx 6300 3.5Ghz at\u00e9 4.1Ghz ( 3 n\u00facleos e 6 processadores l\u00f3gicos )\nPlaca M\u00e3e Asus M5 A97 OffBoard \n16 Gigas de Ram DDR3 1866Mhz  Dual Channel \nGeForce ASUS GT 730 2Gb DDR5 64Bits \nResolu\u00e7\u00e3o  720p  \n25 a 30 FPS \n\nLink para as pe\u00e7as : \n\nFX 6300 https://s.click.aliexpress.com/e/_ASPNU1 ou\n https://s.click.aliexpress.com/e/_9fbzAH\nPlaca M\u00e3e Asus M5 A97 https://s.click.aliexpress.com/e/_9veZrn\n\nLINK PARA PE\u00c7AS:\n\nMeu KIT GAMER que uso atualmente: https://s.click.aliexpress.com/e/_DluBYCT\n\nLink Diversos:\nKIT Machinista x99 Mr9a PRO: https://s.click.aliexpress.com/e/_DC1aXtH\nKIT MR9A PRO 16GB: https://s.click.aliexpress.com/e/_DkyfCwF\n\nCaso n\u00e3o queira nenhum desses KITS de cima, s\u00f3 escolher seu pr\u00f3prio Kit x99 aqui https://s.click.aliexpress.com/e/_DEaUQMJ\n\nMemorias Ram DDR4 ECC: https://s.click.aliexpress.com/e/_DeHFFbZ\nMemoria Ram Desktop: https://s.click.aliexpress.com/e/_DD0CEw3 \nMemorias Ram DDR3: https://s.click.aliexpress.com/e/_Arts21\n\nCaso n\u00e3o queira nenhum dessas memorias, s\u00f3 escolher sua pr\u00f3prio RAM aqui https://s.click.aliexpress.com/e/_DkfaVcF\n\nIntel Xeon E5 2666 V3: https://s.click.aliexpress.com/e/_DDRfKQx\nKits x99: https://s.click.aliexpress.com/e/_DdFmZAn\nRX 6500 XT: https://s.click.aliexpress.com/e/_AW78dn\n\nLINK PARA PLACAS DE V\u00cdDEOS:\n\n51 RISC OFFICIAL: https://s.click.aliexpress.com/e/_DC9iMWJ\nJIE SHUO: https://s.click.aliexpress.com/e/_DkCjoHN\nMINGZHOU OFFICIAL: https://s.click.aliexpress.com/e/_DFWpagx\nMLLSE OFFICIAL: https://s.click.aliexpress.com/e/_DB59p3H\n \nCooler Basic:  https://s.click.aliexpress.com/e/_9jHO5r \nSuper Cooler Box:  https://s.click.aliexpress.com/e/_ATZo6p\nSUPER AIR Cooler: https://s.click.aliexpress.com/e/_ADwcAv\nFonte 550w 80Plus Bronze: https://s.click.aliexpress.com/e/_DEE2uUX\nMouse Gamer Sailor Moon: https://s.click.aliexpress.com/e/_DlqVdcB Mouse Gamer que uso ADOROOO kkk muito show !! \n\nKIT X79: https://s.click.aliexpress.com/e/_DFRI5aX \n\n\ud83d\udc97Lembre de deixar seu LIKE \ud83d\udc4d que ajuda muito na divulga\u00e7\u00e3o aqui do canal.... \n\n\u2b50Minha Rede Social --- Instagram https://www.instagram.com/makie.games/\n\n#fx6300 #deadoralive6  #GT730 #Nvidia #Geforce #Sega #PlayStation #Microsoft #Nintendo #GT730DDR5 #MarieRose #DOA6 #OVERCLOCK\n\nCopyright \u00a9 2022 MakieGames\u00ae Games Ltda. Todos os direitos reservados.\n\nTodos Somos  Especiais \u2764",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nVn7Vu5Pfkk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Makie Games",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Dead or Alive 6 FX 6300 e GT 730 2GB DDR5 OVERCLOCK 800x450 Low 55 a 60 FPS",
+            "description": "Anime e Game\n\nDead or Alive 6  GamePlay OVERCLOCK\n\nConfigura\u00e7\u00e3o sendo usada \n\nFx 6300 3.5Ghz at\u00e9 4.1Ghz ( 3 n\u00facleos e 6 processadores l\u00f3gicos )\nPlaca M\u00e3e Asus M5 A97 OffBoard \n16 Gigas de Ram DDR3 1866Mhz  Dual Channel \nGeForce ASUS GT 730 2Gb DDR5 64Bits \nResolu\u00e7\u00e3o  720p  \n25 a 30 FPS \n\nLink para as pe\u00e7as : \n\nFX 6300 https://s.click.aliexpress.com/e/_ASPNU1 ou\n https://s.click.aliexpress.com/e/_9fbzAH\nPlaca M\u00e3e Asus M5 A97 https://s.click.aliexpress.com/e/_9veZrn\n\nLINK PARA PE\u00c7AS:\n\nMeu KIT GAMER que uso atualmente: https://s.click.aliexpress.com/e/_DluBYCT\n\nLink Diversos:\nKIT Machinista x99 Mr9a PRO: https://s.click.aliexpress.com/e/_DC1aXtH\nKIT MR9A PRO 16GB: https://s.click.aliexpress.com/e/_DkyfCwF\n\nCaso n\u00e3o queira nenhum desses KITS de cima, s\u00f3 escolher seu pr\u00f3prio Kit x99 aqui https://s.click.aliexpress.com/e/_DEaUQMJ\n\nMemorias Ram DDR4 ECC: https://s.click.aliexpress.com/e/_DeHFFbZ\nMemoria Ram Desktop: https://s.click.aliexpress.com/e/_DD0CEw3 \nMemorias Ram DDR3: https://s.click.aliexpress.com/e/_Arts21\n\nCaso n\u00e3o queira nenhum dessas memorias, s\u00f3 escolher sua pr\u00f3prio RAM aqui https://s.click.aliexpress.com/e/_DkfaVcF\n\nIntel Xeon E5 2666 V3: https://s.click.aliexpress.com/e/_DDRfKQx\nKits x99: https://s.click.aliexpress.com/e/_DdFmZAn\nRX 6500 XT: https://s.click.aliexpress.com/e/_AW78dn\n\nLINK PARA PLACAS DE V\u00cdDEOS:\n\n51 RISC OFFICIAL: https://s.click.aliexpress.com/e/_DC9iMWJ\nJIE SHUO: https://s.click.aliexpress.com/e/_DkCjoHN\nMINGZHOU OFFICIAL: https://s.click.aliexpress.com/e/_DFWpagx\nMLLSE OFFICIAL: https://s.click.aliexpress.com/e/_DB59p3H\n \nCooler Basic:  https://s.click.aliexpress.com/e/_9jHO5r \nSuper Cooler Box:  https://s.click.aliexpress.com/e/_ATZo6p\nSUPER AIR Cooler: https://s.click.aliexpress.com/e/_ADwcAv\nFonte 550w 80Plus Bronze: https://s.click.aliexpress.com/e/_DEE2uUX\nMouse Gamer Sailor Moon: https://s.click.aliexpress.com/e/_DlqVdcB Mouse Gamer que uso ADOROOO kkk muito show !! \n\nKIT X79: https://s.click.aliexpress.com/e/_DFRI5aX \n\n\ud83d\udc97Lembre de deixar seu LIKE \ud83d\udc4d que ajuda muito na divulga\u00e7\u00e3o aqui do canal.... \n\n\u2b50Minha Rede Social --- Instagram https://www.instagram.com/makie.games/\n\n#fx6300 #deadoralive6  #GT730 #Nvidia #Geforce #Sega #PlayStation #Microsoft #Nintendo #GT730DDR5 #MarieRose #DOA6 #OVERCLOCK\n\nCopyright \u00a9 2022 MakieGames\u00ae Games Ltda. Todos os direitos reservados.\n\nTodos Somos  Especiais \u2764"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "346",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zE-ZPz0MaF2IsyEWYDHIFh6qBBM",
+        "id": "95K2AmX-9bk",
+        "snippet": {
+          "publishedAt": "2022-05-10T05:00:02Z",
+          "channelId": "UCkIKUR1na8uMjdrdZtiqYAg",
+          "title": "Shinobu \"Pirate\" Edition - Character Spotlight & Guide - Princess Connect Re:Dive",
+          "description": "Shinobu and her Daddy are going on a seafaring adventure!  But somehow I don't think they can even find a jar of dirt....\n\nChat about anime, ask gacha advice, weeb out - nerd out - geek out or just lounge!  For whatever reason I have a lot of odd knowledge about many topics, and from old businesses, a lot of experience with anime merch in general.\n\n//// Common games we Live Stream!!\n- Princess Connect Re:Dive\n- WarZone\n- Call of Duty / Black Ops / Cold War / Vanguard / Modern Warfare\n- Halo Infinite\n- Islands of Nyne ?\n- Many random Gacha games like Blue Archive, Genshin Impact, Revived Witch, and more!\n\n//// Donations keep us alive!  Cryptocoin is welcome!  Every single cent is appreciated!\nStandard Donations:  https://streamlabs.com/iqbgdivision1/tip\nCrypto Donations:  https://1upcoin.com/donate/youtube/theweeblounge\n\n//// Please Subscribe, Share, Like, or whatever button you have to help a small streamer out!\n** Youtube.com/theweeblounge\n*** https://Facebook.com/weeblounge\n**** https://Twitter.com/TheWeebLounge\n***** Discord: https://discord.gg/acn4VP8u7n\n*TWL Store Page:  https://theweeblounge.com\n\n#theweeblounge #twl #priconne",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/95K2AmX-9bk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Weeb Lounge",
+          "tags": [
+            "shinobu",
+            "pirate",
+            "Princess Connect",
+            "Princess Connect Re:Dive",
+            "Event Gacha",
+            "Battle Formation",
+            "gacha guide",
+            "strategy guide",
+            "what to expect",
+            "character guide",
+            "unique equipment",
+            "UE"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shinobu \"Pirate\" Edition - Character Spotlight & Guide - Princess Connect Re:Dive",
+            "description": "Shinobu and her Daddy are going on a seafaring adventure!  But somehow I don't think they can even find a jar of dirt....\n\nChat about anime, ask gacha advice, weeb out - nerd out - geek out or just lounge!  For whatever reason I have a lot of odd knowledge about many topics, and from old businesses, a lot of experience with anime merch in general.\n\n//// Common games we Live Stream!!\n- Princess Connect Re:Dive\n- WarZone\n- Call of Duty / Black Ops / Cold War / Vanguard / Modern Warfare\n- Halo Infinite\n- Islands of Nyne ?\n- Many random Gacha games like Blue Archive, Genshin Impact, Revived Witch, and more!\n\n//// Donations keep us alive!  Cryptocoin is welcome!  Every single cent is appreciated!\nStandard Donations:  https://streamlabs.com/iqbgdivision1/tip\nCrypto Donations:  https://1upcoin.com/donate/youtube/theweeblounge\n\n//// Please Subscribe, Share, Like, or whatever button you have to help a small streamer out!\n** Youtube.com/theweeblounge\n*** https://Facebook.com/weeblounge\n**** https://Twitter.com/TheWeebLounge\n***** Discord: https://discord.gg/acn4VP8u7n\n*TWL Store Page:  https://theweeblounge.com\n\n#theweeblounge #twl #priconne"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2285",
+          "likeCount": "85",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}
