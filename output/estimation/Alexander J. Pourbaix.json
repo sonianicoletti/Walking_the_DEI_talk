@@ -1,0 +1,125 @@
+{
+  "ceo": "Alexander J. Pourbaix",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "tSnegJ_MmbQVCTCP8XzvHVdt2Sc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gps4GX3sYw7SvCVVqzkWKwmM_SU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "u27r9mjdcTI"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-04T18:04:39Z",
+          "channelId": "UCVBezTUsW-xcUsLGu0fggLg",
+          "title": "The Oil Sands Pathways to Net Zero Initiative",
+          "description": "Alex Pourbaix, President & CEO, Cenovus Energy Moderator: Amanda Lang, Anchor, BNN Bloomberg.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Public Policy Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-04T18:04:39Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "L3k6goMaJCDIRYPS9K7U0_nBiHg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "-zyq8BTXb-z_b4VAGyXpOS6fqrg",
+        "id": "u27r9mjdcTI",
+        "snippet": {
+          "publishedAt": "2022-05-04T18:04:39Z",
+          "channelId": "UCVBezTUsW-xcUsLGu0fggLg",
+          "title": "The Oil Sands Pathways to Net Zero Initiative",
+          "description": "Alex Pourbaix, President & CEO, Cenovus Energy\nModerator: Amanda Lang, Anchor, BNN Bloomberg",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u27r9mjdcTI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Public Policy Forum",
+          "tags": [
+            "policy",
+            "Public Policy Forum",
+            "PPF"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "The Oil Sands Pathways to Net Zero Initiative",
+            "description": "Alex Pourbaix, President & CEO, Cenovus Energy\nModerator: Amanda Lang, Anchor, BNN Bloomberg"
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT16M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1003",
+          "likeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

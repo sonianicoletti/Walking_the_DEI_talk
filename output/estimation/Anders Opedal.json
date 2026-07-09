@@ -1,0 +1,2201 @@
+{
+  "ceo": "Anders Opedal",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "9KEyZeo2_bKrMkHBTFfV_Bcmcqc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 18
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "StbxnHbjoQJ9NaH8sGNgoEo2P5o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q6LxaH5n9Zc"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-22T12:34:34Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Anders Opedal - CEO, Equinor",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-22T12:34:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fixkrwFnu-hFt9kqxMKNT9rG4vk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yblVV1bKI0A"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-09T10:03:42Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Focused on making sure we have strong operational performance: Equinor CEO",
+          "description": "Anders Opedal discusses the company's full-year earnings.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-09T10:03:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xc-e9YxD2iLqdNvlcFTamV1-kdg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5ZdKCHaNBzs"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-21T13:28:33Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 5 | Den st\u00f8rste testen",
+          "description": "Deltakerne f\u00e5r m\u00f8te konsernsjefen i Equinor, Anders Opedal \u2013 og stille ham de vanskelige sp\u00f8rsm\u00e5lene: Er det forsvarlig \u00e5 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-21T13:28:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hvGKUZ6WB9Xa4Nen9aSb1JGNl_g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OkT8S43reEA"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-15T12:04:03Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Den st\u00f8rste testen",
+          "description": "M\u00f8t fire unge som skal f\u00e5 utforske og utfordre Equinors omstillingsplan. P\u00e5 reisen skal de f\u00e5 l\u00e6re om ulike energil\u00f8sninger, sparre ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-15T12:04:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cuuamtKq3Z7d2aSFatJcbvA8rc8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7hg5XfvZ3ZQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-21T13:27:01Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 1 | Hvor n\u00e6rme stupet st\u00e5r vi egentlig?",
+          "description": "Vi blir kjent med Milan, Madeleine, Ailin og Mari. De bes\u00f8ker den smeltende Folgefonna og energimessen ONS i Stavanger.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-21T13:27:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bWYHrw0HRv5AtE_t4zSkrjvwQ84",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "U9yreMYuW74"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-26T13:40:08Z",
+          "channelId": "UC0YP3sfxKYPLL-TE_e9vrnA",
+          "title": "Energy Transition and Security: Meeting Demand in a Volatile World",
+          "description": "Energy Transition and Security: Meeting Demand in a Volatile World A global energy crisis caused by fuel shortages led to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Doha Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-26T13:40:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VCOfE7Ep1Q9iHTq5MTHuz-Lt2JQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "z2WjrRUVTxw"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-21T13:27:52Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 3 | Hvorfor drives ikke verden allerede av fornybar energi?",
+          "description": "G\u00e5r omstillingen fra fossilt til fornybart fort nok? Kan havet nok en gang v\u00e6re l\u00f8sningen? Og kan fornybar energi erstatte all olje ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-21T13:27:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_bw6mlr4AAuXmM1KnXui1VWBbKc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Py6XSXdd_nw"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-21T13:28:13Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 4 | Hva er egentlig greia med lavkarbonl\u00f8sninger?",
+          "description": "Samfunnet skal elektrifiseres, men i noen industrier er ikke dette mulig. Hvordan skal vi da klare \u00e5 n\u00e5 klimam\u00e5lene?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-21T13:28:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Zf59j-hxaJUnzoGU8oIpAMkOL1c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tdffkkpJzRo"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-18T08:06:49Z",
+          "channelId": "UCa7Xz4oHMke7m2xxq_K1lhg",
+          "title": "Half-Time Talk: &quot;We could see Global Oil Market Back in Balance by End of 2023&quot;",
+          "description": "Half-Time Talk: GI Exclusive Interview with Jarand Rystad, Chief Executive Officer, Rystad Energy Gather exclusive insights ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Gulf Intelligence",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-18T08:06:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iN45eVPJGMOwhjzAULfh3aF_ZX0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BRm_je3wdmU"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-22T12:35:02Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Inga Lindemark Solheim - Senioringeni\u00f8r Lavkarbonl\u00f8sninger, Equinor",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-22T12:35:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lqfDcMrlvfe_oyn5cH_TiC_UMz8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qhysz7E4wTY"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-18T08:28:07Z",
+          "channelId": "UCDCgvwyjJqZWYs6j0D2FF6g",
+          "title": "Over a Coffee with M\u00f3nica Andr\u00e9s Enr\u00edquez, Yara International ASA",
+          "description": "Over A Coffee with M\u00f3nica Andr\u00e9s Enr\u00edquez, Executive Vice President for Europe, at leading crop nutrition company, Yara ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Euractiv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-18T08:28:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ODlxyNLyahuM-97Y4eNgfQR22Mo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YTEftLtR_PM"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-01T12:04:28Z",
+          "channelId": "UCq18eeL7D9Vd8DhjMcLh9QQ",
+          "title": "BP Reports Huge Profit As Customers Face Even Higher Energy Bills | Good Morning Britain",
+          "description": "BP reveals huge profits of \u00a37.1 billion, more than double the amount it made in the same period last year. Subscribe now for more!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Good Morning Britain",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-01T12:04:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "19mSTlAyMzVM0EA5Q8H4XtgcCck",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "14FXbKeXSHc"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-22T12:34:47Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Jarand Rystad - CEO, Rystad Energy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Equinor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-22T12:34:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LCKfGv1Q6jfBDI2OXEdDdJABquA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yjwxbisMl5Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-25T07:49:35Z",
+          "channelId": "UCRc0pfv3WQJ5lbOq037Mwiw",
+          "title": "Fredrick St\u00f8a pitches Equinor Ventures",
+          "description": "Fredrick St\u00f8a pitches Equinor Ventures at Ecosummit Berlin 23-24 June 2022. Equinor Ventures is the corporate VC arm of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ecosummit",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-25T07:49:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AxABSz6WnusciF2Mu_RV5YMYwF0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "seKJZnYgz68"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-07T12:06:08Z",
+          "channelId": "UCw0n42VYubq1WYBMFQAtE4g",
+          "title": "3. Equinor - Tom Nightingale",
+          "description": "Equinor - Tom Nightingale - North East Stakeholder Manger - Developing the world's biggest offshore wind farm Dogger Bank ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Weardale Lithium",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-07T12:06:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NasvMMQ0ji6UZHxIYcxr8UB6lx0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "daN9O-xtTwo"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-01T18:08:17Z",
+          "channelId": "UCsAKRVq2n1vcHBzNu1ZikgA",
+          "title": "BP makes profits of \u00a37 billion as energy bills soar | 5 News",
+          "description": "Have you subscribed to 5 News?: http://bit.ly/5NewsSub \u25bb BP have made record profits of \u00a37 billion in the past three months.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "5 News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-01T18:08:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F69mj0RNKuDqJCIdEKegnWH4KGw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G3NOsURyBWM"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-04T10:02:42Z",
+          "channelId": "UCJHoP7Kbfe4cWdtuLVUFn-Q",
+          "title": "Samarkand",
+          "description": "Provided to YouTube by WM Norway Samarkand \u00b7 Dalakopa Tr\u00f8ndertr\u00f8kk Med Dalakopa \u2117 1998 Warner Music Norway ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dalakopa - Topic",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-04T10:02:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hqzmWOovUO2wa943kvamid7LGj4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E4yQjy0hL5s"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-08T23:25:24Z",
+          "channelId": "UC7HuAzJ5IVQBBso-D0VcBjQ",
+          "title": "Oportunidades no mercado de petr\u00f3leo e g\u00e1s: EQUINOR abre processo seletivo no RJ com vagas offshore.",
+          "description": "Oportunidades no mercado de petr\u00f3leo e g\u00e1s: Equinor abre processo seletivo no RJ com vagas offshore.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GeraldoCostavagasmotoristas",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-08T23:25:24Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "TY9ZYKmawyydh4muF1rNawd2Jw8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "II6LxWObePRiiCHND6KVRlLSXjs",
+        "id": "Q6LxaH5n9Zc",
+        "snippet": {
+          "publishedAt": "2022-11-22T12:34:34Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Anders Opedal - CEO, Equinor",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q6LxaH5n9Zc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Intervju | Anders Opedal - CEO, Equinor",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H33M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2480",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9x5t9unLY-8i0pqfz4FeEGex8C0",
+        "id": "yblVV1bKI0A",
+        "snippet": {
+          "publishedAt": "2022-02-09T10:03:42Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Focused on making sure we have strong operational performance: Equinor CEO",
+          "description": "Anders Opedal discusses the company\u2019s full-year earnings.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yblVV1bKI0A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "tags": [
+            "Squawk Box"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Focused on making sure we have strong operational performance: Equinor CEO",
+            "description": "Anders Opedal discusses the company\u2019s full-year earnings."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "466",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "axq_Im5yQRkdrFgAUcvRPnyCt84",
+        "id": "5ZdKCHaNBzs",
+        "snippet": {
+          "publishedAt": "2022-11-21T13:28:33Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 5 | Den st\u00f8rste testen",
+          "description": "Deltakerne f\u00e5r m\u00f8te konsernsjefen i Equinor, Anders Opedal \u2013 og stille ham de vanskelige sp\u00f8rsm\u00e5lene: Er det forsvarlig \u00e5 fortsette med olje og gass? Hvorfor g\u00e5r ikke omstillingen raskere? Og tror Opedal selv at vi n\u00e5r klimam\u00e5lene?\n\n00:00 Intro\n00:13 Vignett\n00:46 Deltakernes erfaringer fra Den St\u00f8rste Testen \n01:52 Konsernsjef i Equinor Anders Opedal \n02:40 Forventninger til m\u00f8tet \n02:57 M\u00f8tet med Opedal \n03:45 Opedal: Balansert overgang fra olje og gass  \n08:37 Opedal: Investeringer i fornybar \n09:48 Opedal: Equinors ambisjon om netto null i 2050  \n11:11 Opedal: hvorfor det gr\u00f8nne skiftet tar tid  \n16:39 Deltakerne om det viktigste de har l\u00e6rt og hva de selv kan gj\u00f8re \n17:52 Opedal: 1,5 gradersm\u00e5let \n18:53 Deltakernes erfaringer fra Den St\u00f8rste Testen",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5ZdKCHaNBzs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Episode 5 | Den st\u00f8rste testen",
+            "description": "Deltakerne f\u00e5r m\u00f8te konsernsjefen i Equinor, Anders Opedal \u2013 og stille ham de vanskelige sp\u00f8rsm\u00e5lene: Er det forsvarlig \u00e5 fortsette med olje og gass? Hvorfor g\u00e5r ikke omstillingen raskere? Og tror Opedal selv at vi n\u00e5r klimam\u00e5lene?\n\n00:00 Intro\n00:13 Vignett\n00:46 Deltakernes erfaringer fra Den St\u00f8rste Testen \n01:52 Konsernsjef i Equinor Anders Opedal \n02:40 Forventninger til m\u00f8tet \n02:57 M\u00f8tet med Opedal \n03:45 Opedal: Balansert overgang fra olje og gass  \n08:37 Opedal: Investeringer i fornybar \n09:48 Opedal: Equinors ambisjon om netto null i 2050  \n11:11 Opedal: hvorfor det gr\u00f8nne skiftet tar tid  \n16:39 Deltakerne om det viktigste de har l\u00e6rt og hva de selv kan gj\u00f8re \n17:52 Opedal: 1,5 gradersm\u00e5let \n18:53 Deltakernes erfaringer fra Den St\u00f8rste Testen"
+          },
+          "defaultAudioLanguage": "no"
+        },
+        "contentDetails": {
+          "duration": "PT21M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "255978",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sYsqCCacJxuoIi6C5Ftf2meknqE",
+        "id": "OkT8S43reEA",
+        "snippet": {
+          "publishedAt": "2022-11-15T12:04:03Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Den st\u00f8rste testen",
+          "description": "M\u00f8t fire unge som skal f\u00e5 utforske og utfordre Equinors omstillingsplan. P\u00e5 reisen skal de f\u00e5 l\u00e6re om ulike energil\u00f8sninger, sparre med fageksperter og til slutt m\u00f8te sjefen sj\u00f8l, Anders Opedal. Er planen god nok? Vil verden, Norge og Equinor v\u00e6re godt nok rustet til \u00e5 best\u00e5 \u201cDen st\u00f8rste testen\u201d?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OkT8S43reEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Den st\u00f8rste testen",
+            "description": "M\u00f8t fire unge som skal f\u00e5 utforske og utfordre Equinors omstillingsplan. P\u00e5 reisen skal de f\u00e5 l\u00e6re om ulike energil\u00f8sninger, sparre med fageksperter og til slutt m\u00f8te sjefen sj\u00f8l, Anders Opedal. Er planen god nok? Vil verden, Norge og Equinor v\u00e6re godt nok rustet til \u00e5 best\u00e5 \u201cDen st\u00f8rste testen\u201d?"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22381",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "W6tpyjF1uM2glsGlK8Apns3sXaY",
+        "id": "7hg5XfvZ3ZQ",
+        "snippet": {
+          "publishedAt": "2022-11-21T13:27:01Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 1 | Hvor n\u00e6rme stupet st\u00e5r vi egentlig?",
+          "description": "Vi blir kjent med Milan, Madeleine, Ailin og Mari. De bes\u00f8ker den smeltende Folgefonna og energimessen ONS i Stavanger. Hvordan skal verden takle klimakrisen, midt i en energikrise?\n\n00:00 Intro\n00:17 Vignett\n00:59 M\u00f8t Milan  \n01:32 M\u00f8t Mari  \n02:05 M\u00f8t Ailin  \n02:33 M\u00f8t Madeleine  \n03:05 Deltakernes forventninger til prosjektet \n03:29 Deltakerne p\u00e5 Folgefonna  \n05:42 Deltakernes refleksjoner fra Folgefonna  \n06:42 Deltakerne p\u00e5 ONS  \n07:28 Analytiker i Equinor: klimakrise og energikrise  \n09:05 OGCI-leder: omstilling i olje- og gasselskapene  \n11:26 Energi-analytiker: Det gr\u00f8nne skiftet \n13:40 Zero-leder: klimapolitikk og markedet  \n15:01 Deltakerne reflekterer rundt ekspertsamtalene",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7hg5XfvZ3ZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Episode 1 | Hvor n\u00e6rme stupet st\u00e5r vi egentlig?",
+            "description": "Vi blir kjent med Milan, Madeleine, Ailin og Mari. De bes\u00f8ker den smeltende Folgefonna og energimessen ONS i Stavanger. Hvordan skal verden takle klimakrisen, midt i en energikrise?\n\n00:00 Intro\n00:17 Vignett\n00:59 M\u00f8t Milan  \n01:32 M\u00f8t Mari  \n02:05 M\u00f8t Ailin  \n02:33 M\u00f8t Madeleine  \n03:05 Deltakernes forventninger til prosjektet \n03:29 Deltakerne p\u00e5 Folgefonna  \n05:42 Deltakernes refleksjoner fra Folgefonna  \n06:42 Deltakerne p\u00e5 ONS  \n07:28 Analytiker i Equinor: klimakrise og energikrise  \n09:05 OGCI-leder: omstilling i olje- og gasselskapene  \n11:26 Energi-analytiker: Det gr\u00f8nne skiftet \n13:40 Zero-leder: klimapolitikk og markedet  \n15:01 Deltakerne reflekterer rundt ekspertsamtalene"
+          },
+          "defaultAudioLanguage": "no"
+        },
+        "contentDetails": {
+          "duration": "PT16M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "342685",
+          "likeCount": "35",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eL7ty6_NWUMRurE-n-Wu_VzscfQ",
+        "id": "U9yreMYuW74",
+        "snippet": {
+          "publishedAt": "2022-03-26T13:40:08Z",
+          "channelId": "UC0YP3sfxKYPLL-TE_e9vrnA",
+          "title": "Energy Transition and Security: Meeting Demand in a Volatile World",
+          "description": "Energy Transition and Security: Meeting Demand in a Volatile World\n\nA global energy crisis caused by fuel shortages led to blackouts, energy shortages, and rising electricity costs across Europe and Asia this Winter. Politicians are calling for a transition to green energy alternatives and pledging to reduce dependence on oil and gas, but many countries lack the infrastructure to harness renewable energy for mass consumption in the near future. What role can producer nations play in ensuring the world has adequate and affordable supplies of fuel while countries work towards building the infrastructure needed for a transition to more renewable sources of energy? How can suppliers work together to regulate prices and manage supply, while protecting their interests in a world increasingly committed to green energy? \n\nH.E. Saad Sherida Al-Kaabi, Minister of State for Energy Affairs; President and CEO of QatarEnergy\nPatrick Pouyann\u00e9, Chairman And CEO, TotalEnergies\nAnders Opedal, President and CEO, Equinor\nHadley Gamble Reporter, CNBC (moderator)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U9yreMYuW74/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Doha Forum",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Energy Transition and Security: Meeting Demand in a Volatile World",
+            "description": "Energy Transition and Security: Meeting Demand in a Volatile World\n\nA global energy crisis caused by fuel shortages led to blackouts, energy shortages, and rising electricity costs across Europe and Asia this Winter. Politicians are calling for a transition to green energy alternatives and pledging to reduce dependence on oil and gas, but many countries lack the infrastructure to harness renewable energy for mass consumption in the near future. What role can producer nations play in ensuring the world has adequate and affordable supplies of fuel while countries work towards building the infrastructure needed for a transition to more renewable sources of energy? How can suppliers work together to regulate prices and manage supply, while protecting their interests in a world increasingly committed to green energy? \n\nH.E. Saad Sherida Al-Kaabi, Minister of State for Energy Affairs; President and CEO of QatarEnergy\nPatrick Pouyann\u00e9, Chairman And CEO, TotalEnergies\nAnders Opedal, President and CEO, Equinor\nHadley Gamble Reporter, CNBC (moderator)"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT43M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3425",
+          "likeCount": "30",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qrOKle_OY-Vo7r6lxi1IXTBg05Y",
+        "id": "z2WjrRUVTxw",
+        "snippet": {
+          "publishedAt": "2022-11-21T13:27:52Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 3 | Hvorfor drives ikke verden allerede av fornybar energi?",
+          "description": "G\u00e5r omstillingen fra fossilt til fornybart fort nok? Kan havet nok en gang v\u00e6re l\u00f8sningen? Og kan fornybar energi erstatte all olje og gass?\n\n00:00 Intro\n00:24 Vignett\n01:11 Deltakerne om fornybar energi \n02:02 Deltakerne p\u00e5 Gulen \n02:58 B\u00e6rekraftingeni\u00f8r i Equinor: flytende havvind \n04:38 Deltakernes reaksjoner fra Gulen \n04:59 Deltakerne p\u00e5 Havforskningsinstituttet  \n05:26 Forskningssjef: \u201cThe blue acceleration\u201d \n06:53 Deltakerne reflekterer rundt offshore-vind \n07:31 Equinor og fornybar energi \n11:46 Deltakerne p\u00e5 Northwind  \n11:57 Direkt\u00f8r i Northwind: fornybar energi og havvind  \n13:19 Deltakernes reaksjoner etter bes\u00f8ket p\u00e5 Northwind \n13:53 Direkt\u00f8r i Northwind: utslipp fra norsk sokkel",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/z2WjrRUVTxw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Episode 3 | Hvorfor drives ikke verden allerede av fornybar energi?",
+            "description": "G\u00e5r omstillingen fra fossilt til fornybart fort nok? Kan havet nok en gang v\u00e6re l\u00f8sningen? Og kan fornybar energi erstatte all olje og gass?\n\n00:00 Intro\n00:24 Vignett\n01:11 Deltakerne om fornybar energi \n02:02 Deltakerne p\u00e5 Gulen \n02:58 B\u00e6rekraftingeni\u00f8r i Equinor: flytende havvind \n04:38 Deltakernes reaksjoner fra Gulen \n04:59 Deltakerne p\u00e5 Havforskningsinstituttet  \n05:26 Forskningssjef: \u201cThe blue acceleration\u201d \n06:53 Deltakerne reflekterer rundt offshore-vind \n07:31 Equinor og fornybar energi \n11:46 Deltakerne p\u00e5 Northwind  \n11:57 Direkt\u00f8r i Northwind: fornybar energi og havvind  \n13:19 Deltakernes reaksjoner etter bes\u00f8ket p\u00e5 Northwind \n13:53 Direkt\u00f8r i Northwind: utslipp fra norsk sokkel"
+          },
+          "defaultAudioLanguage": "no"
+        },
+        "contentDetails": {
+          "duration": "PT14M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "280148",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "VdOdx0Er_rEn-B3Jo0nc5mZouKA",
+        "id": "Py6XSXdd_nw",
+        "snippet": {
+          "publishedAt": "2022-11-21T13:28:13Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Episode 4 | Hva er egentlig greia med lavkarbonl\u00f8sninger?",
+          "description": "Samfunnet skal elektrifiseres, men i noen industrier er ikke dette mulig. Hvordan skal vi da klare \u00e5 n\u00e5 klimam\u00e5lene? Hvilke l\u00f8sninger m\u00e5 p\u00e5 plass, og hvordan ligger vi an?\n\n00:00 Intro\n00:25 Vignett\n01:11 Deltakerne om karbonfangst- og lagring \n02:03 Deltakerne p\u00e5 Klemetsrud avfallsh\u00e5ndteringsanlegg \n02:52 Verdens f\u00f8rste karbonfangstanlegg p\u00e5 avfallsforbrenning \n05:06 Deltakernes reaksjoner fra Hafslund Oslo Celsio \n05:32 Deltakerne p\u00e5 Northern Lights \n06:36 Direkt\u00f8r i Equinor: transport og lagring av CO2 i Nordsj\u00f8en \n08:46 Deltakernes reaksjoner til Equinors arbeid med lagringsanlegg for CO2 \n09:16 Senioringeni\u00f8r i Equinor: dekarbonisering \n09:49 Deltakerne om hydrogen  \n10:16 Verdikjeden rundt gass til hydrogen \n11:17 Deltakerne reflekterer om ekspertsamtalene",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Py6XSXdd_nw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Episode 4 | Hva er egentlig greia med lavkarbonl\u00f8sninger?",
+            "description": "Samfunnet skal elektrifiseres, men i noen industrier er ikke dette mulig. Hvordan skal vi da klare \u00e5 n\u00e5 klimam\u00e5lene? Hvilke l\u00f8sninger m\u00e5 p\u00e5 plass, og hvordan ligger vi an?\n\n00:00 Intro\n00:25 Vignett\n01:11 Deltakerne om karbonfangst- og lagring \n02:03 Deltakerne p\u00e5 Klemetsrud avfallsh\u00e5ndteringsanlegg \n02:52 Verdens f\u00f8rste karbonfangstanlegg p\u00e5 avfallsforbrenning \n05:06 Deltakernes reaksjoner fra Hafslund Oslo Celsio \n05:32 Deltakerne p\u00e5 Northern Lights \n06:36 Direkt\u00f8r i Equinor: transport og lagring av CO2 i Nordsj\u00f8en \n08:46 Deltakernes reaksjoner til Equinors arbeid med lagringsanlegg for CO2 \n09:16 Senioringeni\u00f8r i Equinor: dekarbonisering \n09:49 Deltakerne om hydrogen  \n10:16 Verdikjeden rundt gass til hydrogen \n11:17 Deltakerne reflekterer om ekspertsamtalene"
+          },
+          "defaultAudioLanguage": "no"
+        },
+        "contentDetails": {
+          "duration": "PT12M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "229571",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eQqbU1GB4modJ1G2vt27DUBLhXc",
+        "id": "tdffkkpJzRo",
+        "snippet": {
+          "publishedAt": "2022-05-18T08:06:49Z",
+          "channelId": "UCa7Xz4oHMke7m2xxq_K1lhg",
+          "title": "Half-Time Talk: \"We could see Global Oil Market Back in Balance by End of 2023\"",
+          "description": "Half-Time Talk: GI Exclusive Interview with Jarand Rystad, Chief Executive Officer, Rystad Energy\n\nGather exclusive insights midway through the trading week to capture a deeper understanding of the structural dynamics affecting energy markets.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tdffkkpJzRo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gulf Intelligence",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Half-Time Talk: \"We could see Global Oil Market Back in Balance by End of 2023\"",
+            "description": "Half-Time Talk: GI Exclusive Interview with Jarand Rystad, Chief Executive Officer, Rystad Energy\n\nGather exclusive insights midway through the trading week to capture a deeper understanding of the structural dynamics affecting energy markets."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT27M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "95",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CZKey2L99tcB_ZH1CmqBjL1Z45c",
+        "id": "BRm_je3wdmU",
+        "snippet": {
+          "publishedAt": "2022-11-22T12:35:02Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Inga Lindemark Solheim - Senioringeni\u00f8r Lavkarbonl\u00f8sninger, Equinor",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BRm_je3wdmU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Intervju | Inga Lindemark Solheim - Senioringeni\u00f8r Lavkarbonl\u00f8sninger, Equinor",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT31M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "562",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AYabDvNvvAgfVUqSzuWSUxp72Hs",
+        "id": "qhysz7E4wTY",
+        "snippet": {
+          "publishedAt": "2022-07-18T08:28:07Z",
+          "channelId": "UCDCgvwyjJqZWYs6j0D2FF6g",
+          "title": "Over a Coffee with M\u00f3nica Andr\u00e9s Enr\u00edquez, Yara International ASA",
+          "description": "Over A Coffee with M\u00f3nica Andr\u00e9s Enr\u00edquez, Executive Vice President for Europe, at leading crop nutrition company, Yara International ASA.\n\nFor more EU news, visit our webpage: https://www.euractiv.com/\n\nFollow us on Social Media\nTwitter: https://twitter.com/EURACTIV\nFacebook: https://www.facebook.com/EURACTIV\nInstagram: https://www.instagram.com/euractiv/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qhysz7E4wTY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Euractiv",
+          "tags": [
+            "EURACTIV",
+            "News",
+            "EU",
+            "Europe",
+            "European Union"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Over a Coffee with M\u00f3nica Andr\u00e9s Enr\u00edquez, Yara International ASA",
+            "description": "Over A Coffee with M\u00f3nica Andr\u00e9s Enr\u00edquez, Executive Vice President for Europe, at leading crop nutrition company, Yara International ASA.\n\nFor more EU news, visit our webpage: https://www.euractiv.com/\n\nFollow us on Social Media\nTwitter: https://twitter.com/EURACTIV\nFacebook: https://www.facebook.com/EURACTIV\nInstagram: https://www.instagram.com/euractiv/"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT11M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4238",
+          "likeCount": "22",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D6bmH-Zwmc0Tuu0M_X19BusmisQ",
+        "id": "YTEftLtR_PM",
+        "snippet": {
+          "publishedAt": "2022-11-01T12:04:28Z",
+          "channelId": "UCq18eeL7D9Vd8DhjMcLh9QQ",
+          "title": "BP Reports Huge Profit As Customers Face Even Higher Energy Bills | Good Morning Britain",
+          "description": "BP reveals huge profits of \u00a37.1 billion, more than double the amount it made in the same period last year. \nSubscribe now for more! http://bit.ly/1NbomQa\n\nBroadcast on 01/11/22\n\nStream Good Morning Britain live, every weekday from 6am on the ITV Hub \ud83d\udcf2 http://daytimelink.itv.com/WatchGMBYT\nSubscribe now for more! http://bit.ly/1NbomQa\nLike, follow and subscribe to Good Morning Britain!\n\nThe Good Morning Britain YouTube channel delivers you the news that you\u2019re waking up to in the morning. From exclusive interviews with some of the biggest names in politics and showbiz to heartwarming human interest stories and unmissable watch again moments. \n\nJoin Susanna Reid, Ben Shephard, Kate Garraway, Charlotte Hawkins and Sean Fletcher every weekday on ITV from 6am until 9 every weekday!\n\nITV Hub: http://daytimelink.itv.com/WatchGMBYT\nWebsite: http://bit.ly/1GsZuha\nYouTube: http://bit.ly/1Ecy0g1\nFacebook: http://on.fb.me/1HEDRMb\nTwitter: http://bit.ly/1xdLqU3\nhttp://www.itv.com\n\n#GMB",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YTEftLtR_PM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Good Morning Britain",
+          "tags": [
+            "good morning britain",
+            "breakfast show",
+            "news",
+            "morning news",
+            "gmb",
+            "good morning britain interview",
+            "itv",
+            "susanna reid",
+            "Talk Shows - Topic"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "BP Reports Huge Profit As Customers Face Even Higher Energy Bills | Good Morning Britain",
+            "description": "BP reveals huge profits of \u00a37.1 billion, more than double the amount it made in the same period last year. \nSubscribe now for more! http://bit.ly/1NbomQa\n\nBroadcast on 01/11/22\n\nStream Good Morning Britain live, every weekday from 6am on the ITV Hub \ud83d\udcf2 http://daytimelink.itv.com/WatchGMBYT\nSubscribe now for more! http://bit.ly/1NbomQa\nLike, follow and subscribe to Good Morning Britain!\n\nThe Good Morning Britain YouTube channel delivers you the news that you\u2019re waking up to in the morning. From exclusive interviews with some of the biggest names in politics and showbiz to heartwarming human interest stories and unmissable watch again moments. \n\nJoin Susanna Reid, Ben Shephard, Kate Garraway, Charlotte Hawkins and Sean Fletcher every weekday on ITV from 6am until 9 every weekday!\n\nITV Hub: http://daytimelink.itv.com/WatchGMBYT\nWebsite: http://bit.ly/1GsZuha\nYouTube: http://bit.ly/1Ecy0g1\nFacebook: http://on.fb.me/1HEDRMb\nTwitter: http://bit.ly/1xdLqU3\nhttp://www.itv.com\n\n#GMB"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT4M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7027",
+          "likeCount": "77",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y3-AsjUwxse8Ts92P-giKTmaTnE",
+        "id": "14FXbKeXSHc",
+        "snippet": {
+          "publishedAt": "2022-11-22T12:34:47Z",
+          "channelId": "UCwyLglaZ7FUVAIZTBYvgC8w",
+          "title": "Intervju | Jarand Rystad - CEO, Rystad Energy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/14FXbKeXSHc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Equinor",
+          "tags": [
+            "equinor",
+            "energy",
+            "oil",
+            "gas",
+            "wind energy",
+            "solar",
+            "renewable energy",
+            "renewables",
+            "energy company",
+            "statoil",
+            "technology",
+            "innovation",
+            "olje",
+            "gass",
+            "solenergi",
+            "vindenergi",
+            "sol energi",
+            "vind energi",
+            "energi",
+            "vindturbin",
+            "oljeplattform",
+            "gassplattform",
+            "fornybar",
+            "fornybart",
+            "fornybar energi",
+            "teknologi",
+            "innovasjon"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "no",
+          "localized": {
+            "title": "Intervju | Jarand Rystad - CEO, Rystad Energy",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT48M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1458",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iTJrToNEL9B1KBSvEejA5fwWrJk",
+        "id": "yjwxbisMl5Q",
+        "snippet": {
+          "publishedAt": "2022-08-25T07:49:35Z",
+          "channelId": "UCRc0pfv3WQJ5lbOq037Mwiw",
+          "title": "Fredrick St\u00f8a pitches Equinor Ventures",
+          "description": "Fredrick St\u00f8a pitches Equinor Ventures at Ecosummit Berlin 23-24 June 2022. Equinor Ventures is the corporate VC arm of Equinor that invests globally in smart green startups that help Equinor transform into a smart green energy company. Let's meet again at Ecosummit Berlin 14-15 June 2023: https://ecosummit.net/berlin",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yjwxbisMl5Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ecosummit",
+          "tags": [
+            "Frederick St\u00f8a",
+            "Equinor Ventures",
+            "Smart Green Energy",
+            "Smart Green VC",
+            "Norway",
+            "Ecosummit Berlin 2022",
+            "Equinor",
+            "Corporate VC",
+            "Corporate Venturing"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fredrick St\u00f8a pitches Equinor Ventures",
+            "description": "Fredrick St\u00f8a pitches Equinor Ventures at Ecosummit Berlin 23-24 June 2022. Equinor Ventures is the corporate VC arm of Equinor that invests globally in smart green startups that help Equinor transform into a smart green energy company. Let's meet again at Ecosummit Berlin 14-15 June 2023: https://ecosummit.net/berlin"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "341",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UtvOBYx_wS2rNT3D-1EvTgEyomM",
+        "id": "seKJZnYgz68",
+        "snippet": {
+          "publishedAt": "2022-07-07T12:06:08Z",
+          "channelId": "UCw0n42VYubq1WYBMFQAtE4g",
+          "title": "3. Equinor - Tom Nightingale",
+          "description": "Equinor - Tom Nightingale - North East Stakeholder Manger - Developing the world\u2019s biggest offshore wind farm Dogger Bank - generating around 5% of the UK\u2019s electricity needs.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/seKJZnYgz68/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Weardale Lithium",
+          "tags": [
+            "NEFR",
+            "Weardalelithium",
+            "weardale",
+            "ev",
+            "electricvehicle",
+            "future",
+            "futureresources",
+            "eco",
+            "greenenergy",
+            "sustainable"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3. Equinor - Tom Nightingale",
+            "description": "Equinor - Tom Nightingale - North East Stakeholder Manger - Developing the world\u2019s biggest offshore wind farm Dogger Bank - generating around 5% of the UK\u2019s electricity needs."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT26M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "65",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kzl3mYzNzfHFEL6PQ5uhooTZfc8",
+        "id": "daN9O-xtTwo",
+        "snippet": {
+          "publishedAt": "2022-11-01T18:08:17Z",
+          "channelId": "UCsAKRVq2n1vcHBzNu1ZikgA",
+          "title": "BP makes profits of \u00a37 billion as energy bills soar | 5 News",
+          "description": "\u25ba Have you subscribed to 5 News?: http://bit.ly/5NewsSub \n\n\u25ba BP have made record profits of \u00a37 billion in the past three months. The profits mean they will be paying an extra \u00a3695 million in windfall taxes this year but there are calls for it to be much more. \n\nWith the cost-of-living crisis and the rising cost of fuel, the record profits have left a sour taste in some people's mouths who are struggling to make ends meet. \n \n\u25ba Follow 5 News on Twitter to keep up to date with the latest news - https://twitter.com/5_News\n\nMessage us on Facebook to share your opinion - https://www.facebook.com/c5News\n\nSee our latest pictures and videos on Instagram - https://www.instagram.com/c5news/\n\n\u25ba About 5 News: We bring you the stories that matter to you, from around the world and across the UK.\n\n\ud83c\udfa5 We post daily playlists with the biggest news of the day, interviews, special reports and investigations.\n\n\ud83d\udcfa Catch us on TV on Channel 5 every weekday 5-6pm\n\n\ud83d\udcf1 Get in touch with us on WhatsApp at +44 7555 500 501\n\n\ud83c\udfa7 Listen to \"How Did We Get Here? Explaining The News\" wherever you get your podcasts: https://podfollow.com/how-did-we-get-here-explaining-the-news\n\nOur flagship, hour-long programme at 5pm is watched on Channel 5 by up to a million viewers, with regular news updates throughout the day.\n\nITN changed the TV news landscape when it launched 5 News in 1997, producing Five News for nine years before winning the contract to supply news to Channel 5 again from 2012.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/daN9O-xtTwo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "5 News",
+          "tags": [
+            "Channel 5 News",
+            "5 News",
+            "Channel 5",
+            "News",
+            "Latest News",
+            "Breaking News",
+            "News Today",
+            "Live News",
+            "UK News",
+            "World News",
+            "Current Affairs",
+            "ITN",
+            "Channel 4 News",
+            "ITV News",
+            "BP",
+            "Fuel crisis",
+            "Alan Jenkins",
+            "Dan Walker"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BP makes profits of \u00a37 billion as energy bills soar | 5 News",
+            "description": "\u25ba Have you subscribed to 5 News?: http://bit.ly/5NewsSub \n\n\u25ba BP have made record profits of \u00a37 billion in the past three months. The profits mean they will be paying an extra \u00a3695 million in windfall taxes this year but there are calls for it to be much more. \n\nWith the cost-of-living crisis and the rising cost of fuel, the record profits have left a sour taste in some people's mouths who are struggling to make ends meet. \n \n\u25ba Follow 5 News on Twitter to keep up to date with the latest news - https://twitter.com/5_News\n\nMessage us on Facebook to share your opinion - https://www.facebook.com/c5News\n\nSee our latest pictures and videos on Instagram - https://www.instagram.com/c5news/\n\n\u25ba About 5 News: We bring you the stories that matter to you, from around the world and across the UK.\n\n\ud83c\udfa5 We post daily playlists with the biggest news of the day, interviews, special reports and investigations.\n\n\ud83d\udcfa Catch us on TV on Channel 5 every weekday 5-6pm\n\n\ud83d\udcf1 Get in touch with us on WhatsApp at +44 7555 500 501\n\n\ud83c\udfa7 Listen to \"How Did We Get Here? Explaining The News\" wherever you get your podcasts: https://podfollow.com/how-did-we-get-here-explaining-the-news\n\nOur flagship, hour-long programme at 5pm is watched on Channel 5 by up to a million viewers, with regular news updates throughout the day.\n\nITN changed the TV news landscape when it launched 5 News in 1997, producing Five News for nine years before winning the contract to supply news to Channel 5 again from 2012."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1252",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iRZhp8oUxE0Qed6HenatBjQUbyM",
+        "id": "G3NOsURyBWM",
+        "snippet": {
+          "publishedAt": "2022-01-04T10:02:42Z",
+          "channelId": "UCJHoP7Kbfe4cWdtuLVUFn-Q",
+          "title": "Samarkand",
+          "description": "Provided to YouTube by WM Norway\n\nSamarkand \u00b7 Dalakopa\n\nTr\u00f8ndertr\u00f8kk Med Dalakopa\n\n\u2117 1998 Warner Music Norway\n\nOrchestra: Dalakopa\nComposer: Oline Sofie Bakkom H\u00e4rdelin\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/G3NOsURyBWM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dalakopa - Topic",
+          "tags": [
+            "Dalakopa",
+            "Tr\u00f8ndertr\u00f8kk Med Dalakopa",
+            "Samarkand"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Samarkand",
+            "description": "Provided to YouTube by WM Norway\n\nSamarkand \u00b7 Dalakopa\n\nTr\u00f8ndertr\u00f8kk Med Dalakopa\n\n\u2117 1998 Warner Music Norway\n\nOrchestra: Dalakopa\nComposer: Oline Sofie Bakkom H\u00e4rdelin\n\nAuto-generated by YouTube."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "allowed": [
+              "AE",
+              "AR",
+              "AS",
+              "AT",
+              "AU",
+              "AW",
+              "AZ",
+              "BA",
+              "BD",
+              "BE",
+              "BG",
+              "BH",
+              "BM",
+              "BO",
+              "BR",
+              "BY",
+              "CA",
+              "CH",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "DO",
+              "DZ",
+              "EC",
+              "EE",
+              "EG",
+              "ES",
+              "FI",
+              "FR",
+              "GB",
+              "GE",
+              "GF",
+              "GH",
+              "GP",
+              "GR",
+              "GT",
+              "GU",
+              "HK",
+              "HN",
+              "HR",
+              "HU",
+              "ID",
+              "IE",
+              "IL",
+              "IN",
+              "IQ",
+              "IS",
+              "IT",
+              "JM",
+              "JO",
+              "JP",
+              "KE",
+              "KH",
+              "KR",
+              "KW",
+              "KY",
+              "KZ",
+              "LA",
+              "LB",
+              "LI",
+              "LK",
+              "LT",
+              "LU",
+              "LV",
+              "LY",
+              "MA",
+              "MK",
+              "MP",
+              "MQ",
+              "MT",
+              "MX",
+              "MY",
+              "NC",
+              "NG",
+              "NI",
+              "NL",
+              "NO",
+              "NP",
+              "NZ",
+              "OM",
+              "PA",
+              "PE",
+              "PF",
+              "PG",
+              "PH",
+              "PK",
+              "PL",
+              "PR",
+              "PT",
+              "PY",
+              "QA",
+              "RE",
+              "RO",
+              "RS",
+              "RU",
+              "SA",
+              "SE",
+              "SG",
+              "SI",
+              "SK",
+              "SN",
+              "SV",
+              "TC",
+              "TH",
+              "TN",
+              "TR",
+              "TW",
+              "TZ",
+              "UA",
+              "UG",
+              "US",
+              "UY",
+              "VE",
+              "VI",
+              "VN",
+              "YE",
+              "YT",
+              "ZA",
+              "ZW"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "471",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_ycXe-qEdnuNY0ov3SOyHHw87oM",
+        "id": "E4yQjy0hL5s",
+        "snippet": {
+          "publishedAt": "2022-02-08T23:25:24Z",
+          "channelId": "UC7HuAzJ5IVQBBso-D0VcBjQ",
+          "title": "Oportunidades no mercado de petr\u00f3leo e g\u00e1s: EQUINOR abre processo seletivo no RJ com vagas offshore.",
+          "description": "Oportunidades no mercado de petr\u00f3leo e g\u00e1s: Equinor abre processo seletivo no RJ com vagas offshore.\nhttps://youtu.be/E4yQjy0hL5s\n===============================\nOs interessados em ingressar na carreira de petr\u00f3leo e g\u00e1s devem se inscrever no site da companhia. Al\u00e9m das vagas para o RJ e das vagas offshore, jovens residentes no RJ tamb\u00e9m poder\u00e3o se inscrever no programa jovem aprendiz da Equinor.    \n===========================\nPara quem est\u00e1 buscando uma oportunidade no mercado de trabalho, mais especificamente na \u00e1rea de petr\u00f3leo e g\u00e1s, a petroleira norueguesa Equinor abriu esta semana um processo seletivo com diversas vagas offshore dispon\u00edveis no Brasil, abrangendo v\u00e1rias \u00e1reas. Com o cadastro para inscri\u00e7\u00e3o no processo seletivo j\u00e1 aberto no site da petroleira norueguesa, os interessados nas vagas de emprego offshore devem acessar a p\u00e1gina de carreiras. A Equinor est\u00e1 ofertando diversas oportunidades em v\u00e1rias \u00e1reas alocadas no escrit\u00f3rio da petroleira, no RJ. Tamb\u00e9m h\u00e1 vagas para engenheiros de diferentes especializa\u00e7\u00f5es, vagas para especialista e analista de compras, analista de integridade t\u00e9cnica, dentre outras oportunidades.  \n==============================\nLista de vagas de emprego abertas no Processo Seletivo da petroleira Equinor\nA Equinor fez uma listagem de vagas que est\u00e3o abertas dentro da companhia. Ao todo, s\u00e3o 16 \u00e1reas com vagas dispon\u00edveis, tanto para o RJ, quanto para vagas offshore. A inscri\u00e7\u00e3o no processo seletivo deve ser feito na p\u00e1gina de carreiras do site da Equinor.\n=============================================\n\nOs interessados em ingressar em uma carreira na \u00e1rea de petr\u00f3leo e g\u00e1s ter\u00e3o oportunidade de conquistar uma vaga nas seguintes \u00e1reas:\nAnalista de Compras;\nEspecialista de Compras;\nCoordena\u00e7\u00e3o de Fornecimento de Materiais Base;\nAnalista de Integridade T\u00e9cnica;\nEngenheiro S\u00eanior HVAC;\nEngenheiro(a) S\u00eanior de Projetos;\nAnalista de Controle de Projetos;\nEngenheiro(a) L\u00edder de Integridade;\nEngenheiro(a) Especialista de Guindastes;\nEngenheiro(a) Qu\u00edmico e de Processos;\nEngenheiro(a) S\u00eanior de Processos de Seguran\u00e7a;\nEngenheiro(a) S\u00eanior de Rota\u00e7\u00e3o de Equipamentos;\nEngenheiro(a) S\u00eanior de Integridade;\nEngenheiro(a) de Marine e Arquitetura Naval;\nEngenheiro(a) S\u00eanior de Automa\u00e7\u00e3o;\nEngenheiro(a) de Resposta de Emerg\u00eancia.\n=====================================\n*LINK DE ACESSO \u00c1 P\u00c1GINA DA EMPRESA EQUINOR:\nhttps://careers.peopleclick.eu.com/careerscp/client_statoil/external/en_US/search.do\n===========================================================================\n                                                                      BOA SORTE\n==============================================================================\nCONTATOS\n\ud83d\udcf8Instagram:\n\u27a4https://www.instagram.com/mazzollanav...\n\ud83c\udfacYouTube:\n\u27a4https://www.youtube.com/c/GeraldoCosta\n\ud83c\udfacEmail:\n\u27a4geraldocosta400@gmail.com\n=================\n#geraldocosta #vagasdeempregos #vagasdetrabalho #empregos #vagas \n#oportunidadesdetrabalho #concursosp\u00fablicos #concurso #vagadeemprego \n #processoseletivo #oportunidadedetrabalho #oportunidadedeemprego #Jovemaprendiz \n#primeiroemprego  #trabalho #emprego #canaldoemprego #procurandoemprego \n#vagasdeempregohoje #oportunidade  #oportunidadedeemprego  #chancedeemprego \n#curriculo #sitedeemprego #trabalhoremoto  #homeoffice #vagastrainee #riovagas #trainee\n#onshore #offshore #estagio #ofertadevagasdeemprego #bbb22 #bigbrotherbrasil #Vagasoffshore #vagasdeempregooffshore #vagasdeempregohoje #vagasdetrabalho #vagasdeemprego #vagadeemprego #olxemprego #olxvagasdeemprego #vagasdeemprego2022\n#jovemaprendiz #oportunidades  #vagaabertas #trainee #vagas #chancedeemprego #chancedetrabalho #trabalho #chancedeemprego #chancedetrabalho #ofertadeempregos #vagasabertas #socialarts  #desenvolvimentopessoal #empoderamentofeminino #donsandro  #vagasdeempregonoRiodejaneiro #riovagas #olxrj #empregosrj #wojak #motoristascarreteiros\n#oportunidadesabertas #atitudealfa #sejacetico #oqueeavida #jamilyvenceslau #gupy #motoristas #carreteiros #BRASIL #transportadoras #Bahia #Matogrosso #RiodeJaneiro #Riograndedosul #Destaque #bancodeempregos",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E4yQjy0hL5s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "GeraldoCostavagasmotoristas",
+          "tags": [
+            "petr\u00f3leo",
+            "offshore",
+            "economia",
+            "empregos",
+            "noticias",
+            "vagas de emprego",
+            "sbm offshore",
+            "trabalho embarcado",
+            "operador de produ\u00e7\u00e3o",
+            "como trabalhar embarcado",
+            "vagas offshore",
+            "como trabalhar embarcado sem experi\u00eancia",
+            "vagas sem experi\u00eancia",
+            "vaga em multinacional",
+            "matheus rangel",
+            "dicas offshore",
+            "ilha de ferro",
+            "vagas.com",
+            "vagas de emprego hoje",
+            "vagas de emprego 2022",
+            "emprego",
+            "vagas de emprego 2021",
+            "sem experi\u00eancia",
+            "como embarcar sem experiencia",
+            "embarcado",
+            "EQUINOR",
+            "VAGASDEEMPREGO2022",
+            "GERALDO COSTA"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Oportunidades no mercado de petr\u00f3leo e g\u00e1s: EQUINOR abre processo seletivo no RJ com vagas offshore.",
+            "description": "Oportunidades no mercado de petr\u00f3leo e g\u00e1s: Equinor abre processo seletivo no RJ com vagas offshore.\nhttps://youtu.be/E4yQjy0hL5s\n===============================\nOs interessados em ingressar na carreira de petr\u00f3leo e g\u00e1s devem se inscrever no site da companhia. Al\u00e9m das vagas para o RJ e das vagas offshore, jovens residentes no RJ tamb\u00e9m poder\u00e3o se inscrever no programa jovem aprendiz da Equinor.    \n===========================\nPara quem est\u00e1 buscando uma oportunidade no mercado de trabalho, mais especificamente na \u00e1rea de petr\u00f3leo e g\u00e1s, a petroleira norueguesa Equinor abriu esta semana um processo seletivo com diversas vagas offshore dispon\u00edveis no Brasil, abrangendo v\u00e1rias \u00e1reas. Com o cadastro para inscri\u00e7\u00e3o no processo seletivo j\u00e1 aberto no site da petroleira norueguesa, os interessados nas vagas de emprego offshore devem acessar a p\u00e1gina de carreiras. A Equinor est\u00e1 ofertando diversas oportunidades em v\u00e1rias \u00e1reas alocadas no escrit\u00f3rio da petroleira, no RJ. Tamb\u00e9m h\u00e1 vagas para engenheiros de diferentes especializa\u00e7\u00f5es, vagas para especialista e analista de compras, analista de integridade t\u00e9cnica, dentre outras oportunidades.  \n==============================\nLista de vagas de emprego abertas no Processo Seletivo da petroleira Equinor\nA Equinor fez uma listagem de vagas que est\u00e3o abertas dentro da companhia. Ao todo, s\u00e3o 16 \u00e1reas com vagas dispon\u00edveis, tanto para o RJ, quanto para vagas offshore. A inscri\u00e7\u00e3o no processo seletivo deve ser feito na p\u00e1gina de carreiras do site da Equinor.\n=============================================\n\nOs interessados em ingressar em uma carreira na \u00e1rea de petr\u00f3leo e g\u00e1s ter\u00e3o oportunidade de conquistar uma vaga nas seguintes \u00e1reas:\nAnalista de Compras;\nEspecialista de Compras;\nCoordena\u00e7\u00e3o de Fornecimento de Materiais Base;\nAnalista de Integridade T\u00e9cnica;\nEngenheiro S\u00eanior HVAC;\nEngenheiro(a) S\u00eanior de Projetos;\nAnalista de Controle de Projetos;\nEngenheiro(a) L\u00edder de Integridade;\nEngenheiro(a) Especialista de Guindastes;\nEngenheiro(a) Qu\u00edmico e de Processos;\nEngenheiro(a) S\u00eanior de Processos de Seguran\u00e7a;\nEngenheiro(a) S\u00eanior de Rota\u00e7\u00e3o de Equipamentos;\nEngenheiro(a) S\u00eanior de Integridade;\nEngenheiro(a) de Marine e Arquitetura Naval;\nEngenheiro(a) S\u00eanior de Automa\u00e7\u00e3o;\nEngenheiro(a) de Resposta de Emerg\u00eancia.\n=====================================\n*LINK DE ACESSO \u00c1 P\u00c1GINA DA EMPRESA EQUINOR:\nhttps://careers.peopleclick.eu.com/careerscp/client_statoil/external/en_US/search.do\n===========================================================================\n                                                                      BOA SORTE\n==============================================================================\nCONTATOS\n\ud83d\udcf8Instagram:\n\u27a4https://www.instagram.com/mazzollanav...\n\ud83c\udfacYouTube:\n\u27a4https://www.youtube.com/c/GeraldoCosta\n\ud83c\udfacEmail:\n\u27a4geraldocosta400@gmail.com\n=================\n#geraldocosta #vagasdeempregos #vagasdetrabalho #empregos #vagas \n#oportunidadesdetrabalho #concursosp\u00fablicos #concurso #vagadeemprego \n #processoseletivo #oportunidadedetrabalho #oportunidadedeemprego #Jovemaprendiz \n#primeiroemprego  #trabalho #emprego #canaldoemprego #procurandoemprego \n#vagasdeempregohoje #oportunidade  #oportunidadedeemprego  #chancedeemprego \n#curriculo #sitedeemprego #trabalhoremoto  #homeoffice #vagastrainee #riovagas #trainee\n#onshore #offshore #estagio #ofertadevagasdeemprego #bbb22 #bigbrotherbrasil #Vagasoffshore #vagasdeempregooffshore #vagasdeempregohoje #vagasdetrabalho #vagasdeemprego #vagadeemprego #olxemprego #olxvagasdeemprego #vagasdeemprego2022\n#jovemaprendiz #oportunidades  #vagaabertas #trainee #vagas #chancedeemprego #chancedetrabalho #trabalho #chancedeemprego #chancedetrabalho #ofertadeempregos #vagasabertas #socialarts  #desenvolvimentopessoal #empoderamentofeminino #donsandro  #vagasdeempregonoRiodejaneiro #riovagas #olxrj #empregosrj #wojak #motoristascarreteiros\n#oportunidadesabertas #atitudealfa #sejacetico #oqueeavida #jamilyvenceslau #gupy #motoristas #carreteiros #BRASIL #transportadoras #Bahia #Matogrosso #RiodeJaneiro #Riograndedosul #Destaque #bancodeempregos"
+          },
+          "defaultAudioLanguage": "pt"
+        },
+        "contentDetails": {
+          "duration": "PT3M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "189",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

@@ -1,0 +1,1249 @@
+{
+  "ceo": "Auttapol Rerkpiboon",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "PDZSoMk6P7OjDdjWM4FUs3pEqkc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 12
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SbTpOuM2q3WjYpO3M7ws280gw6Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R3ltDI3Hg3s"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T04:37:31Z",
+          "channelId": "UCxWXEKXTS4BHakIceTTq0-w",
+          "title": "Power for Impact : Creating the Better World | Thailand Next Move 2023",
+          "description": "\u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d : Power for Impact : Creating the Better World \u0e42\u0e14\u0e22 : \u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Money and Banking Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T04:37:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ry4gfnWv6JuClXwcsZpOVV5XkKs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gN15ya9kv4U"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-21T06:47:14Z",
+          "channelId": "UCcTiVmhW5zC6mn71vYbDvpQ",
+          "title": "\u201c50\u201d Masters EP.5 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14 CEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d",
+          "description": "EP.5 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14 CEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u201c50\u201d Masters \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e1e\u0e32\u0e04\u0e38\u0e13\u0e44\u0e1b\u0e1e\u0e1a\u0e01\u0e31\u0e1a 50 \u0e1c\u0e39\u0e49\u0e19\u0e33\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23 \u0e41\u0e25\u0e30 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "\u0e10\u0e32\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-21T06:47:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RBFv2wfpZBSBGVK2zhSHlpXjPsg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tUt_FBieoh4"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-23T08:15:01Z",
+          "channelId": "UCleN27jHlAY0AHvfutxegYQ",
+          "title": "\ud83c\uddf9\ud83c\udded CEO  Powering Life Auttapol Rerkpiboon  Beyond @ Auditorium PTT  2021",
+          "description": "GPSC #CHPP #\u0e1b\u0e15\u0e17 #SmartEnergy #BESS #PeertoPeerEnergyTrading #AI #HighDensityPolyethylene #VISTEC #\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e15\u0e17 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "\ud83c\uddf9\ud83c\udded Tsundoku",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-23T08:15:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rc_bMN1xuNob9UefkB8nGGtA2FQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Td2nh61zuPo"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-26T06:19:50Z",
+          "channelId": "UCkX-pfUSyZWlLllHCgLd9hg",
+          "title": "\u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c | Spot Perspective [25 \u0e18.\u0e04. 65]",
+          "description": "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2a\u0e40\u0e1b\u0e01\u0e17\u0e34\u0e1f\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e08\u0e30\u0e1e\u0e32\u0e1e\u0e39\u0e14\u0e04\u0e38\u0e22\u0e01\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e04\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e48\u0e27\u0e21\u0e07\u0e32\u0e19\u0e14\u0e49\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e2d\u0e22\u0e48\u0e32\u0e07 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) (\u0e1b\u0e15\u0e17.)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BLACK DOT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-26T06:19:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_3pScINBWDzYpFRG584-Db85dm0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AymLOsgsuf4"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-22T20:36:26Z",
+          "channelId": "UCwl5ZBzXrdg009lgOAeCr8A",
+          "title": "ptt ep 13 CEO \u0e1b\u0e15\u0e17  \u0e41\u0e2a\u0e14\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e1b\u0e23\u0e31\u0e1a\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e2a\u0e39\u0e49\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e43\u0e19\u0e07\u0e32\u0e19 FTI Expo 2022 edit",
+          "description": "\u0e2d\u0e2d\u0e01\u0e2d\u0e32\u0e01\u0e32\u0e28 \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 10 \u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21 2565.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MMM Magazine Onair",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-22T20:36:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hXNAEimBiKjQJPUajopFSCrtj18",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FS8CJruF2lY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T10:00:12Z",
+          "channelId": "UCaK16-K-sxamAHZtAirbMkA",
+          "title": "\u0e1b\u0e15\u0e17.\u0e41\u0e19\u0e30\u0e43\u0e0a\u0e49\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15 | NEXT STEP THAILAND 2023 \u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15",
+          "description": "\u0e40\u0e27\u0e17\u0e35\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32 NEXT STEP THAILAND 2023 \u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e08\u0e31\u0e14\u0e42\u0e14\u0e22\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19 \u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e19\u0e34\u0e27\u0e2a\u0e4c \u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19\u0e17\u0e35\u0e27\u0e35 \u0e41\u0e25\u0e30\u0e42\u0e1e\u0e2a\u0e15\u0e4c\u0e17\u0e39\u0e40\u0e14\u0e22\u0e4c \u0e19\u0e32\u0e22\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Spring News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T10:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D8vf2F2rE2bkLxeWx7E_GaF1kTg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "flm-ZX5QjsU"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-20T15:49:39Z",
+          "channelId": "UCj_GbyRqxpCpsU3okeANvlA",
+          "title": "\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25  \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e02\u0e2d\u0e40\u0e0a\u0e34\u0e0d\u0e23\u0e48\u0e27\u0e21\u0e23\u0e33\u0e25\u0e36\u0e01\u0e43\u0e19\u0e1e\u0e23\u0e30\u0e21\u0e2b\u0e32\u0e01\u0e23\u0e38\u0e13\u0e32\u0e18\u0e34\u0e04\u0e38\u0e13\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e07\u0e04\u0e4c\u0e1e\u0e23\u0e30\u0e1b\u0e34\u0e22\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a : \u0e1b\u0e34\u0e22\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a\u0e32\u0e19\u0e38\u0e2a\u0e23\u0e13\u0e4c 2565",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chula Alumni",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-20T15:49:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "byyq-6ZMdRyOYXVMmNvg-I1gbqs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EPs13aDYe_I"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T11:00:08Z",
+          "channelId": "UCkX-pfUSyZWlLllHCgLd9hg",
+          "title": "Cutdown I \u0e21\u0e32\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07PTT",
+          "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e1a\u0e17\u0e1a\u0e32\u0e17\u0e2b\u0e25\u0e31\u0e01\u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. (PTT) \u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e17\u0e33\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e01\u0e34\u0e14\u0e01\u0e32\u0e23\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08\u0e41\u0e25\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e17\u0e35\u0e48\u0e14\u0e35 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BLACK DOT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T11:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jm3lBjle9hUXYYkLVgeQJER8jI0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7Y4rZSO_fD4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-21T12:00:04Z",
+          "channelId": "UCe9BLHSsYQy0IyFizx1wzVg",
+          "title": "\u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 Net Zero \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19",
+          "description": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e04\u0e33\u0e27\u0e48\u0e32 Net Zero \u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e33\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c \u0e2b\u0e23\u0e37\u0e2d\u0e07\u0e32\u0e19\u0e14\u0e49\u0e32\u0e19 CSR \u0e02\u0e2d\u0e07\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e43\u0e14\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GMlive Online",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-21T12:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UvjxYozVah1IFqDwRzB4lpTb-Z0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KCDzefyTisI"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-07T04:00:30Z",
+          "channelId": "UCNtWVKUkjTvO8bt5XOxAoKw",
+          "title": "\u0e2d.\u0e0a\u0e31\u0e0a\u0e0a\u0e32\u0e15\u0e34 \u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c \u0e41\u0e25\u0e30 \u0e19\u0e32\u0e22\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1c\u0e39\u0e49\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23 \u0e1b\u0e15\u0e17. \u0e43\u0e2b\u0e49\u0e2a\u0e31\u0e21\u0e20\u0e32\u0e29\u0e13\u0e4c\u0e2a\u0e37\u0e48\u0e2d #virtualrun #\u0e0a\u0e31\u0e0a\u0e0a\u0e32\u0e15\u0e34",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "theREPUBLIC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-07T04:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aSTnyeYYdJz0pBySkJ38oRDRsuM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-Ulaui7Yi7Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-24T12:00:00Z",
+          "channelId": "UCe9BLHSsYQy0IyFizx1wzVg",
+          "title": "GM Talk : \u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 &quot;Net Zero&quot; \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19",
+          "description": "\u0e40\u0e21\u0e37\u0e48\u0e2d '\u0e1b\u0e15\u0e17.' \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e22\u0e31\u0e01\u0e29\u0e4c\u0e43\u0e2b\u0e0d\u0e48 \u0e40\u0e2a\u0e32\u0e2b\u0e25\u0e31\u0e01\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e17\u0e22 \u0e44\u0e14\u0e49\u0e02\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e19\u0e42\u0e22\u0e1a\u0e32\u0e22\u0e41\u0e25\u0e30\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e01\u0e49\u0e32\u0e27\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48 'Net Zero' ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GMlive Online",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-24T12:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sCBU_NkVNmpLHtROYyGtSjpYFek",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "epGJgbKtzXk"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-22T08:43:39Z",
+          "channelId": "UCdvE5Qsi8QFlz9uGRDRSz8w",
+          "title": "Conquer The Unknown_\u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c",
+          "description": "\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c \u0e08\u0e32\u0e01 \u0e1c\u0e39\u0e49\u0e19\u0e33 \u0e17\u0e31\u0e49\u0e07 20 \u0e17\u0e48\u0e32\u0e19 \u0e17\u0e35\u0e48\u0e08\u0e30\u0e21\u0e32\u0e1e\u0e39\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u2013 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22 \u2013 \u0e42\u0e2d\u0e01\u0e32\u0e2a \u2013 \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e31\u0e1a\u0e15\u0e31\u0e27 \u0e43\u0e19\u0e42\u0e25\u0e01\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e22\u0e32\u0e01\u0e08\u0e30\u0e04\u0e32\u0e14\u0e40\u0e14\u0e32 \u0e01\u0e31\u0e1a Sessions ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MAT Society",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-22T08:43:39Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "nqmcJF_gP6ggRbnRZGoVpMPLC14",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "N-EMNDh8m9g2XQlPOd-n_uSSJ3Q",
+        "id": "R3ltDI3Hg3s",
+        "snippet": {
+          "publishedAt": "2022-12-23T04:37:31Z",
+          "channelId": "UCxWXEKXTS4BHakIceTTq0-w",
+          "title": "Power for Impact : Creating the Better World | Thailand Next Move 2023",
+          "description": "\ud83d\udd38 \u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d : Power for Impact : Creating the Better World \n\ud83d\udccd \u0e42\u0e14\u0e22 : \u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19)\n\n\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32\u0e40\u0e15\u0e47\u0e21\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a...\nPART 1/2 \ud83d\udc49 https://youtu.be/LCIRPGeQA3A\nPART 2/2 \ud83d\udc49 https://youtu.be/muJmHjbxrBY\n\n#Power #\u0e1b\u0e15\u0e17 #\u0e25\u0e07\u0e17\u0e38\u0e19 #ThailandNextMove2023 #\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c #\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32 #VirtualSeminar #\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23 #moneyandbanking #MoneyandBankingChannel\n\n\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e42\u0e06\u0e29\u0e13\u0e32 : \ud83d\udce9 tvkanngern@gmail.com\nLINE : @markettoday",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/R3ltDI3Hg3s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Money and Banking Channel",
+          "tags": [
+            "\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e17\u0e35\u0e27\u0e35",
+            "\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19",
+            "\u0e01\u0e32\u0e23\u0e25\u0e07\u0e17\u0e38\u0e19",
+            "\u0e40\u0e25\u0e48\u0e19\u0e2b\u0e38\u0e49\u0e19",
+            "\u0e2b\u0e38\u0e49\u0e19",
+            "\u0e2b\u0e38\u0e49\u0e19\u0e44\u0e17\u0e22",
+            "\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23",
+            "\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e02\u0e48\u0e32\u0e27",
+            "MoneyandBankingTV",
+            "\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23",
+            "MoneyExpo",
+            "MoneyMorning",
+            "MoneyDaily",
+            "MoneyDelivery",
+            "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08",
+            "\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08\u0e44\u0e17\u0e22",
+            "\u0e15\u0e25\u0e32\u0e14\u0e2b\u0e38\u0e49\u0e19",
+            "\u0e02\u0e48\u0e32\u0e27\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+            "\u0e40\u0e17\u0e04\u0e19\u0e34\u0e04\u0e17\u0e33\u0e01\u0e33\u0e44\u0e23",
+            "\u0e2b\u0e38\u0e49\u0e19\u0e1b\u0e31\u0e19\u0e1c\u0e25",
+            "Money and Banking Channel"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "Power for Impact : Creating the Better World | Thailand Next Move 2023",
+            "description": "\ud83d\udd38 \u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d : Power for Impact : Creating the Better World \n\ud83d\udccd \u0e42\u0e14\u0e22 : \u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19)\n\n\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32\u0e40\u0e15\u0e47\u0e21\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a...\nPART 1/2 \ud83d\udc49 https://youtu.be/LCIRPGeQA3A\nPART 2/2 \ud83d\udc49 https://youtu.be/muJmHjbxrBY\n\n#Power #\u0e1b\u0e15\u0e17 #\u0e25\u0e07\u0e17\u0e38\u0e19 #ThailandNextMove2023 #\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c #\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32 #VirtualSeminar #\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23 #moneyandbanking #MoneyandBankingChannel\n\n\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e42\u0e06\u0e29\u0e13\u0e32 : \ud83d\udce9 tvkanngern@gmail.com\nLINE : @markettoday"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT35M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "235",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aNRmFmv1vounMp6zFSEE62oxzg0",
+        "id": "gN15ya9kv4U",
+        "snippet": {
+          "publishedAt": "2022-01-21T06:47:14Z",
+          "channelId": "UCcTiVmhW5zC6mn71vYbDvpQ",
+          "title": "\u201c50\u201d Masters EP.5 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14 CEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d",
+          "description": "EP.5 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14 CEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d\n\n\u201c50\u201d Masters \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e1e\u0e32\u0e04\u0e38\u0e13\u0e44\u0e1b\u0e1e\u0e1a\u0e01\u0e31\u0e1a 50 \u0e1c\u0e39\u0e49\u0e19\u0e33\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23 \u0e41\u0e25\u0e30 \u0e1a\u0e38\u0e04\u0e04\u0e25\u0e15\u0e49\u0e19\u0e41\u0e1a\u0e1a\u0e02\u0e2d\u0e07\u0e44\u0e17\u0e22 \u0e1a\u0e2d\u0e01\u0e40\u0e25\u0e48\u0e32\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e1c\u0e48\u0e32\u0e19\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c \u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e01\u0e49\u0e32\u0e27\u0e02\u0e49\u0e32\u0e21\u0e1c\u0e48\u0e32\u0e19\u0e27\u0e34\u0e01\u0e24\u0e15\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\n\nCEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \u0e02\u0e36\u0e49\u0e19\u0e14\u0e33\u0e23\u0e07\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07\u0e1a\u0e19\u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e43\u0e19\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14-19  \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1e\u0e25\u0e34\u0e01\u0e1f\u0e37\u0e49\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e43\u0e2b\u0e49\u0e40\u0e14\u0e34\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32\u0e2b\u0e21\u0e32\u0e22 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e41\u0e19\u0e27\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 \u0e41\u0e25\u0e30 \u0e27\u0e34\u0e16\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e02\u0e2d\u0e07\u0e04\u0e19\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e14\u0e49\u0e27\u0e22\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15\n\n\n_____________________________\n\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e02\u0e48\u0e32\u0e27\u0e44\u0e14\u0e49\u0e15\u0e32\u0e21\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e2d\u0e37\u0e48\u0e19\u0e46 \u0e17\u0e35\u0e19\u0e35\u0e48\n\nwebsite: https://www.thansettakij.com\nfacebook : https://www.facebook.com/thansettakij\ntwitter : https://twitter.com/Thansettakij\nLine : https://lin.ee/AFtZiwI\nYoutube Official : https://www.youtube.com/channel/UCcTiVmhW5zC6mn71vYbDvpQ\nInstagram : https://www.instagram.com/thansettakij_official/\nTIKTOK : https://www.tiktok.com/@thansettakij\nblockdit : https://www.blockdit.com/thansettakij\n\n\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e42\u0e06\u0e29\u0e13\u0e32\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 02-338-3751\nthansettakij.nm@gmail.com\n_____________________________\n#thansettakij #\u0e10\u0e32\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 #Shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gN15ya9kv4U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "\u0e10\u0e32\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08",
+          "tags": [
+            "\u0e10\u0e32\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08",
+            "\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19",
+            "\u0e01\u0e32\u0e23\u0e25\u0e07\u0e17\u0e38\u0e19",
+            "\u0e2b\u0e38\u0e49\u0e19",
+            "\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19",
+            "\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e1e\u0e34\u0e21\u0e1e\u0e4c",
+            "\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08",
+            "thansettakij",
+            "\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07",
+            "\u0e21\u0e4a\u0e2d\u0e1a",
+            "\u0e21\u0e47\u0e2d\u0e1a",
+            "\u0e40\u0e22\u0e32\u0e27\u0e0a\u0e19",
+            "\u0e1b\u0e25\u0e14\u0e41\u0e2d\u0e01",
+            "\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e25",
+            "\u0e15\u0e33\u0e23\u0e27\u0e08",
+            "\u0e1b\u0e23\u0e31\u0e1a\u0e04\u0e23\u0e21.",
+            "\u0e40\u0e22\u0e35\u0e48\u0e22\u0e27\u0e22\u0e32",
+            "\u0e42\u0e04\u0e27\u0e34\u0e1419",
+            "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+            "\u0e21\u0e32\u0e40\u0e40\u0e23\u0e07",
+            "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23",
+            "THANVIRAL",
+            "covid19"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\u201c50\u201d Masters EP.5 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14 CEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d",
+            "description": "EP.5 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14 CEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d\n\n\u201c50\u201d Masters \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e08\u0e30\u0e1e\u0e32\u0e04\u0e38\u0e13\u0e44\u0e1b\u0e1e\u0e1a\u0e01\u0e31\u0e1a 50 \u0e1c\u0e39\u0e49\u0e19\u0e33\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23 \u0e41\u0e25\u0e30 \u0e1a\u0e38\u0e04\u0e04\u0e25\u0e15\u0e49\u0e19\u0e41\u0e1a\u0e1a\u0e02\u0e2d\u0e07\u0e44\u0e17\u0e22 \u0e1a\u0e2d\u0e01\u0e40\u0e25\u0e48\u0e32\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e1c\u0e48\u0e32\u0e19\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c \u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e01\u0e49\u0e32\u0e27\u0e02\u0e49\u0e32\u0e21\u0e1c\u0e48\u0e32\u0e19\u0e27\u0e34\u0e01\u0e24\u0e15\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\n\nCEO \u0e04\u0e19\u0e17\u0e35\u0e48 10 \u0e02\u0e2d\u0e07 \u0e1b\u0e15\u0e17. \u201c\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \u0e02\u0e36\u0e49\u0e19\u0e14\u0e33\u0e23\u0e07\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07\u0e1a\u0e19\u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22\u0e43\u0e19\u0e22\u0e38\u0e04\u0e42\u0e04\u0e27\u0e34\u0e14-19  \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1e\u0e25\u0e34\u0e01\u0e1f\u0e37\u0e49\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e43\u0e2b\u0e49\u0e40\u0e14\u0e34\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32\u0e2b\u0e21\u0e32\u0e22 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e41\u0e19\u0e27\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 \u0e41\u0e25\u0e30 \u0e27\u0e34\u0e16\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e02\u0e2d\u0e07\u0e04\u0e19\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e14\u0e49\u0e27\u0e22\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15\n\n\n_____________________________\n\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e02\u0e48\u0e32\u0e27\u0e44\u0e14\u0e49\u0e15\u0e32\u0e21\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e2d\u0e37\u0e48\u0e19\u0e46 \u0e17\u0e35\u0e19\u0e35\u0e48\n\nwebsite: https://www.thansettakij.com\nfacebook : https://www.facebook.com/thansettakij\ntwitter : https://twitter.com/Thansettakij\nLine : https://lin.ee/AFtZiwI\nYoutube Official : https://www.youtube.com/channel/UCcTiVmhW5zC6mn71vYbDvpQ\nInstagram : https://www.instagram.com/thansettakij_official/\nTIKTOK : https://www.tiktok.com/@thansettakij\nblockdit : https://www.blockdit.com/thansettakij\n\n\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e42\u0e06\u0e29\u0e13\u0e32\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 02-338-3751\nthansettakij.nm@gmail.com\n_____________________________\n#thansettakij #\u0e10\u0e32\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08 #Shorts"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT21M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "165",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mMEOIR7lD-kOah9e95TIJVHDNeY",
+        "id": "tUt_FBieoh4",
+        "snippet": {
+          "publishedAt": "2022-04-23T08:15:01Z",
+          "channelId": "UCleN27jHlAY0AHvfutxegYQ",
+          "title": "\ud83c\uddf9\ud83c\udded CEO  Powering Life Auttapol Rerkpiboon  Beyond @ Auditorium PTT  2021",
+          "description": "#GPSC #CHPP #\u0e1b\u0e15\u0e17 #SmartEnergy #BESS #PeertoPeerEnergyTrading  #AI  #HighDensityPolyethylene #VISTEC  #\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e15\u0e17  #FloatingSolaronsea  #\u0e1e\u0e35\u0e17\u0e35\u0e17\u0e35\u0e41\u0e17\u0e07\u0e04\u0e4c\u0e40\u0e17\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e19\u0e31\u0e25 #PTTTank #SmartEnergyforEvolvinglife  #GPSCgroup #\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e23\u0e23\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 Report of Board of Directors\u2019 Responsibilities \nfor the Financial Reporting\nTo Shareholders,\nThe Board of Directors is responsible for the consolidated financial statements of PTT Public Company Limited and \nits subsidiaries and the separate financial statements of PTT Public Company Limited. The aforementioned financial statements \nare prepared in accordance with Thai Financial Reporting Standards. The financial statements are prepared under appropriated \naccounting policies and applied consistently by using careful judgment and the best estimation. Important information is \nadequately and transparently disclosed in the notes to financial statements for the company\u2019s shareholders and investors.\nThe Board of Directors provides good corporate governance and maintains the risk management system and internal \ncontrols to ensure that accounting records are accurate, reliable, free from material misstatement, timely and adequate to \nprotect the company\u2019s assets as well as to prevent fraud and significant irregular operations.\nThe Board of Directors has appointed an Audit Committee comprising independent directors to be responsible for \nreviewing the reliability and correctness of financial reports, evaluating the effectiveness and efficiency of internal control \nprocess and governing the effectiveness of internal audit function. The audit committee\u2019s comments on these issues are \npresented in the audit committee report included in this annual report.\nThe Board of Directors considers that the internal control system and the internal audit of the company provide credibility \nand reliability to the consolidated financial statements of PTT Public Company Limited and its subsidiaries and the separate \nfinancial statements of PTT Public Company Limited for the year ended December 31, 2020. The Board of Directors also \nbelieves that the financial position, financial results and cash flows, audited by the independent auditors (EY Office Limited), \nare fairly and accurately presented in all material respects with Thai Financial Reporting Standards. The auditors\u2019 opinion \nis presented in the auditors\u2019 report as part of this annual report",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tUt_FBieoh4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "\ud83c\uddf9\ud83c\udded Tsundoku",
+          "tags": [
+            "\u0e23\u0e35\u0e27\u0e34\u0e27",
+            "\u0e17\u0e32\u0e2a\u0e41\u0e21\u0e27",
+            "\u0e41\u0e15\u0e07\u0e42\u0e21",
+            "\u0e41\u0e15\u0e07\u0e42\u0e21\u0e19\u0e34\u0e14\u0e32",
+            "\u0e42\u0e2b\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a",
+            "\u0e1e\u0e34\u0e21\u0e23\u0e35\u0e48\u0e1e\u0e32\u0e22",
+            "review",
+            "\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19",
+            "\u0e01\u0e23\u0e30\u0e17\u0e48\u0e2d\u0e21",
+            "\u0e1f\u0e49\u0e32\u0e17\u0e30\u0e25\u0e32\u0e22\u0e42\u0e08\u0e23",
+            "\u0e41\u0e15\u0e07\u0e42\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e21\u0e48\u0e15\u0e32\u0e22\u0e1f\u0e23\u0e35",
+            "\u0e2b\u0e19\u0e38\u0e48\u0e21\u0e01\u0e23\u0e23\u0e0a\u0e31\u0e22",
+            "\u0e2b\u0e27\u0e22",
+            "\u0e41\u0e09",
+            "\u0e01\u0e31\u0e0d\u0e0a\u0e32",
+            "\u0e2a\u0e32\u0e21\u0e01\u0e35\u0e1a",
+            "meaow",
+            "\u0e1e\u0e31\u0e19\u0e17\u0e34\u0e1b",
+            "pantip",
+            "cat"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\ud83c\uddf9\ud83c\udded CEO  Powering Life Auttapol Rerkpiboon  Beyond @ Auditorium PTT  2021",
+            "description": "#GPSC #CHPP #\u0e1b\u0e15\u0e17 #SmartEnergy #BESS #PeertoPeerEnergyTrading  #AI  #HighDensityPolyethylene #VISTEC  #\u0e01\u0e25\u0e38\u0e48\u0e21\u0e1b\u0e15\u0e17  #FloatingSolaronsea  #\u0e1e\u0e35\u0e17\u0e35\u0e17\u0e35\u0e41\u0e17\u0e07\u0e04\u0e4c\u0e40\u0e17\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e19\u0e31\u0e25 #PTTTank #SmartEnergyforEvolvinglife  #GPSCgroup #\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e23\u0e23\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 Report of Board of Directors\u2019 Responsibilities \nfor the Financial Reporting\nTo Shareholders,\nThe Board of Directors is responsible for the consolidated financial statements of PTT Public Company Limited and \nits subsidiaries and the separate financial statements of PTT Public Company Limited. The aforementioned financial statements \nare prepared in accordance with Thai Financial Reporting Standards. The financial statements are prepared under appropriated \naccounting policies and applied consistently by using careful judgment and the best estimation. Important information is \nadequately and transparently disclosed in the notes to financial statements for the company\u2019s shareholders and investors.\nThe Board of Directors provides good corporate governance and maintains the risk management system and internal \ncontrols to ensure that accounting records are accurate, reliable, free from material misstatement, timely and adequate to \nprotect the company\u2019s assets as well as to prevent fraud and significant irregular operations.\nThe Board of Directors has appointed an Audit Committee comprising independent directors to be responsible for \nreviewing the reliability and correctness of financial reports, evaluating the effectiveness and efficiency of internal control \nprocess and governing the effectiveness of internal audit function. The audit committee\u2019s comments on these issues are \npresented in the audit committee report included in this annual report.\nThe Board of Directors considers that the internal control system and the internal audit of the company provide credibility \nand reliability to the consolidated financial statements of PTT Public Company Limited and its subsidiaries and the separate \nfinancial statements of PTT Public Company Limited for the year ended December 31, 2020. The Board of Directors also \nbelieves that the financial position, financial results and cash flows, audited by the independent auditors (EY Office Limited), \nare fairly and accurately presented in all material respects with Thai Financial Reporting Standards. The auditors\u2019 opinion \nis presented in the auditors\u2019 report as part of this annual report"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ofBZT7uY6DuroFqXtPxITyycyvk",
+        "id": "Td2nh61zuPo",
+        "snippet": {
+          "publishedAt": "2022-12-26T06:19:50Z",
+          "channelId": "UCkX-pfUSyZWlLllHCgLd9hg",
+          "title": "\u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c | Spot Perspective [25 \u0e18.\u0e04. 65]",
+          "description": "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2a\u0e40\u0e1b\u0e01\u0e17\u0e34\u0e1f\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e08\u0e30\u0e1e\u0e32\u0e1e\u0e39\u0e14\u0e04\u0e38\u0e22\u0e01\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e04\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e48\u0e27\u0e21\u0e07\u0e32\u0e19\u0e14\u0e49\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e2d\u0e22\u0e48\u0e32\u0e07 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) (\u0e1b\u0e15\u0e17.)  \u0e23\u0e31\u0e1a\u0e1f\u0e31\u0e07\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e43\u0e19\u0e01\u0e32\u0e23\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01 \u201c\u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \u0e19\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 1 \u0e43\u0e19 500 \u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e17\u0e33\u0e23\u0e32\u0e22\u0e44\u0e14\u0e49\u0e2a\u0e39\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e42\u0e25\u0e01\u0e41\u0e25\u0e49\u0e27\u0e22\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e17\u0e35\u0e48\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e23\u0e32\u0e22\u0e44\u0e14\u0e49\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e35\u0e01\u0e14\u0e49\u0e27\u0e22\n\n\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e32\u0e07 \nhttps://youtu.be/JtF7UQ_2Nqk\n\n\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2a\u0e40\u0e1b\u0e01\u0e17\u0e34\u0e1f\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e04\u0e37\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c \u0e40\u0e27\u0e25\u0e32 21.00 \u0e19. \u0e17\u0e32\u0e07\u0e0a\u0e48\u0e2d\u0e07 9 MCOT HD \u0e41\u0e25\u0e30 Facebook #PerspectiveTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Td2nh61zuPo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BLACK DOT",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c | Spot Perspective [25 \u0e18.\u0e04. 65]",
+            "description": "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2a\u0e40\u0e1b\u0e01\u0e17\u0e34\u0e1f\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e08\u0e30\u0e1e\u0e32\u0e1e\u0e39\u0e14\u0e04\u0e38\u0e22\u0e01\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e04\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e48\u0e27\u0e21\u0e07\u0e32\u0e19\u0e14\u0e49\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e2d\u0e22\u0e48\u0e32\u0e07 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) (\u0e1b\u0e15\u0e17.)  \u0e23\u0e31\u0e1a\u0e1f\u0e31\u0e07\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e43\u0e19\u0e01\u0e32\u0e23\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01 \u201c\u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \u0e19\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 1 \u0e43\u0e19 500 \u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e17\u0e33\u0e23\u0e32\u0e22\u0e44\u0e14\u0e49\u0e2a\u0e39\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e42\u0e25\u0e01\u0e41\u0e25\u0e49\u0e27\u0e22\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e17\u0e35\u0e48\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e23\u0e32\u0e22\u0e44\u0e14\u0e49\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e35\u0e01\u0e14\u0e49\u0e27\u0e22\n\n\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e32\u0e07 \nhttps://youtu.be/JtF7UQ_2Nqk\n\n\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e2a\u0e40\u0e1b\u0e01\u0e17\u0e34\u0e1f\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e04\u0e37\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c \u0e40\u0e27\u0e25\u0e32 21.00 \u0e19. \u0e17\u0e32\u0e07\u0e0a\u0e48\u0e2d\u0e07 9 MCOT HD \u0e41\u0e25\u0e30 Facebook #PerspectiveTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "761",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "A62fuQMLfX9OkFhbEZ4d2aZswQY",
+        "id": "AymLOsgsuf4",
+        "snippet": {
+          "publishedAt": "2022-07-22T20:36:26Z",
+          "channelId": "UCwl5ZBzXrdg009lgOAeCr8A",
+          "title": "ptt ep 13 CEO \u0e1b\u0e15\u0e17  \u0e41\u0e2a\u0e14\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e1b\u0e23\u0e31\u0e1a\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e2a\u0e39\u0e49\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e43\u0e19\u0e07\u0e32\u0e19 FTI Expo 2022 edit",
+          "description": "\u0e2d\u0e2d\u0e01\u0e2d\u0e32\u0e01\u0e32\u0e28 \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 10 \u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21 2565",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AymLOsgsuf4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MMM Magazine Onair",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "ptt ep 13 CEO \u0e1b\u0e15\u0e17  \u0e41\u0e2a\u0e14\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e1b\u0e23\u0e31\u0e1a\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e2a\u0e39\u0e49\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e43\u0e19\u0e07\u0e32\u0e19 FTI Expo 2022 edit",
+            "description": "\u0e2d\u0e2d\u0e01\u0e2d\u0e32\u0e01\u0e32\u0e28 \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 10 \u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21 2565"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jiutpbcbQIZN6hJHNeyWHriu1Uo",
+        "id": "FS8CJruF2lY",
+        "snippet": {
+          "publishedAt": "2022-12-28T10:00:12Z",
+          "channelId": "UCaK16-K-sxamAHZtAirbMkA",
+          "title": "\u0e1b\u0e15\u0e17.\u0e41\u0e19\u0e30\u0e43\u0e0a\u0e49\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15 | NEXT STEP THAILAND 2023 \u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15",
+          "description": "\u0e40\u0e27\u0e17\u0e35\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32 NEXT STEP THAILAND 2023 \u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e08\u0e31\u0e14\u0e42\u0e14\u0e22\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19 \u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e19\u0e34\u0e27\u0e2a\u0e4c \u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19\u0e17\u0e35\u0e27\u0e35 \u0e41\u0e25\u0e30\u0e42\u0e1e\u0e2a\u0e15\u0e4c\u0e17\u0e39\u0e40\u0e14\u0e22\u0e4c \u0e19\u0e32\u0e22\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14(\u0e21\u0e2b\u0e32\u0e0a\u0e19) Spacial Talk \u0e20\u0e32\u0e22\u0e43\u0e15\u0e49\u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d \"\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19\" \u0e0a\u0e35\u0e49\u0e27\u0e48\u0e32\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e01\u0e23\u0e30\u0e17\u0e1a\u0e08\u0e32\u0e01\u0e42\u0e25\u0e01\u0e23\u0e49\u0e2d\u0e19\u0e21\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 9 \u0e02\u0e2d\u0e07\u0e42\u0e25\u0e01 \u0e15\u0e49\u0e2d\u0e07\u0e43\u0e0a\u0e49\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e25\u0e14\u0e42\u0e25\u0e01\u0e23\u0e49\u0e2d\u0e19 \u0e41\u0e25\u0e30 \u0e22\u0e01\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e42\u0e14\u0e22\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e14\u0e41\u0e17\u0e19\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a\u0e43\u0e2b\u0e21\u0e48\u0e46 \u0e17\u0e35\u0e48\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \n\n\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21! \u0e01\u0e14 \"Subscribe\" \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\nhttps://www.youtube.com/user/springnewsonline?sub_confirmation=1\n\n\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e19\u0e34\u0e27\u0e2a\u0e4c\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : \nWebsite : http://www.springnews.co.th\nTiktok: https://www.tiktok.com/@springonline\nFacebook : https://www.facebook.com/SpringNewsOnline\nTwitter : https://twitter.com/SpringNews_TH\nInstagram : https://www.instagram.com/springnews\nYoutube : youtube.com/@springnewsonline \n\n#NEXTSTEPTHAILAND #PTT #\u0e1b\u0e15\u0e17",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FS8CJruF2lY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Spring News",
+          "tags": [
+            "NEXT STEP THAILAND",
+            "PTT",
+            "\u0e1b\u0e15\u0e17",
+            "\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c",
+            "\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15",
+            "\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21",
+            "\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08",
+            "\u0e42\u0e25\u0e01\u0e23\u0e49\u0e2d\u0e19",
+            "\u0e25\u0e14\u0e42\u0e25\u0e01\u0e23\u0e49\u0e2d\u0e19",
+            "\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e0a\u0e35\u0e27\u0e34\u0e15",
+            "\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e14\u0e41\u0e17\u0e19",
+            "\u0e02\u0e48\u0e32\u0e27",
+            "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+            "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+            "\u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e19\u0e34\u0e27\u0e2a\u0e4c",
+            "Springnews"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\u0e1b\u0e15\u0e17.\u0e41\u0e19\u0e30\u0e43\u0e0a\u0e49\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e2d\u0e19\u0e32\u0e04\u0e15 | NEXT STEP THAILAND 2023 \u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15",
+            "description": "\u0e40\u0e27\u0e17\u0e35\u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32 NEXT STEP THAILAND 2023 \u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e08\u0e31\u0e14\u0e42\u0e14\u0e22\u0e40\u0e04\u0e23\u0e37\u0e2d\u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19 \u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e19\u0e34\u0e27\u0e2a\u0e4c \u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19\u0e17\u0e35\u0e27\u0e35 \u0e41\u0e25\u0e30\u0e42\u0e1e\u0e2a\u0e15\u0e4c\u0e17\u0e39\u0e40\u0e14\u0e22\u0e4c \u0e19\u0e32\u0e22\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14(\u0e21\u0e2b\u0e32\u0e0a\u0e19) Spacial Talk \u0e20\u0e32\u0e22\u0e43\u0e15\u0e49\u0e2b\u0e31\u0e27\u0e02\u0e49\u0e2d \"\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19\" \u0e0a\u0e35\u0e49\u0e27\u0e48\u0e32\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e01\u0e23\u0e30\u0e17\u0e1a\u0e08\u0e32\u0e01\u0e42\u0e25\u0e01\u0e23\u0e49\u0e2d\u0e19\u0e21\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 9 \u0e02\u0e2d\u0e07\u0e42\u0e25\u0e01 \u0e15\u0e49\u0e2d\u0e07\u0e43\u0e0a\u0e49\u0e19\u0e27\u0e31\u0e15\u0e01\u0e23\u0e23\u0e21\u0e25\u0e14\u0e42\u0e25\u0e01\u0e23\u0e49\u0e2d\u0e19 \u0e41\u0e25\u0e30 \u0e22\u0e01\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e42\u0e14\u0e22\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e17\u0e14\u0e41\u0e17\u0e19\u0e23\u0e39\u0e1b\u0e41\u0e1a\u0e1a\u0e43\u0e2b\u0e21\u0e48\u0e46 \u0e17\u0e35\u0e48\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \n\n\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21! \u0e01\u0e14 \"Subscribe\" \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\nhttps://www.youtube.com/user/springnewsonline?sub_confirmation=1\n\n\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e2a\u0e1b\u0e23\u0e34\u0e07\u0e19\u0e34\u0e27\u0e2a\u0e4c\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : \nWebsite : http://www.springnews.co.th\nTiktok: https://www.tiktok.com/@springonline\nFacebook : https://www.facebook.com/SpringNewsOnline\nTwitter : https://twitter.com/SpringNews_TH\nInstagram : https://www.instagram.com/springnews\nYoutube : youtube.com/@springnewsonline \n\n#NEXTSTEPTHAILAND #PTT #\u0e1b\u0e15\u0e17"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT23M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1182",
+          "likeCount": "29",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xdtKB9vfjt6olzx0RIE5w9fu2MA",
+        "id": "flm-ZX5QjsU",
+        "snippet": {
+          "publishedAt": "2022-10-20T15:49:39Z",
+          "channelId": "UCj_GbyRqxpCpsU3okeANvlA",
+          "title": "\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25  \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e02\u0e2d\u0e40\u0e0a\u0e34\u0e0d\u0e23\u0e48\u0e27\u0e21\u0e23\u0e33\u0e25\u0e36\u0e01\u0e43\u0e19\u0e1e\u0e23\u0e30\u0e21\u0e2b\u0e32\u0e01\u0e23\u0e38\u0e13\u0e32\u0e18\u0e34\u0e04\u0e38\u0e13\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e07\u0e04\u0e4c\u0e1e\u0e23\u0e30\u0e1b\u0e34\u0e22\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a : \u0e1b\u0e34\u0e22\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a\u0e32\u0e19\u0e38\u0e2a\u0e23\u0e13\u0e4c 2565",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/flm-ZX5QjsU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Chula Alumni",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25  \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e02\u0e2d\u0e40\u0e0a\u0e34\u0e0d\u0e23\u0e48\u0e27\u0e21\u0e23\u0e33\u0e25\u0e36\u0e01\u0e43\u0e19\u0e1e\u0e23\u0e30\u0e21\u0e2b\u0e32\u0e01\u0e23\u0e38\u0e13\u0e32\u0e18\u0e34\u0e04\u0e38\u0e13\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e07\u0e04\u0e4c\u0e1e\u0e23\u0e30\u0e1b\u0e34\u0e22\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a : \u0e1b\u0e34\u0e22\u0e21\u0e2b\u0e32\u0e23\u0e32\u0e0a\u0e32\u0e19\u0e38\u0e2a\u0e23\u0e13\u0e4c 2565",
+            "description": ""
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ka817fjFaqsopSbC611w-ERBN_E",
+        "id": "EPs13aDYe_I",
+        "snippet": {
+          "publishedAt": "2022-12-30T11:00:08Z",
+          "channelId": "UCkX-pfUSyZWlLllHCgLd9hg",
+          "title": "Cutdown I \u0e21\u0e32\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07PTT",
+          "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e1a\u0e17\u0e1a\u0e32\u0e17\u0e2b\u0e25\u0e31\u0e01\u0e02\u0e2d\u0e07  \u0e1b\u0e15\u0e17. (PTT) \u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e17\u0e33\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e01\u0e34\u0e14\u0e01\u0e32\u0e23\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08\u0e41\u0e25\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e17\u0e35\u0e48\u0e14\u0e35 \u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e08\u0e30\u0e43\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e14\u0e39\u0e41\u0e25 \u0e0a\u0e38\u0e21\u0e0a\u0e19 \u0e2a\u0e31\u0e07\u0e04\u0e21 \u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 \u0e08\u0e32\u0e01 \u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19)  \u0e20\u0e32\u0e22\u0e43\u0e15\u0e49\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23 \u201cPowering Life with Future Energy and Beyond\u201d \u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e17\u0e38\u0e01\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e14\u0e49\u0e27\u0e22\u0e1e\u0e25\u0e31\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e14\u0e49\u0e27\u0e22\u0e04\u0e27\u0e32\u0e21\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e01\u0e32\u0e23\u0e1e\u0e32\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e23\u0e23\u0e21\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e07\u0e44\u0e1b\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e23\u0e23\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15\n\n#PerspectiveTV #BlackDot",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EPs13aDYe_I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BLACK DOT",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "Cutdown I \u0e21\u0e32\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07PTT",
+            "description": "\u0e21\u0e32\u0e1f\u0e31\u0e07\u0e1a\u0e17\u0e1a\u0e32\u0e17\u0e2b\u0e25\u0e31\u0e01\u0e02\u0e2d\u0e07  \u0e1b\u0e15\u0e17. (PTT) \u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e17\u0e33\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e01\u0e34\u0e14\u0e01\u0e32\u0e23\u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e28\u0e23\u0e29\u0e10\u0e01\u0e34\u0e08\u0e41\u0e25\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e17\u0e35\u0e48\u0e14\u0e35 \u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e08\u0e30\u0e43\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e14\u0e39\u0e41\u0e25 \u0e0a\u0e38\u0e21\u0e0a\u0e19 \u0e2a\u0e31\u0e07\u0e04\u0e21 \u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 \u0e08\u0e32\u0e01 \u0e04\u0e38\u0e13\u0e42\u0e14\u0e48\u0e07 \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\u201d \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19)  \u0e20\u0e32\u0e22\u0e43\u0e15\u0e49\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23 \u201cPowering Life with Future Energy and Beyond\u201d \u0e02\u0e31\u0e1a\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e17\u0e38\u0e01\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e14\u0e49\u0e27\u0e22\u0e1e\u0e25\u0e31\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15 \u0e14\u0e49\u0e27\u0e22\u0e04\u0e27\u0e32\u0e21\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e01\u0e32\u0e23\u0e1e\u0e32\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e23\u0e23\u0e21\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e07\u0e44\u0e1b\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2d\u0e38\u0e15\u0e2a\u0e32\u0e2b\u0e01\u0e23\u0e23\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e2d\u0e19\u0e32\u0e04\u0e15\n\n#PerspectiveTV #BlackDot"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2091",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sk_FieJmhikZhEm2UlHa9Ym3srw",
+        "id": "7Y4rZSO_fD4",
+        "snippet": {
+          "publishedAt": "2022-12-21T12:00:04Z",
+          "channelId": "UCe9BLHSsYQy0IyFizx1wzVg",
+          "title": "\u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 Net Zero \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19",
+          "description": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e04\u0e33\u0e27\u0e48\u0e32 Net Zero \u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e33\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c \u0e2b\u0e23\u0e37\u0e2d\u0e07\u0e32\u0e19\u0e14\u0e49\u0e32\u0e19 CSR \u0e02\u0e2d\u0e07\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e43\u0e14\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 \u0e41\u0e15\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e14\u0e31\u0e48\u0e07\u0e1e\u0e31\u0e19\u0e18\u0e01\u0e34\u0e08\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e07\u0e41\u0e23\u0e07\u0e23\u0e48\u0e27\u0e21\u0e43\u0e08\u0e01\u0e31\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e23\u0e25\u0e38\u0e40\u0e1b\u0e49\u0e32\u0e2b\u0e21\u0e32\u0e22 \n. \n\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e43\u0e2b\u0e0d\u0e48\u0e0b\u0e36\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e22\u0e48\u0e32\u0e07 \u0e1b\u0e15\u0e17. \u0e44\u0e14\u0e49\u0e27\u0e32\u0e07\u0e41\u0e19\u0e27\u0e17\u0e32\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e19\u0e35\u0e49\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23 \u0e41\u0e25\u0e30\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19  \u0e21\u0e32\u0e23\u0e48\u0e27\u0e21\u0e1f\u0e31\u0e07\u0e44\u0e1b\u0e01\u0e31\u0e1a GM Live : GM Talk  \u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 Net Zero \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19 \u0e01\u0e31\u0e1a \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \n.\n\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e17\u0e35\u0e48 24 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 2565  \u0e40\u0e27\u0e25\u0e32 19.00 \u0e19. \n.\n\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21! \u0e01\u0e14 See First \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e01\u0e48\u0e2d\u0e19\u0e43\u0e04\u0e23\n.\n#GMLive #GMTalk  #\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25\u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  # Net Zero #\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 #\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19  #\u0e1b\u0e15\u0e17 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7Y4rZSO_fD4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GMlive Online",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 Net Zero \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19",
+            "description": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e04\u0e33\u0e27\u0e48\u0e32 Net Zero \u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e17\u0e33\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c \u0e2b\u0e23\u0e37\u0e2d\u0e07\u0e32\u0e19\u0e14\u0e49\u0e32\u0e19 CSR \u0e02\u0e2d\u0e07\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e43\u0e14\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 \u0e41\u0e15\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e14\u0e31\u0e48\u0e07\u0e1e\u0e31\u0e19\u0e18\u0e01\u0e34\u0e08\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e07\u0e41\u0e23\u0e07\u0e23\u0e48\u0e27\u0e21\u0e43\u0e08\u0e01\u0e31\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e23\u0e25\u0e38\u0e40\u0e1b\u0e49\u0e32\u0e2b\u0e21\u0e32\u0e22 \n. \n\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e43\u0e2b\u0e0d\u0e48\u0e0b\u0e36\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e22\u0e48\u0e32\u0e07 \u0e1b\u0e15\u0e17. \u0e44\u0e14\u0e49\u0e27\u0e32\u0e07\u0e41\u0e19\u0e27\u0e17\u0e32\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e19\u0e35\u0e49\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23 \u0e41\u0e25\u0e30\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e0a\u0e31\u0e14\u0e40\u0e08\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19  \u0e21\u0e32\u0e23\u0e48\u0e27\u0e21\u0e1f\u0e31\u0e07\u0e44\u0e1b\u0e01\u0e31\u0e1a GM Live : GM Talk  \u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 Net Zero \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19 \u0e01\u0e31\u0e1a \u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \n.\n\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e17\u0e35\u0e48 24 \u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21 2565  \u0e40\u0e27\u0e25\u0e32 19.00 \u0e19. \n.\n\u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21! \u0e01\u0e14 See First \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e01\u0e48\u0e2d\u0e19\u0e43\u0e04\u0e23\n.\n#GMLive #GMTalk  #\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25\u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  # Net Zero #\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 #\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19  #\u0e1b\u0e15\u0e17 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT1M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "42",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "F4m4nD_rRDsKQkQ3_B0GqbGKsmE",
+        "id": "KCDzefyTisI",
+        "snippet": {
+          "publishedAt": "2022-08-07T04:00:30Z",
+          "channelId": "UCNtWVKUkjTvO8bt5XOxAoKw",
+          "title": "\u0e2d.\u0e0a\u0e31\u0e0a\u0e0a\u0e32\u0e15\u0e34 \u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c \u0e41\u0e25\u0e30 \u0e19\u0e32\u0e22\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1c\u0e39\u0e49\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23 \u0e1b\u0e15\u0e17. \u0e43\u0e2b\u0e49\u0e2a\u0e31\u0e21\u0e20\u0e32\u0e29\u0e13\u0e4c\u0e2a\u0e37\u0e48\u0e2d #virtualrun #\u0e0a\u0e31\u0e0a\u0e0a\u0e32\u0e15\u0e34",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KCDzefyTisI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "theREPUBLIC",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "\u0e2d.\u0e0a\u0e31\u0e0a\u0e0a\u0e32\u0e15\u0e34 \u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c \u0e41\u0e25\u0e30 \u0e19\u0e32\u0e22\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c \u0e1c\u0e39\u0e49\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23 \u0e1b\u0e15\u0e17. \u0e43\u0e2b\u0e49\u0e2a\u0e31\u0e21\u0e20\u0e32\u0e29\u0e13\u0e4c\u0e2a\u0e37\u0e48\u0e2d #virtualrun #\u0e0a\u0e31\u0e0a\u0e0a\u0e32\u0e15\u0e34",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2632",
+          "likeCount": "126",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zKdOSRdl4PmXxeXNhMejrOnGGkQ",
+        "id": "-Ulaui7Yi7Q",
+        "snippet": {
+          "publishedAt": "2022-12-24T12:00:00Z",
+          "channelId": "UCe9BLHSsYQy0IyFizx1wzVg",
+          "title": "GM Talk : \u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 \"Net Zero\" \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19",
+          "description": "\u0e40\u0e21\u0e37\u0e48\u0e2d \u2018\u0e1b\u0e15\u0e17.\u2019 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e22\u0e31\u0e01\u0e29\u0e4c\u0e43\u0e2b\u0e0d\u0e48 \u0e40\u0e2a\u0e32\u0e2b\u0e25\u0e31\u0e01\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e17\u0e22 \u0e44\u0e14\u0e49\u0e02\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e19\u0e42\u0e22\u0e1a\u0e32\u0e22\u0e41\u0e25\u0e30\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e01\u0e49\u0e32\u0e27\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48 \u2018Net Zero\u2019 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e1c\u0e19\u0e36\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2a\u0e39\u0e48\u0e08\u0e38\u0e14\u0e2b\u0e21\u0e32\u0e22\u0e04\u0e32\u0e23\u0e4c\u0e1a\u0e2d\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e1e\u0e23\u0e35\u0e22\u0e07 \n.\n\u0e2b\u0e25\u0e32\u0e22\u0e04\u0e19\u0e2d\u0e32\u0e08\u0e15\u0e31\u0e49\u0e07\u0e04\u0e33\u0e16\u0e32\u0e21\u0e27\u0e48\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e02\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e19\u0e31\u0e49\u0e19\u0e08\u0e30\u0e21\u0e35\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23 \u0e21\u0e35\u0e1b\u0e23\u0e31\u0e0a\u0e0d\u0e32\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 \u0e41\u0e25\u0e30\u0e15\u0e31\u0e49\u0e07\u0e40\u0e1b\u0e49\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1c\u0e25\u0e2a\u0e31\u0e21\u0e24\u0e17\u0e18\u0e34\u0e4c\u0e1b\u0e25\u0e32\u0e22\u0e17\u0e32\u0e07\u0e14\u0e49\u0e32\u0e19\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e41\u0e25\u0e30\u0e01\u0e48\u0e2d\u0e40\u0e01\u0e34\u0e14\u0e1c\u0e25\u0e01\u0e33\u0e44\u0e23\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19\u0e15\u0e48\u0e2d\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23\n.\n\u0e21\u0e32\u0e23\u0e27\u0e21\u0e1f\u0e31\u0e07\u0e04\u0e33\u0e15\u0e2d\u0e1a \u0e04\u0e25\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e19\u0e35\u0e49\u0e08\u0e32\u0e01 \u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e46 \u0e01\u0e31\u0e19\u0e43\u0e19 GM Live : GM Talk \u0e04\u0e23\u0e31\u0e1a\n.\n#GMLive #GMTalk  #\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25\u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  # Net Zero #\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 #\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19  #\u0e1b\u0e15\u0e17 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-Ulaui7Yi7Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GMlive Online",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "GM Talk : \u0e40\u0e1b\u0e34\u0e14\u0e21\u0e38\u0e21\u0e21\u0e2d\u0e07\u0e19\u0e33\u0e17\u0e31\u0e1e\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e39\u0e48\u0e40\u0e1b\u0e49\u0e32 \"Net Zero\" \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19",
+            "description": "\u0e40\u0e21\u0e37\u0e48\u0e2d \u2018\u0e1b\u0e15\u0e17.\u2019 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17\u0e22\u0e31\u0e01\u0e29\u0e4c\u0e43\u0e2b\u0e0d\u0e48 \u0e40\u0e2a\u0e32\u0e2b\u0e25\u0e31\u0e01\u0e14\u0e49\u0e32\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e17\u0e22 \u0e44\u0e14\u0e49\u0e02\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e19\u0e42\u0e22\u0e1a\u0e32\u0e22\u0e41\u0e25\u0e30\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07\u0e01\u0e49\u0e32\u0e27\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48 \u2018Net Zero\u2019 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e1c\u0e19\u0e36\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2a\u0e39\u0e48\u0e08\u0e38\u0e14\u0e2b\u0e21\u0e32\u0e22\u0e04\u0e32\u0e23\u0e4c\u0e1a\u0e2d\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e1e\u0e23\u0e35\u0e22\u0e07 \n.\n\u0e2b\u0e25\u0e32\u0e22\u0e04\u0e19\u0e2d\u0e32\u0e08\u0e15\u0e31\u0e49\u0e07\u0e04\u0e33\u0e16\u0e32\u0e21\u0e27\u0e48\u0e32 \u0e40\u0e2a\u0e35\u0e22\u0e07\u0e02\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e19\u0e31\u0e49\u0e19\u0e08\u0e30\u0e21\u0e35\u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23 \u0e21\u0e35\u0e1b\u0e23\u0e31\u0e0a\u0e0d\u0e32\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 \u0e41\u0e25\u0e30\u0e15\u0e31\u0e49\u0e07\u0e40\u0e1b\u0e49\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1c\u0e25\u0e2a\u0e31\u0e21\u0e24\u0e17\u0e18\u0e34\u0e4c\u0e1b\u0e25\u0e32\u0e22\u0e17\u0e32\u0e07\u0e14\u0e49\u0e32\u0e19\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e41\u0e25\u0e30\u0e01\u0e48\u0e2d\u0e40\u0e01\u0e34\u0e14\u0e1c\u0e25\u0e01\u0e33\u0e44\u0e23\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19\u0e15\u0e48\u0e2d\u0e2d\u0e07\u0e04\u0e4c\u0e01\u0e23\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e44\u0e23\n.\n\u0e21\u0e32\u0e23\u0e27\u0e21\u0e1f\u0e31\u0e07\u0e04\u0e33\u0e15\u0e2d\u0e1a \u0e04\u0e25\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e19\u0e35\u0e49\u0e08\u0e32\u0e01 \u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  \u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19) \u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e46 \u0e01\u0e31\u0e19\u0e43\u0e19 GM Live : GM Talk \u0e04\u0e23\u0e31\u0e1a\n.\n#GMLive #GMTalk  #\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25\u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c  # Net Zero #\u0e2a\u0e34\u0e48\u0e07\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21 #\u0e22\u0e31\u0e48\u0e07\u0e22\u0e37\u0e19  #\u0e1b\u0e15\u0e17 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19 #\u0e1e\u0e25\u0e31\u0e07\u0e07\u0e32\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14"
+          },
+          "defaultAudioLanguage": "th"
+        },
+        "contentDetails": {
+          "duration": "PT26M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "65",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ye9rj61mqkVgOYfcW5hTqylBH1M",
+        "id": "epGJgbKtzXk",
+        "snippet": {
+          "publishedAt": "2022-03-22T08:43:39Z",
+          "channelId": "UCdvE5Qsi8QFlz9uGRDRSz8w",
+          "title": "Conquer The Unknown_\u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c",
+          "description": "\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c \u0e08\u0e32\u0e01 \u0e1c\u0e39\u0e49\u0e19\u0e33 \u0e17\u0e31\u0e49\u0e07 20 \u0e17\u0e48\u0e32\u0e19 \u0e17\u0e35\u0e48\u0e08\u0e30\u0e21\u0e32\u0e1e\u0e39\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u2013 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22 \u2013 \u0e42\u0e2d\u0e01\u0e32\u0e2a \u2013 \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e31\u0e1a\u0e15\u0e31\u0e27 \u0e43\u0e19\u0e42\u0e25\u0e01\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e22\u0e32\u0e01\u0e08\u0e30\u0e04\u0e32\u0e14\u0e40\u0e14\u0e32 \u0e01\u0e31\u0e1a Sessions \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29..\u0e01\u0e31\u0e1a Online Special Track \u0e42\u0e14\u0e22 \u201c15 \u0e1c\u0e39\u0e49\u0e19\u0e33\u0e17\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e43\u0e19\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u201d \u0e41\u0e25\u0e30 \u201c5 Top Trend Spotter \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u201d\n\n\u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\n\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/epGJgbKtzXk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MAT Society",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "th",
+          "localized": {
+            "title": "Conquer The Unknown_\u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c",
+            "description": "\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e2a\u0e31\u0e22\u0e17\u0e31\u0e28\u0e19\u0e4c \u0e08\u0e32\u0e01 \u0e1c\u0e39\u0e49\u0e19\u0e33 \u0e17\u0e31\u0e49\u0e07 20 \u0e17\u0e48\u0e32\u0e19 \u0e17\u0e35\u0e48\u0e08\u0e30\u0e21\u0e32\u0e1e\u0e39\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u2013 \u0e04\u0e27\u0e32\u0e21\u0e17\u0e49\u0e32\u0e17\u0e32\u0e22 \u2013 \u0e42\u0e2d\u0e01\u0e32\u0e2a \u2013 \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e31\u0e1a\u0e15\u0e31\u0e27 \u0e43\u0e19\u0e42\u0e25\u0e01\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e17\u0e35\u0e48\u0e22\u0e32\u0e01\u0e08\u0e30\u0e04\u0e32\u0e14\u0e40\u0e14\u0e32 \u0e01\u0e31\u0e1a Sessions \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29..\u0e01\u0e31\u0e1a Online Special Track \u0e42\u0e14\u0e22 \u201c15 \u0e1c\u0e39\u0e49\u0e19\u0e33\u0e17\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e43\u0e19\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u201d \u0e41\u0e25\u0e30 \u201c5 Top Trend Spotter \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u201d\n\n\u0e04\u0e38\u0e13\u0e2d\u0e23\u0e23\u0e16\u0e1e\u0e25 \u0e24\u0e01\u0e29\u0e4c\u0e1e\u0e34\u0e1a\u0e39\u0e25\u0e22\u0e4c\n\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e1a\u0e23\u0e34\u0e2b\u0e32\u0e23\u0e41\u0e25\u0e30\u0e01\u0e23\u0e23\u0e21\u0e01\u0e32\u0e23\u0e1c\u0e39\u0e49\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e0d\u0e48 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e1b\u0e15\u0e17. \u0e08\u0e33\u0e01\u0e31\u0e14 (\u0e21\u0e2b\u0e32\u0e0a\u0e19)"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "69",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

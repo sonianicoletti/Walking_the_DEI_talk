@@ -1,0 +1,966 @@
+{
+  "ceo": "Candido Botelho Bracher",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "JYOCHHZoUDX3WiBvgAqGaz6R-P4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S5dr0Epk6fX-WTa7DAzit3o6_RY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dQ9h2rMOuL4"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-03T16:11:15Z",
+          "channelId": "UCgxHcOl2hA1It6QOfOLyJLA",
+          "title": "Conex\u00e3o Leite &amp; Derivados com Candido Botelho Bracher | AgroMais",
+          "description": "O Conex\u00e3o Leite & Derivados desta sexta-feira (3) entrevistou o administrador de empresas do setor financeiro, Candido Botelho ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AgroMais",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-03T16:11:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8yBv4tDBApxY8WOUSjpiye503mw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bYfLbySbORY"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-09T20:00:19Z",
+          "channelId": "UCW9zftmvlVHAdeRuvMq01fQ",
+          "title": "Poli Finance Convida: Candido Bracher e Roberto Setubal",
+          "description": "Entrevista gravada no dia 23 de Junho de 2020 Candido Bracher \u00e9 graduado em Administra\u00e7\u00e3o de Empresas pela FGV. Em sua ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Poli Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-09T20:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1MfUsHkmndO9T8kXENp27g4NAr4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ibw-tF2DFMk"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-22T13:00:22Z",
+          "channelId": "UCcb7YLCMZf26FKAxXTtDq4A",
+          "title": "21\u00ba F\u00d3RUM EMPRESARIAL | Candido Bracher, Ita\u00fa: &quot;Tudo aquilo que \u00e9 limitado e \u00fatil tem um pre\u00e7o&quot;",
+          "description": "A 21\u00aa edi\u00e7\u00e3o do F\u00f3rum Empresarial LIDE, que aconteceu pela primeira vez no Rio de Janeiro, reuniu l\u00edderes de diferentes ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TV LIDE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-22T13:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EdRtZ11YTyxmAW2GNhiZpBhl2sE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cz1MWLrYmD4"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-04T16:44:19Z",
+          "channelId": "UC48mLXk1ASg1EQbaS3MheWQ",
+          "title": "Encruzilhadas da crise clim\u00e1tica: a perspectiva Brasil",
+          "description": "O mundo vive uma conjun\u00e7\u00e3o de grav\u00edssimas crises ambientais \u2013 a clim\u00e1tica, a da perda de biodiversidade e a da degrada\u00e7\u00e3o ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Valor Econ\u00f4mico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-04T16:44:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nQRxdbSk0pHDW-6PMh13e8Yts8Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sC3lxow57e8"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T18:43:36Z",
+          "channelId": "UCEWQlPa3S7d6t0Po8aZuxKA",
+          "title": "Quirowork Podcast de Quiropraxia - EP 10 - Eduardo Bracher",
+          "description": "Confira uma r\u00e1pida conversa com Dr. Eduardo Bracher.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Quirowork Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T18:43:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c159SaRCdVbjfTLManQG2-nOyzY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-BSRIp4y1N0"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-05T20:51:39Z",
+          "channelId": "UC48mLXk1ASg1EQbaS3MheWQ",
+          "title": "Maiores doadores ajudam a eleger 35 parlamentares e 1 governador",
+          "description": "Os empres\u00e1rios que mais doaram dinheiro para financiar campanhas eleitorais pelo Brasil ajudaram a eleger 35 deputados ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Valor Econ\u00f4mico",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-05T20:51:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "B4zCb8P1mqgo8cAQSlrZ9HuU0lc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8WAGkTK9xNs"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-30T18:13:38Z",
+          "channelId": "UCgxHcOl2hA1It6QOfOLyJLA",
+          "title": "Mundo Soja com Cristiano Alberto de Andrade | AgroMais",
+          "description": "O Mundo Soja desta segunda-feira (30) entrevistou o pesquisador da Embrapa Meio Ambiente, Cristiano Alberto de Andrade, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AgroMais",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-30T18:13:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8KnIw0JOQx5uJaVu8UmVVhPamB4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dsXSGgego7E"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-08T20:00:21Z",
+          "channelId": "UCW9zftmvlVHAdeRuvMq01fQ",
+          "title": "Poli Finance Convida: Roberto Sallouti",
+          "description": "Entrevista realizada dia 27 de Outubro de 2021 Roberto Sallouti concluiu sua gradua\u00e7\u00e3o em economia pela Wharton School da ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Poli Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-08T20:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ksQ4nfojCbpSeJaViIBQ8CZ64KM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cqCWAYHm80E"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-04T21:58:25Z",
+          "channelId": "UCgxHcOl2hA1It6QOfOLyJLA",
+          "title": "Conex\u00e3o Leite e Derivados com Jo\u00e3o Cruz | AgroMais",
+          "description": "No Conex\u00e3o Leite e Derivados de hoje, o apoio \u00e0 pequena produ\u00e7\u00e3o de leite \u00e9 o assunto! Para falar sobre o tema, Paulo do ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AgroMais",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-04T21:58:25Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "GKGi6-aCKkL8gAeFMx9rvgSjgrE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "oOucPdiD_7BpAMubD6-5Y4PJL58",
+        "id": "dQ9h2rMOuL4",
+        "snippet": {
+          "publishedAt": "2022-06-03T16:11:15Z",
+          "channelId": "UCgxHcOl2hA1It6QOfOLyJLA",
+          "title": "Conex\u00e3o Leite & Derivados com Candido Botelho Bracher | AgroMais",
+          "description": "O Conex\u00e3o Leite & Derivados desta sexta-feira (3) entrevistou o administrador de empresas do setor financeiro, Candido Botelho Bracher, que falou sobre o aquecimento global.\n\nInscreva-se no canal do AgroMais e fique por dentro de todas as not\u00edcias do mundo do agroneg\u00f3cio.\n\nBaixe o aplicativo do AgroMais para ter acesso \u00e0 programa\u00e7\u00e3o e informa\u00e7\u00f5es do canal:\n\nGoogle Play: https://play.google.com/store/apps/details?id=com.agrega.agromais\nApp Store: https://apps.apple.com/br/app/agromais-app/id1515607127?l=en\n\n\nConfira mais informa\u00e7\u00f5es tamb\u00e9m em nosso site (https://agromais.band.uol.com.br/) e siga o AgroMais nas redes sociais:\n\nTwitter: https://twitter.com/agromaistv\nFacebook: https://www.facebook.com/agromaisTV/\nInstagram: https://www.instagram.com/agromaistv/\nLinkedIn: https://www.linkedin.com/company/agromaistv/\n\n#AgroMais #Agroneg\u00f3cio #Conex\u00e3oLeiteEDerivados #AquecimentoGlobal",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dQ9h2rMOuL4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AgroMais",
+          "tags": [
+            "aquecimento global",
+            "aquecimento",
+            "consequ\u00eancias do aquecimento global",
+            "aquecimento global e efeito estufa",
+            "efeito estufa e aquecimento global",
+            "aula aquecimento global",
+            "causas aquecimento global",
+            "aquecimento global existe",
+            "aquecimento global \u00e9 natural",
+            "video aula aquecimento global",
+            "o que \u00e9 aquecimento global?",
+            "o que significa aquecimento global",
+            "global",
+            "document\u00e1rio - aquecimento global efeito estufa",
+            "aquecimento global 2021",
+            "aquecimento global enem",
+            "aquecimento global como"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Conex\u00e3o Leite & Derivados com Candido Botelho Bracher | AgroMais",
+            "description": "O Conex\u00e3o Leite & Derivados desta sexta-feira (3) entrevistou o administrador de empresas do setor financeiro, Candido Botelho Bracher, que falou sobre o aquecimento global.\n\nInscreva-se no canal do AgroMais e fique por dentro de todas as not\u00edcias do mundo do agroneg\u00f3cio.\n\nBaixe o aplicativo do AgroMais para ter acesso \u00e0 programa\u00e7\u00e3o e informa\u00e7\u00f5es do canal:\n\nGoogle Play: https://play.google.com/store/apps/details?id=com.agrega.agromais\nApp Store: https://apps.apple.com/br/app/agromais-app/id1515607127?l=en\n\n\nConfira mais informa\u00e7\u00f5es tamb\u00e9m em nosso site (https://agromais.band.uol.com.br/) e siga o AgroMais nas redes sociais:\n\nTwitter: https://twitter.com/agromaistv\nFacebook: https://www.facebook.com/agromaisTV/\nInstagram: https://www.instagram.com/agromaistv/\nLinkedIn: https://www.linkedin.com/company/agromaistv/\n\n#AgroMais #Agroneg\u00f3cio #Conex\u00e3oLeiteEDerivados #AquecimentoGlobal"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT27M38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "525",
+          "likeCount": "30",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xoSMES54FSqn7ml8I6sHtrdndUo",
+        "id": "bYfLbySbORY",
+        "snippet": {
+          "publishedAt": "2022-02-09T20:00:19Z",
+          "channelId": "UCW9zftmvlVHAdeRuvMq01fQ",
+          "title": "Poli Finance Convida: Candido Bracher e Roberto Setubal",
+          "description": "*Entrevista gravada no dia 23 de Junho de 2020\n\nCandido Bracher \u00e9 graduado em Administra\u00e7\u00e3o de Empresas pela FGV. Em sua carreira no mercado financeiro, atuou como diretor da Bahia Corretora, gerente do Banco da Bahia Investimentos e vice-presidente do Banco de Desenvolvimento do Estado de S\u00e3o Paulo. Ap\u00f3s essa extensa trajet\u00f3ria, C\u00e2ndido largou o emprego no Banco Itamarati para participar da funda\u00e7\u00e3o do BBA em 1988, junto ao seu pai. Em 2002 o BBA e o Ita\u00fa sofreram uma fus\u00e3o, inaugurando o Ita\u00fa BBA. Ele deu continuidade a sua atua\u00e7\u00e3o na institui\u00e7\u00e3o e, sucedendo Setubal, tornou-se CEO do banco em novembro de 2016, cargo que ocupou at\u00e9 fevereiro de 2021.\n\nRoberto Setubal \u00e9 graduado em engenharia de produ\u00e7\u00e3o pela Escola Polit\u00e9cnica da USP e possui mestrado em engenharia pela Universidade de Stanford. Ingressou no Ita\u00fa em 1984 e tornou-se CEO do banco ap\u00f3s 10 anos, cargo que ocupou at\u00e9 2016. Sob sua gest\u00e3o, o Ita\u00fa tornou-se o maior banco da Am\u00e9rica Latina e hoje Setubal atua como co-presidente no conselho da institui\u00e7\u00e3o. Ele j\u00e1 foi presidente da Federa\u00e7\u00e3o Brasileira de Bancos e fez parte do Conselho de Desenvolvimento Econ\u00f4mico do Brasil. J\u00e1 foi reconhecido como o melhor gestor/executivo brasileiro e banqueiro do ano.\n\nO Poli Finance foi fundado em 2012 para ser a Liga de Mercado Financeiro da Escola Polit\u00e9cnica da Universidade de S\u00e3o Paulo. Atrav\u00e9s da organiza\u00e7\u00e3o de grandes eventos e projetos em parceria com os principais bancos e empresas, o grupo visa aproximar os alunos da Poli do mercado financeiro e preparar seus membros para as melhores institui\u00e7\u00f5es do mercado.\n\nSiga o Poli Finance nas redes sociais e se inscreva em nosso mailing para receber vagas do Mercado Financeiro!\n\nSite: https://polifinance.com.br\nInstagram: https://instagram.com/poli_finance\nFacebook: https://facebook.com/polifinance\nLinkedIn: https://linkedin.com/company/poli-finance\nTwitter: https://twitter.com/poli_finance",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bYfLbySbORY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Poli Finance",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Poli Finance Convida: Candido Bracher e Roberto Setubal",
+            "description": "*Entrevista gravada no dia 23 de Junho de 2020\n\nCandido Bracher \u00e9 graduado em Administra\u00e7\u00e3o de Empresas pela FGV. Em sua carreira no mercado financeiro, atuou como diretor da Bahia Corretora, gerente do Banco da Bahia Investimentos e vice-presidente do Banco de Desenvolvimento do Estado de S\u00e3o Paulo. Ap\u00f3s essa extensa trajet\u00f3ria, C\u00e2ndido largou o emprego no Banco Itamarati para participar da funda\u00e7\u00e3o do BBA em 1988, junto ao seu pai. Em 2002 o BBA e o Ita\u00fa sofreram uma fus\u00e3o, inaugurando o Ita\u00fa BBA. Ele deu continuidade a sua atua\u00e7\u00e3o na institui\u00e7\u00e3o e, sucedendo Setubal, tornou-se CEO do banco em novembro de 2016, cargo que ocupou at\u00e9 fevereiro de 2021.\n\nRoberto Setubal \u00e9 graduado em engenharia de produ\u00e7\u00e3o pela Escola Polit\u00e9cnica da USP e possui mestrado em engenharia pela Universidade de Stanford. Ingressou no Ita\u00fa em 1984 e tornou-se CEO do banco ap\u00f3s 10 anos, cargo que ocupou at\u00e9 2016. Sob sua gest\u00e3o, o Ita\u00fa tornou-se o maior banco da Am\u00e9rica Latina e hoje Setubal atua como co-presidente no conselho da institui\u00e7\u00e3o. Ele j\u00e1 foi presidente da Federa\u00e7\u00e3o Brasileira de Bancos e fez parte do Conselho de Desenvolvimento Econ\u00f4mico do Brasil. J\u00e1 foi reconhecido como o melhor gestor/executivo brasileiro e banqueiro do ano.\n\nO Poli Finance foi fundado em 2012 para ser a Liga de Mercado Financeiro da Escola Polit\u00e9cnica da Universidade de S\u00e3o Paulo. Atrav\u00e9s da organiza\u00e7\u00e3o de grandes eventos e projetos em parceria com os principais bancos e empresas, o grupo visa aproximar os alunos da Poli do mercado financeiro e preparar seus membros para as melhores institui\u00e7\u00f5es do mercado.\n\nSiga o Poli Finance nas redes sociais e se inscreva em nosso mailing para receber vagas do Mercado Financeiro!\n\nSite: https://polifinance.com.br\nInstagram: https://instagram.com/poli_finance\nFacebook: https://facebook.com/polifinance\nLinkedIn: https://linkedin.com/company/poli-finance\nTwitter: https://twitter.com/poli_finance"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT1H8M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2551",
+          "likeCount": "94",
+          "favoriteCount": "0",
+          "commentCount": "9"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "l6No9s8uJtbEMopXENXos0sd0Nw",
+        "id": "ibw-tF2DFMk",
+        "snippet": {
+          "publishedAt": "2022-08-22T13:00:22Z",
+          "channelId": "UCcb7YLCMZf26FKAxXTtDq4A",
+          "title": "21\u00ba F\u00d3RUM EMPRESARIAL | Candido Bracher, Ita\u00fa: \"Tudo aquilo que \u00e9 limitado e \u00fatil tem um pre\u00e7o\"",
+          "description": "A 21\u00aa edi\u00e7\u00e3o do F\u00f3rum Empresarial LIDE, que aconteceu pela primeira vez no Rio de Janeiro, reuniu l\u00edderes de diferentes setores para dialogar sobre novos caminhos para o desenvolvimento do Brasil, abordando temas como governan\u00e7a e transpar\u00eancia na gest\u00e3o p\u00fablica; sustentabilidade e compromisso ambiental; moderniza\u00e7\u00e3o do modelo energ\u00e9tico; o futuro pol\u00edtico e institucional; o papel da democracia na sociedade; as lideran\u00e7as pol\u00edticas e a retomada econ\u00f4mica, al\u00e9m da profissionaliza\u00e7\u00e3o do esporte e a retomada de eventos culturais.\n\nAcesse: http://www.lide.com.br\nNot\u00edcias: http://www.lider.inc\nInstagram: http://www.instagram.com/lideglobal\n\nN\u00daCLEO DE COMUNICA\u00c7\u00c3O, CONTE\u00daDO E DIGITAL\nDIRE\u00c7\u00c3O | Ana L\u00facia Ventorim \nGER\u00caNCIA | Jos\u00e9 Claudio Pimentel \nREALIZA\u00c7\u00c3O | TV LIDE e Trinca Produ\u00e7\u00f5es \n\n#lide #lideglobal #forumempresarial #forumlide #21forumempresarial",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ibw-tF2DFMk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TV LIDE",
+          "tags": [
+            "lide",
+            "lideglobal",
+            "grupolide"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "21\u00ba F\u00d3RUM EMPRESARIAL | Candido Bracher, Ita\u00fa: \"Tudo aquilo que \u00e9 limitado e \u00fatil tem um pre\u00e7o\"",
+            "description": "A 21\u00aa edi\u00e7\u00e3o do F\u00f3rum Empresarial LIDE, que aconteceu pela primeira vez no Rio de Janeiro, reuniu l\u00edderes de diferentes setores para dialogar sobre novos caminhos para o desenvolvimento do Brasil, abordando temas como governan\u00e7a e transpar\u00eancia na gest\u00e3o p\u00fablica; sustentabilidade e compromisso ambiental; moderniza\u00e7\u00e3o do modelo energ\u00e9tico; o futuro pol\u00edtico e institucional; o papel da democracia na sociedade; as lideran\u00e7as pol\u00edticas e a retomada econ\u00f4mica, al\u00e9m da profissionaliza\u00e7\u00e3o do esporte e a retomada de eventos culturais.\n\nAcesse: http://www.lide.com.br\nNot\u00edcias: http://www.lider.inc\nInstagram: http://www.instagram.com/lideglobal\n\nN\u00daCLEO DE COMUNICA\u00c7\u00c3O, CONTE\u00daDO E DIGITAL\nDIRE\u00c7\u00c3O | Ana L\u00facia Ventorim \nGER\u00caNCIA | Jos\u00e9 Claudio Pimentel \nREALIZA\u00c7\u00c3O | TV LIDE e Trinca Produ\u00e7\u00f5es \n\n#lide #lideglobal #forumempresarial #forumlide #21forumempresarial"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT1M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "63",
+          "likeCount": "0",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "X7HJpH_P4WL-Bw-T7_X5TD2-0z8",
+        "id": "cz1MWLrYmD4",
+        "snippet": {
+          "publishedAt": "2022-05-04T16:44:19Z",
+          "channelId": "UC48mLXk1ASg1EQbaS3MheWQ",
+          "title": "Encruzilhadas da crise clim\u00e1tica: a perspectiva Brasil",
+          "description": "O mundo vive uma conjun\u00e7\u00e3o de grav\u00edssimas crises ambientais \u2013 a clim\u00e1tica, a da perda de biodiversidade e a da degrada\u00e7\u00e3o dos solos \u2013 simultaneamente aos efeitos da pandemia da covid-19 e da guerra da Ucr\u00e2nia, com consequ\u00eancias e dura\u00e7\u00e3o imprevis\u00edveis.     \r\n\n#LivedoValor #Criseclim\u00e1tica #Brasil @Ita\u00faUnibanco @Mastercard @acaiabiblioteca @InstitutoSocioambiental @Cir.Oficial \n\r\nO debate sobre a emerg\u00eancia clim\u00e1tica e os desafios globais e locais de lidar com crise de tal magnitude e seus desdobramentos socioambientais estar\u00e3o no centro da Live do Valor de quarta-feira, dia 4, \u00e0s 12h.  \r\n\r\nSer\u00e3o tr\u00eas convidados especiais. Candido Bracher, que de 2017 a 2021 foi CEO do Ita\u00fa Unibanco e tem estudado e escrito sobre estes temas, dar\u00e1 sua vis\u00e3o sobre as dificuldades de se criar uma governan\u00e7a mundial para o controle dos gases-estufa e onde o Brasil se encaixa no tabuleiro.  \r\n\r\nAdriana Ramos, coordenadora do programa de pol\u00edtica e direito socioambiental do Instituto Socioambiental (ISA) analisar\u00e1 as dificuldades do Brasil de implementar pol\u00edticas e medidas consistentes para o tamanho do problema clim\u00e1tico.  \r\n\r\nSineia do Vale, uma das lideran\u00e7as da etnia wapichana, coordenadora do departamento de gest\u00e3o territorial e ambiental do Conselho Ind\u00edgena de Roraima, o CIR, compartilhar\u00e1 a perspectiva dos povos que observam as mudan\u00e7as no pr\u00f3prio territ\u00f3rio e lidam com os desafios no cotidiano da Amaz\u00f4nia.  \r\n\r\nA live faz parte de uma programa\u00e7\u00e3o especial de anivers\u00e1rio do Valor, que em maio completa 22 anos. A conversa ser\u00e1 conduzida pela rep\u00f3rter especial Daniela Chiaretti e transmitida pelo site e p\u00e1ginas do Valor no YouTube, LinkedIn e Instagram.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cz1MWLrYmD4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Valor Econ\u00f4mico",
+          "tags": [
+            "Live do Valor",
+            "crise clim\u00e1tica:",
+            "22 anos do Valor",
+            "Daniela Chiaretti",
+            "Candido Bracher",
+            "Ita\u00fa Unibanco",
+            "Mastercard",
+            "Instituto Acaia",
+            "Adriana Ramos",
+            "Instituto Socioambiental",
+            "Sineia Wapichana",
+            "Conselho Ind\u00edgena de Roraima",
+            "Amaz\u00f4nia",
+            "tend\u00eancias",
+            "clima",
+            "economia verde",
+            "finan\u00e7as verdes"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-BR",
+          "localized": {
+            "title": "Encruzilhadas da crise clim\u00e1tica: a perspectiva Brasil",
+            "description": "O mundo vive uma conjun\u00e7\u00e3o de grav\u00edssimas crises ambientais \u2013 a clim\u00e1tica, a da perda de biodiversidade e a da degrada\u00e7\u00e3o dos solos \u2013 simultaneamente aos efeitos da pandemia da covid-19 e da guerra da Ucr\u00e2nia, com consequ\u00eancias e dura\u00e7\u00e3o imprevis\u00edveis.     \r\n\n#LivedoValor #Criseclim\u00e1tica #Brasil @Ita\u00faUnibanco @Mastercard @acaiabiblioteca @InstitutoSocioambiental @Cir.Oficial \n\r\nO debate sobre a emerg\u00eancia clim\u00e1tica e os desafios globais e locais de lidar com crise de tal magnitude e seus desdobramentos socioambientais estar\u00e3o no centro da Live do Valor de quarta-feira, dia 4, \u00e0s 12h.  \r\n\r\nSer\u00e3o tr\u00eas convidados especiais. Candido Bracher, que de 2017 a 2021 foi CEO do Ita\u00fa Unibanco e tem estudado e escrito sobre estes temas, dar\u00e1 sua vis\u00e3o sobre as dificuldades de se criar uma governan\u00e7a mundial para o controle dos gases-estufa e onde o Brasil se encaixa no tabuleiro.  \r\n\r\nAdriana Ramos, coordenadora do programa de pol\u00edtica e direito socioambiental do Instituto Socioambiental (ISA) analisar\u00e1 as dificuldades do Brasil de implementar pol\u00edticas e medidas consistentes para o tamanho do problema clim\u00e1tico.  \r\n\r\nSineia do Vale, uma das lideran\u00e7as da etnia wapichana, coordenadora do departamento de gest\u00e3o territorial e ambiental do Conselho Ind\u00edgena de Roraima, o CIR, compartilhar\u00e1 a perspectiva dos povos que observam as mudan\u00e7as no pr\u00f3prio territ\u00f3rio e lidam com os desafios no cotidiano da Amaz\u00f4nia.  \r\n\r\nA live faz parte de uma programa\u00e7\u00e3o especial de anivers\u00e1rio do Valor, que em maio completa 22 anos. A conversa ser\u00e1 conduzida pela rep\u00f3rter especial Daniela Chiaretti e transmitida pelo site e p\u00e1ginas do Valor no YouTube, LinkedIn e Instagram."
+          },
+          "defaultAudioLanguage": "pt"
+        },
+        "contentDetails": {
+          "duration": "PT1H2M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "512",
+          "likeCount": "41",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "olzM_8EZ0yUFdbi0P2I-SMRdJ54",
+        "id": "sC3lxow57e8",
+        "snippet": {
+          "publishedAt": "2022-12-27T18:43:36Z",
+          "channelId": "UCEWQlPa3S7d6t0Po8aZuxKA",
+          "title": "Quirowork Podcast de Quiropraxia - EP 10 - Eduardo Bracher",
+          "description": "Confira uma r\u00e1pida conversa com Dr. Eduardo Bracher.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sC3lxow57e8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Quirowork Podcast",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-BR",
+          "localized": {
+            "title": "Quirowork Podcast de Quiropraxia - EP 10 - Eduardo Bracher",
+            "description": "Confira uma r\u00e1pida conversa com Dr. Eduardo Bracher."
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT19M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "192",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CuTH0GSE5FYCNzvAyZCpg9kY_jk",
+        "id": "-BSRIp4y1N0",
+        "snippet": {
+          "publishedAt": "2022-10-05T20:51:39Z",
+          "channelId": "UC48mLXk1ASg1EQbaS3MheWQ",
+          "title": "Maiores doadores ajudam a eleger 35 parlamentares e 1 governador",
+          "description": "Os empres\u00e1rios que mais doaram dinheiro para financiar campanhas eleitorais pelo Brasil ajudaram a eleger 35 deputados estaduais, federais, senadores e um governador. Entre os eleitos, 17 s\u00e3o de partidos que apoiam a reelei\u00e7\u00e3o do presidente Jair Bolsonaro (PL)\n\nOito s\u00e3o de partidos que apoiam a candidatura do ex-presidente Luiz In\u00e1cio Lula da Silva (PT). Dez est\u00e3o em legendas que ainda n\u00e3o fecharam com nenhum dos dois neste segundo turno da disputa ao Planalto. Os dez maiores doadores de campanhas, segundo dados de 06 de outubro, do Tribunal Superior Eleitoral (TSE), desembolsaram R$ 38,3 milh\u00f5es\n\nBoa parte desses doadores s\u00e3o bilion\u00e1rios. Os dez maiores doadores s\u00e3o: Rubens Ometto (Cosan), Alexandre Grendene Bartelle e Pedro Grendene Bartelle (Grendene), Salim Mattar (cofundador da Localiza), Pedro de Godoy Bueno (Dasa), Candido Botelho Bracher (ex-presidente do Ita\u00fa Unibanco), Orlando Vitorio Bagattoli (empres\u00e1rio de Rond\u00f4nia), Valter Eg\u00eddio da Costa (Dan-Hebrert Participa\u00e7\u00f5es), Heitor Vanderlei Linden (Cal\u00e7ados Beira Rio), Marcelo Rodrigues de Oliveira (Ciapetro Distribuidora de Combust\u00edveis).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-BSRIp4y1N0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Valor Econ\u00f4mico",
+          "tags": [
+            "Valor Econ\u00f4mico",
+            "Valor economico",
+            "Tebet",
+            "Lula",
+            "Jair",
+            "apoio",
+            "bilion\u00e1rios",
+            "apoiadores",
+            "elei\u00e7\u00f5es"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-BR",
+          "localized": {
+            "title": "Maiores doadores ajudam a eleger 35 parlamentares e 1 governador",
+            "description": "Os empres\u00e1rios que mais doaram dinheiro para financiar campanhas eleitorais pelo Brasil ajudaram a eleger 35 deputados estaduais, federais, senadores e um governador. Entre os eleitos, 17 s\u00e3o de partidos que apoiam a reelei\u00e7\u00e3o do presidente Jair Bolsonaro (PL)\n\nOito s\u00e3o de partidos que apoiam a candidatura do ex-presidente Luiz In\u00e1cio Lula da Silva (PT). Dez est\u00e3o em legendas que ainda n\u00e3o fecharam com nenhum dos dois neste segundo turno da disputa ao Planalto. Os dez maiores doadores de campanhas, segundo dados de 06 de outubro, do Tribunal Superior Eleitoral (TSE), desembolsaram R$ 38,3 milh\u00f5es\n\nBoa parte desses doadores s\u00e3o bilion\u00e1rios. Os dez maiores doadores s\u00e3o: Rubens Ometto (Cosan), Alexandre Grendene Bartelle e Pedro Grendene Bartelle (Grendene), Salim Mattar (cofundador da Localiza), Pedro de Godoy Bueno (Dasa), Candido Botelho Bracher (ex-presidente do Ita\u00fa Unibanco), Orlando Vitorio Bagattoli (empres\u00e1rio de Rond\u00f4nia), Valter Eg\u00eddio da Costa (Dan-Hebrert Participa\u00e7\u00f5es), Heitor Vanderlei Linden (Cal\u00e7ados Beira Rio), Marcelo Rodrigues de Oliveira (Ciapetro Distribuidora de Combust\u00edveis)."
+          },
+          "defaultAudioLanguage": "pt"
+        },
+        "contentDetails": {
+          "duration": "PT2M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "400",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "q5z1flOZHjukIAiMMXiunbyIpso",
+        "id": "8WAGkTK9xNs",
+        "snippet": {
+          "publishedAt": "2022-05-30T18:13:38Z",
+          "channelId": "UCgxHcOl2hA1It6QOfOLyJLA",
+          "title": "Mundo Soja com Cristiano Alberto de Andrade | AgroMais",
+          "description": "O Mundo Soja desta segunda-feira (30) entrevistou o pesquisador da Embrapa Meio Ambiente, Cristiano Alberto de Andrade, que falou sobre a pegada de carbono.\n\nInscreva-se no canal do AgroMais e fique por dentro de todas as not\u00edcias do mundo do agroneg\u00f3cio.\n\nBaixe o aplicativo do AgroMais para ter acesso \u00e0 programa\u00e7\u00e3o e informa\u00e7\u00f5es do canal:\n\nGoogle Play: https://play.google.com/store/apps/details?id=com.agrega.agromais\nApp Store: https://apps.apple.com/br/app/agromais-app/id1515607127?l=en\n\n\nConfira mais informa\u00e7\u00f5es tamb\u00e9m em nosso site (https://agromais.band.uol.com.br/) e siga o AgroMais nas redes sociais:\n\nTwitter: https://twitter.com/agromaistv\nFacebook: https://www.facebook.com/agromaisTV/\nInstagram: https://www.instagram.com/agromaistv/\nLinkedIn: https://www.linkedin.com/company/agromaistv/\n\n#AgroMais #Agroneg\u00f3cio #MundoSoja #PegadaDeCarbono #Carbono",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8WAGkTK9xNs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AgroMais",
+          "tags": [
+            "pegada de carbono",
+            "carbono",
+            "o que \u00e9 pegada de carbono",
+            "minha pegada de carbono",
+            "diminuir pegada de carbono",
+            "pegada",
+            "calculadora da pegada de carbono",
+            "pegada ecol\u00f3gica",
+            "calculadora de carbono",
+            "di\u00f3xido de carbono",
+            "carbon footprint",
+            "dia de sobrecarga da terra",
+            "ciclo do carbono",
+            "carbono positivo",
+            "pegada ambiental",
+            "cart\u00e3o de cr\u00e9dito",
+            "cart\u00e3o de credito",
+            "pecu\u00e1ria de corte",
+            "pegadadecarbono",
+            "not\u00edcias de hoje",
+            "not\u00edcias de economia",
+            "carbon dioxide (chemical compound)",
+            "de"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Mundo Soja com Cristiano Alberto de Andrade | AgroMais",
+            "description": "O Mundo Soja desta segunda-feira (30) entrevistou o pesquisador da Embrapa Meio Ambiente, Cristiano Alberto de Andrade, que falou sobre a pegada de carbono.\n\nInscreva-se no canal do AgroMais e fique por dentro de todas as not\u00edcias do mundo do agroneg\u00f3cio.\n\nBaixe o aplicativo do AgroMais para ter acesso \u00e0 programa\u00e7\u00e3o e informa\u00e7\u00f5es do canal:\n\nGoogle Play: https://play.google.com/store/apps/details?id=com.agrega.agromais\nApp Store: https://apps.apple.com/br/app/agromais-app/id1515607127?l=en\n\n\nConfira mais informa\u00e7\u00f5es tamb\u00e9m em nosso site (https://agromais.band.uol.com.br/) e siga o AgroMais nas redes sociais:\n\nTwitter: https://twitter.com/agromaistv\nFacebook: https://www.facebook.com/agromaisTV/\nInstagram: https://www.instagram.com/agromaistv/\nLinkedIn: https://www.linkedin.com/company/agromaistv/\n\n#AgroMais #Agroneg\u00f3cio #MundoSoja #PegadaDeCarbono #Carbono"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT27M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "44",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qFNphWZcgiEHr0oXHZCQsbzZ1pY",
+        "id": "dsXSGgego7E",
+        "snippet": {
+          "publishedAt": "2022-02-08T20:00:21Z",
+          "channelId": "UCW9zftmvlVHAdeRuvMq01fQ",
+          "title": "Poli Finance Convida: Roberto Sallouti",
+          "description": "*Entrevista realizada dia 27 de Outubro de 2021\n\nRoberto Sallouti concluiu sua gradua\u00e7\u00e3o em economia pela Wharton School da Universidade da Pensilv\u00e2nia em 1994. Nesse mesmo ano iniciou sua carreira no BTG Pactual como estagi\u00e1rio, muito antes da empresa se tornar o maior banco de investimentos da Am\u00e9rica Latina. Sua trajet\u00f3ria no BTG, como ele mesmo descreve, foi fora da curva: tornou-se s\u00f3cio do banco em apenas quatro anos. Come\u00e7ou sua atua\u00e7\u00e3o na \u00e1rea de renda fixa, at\u00e9 que em 2008 alcan\u00e7ou o cargo de chefe de opera\u00e7\u00f5es, tornou-se membro do conselho em 2011 e CEO em 2015, quando liderou o processo de transforma\u00e7\u00e3o digital do banco.\n\nSallouti integra, tamb\u00e9m, o conselho do Banco Pan h\u00e1 10 anos, onde atua como presidente desde Janeiro deste ano. \u00c9 membro tamb\u00e9m dos conselhos do Mercado Livre e da Federa\u00e7\u00e3o Brasileira de Bancos. Al\u00e9m disso, promove trabalho volunt\u00e1rio no Inteli (instituto de tecnologia e lideran\u00e7a) e na ONG Parceiros pela Educa\u00e7\u00e3o. \n\nO Poli Finance foi fundado em 2012 para ser a Liga de Mercado Financeiro da Escola Polit\u00e9cnica da Universidade de S\u00e3o Paulo. Atrav\u00e9s da organiza\u00e7\u00e3o de grandes eventos e projetos em parceria com os principais bancos e empresas, o grupo visa aproximar os alunos da Poli do mercado financeiro e preparar seus membros para as melhores institui\u00e7\u00f5es do mercado.\n\nSiga o Poli Finance nas redes sociais e se inscreva em nosso mailing para receber vagas do Mercado Financeiro!\n\nSite: https://polifinance.com.br\nInstagram: https://instagram.com/poli_finance\nFacebook: https://facebook.com/polifinance\nLinkedIn: https://linkedin.com/company/poli-finance\nTwitter: https://twitter.com/poli_finance",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dsXSGgego7E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Poli Finance",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Poli Finance Convida: Roberto Sallouti",
+            "description": "*Entrevista realizada dia 27 de Outubro de 2021\n\nRoberto Sallouti concluiu sua gradua\u00e7\u00e3o em economia pela Wharton School da Universidade da Pensilv\u00e2nia em 1994. Nesse mesmo ano iniciou sua carreira no BTG Pactual como estagi\u00e1rio, muito antes da empresa se tornar o maior banco de investimentos da Am\u00e9rica Latina. Sua trajet\u00f3ria no BTG, como ele mesmo descreve, foi fora da curva: tornou-se s\u00f3cio do banco em apenas quatro anos. Come\u00e7ou sua atua\u00e7\u00e3o na \u00e1rea de renda fixa, at\u00e9 que em 2008 alcan\u00e7ou o cargo de chefe de opera\u00e7\u00f5es, tornou-se membro do conselho em 2011 e CEO em 2015, quando liderou o processo de transforma\u00e7\u00e3o digital do banco.\n\nSallouti integra, tamb\u00e9m, o conselho do Banco Pan h\u00e1 10 anos, onde atua como presidente desde Janeiro deste ano. \u00c9 membro tamb\u00e9m dos conselhos do Mercado Livre e da Federa\u00e7\u00e3o Brasileira de Bancos. Al\u00e9m disso, promove trabalho volunt\u00e1rio no Inteli (instituto de tecnologia e lideran\u00e7a) e na ONG Parceiros pela Educa\u00e7\u00e3o. \n\nO Poli Finance foi fundado em 2012 para ser a Liga de Mercado Financeiro da Escola Polit\u00e9cnica da Universidade de S\u00e3o Paulo. Atrav\u00e9s da organiza\u00e7\u00e3o de grandes eventos e projetos em parceria com os principais bancos e empresas, o grupo visa aproximar os alunos da Poli do mercado financeiro e preparar seus membros para as melhores institui\u00e7\u00f5es do mercado.\n\nSiga o Poli Finance nas redes sociais e se inscreva em nosso mailing para receber vagas do Mercado Financeiro!\n\nSite: https://polifinance.com.br\nInstagram: https://instagram.com/poli_finance\nFacebook: https://facebook.com/polifinance\nLinkedIn: https://linkedin.com/company/poli-finance\nTwitter: https://twitter.com/poli_finance"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT53M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2255",
+          "likeCount": "87",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g2RzJkMi6B7il5xcF_UCEJIQPL8",
+        "id": "cqCWAYHm80E",
+        "snippet": {
+          "publishedAt": "2022-03-04T21:58:25Z",
+          "channelId": "UCgxHcOl2hA1It6QOfOLyJLA",
+          "title": "Conex\u00e3o Leite e Derivados com Jo\u00e3o Cruz | AgroMais",
+          "description": "No Conex\u00e3o Leite e Derivados de hoje, o apoio \u00e0 pequena produ\u00e7\u00e3o de leite \u00e9 o assunto! Para falar sobre o tema, Paulo do Carmo Martins recebe Jo\u00e3o Cruz, diretor t\u00e9cnico da Sebrae Minas.\n\n\nInscreva-se no canal do AgroMais e fique por dentro de todas as not\u00edcias do mundo do agroneg\u00f3cio.\n\nBaixe o aplicativo do AgroMais para ter acesso \u00e0 programa\u00e7\u00e3o e informa\u00e7\u00f5es do canal:\n\nGoogle Play: https://play.google.com/store/apps/details?id=com.agrega.agromais\nApp Store: https://apps.apple.com/br/app/agromais-app/id1515607127?l=en\n\n\nConfira mais informa\u00e7\u00f5es tamb\u00e9m em nosso site (https://agromais.band.uol.com.br/) e siga o AgroMais nas redes sociais:\n\nTwitter: https://twitter.com/agromaistv\nFacebook: https://www.facebook.com/agromaisTV/\nInstagram: https://www.instagram.com/agromaistv/\nLinkedIn: https://www.linkedin.com/company/agromaistv/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cqCWAYHm80E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AgroMais",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "Conex\u00e3o Leite e Derivados com Jo\u00e3o Cruz | AgroMais",
+            "description": "No Conex\u00e3o Leite e Derivados de hoje, o apoio \u00e0 pequena produ\u00e7\u00e3o de leite \u00e9 o assunto! Para falar sobre o tema, Paulo do Carmo Martins recebe Jo\u00e3o Cruz, diretor t\u00e9cnico da Sebrae Minas.\n\n\nInscreva-se no canal do AgroMais e fique por dentro de todas as not\u00edcias do mundo do agroneg\u00f3cio.\n\nBaixe o aplicativo do AgroMais para ter acesso \u00e0 programa\u00e7\u00e3o e informa\u00e7\u00f5es do canal:\n\nGoogle Play: https://play.google.com/store/apps/details?id=com.agrega.agromais\nApp Store: https://apps.apple.com/br/app/agromais-app/id1515607127?l=en\n\n\nConfira mais informa\u00e7\u00f5es tamb\u00e9m em nosso site (https://agromais.band.uol.com.br/) e siga o AgroMais nas redes sociais:\n\nTwitter: https://twitter.com/agromaistv\nFacebook: https://www.facebook.com/agromaisTV/\nInstagram: https://www.instagram.com/agromaistv/\nLinkedIn: https://www.linkedin.com/company/agromaistv/"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT27M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "463",
+          "likeCount": "53",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

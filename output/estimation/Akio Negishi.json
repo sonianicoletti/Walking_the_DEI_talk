@@ -1,0 +1,219 @@
+{
+  "ceo": "Akio Negishi",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "qL5Wbv32iI0oob-1XTySmTHcbio",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zf-Nos-HX2a3ePiaHVGQ7p6vQOM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HgdUuPabLhs"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-27T07:00:06Z",
+          "channelId": "UCdUO6qYOQ7QGnQDqe3_baow",
+          "title": "\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u5916\u56fd\u4eba\u304c\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u306e\u6f22\u5b57\u30cd\u30bf\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\uff0f\u65e5\u672c\u306e\u304a\u7b11\u3044 \u30ea\u30a2\u30af\u30b7\u30e7\u30f3",
+          "description": "Patreon\u3067\u5fdc\u63f4\u3057\u3066\u304f\u3060\u3055\u308b\u65b9\u306f\u3053\u3061\u3089\u304b\u3089     https://www.patreon.com/Arina_Ukr \u672c\u65e5\u306f\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u300c\u6f22\u5b57\u300d\u306e ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Arina Ukraine-\u30a2\u30ea\u30ca \u30a6\u30af\u30e9\u30a4\u30ca\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-27T07:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mhTxGNJ65SQW-_0sqFRJbSFkYjE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mZ7zpV-7Nds"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-12T21:52:13Z",
+          "channelId": "UCR_olNwhr40hmwHYFeOcUVw",
+          "title": "Tendo Ryu Naginata-Jutsu around 1947",
+          "description": "This was recorded around 1947 & color was added sometime later.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Martial Arts History w/ Jason White",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-12T21:52:13Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1qBVcSx-paCQikcDcZSPGS1IavM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "A_7M-xFVLk0qbhsmvU63P9LQN5M",
+        "id": "HgdUuPabLhs",
+        "snippet": {
+          "publishedAt": "2022-09-27T07:00:06Z",
+          "channelId": "UCdUO6qYOQ7QGnQDqe3_baow",
+          "title": "\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u5916\u56fd\u4eba\u304c\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u306e\u6f22\u5b57\u30cd\u30bf\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\uff0f\u65e5\u672c\u306e\u304a\u7b11\u3044 \u30ea\u30a2\u30af\u30b7\u30e7\u30f3",
+          "description": "Patreon\u3067\u5fdc\u63f4\u3057\u3066\u304f\u3060\u3055\u308b\u65b9\u306f\u3053\u3061\u3089\u304b\u3089\ud83d\udd3d\ud83e\udd70\nhttps://www.patreon.com/Arina_Ukr\n\n\u672c\u65e5\u306f\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u300c\u6f22\u5b57\u300d\u306e\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u52d5\u753b\u3067\u3059\uff01\ud83e\udd17 \nOriginals\u3000https://youtu.be/R0j3gmBQpMk\n\n\u79c1\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u5fdc\u63f4\u3057\u3066\u304f\u308c\u305f\u4ee5\u4e0b\u306e\u30d1\u30c8\u30ed\u30f3\u69d8\u306b\u5fc3\u3088\u308a\u611f\u8b1d\u3044\u305f\u3057\u307e\u3059\ud83d\ude47\u200d\ud83e\udd70\n\n\ud83d\udc99Patrons (Patreon supporters)\ud83d\udc9b\nK M, otake, \u7530, Daisuke Yamagata, hanawa,K M\nKunio, SHUICHI HIROSE, Y SY, Hiro Taki,samurai neko\nKat, shinsuke ikeda, \u307f\u3061\u3042\u304d \u5225\u5e9c, Mt.Walker, Akio Tsujino\nShingo, \u3071\u3063\u3077, Tetsuya Sato, Plato Plum, y ke, Kei, \u5e79\u4e4b \u8feb\u8d8a\n\u88d5\u4e4b \u6e21\u90e8, R IIDA, Takao Ono, \u3044\u3057\u304b\u308f\u3088\u3057\u307f, \u548c\u5f66 \u6c0f\u5bb6\nHanako Finance with, \u7422\u6d77 \u77f3\u5ddd, \u8061 \u5343\u7530, \u30a6\u30a9\u30c3\u30c1\u30e3\u30fc \u30ef\u30fc\u30eb\u30c9,\u52c7 \u4f50\u91ce\ntt Toshi, \u3088\u3057\u3072\u3053 \u3042\u307e\u3093\u3060, \u6c34\u91ce\u3000\u548c\u5fb3, \u82f1\u5fb3 \u65b0\u5ddd, Peace4sunflowers\nSusumu Hikoyama,tibikuro, \u30a4\u30ab\u30ef \u30d2\u30ed\u30d2\u30c7, \u68a2 \u6ff1\u7530, \u6d0b \u5927\u897f\naoi sizuoka, ichirou suzuki, Akiko, Music97,naya, \u307e\u3050\u308d\u30eb\u30ab, konno tetushi\n\n\n\ud83d\udc99Youtube channel sponsors\ud83d\udc9b\n\n\u8feb\u8d8a\u5e79\u4e4b\u3001red wolf\u3001\u3055\u3093 \u304a\u3063\u3001 On Sait\u3001\n\u84ee\u84ee\u3001\u5f8c\u85e4\u6e05\u548c\u3001\u6cd5\u6708\u9ad8\u5fd7,Y Ono\nYamamura Tomoaki, Kenji Ishikawa,\u307e\u3041\u306e\u3059\u3051\u3001\u3074\u30fc \u307e\u3055\n\u5357\u307e\u307b\u308d\u99c5\u524d\u4fbf\u5229\u8ed2, \u3069\u3046\u3057\u3088\u3046\u8003\u3048\u308b\u3001James, hetasugirugolf01   \n\n\ud83d\udc99\"Super thank you\" commentors\ud83d\udc9b\n\u9234\u6728\u5927\u8f14\u3001\u3055\u3068\u3046\u3072\u308d\u304d  \u3001\u6a2a\u7530\u6587\u5178  \u3001\u8feb\u8d8a\u5e79\u4e4b  \u3001aki aki  \u3001M T\u3001\nzero nomad  \u3001T. Imayama  \u3001Walker Mt\u3001K M  \n\u8702\u9808\u8cc0\u4ea8 \u3001\u30e9\u30d9\u30f3\u30c7\u30a3\u30fc  \u3001red wolf \u3001\u3055\u3093 \u304a\u3063\numi yama\u3001\u82f1\u54c9\u677e\u539f \u3001M Y  \u3001tohokuhonsen\u3001 \n\u65b0\u4e95\u614e\u4e00  \u3001\u6708\u8f2a\u4e4b\u78ca\u4e09\u30c1\u30e3\u30f3\u30cd\u30eb \u3001\u5b6b\u609f\u7a7a  \u3001\n1969 uretanodai\u3001 A G \u3001\u30d7\u30b7\u30e5\u30b1\u30fc\u30d1\u30c8\u30b9  \u3001\u307e\u3081\u307e\u3081\u3002\u3001\nyoko hano \u3001\u5927\u6a4b\u54f2\u4e5f  \u3001Tossy AKT  \u3001ki masu \u3001ShowaBoy\u3001\nNaoki Kawabata\u3001go yashi-p\u3001\u30a4\u30ab\u30b5\u30de\u535a\u58eb\u304b\u306a\u3074\u3048 \u3001\n\u3042\u3089\u3051\u3093 \u3001tohokuhonsen \u3001Sho \u3001\u5c71\u8c37\u90a6\u4ec1\u5b50  \u3001\u5ddd\u4e0a\u8aa0 \u3001\nK M \u3001Cool&Smart, \u5965\u91ce\u5584\u4e8c\u3001Yugo Komiyama Taiwan\u3001\nNV JB\u3001MARU MI, \u30d7\u30b7\u30e5\u30b1\u30fc\u30d1\u30c8\u30b9,p suzu\u3001\u6708\u8f2a\u4e4b\u78ca\u4e09\u30c1\u30e3\u30f3\u30cd\u30eb \n\u9bad\u8336\u6f2c\u3051\u3001\u6d45\u898b\u7adc\u3001Yamamura Tomoaki, nabe jun , yumi_k_023, \n\u753a\u7530\u826f\u5e73\u3001fly ageha\u3001mirai 777\u3001Kopenta\u3001zonne56\u3001\u685c\u672a\u7460  \n\u5c0f\u5c71\u7530\u5fcd\u3001\u3001\u9db4\u7530\u5b8f\u4e4b\u3001Toshiyuki Ohashi\u3001\u9234\u6728\u5927\u8f14\n\u5357\u307e\u307b\u308d\u99c5\u524d\u4fbf\u5229\u8ed2\u3001\u5965\u91ce\u5584\u4e8c\u3001Hiroki Y\u3001\u7530\u4ee3\u79c0\u4e00\u3001\n\u4e2d\u5cf6\u8aed\u3001\u30dc\u30eb\u30c6\u30c4\u3001\u68ee\u306e\u606f\u5439\u3001James, hetasugirugolf01,\nANAN nak, \u609f \u6839\u5cb8, On Sait, \u9234\u6728\u5927\u8f14, rodorigodetoria, \u30dc\u30eb\u30c6\u30c4    \n\n\u304a\u3059\u3059\u3081\u30b3\u30e1\u30c7\u30a3\u30fc\u3001\u30b9\u30dd\u30fc\u30c4\u3001\u6b4c\u624b\u3001\u6b4c\u306a\u3069\u3092\u63d0\u6848\u3057\u3066\u304f\u3060\u3055\u3044\uff01\n\n\u304a\u3059\u3059\u3081\u306e\u52d5\u753b\n\u2705\u7206\u7b11\u30b3\u30f3\u30c8 \u9663\u5185\u667a\u5247\u3010\u7f8a\u304c\u4e00\u5339\u2026\u3011\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\u266a\nhttps://youtu.be/R6ijdhahNHc\n\n\u2705\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u30a6\u30af\u30e9\u30a4\u30ca\u4eba\u304c\u3055\u3051\u308b\u30b0\u30df\u306eCM\u30b7\u30ea\u30fc\u30ba\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\u266a\nhttps://youtu.be/sRto4wQ0Z3I\n\n\u2705\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u7206\u7b11\u6f2b\u624d\u3000\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb\u30a2\u30ef\u30fc \u30bf\u30d0\u30b3\u6b62\u3081\u308d\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\nhttps://youtu.be/SUAPApPkoZk\n\n\uff03\u6d77\u5916\u306e\u53cd\u5fdc  #Reaction #\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\n\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*\n\n---------------------------------------------------------------------------------------------------------------------\n\u3010\u554f\u3044\u5408\u308f\u305b\u5148\uff0fContact\u3011\n\u304a\u4ed5\u4e8b\u4f9d\u983c\u306a\u3069\u3042\u308a\u307e\u3057\u305f\u3089\u3001\narina.japanesetime@gmail.com \u307e\u3067\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059\u3002\nfor work/business enquires please email me at arina.japanesetime@gmail.com\n---------------------------------------------------------------------------------------------------------------------",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HgdUuPabLhs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Arina Ukraine-\u30a2\u30ea\u30ca \u30a6\u30af\u30e9\u30a4\u30ca\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "tags": [
+            "\u6d77\u5916\u306e\u53cd\u5fdc",
+            "\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3 \u82f1\u8a9e",
+            "\u5916\u56fd\u4eba\u304c\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u306e\u6f22\u5b57\u30cd\u30bf",
+            "\u30b8\u30a7\u30a4\u30bd\u30f3\u3000\u30ea\u30a2\u30af\u30b7\u30e7\u30f3",
+            "\u5916\u56fd\u4eba\u306e\u53cd\u5fdc",
+            "\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3 \u30cd\u30bf",
+            "\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3 \u6d77\u5916\u306e\u53cd\u5fdc"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u5916\u56fd\u4eba\u304c\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u306e\u6f22\u5b57\u30cd\u30bf\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\uff0f\u65e5\u672c\u306e\u304a\u7b11\u3044 \u30ea\u30a2\u30af\u30b7\u30e7\u30f3",
+            "description": "Patreon\u3067\u5fdc\u63f4\u3057\u3066\u304f\u3060\u3055\u308b\u65b9\u306f\u3053\u3061\u3089\u304b\u3089\ud83d\udd3d\ud83e\udd70\nhttps://www.patreon.com/Arina_Ukr\n\n\u672c\u65e5\u306f\u539a\u5207\u308a\u30b8\u30a7\u30a4\u30bd\u30f3\u300c\u6f22\u5b57\u300d\u306e\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u52d5\u753b\u3067\u3059\uff01\ud83e\udd17 \nOriginals\u3000https://youtu.be/R0j3gmBQpMk\n\n\u79c1\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u5fdc\u63f4\u3057\u3066\u304f\u308c\u305f\u4ee5\u4e0b\u306e\u30d1\u30c8\u30ed\u30f3\u69d8\u306b\u5fc3\u3088\u308a\u611f\u8b1d\u3044\u305f\u3057\u307e\u3059\ud83d\ude47\u200d\ud83e\udd70\n\n\ud83d\udc99Patrons (Patreon supporters)\ud83d\udc9b\nK M, otake, \u7530, Daisuke Yamagata, hanawa,K M\nKunio, SHUICHI HIROSE, Y SY, Hiro Taki,samurai neko\nKat, shinsuke ikeda, \u307f\u3061\u3042\u304d \u5225\u5e9c, Mt.Walker, Akio Tsujino\nShingo, \u3071\u3063\u3077, Tetsuya Sato, Plato Plum, y ke, Kei, \u5e79\u4e4b \u8feb\u8d8a\n\u88d5\u4e4b \u6e21\u90e8, R IIDA, Takao Ono, \u3044\u3057\u304b\u308f\u3088\u3057\u307f, \u548c\u5f66 \u6c0f\u5bb6\nHanako Finance with, \u7422\u6d77 \u77f3\u5ddd, \u8061 \u5343\u7530, \u30a6\u30a9\u30c3\u30c1\u30e3\u30fc \u30ef\u30fc\u30eb\u30c9,\u52c7 \u4f50\u91ce\ntt Toshi, \u3088\u3057\u3072\u3053 \u3042\u307e\u3093\u3060, \u6c34\u91ce\u3000\u548c\u5fb3, \u82f1\u5fb3 \u65b0\u5ddd, Peace4sunflowers\nSusumu Hikoyama,tibikuro, \u30a4\u30ab\u30ef \u30d2\u30ed\u30d2\u30c7, \u68a2 \u6ff1\u7530, \u6d0b \u5927\u897f\naoi sizuoka, ichirou suzuki, Akiko, Music97,naya, \u307e\u3050\u308d\u30eb\u30ab, konno tetushi\n\n\n\ud83d\udc99Youtube channel sponsors\ud83d\udc9b\n\n\u8feb\u8d8a\u5e79\u4e4b\u3001red wolf\u3001\u3055\u3093 \u304a\u3063\u3001 On Sait\u3001\n\u84ee\u84ee\u3001\u5f8c\u85e4\u6e05\u548c\u3001\u6cd5\u6708\u9ad8\u5fd7,Y Ono\nYamamura Tomoaki, Kenji Ishikawa,\u307e\u3041\u306e\u3059\u3051\u3001\u3074\u30fc \u307e\u3055\n\u5357\u307e\u307b\u308d\u99c5\u524d\u4fbf\u5229\u8ed2, \u3069\u3046\u3057\u3088\u3046\u8003\u3048\u308b\u3001James, hetasugirugolf01   \n\n\ud83d\udc99\"Super thank you\" commentors\ud83d\udc9b\n\u9234\u6728\u5927\u8f14\u3001\u3055\u3068\u3046\u3072\u308d\u304d  \u3001\u6a2a\u7530\u6587\u5178  \u3001\u8feb\u8d8a\u5e79\u4e4b  \u3001aki aki  \u3001M T\u3001\nzero nomad  \u3001T. Imayama  \u3001Walker Mt\u3001K M  \n\u8702\u9808\u8cc0\u4ea8 \u3001\u30e9\u30d9\u30f3\u30c7\u30a3\u30fc  \u3001red wolf \u3001\u3055\u3093 \u304a\u3063\numi yama\u3001\u82f1\u54c9\u677e\u539f \u3001M Y  \u3001tohokuhonsen\u3001 \n\u65b0\u4e95\u614e\u4e00  \u3001\u6708\u8f2a\u4e4b\u78ca\u4e09\u30c1\u30e3\u30f3\u30cd\u30eb \u3001\u5b6b\u609f\u7a7a  \u3001\n1969 uretanodai\u3001 A G \u3001\u30d7\u30b7\u30e5\u30b1\u30fc\u30d1\u30c8\u30b9  \u3001\u307e\u3081\u307e\u3081\u3002\u3001\nyoko hano \u3001\u5927\u6a4b\u54f2\u4e5f  \u3001Tossy AKT  \u3001ki masu \u3001ShowaBoy\u3001\nNaoki Kawabata\u3001go yashi-p\u3001\u30a4\u30ab\u30b5\u30de\u535a\u58eb\u304b\u306a\u3074\u3048 \u3001\n\u3042\u3089\u3051\u3093 \u3001tohokuhonsen \u3001Sho \u3001\u5c71\u8c37\u90a6\u4ec1\u5b50  \u3001\u5ddd\u4e0a\u8aa0 \u3001\nK M \u3001Cool&Smart, \u5965\u91ce\u5584\u4e8c\u3001Yugo Komiyama Taiwan\u3001\nNV JB\u3001MARU MI, \u30d7\u30b7\u30e5\u30b1\u30fc\u30d1\u30c8\u30b9,p suzu\u3001\u6708\u8f2a\u4e4b\u78ca\u4e09\u30c1\u30e3\u30f3\u30cd\u30eb \n\u9bad\u8336\u6f2c\u3051\u3001\u6d45\u898b\u7adc\u3001Yamamura Tomoaki, nabe jun , yumi_k_023, \n\u753a\u7530\u826f\u5e73\u3001fly ageha\u3001mirai 777\u3001Kopenta\u3001zonne56\u3001\u685c\u672a\u7460  \n\u5c0f\u5c71\u7530\u5fcd\u3001\u3001\u9db4\u7530\u5b8f\u4e4b\u3001Toshiyuki Ohashi\u3001\u9234\u6728\u5927\u8f14\n\u5357\u307e\u307b\u308d\u99c5\u524d\u4fbf\u5229\u8ed2\u3001\u5965\u91ce\u5584\u4e8c\u3001Hiroki Y\u3001\u7530\u4ee3\u79c0\u4e00\u3001\n\u4e2d\u5cf6\u8aed\u3001\u30dc\u30eb\u30c6\u30c4\u3001\u68ee\u306e\u606f\u5439\u3001James, hetasugirugolf01,\nANAN nak, \u609f \u6839\u5cb8, On Sait, \u9234\u6728\u5927\u8f14, rodorigodetoria, \u30dc\u30eb\u30c6\u30c4    \n\n\u304a\u3059\u3059\u3081\u30b3\u30e1\u30c7\u30a3\u30fc\u3001\u30b9\u30dd\u30fc\u30c4\u3001\u6b4c\u624b\u3001\u6b4c\u306a\u3069\u3092\u63d0\u6848\u3057\u3066\u304f\u3060\u3055\u3044\uff01\n\n\u304a\u3059\u3059\u3081\u306e\u52d5\u753b\n\u2705\u7206\u7b11\u30b3\u30f3\u30c8 \u9663\u5185\u667a\u5247\u3010\u7f8a\u304c\u4e00\u5339\u2026\u3011\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\u266a\nhttps://youtu.be/R6ijdhahNHc\n\n\u2705\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u30a6\u30af\u30e9\u30a4\u30ca\u4eba\u304c\u3055\u3051\u308b\u30b0\u30df\u306eCM\u30b7\u30ea\u30fc\u30ba\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\u266a\nhttps://youtu.be/sRto4wQ0Z3I\n\n\u2705\u3010\u6d77\u5916\u306e\u53cd\u5fdc\u3011\u7206\u7b11\u6f2b\u624d\u3000\u30d5\u30c3\u30c8\u30dc\u30fc\u30eb\u30a2\u30ef\u30fc \u30bf\u30d0\u30b3\u6b62\u3081\u308d\u3092\u307f\u3066\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3059\u308b\nhttps://youtu.be/SUAPApPkoZk\n\n\uff03\u6d77\u5916\u306e\u53cd\u5fdc  #Reaction #\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\n\n*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*\n\n---------------------------------------------------------------------------------------------------------------------\n\u3010\u554f\u3044\u5408\u308f\u305b\u5148\uff0fContact\u3011\n\u304a\u4ed5\u4e8b\u4f9d\u983c\u306a\u3069\u3042\u308a\u307e\u3057\u305f\u3089\u3001\narina.japanesetime@gmail.com \u307e\u3067\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059\u3002\nfor work/business enquires please email me at arina.japanesetime@gmail.com\n---------------------------------------------------------------------------------------------------------------------"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "contentDetails": {
+          "duration": "PT7M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "30417",
+          "likeCount": "863",
+          "favoriteCount": "0",
+          "commentCount": "92"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "e-_s_v7VJjQSHNw3ZARP-1eT3KY",
+        "id": "mZ7zpV-7Nds",
+        "snippet": {
+          "publishedAt": "2022-05-12T21:52:13Z",
+          "channelId": "UCR_olNwhr40hmwHYFeOcUVw",
+          "title": "Tendo Ryu Naginata-Jutsu around 1947",
+          "description": "This was recorded around 1947 & color was added sometime later.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mZ7zpV-7Nds/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Martial Arts History w/ Jason White",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tendo Ryu Naginata-Jutsu around 1947",
+            "description": "This was recorded around 1947 & color was added sometime later."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1904",
+          "likeCount": "66",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

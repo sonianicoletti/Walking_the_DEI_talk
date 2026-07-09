@@ -1,0 +1,1745 @@
+{
+  "ceo": "Chen Dongsheng",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "BUi02u2Ghwid7TVAshxRizGUNZk",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 21,
+      "resultsPerPage": 17
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6n1DmO8phNSlcIOlXWEIHKC4iW4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ak-DsK88A6g"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-21T12:33:49Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Oil Painter Yuan Chunming\u00a0\u539f\u6625\u9e23! (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-21T12:33:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MdyGPsGC-iwDY8YO7SJgzLSp6l4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-TRa3nQKcJo"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-31T12:54:20Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Oil Painter Gao Yuanyuan \u9ad8\u5706\u5706\u00a0(FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-31T12:54:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-tA7dxN54pU6kEibjgkmNRA5vqo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yCFHju4_xe4"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-09T22:52:53Z",
+          "channelId": "UC7eIycTpQsTbB4fnLHt7v0A",
+          "title": "GM Chang Tung-sheng visit OSU 1980 part2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dr. Weng's Kung-fu & Wellness",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-09T22:52:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9bcDmlpqwd_CjHl_86GCtwCXcPU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Un4W1naXXsc"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-31T12:50:46Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Poet &amp; Artist Zong Tingfeng\u00a0\u5b97\u9706\u950b (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-31T12:50:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mqv97mTE0vVXXma-XfUVERLci5Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Fg2strdYYlY"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-24T13:44:37Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet FENIX360 Advisor James Lee (\u674e\u57f9\u52e4) (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-24T13:44:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TJaDYFrpJ2F5a2gbI0BUokhgeKg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LNLYNmnYSeE"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-10T22:12:04Z",
+          "channelId": "UCiinSjWS3E0vtAa3DCvp7iA",
+          "title": "Winter Olympics: Western Reporters Compete for Gold in Fear-Mongering",
+          "description": "The 2022 Winter Olympics in Beijing is here but the U.S. isn't sending its officials, calling it a \u201cdiplomatic boycott.\u201d Meanwhile, host ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BreakThrough News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-10T22:12:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WW_OQBuu32R0HC1GA3mAXpfUK0g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KMEUFeGuJ-g"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-07T02:08:02Z",
+          "channelId": "UCSntVrfUYmjl6d_hkM76KQg",
+          "title": "Shuai Jiao San Da Full Contact",
+          "description": "These full contact matches were filmed in 1983, at Ohio State University as part of their Shuai Jiao Chinese wrestling program.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lion's Roar Kung Fu",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-07T02:08:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qf6Fs2uWc1C4MpAZoGGr--yw6_E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eyrk-18G6oo"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T11:54:39Z",
+          "channelId": "UC4o11LaTDAarOOhsYGd8h4w",
+          "title": "Rapid transformation? Yang Zi&#39;s new play and Chen Xiao play the role of a psychologist again, net pr",
+          "description": "The queen of ratings Yang Zi's previous immortal drama masterpiece \"sink fragrance like crumbs - sink fragrance heavy China\", ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "yangzi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T11:54:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KgGzRJYG1TQVB35roh73vwqigY0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vucVXLN1oLY"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-19T17:37:31Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Singaporean Nanyin Composer Wu Qiren \u5434\u542f\u4ec1 (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-19T17:37:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "93q6z7Poe28vKcDTmccozVHhWdY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DfCU6tP3nZM"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-11T13:37:35Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Artist Professor Wang  Xinggang \u738b\u5174\u521a (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-11T13:37:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jt9I7pun9Nr1l2f_HYXv_egILqE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VUlU3gCHatQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-05T13:14:47Z",
+          "channelId": "UC4o11LaTDAarOOhsYGd8h4w",
+          "title": "The roles were changed, Yang Zi wanted to play because the investor&#39;s daughter wanted to play it",
+          "description": "A TV series shot to half, temporarily be replaced, whether the crew or investors will have cost losses, so generally determine ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "yangzi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-05T13:14:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SHw_Atedwk8F7aXYjV55esjaJL0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZJ7ctWaJ2-I"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-25T07:16:49Z",
+          "channelId": "UCm_MB2bd5AxiRsG6R79GMjA",
+          "title": "Jay Chou praised Leehom Wang&#39;s ins for praising Wang Yibo, it turns out that the two of them wo...",
+          "description": "WANG YIBO ENGSUB 2022/02/22: Jay Chou praised Leehom Wang's ins for praising Wang Yibo, it turns out that the two of them ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WANG YIBO ENGSUB",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-25T07:16:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XGVgkKNyZCxd9U_ZsSn37TGXJMk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m9oI_6uAlls"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-18T15:15:09Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Singapore Violinist Wang Lina (\u738b\u4e3d\u5a1c)! (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-18T15:15:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QM3dxRZbCfy4dU-ycJMLYSsbqFY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QJuNdolKK_A"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-29T14:33:21Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Renowned Singaporean Singer Zac Zhang \u5f20\u96c4 (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-29T14:33:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-0H3detw_Z0WLiQCTZqYtPuT5RM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rBJXEMSqNR4"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-12T00:10:56Z",
+          "channelId": "UC4HjOk_ubxNWF0gCBWxfL4w",
+          "title": "The Bad Kids gave me CHILLS, Anna, Bloody Heart, Jinxed At First Final Review",
+          "description": "Dramas Mentioned: Anna Bloody Heart Jinxed At First The Bad Kids For extra support, Buy me a Coffee on Kofi: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cdrama Invasion",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-12T00:10:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i_WZnXT0fDErF6uxouxQHR7WIW8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "odKz5UIhN8I"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-08T19:00:14Z",
+          "channelId": "UCTEWVtPDuqutI0cGMc0XneA",
+          "title": "EP#49: SHIFU CLEBER SOUZA",
+          "description": "O shifu Cleber Souza tem experi\u00eancia com Kung Fu e Taijiquan (Tai Chi), h\u00e1 mais de 25 anos. \u00c9 disc\u00edpulo direto do Gr\u00e3o Mestre ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O QUE SEI SOBRE TIGRES E DRAG\u00d5ES",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-08T19:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uQfh57LX9NGUDp8rKkysk59ptL4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-_vpchr9jr8"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-10T21:17:19Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Acclaimed Poet, Writer, Painter Shen Yiran\u00a0\u6c88\u4f9d\u7136! (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-10T21:17:19Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "pWRyoZ8AgogEoVSApjNZJ1_As2I",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ESO_qYA94qxkLqvHPBP5MXNx_cw",
+        "id": "Ak-DsK88A6g",
+        "snippet": {
+          "publishedAt": "2022-03-21T12:33:49Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Oil Painter Yuan Chunming\u00a0\u539f\u6625\u9e23! (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on Yuan Chunming\u00a0 (\u539f\u6625\u9e23)\u00a0\n\nAssociate Professor of Art / Oil Painting Artist\n\nGraduated from The Oil painting Department of Xi 'an Academy of Fine Arts.\u00a0\n\nNow she is an Associate Professor of Art College of Ankang University.\u00a0\n\nShe was a visiting scholar of The University of Bolton in 2017 and a key young visiting scholar of The Central Academy of Fine Arts from 2012 to 2013. She graduated from the Theory and Criticism class of Contemporary Fine Arts of the Central Academy of Fine Arts in 2012.\u00a0\n\nShe was awarded the second Special Seminar on Oil Painting Materials of the Central Academy of Fine Arts from 2008 to 2009.\u00a0 Her works have been selected for many domestic and foreign painting exhibitions and won awards, and many of them have been collected by private collectors. She has published a number of painting works and academic\narticles and monographs \" Chunming Yuan works collection\", co-authored \"Investigation of Southern Shaanxi Folk Culture\" and edited \"Oil Painting Creation Course\". Now She is the director of Ankang Artists Association, deputy director of Oil painting Art Committee of Ankang Artists Association, member of Shaanxi Artists Association, researcher of Shaanxi watercolour powder Painting Society, vice president of Shaanxi Freehand painting Society, member of the organizing\ncommittee of new contemporary Art exhibition of Crazy Exchange Meeting.\u00a0\n\nRecent Exhibitions :\nJanuary 2022 The 9th Crazy Exchange International Modern and Contemporary Art Exhibition\n(online)\nIn September 2021, we will meet in Xi 'an, build a dream, network exhibition of art works xi 'an\nArtists Association\nSeptember 2021 AmericanArtAwards 4th Place-Tie REALISM OR IMPRESSIONISM -- LANDSCAPE\nWITH LIFE\n2021 Noteworthy U.S. Online Drawing Competition, Humanities Color Museum of America Merit\nAward\nSpecial Merit of The American Museum of Light And Space Art, the 11th International Open\nOnline Competition of Light and Space, 2021\nHonorable Mention Award of the 3rd International Landscape Online Art Competition (Los\nAngeles, USA)\n2021 International Art Competition -- Honorable Mention Award of The Second Online\nRepresentational Competition International Art Exhibition (Los Angeles, USA)\n2021 Qin Feng Tang Yun Water Color Chang 'an, Xi 'an Artists Association Watercolor Art\nCommittee academic Achievement Exhibition Xi 'an Artists Association\n2021 Shaanxi Mass Art and Calligraphy Exhibition, Shaanxi Federation of Trade Unions third prize\n2021 The 5th Crazy Exchange International Modern and Contemporary Art Exhibition (online)\n2021 The second \"Fantasy \u00b7 Painting\" Contemporary Art Works Online Exhibition Fantasy Tree\nArt Space Baoding Fantasy Tree Culture Media Co., LTD\nThe 4th China (International) Abstract Art Exhibition -- Abstract and Existence (Network) Chinese\nAbstract Art Promotion Salon of China Art Society\n2020 \"Silk Road Origin, Happiness and Well-being\" Ankang Art Museum Opening Ceremony and\nlarge art and Calligraphy Exhibition ankang Art Museum\n2020 The first \"Fantasy \u00b7 Painting\" Contemporary Art Works Online Exhibition Fantasy Tree Art\nSpace Baoding Fantasy Tree Culture Media Co., LTD\nFlows Across the Bridge, Chelsea College of Art, University of London, 2020\n2019 The first Exhibition of Shaanxi Freehand Oil Painting Research Association, One Space Art\nMuseum, Xi 'an\n2019 \"Sailing 100 Nominated Oil Painting Exhibition\" Qingdao Oil Painting Lang Art Museum\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ak-DsK88A6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Chinese Oil Painter Yuan Chunming\u00a0\u539f\u6625\u9e23! (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on Yuan Chunming\u00a0 (\u539f\u6625\u9e23)\u00a0\n\nAssociate Professor of Art / Oil Painting Artist\n\nGraduated from The Oil painting Department of Xi 'an Academy of Fine Arts.\u00a0\n\nNow she is an Associate Professor of Art College of Ankang University.\u00a0\n\nShe was a visiting scholar of The University of Bolton in 2017 and a key young visiting scholar of The Central Academy of Fine Arts from 2012 to 2013. She graduated from the Theory and Criticism class of Contemporary Fine Arts of the Central Academy of Fine Arts in 2012.\u00a0\n\nShe was awarded the second Special Seminar on Oil Painting Materials of the Central Academy of Fine Arts from 2008 to 2009.\u00a0 Her works have been selected for many domestic and foreign painting exhibitions and won awards, and many of them have been collected by private collectors. She has published a number of painting works and academic\narticles and monographs \" Chunming Yuan works collection\", co-authored \"Investigation of Southern Shaanxi Folk Culture\" and edited \"Oil Painting Creation Course\". Now She is the director of Ankang Artists Association, deputy director of Oil painting Art Committee of Ankang Artists Association, member of Shaanxi Artists Association, researcher of Shaanxi watercolour powder Painting Society, vice president of Shaanxi Freehand painting Society, member of the organizing\ncommittee of new contemporary Art exhibition of Crazy Exchange Meeting.\u00a0\n\nRecent Exhibitions :\nJanuary 2022 The 9th Crazy Exchange International Modern and Contemporary Art Exhibition\n(online)\nIn September 2021, we will meet in Xi 'an, build a dream, network exhibition of art works xi 'an\nArtists Association\nSeptember 2021 AmericanArtAwards 4th Place-Tie REALISM OR IMPRESSIONISM -- LANDSCAPE\nWITH LIFE\n2021 Noteworthy U.S. Online Drawing Competition, Humanities Color Museum of America Merit\nAward\nSpecial Merit of The American Museum of Light And Space Art, the 11th International Open\nOnline Competition of Light and Space, 2021\nHonorable Mention Award of the 3rd International Landscape Online Art Competition (Los\nAngeles, USA)\n2021 International Art Competition -- Honorable Mention Award of The Second Online\nRepresentational Competition International Art Exhibition (Los Angeles, USA)\n2021 Qin Feng Tang Yun Water Color Chang 'an, Xi 'an Artists Association Watercolor Art\nCommittee academic Achievement Exhibition Xi 'an Artists Association\n2021 Shaanxi Mass Art and Calligraphy Exhibition, Shaanxi Federation of Trade Unions third prize\n2021 The 5th Crazy Exchange International Modern and Contemporary Art Exhibition (online)\n2021 The second \"Fantasy \u00b7 Painting\" Contemporary Art Works Online Exhibition Fantasy Tree\nArt Space Baoding Fantasy Tree Culture Media Co., LTD\nThe 4th China (International) Abstract Art Exhibition -- Abstract and Existence (Network) Chinese\nAbstract Art Promotion Salon of China Art Society\n2020 \"Silk Road Origin, Happiness and Well-being\" Ankang Art Museum Opening Ceremony and\nlarge art and Calligraphy Exhibition ankang Art Museum\n2020 The first \"Fantasy \u00b7 Painting\" Contemporary Art Works Online Exhibition Fantasy Tree Art\nSpace Baoding Fantasy Tree Culture Media Co., LTD\nFlows Across the Bridge, Chelsea College of Art, University of London, 2020\n2019 The first Exhibition of Shaanxi Freehand Oil Painting Research Association, One Space Art\nMuseum, Xi 'an\n2019 \"Sailing 100 Nominated Oil Painting Exhibition\" Qingdao Oil Painting Lang Art Museum\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT17M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "93",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "E-yrstMBNIWsdCBMSwzVa0H5y2I",
+        "id": "-TRa3nQKcJo",
+        "snippet": {
+          "publishedAt": "2022-03-31T12:54:20Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Oil Painter Gao Yuanyuan \u9ad8\u5706\u5706\u00a0(FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Gao Yuanyuan (\u9ad8\u5706\u5706)\u00a0\n\nGao Yuanyuan, graduated from Xi'an Academy of Fine Arts in 2007.\u00a0\n\nA person of independent personality with strong autonomy and thinking.\u00a0\u00a0\n\nShe is low profile. Her artistic style is extremely fiery and unrestrained, open atmosphere.\n\nSince 2008, she has been living in Songzhuang as a professional artist. Songzhuang is the most famous artist village in Beijing with 2000 residents.\u00a0\n\nOver the years, she has devoted herself to exploring and advancing her artistic creation, drawing a lot of abstract oil paintings. Her artistic language is becoming more and more profound and rich, and her depiction of the spiritual world is becoming clearer and higher; her style moves people's hearts.\n\nShe looks upon painting as a need for inner emotional expression. In her understanding , any art is just a form of expression, it has its own language, and language needs to be learned. Art itself is a container, and the size and quality of the container need to be completed by the artist himself.\n\nIt requires inborn talent,\u00a0 learning, thinking, and practice. Her thinking and experiments on abstract painting have continued since graduated from college, and her thinking has gone from vague to clear. As an oriental person, there is always a lingering oriental complex in the bones, from the creative technique to the spiritual connotation, it has been profoundly affecting the formation of the picture. The reason why she focuses on abstract creation is because it is\u00a0 in line with her\u00a0 spiritual expression needs. The space for abstract expression is free and broad. In the process of creation, there is often a surprise of being in an unknown space, as if you have set up a maze, you can swim and think to your heart's content.\n\nWhen an artist perfects her artistic language, she is also perfecting herself. Such perfection requires time, experience, and understanding. she just wants to settle down, know herself, recognize life, and do pure artistic expression.\n\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-TRa3nQKcJo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Chinese Oil Painter Gao Yuanyuan \u9ad8\u5706\u5706\u00a0(FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Gao Yuanyuan (\u9ad8\u5706\u5706)\u00a0\n\nGao Yuanyuan, graduated from Xi'an Academy of Fine Arts in 2007.\u00a0\n\nA person of independent personality with strong autonomy and thinking.\u00a0\u00a0\n\nShe is low profile. Her artistic style is extremely fiery and unrestrained, open atmosphere.\n\nSince 2008, she has been living in Songzhuang as a professional artist. Songzhuang is the most famous artist village in Beijing with 2000 residents.\u00a0\n\nOver the years, she has devoted herself to exploring and advancing her artistic creation, drawing a lot of abstract oil paintings. Her artistic language is becoming more and more profound and rich, and her depiction of the spiritual world is becoming clearer and higher; her style moves people's hearts.\n\nShe looks upon painting as a need for inner emotional expression. In her understanding , any art is just a form of expression, it has its own language, and language needs to be learned. Art itself is a container, and the size and quality of the container need to be completed by the artist himself.\n\nIt requires inborn talent,\u00a0 learning, thinking, and practice. Her thinking and experiments on abstract painting have continued since graduated from college, and her thinking has gone from vague to clear. As an oriental person, there is always a lingering oriental complex in the bones, from the creative technique to the spiritual connotation, it has been profoundly affecting the formation of the picture. The reason why she focuses on abstract creation is because it is\u00a0 in line with her\u00a0 spiritual expression needs. The space for abstract expression is free and broad. In the process of creation, there is often a surprise of being in an unknown space, as if you have set up a maze, you can swim and think to your heart's content.\n\nWhen an artist perfects her artistic language, she is also perfecting herself. Such perfection requires time, experience, and understanding. she just wants to settle down, know herself, recognize life, and do pure artistic expression.\n\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "233",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SXqMc5KjohsznOxPxu2vUq2ZiJk",
+        "id": "yCFHju4_xe4",
+        "snippet": {
+          "publishedAt": "2022-05-09T22:52:53Z",
+          "channelId": "UC7eIycTpQsTbB4fnLHt7v0A",
+          "title": "GM Chang Tung-sheng visit OSU 1980 part2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yCFHju4_xe4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Dr. Weng's Kung-fu & Wellness",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "GM Chang Tung-sheng visit OSU 1980 part2",
+            "description": ""
+          },
+          "defaultAudioLanguage": "zh-Hant"
+        },
+        "contentDetails": {
+          "duration": "PT10M27S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1596",
+          "likeCount": "62",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2Tza-pJX8CNVjrfG_ahIDqmweXM",
+        "id": "Un4W1naXXsc",
+        "snippet": {
+          "publishedAt": "2022-03-31T12:50:46Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Poet & Artist Zong Tingfeng\u00a0\u5b97\u9706\u950b (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Zong Tingfeng\u00a0 (\u5b97\u9706\u950b)\n\nBorn in 1968 in Wuqi County, Shaanxi Province.\n\nGraduated from Xi'an Academy of Fine Arts in 1992 , majored in printmaking.\n\nHe began to write poetry during his college days. He has published poetry collections \" A hawthorn tree that slows down and deepens \", \"Selected Poems of Zong Tingfeng\", and a collection of paintings and theories \"Poetic Painting\". \"The Collection of Food Mulberry\", \"Passion and Fear\", \"The Sharp Red of the Sun\", \"Praying Cow Goes to the Golden Haystack\", \"Fantasy Lucena\", \"Fable of Auspicious Village\", \"The Lamp God\", The Flock of Birds Flying and other poems include short poems, long poems, poetic dramas, and compound writing styles.\n\nIn 2006, he attended the 22nd \"Youth Poetry Society\" of the Chinese Writers Association.\n\nIn 2007, the world's first electronic poetry collection \"Pocket Labyrinth\" was released through Toshiba SD card.\n\nIn 2008, he published a collection of poems, \" A hawthorn tree that slows down and deepens \" (Taibai Literature and Art Publishing House).\n\nIn May 2008, he attended the Poetry Symposium on \"The Marginal Destiny of Chinese Contemporary Poetry and Its Personal Mission\" hosted by the Institute of Cultural Criticism of Tongji University in Shanghai and the School of Humanities of Tongji University. The initiator and host of the conference, Professor Zhu Dake, a well-known contemporary cultural critic, spoke highly of his \u00a0 creations and believed that he is one of the most important poets in China after Haizi ( Pen name of a very famous Mainland China poet Zha Haisheng after the Cultural Revolution l ) \"\n\nIn 2010, he joined the Woodpecker Science Group, engaged in literary writing, painting theoretical research and creation.\n\nIn 2013, he published the theoretical research on personal painting and the album \"Poetic Painting\".\n\nIn 2014, he published the poetry collection Zong Tingfeng's Selected Poems (Huacheng Publishing House).\n\nNow living in Songzhuang, engaged in literature, art creation and related activities. Songzhuang\u00a0 is an artist village and is the biggest and most famous artist community in\u00a0 Beijing with 2000 artist residents\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Un4W1naXXsc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Chinese Poet & Artist Zong Tingfeng\u00a0\u5b97\u9706\u950b (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Zong Tingfeng\u00a0 (\u5b97\u9706\u950b)\n\nBorn in 1968 in Wuqi County, Shaanxi Province.\n\nGraduated from Xi'an Academy of Fine Arts in 1992 , majored in printmaking.\n\nHe began to write poetry during his college days. He has published poetry collections \" A hawthorn tree that slows down and deepens \", \"Selected Poems of Zong Tingfeng\", and a collection of paintings and theories \"Poetic Painting\". \"The Collection of Food Mulberry\", \"Passion and Fear\", \"The Sharp Red of the Sun\", \"Praying Cow Goes to the Golden Haystack\", \"Fantasy Lucena\", \"Fable of Auspicious Village\", \"The Lamp God\", The Flock of Birds Flying and other poems include short poems, long poems, poetic dramas, and compound writing styles.\n\nIn 2006, he attended the 22nd \"Youth Poetry Society\" of the Chinese Writers Association.\n\nIn 2007, the world's first electronic poetry collection \"Pocket Labyrinth\" was released through Toshiba SD card.\n\nIn 2008, he published a collection of poems, \" A hawthorn tree that slows down and deepens \" (Taibai Literature and Art Publishing House).\n\nIn May 2008, he attended the Poetry Symposium on \"The Marginal Destiny of Chinese Contemporary Poetry and Its Personal Mission\" hosted by the Institute of Cultural Criticism of Tongji University in Shanghai and the School of Humanities of Tongji University. The initiator and host of the conference, Professor Zhu Dake, a well-known contemporary cultural critic, spoke highly of his \u00a0 creations and believed that he is one of the most important poets in China after Haizi ( Pen name of a very famous Mainland China poet Zha Haisheng after the Cultural Revolution l ) \"\n\nIn 2010, he joined the Woodpecker Science Group, engaged in literary writing, painting theoretical research and creation.\n\nIn 2013, he published the theoretical research on personal painting and the album \"Poetic Painting\".\n\nIn 2014, he published the poetry collection Zong Tingfeng's Selected Poems (Huacheng Publishing House).\n\nNow living in Songzhuang, engaged in literature, art creation and related activities. Songzhuang\u00a0 is an artist village and is the biggest and most famous artist community in\u00a0 Beijing with 2000 artist residents\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT17M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "24",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "asSo6242dAYS5x8RRTlH4_hJ7QQ",
+        "id": "Fg2strdYYlY",
+        "snippet": {
+          "publishedAt": "2022-03-24T13:44:37Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet FENIX360 Advisor James Lee (\u674e\u57f9\u52e4) (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on James Lee (\u674e\u57f9\u52e4)\n\nFenix Chief Advisor (Capita Market and Fund Raising)\u00a0\u00a0\n\nArmed with more than 25 years working experience in the China market, has built up extensive networks and resources in both the corporate world and investment communities particularly in Singapore and China.\u00a0 With his connections, he has assisted many Chinese companies in their fund-raising exercises, internationalization, overseas listings and served as advisor to many of them. He will advise Fenix in all joint venture, Merger, and acquisition, listing and fundraising matters.\n\n\nGraduated from University of Singapore, with bachelor\u2019s degree in the Electrical Engineering Faculty in 1980. He is a veteran in China since 1992\n\n1980-1993 \u00a0 \u00a0 \u00a0 1st Job after graduation as an Engineer at Singapore Telecom and risen all the way to Department Manager and as Country Director (China) for Singapore Telecom International (STI), an Investment Arm of Singtel Group for overseas markets, and represented Singtel to take part in the consortium for the selection of Suzhou Industrial Park in China.\n\n1994-1999\u00a0 \u00a0 Strategic Planning Director, Motorola China and GM for Joint Venture Development in China.\n\n1999-2000\u00a0 \u00a0 \u00a0 JV Strategic Planning Director for 3Com Asia Pacific (Hong Kong)\n\n2000-2002 \u00a0 \u00a0 VP and GM (China) of Vertex Investment Venture, the VC armed of Temasek Group, and was ranked the 3rd most active VC in China in Year 2011\n\n2002-2005 China Chief Representative of Singapore Economic Development Board mainly to assist Chinese companies to internationalize its business through setting up offices and Regional HQs in Singapore including listing at the Stock Exchange of Singapore\n\n2005-2007 Investment Consultant (China) to Government of Singapore Investment Corporation under the Direct Investment Group\n\n2007 till now Managing Director, Sinolion Capital Group, A Boutique Investment and Consultancy Company that focuses on corporate M&A activities, both direct investments and properties investments in China and as a Managing Partner to China Bridge Capital, a large scale fund management company having its HQ in Beijing\n\nOf late, he has just been appointed as the Independent Director of Gome Fintech listed at the Hong Kong Stock Exchange.\u00a0\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fg2strdYYlY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet FENIX360 Advisor James Lee (\u674e\u57f9\u52e4) (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on James Lee (\u674e\u57f9\u52e4)\n\nFenix Chief Advisor (Capita Market and Fund Raising)\u00a0\u00a0\n\nArmed with more than 25 years working experience in the China market, has built up extensive networks and resources in both the corporate world and investment communities particularly in Singapore and China.\u00a0 With his connections, he has assisted many Chinese companies in their fund-raising exercises, internationalization, overseas listings and served as advisor to many of them. He will advise Fenix in all joint venture, Merger, and acquisition, listing and fundraising matters.\n\n\nGraduated from University of Singapore, with bachelor\u2019s degree in the Electrical Engineering Faculty in 1980. He is a veteran in China since 1992\n\n1980-1993 \u00a0 \u00a0 \u00a0 1st Job after graduation as an Engineer at Singapore Telecom and risen all the way to Department Manager and as Country Director (China) for Singapore Telecom International (STI), an Investment Arm of Singtel Group for overseas markets, and represented Singtel to take part in the consortium for the selection of Suzhou Industrial Park in China.\n\n1994-1999\u00a0 \u00a0 Strategic Planning Director, Motorola China and GM for Joint Venture Development in China.\n\n1999-2000\u00a0 \u00a0 \u00a0 JV Strategic Planning Director for 3Com Asia Pacific (Hong Kong)\n\n2000-2002 \u00a0 \u00a0 VP and GM (China) of Vertex Investment Venture, the VC armed of Temasek Group, and was ranked the 3rd most active VC in China in Year 2011\n\n2002-2005 China Chief Representative of Singapore Economic Development Board mainly to assist Chinese companies to internationalize its business through setting up offices and Regional HQs in Singapore including listing at the Stock Exchange of Singapore\n\n2005-2007 Investment Consultant (China) to Government of Singapore Investment Corporation under the Direct Investment Group\n\n2007 till now Managing Director, Sinolion Capital Group, A Boutique Investment and Consultancy Company that focuses on corporate M&A activities, both direct investments and properties investments in China and as a Managing Partner to China Bridge Capital, a large scale fund management company having its HQ in Beijing\n\nOf late, he has just been appointed as the Independent Director of Gome Fintech listed at the Hong Kong Stock Exchange.\u00a0\n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "155",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y_YFB2v7gsBIzexgpZNEiaATcnc",
+        "id": "LNLYNmnYSeE",
+        "snippet": {
+          "publishedAt": "2022-02-10T22:12:04Z",
+          "channelId": "UCiinSjWS3E0vtAa3DCvp7iA",
+          "title": "Winter Olympics: Western Reporters Compete for Gold in Fear-Mongering",
+          "description": "The 2022 Winter Olympics in Beijing is here but the U.S. isn\u2019t sending its officials, calling it a \u201cdiplomatic boycott.\u201d Meanwhile, host outlet NBC is using every opportunity to bash China and Russia throughout their coverage. \r\n\r\nTings Chak, Shanghai-based researcher at the Tricontinental Institute & a member of Dongsheng News collective, explains what the perception of the Olympics has been in China, analyzes the treatment of Eileen Gu, and reacts to the Western coverage. \r\n\r\n22-year-old Amir Locke was shot to death by police in the early morning in his apartment in Minneapolis earlier this month, and protests have erupted nationwide. Mayor Jacob Frey held a press conference and activist and civil rights attorney Nekima Levy Armstrong interrupted with demands from the community. She and Michelle Gross, president of Communities Against Police Brutality, join the show to discuss the horrendous murder and the community\u2019s reaction.\r\n\r\nOttawa truckers have been blocking roads, airports, and border crossings from the U.S. to Canada to protest coronavirus restrictions and vaccine requirements. Despite the many illegal activities associated with the right-wing protests, they have not been attacked or sabotaged by police \u2013 in stark contrast to the many Indigenous protests over access to ancestral land and water. Q. Anthony Omene, columnist for The Globe and Mail & co-host of TheKulture.TV, joins The Freedom Side to explain more about what\u2019s going on.\r\n\r\nThe United States continues to escalate rhetoric and pressure against Russia, now making plans for the evacuation of Americans in Ukraine if Russia invades. But Ukrainian President Zelensky thinks an invasion is \u201cunlikely.\u201d Brian Becker, host of The Socialist Program & National Director of ANSWER Coalition, discusses the imperialist politics at play.\r\n\r\nMaryland residents represented their enslaved ancestors in court recently, arguing that the Moses Cemetery in Bethesda, Maryland, where their ancestors lie, should be able to remain a protected burial ground. Without legal standing while they lived, this is the first time these African ancestors have ever had their interests expressed in court. Dr. Marsha Coleman-Adebayo, co-founder of Bethesda African Cemetery Coalition and award-winning longtime scholar and organizer, joins the show.\r\n\r\nTyson Foods has more than doubled their profit this quarter \u2013 to $1.12 billion \u2013 by raising prices far higher than the wage increases workers have demanded and won. But with four meat packing companies, including Tyson, controlling the majority of the industry, ranchers and labor organizations are accusing the corporations of price fixing \u2013 with workers and families footing the bill. Claire Kelloway, food systems program manager at the Open Markets Institute & primary reporter for Food & Power, joins the show to explain how these monopolies operate.\r\n\r\n\r\n\u00bb Become a patron: https://www.patreon.com/BreakThroughNews\r\n--------------------------------\r\n\u00bb Like us on Facebook: https://www.facebook.com/BTnewsroom\r\n\u00bb Tweet us on Twitter: https://twitter.com/BTnewsroom\r\n\u00bb Follow us on Instagram: https://www.instagram.com/btnewsroom/\r\n\r\nAt Breakthrough News we believe in the power of independent media. Five mega-corporations dominate the media landscape \u2014 controlling 90% of what we read, watch and listen to. They control the news cycle, to which social media and even most \u201calternative\u201d media is forced to respond. We are breaking through that cycle. \r\n\r\nWe tell the untold stories of resistance from poor and working-class communities \u2014 because out of these stories we will construct a different narrative of the world, as it is and in real time. \r\n\r\n People\u2019s movements in every corner of the globe are changing history and shifting consciousness. But these movements barely receive any coverage from the corporate media. They need visibility. They need amplification. They need a media arm to break through. \r\n \r\nWe can be that media arm, but only with your help. Become a Patron and join us on the front lines in the battle of ideas.\r\n\r\nSubscribe and follow us! https://www.youtube.com/breakthroughnews @BTNewsroom\r\n\r\n #BreakThroughNews #BTnews #socialistnews #socialist #raniakhalek #eugenepuryear",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LNLYNmnYSeE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BreakThrough News",
+          "tags": [
+            "beijing",
+            "beijing olympics",
+            "sports",
+            "beijing 2022",
+            "winter olympics 2022",
+            "olympic games",
+            "olympics",
+            "beijing olympics 2022",
+            "china",
+            "live sport",
+            "winter games olympics",
+            "beijing 2022 opening ceremony",
+            "beijing 2022 winter olympics medals",
+            "eurosport",
+            "news",
+            "2022 winter olympics",
+            "beijing winter olympics 2022",
+            "opening ceremony",
+            "putin",
+            "xi jinping",
+            "vladimir putin",
+            "putin xi meeting",
+            "xijinping",
+            "cgtn",
+            "putin xi meet",
+            "eileen gu",
+            "big air",
+            "skiing",
+            "eileen gu skier",
+            "\u4e2d\u56fd",
+            "\u8c37\u7231\u51cc",
+            "san francisco",
+            "\u770b\u770b",
+            "\u9b54\u90fd\u773c",
+            "\u770b\u770b\u65b0\u95fb",
+            "\u4e1c\u65b9\u536b\u89c6"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Winter Olympics: Western Reporters Compete for Gold in Fear-Mongering",
+            "description": "The 2022 Winter Olympics in Beijing is here but the U.S. isn\u2019t sending its officials, calling it a \u201cdiplomatic boycott.\u201d Meanwhile, host outlet NBC is using every opportunity to bash China and Russia throughout their coverage. \r\n\r\nTings Chak, Shanghai-based researcher at the Tricontinental Institute & a member of Dongsheng News collective, explains what the perception of the Olympics has been in China, analyzes the treatment of Eileen Gu, and reacts to the Western coverage. \r\n\r\n22-year-old Amir Locke was shot to death by police in the early morning in his apartment in Minneapolis earlier this month, and protests have erupted nationwide. Mayor Jacob Frey held a press conference and activist and civil rights attorney Nekima Levy Armstrong interrupted with demands from the community. She and Michelle Gross, president of Communities Against Police Brutality, join the show to discuss the horrendous murder and the community\u2019s reaction.\r\n\r\nOttawa truckers have been blocking roads, airports, and border crossings from the U.S. to Canada to protest coronavirus restrictions and vaccine requirements. Despite the many illegal activities associated with the right-wing protests, they have not been attacked or sabotaged by police \u2013 in stark contrast to the many Indigenous protests over access to ancestral land and water. Q. Anthony Omene, columnist for The Globe and Mail & co-host of TheKulture.TV, joins The Freedom Side to explain more about what\u2019s going on.\r\n\r\nThe United States continues to escalate rhetoric and pressure against Russia, now making plans for the evacuation of Americans in Ukraine if Russia invades. But Ukrainian President Zelensky thinks an invasion is \u201cunlikely.\u201d Brian Becker, host of The Socialist Program & National Director of ANSWER Coalition, discusses the imperialist politics at play.\r\n\r\nMaryland residents represented their enslaved ancestors in court recently, arguing that the Moses Cemetery in Bethesda, Maryland, where their ancestors lie, should be able to remain a protected burial ground. Without legal standing while they lived, this is the first time these African ancestors have ever had their interests expressed in court. Dr. Marsha Coleman-Adebayo, co-founder of Bethesda African Cemetery Coalition and award-winning longtime scholar and organizer, joins the show.\r\n\r\nTyson Foods has more than doubled their profit this quarter \u2013 to $1.12 billion \u2013 by raising prices far higher than the wage increases workers have demanded and won. But with four meat packing companies, including Tyson, controlling the majority of the industry, ranchers and labor organizations are accusing the corporations of price fixing \u2013 with workers and families footing the bill. Claire Kelloway, food systems program manager at the Open Markets Institute & primary reporter for Food & Power, joins the show to explain how these monopolies operate.\r\n\r\n\r\n\u00bb Become a patron: https://www.patreon.com/BreakThroughNews\r\n--------------------------------\r\n\u00bb Like us on Facebook: https://www.facebook.com/BTnewsroom\r\n\u00bb Tweet us on Twitter: https://twitter.com/BTnewsroom\r\n\u00bb Follow us on Instagram: https://www.instagram.com/btnewsroom/\r\n\r\nAt Breakthrough News we believe in the power of independent media. Five mega-corporations dominate the media landscape \u2014 controlling 90% of what we read, watch and listen to. They control the news cycle, to which social media and even most \u201calternative\u201d media is forced to respond. We are breaking through that cycle. \r\n\r\nWe tell the untold stories of resistance from poor and working-class communities \u2014 because out of these stories we will construct a different narrative of the world, as it is and in real time. \r\n\r\n People\u2019s movements in every corner of the globe are changing history and shifting consciousness. But these movements barely receive any coverage from the corporate media. They need visibility. They need amplification. They need a media arm to break through. \r\n \r\nWe can be that media arm, but only with your help. Become a Patron and join us on the front lines in the battle of ideas.\r\n\r\nSubscribe and follow us! https://www.youtube.com/breakthroughnews @BTNewsroom\r\n\r\n #BreakThroughNews #BTnews #socialistnews #socialist #raniakhalek #eugenepuryear"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2H1M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "30892",
+          "likeCount": "1836",
+          "favoriteCount": "0",
+          "commentCount": "211"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OnEM5NuBOrE-2Ngg3JmU5DZZ9jg",
+        "id": "KMEUFeGuJ-g",
+        "snippet": {
+          "publishedAt": "2022-11-07T02:08:02Z",
+          "channelId": "UCSntVrfUYmjl6d_hkM76KQg",
+          "title": "Shuai Jiao San Da Full Contact",
+          "description": "These full contact matches were filmed in 1983, at Ohio State University as part of their Shuai Jiao Chinese wrestling program. I believe it was also during one of Master Chang Dongsheng's visits. If anyone has exact details, please feel free to contact me and I will update.\n\nThis is classic example of how traditional Chinese martial arts trained full contact and with practical application as STANDARD FORMAT in the 1980s (and before). \n\n#shuaijiao #shuaichiao #fullcontactcompetition #sanshou #sanda #kungfu #kuoshu",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KMEUFeGuJ-g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Lion's Roar Kung Fu",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shuai Jiao San Da Full Contact",
+            "description": "These full contact matches were filmed in 1983, at Ohio State University as part of their Shuai Jiao Chinese wrestling program. I believe it was also during one of Master Chang Dongsheng's visits. If anyone has exact details, please feel free to contact me and I will update.\n\nThis is classic example of how traditional Chinese martial arts trained full contact and with practical application as STANDARD FORMAT in the 1980s (and before). \n\n#shuaijiao #shuaichiao #fullcontactcompetition #sanshou #sanda #kungfu #kuoshu"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M28S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "270",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aodXVCdzpRjrytIwdMZq0XLe1IM",
+        "id": "eyrk-18G6oo",
+        "snippet": {
+          "publishedAt": "2022-10-17T11:54:39Z",
+          "channelId": "UC4o11LaTDAarOOhsYGd8h4w",
+          "title": "Rapid transformation? Yang Zi's new play and Chen Xiao play the role of a psychologist again, net pr",
+          "description": "The queen of ratings Yang Zi's previous immortal drama masterpiece \"sink fragrance like crumbs - sink fragrance heavy China\", the ratings exploded but the evaluation polarized, it is reported that Yang Zi also wants to jump off the image of anxious transformation. Recently, it was rumored that her new play will be paired with \"Meng Hua Lu\" Chen Xiao, starring in the modern drama \"Light and Bright\", after the news spread, many fans are looking forward to the sparks that will be generated by their strong team. The company's main goal is to provide the best possible service to its customers. The type of drama she is known for, such as the ancient immortal drama \"fragrant honey sinking ashes like frost\", sweet love drama \"more guidance for the rest of your life\" are all big hits, but the \"female psychologist\", which is considered a transformation masterpiece, has not reached the peak of her previous works in terms of word-of-mouth and ratings response. It is widely rumored that Yang Zi will join forces with Chen Xiao to take over the role of \"Lights On\", a drama about a senior psychologist who has returned from studying abroad, joining forces with a number of other psychologists to help various characters of all shapes and sizes to regain a good life. It is reported that the \"lights are on\" executive producer is acting but excellent director Er Dongsheng, his directing style is delicate and layered, and will certainly greatly enhance the quality of the drama. From the point of view of the plot, the \"lights are on\" and Yang Zi's transformation masterpiece \"female psychologist\" is very similar, but the former is a psychologist-based group drama, while the latter focuses only on the heroine HeDun a psychologist. The fans are also looking forward to this, think Yang Zi in the \"female psychologist\" played a similar role, this time in the \"lights\" again challenge to play the psychologist, certainly handy. The net rumor is that the male lead has been set down Chen Xiao, his acting skills in the past few years, from the \"that year flowering moon\" Shen Xingyi to the \"dream of China\" Gu Qianfan, and then to the \"ice rain and fire\" in the Wu Zhenfeng, not only face resistance, strength is also evident to all, the selection of the script is also known for caution. This time Yang Zi is in a hurry to shoot the new drama \"Changxiang Si\", the set photos out, almost all get praise. However, there are also fans who believe that although the current quality of \"Changxiang Si\" is not bad, but the male actors who work with Yang Zi, the curiosity is obviously lower, feel a little pity. Therefore, many fans hope that the rumor of Yang Zi and Chen Xiao pairing is true, because they are both popular and acting skills of the first-line great, if the two strong team, will certainly bring a lot of exciting and interesting points to watch.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eyrk-18G6oo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "yangzi",
+          "tags": [
+            "\u6768\u7d2b",
+            "\u694a\u7d2b",
+            "yangzi"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Rapid transformation? Yang Zi's new play and Chen Xiao play the role of a psychologist again, net pr",
+            "description": "The queen of ratings Yang Zi's previous immortal drama masterpiece \"sink fragrance like crumbs - sink fragrance heavy China\", the ratings exploded but the evaluation polarized, it is reported that Yang Zi also wants to jump off the image of anxious transformation. Recently, it was rumored that her new play will be paired with \"Meng Hua Lu\" Chen Xiao, starring in the modern drama \"Light and Bright\", after the news spread, many fans are looking forward to the sparks that will be generated by their strong team. The company's main goal is to provide the best possible service to its customers. The type of drama she is known for, such as the ancient immortal drama \"fragrant honey sinking ashes like frost\", sweet love drama \"more guidance for the rest of your life\" are all big hits, but the \"female psychologist\", which is considered a transformation masterpiece, has not reached the peak of her previous works in terms of word-of-mouth and ratings response. It is widely rumored that Yang Zi will join forces with Chen Xiao to take over the role of \"Lights On\", a drama about a senior psychologist who has returned from studying abroad, joining forces with a number of other psychologists to help various characters of all shapes and sizes to regain a good life. It is reported that the \"lights are on\" executive producer is acting but excellent director Er Dongsheng, his directing style is delicate and layered, and will certainly greatly enhance the quality of the drama. From the point of view of the plot, the \"lights are on\" and Yang Zi's transformation masterpiece \"female psychologist\" is very similar, but the former is a psychologist-based group drama, while the latter focuses only on the heroine HeDun a psychologist. The fans are also looking forward to this, think Yang Zi in the \"female psychologist\" played a similar role, this time in the \"lights\" again challenge to play the psychologist, certainly handy. The net rumor is that the male lead has been set down Chen Xiao, his acting skills in the past few years, from the \"that year flowering moon\" Shen Xingyi to the \"dream of China\" Gu Qianfan, and then to the \"ice rain and fire\" in the Wu Zhenfeng, not only face resistance, strength is also evident to all, the selection of the script is also known for caution. This time Yang Zi is in a hurry to shoot the new drama \"Changxiang Si\", the set photos out, almost all get praise. However, there are also fans who believe that although the current quality of \"Changxiang Si\" is not bad, but the male actors who work with Yang Zi, the curiosity is obviously lower, feel a little pity. Therefore, many fans hope that the rumor of Yang Zi and Chen Xiao pairing is true, because they are both popular and acting skills of the first-line great, if the two strong team, will certainly bring a lot of exciting and interesting points to watch."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "118",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UFbZzDQG5kpAuVED3pZquhJgQq8",
+        "id": "vucVXLN1oLY",
+        "snippet": {
+          "publishedAt": "2022-04-19T17:37:31Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Singaporean Nanyin Composer Wu Qiren \u5434\u542f\u4ec1 (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Wu Qiren (\u5434\u542f\u4ec1)\n\nSingapore's Nanyin composer, professional  composer of Fujian Liyuan Opera Experimental Troupe. \n\n\"Nanyin\" music is a thousand-year-old traditional music in China. Originated from ancient Chinese Han and Tang Dynasties, formed in Song and Yuan Dynasties, and flourished in Ming and Qing Dynasties. \n\nAs an influential composer of Nanyin music, his Liyuan Opera works are traditional operas with Nanyin music, and he has participated in various artistic creation activities at the national and provincial levels for many times. \n\nHis masterpieces \"Cai Wenji\" and \"Chen Zhongzi\" won the Excellent Music Award of Fujian Opera Performance; \"Dong Sheng and Li Shi\" and \"Virtue Woman Yin\", which he participated in composing, won the National Stage Excellent Project Award in 2004 and 2006 respectively.\n\nThese two plays have also been designated by the Singapore Ministry of Culture of the State Council as the shooting plan of the 2011 drama digital film. \n\nSince 2014, it has toured in European countries as a key play of cultural exchange between China and France.  \n\nIn recent years, he has successively created many works for \"Royal Stele Pavilion\" and \"Li Shishi\" in Liyuan Opera, \"Li Guangdi\" in Gaojia Opera and \"Ode to Haisi Navigation Mark\" in South Music Group, all of which have won national and provincial awards. \n\nIn 2018, the music of Chen Zhongzi, which was re-created for Fujian Liyuan Opera Troupe, won the first prize of music creation in the 7th Fujian Art Festival. \n\nHis works have also often presented at the \"World Music\" Music Festival. \n\nIn 2014, he served as the leader of the Singapore delegation to attend the World Music Festival hosted by the United Nations Tourism Administration in the ancient city of Xi'an, China. \n\nAs a leading figure in the field of Nanyin composition, he cultivated a new generation of young Nanyin musicians, combining Chinese traditional millennium ancient music with modern pop music elements, and injecting new life into Chinese traditional culture.\n\n\nFor more on WILL NUNZIATA:\nhttps://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vucVXLN1oLY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Singaporean Nanyin Composer Wu Qiren \u5434\u542f\u4ec1 (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Wu Qiren (\u5434\u542f\u4ec1)\n\nSingapore's Nanyin composer, professional  composer of Fujian Liyuan Opera Experimental Troupe. \n\n\"Nanyin\" music is a thousand-year-old traditional music in China. Originated from ancient Chinese Han and Tang Dynasties, formed in Song and Yuan Dynasties, and flourished in Ming and Qing Dynasties. \n\nAs an influential composer of Nanyin music, his Liyuan Opera works are traditional operas with Nanyin music, and he has participated in various artistic creation activities at the national and provincial levels for many times. \n\nHis masterpieces \"Cai Wenji\" and \"Chen Zhongzi\" won the Excellent Music Award of Fujian Opera Performance; \"Dong Sheng and Li Shi\" and \"Virtue Woman Yin\", which he participated in composing, won the National Stage Excellent Project Award in 2004 and 2006 respectively.\n\nThese two plays have also been designated by the Singapore Ministry of Culture of the State Council as the shooting plan of the 2011 drama digital film. \n\nSince 2014, it has toured in European countries as a key play of cultural exchange between China and France.  \n\nIn recent years, he has successively created many works for \"Royal Stele Pavilion\" and \"Li Shishi\" in Liyuan Opera, \"Li Guangdi\" in Gaojia Opera and \"Ode to Haisi Navigation Mark\" in South Music Group, all of which have won national and provincial awards. \n\nIn 2018, the music of Chen Zhongzi, which was re-created for Fujian Liyuan Opera Troupe, won the first prize of music creation in the 7th Fujian Art Festival. \n\nHis works have also often presented at the \"World Music\" Music Festival. \n\nIn 2014, he served as the leader of the Singapore delegation to attend the World Music Festival hosted by the United Nations Tourism Administration in the ancient city of Xi'an, China. \n\nAs a leading figure in the field of Nanyin composition, he cultivated a new generation of young Nanyin musicians, combining Chinese traditional millennium ancient music with modern pop music elements, and injecting new life into Chinese traditional culture.\n\n\nFor more on WILL NUNZIATA:\nhttps://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "78",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uVIi690y8FYgnfqS-F5yu_7aWcA",
+        "id": "DfCU6tP3nZM",
+        "snippet": {
+          "publishedAt": "2022-04-11T13:37:35Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Chinese Artist Professor Wang  Xinggang \u738b\u5174\u521a (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Prof. Wang  Xinggang (\u738b\u5174\u521a), Artist \n\nArt Institute of Capital Normal University, Associate professor\n\nMember of China Sculpture Institute\n\nMember of China Shaanxi Artists Association\n\n\nEducation : \n2002-03 M.F.A. \nFaculty of Creative Arts Department of University of Wollongong  Australia\n1992-1997 B. A. \nSculpture Department of Lu Xun Academy of Fine Arts\n\nEMPLOYMENT HISTORY \n2014-2015    Scholar Visiting at New York Institute of Technology (NYIT)\n2014         Guest artist at Arizona State University\n2005-now     Teach sculpture in Fine Art Institute of Capital Normal University\n1997-2002    Taught at the sculpture department of Xian Academy of Fine Arts \n\nSOLO EXHIBITIONS\n2016        \u201cPrescription\u201d - Wang Xinggang`s solo exhibition             Yan Gallery Hong Kong , China\n2015        Senses of Reality - Wang Xinggang`s solo exhibition   AP contemporary Gallery Hong Kong \n2013        vibrARTion in Four Seasons: Sculptures by Wang Xinggang  Four Seasons Hotel Bei Jing\n\nSELECTED EXHIBITIONS /HONORS/AWARDS:\n2018        2018 Dong Guan Sculpture and Installation Art Exhibition                  Dongguan China\n2018        2018 connection\u2014Art exhibition of Humanities in Aotou                      Xiamen ,China\n2017        The 7th Liu Kaiqu Award International Sculpture Exhibition                  Wuhu ,China \n2016        Fine Art Aisa                                    Hong Kong\u2019s Convention and Exhibition   \n2015        THE TRANS-POSED TACTILE        William Paterson University  Power Art Center NJ US\n2015        William Paterson University Outdoor Sculptures Exhibition                      New Jersey \n2014        The \u201cMaterialize:3D Printing and Rpid Prototyping in Art +Design\u201d      Shemer Art Center Phoenix US    \n2014        The Collision and Confluence: Chinese-American Art Faculty Exhibition and Symposium organized by the Center for Chinese Art at William Paterson University, Asian Cultural Center, Chinese-American Art Faculty Association(CAAFA) and China International Cultural Association.              NY and NJ                   \n2014        TransFORMation                          Governors Island  NY \n2014        The 2014 Digital Stone Project/ Garfagnana Innovizione stone carving workshop, Gramolazzo,                          MUSA ART Museum  Italy  \n2014        ART XIA MEN                  XINHE ART MUSEUM  XIAMEN\n2014        ROCK STARS ROBOTIC SCULPTURE IN TUSCAN STONE                MUSA ITALY\n2013        The 9nd Art Festival of Song Zhuang, \u201cDa Xiang You Xing Public Sculptures Exhibition\u201d Song Village, Beijing, China\n2012        China International Museum Art products Expo  China National Convention Center   Bei JIng\n2012        5th Anniversary Contemporary Sculpture Invitation  Bei Jing Finace Street \n2012        \u201cOh! My Balloon\u201d and \u201cLife Goes On\u201d Collected By The Langham Hotel, Shang Hai Xin Tian Di \n2012        \"The spirit of the container\u201d Wang Xing Gang and Cai Zhisong sculpture Group Exhibitions                 Siemens Art Space 798\n2011        International Sculpture Exhibition of Datong Biennial  Datong He Yang Art Museum\n2011        Wang Xing Gang &SFFAA`s DINNER PARTY    Hong Kong Golf Club\n2011        \u201cNorth Wind\u201dCollected by Institute of Network Coding of The Chinese University of Hong Kong\n\n\nFor more on WILL NUNZIATA:\nhttps://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DfCU6tP3nZM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Chinese Artist Professor Wang  Xinggang \u738b\u5174\u521a (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Prof. Wang  Xinggang (\u738b\u5174\u521a), Artist \n\nArt Institute of Capital Normal University, Associate professor\n\nMember of China Sculpture Institute\n\nMember of China Shaanxi Artists Association\n\n\nEducation : \n2002-03 M.F.A. \nFaculty of Creative Arts Department of University of Wollongong  Australia\n1992-1997 B. A. \nSculpture Department of Lu Xun Academy of Fine Arts\n\nEMPLOYMENT HISTORY \n2014-2015    Scholar Visiting at New York Institute of Technology (NYIT)\n2014         Guest artist at Arizona State University\n2005-now     Teach sculpture in Fine Art Institute of Capital Normal University\n1997-2002    Taught at the sculpture department of Xian Academy of Fine Arts \n\nSOLO EXHIBITIONS\n2016        \u201cPrescription\u201d - Wang Xinggang`s solo exhibition             Yan Gallery Hong Kong , China\n2015        Senses of Reality - Wang Xinggang`s solo exhibition   AP contemporary Gallery Hong Kong \n2013        vibrARTion in Four Seasons: Sculptures by Wang Xinggang  Four Seasons Hotel Bei Jing\n\nSELECTED EXHIBITIONS /HONORS/AWARDS:\n2018        2018 Dong Guan Sculpture and Installation Art Exhibition                  Dongguan China\n2018        2018 connection\u2014Art exhibition of Humanities in Aotou                      Xiamen ,China\n2017        The 7th Liu Kaiqu Award International Sculpture Exhibition                  Wuhu ,China \n2016        Fine Art Aisa                                    Hong Kong\u2019s Convention and Exhibition   \n2015        THE TRANS-POSED TACTILE        William Paterson University  Power Art Center NJ US\n2015        William Paterson University Outdoor Sculptures Exhibition                      New Jersey \n2014        The \u201cMaterialize:3D Printing and Rpid Prototyping in Art +Design\u201d      Shemer Art Center Phoenix US    \n2014        The Collision and Confluence: Chinese-American Art Faculty Exhibition and Symposium organized by the Center for Chinese Art at William Paterson University, Asian Cultural Center, Chinese-American Art Faculty Association(CAAFA) and China International Cultural Association.              NY and NJ                   \n2014        TransFORMation                          Governors Island  NY \n2014        The 2014 Digital Stone Project/ Garfagnana Innovizione stone carving workshop, Gramolazzo,                          MUSA ART Museum  Italy  \n2014        ART XIA MEN                  XINHE ART MUSEUM  XIAMEN\n2014        ROCK STARS ROBOTIC SCULPTURE IN TUSCAN STONE                MUSA ITALY\n2013        The 9nd Art Festival of Song Zhuang, \u201cDa Xiang You Xing Public Sculptures Exhibition\u201d Song Village, Beijing, China\n2012        China International Museum Art products Expo  China National Convention Center   Bei JIng\n2012        5th Anniversary Contemporary Sculpture Invitation  Bei Jing Finace Street \n2012        \u201cOh! My Balloon\u201d and \u201cLife Goes On\u201d Collected By The Langham Hotel, Shang Hai Xin Tian Di \n2012        \"The spirit of the container\u201d Wang Xing Gang and Cai Zhisong sculpture Group Exhibitions                 Siemens Art Space 798\n2011        International Sculpture Exhibition of Datong Biennial  Datong He Yang Art Museum\n2011        Wang Xing Gang &SFFAA`s DINNER PARTY    Hong Kong Golf Club\n2011        \u201cNorth Wind\u201dCollected by Institute of Network Coding of The Chinese University of Hong Kong\n\n\nFor more on WILL NUNZIATA:\nhttps://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT14M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "43",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MztFCV6CaeXwvD9En84gvpSkUwA",
+        "id": "VUlU3gCHatQ",
+        "snippet": {
+          "publishedAt": "2022-03-05T13:14:47Z",
+          "channelId": "UC4o11LaTDAarOOhsYGd8h4w",
+          "title": "The roles were changed, Yang Zi wanted to play because the investor's daughter wanted to play it",
+          "description": "A TV series shot to half, temporarily be replaced, whether the crew or investors will have cost losses, so generally determine which actors involved, after the start of shooting will rarely be changed, unless the investor to install some people in, or the actor's problems had to be changed. The new version of the TV series \"Ode to Joy\" was officially announced by Jiang Shu Ying, Zhang Jianing, Zhang Huiwen, Yang Caiyu and Sun Qian as the five beauties, whether it was the opening ceremony or the Tencent ceremony, Sun Qian is very active with the crew publicity, the Dragon Boat Festival last year, there is still Sun Qian's figure in the promotional video, but in September, her role was changed to Li Hao Fei played. Who is Li Haofei? It was the girl who was standing in for Xie Na in \"Fast Forward\" at the time, but she was always trolled by the audience. But then again, Sun Qiandu shot more than a month before being replaced, in the \"I am an actor\" Li Chengru once said, in the film and television industry is not easy to change the actor, because changing the actor is equivalent to starting from scratch, each day the consumption costs are in the hundreds of thousands to over a million. Hou Hongliang has mentioned that noon to change the role of words, perhaps because the actor played after the inappropriate, and previously thought of the situation is not the same, and then we discuss together whether to change the actors, after discussing the decision to change. Like Yang Zi shoot noon \"war Changsha\", initially this role is not played by her, but the previous actress can not play, so Yang Zi top. Yang Zi is actually worried about being replaced, but, fortunately, her acting skills are over the top, so she stays. There is also, \"The Great River\" was originally announced Jin Chen play the female lead Liang Sishen, Jin Chen also in the microblogging team with the publicity, but a few days later, the Great River official microblogging official announcement of the female lead changed Yang Caiyu, as to why changed, the answer is always that it is not suitable. Yang Zi has also spoken in interviews about her bitter experience of having her role changed. At that time, the play has been shot to half, one day the assistant director said to her, the investor's daughter wants to play her role, you pack up and leave. If we say that we can not fight the capital is also helpless, but if you offend people in the crew is also to be replaced at any time. Like Er Dongsheng in the early years of a drama, the male lead is him, but because of offending the female lead he was replaced. The same experience also Liu Yijun. In his sophomore year, Liu Yijun took the movie \"Falling Mountain Wind\" halfway through the shoot, the director told him, you offend people, do not have to come over to shoot. For several years, Liu Yijun had nothing to do but to copy the payroll at the Xi'an Film Studio. There are many reasons for being replaced, from the actor's original problem to the capital side or the crew's aspect, but it must be said that the replacement of the actor is quite a big blow. What do you think?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VUlU3gCHatQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "yangzi",
+          "tags": [
+            "\u6768\u7d2b",
+            "\u694a\u7d2b",
+            "yangzi"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The roles were changed, Yang Zi wanted to play because the investor's daughter wanted to play it",
+            "description": "A TV series shot to half, temporarily be replaced, whether the crew or investors will have cost losses, so generally determine which actors involved, after the start of shooting will rarely be changed, unless the investor to install some people in, or the actor's problems had to be changed. The new version of the TV series \"Ode to Joy\" was officially announced by Jiang Shu Ying, Zhang Jianing, Zhang Huiwen, Yang Caiyu and Sun Qian as the five beauties, whether it was the opening ceremony or the Tencent ceremony, Sun Qian is very active with the crew publicity, the Dragon Boat Festival last year, there is still Sun Qian's figure in the promotional video, but in September, her role was changed to Li Hao Fei played. Who is Li Haofei? It was the girl who was standing in for Xie Na in \"Fast Forward\" at the time, but she was always trolled by the audience. But then again, Sun Qiandu shot more than a month before being replaced, in the \"I am an actor\" Li Chengru once said, in the film and television industry is not easy to change the actor, because changing the actor is equivalent to starting from scratch, each day the consumption costs are in the hundreds of thousands to over a million. Hou Hongliang has mentioned that noon to change the role of words, perhaps because the actor played after the inappropriate, and previously thought of the situation is not the same, and then we discuss together whether to change the actors, after discussing the decision to change. Like Yang Zi shoot noon \"war Changsha\", initially this role is not played by her, but the previous actress can not play, so Yang Zi top. Yang Zi is actually worried about being replaced, but, fortunately, her acting skills are over the top, so she stays. There is also, \"The Great River\" was originally announced Jin Chen play the female lead Liang Sishen, Jin Chen also in the microblogging team with the publicity, but a few days later, the Great River official microblogging official announcement of the female lead changed Yang Caiyu, as to why changed, the answer is always that it is not suitable. Yang Zi has also spoken in interviews about her bitter experience of having her role changed. At that time, the play has been shot to half, one day the assistant director said to her, the investor's daughter wants to play her role, you pack up and leave. If we say that we can not fight the capital is also helpless, but if you offend people in the crew is also to be replaced at any time. Like Er Dongsheng in the early years of a drama, the male lead is him, but because of offending the female lead he was replaced. The same experience also Liu Yijun. In his sophomore year, Liu Yijun took the movie \"Falling Mountain Wind\" halfway through the shoot, the director told him, you offend people, do not have to come over to shoot. For several years, Liu Yijun had nothing to do but to copy the payroll at the Xi'an Film Studio. There are many reasons for being replaced, from the actor's original problem to the capital side or the crew's aspect, but it must be said that the replacement of the actor is quite a big blow. What do you think?"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "198",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IB-KpAijZ3hMovd7ir8XeH1VjtI",
+        "id": "ZJ7ctWaJ2-I",
+        "snippet": {
+          "publishedAt": "2022-02-25T07:16:49Z",
+          "channelId": "UCm_MB2bd5AxiRsG6R79GMjA",
+          "title": "Jay Chou praised Leehom Wang's ins for praising Wang Yibo, it turns out that the two of them wo...",
+          "description": "WANG YIBO ENGSUB 2022/02/22:  Jay Chou praised Leehom Wang's ins for praising Wang Yibo, it turns out that the two of them worked together.  Today, Wang Leehom posted on ins, saying: \"Sing with Wang Yibo, this child is incredible!\" Then,  Jay Chou and Chen Jianzhou also liked this dynamic, many people wondered,  Did Jay Chou work with Wang Yibo? That's right,  Jay Chou and Wang Yibo filmed a micro-movie of Pechoin together,  Wang Yibo once said that he likes the songs of Jay Chou and Leehom Wang,  Now it seems that Wang Yibo is really a \"bar handle\" in the world of chasing stars.  In fact, on New Year's Eve, Leehom Wang praised Wang Yibo in a backstage interview.  He said: \"As soon as he (Wang Yibo) came out, the audience was boiling.  I believe this is the climax of the day. \"It is indeed as Wang Leehom said,  Their cooperation stage \"Descendants of the Dragon\" won the highest ratings of the night.  Wang Yibo has come this way, although outside netizens have mixed comments on him,  I like it, I hate it if I don't.  There are even false alarms.  But the industry's predecessors have always praised him.  \"He has talent.\"  Wang Yibo and Chen Xiao's anti-drug film \"Ice Rain and Fire\",  Many people questioned whether Wang Yibo could afford this role.  And Chen Xiao, who played opposite him, commented on him that \"he is enough,  He's strong enough to really surprise everyone. \",  And director Er Dongsheng, who is known as \"Er Ran Ran\",  Talking about the web drama \"My Wonderful Friend and Me\" that he supervised at the end of 2017,  He said, \"Wang Yibo is very stable, so young and so stable.  \"Huang Xuan also once said: \"I like Yibo very, very much. \",  He rated Wang Yibo as \"introverted\", \"low-key\" and \"humble\".  I even feel that Yibo has some similarities with him.  \"There's a lot of dancing with the others, smack, the others get out of the way,  He was the only one left on the stage who could still control, he said one of them. \"  Wang Yibo was at the bottom of the audience voting session in the \"T\n\nThank For Watching!\nSubscribe WANG YIBO ENGSUB: https://www.youtube.com/channel/UCm_MB2bd5AxiRsG6R79GMjA?sub_confirmation=1\nContact:\nEmail: theultrafioletowa@gmail.com\nWebsite: https://wangyiboengsub.blogspot.com/\nFacebook: https://www.facebook.com/wangyiboengsub\nPinterest: https://www.pinterest.com/wangyiboengsub\nTwitter: https://twitter.com/wangyiboengsub\nLinkedin: https://www.linkedin.com/in/wangyiboengsub\n[Disclaimer: The pictures in the text are from the Internet, if there is any copyright, please contact to delete! \u3011\n\n#wangyibo #wangyiboengsub #\u738b\u4e00\u535a#",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZJ7ctWaJ2-I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WANG YIBO ENGSUB",
+          "tags": [
+            "wang yibo",
+            "wangyibo",
+            "wang yibo eng sub",
+            "wangyiboengsub",
+            "eng sub",
+            "wang",
+            "yibo",
+            "\u738b\u4e00\u535a",
+            "\u8857\u821e4",
+            "\u535a\u541b\u4e00\u8096",
+            "\u738b\u4e00\u535a \u84dd\u5fd8\u673a",
+            "bjyx",
+            "wang yibo reaction",
+            "\u5929\u5929\u5411\u4e0a \u738b\u4e00\u535a \u8096\u6230",
+            "yibo interview",
+            "\u6709\u7fe1 \u738b\u4e00\u535a",
+            "\u738b\u4e00\u535a \u6ed1\u677f",
+            "\u738b\u4e00\u535a \u6211\u7684\u4e16\u754c\u5b88\u5219",
+            "\u738b\u4e00\u535a \u7a0b\u6f47",
+            "\u738b\u4e00\u535a \u8d75\u4e3d\u9896",
+            "\u6211\u7684\u65f6\u4ee3\u548c\u6211 \u7b2c\u4e8c\u5b63",
+            "wang yi bo",
+            "\u738b\u4e00\u535a\u8eab\u4ef7",
+            "\u738b\u4e00\u535a\u5c0f\u516b\u5366",
+            "\u738b\u4e00\u535a\u8d44\u6599",
+            "\u738b\u4e00\u535a\u672c\u540d",
+            "\u738b\u4e00\u535a\u73b0\u573a",
+            "eoeo\u738b\u4e00\u535a",
+            "\u738b\u4e00\u535a\u8d75\u4e3d\u9896",
+            "\u738b\u4e00\u535a \u71b9\u5fae",
+            "wang yibo relationship",
+            "\u738b\u4e00\u535a \u8fd9\u5c31\u662f\u8857\u821e",
+            "\u8d99\u9e97\u7a4e \u738b\u4e00\u535a"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jay Chou praised Leehom Wang's ins for praising Wang Yibo, it turns out that the two of them wo...",
+            "description": "WANG YIBO ENGSUB 2022/02/22:  Jay Chou praised Leehom Wang's ins for praising Wang Yibo, it turns out that the two of them worked together.  Today, Wang Leehom posted on ins, saying: \"Sing with Wang Yibo, this child is incredible!\" Then,  Jay Chou and Chen Jianzhou also liked this dynamic, many people wondered,  Did Jay Chou work with Wang Yibo? That's right,  Jay Chou and Wang Yibo filmed a micro-movie of Pechoin together,  Wang Yibo once said that he likes the songs of Jay Chou and Leehom Wang,  Now it seems that Wang Yibo is really a \"bar handle\" in the world of chasing stars.  In fact, on New Year's Eve, Leehom Wang praised Wang Yibo in a backstage interview.  He said: \"As soon as he (Wang Yibo) came out, the audience was boiling.  I believe this is the climax of the day. \"It is indeed as Wang Leehom said,  Their cooperation stage \"Descendants of the Dragon\" won the highest ratings of the night.  Wang Yibo has come this way, although outside netizens have mixed comments on him,  I like it, I hate it if I don't.  There are even false alarms.  But the industry's predecessors have always praised him.  \"He has talent.\"  Wang Yibo and Chen Xiao's anti-drug film \"Ice Rain and Fire\",  Many people questioned whether Wang Yibo could afford this role.  And Chen Xiao, who played opposite him, commented on him that \"he is enough,  He's strong enough to really surprise everyone. \",  And director Er Dongsheng, who is known as \"Er Ran Ran\",  Talking about the web drama \"My Wonderful Friend and Me\" that he supervised at the end of 2017,  He said, \"Wang Yibo is very stable, so young and so stable.  \"Huang Xuan also once said: \"I like Yibo very, very much. \",  He rated Wang Yibo as \"introverted\", \"low-key\" and \"humble\".  I even feel that Yibo has some similarities with him.  \"There's a lot of dancing with the others, smack, the others get out of the way,  He was the only one left on the stage who could still control, he said one of them. \"  Wang Yibo was at the bottom of the audience voting session in the \"T\n\nThank For Watching!\nSubscribe WANG YIBO ENGSUB: https://www.youtube.com/channel/UCm_MB2bd5AxiRsG6R79GMjA?sub_confirmation=1\nContact:\nEmail: theultrafioletowa@gmail.com\nWebsite: https://wangyiboengsub.blogspot.com/\nFacebook: https://www.facebook.com/wangyiboengsub\nPinterest: https://www.pinterest.com/wangyiboengsub\nTwitter: https://twitter.com/wangyiboengsub\nLinkedin: https://www.linkedin.com/in/wangyiboengsub\n[Disclaimer: The pictures in the text are from the Internet, if there is any copyright, please contact to delete! \u3011\n\n#wangyibo #wangyiboengsub #\u738b\u4e00\u535a#"
+          },
+          "defaultAudioLanguage": "zh-Hans"
+        },
+        "contentDetails": {
+          "duration": "PT3M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "691",
+          "likeCount": "48",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zKsTUWpp1NzYnKMK4G7-CpnH6w4",
+        "id": "m9oI_6uAlls",
+        "snippet": {
+          "publishedAt": "2022-03-18T15:15:09Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Singapore Violinist Wang Lina (\u738b\u4e3d\u5a1c)! (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on Wang Lina ( \u738b\u4e3d\u5a1c)\n\nMusician (proficient in violin, electronic violin, piano, music theory and popular vocal music)\n\nShe is a young musician who is proficient in violin, electronic violin, piano, music theory and popular vocal music. She started practicing violin from a young age and at the age 13, she admitted as top student to study in Shenyang Conservatory of Music in Northeast China. She served as Principal Second Violinist in the Youth Symphony of Orchestra of the Conservatory of Music.\n\nIn 1998 at the Korean International Music Festival, she has successfully performed the Symphony Orchestra called the \u201cNew World\u201d. After graduating from the University in 1999, she enrolled at Chengdu Academy of Music in Sichuan, China for her violin graduate study. She studied piano lessons in her spare time.\n\nIn 2003, she was awarded the Second Position in the \u201cDeyi Shungxin\u201d Cup\u00a0 Competition for Young Musicians (playing the electronic violin) and invited to perform in the New Year\u2019s Day Gala in Liaoning, China.\n\nIn 2004, she went to Germany to study her violin master class. After that, she assumed the position of Opera Director at the Shenzhen China opera troupe and led the \u201cMatch Girl\u201d crew for the All China performance tour.\n\nIn 2010, she came to Singapore to conduct music education and taught professional diploma candidates, a number of her students obtained outstanding results in the ABRSM examinations.\n\nIn 2011, she followed Dr. Zhang Fan for pop music studies and obtained an IMAA Advanced Diploma in 2013.\n\nFrom 2011 until present day, she actively involved in the charity performance like the St. John Ambulance, Thong Chai Medical Institution, Sian Chay Medical Institution and others Institution. She also involved in the Orchestra performance like the Singapore Philharmonic Orchestra performance and Musicians Association and others Orchestra group as well. She had also been invited to perform at Singapore River Hong Bao for 2021 & 2022.\u00a0\n\nIn 2021, she founded her own music academy \"Lina Music Studio\" to inherit music education.\n\n###\n\nFor more on WILL NUNZIATA visit www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m9oI_6uAlls/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Singapore Violinist Wang Lina (\u738b\u4e3d\u5a1c)! (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on Wang Lina ( \u738b\u4e3d\u5a1c)\n\nMusician (proficient in violin, electronic violin, piano, music theory and popular vocal music)\n\nShe is a young musician who is proficient in violin, electronic violin, piano, music theory and popular vocal music. She started practicing violin from a young age and at the age 13, she admitted as top student to study in Shenyang Conservatory of Music in Northeast China. She served as Principal Second Violinist in the Youth Symphony of Orchestra of the Conservatory of Music.\n\nIn 1998 at the Korean International Music Festival, she has successfully performed the Symphony Orchestra called the \u201cNew World\u201d. After graduating from the University in 1999, she enrolled at Chengdu Academy of Music in Sichuan, China for her violin graduate study. She studied piano lessons in her spare time.\n\nIn 2003, she was awarded the Second Position in the \u201cDeyi Shungxin\u201d Cup\u00a0 Competition for Young Musicians (playing the electronic violin) and invited to perform in the New Year\u2019s Day Gala in Liaoning, China.\n\nIn 2004, she went to Germany to study her violin master class. After that, she assumed the position of Opera Director at the Shenzhen China opera troupe and led the \u201cMatch Girl\u201d crew for the All China performance tour.\n\nIn 2010, she came to Singapore to conduct music education and taught professional diploma candidates, a number of her students obtained outstanding results in the ABRSM examinations.\n\nIn 2011, she followed Dr. Zhang Fan for pop music studies and obtained an IMAA Advanced Diploma in 2013.\n\nFrom 2011 until present day, she actively involved in the charity performance like the St. John Ambulance, Thong Chai Medical Institution, Sian Chay Medical Institution and others Institution. She also involved in the Orchestra performance like the Singapore Philharmonic Orchestra performance and Musicians Association and others Orchestra group as well. She had also been invited to perform at Singapore River Hong Bao for 2021 & 2022.\u00a0\n\nIn 2021, she founded her own music academy \"Lina Music Studio\" to inherit music education.\n\n###\n\nFor more on WILL NUNZIATA visit www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "143",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o_sEJxE4Q4kVGtHaaGP8G2GdvyI",
+        "id": "QJuNdolKK_A",
+        "snippet": {
+          "publishedAt": "2022-03-29T14:33:21Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Renowned Singaporean Singer Zac Zhang \u5f20\u96c4 (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Zac Zhang (\u5f20\u96c4) \n\nAcclaimed Music Performer, Host and Producer in Asia \nHe has the title of \u201cSinger King of Singapore Treasure Island \". He is deeply loved by audiences from all over the world for singing classic nostalgic Chinese popular songs. He was taught by Marcus Chin, our Fenix360 Global Artist Ambassador and President of the Singapore Artists Association whose singing experience has spread throughout Singapore, Malaysia, Indonesia, and China. \n\nHe is a professional host who has hosted many large-scale varieties shows.  \n\nIn 2014 he represented Singapore to participate in the Xi'an, China \u201cSilk Road World Music Festival 2014\" as a guest performer. \n\nIn 2015 as the host and singing guest of the China Peony Cup International Arts Festival .\n\nHe was also invited to perform at the Singapore National Chinese Orchestra on the annual Chinese blockbuster program \"Spring to the River\".\n\nIn 2021, he was invited to the \"Esplanade Art Centre\", a national key cultural benchmark in Singapore, to hold a solo concert \"Treasure Island Song King Golden Song Reproduction\".\n\nHe was mentored by Dr Ken Chang, Fenix360 Advisor and the father of Xinyao (a contemporary Mandarin vocal genre that emerged and rose to fame in Singapore between the late 1970s to 1980 , )studied pop vocal music and pop music art ratings. He obtained a Diploma in Popular Music Master Diploma from the International Union of Music Critics. \n\nIn 2012 onwards, he has begun to stay behind the scenes of stage performances and set up his own production company \"WIZ MEDIA PRODUCTION\".\n\nHe has planned countless community performances, concerts, company annual dinners, and also produced records.\n\nHe also collaborated with the Ministry of Communications, Press and The Arts of Singapore on an online programme in support of Singapore's greenery development plan. \n\nDuring the covid pandemic, he and his mentor Marcus Chin set up Marcus Live Studio for the transformation of concert performances to live streaming market.  \n\nTo date , they have conducted more than 300 live streaming shows, and in collaboration with Singapore Federation of Trade Unions few hundred live streaming talents had learned the skills from their social media Live Workshop. \n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QJuNdolKK_A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Renowned Singaporean Singer Zac Zhang \u5f20\u96c4 (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. \u00a0Create NFTs and more. \u00a0Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net.\n\nFor more on Zac Zhang (\u5f20\u96c4) \n\nAcclaimed Music Performer, Host and Producer in Asia \nHe has the title of \u201cSinger King of Singapore Treasure Island \". He is deeply loved by audiences from all over the world for singing classic nostalgic Chinese popular songs. He was taught by Marcus Chin, our Fenix360 Global Artist Ambassador and President of the Singapore Artists Association whose singing experience has spread throughout Singapore, Malaysia, Indonesia, and China. \n\nHe is a professional host who has hosted many large-scale varieties shows.  \n\nIn 2014 he represented Singapore to participate in the Xi'an, China \u201cSilk Road World Music Festival 2014\" as a guest performer. \n\nIn 2015 as the host and singing guest of the China Peony Cup International Arts Festival .\n\nHe was also invited to perform at the Singapore National Chinese Orchestra on the annual Chinese blockbuster program \"Spring to the River\".\n\nIn 2021, he was invited to the \"Esplanade Art Centre\", a national key cultural benchmark in Singapore, to hold a solo concert \"Treasure Island Song King Golden Song Reproduction\".\n\nHe was mentored by Dr Ken Chang, Fenix360 Advisor and the father of Xinyao (a contemporary Mandarin vocal genre that emerged and rose to fame in Singapore between the late 1970s to 1980 , )studied pop vocal music and pop music art ratings. He obtained a Diploma in Popular Music Master Diploma from the International Union of Music Critics. \n\nIn 2012 onwards, he has begun to stay behind the scenes of stage performances and set up his own production company \"WIZ MEDIA PRODUCTION\".\n\nHe has planned countless community performances, concerts, company annual dinners, and also produced records.\n\nHe also collaborated with the Ministry of Communications, Press and The Arts of Singapore on an online programme in support of Singapore's greenery development plan. \n\nDuring the covid pandemic, he and his mentor Marcus Chin set up Marcus Live Studio for the transformation of concert performances to live streaming market.  \n\nTo date , they have conducted more than 300 live streaming shows, and in collaboration with Singapore Federation of Trade Unions few hundred live streaming talents had learned the skills from their social media Live Workshop. \n\n###\n\nFor more on WILL NUNZIATA visit https://www.WillNunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "140",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "isr_Fpy8tphwf6qtRNE6v9ZL_3s",
+        "id": "rBJXEMSqNR4",
+        "snippet": {
+          "publishedAt": "2022-08-12T00:10:56Z",
+          "channelId": "UC4HjOk_ubxNWF0gCBWxfL4w",
+          "title": "The Bad Kids gave me CHILLS, Anna, Bloody Heart, Jinxed At First Final Review",
+          "description": "Dramas Mentioned:\nAnna\nBloody Heart\nJinxed At First\nThe Bad Kids\n\nFor extra support, Buy me a Coffee on Kofi: https://ko-fi.com/cdamainvasion \n\nFor more cdrama invasions content:\nChinese Drama News Episodes: https://www.youtube.com/playlist?list=PL5Nm7s18toUZ7IcLMnj1gOiAHEt8KbhvS\n\nChinese Scandals Explained Playlist:\nhttps://www.youtube.com/playlist?list=PL5Nm7s18toUaCcZQzlKTUFUFficFRk5al\n\nAsian Drama Reviews Playlist:\nhttps://www.youtube.com/playlist?list=PL5Nm7s18toUYW0Jh846UVKyVLOhrQV3mN\n\nTop 10 Asian Dramas Playlist:\nhttps://www.youtube.com/playlist?list=PL5Nm7s18toUbtNJoKx5duyvWt4vcw42_Y \n\nChinese Drama and Korean Drama Cast Updates: Where are they now? https://www.youtube.com/playlist?list=PL5Nm7s18toUZHIWbOrVnuoor6N09P39J_",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rBJXEMSqNR4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cdrama Invasion",
+          "tags": [
+            "The bad kids chinese drama review",
+            "anna kdrama review",
+            "jinxed at first review",
+            "bloody heart korean drama review",
+            "lee joon",
+            "suzy bae drama 2022",
+            "bae suzy drama list",
+            "netflix",
+            "2022 korean drama review",
+            "jung somin",
+            "lee jae wook",
+            "cdrama invasion",
+            "2022",
+            "viki",
+            "youku",
+            "top chinese drama 2022 so far",
+            "chinese drama review channel",
+            "asian drama review",
+            "top 10 cdrama 2022",
+            "chinese drama first impressions",
+            "chinese drama news",
+            "cdrama news",
+            "my drama list",
+            "avenuex",
+            "marcus here",
+            "kdrama ost 2022"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Bad Kids gave me CHILLS, Anna, Bloody Heart, Jinxed At First Final Review",
+            "description": "Dramas Mentioned:\nAnna\nBloody Heart\nJinxed At First\nThe Bad Kids\n\nFor extra support, Buy me a Coffee on Kofi: https://ko-fi.com/cdamainvasion \n\nFor more cdrama invasions content:\nChinese Drama News Episodes: https://www.youtube.com/playlist?list=PL5Nm7s18toUZ7IcLMnj1gOiAHEt8KbhvS\n\nChinese Scandals Explained Playlist:\nhttps://www.youtube.com/playlist?list=PL5Nm7s18toUaCcZQzlKTUFUFficFRk5al\n\nAsian Drama Reviews Playlist:\nhttps://www.youtube.com/playlist?list=PL5Nm7s18toUYW0Jh846UVKyVLOhrQV3mN\n\nTop 10 Asian Dramas Playlist:\nhttps://www.youtube.com/playlist?list=PL5Nm7s18toUbtNJoKx5duyvWt4vcw42_Y \n\nChinese Drama and Korean Drama Cast Updates: Where are they now? https://www.youtube.com/playlist?list=PL5Nm7s18toUZHIWbOrVnuoor6N09P39J_"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M43S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1128",
+          "likeCount": "35",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RF4X095U2hHEQT-_OI-rXPyBo-E",
+        "id": "odKz5UIhN8I",
+        "snippet": {
+          "publishedAt": "2022-12-08T19:00:14Z",
+          "channelId": "UCTEWVtPDuqutI0cGMc0XneA",
+          "title": "EP#49: SHIFU CLEBER SOUZA",
+          "description": "O shifu Cleber Souza tem experi\u00eancia com Kung Fu e Taijiquan (Tai Chi), h\u00e1 mais de 25 anos. \u00c9 disc\u00edpulo direto do Gr\u00e3o Mestre Chiu Ping Lok, criador do estilo Fei He Pai (estilo Gar\u00e7a voando), faixa preta de Kung Fu pela Assoc. Lin-Ma de Kung Fu Wushu e T\u2019ai chi Chuan. \n\nTamb\u00e9m \u00e9 mestre de Kung Fu graduado pelo renomado Gr\u00e3o Mestre Roger Soo, disc\u00edpulo do GGM Chang Dong Sheng e tem experi\u00eancia em Hung Gar e Qigong pela Inter. Chiu Chi Ling Kung Fu do Brasil.\n\n\nSegue a gente no Instagram tamb\u00e9m!\n@sobretigresedrag\u00f5es\n@igorpreciso\n@marciokungfu\n@gil_chentaiji",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/odKz5UIhN8I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "O QUE SEI SOBRE TIGRES E DRAG\u00d5ES",
+          "tags": [
+            "Kung Fu",
+            "China",
+            "Cultura Chinesa",
+            "Tai Chi Chuan",
+            "Wushu",
+            "Taijiquan",
+            "Chen Tai Chi",
+            "Chen Tai Ji",
+            "Yin Yang",
+            "Arte Marcial",
+            "Podcast",
+            "shaolin"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "EP#49: SHIFU CLEBER SOUZA",
+            "description": "O shifu Cleber Souza tem experi\u00eancia com Kung Fu e Taijiquan (Tai Chi), h\u00e1 mais de 25 anos. \u00c9 disc\u00edpulo direto do Gr\u00e3o Mestre Chiu Ping Lok, criador do estilo Fei He Pai (estilo Gar\u00e7a voando), faixa preta de Kung Fu pela Assoc. Lin-Ma de Kung Fu Wushu e T\u2019ai chi Chuan. \n\nTamb\u00e9m \u00e9 mestre de Kung Fu graduado pelo renomado Gr\u00e3o Mestre Roger Soo, disc\u00edpulo do GGM Chang Dong Sheng e tem experi\u00eancia em Hung Gar e Qigong pela Inter. Chiu Chi Ling Kung Fu do Brasil.\n\n\nSegue a gente no Instagram tamb\u00e9m!\n@sobretigresedrag\u00f5es\n@igorpreciso\n@marciokungfu\n@gil_chentaiji"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT59M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1068",
+          "likeCount": "91",
+          "favoriteCount": "0",
+          "commentCount": "18"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c-fr68KThdN4kwP4fbavu_0gYPM",
+        "id": "-_vpchr9jr8",
+        "snippet": {
+          "publishedAt": "2022-01-10T21:17:19Z",
+          "channelId": "UCFWSB6N8VJP0D4DoXjVaQaw",
+          "title": "Meet Acclaimed Poet, Writer, Painter Shen Yiran\u00a0\u6c88\u4f9d\u7136! (FENIX360 Interview)",
+          "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on Shen Yiran\u00a0(\u6c88\u4f9d\u7136):\n\nBorn in Ma Anshan, Anhui Province in 1979, . After resigning as a doctor, she worked in Southern Metropolis Daily and The Beijing News.\u00a0\nCurrently living in Beijing and becomes a full-time writer and painter.\nIn 2003, she began to write novels and poetries. Her works were published in the Lotus, Literature, Red Bean and other literary journals for many times.\nIn 2013, she settled in Song zhuang, Beijing, and wrote poetries and novels. At the same time, she engaged in ink paintings and oil paintings.\u00a0\nIn 2015, she published the novel Insomnia in the Dream of Life.\nIn 2016, She published her poetry anthology happy as a Bird.\u00a0\nIn 2016, \u00a0 successfully held her personal exhibition \"Illusion \u2022 Life Dream\"\u00a0 @ Songzhuang Tongze Art Museum\nFrom 2017 to 2018, She held her solo exhibition \"Vision \u2022 Four Seasons\" and participated in several group exhibitions at Hudson Arts Center, New York, USA.\u00a0\nOn October 13, 2018, She successfully held her solo exhibition \"New Interpretation of Hieroglyphics\" in China Greenland \u00b7 China Brocade \"Beijing Highest Art Space\".\nOn April 13, 2019, She held her solo exhibition \"Magic Square -- Flower of Family Name\" in Tongze Art Museum, Songzhuang, China.\n\n###\n\nFor more on Will Nunziata, visit https://www.willnunziata.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-_vpchr9jr8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "FENIX 360",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meet Acclaimed Poet, Writer, Painter Shen Yiran\u00a0\u6c88\u4f9d\u7136! (FENIX360 Interview)",
+            "description": "Built on blockchain technology, the FENIX360 app is the ultimate showcase and marketplace app for creators, performers, and fans. Create NFTs and more. Sign up on the app or on the web at https://web.fenix.cash/register. Follow us on IG @fenix360_net\n\nFor more on Shen Yiran\u00a0(\u6c88\u4f9d\u7136):\n\nBorn in Ma Anshan, Anhui Province in 1979, . After resigning as a doctor, she worked in Southern Metropolis Daily and The Beijing News.\u00a0\nCurrently living in Beijing and becomes a full-time writer and painter.\nIn 2003, she began to write novels and poetries. Her works were published in the Lotus, Literature, Red Bean and other literary journals for many times.\nIn 2013, she settled in Song zhuang, Beijing, and wrote poetries and novels. At the same time, she engaged in ink paintings and oil paintings.\u00a0\nIn 2015, she published the novel Insomnia in the Dream of Life.\nIn 2016, She published her poetry anthology happy as a Bird.\u00a0\nIn 2016, \u00a0 successfully held her personal exhibition \"Illusion \u2022 Life Dream\"\u00a0 @ Songzhuang Tongze Art Museum\nFrom 2017 to 2018, She held her solo exhibition \"Vision \u2022 Four Seasons\" and participated in several group exhibitions at Hudson Arts Center, New York, USA.\u00a0\nOn October 13, 2018, She successfully held her solo exhibition \"New Interpretation of Hieroglyphics\" in China Greenland \u00b7 China Brocade \"Beijing Highest Art Space\".\nOn April 13, 2019, She held her solo exhibition \"Magic Square -- Flower of Family Name\" in Tongze Art Museum, Songzhuang, China.\n\n###\n\nFor more on Will Nunziata, visit https://www.willnunziata.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10519",
+          "likeCount": "1310",
+          "favoriteCount": "0",
+          "commentCount": "114"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 17,
+      "resultsPerPage": 17
+    }
+  }
+}

@@ -1,0 +1,945 @@
+{
+  "ceo": "Alan W. Jope",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "i_D-QFCA7_qd0BsGQ18RqmT8cbI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qiXk1nqQb_TGbKiDsYKPDWB0cYU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tljcscii-P0"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-13T18:28:44Z",
+          "channelId": "UCOlxIv6pqgiCpdiaFXxLmNw",
+          "title": "HEC TALKS: Purpose-led, future-fit: business in the 21st century with Alan Jope, CEO at Unilever",
+          "description": "HECtalksxJope When business comes to face social and environmental challenges: can it be part of the solution? How to drive ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HEC Paris",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-13T18:28:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BCmB884jz5tw63T5Gs8rq4DcSp8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "st9C_0CRg5s"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-26T10:27:23Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "We\u2019re seeing consumers trading down and trading up, Unilever CEO says",
+          "description": "Alan Jope discusses the company's earnings and the impact of rising inflation on its consumers' buying trends.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-26T10:27:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Fk6sBjx6f-3ioF6tRGjLYT3yTf4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0RqHm4MIETM"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-26T08:35:17Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Unilever to Spread Out Cost of Increases Over Years: CEO",
+          "description": "Unilever CEO Alan Jope discusses the company's inflation outlook and how it has approached pricing with consumers dealing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-26T08:35:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P-BMYcZ0gSWeQS4h4E3UxPSyZ8o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QjtbXhgUL6E"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-27T18:08:41Z",
+          "channelId": "UCADdrtWzYVIuxIwaevizHBA",
+          "title": "Hydrogen and replacement fuels: roadblocks, business cases and breakthroughs | Panel | GTF 2022",
+          "description": "We are sitting on the cusp of a revolution. The technology is ready, policies are falling into place and industry is hungry to move to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GREENTECH FESTIVAL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-27T18:08:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R63eh6b0y5IFr-cdPeuUIIsT5Ro",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zprHhnmW0wI"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-02T14:39:45Z",
+          "channelId": "UC61VTxP5r3_d1XHYiiaWxCw",
+          "title": "Hope By XXXTENTACION With Ping-Pong Ball",
+          "description": "more: \u2b07 . Follow My Instagram: https://instagram.com/rahim_bat?igshid=YmMyMTA2M2Y= . Follow My TikTok: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BAT CHOPPA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-02T14:39:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xr4vgIxxyA9elbgGGVKFmLvGy6Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ohmlhXGR_Z0"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-28T15:27:08Z",
+          "channelId": "UCceRKKS0QUfXlKUPBoxdTHQ",
+          "title": "&quot;Special Episode,&quot; FINTECH.TV interview with  Sekur Private Data, Ltd.&#39;s CEO, Alain Ghiai.",
+          "description": "Click the Subscribe button for the latest in crypto, blockchain and business news from NEW TO THE STREET! #newtothestreet ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New to The Street TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-28T15:27:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uqTaBYpQNY-Sj4q1bfHNihWZBtw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AheGBJLuSZU"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-05T17:59:50Z",
+          "channelId": "UCn4sPeUomNGIr26bElVdDYg",
+          "title": "Spectators Heckle Donald Trump on Golf Course",
+          "description": "'That swing looks a little broke. Was it made in China?' \u2014 Watch former Pres. Donald Trump get heckled on his own golf course.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NowThis Impact",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-05T17:59:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wN6sZdmQ8EARfIAddl9TvRi7rD4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wN5yFPxsHFY"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-28T18:21:18Z",
+          "channelId": "UCnKUBpryb96Jj-ymOpsEeEA",
+          "title": "Alexander Sokol\u2019s Interview on Machine Learning in Finance at QuantMinds International 2022",
+          "description": "Alexander Sokol, the founder, Executive Chairman, and Head of Quant Research at CompatibL gave an interview to QuantMinds' ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CompatibL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-28T18:21:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZooTGey844Wn88oJ5STSx2JJXsI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bUV-eC-Wmrk"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-19T18:30:38Z",
+          "channelId": "UCGtHtPTYW5h9vQQcD_fstkw",
+          "title": "David Novak | Former CEO of Yum Brands on Taking Charge of You",
+          "description": "David Novak is Co-Founder, retired Chairman, and CEO of Yum! Brands, one of the world's largest restaurant companies with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sean DeLaney",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-19T18:30:38Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "rL2ruM4VCrfvdaB0Sz9WDZ_mALA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "yCvLkC9_BmIA3tElktEzXs0rs-E",
+        "id": "Tljcscii-P0",
+        "snippet": {
+          "publishedAt": "2022-04-13T18:28:44Z",
+          "channelId": "UCOlxIv6pqgiCpdiaFXxLmNw",
+          "title": "HEC TALKS: Purpose-led, future-fit: business in the 21st century with Alan Jope, CEO at Unilever",
+          "description": "#HECtalksxJope\r\n\r\nWhen business comes to face social and environmental challenges: can it be part of the solution? How to drive large organizations, despite constraints, with purpose and for impact? Alan Jope, CEO of Unilever, offers us his outstanding testimony and a privileged dialogue to better understand what business can do best \u2013 what it can do better.\r\n\r\nAlan Jope was appointed Chief Executive Officer in January 2019. As CEO of Unilever, Alan is responsible for leading one of the world\u2019s largest and most geographically diverse consumer goods businesses, with presence in 190 countries, serving 2.5 billion people every day.\r\n\r\nAlan is Chair of the Board of UNICEF\u2019s Generation Unlimited, Vice co-Chair of the Consumer Goods Forum, and Vice Chair of the World Business Council for Sustainable Development (WBCSD) Executive Committee. Most recently he was appointed to the World Economic Forum\u2019s International Business Council Executive Committee. He is also Visiting Fellow at the University of Oxford.\r\n\r\nHEC Talks is a forum devoted to the values of Curiosity and Diversity. Created in September 2021, this forum welcomes global thought leaders and personalities who count in the economic, political, media and academic spheres, to name a few.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Tljcscii-P0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HEC Paris",
+          "tags": [
+            "purpose",
+            "purposeful leadership",
+            "sustainability",
+            "sustainable development",
+            "compass vision",
+            "unilever",
+            "Alan Jope",
+            "leading with purpose"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "HEC TALKS: Purpose-led, future-fit: business in the 21st century with Alan Jope, CEO at Unilever",
+            "description": "#HECtalksxJope\r\n\r\nWhen business comes to face social and environmental challenges: can it be part of the solution? How to drive large organizations, despite constraints, with purpose and for impact? Alan Jope, CEO of Unilever, offers us his outstanding testimony and a privileged dialogue to better understand what business can do best \u2013 what it can do better.\r\n\r\nAlan Jope was appointed Chief Executive Officer in January 2019. As CEO of Unilever, Alan is responsible for leading one of the world\u2019s largest and most geographically diverse consumer goods businesses, with presence in 190 countries, serving 2.5 billion people every day.\r\n\r\nAlan is Chair of the Board of UNICEF\u2019s Generation Unlimited, Vice co-Chair of the Consumer Goods Forum, and Vice Chair of the World Business Council for Sustainable Development (WBCSD) Executive Committee. Most recently he was appointed to the World Economic Forum\u2019s International Business Council Executive Committee. He is also Visiting Fellow at the University of Oxford.\r\n\r\nHEC Talks is a forum devoted to the values of Curiosity and Diversity. Created in September 2021, this forum welcomes global thought leaders and personalities who count in the economic, political, media and academic spheres, to name a few."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H6M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1663",
+          "likeCount": "37",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "W6Dw28wGnEc_d5WOCIKr61Itkog",
+        "id": "st9C_0CRg5s",
+        "snippet": {
+          "publishedAt": "2022-07-26T10:27:23Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "We\u2019re seeing consumers trading down and trading up, Unilever CEO says",
+          "description": "Alan Jope discusses the company\u2019s earnings and the impact of rising inflation on its consumers' buying trends.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/st9C_0CRg5s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "tags": [
+            "Squawk Box"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We\u2019re seeing consumers trading down and trading up, Unilever CEO says",
+            "description": "Alan Jope discusses the company\u2019s earnings and the impact of rising inflation on its consumers' buying trends."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "329",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JxUjofaAIrYAAPa3O4taYkUUTFQ",
+        "id": "0RqHm4MIETM",
+        "snippet": {
+          "publishedAt": "2022-07-26T08:35:17Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "Unilever to Spread Out Cost of Increases Over Years: CEO",
+          "description": "Unilever CEO Alan Jope discusses the company's inflation outlook and how it has approached pricing with consumers dealing with cost-of-living increases. He speaks with Bloomberg's Lizzy Burden.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0RqHm4MIETM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Unilever to Spread Out Cost of Increases Over Years: CEO",
+            "description": "Unilever CEO Alan Jope discusses the company's inflation outlook and how it has approached pricing with consumers dealing with cost-of-living increases. He speaks with Bloomberg's Lizzy Burden."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3336",
+          "likeCount": "30",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cpUHrKWVO31E0-Gx8fuoahc1cJA",
+        "id": "QjtbXhgUL6E",
+        "snippet": {
+          "publishedAt": "2022-06-27T18:08:41Z",
+          "channelId": "UCADdrtWzYVIuxIwaevizHBA",
+          "title": "Hydrogen and replacement fuels: roadblocks, business cases and breakthroughs | Panel | GTF 2022",
+          "description": "We are sitting on the cusp of a revolution. The technology is ready, policies are falling into place and industry is hungry to move to energy sources that are local, sustainable and clean. Hydrogen and replacement fuels hold great promise, however, what\u2019s going to be needed to drive the energy transition and meet our climate goals? Find out what businesses are leading the race, how consumers can get involved, and which companies are pushing the boundaries in adopting hydrogen in their daily operations?\n\nPanelists:\nJens Schmidt, Chief Technology Officer, TES (Tree Energy Solutions)\nAlberto Zerbinato, CEO, ICI Caldaie \nCordelia Thielitz, Europe Operations Strategy Vice President, Schneider Electric\nThorsten Lange, Executive Vice President, Neste\n\n\nModerator: Dr. J\u00f6rg Aign, Managing Director of T\u00dcV NORD EnSys and Head of Business Segment Clean Energy Solutions",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QjtbXhgUL6E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GREENTECH FESTIVAL",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hydrogen and replacement fuels: roadblocks, business cases and breakthroughs | Panel | GTF 2022",
+            "description": "We are sitting on the cusp of a revolution. The technology is ready, policies are falling into place and industry is hungry to move to energy sources that are local, sustainable and clean. Hydrogen and replacement fuels hold great promise, however, what\u2019s going to be needed to drive the energy transition and meet our climate goals? Find out what businesses are leading the race, how consumers can get involved, and which companies are pushing the boundaries in adopting hydrogen in their daily operations?\n\nPanelists:\nJens Schmidt, Chief Technology Officer, TES (Tree Energy Solutions)\nAlberto Zerbinato, CEO, ICI Caldaie \nCordelia Thielitz, Europe Operations Strategy Vice President, Schneider Electric\nThorsten Lange, Executive Vice President, Neste\n\n\nModerator: Dr. J\u00f6rg Aign, Managing Director of T\u00dcV NORD EnSys and Head of Business Segment Clean Energy Solutions"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "430",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9WXvBIl8FCB_-kLYhysJeAXhI9I",
+        "id": "zprHhnmW0wI",
+        "snippet": {
+          "publishedAt": "2022-05-02T14:39:45Z",
+          "channelId": "UC61VTxP5r3_d1XHYiiaWxCw",
+          "title": "Hope By XXXTENTACION With Ping-Pong Ball",
+          "description": "more: \u2b07\n.\nFollow My Instagram: https://instagram.com/rahim_bat?igshid=YmMyMTA2M2Y= \n.\nFollow My TikTok: https://www.tiktok.com/t/ZTdvMp4Bq/\n.\nLove Y'all \ud83d\udc9c",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zprHhnmW0wI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BAT CHOPPA",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hope By XXXTENTACION With Ping-Pong Ball",
+            "description": "more: \u2b07\n.\nFollow My Instagram: https://instagram.com/rahim_bat?igshid=YmMyMTA2M2Y= \n.\nFollow My TikTok: https://www.tiktok.com/t/ZTdvMp4Bq/\n.\nLove Y'all \ud83d\udc9c"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14785601",
+          "likeCount": "676902",
+          "favoriteCount": "0",
+          "commentCount": "7038"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_2GSkF1u9sdTESbVI2twbYaE4VQ",
+        "id": "ohmlhXGR_Z0",
+        "snippet": {
+          "publishedAt": "2022-11-28T15:27:08Z",
+          "channelId": "UCceRKKS0QUfXlKUPBoxdTHQ",
+          "title": "\"Special Episode,\" FINTECH.TV interview with  Sekur Private Data, Ltd.'s CEO, Alain Ghiai.",
+          "description": "Click the Subscribe button for the latest in crypto, blockchain and business news from NEW TO THE STREET!\n\n#newtothestreet #janeking #exploringtheblock #foxbusinessnews #foxbusiness #financialnews #businessnews #ai #newsmaxtv #sekur #Privacy #cybersecurity \n\nNew to The Street TV in collaboration with FINTECH. TV's Digital Asset Report hosted a \"Special Episode.\" FINTECH's TV Host Vanessa Rae interviews Alain Ghiai, CEO of Sekur Private Data Ltd. (OTCQX: SWISF) (CSE: SKUR) (FRA: GDT0) (Sekur\u00ae). From the New York Stock Exchange (NYSE) studio, Alain informs viewers about Sekur Private Data Ltd.'s encrypted end-to-end privacy and data security products available to businesses and consumers. SekurSuite is an enterprise and SMB (Small-medium-Business) subscription product that offers a range of email and text messaging features, including password protections, document storage/security, domain name migrations, and employee onboarding. The Company's principal product SekurMail/SekurMessenger, available to businesses and consumers, offers encrypted communication transmissions through its proprietary HeliX technology platform. All SekurMail accounts can send unlimited-sized attachments without getting bounced for being too large. As a closed-loop system, end-users enjoy knowing that their communications are secure, and data is not being sold or shared. The \"Chat-by-Invite\u201d feature for text and emails allows anyone to communicate privately and securely, even if the receiving party is not a Sekur subscriber. The Company owns and controls its servers located in Switzerland. Business entities regulated and required to communicate securely according to federally mandated privacy laws can use Sekur\u2019s products and archive data. The Swiss FADP \u2013 Federal Act on Data Protection is one of the strictest privacy laws in the world, and Sekur subscribers remain protected under Swiss Laws. Switzerland has some of the most stringent privacy laws in the world, and selling data is a criminal offense. The US Cloud Act is not enforceable in Switzerland since Sekur subscribers\u2019 electronic transmissions are entirely within the Country of Switzerland. Alain informs viewers that in 2023 Sekur Private Data will launch its SekurVoice in 2023 for encrypted calls, SekurPro for encrypted video conferencing, and SekurVPN for encrypted internet network connections. Sekur expects user increases in 2023 from its B2B partnerships and foreign government contracts. For as low as $7.00 per month, anyone can enjoy an encrypted electronic communication platform hosted in Switzerland. Sekur Private Data, Ltd. does no data mining, has no shared servers, no open-platform coding, and no third-party providers, and never asks for a phone number. The on-screen QR code is available during the show; download or visit Sekur Private Data, Ltd. \u2013 http://www.Sekur.com & https://www.sekurprivatedata.com/.\n\nTo make sure you never miss a video from New to the Street, click here to subscribe: https://www.youtube.com/c/newtothestreettv\n\nFollow New to the Street on Twitter: https://twitter.com/NewToTheStreet\n\nFollow New to the Street on Facebook: https://www.facebook.com/newtothestreet/\n\nFollow New to the Street on Instagram: https://www.instagram.com/newtothestreettv/\n\nFollow New to the Street on Rumble: https://rumble.com/user/newtothestreet\n\nAbout New to the Street: https://newtothestreet.com/\n\nSubscribe to our Mailing List: https://mailchi.mp/ccd21b3e3fab/join-our-mailing-list",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ohmlhXGR_Z0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New to The Street TV",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"Special Episode,\" FINTECH.TV interview with  Sekur Private Data, Ltd.'s CEO, Alain Ghiai.",
+            "description": "Click the Subscribe button for the latest in crypto, blockchain and business news from NEW TO THE STREET!\n\n#newtothestreet #janeking #exploringtheblock #foxbusinessnews #foxbusiness #financialnews #businessnews #ai #newsmaxtv #sekur #Privacy #cybersecurity \n\nNew to The Street TV in collaboration with FINTECH. TV's Digital Asset Report hosted a \"Special Episode.\" FINTECH's TV Host Vanessa Rae interviews Alain Ghiai, CEO of Sekur Private Data Ltd. (OTCQX: SWISF) (CSE: SKUR) (FRA: GDT0) (Sekur\u00ae). From the New York Stock Exchange (NYSE) studio, Alain informs viewers about Sekur Private Data Ltd.'s encrypted end-to-end privacy and data security products available to businesses and consumers. SekurSuite is an enterprise and SMB (Small-medium-Business) subscription product that offers a range of email and text messaging features, including password protections, document storage/security, domain name migrations, and employee onboarding. The Company's principal product SekurMail/SekurMessenger, available to businesses and consumers, offers encrypted communication transmissions through its proprietary HeliX technology platform. All SekurMail accounts can send unlimited-sized attachments without getting bounced for being too large. As a closed-loop system, end-users enjoy knowing that their communications are secure, and data is not being sold or shared. The \"Chat-by-Invite\u201d feature for text and emails allows anyone to communicate privately and securely, even if the receiving party is not a Sekur subscriber. The Company owns and controls its servers located in Switzerland. Business entities regulated and required to communicate securely according to federally mandated privacy laws can use Sekur\u2019s products and archive data. The Swiss FADP \u2013 Federal Act on Data Protection is one of the strictest privacy laws in the world, and Sekur subscribers remain protected under Swiss Laws. Switzerland has some of the most stringent privacy laws in the world, and selling data is a criminal offense. The US Cloud Act is not enforceable in Switzerland since Sekur subscribers\u2019 electronic transmissions are entirely within the Country of Switzerland. Alain informs viewers that in 2023 Sekur Private Data will launch its SekurVoice in 2023 for encrypted calls, SekurPro for encrypted video conferencing, and SekurVPN for encrypted internet network connections. Sekur expects user increases in 2023 from its B2B partnerships and foreign government contracts. For as low as $7.00 per month, anyone can enjoy an encrypted electronic communication platform hosted in Switzerland. Sekur Private Data, Ltd. does no data mining, has no shared servers, no open-platform coding, and no third-party providers, and never asks for a phone number. The on-screen QR code is available during the show; download or visit Sekur Private Data, Ltd. \u2013 http://www.Sekur.com & https://www.sekurprivatedata.com/.\n\nTo make sure you never miss a video from New to the Street, click here to subscribe: https://www.youtube.com/c/newtothestreettv\n\nFollow New to the Street on Twitter: https://twitter.com/NewToTheStreet\n\nFollow New to the Street on Facebook: https://www.facebook.com/newtothestreet/\n\nFollow New to the Street on Instagram: https://www.instagram.com/newtothestreettv/\n\nFollow New to the Street on Rumble: https://rumble.com/user/newtothestreet\n\nAbout New to the Street: https://newtothestreet.com/\n\nSubscribe to our Mailing List: https://mailchi.mp/ccd21b3e3fab/join-our-mailing-list"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8440",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PvfyW5aYRkMQ7RhbNw6R3yA28VQ",
+        "id": "AheGBJLuSZU",
+        "snippet": {
+          "publishedAt": "2022-08-05T17:59:50Z",
+          "channelId": "UCn4sPeUomNGIr26bElVdDYg",
+          "title": "Spectators Heckle Donald Trump on Golf Course",
+          "description": "\u2018That swing looks a little broke. Was it made in China?\u2019 \u2014 Watch former Pres. Donald Trump get heckled on his own golf course.\n\u00bb Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube\n\u00bb Subscribe to NowThis: http://go.nowth.is/News_Subscribe\n\nFor more U.S. news and politics, subscribe to NowThis News.\n\n#Golf #Trump #Politics #News #NowThis\n\nConnect with NowThis\n\u00bb Like us on Facebook: http://go.nowth.is/News_Facebook\n\u00bb Tweet us on Twitter: http://go.nowth.is/News_Twitter\n\u00bb Follow us on Instagram: http://go.nowth.is/News_Instagram\n\u00bb Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat\n\nNowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we\u2019re delivering all you need to know straight to your social feeds. We live where you live.\n\nhttp://www.youtube.com/nowthisnews\n@nowthisnews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AheGBJLuSZU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NowThis Impact",
+          "tags": [
+            "NowThis",
+            "news",
+            "donald trump",
+            "pga tour",
+            "donald trump golf swing",
+            "donald trump funny moments",
+            "donald trump roast",
+            "donald trump savage moments",
+            "trump",
+            "golf",
+            "golfing",
+            "donald trump golfing 47th president",
+            "trump news",
+            "president trump",
+            "president donald trump",
+            "trump news 2020",
+            "u.s. politics",
+            "us politics",
+            "donald trump presidency",
+            "maga",
+            "trump 2020",
+            "president of the united states",
+            "donald trump news",
+            "trump presidency",
+            "trump administration"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Spectators Heckle Donald Trump on Golf Course",
+            "description": "\u2018That swing looks a little broke. Was it made in China?\u2019 \u2014 Watch former Pres. Donald Trump get heckled on his own golf course.\n\u00bb Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube\n\u00bb Subscribe to NowThis: http://go.nowth.is/News_Subscribe\n\nFor more U.S. news and politics, subscribe to NowThis News.\n\n#Golf #Trump #Politics #News #NowThis\n\nConnect with NowThis\n\u00bb Like us on Facebook: http://go.nowth.is/News_Facebook\n\u00bb Tweet us on Twitter: http://go.nowth.is/News_Twitter\n\u00bb Follow us on Instagram: http://go.nowth.is/News_Instagram\n\u00bb Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat\n\nNowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we\u2019re delivering all you need to know straight to your social feeds. We live where you live.\n\nhttp://www.youtube.com/nowthisnews\n@nowthisnews"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6827974",
+          "likeCount": "103009",
+          "favoriteCount": "0",
+          "commentCount": "13244"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RwEOOKxWkXH24-GRaTRmLCFIQS0",
+        "id": "wN5yFPxsHFY",
+        "snippet": {
+          "publishedAt": "2022-11-28T18:21:18Z",
+          "channelId": "UCnKUBpryb96Jj-ymOpsEeEA",
+          "title": "Alexander Sokol\u2019s Interview on Machine Learning in Finance at QuantMinds International 2022",
+          "description": "Alexander Sokol, the founder, Executive Chairman, and Head of Quant Research at CompatibL gave an interview to QuantMinds\u2019 Joanna Simpson about how machine learning can benefit the financial industry.\n\n\nLearn more about CompatibL: https://www.compatibl.com/ \nLearn more about Autoencoder Market Models: https://www.compatibl.com/autoencoder-market-models-interest-rates/\nAutoencoder Market Models page: https://www.linkedin.com/company/aemm/\nJobs at CompatibL: https://www.compatibl.com/careers/\nFollow us on LinkedIn: https://www.linkedin.com/company/compatibl/about/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wN5yFPxsHFY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CompatibL",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Alexander Sokol\u2019s Interview on Machine Learning in Finance at QuantMinds International 2022",
+            "description": "Alexander Sokol, the founder, Executive Chairman, and Head of Quant Research at CompatibL gave an interview to QuantMinds\u2019 Joanna Simpson about how machine learning can benefit the financial industry.\n\n\nLearn more about CompatibL: https://www.compatibl.com/ \nLearn more about Autoencoder Market Models: https://www.compatibl.com/autoencoder-market-models-interest-rates/\nAutoencoder Market Models page: https://www.linkedin.com/company/aemm/\nJobs at CompatibL: https://www.compatibl.com/careers/\nFollow us on LinkedIn: https://www.linkedin.com/company/compatibl/about/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "381",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_f114B-2uMJH_RFvmpnRff7phH8",
+        "id": "bUV-eC-Wmrk",
+        "snippet": {
+          "publishedAt": "2022-03-19T18:30:38Z",
+          "channelId": "UCGtHtPTYW5h9vQQcD_fstkw",
+          "title": "David Novak | Former CEO of Yum Brands on Taking Charge of You",
+          "description": "David Novak is Co-Founder, retired Chairman, and CEO of Yum! Brands, one of the world\u2019s largest restaurant companies with over 45,000 restaurants in more than 135 countries and territories. After retiring in 2016, he became the Founder and CEO of David Novak Leadership, a digital leadership development method that teaches leadership skills through an online training platform, podcasts, blogs, and videos, David is also the host of the top-ranked business podcast, How Leaders Lead with David Novak. Under his 17 year leadership, Yum! Brands doubled in size to over 45,000 restaurants and grew from a $4b to a $32 Billion market cap.\n\nDavid Novak teams up with Jason Goldsmith, globally recognized Sports Performance Coach to some of the world\u2019s best athletes, to bring you a groundbreaking new concept in leadership development: self-coaching. The book, \"Take Charge of You HOW SELF COACHING CAN TRANSFORM YOUR LIFE AND CAREER.\"\n \nA renowned expert on leadership and recognition culture, Novak is also a bestselling author. His highly respected and critically acclaimed books include The New York Times bestseller Taking People With You: The Only Way to Make Big Things Happen, The Education of an Accidental CEO: Lessons Learned from the Trailer Park to the Corner Office, and his latest parable, O GREAT ONE! A Little Story About the Awesome Power of Recognition.   \n \nNovak has been recognized as \u201c2012 CEO of the Year\u201d by Chief Executive magazine, one of the world\u2019s \u201c30 Best CEOs\u201d by Barron\u2019s, one of the \u201cTop People in Business\u201d by FORTUNE and one of the \u201c100 Best-Performing CEOs in the World\u201d by Harvard Business Review. He received the Horatio Alger Award for his commitment to philanthropy and higher education and the 2012 UN World Food Program Leadership Award for Yum! Brands World Hunger Relief.\n\nThank you for Watching this powerful interview with David Novak. New Interviews and Inspirational videos will be posted every Sunday! Subscribe to the channel here: https://bit.ly/3Dxlw71\n\nAbout What Got You There Podcast \n\nWhat Got You There focuses on the journey behind some of the world\u2019s most successful people, uncovering the strategy, tactics, and routines that helped them get there.\nSign Up to Momentum Monday is a weekly newsletter adding fuel to your inbox at the start of each week. Every Monday you\u2019ll receive a short recap of my favorite articles, books, podcasts, and everything in between. Stay in touch and go behind the scenes of What Got You There! We will keep you in the loop on current books Sean is reading, apps he is playing with, and other inspiration. In addition, you will also get early access to upcoming guests and content from What Got You There. \n\nJoin Sean in his journey as a voracious learner and seeker of wisdom by listening in to his conversations with incredible leaders on What Got You There.\n\nSign Up to Momentum Monday ( Sean\u2019s Weekly newsletter ) - https://bit.ly/3x0m56O\nVisit the What got you there podcast - https://bit.ly/32hQwtV\nMore from WGYT: https://linktr.ee/WGYT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bUV-eC-Wmrk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sean DeLaney",
+          "tags": [
+            "David Novak",
+            "Yum Brands",
+            "yum! brands",
+            "david novak yum brands",
+            "david novak ceo",
+            "david novak yum",
+            "How leaders lead",
+            "Former CEO of Yum Brands",
+            "Take Charge of You",
+            "Host of How Leaders Lead podcast",
+            "Former Yum CEO David Novak",
+            "Take Charge of You : David Novak",
+            "Yum! Brands Co-Founder David Novak",
+            "David Novak Leadership",
+            "How Leaders Lead with David Novak",
+            "David Novak how leaders lead",
+            "bestselling author",
+            "leadership development",
+            "Taking Charge of You",
+            "CO-FOUNDER",
+            "YUM! BRANDS"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "David Novak | Former CEO of Yum Brands on Taking Charge of You",
+            "description": "David Novak is Co-Founder, retired Chairman, and CEO of Yum! Brands, one of the world\u2019s largest restaurant companies with over 45,000 restaurants in more than 135 countries and territories. After retiring in 2016, he became the Founder and CEO of David Novak Leadership, a digital leadership development method that teaches leadership skills through an online training platform, podcasts, blogs, and videos, David is also the host of the top-ranked business podcast, How Leaders Lead with David Novak. Under his 17 year leadership, Yum! Brands doubled in size to over 45,000 restaurants and grew from a $4b to a $32 Billion market cap.\n\nDavid Novak teams up with Jason Goldsmith, globally recognized Sports Performance Coach to some of the world\u2019s best athletes, to bring you a groundbreaking new concept in leadership development: self-coaching. The book, \"Take Charge of You HOW SELF COACHING CAN TRANSFORM YOUR LIFE AND CAREER.\"\n \nA renowned expert on leadership and recognition culture, Novak is also a bestselling author. His highly respected and critically acclaimed books include The New York Times bestseller Taking People With You: The Only Way to Make Big Things Happen, The Education of an Accidental CEO: Lessons Learned from the Trailer Park to the Corner Office, and his latest parable, O GREAT ONE! A Little Story About the Awesome Power of Recognition.   \n \nNovak has been recognized as \u201c2012 CEO of the Year\u201d by Chief Executive magazine, one of the world\u2019s \u201c30 Best CEOs\u201d by Barron\u2019s, one of the \u201cTop People in Business\u201d by FORTUNE and one of the \u201c100 Best-Performing CEOs in the World\u201d by Harvard Business Review. He received the Horatio Alger Award for his commitment to philanthropy and higher education and the 2012 UN World Food Program Leadership Award for Yum! Brands World Hunger Relief.\n\nThank you for Watching this powerful interview with David Novak. New Interviews and Inspirational videos will be posted every Sunday! Subscribe to the channel here: https://bit.ly/3Dxlw71\n\nAbout What Got You There Podcast \n\nWhat Got You There focuses on the journey behind some of the world\u2019s most successful people, uncovering the strategy, tactics, and routines that helped them get there.\nSign Up to Momentum Monday is a weekly newsletter adding fuel to your inbox at the start of each week. Every Monday you\u2019ll receive a short recap of my favorite articles, books, podcasts, and everything in between. Stay in touch and go behind the scenes of What Got You There! We will keep you in the loop on current books Sean is reading, apps he is playing with, and other inspiration. In addition, you will also get early access to upcoming guests and content from What Got You There. \n\nJoin Sean in his journey as a voracious learner and seeker of wisdom by listening in to his conversations with incredible leaders on What Got You There.\n\nSign Up to Momentum Monday ( Sean\u2019s Weekly newsletter ) - https://bit.ly/3x0m56O\nVisit the What got you there podcast - https://bit.ly/32hQwtV\nMore from WGYT: https://linktr.ee/WGYT"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT50M55S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "845",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

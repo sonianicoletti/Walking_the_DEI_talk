@@ -1,0 +1,415 @@
+{
+  "ceo": "Bian Jiajun",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "GyPJl1MxvO4PpUF6IvbEH7uEqhc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1vkjboBH9YBdv3GwGihU1VequKc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W8rqLTPlDOA"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-26T13:34:59Z",
+          "channelId": "UCdTudIxSfT927FnmdevYQtg",
+          "title": "His voice \ud83e\udd70\ud83e\udd70\ud83e\udd70 #wangyibo #produce101",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "mozella2020",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-26T13:34:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DAE8y91PVCjFNn45XxzOiQPo7vU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8vjlhregfeg"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-11T17:09:54Z",
+          "channelId": "UCZ7x7yDBbEFCGztD8BYvRhA",
+          "title": "The Road Ahead for Autonomous Driving",
+          "description": "Aurora CEO and co-founder Chris Urmson and Nuro CEO and co-founder Jiajun Zhu join Greylock general partner Reid Hoffman ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Greylock",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-11T17:09:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4fkJkWeU6-peGnc-cynD7QkkD1M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rzZrAKQ3jMQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-21T17:22:45Z",
+          "channelId": "UCu3Ri8DI1RQLdVtU12uIp1Q",
+          "title": "Nadir Izrael, Armis | Manage Risk with the Armis Platform",
+          "description": "Nadir Izrael, CTO and Co-Founder, Armis talks with John Furrier for a session as part of Manage Risk with the Arms Platform.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SiliconANGLE theCUBE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-21T17:22:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RFhoNNRqDM_OWPbVqTe091BnKoU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "v4cfSzCKeb8"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-18T20:34:48Z",
+          "channelId": "UCE7h5NmkHugUhW9cslj2qkg",
+          "title": "Spring 2022 GRASP SFI - Shuran Song, Columbia University",
+          "description": "ABSTRACT From unfurling a blanket to swinging a rope; high-velocity dynamic actions play a crucial role in how people interact ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GRASP Lab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-18T20:34:48Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Ac5vAuryW8TGM52e5--wviRSxUM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "2h0Fnt-FCkJ1fNHj-aI-ggNce_Q",
+        "id": "W8rqLTPlDOA",
+        "snippet": {
+          "publishedAt": "2022-11-26T13:34:59Z",
+          "channelId": "UCdTudIxSfT927FnmdevYQtg",
+          "title": "His voice \ud83e\udd70\ud83e\udd70\ud83e\udd70 #wangyibo #produce101",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W8rqLTPlDOA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mozella2020",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "His voice \ud83e\udd70\ud83e\udd70\ud83e\udd70 #wangyibo #produce101",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "30291632",
+          "likeCount": "1616113",
+          "favoriteCount": "0",
+          "commentCount": "10394"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CviXt6ab1V5l0pSse-fJQ7jLJPQ",
+        "id": "8vjlhregfeg",
+        "snippet": {
+          "publishedAt": "2022-10-11T17:09:54Z",
+          "channelId": "UCZ7x7yDBbEFCGztD8BYvRhA",
+          "title": "The Road Ahead for Autonomous Driving",
+          "description": "Aurora CEO and co-founder Chris Urmson and Nuro CEO and co-founder Jiajun Zhu join Greylock general partner Reid Hoffman for a discussion on the current state of autonomous driving technology, and lay out their vision for the future. This interview was part of Greylock's Intelligent Future event, a daylong summit featuring experts and entrepreneurs in artificial intelligence. \n\nYou can read a transcript of the interview here: https://greylock.com/greymatter/autonomous-vehicles-the-road-ahead/\n\nChapters\n0:00 Introduction\n0:40 Current State of Roads & Autonomy\n3:46 Safety is Fundamental\n7:13 Safety Regulation\n11:17 Tactical Hardware\n15:28 Safety Benchmark\n19:03 Challenges Of The Environment\n22:16 Self-Driving Cars in Business\n24:10 Global Impact",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8vjlhregfeg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Greylock",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Road Ahead for Autonomous Driving",
+            "description": "Aurora CEO and co-founder Chris Urmson and Nuro CEO and co-founder Jiajun Zhu join Greylock general partner Reid Hoffman for a discussion on the current state of autonomous driving technology, and lay out their vision for the future. This interview was part of Greylock's Intelligent Future event, a daylong summit featuring experts and entrepreneurs in artificial intelligence. \n\nYou can read a transcript of the interview here: https://greylock.com/greymatter/autonomous-vehicles-the-road-ahead/\n\nChapters\n0:00 Introduction\n0:40 Current State of Roads & Autonomy\n3:46 Safety is Fundamental\n7:13 Safety Regulation\n11:17 Tactical Hardware\n15:28 Safety Benchmark\n19:03 Challenges Of The Environment\n22:16 Self-Driving Cars in Business\n24:10 Global Impact"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT28M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3684",
+          "likeCount": "66",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "J7xNaUsqNCZOEA1uHW4Cp3lOzEc",
+        "id": "rzZrAKQ3jMQ",
+        "snippet": {
+          "publishedAt": "2022-06-21T17:22:45Z",
+          "channelId": "UCu3Ri8DI1RQLdVtU12uIp1Q",
+          "title": "Nadir Izrael, Armis | Manage Risk with the Armis Platform",
+          "description": "Nadir Izrael, CTO and Co-Founder, Armis talks with John Furrier for a session as part of Manage Risk with the Arms Platform.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rzZrAKQ3jMQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SiliconANGLE theCUBE",
+          "tags": [
+            "SiliconANGLE Media Inc",
+            "SiliconANGLE",
+            "SiliconANGLE Inc",
+            "theCUBE",
+            "Wikibon",
+            "John Furrier",
+            "Dave Vellante"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nadir Izrael, Armis | Manage Risk with the Armis Platform",
+            "description": "Nadir Izrael, CTO and Co-Founder, Armis talks with John Furrier for a session as part of Manage Risk with the Arms Platform."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1197",
+          "likeCount": "5",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ygQMNzwVsQPE-f8IWkZz_etvHZQ",
+        "id": "v4cfSzCKeb8",
+        "snippet": {
+          "publishedAt": "2022-03-18T20:34:48Z",
+          "channelId": "UCE7h5NmkHugUhW9cslj2qkg",
+          "title": "Spring 2022 GRASP SFI - Shuran Song, Columbia University",
+          "description": "ABSTRACT\nFrom unfurling a blanket to swinging a rope; high-velocity dynamic actions play a crucial role in how people interact with deformable objects. In this talk, I will discuss how we can get robots to learn to dynamically manipulate deformable objects, where we embrace high-velocity dynamics rather than avoid them (e.g., exclusively using slow pick and place actions). With robots that can fling, swing, or blow with air, our experiments show that these interactions are surprisingly effective for many classically hard manipulation problems and enable new robot capabilities.\n\nShuran Song is an assistant professor in the Department of Computer Science at Columbia University. Before that, she received her Ph.D. in Computer Science at Princeton University. Her research interests lie at the intersection of computer vision and robotics. She is a recipient of several awards including the Best Paper Award at T-RO \u201820, Best Systems Paper Award at CORL\u201921 and RSS \u201819, Best Manipulation Systems Paper Award from Amazon \u201818, and has been finalists for Best Paper Awards at conferences ICRA \u201820, CVPR\u201919, RSS \u201819, IROS \u201818. She has received research awards from Toyota Research Institute, Microsoft Research, Amazon, and JP Morgan.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v4cfSzCKeb8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GRASP Lab",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Spring 2022 GRASP SFI - Shuran Song, Columbia University",
+            "description": "ABSTRACT\nFrom unfurling a blanket to swinging a rope; high-velocity dynamic actions play a crucial role in how people interact with deformable objects. In this talk, I will discuss how we can get robots to learn to dynamically manipulate deformable objects, where we embrace high-velocity dynamics rather than avoid them (e.g., exclusively using slow pick and place actions). With robots that can fling, swing, or blow with air, our experiments show that these interactions are surprisingly effective for many classically hard manipulation problems and enable new robot capabilities.\n\nShuran Song is an assistant professor in the Department of Computer Science at Columbia University. Before that, she received her Ph.D. in Computer Science at Princeton University. Her research interests lie at the intersection of computer vision and robotics. She is a recipient of several awards including the Best Paper Award at T-RO \u201820, Best Systems Paper Award at CORL\u201921 and RSS \u201819, Best Manipulation Systems Paper Award from Amazon \u201818, and has been finalists for Best Paper Awards at conferences ICRA \u201820, CVPR\u201919, RSS \u201819, IROS \u201818. She has received research awards from Toyota Research Institute, Microsoft Research, Amazon, and JP Morgan."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H1M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1547",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}
