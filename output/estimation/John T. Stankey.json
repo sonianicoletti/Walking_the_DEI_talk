@@ -1,0 +1,2939 @@
+{
+  "ceo": "John T. Stankey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "G-vNe6kRhXDIqb6rQIaO60zNgM8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 38,
+      "resultsPerPage": 27
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "41jq7yH-9zeqOB5gBMmRis59NLU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qctNsiRIJ90"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-31T20:53:45Z",
+          "channelId": "UCbcZ5thSZxQeVpnbUZU9aDw",
+          "title": "BC CEO Club: John Stankey, CEO of AT&amp;T",
+          "description": "The Boston College Chief Executives Club welcomed John Stankey, CEO of AT&T. John Stankey engaged in a fireside chat with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Boston College Chief Executives Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-31T20:53:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W2vqsx0XXPtqbr7BsFDzlafTrGk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "s4D878moJvg"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-06T16:15:22Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "AT&amp;T&#39;s price increases bring value to customers through free added benefits, says AT&amp;T CEO",
+          "description": "John Stankey, AT&T CEO , joins 'Squawk on the Street' to discuss AT&T's consistent go to market strategy for bringing in profitable ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-06T16:15:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V7afuXFnb3gZHUJnVkjRGphiMcQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7TkIJ-5lvg4"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-05T00:48:30Z",
+          "channelId": "UCM30Utw40PYZTGgvrMXNuWw",
+          "title": "People before and after prison\ud83d\ude33 #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kurlyheadmarr",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-05T00:48:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NNy9EoEJMvSWKCVkon86GnA25Sc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TH1mDHtany4"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-25T17:30:28Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "AT&amp;T stock moves higher after posting better-than-expected Q4 earnings",
+          "description": "CNBC's Julia Boorstin breaks down AT&T's fourth-quarter earnings. For access to live and exclusive video from CNBC subscribe ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-25T17:30:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EUcr2cRPpHMScHHx09jjv46lD5U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lpOtBrickSY"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-10T15:41:00Z",
+          "channelId": "UCDT4e-nrTF71jEwuMOLXkbA",
+          "title": "That wfh life is everything! What do you love about having a wfh job? #flexjobs #remotejobs",
+          "description": "Check out our blog for all things work-from-home related: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FlexJobs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-10T15:41:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xfHDNeD8MnN94uYKIP1cyrV-L-M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "w-dY73nMr3A"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-02T09:00:45Z",
+          "channelId": "UChD6XA0-Qlmue8JQAn_jqGA",
+          "title": "Inside AT&amp;T Inc.: Exploring the World&#39;s Largest Telecommunications Company",
+          "description": "AT&T Inc. is an American multinational conglomerate holding company. It is one of the world's largest telecommunications ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TIME TRAVELER",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-02T09:00:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iYXSeurIC2K5K_nD0MBqCVrRxqw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0g_1s6K0uk0"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-15T09:15:24Z",
+          "channelId": "UCvCl2Tlsxc1QLs7kDTfNY2g",
+          "title": "World Most Influential CEOs",
+          "description": "This video about the list of chief executive officers (CEO) leading top companies across the world. SUBSCRIBE to our channel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "jaganinfo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-15T09:15:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l9fB1SMKwV-Q_9mnTbtGlJ0mH-E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "b8COhzHxITM"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-10T00:25:35Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Recession outlook, AI technology, and a potential government shutdown: Goldman Sachs Tech Conference",
+          "description": "Yahoo Finance Executive Editor Brian Sozzi interviewed leaders in finance and government about the economy, the outlook for a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-10T00:25:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hWGnYpBQ9Zca2cVNPHLbgoKSNLE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0J68Sog3Vn8"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-10T00:34:29Z",
+          "channelId": "UCOAoWouQpllzbAj8tfmm0Kg",
+          "title": "Andy Stanley LBGTQ Unconditional Conference Controversy Follow Up on Marriage Statement",
+          "description": "Andy Stanley was in hot water due to his LBGTQ Unconditional Conference recently. This caused an Andy Stanley Controversy.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TORN CURTAIN BY JOSHUA SIMONE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-10T00:34:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AQ95HtqevQpWo3trqrar4FAxQjo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Yvn-3vtyB-A"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-11T04:26:45Z",
+          "channelId": "UCIgSq1WfYaYEiZDHwjILPyA",
+          "title": "AT&amp;T Mission Strategy | Global",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sethdstein",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-11T04:26:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V03TN4xqWvQiUJvgL0JXTnfNdg0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GCF_BdNx_1k"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T15:05:06Z",
+          "channelId": "UCDRIjKy6eZOvKtOELtTdeUA",
+          "title": "BREAKING: Chris Licht OUT At CNN | Counter Points",
+          "description": "Ryan and Emily discuss Chris Licht officially leaving CNN after a disappointing trajectory. To become a Breaking Points Premium ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Breaking Points",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T15:05:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MSNRRAoEKlISQBTf0qKZ5q665_U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FkodG5uScfk"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-07T20:14:43Z",
+          "channelId": "UCOAFXepvOBTEdH7sJheO0xg",
+          "title": "AT&amp;T CALL CENTER REP THREATENS TO HUNT ME DOWN AND KILL ME #SHORTS",
+          "description": "Please watch: \"11-year-old girl killed : stray bullet flew through bedroom window in Spalding County #JUSTICE\" ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "king of talk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-07T20:14:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ds9TqAJTuZxEmUkcoWK2_Pj2tiU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VOTp58KJ7ec"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-21T18:43:12Z",
+          "channelId": "UCkJPK9tlm049uGbkHSaBJrg",
+          "title": "Stanley Druckenmiller explains how to beat the market.",
+          "description": "Stanley Druckenmiller explains how to beat the market. #shorts #investing #stockmarket #stocks #financialadvice ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thoughts on the Market",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-21T18:43:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cc4UCW-btWt-OwLBRTZcZjjetoc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cbWRPpJjzF4"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-24T15:55:19Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "AT&amp;T Inc Q1 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-24T15:55:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Y07wOkqMoINjOSqR8EnzZYDTFY4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p0go_hTVsGU"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T20:31:08Z",
+          "channelId": "UCl9roQQwv4o4OuBj3FhQdDQ",
+          "title": "CNN CEO Chris Licht Fired After Ultimate Trump Chaos Backfires",
+          "description": "CNN CEO Chris Licht gets booted after controversial stunts including the Donald Trump town hall and after his staff turns against ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Damage Report",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T20:31:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BheEwMpatQrvd2i4jYuE2pgge04",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SgZnCSgeHEg"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-09T17:42:29Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "&#39;Bloomberg The Open&#39; Full Show (01/09//2022)",
+          "description": "Jonathan Ferro highlights the market-moving news you need to know heading into the opening bell on Wall Street. -------- Follow ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-09T17:42:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lkwvxynd-y8rBTWF9pggi4c_KTo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MkasIx_D8lw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-22T17:00:14Z",
+          "channelId": "UCa90xqK2odw1KV5wHU9WRhg",
+          "title": "Florida Stanley forever and always - The Office US",
+          "description": "shorts #theoffice #peacock Streaming now on Peacock: https://pck.tv/3mPrdWB Watch The Office US on Google Play: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Office",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-22T17:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tkdQBjiMU30Km3EZAtOjNiI4_dE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jkE_mQ7Drw4"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-25T14:12:24Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Investors should own assets that can benefit from inflation, says BofA Securities&#39; Jared Woodard",
+          "description": "Jared Woodard, head of the Research Investment Committee and head of ETF strategy at BofA Securities, joins 'Squawk Box' to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-25T14:12:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l225xjmR5D_6BrF8yEYbfKkFg9U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oMwmJd66rXM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-21T15:02:43Z",
+          "channelId": "UCGH-h8Kbl5UOJ3kCn9-hrjQ",
+          "title": "MADtv - Stuart: Police Station",
+          "description": "Featuring: Mo Collins - Doreen Larkin Pat Kilbane - Officer #1 Andrew Bowen - Officer #2 Michael Mcdonald - Stuart Larkin.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oMwmJd66rXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oMwmJd66rXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oMwmJd66rXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Broderick813",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-21T15:02:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "On08uBapCW4qIJkCtNl5LD5a7KA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6fPxLBICcTU"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T03:00:11Z",
+          "channelId": "UCa6IoIhGvT3govydiSFGNyQ",
+          "title": "The 5 CRAZIEST Paul Stanley vocal lines",
+          "description": "DO NOT \u26a0\ufe0f CLICK HERE: https://www.crazysinging.com/ Check out my channel teaching mixed voice for free at ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Crazy Singing by Marc Ajax",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T03:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4endT5Jr_36vqFss7SNtOqUgLEs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1-v0uGCDxeM"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-05T15:59:33Z",
+          "channelId": "UCOTZ-6H1rri1lSsj6IzhUyw",
+          "title": "Senator Cruz Blasts President Biden Over Mishandling of Chinese Spy Balloon",
+          "description": "Senator Cruz joins Face The Nation to discuss the Chinese spy balloon, US foreign relations, release of Texan Mark Swidan, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1-v0uGCDxeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1-v0uGCDxeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1-v0uGCDxeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Senator Ted Cruz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-05T15:59:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UKITkf7x9fdBk4Dk1FffxpRad9A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O6R5_BVuMcI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-01T03:46:14Z",
+          "channelId": "UCNBmxc6FvKyxtCpUygcdINA",
+          "title": "3News&#39; Russ Mitchell offers support to Jim Donovan as he battles leukemia relapse",
+          "description": "Jim Donovan, our longtime sports anchor here at WKYC Studios and the play-by-play voice of the Cleveland Browns, has ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WKYC Channel 3",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-01T03:46:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6j91FRiHc4l5ZIy-fw76w94eoFM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3_mqJG2btL0"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-12T00:33:04Z",
+          "channelId": "UCw0y9zO1RXI6uEzoKbbnxTQ",
+          "title": "Adena T. Friedman - Distinguished Business Leadership Award",
+          "description": "Adena T. Friedman Distinguished Business Leadership Award Chair and Chief Executive Officer, Nasdaq, Inc. Introduced by ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AtlanticCouncil",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-12T00:33:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RT_gJPrDOm9hU2K1zhI231KSt4E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bkeuQiQApGk"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-22T13:58:40Z",
+          "channelId": "UC5jhzGBWOTvQku2kLbucGcw",
+          "title": "Media, Sports, and Entertainment with Greg Maffei, President and CEO of Liberty Media Corporation",
+          "description": "Willy sat down with Greg Maffei, President and Chief Executive Officer of Liberty Media. He is also the Chairman of Live Nation ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Walker & Dunlop",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-22T13:58:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kbB341XqT1Xa8vgX9uZRTnZImF0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2_1Y5FFcM6U"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-03T16:00:02Z",
+          "channelId": "UCa90xqK2odw1KV5wHU9WRhg",
+          "title": "Try Not to Laugh Challenge - The Office US",
+          "description": "The ultimate try not to laugh challenge featuring the funniest moments from The Office US - how far can you make it through?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Office",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-03T16:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sfyeyGLQOJ9snxELpt6gOVUmc5Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0yKp7il9FTo"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T00:00:09Z",
+          "channelId": "UC4OvD2yIbofl9l4dIlqSNMw",
+          "title": "Bill O&#39;Reilly on CNN Boss FIRED! Latest on Trump&#39;s likely indictment | No Spin News",
+          "description": "Talking Points Memo: Bill breaks down why CNN fired their boss and what it means for the media The latest on the likely ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bill O'Reilly",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T00:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xue5alQLtpfuOgwiq82rxVvwTek",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pfS4BjQO_Lo"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-10T05:00:10Z",
+          "channelId": "UC5uzDw5LMxebhoQ3UlSaixw",
+          "title": "Stanley Brown - God Is Good (Audio) w/ Karen Clark Sheard, Hezekiah Walker, Kierra Sheard",
+          "description": "StanleyBrown #GodIsGood #AllTheTime \"God Is Good\" Out Now: Subscribe For More: Official Website: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stanley Brown",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-10T05:00:10Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KbRhn84NsyoDVGXTRnlI18Bq_7w",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "hticVKZUHdda0_ke2ZK3SgcZwFw",
+        "id": "qctNsiRIJ90",
+        "snippet": {
+          "publishedAt": "2023-03-31T20:53:45Z",
+          "channelId": "UCbcZ5thSZxQeVpnbUZU9aDw",
+          "title": "BC CEO Club: John Stankey, CEO of AT&T",
+          "description": "The Boston College Chief Executives Club welcomed John Stankey, CEO of AT&T. John Stankey engaged in a fireside chat with Marianne Harrison, President & CEO of John Hancock.\n\nThe conversation focused on AT&T\u2019s investment in infrastructure, the impact of climate control on their business, their investment into secure networks for first responders, and the company\u2019s investment on connecting all areas of the country to their network",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Boston College Chief Executives Club",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BC CEO Club: John Stankey, CEO of AT&T",
+            "description": "The Boston College Chief Executives Club welcomed John Stankey, CEO of AT&T. John Stankey engaged in a fireside chat with Marianne Harrison, President & CEO of John Hancock.\n\nThe conversation focused on AT&T\u2019s investment in infrastructure, the impact of climate control on their business, their investment into secure networks for first responders, and the company\u2019s investment on connecting all areas of the country to their network"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT43M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1380",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "43aqci48P-0sb5HkwOsclFzIVCk",
+        "id": "s4D878moJvg",
+        "snippet": {
+          "publishedAt": "2023-09-06T16:15:22Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "AT&T's price increases bring value to customers through free added benefits, says AT&T CEO",
+          "description": "John Stankey, AT&T CEO , joins 'Squawk on the Street' to discuss AT&T's consistent go to market strategy for bringing in profitable customers, setting competitive prices that reward customer loyalty, and expansion into fixed fiber optic broadband connections. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/s4D878moJvg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AT&T's price increases bring value to customers through free added benefits, says AT&T CEO",
+            "description": "John Stankey, AT&T CEO , joins 'Squawk on the Street' to discuss AT&T's consistent go to market strategy for bringing in profitable customers, setting competitive prices that reward customer loyalty, and expansion into fixed fiber optic broadband connections. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "40717",
+          "likeCount": "62",
+          "favoriteCount": "0",
+          "commentCount": "22"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LC9N49N9qR9arJ68Jm5pOkBlr-k",
+        "id": "7TkIJ-5lvg4",
+        "snippet": {
+          "publishedAt": "2023-04-05T00:48:30Z",
+          "channelId": "UCM30Utw40PYZTGgvrMXNuWw",
+          "title": "People before and after prison\ud83d\ude33 #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7TkIJ-5lvg4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kurlyheadmarr",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "People before and after prison\ud83d\ude33 #shorts",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4729981",
+          "favoriteCount": "0",
+          "commentCount": "3751"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HOjneYwReJlopYoZF8S6jnBpW0s",
+        "id": "TH1mDHtany4",
+        "snippet": {
+          "publishedAt": "2023-01-25T17:30:28Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "AT&T stock moves higher after posting better-than-expected Q4 earnings",
+          "description": "CNBC's Julia Boorstin breaks down AT&T's fourth-quarter earnings. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TH1mDHtany4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "app",
+            "business news",
+            "cnbc",
+            "digital",
+            "disrupt",
+            "funding",
+            "innovation",
+            "investors",
+            "nasdaq",
+            "nyse",
+            "online",
+            "silicon valley",
+            "startup",
+            "stock market",
+            "tech",
+            "techcheck",
+            "technology",
+            "venture",
+            "wall street"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AT&T stock moves higher after posting better-than-expected Q4 earnings",
+            "description": "CNBC's Julia Boorstin breaks down AT&T's fourth-quarter earnings. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2314",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "19"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "C1-Vmj75tz6V1zaOgcdFHoQzUtk",
+        "id": "lpOtBrickSY",
+        "snippet": {
+          "publishedAt": "2023-03-10T15:41:00Z",
+          "channelId": "UCDT4e-nrTF71jEwuMOLXkbA",
+          "title": "That wfh life is everything! What do you love about having a wfh job? #flexjobs #remotejobs",
+          "description": "Check out our blog for all things work-from-home related: https://www.flexjobs.com/blog/category/flex-job-benefits/working-from-home/\n\nThe latest statistics and trends in remote work: https://www.flexjobs.com/blog/post/remote-work-statistics/\n\nThe massive transition to remote work since 2020 has allowed professionals and companies alike to realize the benefits of remote work and, as a result, companies are adopting hybrid and remote work models for the long-term. A Gallup survey in June of 2022 found that 8 in 10 people are working hybrid or remote, while only 2 in 10 are entirely on-site. And this trend continues for future predictions. \n\nA recent AT&T study found the hybrid work model is expected to grow from 42% in 2021 to 81% in 2024. And according to FlexJobs\u2019 Employee Engagement Report, 48% of employers are maintaining some form of remote work for their workforce. When asked what their company\u2019s post-pandemic workplace plans will be, 26% of respondents said their employer will follow a hybrid model, and 22% said they\u2019ll be allowed to work remotely.\n\nThe bottom line is that companies have realized that physically being at the office full-time isn\u2019t necessary to produce great results. \n\nMany companies have already made the switch to hybrid and remote workplaces, including prominent brands such as Adobe, Salesforce, and Spotify. In fact, more companies across industries are joining long-time remote work advocates\u2014like Automattic, GitLab, Toptal, and Zapier\u2014in adopting permanent remote workplaces. Some of the latest thought leaders and companies embracing remote work include: \n\nAirbnb\u2014Brian Chesky, Cofounder and CEO\nAllstate\u2014Thomas J. Wilson, CEO\nAmazon\u2014Andrew Jassy, CEO\nAncestry.com\u2014Deborah Liu, CEO\nAT&T\u2014John Stankey, CEO\nCiti\u2014Jane Fraser, CEO\nDell Technologies\u2014Michael Dell, CEO\nGoogle\u2014Sundar Pichai, CEO\nMeta Platforms\u2014Mark Zuckerberg, CEO\nSalesforce\u2014Marc Benioff, CEO\nSpotify\u2014Daniel Ek, CEO \nEmployees are eager to continue working remotely or hybrid too. According to FlexJobs\u2019 Career Pulse Survey (conducted between July and August 2022), 65% of respondents report wanting to work remotely full-time, while 32% want a hybrid work environment. That\u2019s an astounding 97% of workers who desire some form of remote work!\n\nTake a Tour of FlexJobs: www.flexjobs.com/tour\nBrowse Current Job Listings: https://www.flexjobs.com/remote-jobs\nJob Search Articles & Advice: https://www.flexjobs.com/blog/\nThe Top 100 Companies to Watch for Remote Jobs in 2023: https://www.flexjobs.com/blog/post/100-top-companies-with-remote-jobs-2023/\n\nFlexJobs is the longtime leader in helping job seekers find the highest-quality remote, work-from-home, hybrid, and flexible jobs. You can sign up for premium-level access to our database of hand-screened job listings, as well as job search and career webinars, and many other great resources! Learn today how FlexJobs can empower your job search!\n\n*** Use promo code YOUTUBE for up to 30% off premium memberships! ***\n\nwww.facebook.com/flexjobs\nwww.linkedin.com/company/flexjobs-com\nwww.twitter.com/flexjobs\nwww.instagram.com/flexjobs\nwww.tiktok.com/@flexjobs\nwww.pinterest.com/flexjobs",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lpOtBrickSY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FlexJobs",
+          "tags": [
+            "wfh life",
+            "work from home",
+            "working from home",
+            "work life balance",
+            "wfh",
+            "wfh jobs",
+            "wfh job",
+            "remote work",
+            "remote jobs",
+            "remote workers",
+            "work flexibility",
+            "flexible schedule",
+            "part-time work from home jobs",
+            "part-time work from home job",
+            "full-time work from home",
+            "freelance work",
+            "alternative schedule",
+            "work when you want",
+            "online work from home",
+            "online work from home jobs",
+            "online work from home job",
+            "working from home perks",
+            "wfh perks",
+            "work from home perks",
+            "family",
+            "life",
+            "happiness"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "That wfh life is everything! What do you love about having a wfh job? #flexjobs #remotejobs",
+            "description": "Check out our blog for all things work-from-home related: https://www.flexjobs.com/blog/category/flex-job-benefits/working-from-home/\n\nThe latest statistics and trends in remote work: https://www.flexjobs.com/blog/post/remote-work-statistics/\n\nThe massive transition to remote work since 2020 has allowed professionals and companies alike to realize the benefits of remote work and, as a result, companies are adopting hybrid and remote work models for the long-term. A Gallup survey in June of 2022 found that 8 in 10 people are working hybrid or remote, while only 2 in 10 are entirely on-site. And this trend continues for future predictions. \n\nA recent AT&T study found the hybrid work model is expected to grow from 42% in 2021 to 81% in 2024. And according to FlexJobs\u2019 Employee Engagement Report, 48% of employers are maintaining some form of remote work for their workforce. When asked what their company\u2019s post-pandemic workplace plans will be, 26% of respondents said their employer will follow a hybrid model, and 22% said they\u2019ll be allowed to work remotely.\n\nThe bottom line is that companies have realized that physically being at the office full-time isn\u2019t necessary to produce great results. \n\nMany companies have already made the switch to hybrid and remote workplaces, including prominent brands such as Adobe, Salesforce, and Spotify. In fact, more companies across industries are joining long-time remote work advocates\u2014like Automattic, GitLab, Toptal, and Zapier\u2014in adopting permanent remote workplaces. Some of the latest thought leaders and companies embracing remote work include: \n\nAirbnb\u2014Brian Chesky, Cofounder and CEO\nAllstate\u2014Thomas J. Wilson, CEO\nAmazon\u2014Andrew Jassy, CEO\nAncestry.com\u2014Deborah Liu, CEO\nAT&T\u2014John Stankey, CEO\nCiti\u2014Jane Fraser, CEO\nDell Technologies\u2014Michael Dell, CEO\nGoogle\u2014Sundar Pichai, CEO\nMeta Platforms\u2014Mark Zuckerberg, CEO\nSalesforce\u2014Marc Benioff, CEO\nSpotify\u2014Daniel Ek, CEO \nEmployees are eager to continue working remotely or hybrid too. According to FlexJobs\u2019 Career Pulse Survey (conducted between July and August 2022), 65% of respondents report wanting to work remotely full-time, while 32% want a hybrid work environment. That\u2019s an astounding 97% of workers who desire some form of remote work!\n\nTake a Tour of FlexJobs: www.flexjobs.com/tour\nBrowse Current Job Listings: https://www.flexjobs.com/remote-jobs\nJob Search Articles & Advice: https://www.flexjobs.com/blog/\nThe Top 100 Companies to Watch for Remote Jobs in 2023: https://www.flexjobs.com/blog/post/100-top-companies-with-remote-jobs-2023/\n\nFlexJobs is the longtime leader in helping job seekers find the highest-quality remote, work-from-home, hybrid, and flexible jobs. You can sign up for premium-level access to our database of hand-screened job listings, as well as job search and career webinars, and many other great resources! Learn today how FlexJobs can empower your job search!\n\n*** Use promo code YOUTUBE for up to 30% off premium memberships! ***\n\nwww.facebook.com/flexjobs\nwww.linkedin.com/company/flexjobs-com\nwww.twitter.com/flexjobs\nwww.instagram.com/flexjobs\nwww.tiktok.com/@flexjobs\nwww.pinterest.com/flexjobs"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2597",
+          "likeCount": "40",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "x8J-hpCO2m_3DTvSwyiuM3giXZM",
+        "id": "w-dY73nMr3A",
+        "snippet": {
+          "publishedAt": "2023-08-02T09:00:45Z",
+          "channelId": "UChD6XA0-Qlmue8JQAn_jqGA",
+          "title": "Inside AT&T Inc.: Exploring the World's Largest Telecommunications Company",
+          "description": "AT&T Inc. is an American multinational conglomerate holding company. It is one of the world's largest telecommunications companies, providing mobile, broadband, and entertainment services. John Stankey is the CEO of AT&T.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/w-dY73nMr3A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TIME TRAVELER",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Inside AT&T Inc.: Exploring the World's Largest Telecommunications Company",
+            "description": "AT&T Inc. is an American multinational conglomerate holding company. It is one of the world's largest telecommunications companies, providing mobile, broadband, and entertainment services. John Stankey is the CEO of AT&T."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2039",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MfcIyHIPJWSGUrZ6ObtoDRx2Ip8",
+        "id": "0g_1s6K0uk0",
+        "snippet": {
+          "publishedAt": "2023-02-15T09:15:24Z",
+          "channelId": "UCvCl2Tlsxc1QLs7kDTfNY2g",
+          "title": "World Most Influential CEOs",
+          "description": "This video about the list of chief executive officers (CEO) leading top companies across the world. \nSUBSCRIBE to our channel  \ud83d\udc4d for DAILY videos. Thank you \ud83d\ude4f\n#CEO #GK #viral  #trending \n\nThe following is a list of chief executive officers of notable companies. \nAccenture Julie Sweet\nAditya Birla Group Kumar Mangalam Birla\nAdobe Systems Shantanu Narayen\nAgenus Garo H. Armen\nAirbus Guillaume Faury\nAlibaba Daniel Zhang\nAmazon Andy Jassy\nAdvanced Micro Devices Lisa Su\nAmerican Express Stephen Squeri\nAnthem Joseph R. Swedish\nApple Tim Cook\nArcelor Mittal Lakshmi Niwas Mittal\nAT&T John Stankey\nBAE Systems Charles Woodburn\nBajaj Allianz General Insurance Tapan Singhel\nBanco Bilbao Vizcaya Argentaria Carlos Torres Vila\nBank of America Brian Moynihan\nBarclays Jes Staley\nBerkshire Hathaway Warren Buffett\nBest Buy Hubert Joly\nBharti Enterprises Sunil Bharti Mittal\nBlackstone Group Stephen A. Schwarzman\nBHP Andrew Mackenzie\nBMW Oliver Zipse\nBoeing Dave Calhoun\nBoston Consulting Group Rich Lesser\nBP Bob Dudley\nCampbell Soup Company Denise Morrison\nCanonical Mark Shuttleworth\nCapital One Financial Richard Fairbank\nCaterpillar Jim Umpleby\nChubb Evan G. Greenberg\nCisco Systems Chuck Robbins\nCitigroup Jane Fraser\nCoca-Cola James Quincey\nCognizant Brian Humphries\nComcast Brian L. Roberts\nCredit Suisse Tidjane Thiam\nDaimler AG Ola K\u00e4llenius\nDell Michael Dell\nDelta Air Lines Ed Bastian\nDeutsche Bank Christian Sewing\nDeutsche Post Frank Appel\nDickey's Barbecue Pit Roland Dickey Jr.\nDow Chemical Company Edward D. Breen\nDr. Reddy's G. V. Prasad\neBay Devin Wenig\nElectronic Arts Andrew Wilson\nEricsson B\u00f6rje Ekholm\nExxonMobil Darren Woods\nEyeMail Inc. Lisa S. Jones\nErnst & Young Carmine Di Sibio\nFacebook Mark Zuckerberg\nFedEx Frederick W. Smith\nFenty Beauty Rihanna\nFiat Sergio Marchionne\nFidelity Investments Abigail Johnson\nFine Hygienic Holding James Michael Lafferty\nFord James Hackett\nFoxconn Terry Gou\nFox Corporation Lachlan Murdoch\nFUBU Daymond John\nGeneral Dynamics Phebe Novakovic\nGeneral Electric H. Lawrence Culp Jr.\nGeneral Motors Mary T. Barra\nGlaxoSmithKline Emma Walmsley\nGoldman Sachs David M. Solomon\nGoogle Sundar Pichai\nGMA Network Felipe Gozon\nGVK Industries Gunupati Venkata Krishna Reddy\nHCL Technologies C Vijayakumar\n\nMcDonald's Chris Kempczinski\nMcKinsey & Company Kevin Sneader\nMesa Air Group Jonathan Ornstein\nMetLife Steven A. Kandarian\nMGA Entertainment Isaac Larian\nMicrosoft Satya Nadella\nMicroStrategy Michael J. Saylor\nMorgan Stanley James P. Gorman\nMossy Oak Toxey Haas\nMozilla Corporation Chris Beard\nNBCUniversal Jeff Shell\nNews Corp Robert James Thomson\nNew York Times Company Mark Thompson\nNike Mark Parker\nNokia Pekka Lundmark\nNovartis Vasant Narasimhan\nNintendo Tatsumi Kimishima\nOath Tim Armstrong\nOracle Corporation Safra Catz\nOracle Corporation Mark Hurd\nPepsiCo Ramon Laguarta\nPfizer Albert Bourla\nPolo Ralph Lauren Patrice Louvet\nProcter & Gamble David S. Taylor\nPrudential Financial John Strangfeld\nQantas Alan Joyce\nReliance Group Anil Ambani\nReliance Industries Mukesh Ambani\n.....\nTata Consultancy Services Rajesh Gopinathan\nTCL Corporation Li Dongsheng\nTelstra Andy Penn\nTemasek Holdings Ho Ching\nTesco Dave Lewis\nTesla Elon Musk\nThe Travelers Companies Alan D. Schnitzer\nToyota Akio Toyoda\nT Rowe Price Bill Stromberg\nTwitter Parag Agrawal\nUnited Airlines Scott Kirby\nUBS Ralph Hamers\nBausch Health Joseph C. Papa\nVerizon Communications Hans Vestberg\nViacomCBS Robert Bakish\nVodafone Vittorio Colao\nVolkswagen Group Herbert Diess\nVulcan Bill Hilf\nWalt Disney Company Bob Chapek\nWalgreens Boots Alliance Stefano Pessina\nWalmart Doug McMillon\nWarner Brothers Ann Sarnoff\nWarnerMedia Jason Kilar\nWells Fargo Charles Scharf\nWhole Foods Market John Mackey\nWilliams-Sonoma Laura J. Alber\nWWE Stephanie McMahon\nYum! Brands Greg Creed\nZillow Group Rich Barton\nZoom Video Communications Eric Yuan\n\nIndian Origin CEOs Ruling The World, Who is the No 1 CEO in the world,Who is CEO of top companies, Who is the best CEO in the world 2023, How many top CEOs are Indian,Indian-origin CEOs leading industries across the world, CEO, top companies,\ntop companies and their CEOs in world, list of Indian companies and their CEO 2023,\ntop 100 CEOs in the world, all company CEO name list 2023, who is the best CEO in the world, top 10 CEO in the world,top Indian CEOs in the world 2023,\ntop companies and their CEOs in India\n\nMost influential CEOs,Top CEOs in the world,Business leaders,Corporate influencers,\nCEO interviews,Business news,Leadership skills,Successful CEOs,Management strategies,\nCompany growth,Business trends,Innovation in business,Entrepreneurship,Digital transformation,Global business,Business management,Strategic leadership,Thought leadership,Industry insights,Business analysis,Executive leadership,Corporate culture,Workplace trends,CEO success stories,Business advice.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0g_1s6K0uk0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "jaganinfo",
+          "tags": [
+            "Indian Origin CEOs Ruling The World",
+            "Who is the No 1 CEO in the world",
+            "Who is CEO of top companies",
+            "How many top CEOs are Indian",
+            "Indian-origin CEOs leading industries across the world",
+            "CEO",
+            "top companies",
+            "top companies and their CEOs in world",
+            "list of Indian companies and their CEO 2023",
+            "top 100 CEOs in the world",
+            "all company CEO name list 2023",
+            "who is the best CEO in the world",
+            "top 10 CEO in the world",
+            "top Indian CEOs in the world 2023",
+            "Successful CEOs",
+            "CEO success stories"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "World Most Influential CEOs",
+            "description": "This video about the list of chief executive officers (CEO) leading top companies across the world. \nSUBSCRIBE to our channel  \ud83d\udc4d for DAILY videos. Thank you \ud83d\ude4f\n#CEO #GK #viral  #trending \n\nThe following is a list of chief executive officers of notable companies. \nAccenture Julie Sweet\nAditya Birla Group Kumar Mangalam Birla\nAdobe Systems Shantanu Narayen\nAgenus Garo H. Armen\nAirbus Guillaume Faury\nAlibaba Daniel Zhang\nAmazon Andy Jassy\nAdvanced Micro Devices Lisa Su\nAmerican Express Stephen Squeri\nAnthem Joseph R. Swedish\nApple Tim Cook\nArcelor Mittal Lakshmi Niwas Mittal\nAT&T John Stankey\nBAE Systems Charles Woodburn\nBajaj Allianz General Insurance Tapan Singhel\nBanco Bilbao Vizcaya Argentaria Carlos Torres Vila\nBank of America Brian Moynihan\nBarclays Jes Staley\nBerkshire Hathaway Warren Buffett\nBest Buy Hubert Joly\nBharti Enterprises Sunil Bharti Mittal\nBlackstone Group Stephen A. Schwarzman\nBHP Andrew Mackenzie\nBMW Oliver Zipse\nBoeing Dave Calhoun\nBoston Consulting Group Rich Lesser\nBP Bob Dudley\nCampbell Soup Company Denise Morrison\nCanonical Mark Shuttleworth\nCapital One Financial Richard Fairbank\nCaterpillar Jim Umpleby\nChubb Evan G. Greenberg\nCisco Systems Chuck Robbins\nCitigroup Jane Fraser\nCoca-Cola James Quincey\nCognizant Brian Humphries\nComcast Brian L. Roberts\nCredit Suisse Tidjane Thiam\nDaimler AG Ola K\u00e4llenius\nDell Michael Dell\nDelta Air Lines Ed Bastian\nDeutsche Bank Christian Sewing\nDeutsche Post Frank Appel\nDickey's Barbecue Pit Roland Dickey Jr.\nDow Chemical Company Edward D. Breen\nDr. Reddy's G. V. Prasad\neBay Devin Wenig\nElectronic Arts Andrew Wilson\nEricsson B\u00f6rje Ekholm\nExxonMobil Darren Woods\nEyeMail Inc. Lisa S. Jones\nErnst & Young Carmine Di Sibio\nFacebook Mark Zuckerberg\nFedEx Frederick W. Smith\nFenty Beauty Rihanna\nFiat Sergio Marchionne\nFidelity Investments Abigail Johnson\nFine Hygienic Holding James Michael Lafferty\nFord James Hackett\nFoxconn Terry Gou\nFox Corporation Lachlan Murdoch\nFUBU Daymond John\nGeneral Dynamics Phebe Novakovic\nGeneral Electric H. Lawrence Culp Jr.\nGeneral Motors Mary T. Barra\nGlaxoSmithKline Emma Walmsley\nGoldman Sachs David M. Solomon\nGoogle Sundar Pichai\nGMA Network Felipe Gozon\nGVK Industries Gunupati Venkata Krishna Reddy\nHCL Technologies C Vijayakumar\n\nMcDonald's Chris Kempczinski\nMcKinsey & Company Kevin Sneader\nMesa Air Group Jonathan Ornstein\nMetLife Steven A. Kandarian\nMGA Entertainment Isaac Larian\nMicrosoft Satya Nadella\nMicroStrategy Michael J. Saylor\nMorgan Stanley James P. Gorman\nMossy Oak Toxey Haas\nMozilla Corporation Chris Beard\nNBCUniversal Jeff Shell\nNews Corp Robert James Thomson\nNew York Times Company Mark Thompson\nNike Mark Parker\nNokia Pekka Lundmark\nNovartis Vasant Narasimhan\nNintendo Tatsumi Kimishima\nOath Tim Armstrong\nOracle Corporation Safra Catz\nOracle Corporation Mark Hurd\nPepsiCo Ramon Laguarta\nPfizer Albert Bourla\nPolo Ralph Lauren Patrice Louvet\nProcter & Gamble David S. Taylor\nPrudential Financial John Strangfeld\nQantas Alan Joyce\nReliance Group Anil Ambani\nReliance Industries Mukesh Ambani\n.....\nTata Consultancy Services Rajesh Gopinathan\nTCL Corporation Li Dongsheng\nTelstra Andy Penn\nTemasek Holdings Ho Ching\nTesco Dave Lewis\nTesla Elon Musk\nThe Travelers Companies Alan D. Schnitzer\nToyota Akio Toyoda\nT Rowe Price Bill Stromberg\nTwitter Parag Agrawal\nUnited Airlines Scott Kirby\nUBS Ralph Hamers\nBausch Health Joseph C. Papa\nVerizon Communications Hans Vestberg\nViacomCBS Robert Bakish\nVodafone Vittorio Colao\nVolkswagen Group Herbert Diess\nVulcan Bill Hilf\nWalt Disney Company Bob Chapek\nWalgreens Boots Alliance Stefano Pessina\nWalmart Doug McMillon\nWarner Brothers Ann Sarnoff\nWarnerMedia Jason Kilar\nWells Fargo Charles Scharf\nWhole Foods Market John Mackey\nWilliams-Sonoma Laura J. Alber\nWWE Stephanie McMahon\nYum! Brands Greg Creed\nZillow Group Rich Barton\nZoom Video Communications Eric Yuan\n\nIndian Origin CEOs Ruling The World, Who is the No 1 CEO in the world,Who is CEO of top companies, Who is the best CEO in the world 2023, How many top CEOs are Indian,Indian-origin CEOs leading industries across the world, CEO, top companies,\ntop companies and their CEOs in world, list of Indian companies and their CEO 2023,\ntop 100 CEOs in the world, all company CEO name list 2023, who is the best CEO in the world, top 10 CEO in the world,top Indian CEOs in the world 2023,\ntop companies and their CEOs in India\n\nMost influential CEOs,Top CEOs in the world,Business leaders,Corporate influencers,\nCEO interviews,Business news,Leadership skills,Successful CEOs,Management strategies,\nCompany growth,Business trends,Innovation in business,Entrepreneurship,Digital transformation,Global business,Business management,Strategic leadership,Thought leadership,Industry insights,Business analysis,Executive leadership,Corporate culture,Workplace trends,CEO success stories,Business advice."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT4M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "123",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8yZzhDK5IRsrCnn8J_nKyKaCKn8",
+        "id": "b8COhzHxITM",
+        "snippet": {
+          "publishedAt": "2023-09-10T00:25:35Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Recession outlook, AI technology, and a potential government shutdown: Goldman Sachs Tech Conference",
+          "description": "Yahoo Finance Executive Editor Brian Sozzi interviewed leaders in finance and government about the economy, the outlook for a recession, AI, remote work, a potential government shutdown, and the cellular phone competition.\n#youtube #stockmarket #news \nVideo Highlights\n00:00:38 Chief Economist Jan Hatzius talks recession outlook, Fed rate hikes, consumer spending, job growth\n00:10:00: Zoom CFO Kelly Steckelberg on the future of AI, remote work, Microsoft teams, Zoom's earnings and outlook for growth\n00:17:54: Secretary of Transportation Buttigieg on travel, airline industry. potential government shutdown\n00:26:28: AT&T CEO John Stankey talks drones, FirstNet first responders network, mobile phone pricing, and competition\n00:36:00 T-Mobile CEO Mike Sievert discusses shareholder return program, mobile business, layoffs\n00:43:06 Eric Sheridan Managing Director Goldman Sachs America's Equity Research talks recession outlook, investors, AI \nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b8COhzHxITM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Recession outlook, AI technology, and a potential government shutdown: Goldman Sachs Tech Conference",
+            "description": "Yahoo Finance Executive Editor Brian Sozzi interviewed leaders in finance and government about the economy, the outlook for a recession, AI, remote work, a potential government shutdown, and the cellular phone competition.\n#youtube #stockmarket #news \nVideo Highlights\n00:00:38 Chief Economist Jan Hatzius talks recession outlook, Fed rate hikes, consumer spending, job growth\n00:10:00: Zoom CFO Kelly Steckelberg on the future of AI, remote work, Microsoft teams, Zoom's earnings and outlook for growth\n00:17:54: Secretary of Transportation Buttigieg on travel, airline industry. potential government shutdown\n00:26:28: AT&T CEO John Stankey talks drones, FirstNet first responders network, mobile phone pricing, and competition\n00:36:00 T-Mobile CEO Mike Sievert discusses shareholder return program, mobile business, layoffs\n00:43:06 Eric Sheridan Managing Director Goldman Sachs America's Equity Research talks recession outlook, investors, AI \nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT50M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6043",
+          "likeCount": "57",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oBMdg0LW7JTNu9hjtzlF46TAmhw",
+        "id": "0J68Sog3Vn8",
+        "snippet": {
+          "publishedAt": "2023-10-10T00:34:29Z",
+          "channelId": "UCOAoWouQpllzbAj8tfmm0Kg",
+          "title": "Andy Stanley LBGTQ Unconditional Conference Controversy Follow Up on Marriage Statement",
+          "description": "Andy Stanley was in hot water due to his LBGTQ Unconditional Conference recently. This caused an Andy Stanley Controversy. So Andy Stanley sermon makes his views clear on marriage. He believe a marriage is between a man and a woman. He also stated that homosexuality and gay marriage are sinful. This is a step in the right direction for Northpoint community church. Many wonder why Andy took so long to make his views clear. Andy Stanley LBGTQ\n\n#andystanley #lbgtq #shortsyoutube \n\n\ud83d\ude0eBecome a Patreon Member for as Low as $5 Per month\nHelp Me reach One Billion People for the Gospel through Social Media\nAnd keep my content Ads Free\n\ud83d\udc4ahttps://www.patreon.com/torncurtain\n\n\ud83d\udcb0Pay Pal Donations:  \n\ud83d\udc4ahttps://paypal.me/torncurtain?locale.x=en_US\n\n\ud83d\udc4aMAIN YOUTUBE CHANNEL (Christianity)\n\ud83d\udc4aPLEASE HELP ME GET T0 50,000 FOLLWERS- SUBCRIBE TODAY:\n\ud83d\udc4ahttps://www.youtube.com/c/TornCurtainIJoshuaSimone\n\n\ud83d\ude0eWhat is the Main Torn Curtain Channel About:  \nhttps://youtu.be/HfkiH2CDARQ\n\n\ud83d\udc4aTorn Curtain (Politics & News)\n\ud83d\udc4ahttps://www.youtube.com/channel/UCMcASQivhT1VI37e_tO7GOQ\n\n\ud83d\udc4a Torn Curtain (Evangelism & Apologetics)\n\ud83d\udc4ahttps://www.youtube.com/channel/UCWyGdvzLA6wA3-d5NA0r7OA\n\n\u2611\ufe0fFOLLOW ME ON SOCIAL MEDIA \n\u2764\ufe0fLinktree: https://linktr.ee/torncurtain.org\n\u2611\ufe0fFacebook Page: https://www.facebook.com/torncurtain.org\n\u2611\ufe0fInstagram: https://www.instagram.com/torncurtainorg/\n\u2611\ufe0fTwitter: https://twitter.com/torncurtainorg\n\u2611\ufe0fTik Tok: https://www.tiktok.com/@torncurtain.org\n\ud83d\udce7Join My Email Subscribers List: http://eepurl.com/hGeh4L\n\n \ud83d\udce7Contact for Channel: josh@torncurtain.org    \n\ud83d\ude0eAbout Josh:\n\n\ud83c\udfebEducation: \nBS Degree from NYU in Counseling \nMA Degree Theology Equivalent from Bethel University (Not Bethel Redding) and ORU University\nStudied Inner Healing and Deliverance at Orbis School of Ministry Run by Ken Fish \nGraduate of Goldman Sachs 10,000 Small Business  Mini MBA Program\n\n\ud83d\ude0ePersonal Experiences\nMy earliest memories as a child are seeing the gifts of the spirit in operation \nAs a child my parents took us to a small storefront African American church which eventually became the largest church in NYC Christian Cultural Center Led By Pastor AR Bernard \nMy Youth Group called Youth Explosion lead by Adam Durso went from 5 kids to being one the the most recognized youth ministries in the country \nHelped Plant a church with a few people which is now one of the fastest growing church in America \n\n\ud83d\ude01Testimony \nWas a Youth & College Pastor, Helping Church Plant in NYC, and Seminary Student. Walked away from the Faith from 2012-2015 because of personal and  family crisis.  I felt the lord abandoned me and started drinking alcohol heavily. I became bitter, angry, and violent so my life came crashing down. In 2015 while in rehab i rededicated my life to the Lord and was set free and healed from many issues. Spent 2015-2019 in counseling, inner healing and deliverance to heal from everything id been through .  After healing for several years the lord released me into ministry again in the local church leading several ministries.  He then spoke to me about starting a youth tube channel! \n\n\u26eaMinistry Experience \nSeveral Years as a Youth & College Pastor \nDeacon At New Life Fellowship church home of Emotional Healthy Discipleship started By Pete Scazzero   \nMentored by Pete Scazzero and worked under him for 5.5 years\nLed living waters and cross current which is a program for the sexual broken and the LBGTQ community\nA ministry leader in Inner Healing and Deliverance for 8 years \nA US and International Chaplain \nLeading in Street Outreach and Social Media in my current church \n\nTorn Curtain promises to bring you the best and latest Christian content.  We follow dozens of ministries and are going to bring you the best content as we come across it. Torn Curtain is a Christian You Tube Channel which main focus is Christianity and Jesus. We are going to make the best christian youtube videos on topics like: Current Events & Politics, Inner Healing and Deliverance, Prophecy, Evangelism, Relationships, Teachings of Derek Prince, End Times, Discipleship, Gifts of Spirit , Contending for the faith, and Church History & Theology.  We are going to do devotional content as well as testimonies.  And i am going to release funny videos at times. Looking for the best Christian YouTube channels or top Christian youtube channel then Look no further. You can also consider this a bible study YouTube channel. I am hoping this ministry will help bring: Reformation, Revival and Renewal. I am going to go after the tough and controversial subjects. Many might interpret this is being divisive but my heart is to see the church of Christ be everything it can be! Torn Curtain is a registered 501 (c) 3 Corporation",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0J68Sog3Vn8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TORN CURTAIN BY JOSHUA SIMONE",
+          "tags": [
+            "andy stanley",
+            "unconditional conference",
+            "andy stanley lgbtq",
+            "andy stanley sermons 2023",
+            "gay christian",
+            "andy stanley homosexuality",
+            "andy stanley controversy",
+            "andy stanley sermons",
+            "andy stanley unconditional conference",
+            "andy stanley false teacher",
+            "andy stanley marriage",
+            "unconditional conference andy stanley",
+            "unconditional conference north point",
+            "unconditional conference 2023"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Andy Stanley LBGTQ Unconditional Conference Controversy Follow Up on Marriage Statement",
+            "description": "Andy Stanley was in hot water due to his LBGTQ Unconditional Conference recently. This caused an Andy Stanley Controversy. So Andy Stanley sermon makes his views clear on marriage. He believe a marriage is between a man and a woman. He also stated that homosexuality and gay marriage are sinful. This is a step in the right direction for Northpoint community church. Many wonder why Andy took so long to make his views clear. Andy Stanley LBGTQ\n\n#andystanley #lbgtq #shortsyoutube \n\n\ud83d\ude0eBecome a Patreon Member for as Low as $5 Per month\nHelp Me reach One Billion People for the Gospel through Social Media\nAnd keep my content Ads Free\n\ud83d\udc4ahttps://www.patreon.com/torncurtain\n\n\ud83d\udcb0Pay Pal Donations:  \n\ud83d\udc4ahttps://paypal.me/torncurtain?locale.x=en_US\n\n\ud83d\udc4aMAIN YOUTUBE CHANNEL (Christianity)\n\ud83d\udc4aPLEASE HELP ME GET T0 50,000 FOLLWERS- SUBCRIBE TODAY:\n\ud83d\udc4ahttps://www.youtube.com/c/TornCurtainIJoshuaSimone\n\n\ud83d\ude0eWhat is the Main Torn Curtain Channel About:  \nhttps://youtu.be/HfkiH2CDARQ\n\n\ud83d\udc4aTorn Curtain (Politics & News)\n\ud83d\udc4ahttps://www.youtube.com/channel/UCMcASQivhT1VI37e_tO7GOQ\n\n\ud83d\udc4a Torn Curtain (Evangelism & Apologetics)\n\ud83d\udc4ahttps://www.youtube.com/channel/UCWyGdvzLA6wA3-d5NA0r7OA\n\n\u2611\ufe0fFOLLOW ME ON SOCIAL MEDIA \n\u2764\ufe0fLinktree: https://linktr.ee/torncurtain.org\n\u2611\ufe0fFacebook Page: https://www.facebook.com/torncurtain.org\n\u2611\ufe0fInstagram: https://www.instagram.com/torncurtainorg/\n\u2611\ufe0fTwitter: https://twitter.com/torncurtainorg\n\u2611\ufe0fTik Tok: https://www.tiktok.com/@torncurtain.org\n\ud83d\udce7Join My Email Subscribers List: http://eepurl.com/hGeh4L\n\n \ud83d\udce7Contact for Channel: josh@torncurtain.org    \n\ud83d\ude0eAbout Josh:\n\n\ud83c\udfebEducation: \nBS Degree from NYU in Counseling \nMA Degree Theology Equivalent from Bethel University (Not Bethel Redding) and ORU University\nStudied Inner Healing and Deliverance at Orbis School of Ministry Run by Ken Fish \nGraduate of Goldman Sachs 10,000 Small Business  Mini MBA Program\n\n\ud83d\ude0ePersonal Experiences\nMy earliest memories as a child are seeing the gifts of the spirit in operation \nAs a child my parents took us to a small storefront African American church which eventually became the largest church in NYC Christian Cultural Center Led By Pastor AR Bernard \nMy Youth Group called Youth Explosion lead by Adam Durso went from 5 kids to being one the the most recognized youth ministries in the country \nHelped Plant a church with a few people which is now one of the fastest growing church in America \n\n\ud83d\ude01Testimony \nWas a Youth & College Pastor, Helping Church Plant in NYC, and Seminary Student. Walked away from the Faith from 2012-2015 because of personal and  family crisis.  I felt the lord abandoned me and started drinking alcohol heavily. I became bitter, angry, and violent so my life came crashing down. In 2015 while in rehab i rededicated my life to the Lord and was set free and healed from many issues. Spent 2015-2019 in counseling, inner healing and deliverance to heal from everything id been through .  After healing for several years the lord released me into ministry again in the local church leading several ministries.  He then spoke to me about starting a youth tube channel! \n\n\u26eaMinistry Experience \nSeveral Years as a Youth & College Pastor \nDeacon At New Life Fellowship church home of Emotional Healthy Discipleship started By Pete Scazzero   \nMentored by Pete Scazzero and worked under him for 5.5 years\nLed living waters and cross current which is a program for the sexual broken and the LBGTQ community\nA ministry leader in Inner Healing and Deliverance for 8 years \nA US and International Chaplain \nLeading in Street Outreach and Social Media in my current church \n\nTorn Curtain promises to bring you the best and latest Christian content.  We follow dozens of ministries and are going to bring you the best content as we come across it. Torn Curtain is a Christian You Tube Channel which main focus is Christianity and Jesus. We are going to make the best christian youtube videos on topics like: Current Events & Politics, Inner Healing and Deliverance, Prophecy, Evangelism, Relationships, Teachings of Derek Prince, End Times, Discipleship, Gifts of Spirit , Contending for the faith, and Church History & Theology.  We are going to do devotional content as well as testimonies.  And i am going to release funny videos at times. Looking for the best Christian YouTube channels or top Christian youtube channel then Look no further. You can also consider this a bible study YouTube channel. I am hoping this ministry will help bring: Reformation, Revival and Renewal. I am going to go after the tough and controversial subjects. Many might interpret this is being divisive but my heart is to see the church of Christ be everything it can be! Torn Curtain is a registered 501 (c) 3 Corporation"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "58452",
+          "likeCount": "673",
+          "favoriteCount": "0",
+          "commentCount": "131"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HLVQmabqEx8FjjYSotIUGUud37Y",
+        "id": "Yvn-3vtyB-A",
+        "snippet": {
+          "publishedAt": "2023-03-11T04:26:45Z",
+          "channelId": "UCIgSq1WfYaYEiZDHwjILPyA",
+          "title": "AT&T Mission Strategy | Global",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Yvn-3vtyB-A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "sethdstein",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AT&T Mission Strategy | Global",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "59",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4DU-rmOHR8UBz-kupgFG17ntZ64",
+        "id": "GCF_BdNx_1k",
+        "snippet": {
+          "publishedAt": "2023-06-07T15:05:06Z",
+          "channelId": "UCDRIjKy6eZOvKtOELtTdeUA",
+          "title": "BREAKING: Chris Licht OUT At CNN | Counter Points",
+          "description": "Ryan and Emily discuss Chris Licht officially leaving CNN after a disappointing trajectory. \n\n\nTo become a Breaking Points Premium Member and watch/listen to the show uncut and 1 hour early visit: https://breakingpoints.supercast.com/\n\n\nTo listen to Breaking Points as a podcast, check them out on Apple and Spotify\n\n\nApple: https://podcasts.apple.com/us/podcast/breaking-points-with-krystal-and-saagar/id1570045623\n \n\nSpotify: https://open.spotify.com/show/4Kbsy61zJSzPxNZZ3PKbXl\n \n\n#news #politics #youtube",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GCF_BdNx_1k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Breaking Points",
+          "tags": [
+            "breaking points",
+            "krystal ball",
+            "saagar enjeti",
+            "chris licht",
+            "cnn",
+            "out",
+            "fired",
+            "network",
+            "news",
+            "politics",
+            "media",
+            "fox",
+            "msnbc"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BREAKING: Chris Licht OUT At CNN | Counter Points",
+            "description": "Ryan and Emily discuss Chris Licht officially leaving CNN after a disappointing trajectory. \n\n\nTo become a Breaking Points Premium Member and watch/listen to the show uncut and 1 hour early visit: https://breakingpoints.supercast.com/\n\n\nTo listen to Breaking Points as a podcast, check them out on Apple and Spotify\n\n\nApple: https://podcasts.apple.com/us/podcast/breaking-points-with-krystal-and-saagar/id1570045623\n \n\nSpotify: https://open.spotify.com/show/4Kbsy61zJSzPxNZZ3PKbXl\n \n\n#news #politics #youtube"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT8M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "52575",
+          "likeCount": "1366",
+          "favoriteCount": "0",
+          "commentCount": "230"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-cepo9AKxgxgyACMH9-vs5jv3qg",
+        "id": "FkodG5uScfk",
+        "snippet": {
+          "publishedAt": "2023-01-07T20:14:43Z",
+          "channelId": "UCOAFXepvOBTEdH7sJheO0xg",
+          "title": "AT&T CALL CENTER REP THREATENS TO HUNT ME DOWN AND KILL ME #SHORTS",
+          "description": "Please watch: \"11-year-old girl  killed : stray bullet flew through bedroom window in Spalding County #JUSTICE\" \nhttps://www.youtube.com/watch?v=_3nGLdRxAM4 --~--\nAT&T CALL CENTER REP THREATENS TO HUNT ME DOWN AND KILL ME #SHORTS.......I CALLED AT&T CAUSE THEY CHARGING ME FOR A PHONE I RETURNED, AND THEY REFUSED TO REMONE THE BALANCE...WHATS SAD YOU BUY YOUR PHONE IN AMERICA , PAY YOUR BILL IN AMERICA, BUT WHEN YOU NEED CUSTOMER SERVICE YOU TALK TO RUDE FOREIGNERS...WHO HAVE THE BALLS TO LEAVE MESSAGES THREATENING TO KILL CUSTOMERS...THEY FAIR NOTHING CAUSE YOU CAN'T COMPLAIN TO ANYONE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FkodG5uScfk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "king of talk",
+          "tags": [
+            "AT&T CALL CENTER REP THREATENS TO HUNT ME DOWN AND KILL ME #SHORTS",
+            "at&t",
+            "att",
+            "customer service",
+            "at&t ceo",
+            "at&t ceo interview",
+            "john stankey",
+            "THADDEUS ARROYO",
+            "John Stankey. Chief Executive Office",
+            "Thaddeus Arroyo. Chief Strategy and Development Officer",
+            "Pascal Desroches. Senior Executive Vice President",
+            "Ed Gillespie. Senior Executive Vice President",
+            "at&t call center",
+            "at&t call center conversation",
+            "at&t call center interview questions",
+            "at&t call center training"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AT&T CALL CENTER REP THREATENS TO HUNT ME DOWN AND KILL ME #SHORTS",
+            "description": "Please watch: \"11-year-old girl  killed : stray bullet flew through bedroom window in Spalding County #JUSTICE\" \nhttps://www.youtube.com/watch?v=_3nGLdRxAM4 --~--\nAT&T CALL CENTER REP THREATENS TO HUNT ME DOWN AND KILL ME #SHORTS.......I CALLED AT&T CAUSE THEY CHARGING ME FOR A PHONE I RETURNED, AND THEY REFUSED TO REMONE THE BALANCE...WHATS SAD YOU BUY YOUR PHONE IN AMERICA , PAY YOUR BILL IN AMERICA, BUT WHEN YOU NEED CUSTOMER SERVICE YOU TALK TO RUDE FOREIGNERS...WHO HAVE THE BALLS TO LEAVE MESSAGES THREATENING TO KILL CUSTOMERS...THEY FAIR NOTHING CAUSE YOU CAN'T COMPLAIN TO ANYONE"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "358",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1PbPpIIp1WQAuLN4XGP1Wmq1ZvY",
+        "id": "VOTp58KJ7ec",
+        "snippet": {
+          "publishedAt": "2023-01-21T18:43:12Z",
+          "channelId": "UCkJPK9tlm049uGbkHSaBJrg",
+          "title": "Stanley Druckenmiller explains how to beat the market.",
+          "description": "Stanley Druckenmiller explains how to beat the market. #shorts #investing #stockmarket #stocks #financialadvice #financialfreedom #warrenbuffett #invest #finance #stockmarketnews #investingforbeginners #investingtips #trading #recession #technicalanalysis",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VOTp58KJ7ec/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Thoughts on the Market",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stanley Druckenmiller explains how to beat the market.",
+            "description": "Stanley Druckenmiller explains how to beat the market. #shorts #investing #stockmarket #stocks #financialadvice #financialfreedom #warrenbuffett #invest #finance #stockmarketnews #investingforbeginners #investingtips #trading #recession #technicalanalysis"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "42685",
+          "likeCount": "1290",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bc6WuGqBFJSiezT3YxRVv3VYJck",
+        "id": "cbWRPpJjzF4",
+        "snippet": {
+          "publishedAt": "2023-04-24T15:55:19Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "AT&T Inc Q1 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cbWRPpJjzF4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AT&T Inc Q1 2023 Earnings Call",
+            "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H2M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "266",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iwUhSbu6nWD5cye82LBK2ruXsfM",
+        "id": "p0go_hTVsGU",
+        "snippet": {
+          "publishedAt": "2023-06-07T20:31:08Z",
+          "channelId": "UCl9roQQwv4o4OuBj3FhQdDQ",
+          "title": "CNN CEO Chris Licht Fired After Ultimate Trump Chaos Backfires",
+          "description": "CNN CEO Chris Licht gets booted after controversial stunts including the Donald Trump town hall and after his staff turns against him. John Iadarola and Jayar Jackson break it down on The Damage Report. \n\nRead more here:\n\nCNN chief executive Chris Licht to leave network after weeks of criticism -https://www.washingtonpost.com/media/2023/06/07/chris-licht-leaves-cnn-town-hall-atlantic/ \n\n\"Embattled CNN chief executive Chris Licht is out at the cable network, capping weeks of tumult within the company following a highly criticized town hall with Donald Trump and a scathing article that portrayed Licht as all but failing at his job of barely a year.\n\nStaffers were notified on Wednesday morning by David Zaslav, chief executive of parent company Warner Bros. Discovery, shortly before CNN anchor Kate Bolduan announced the news on air.\n\n\u201cI have great respect for Chris, personally and professionally,\u201d Zaslav said later in a statement. \u201cThe job of leading CNN was never going to be easy, especially at a time of huge disruption and transformation, and he has poured his heart and soul into it.\u201d\n\nLicht replaced chief executive Jeff Zucker, who was forced to resign in early 2022 after failing to disclose to the company a romantic relationship with a fellow executive.\"\n\n**\n\nBecome a TDR YouTube Member: http://www.youtube.com/thedamagereport/join \n\nFollow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/\n\nHelp build the Home of the Progressives http://tyt.com/JOIN\n\nSubscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1\n\nFollow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en\n\nFollow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ \n\nFollow The Damage Report on Twitter: https://twitter.com/TheDamageReport\n\n#TheDamageReport #JohnIadarola #TheYoungTurks\n\n230607__DR07CNNCEOLeaves",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p0go_hTVsGU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Damage Report",
+          "tags": [
+            "230607__DR07CNNCEOLeaves",
+            "News",
+            "Politics",
+            "breaking news",
+            "The Damage Report",
+            "TDR",
+            "John Iadarola",
+            "Jayar Jackson",
+            "The Young Turks",
+            "tyt",
+            "progressive news",
+            "progressive media",
+            "progressives",
+            "chris licht",
+            "chris licht trump",
+            "chris licht fired",
+            "chris licht cnn",
+            "cnn ceo",
+            "cnn trump",
+            "trump cnn",
+            "trump town hall",
+            "chris licht news",
+            "chris licht twitter",
+            "democrats",
+            "trump",
+            "trump news",
+            "cnn",
+            "cnn news",
+            "cnn breaking news",
+            "chris licht atlantic",
+            "chris licht atlantic story",
+            "cnn ceo chris licht"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "CNN CEO Chris Licht Fired After Ultimate Trump Chaos Backfires",
+            "description": "CNN CEO Chris Licht gets booted after controversial stunts including the Donald Trump town hall and after his staff turns against him. John Iadarola and Jayar Jackson break it down on The Damage Report. \n\nRead more here:\n\nCNN chief executive Chris Licht to leave network after weeks of criticism -https://www.washingtonpost.com/media/2023/06/07/chris-licht-leaves-cnn-town-hall-atlantic/ \n\n\"Embattled CNN chief executive Chris Licht is out at the cable network, capping weeks of tumult within the company following a highly criticized town hall with Donald Trump and a scathing article that portrayed Licht as all but failing at his job of barely a year.\n\nStaffers were notified on Wednesday morning by David Zaslav, chief executive of parent company Warner Bros. Discovery, shortly before CNN anchor Kate Bolduan announced the news on air.\n\n\u201cI have great respect for Chris, personally and professionally,\u201d Zaslav said later in a statement. \u201cThe job of leading CNN was never going to be easy, especially at a time of huge disruption and transformation, and he has poured his heart and soul into it.\u201d\n\nLicht replaced chief executive Jeff Zucker, who was forced to resign in early 2022 after failing to disclose to the company a romantic relationship with a fellow executive.\"\n\n**\n\nBecome a TDR YouTube Member: http://www.youtube.com/thedamagereport/join \n\nFollow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/\n\nHelp build the Home of the Progressives http://tyt.com/JOIN\n\nSubscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1\n\nFollow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en\n\nFollow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ \n\nFollow The Damage Report on Twitter: https://twitter.com/TheDamageReport\n\n#TheDamageReport #JohnIadarola #TheYoungTurks\n\n230607__DR07CNNCEOLeaves"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT4M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "36274",
+          "likeCount": "2318",
+          "favoriteCount": "0",
+          "commentCount": "376"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "j54iWb8Nf2c8b9Q0jhx__7QEReI",
+        "id": "SgZnCSgeHEg",
+        "snippet": {
+          "publishedAt": "2023-01-09T17:42:29Z",
+          "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+          "title": "'Bloomberg The Open' Full Show (01/09//2022)",
+          "description": "Jonathan Ferro highlights the market-moving news you need to know heading into the opening bell on Wall Street. \n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SgZnCSgeHEg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Television",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "'Bloomberg The Open' Full Show (01/09//2022)",
+            "description": "Jonathan Ferro highlights the market-moving news you need to know heading into the opening bell on Wall Street. \n --------\nFollow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com\nConnect with us on...\nTwitter: https://twitter.com/business\nFacebook: https://www.facebook.com/bloombergbusiness\nInstagram: https://www.instagram.com/bloombergbusiness/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT44M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11113",
+          "likeCount": "73",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bn5m_7tIzYixkAu550owjW1y7ko",
+        "id": "MkasIx_D8lw",
+        "snippet": {
+          "publishedAt": "2023-11-22T17:00:14Z",
+          "channelId": "UCa90xqK2odw1KV5wHU9WRhg",
+          "title": "Florida Stanley forever and always - The Office US",
+          "description": "#shorts #theoffice #peacock\n\nStreaming now on Peacock: https://pck.tv/3mPrdWB\n\nWatch The Office US on Google Play: http://bit.ly/2xYQkLD & iTunes http://apple.co/2eW0rcK\n\nSubscribe: http://bit.ly/2y5VK8N\n\nWelcome to The Office Channel!\n\nThis channel is dedicated to everything The Office, from behind-the-scenes videos to fan theories. We'll be uploading new videos every week, so be sure to subscribe and hit the bell icon to be notified when we upload new content.\n\nIn this channel, you'll find:\n* Behind-the-scenes videos: We'll take you behind-the-scenes of The Office, showing you how the show was made and what it was like to work on set.\n* Fan theories: We'll share some of the most popular fan theories about The Office, and we'll even share some of our own.\n* Episode recaps: Relive your favorite moments from Michael Scott, Dwight Schrute, Jim Halpert, and more\u2026\n* Character interviews: We'll interview the cast and crew of The Office, getting their insights into the show and their characters.\n* Peacock exclusives: We\u2019ll upload never-before-seen deleted scenes, bloopers, and gag reels.\n\nIf you're a fan of The Office, then this is the channel for you! Subscribe today and never miss a beat.\n\nFB : https://www.facebook.com/theofficenbc\nTwitter : https://twitter.com/theofficenbc\nWebsite : http://www.nbc.com/the-office\n\n#TheOffice #USA #PeacockTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MkasIx_D8lw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Office",
+          "tags": [
+            "the office",
+            "the office full episodes",
+            "rainn wilson",
+            "john krasinski",
+            "steve carell",
+            "michael scott",
+            "the office fire drill",
+            "jim and dwight pranks",
+            "dwight schrute",
+            "jim halpert",
+            "jenna fischer",
+            "the office funniest moments",
+            "the office bloopers season 1",
+            "the office cpr",
+            "the office parkour",
+            "Best The Office Moments"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Florida Stanley forever and always - The Office US",
+            "description": "#shorts #theoffice #peacock\n\nStreaming now on Peacock: https://pck.tv/3mPrdWB\n\nWatch The Office US on Google Play: http://bit.ly/2xYQkLD & iTunes http://apple.co/2eW0rcK\n\nSubscribe: http://bit.ly/2y5VK8N\n\nWelcome to The Office Channel!\n\nThis channel is dedicated to everything The Office, from behind-the-scenes videos to fan theories. We'll be uploading new videos every week, so be sure to subscribe and hit the bell icon to be notified when we upload new content.\n\nIn this channel, you'll find:\n* Behind-the-scenes videos: We'll take you behind-the-scenes of The Office, showing you how the show was made and what it was like to work on set.\n* Fan theories: We'll share some of the most popular fan theories about The Office, and we'll even share some of our own.\n* Episode recaps: Relive your favorite moments from Michael Scott, Dwight Schrute, Jim Halpert, and more\u2026\n* Character interviews: We'll interview the cast and crew of The Office, getting their insights into the show and their characters.\n* Peacock exclusives: We\u2019ll upload never-before-seen deleted scenes, bloopers, and gag reels.\n\nIf you're a fan of The Office, then this is the channel for you! Subscribe today and never miss a beat.\n\nFB : https://www.facebook.com/theofficenbc\nTwitter : https://twitter.com/theofficenbc\nWebsite : http://www.nbc.com/the-office\n\n#TheOffice #USA #PeacockTV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10398339",
+          "likeCount": "624976",
+          "favoriteCount": "0",
+          "commentCount": "942"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Sc_aEejg_ytse8bO2Lh_gJXKQHw",
+        "id": "jkE_mQ7Drw4",
+        "snippet": {
+          "publishedAt": "2023-09-25T14:12:24Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Investors should own assets that can benefit from inflation, says BofA Securities' Jared Woodard",
+          "description": "Jared Woodard, head of the Research Investment Committee and head of ETF strategy at BofA Securities, joins 'Squawk Box' to discuss the latest market trends and recent market correction, rest of year outlook, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jkE_mQ7Drw4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Investors should own assets that can benefit from inflation, says BofA Securities' Jared Woodard",
+            "description": "Jared Woodard, head of the Research Investment Committee and head of ETF strategy at BofA Securities, joins 'Squawk Box' to discuss the latest market trends and recent market correction, rest of year outlook, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12581",
+          "likeCount": "79",
+          "favoriteCount": "0",
+          "commentCount": "17"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "h0_Zx6Ynygw-lgsXcx_7cPahBHc",
+        "id": "oMwmJd66rXM",
+        "snippet": {
+          "publishedAt": "2023-01-21T15:02:43Z",
+          "channelId": "UCGH-h8Kbl5UOJ3kCn9-hrjQ",
+          "title": "MADtv - Stuart: Police Station",
+          "description": "Featuring:\n\n\nMo Collins - Doreen Larkin\nPat Kilbane - Officer #1\n\nAndrew Bowen - Officer #2\nMichael Mcdonald - Stuart Larkin",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oMwmJd66rXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oMwmJd66rXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oMwmJd66rXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Broderick813",
+          "tags": [
+            "mad",
+            "tv",
+            "magazine",
+            "season 4"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "MADtv - Stuart: Police Station",
+            "description": "Featuring:\n\n\nMo Collins - Doreen Larkin\nPat Kilbane - Officer #1\n\nAndrew Bowen - Officer #2\nMichael Mcdonald - Stuart Larkin"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M45S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1400212",
+          "likeCount": "10592",
+          "favoriteCount": "0",
+          "commentCount": "554"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kV1kdb0CzZT6lLNr85HXG5f8F2c",
+        "id": "6fPxLBICcTU",
+        "snippet": {
+          "publishedAt": "2023-04-27T03:00:11Z",
+          "channelId": "UCa6IoIhGvT3govydiSFGNyQ",
+          "title": "The 5 CRAZIEST Paul Stanley vocal lines",
+          "description": "DO NOT \ud83e\udef5\ud83c\udffb\u26a0\ufe0f CLICK HERE: https://www.crazysinging.com/ Check out my channel teaching mixed voice for free at  @highnotesarecool",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6fPxLBICcTU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Crazy Singing by Marc Ajax",
+          "tags": [
+            "kiss",
+            "paul stanley",
+            "kiss paul stanley singing"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The 5 CRAZIEST Paul Stanley vocal lines",
+            "description": "DO NOT \ud83e\udef5\ud83c\udffb\u26a0\ufe0f CLICK HERE: https://www.crazysinging.com/ Check out my channel teaching mixed voice for free at  @highnotesarecool"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "60649",
+          "likeCount": "1583",
+          "favoriteCount": "0",
+          "commentCount": "258"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "VpnYnHq2_5AYHJMiVWurK44c8IY",
+        "id": "1-v0uGCDxeM",
+        "snippet": {
+          "publishedAt": "2023-02-05T15:59:33Z",
+          "channelId": "UCOTZ-6H1rri1lSsj6IzhUyw",
+          "title": "Senator Cruz Blasts President Biden Over Mishandling of Chinese Spy Balloon",
+          "description": "Senator Cruz joins Face The Nation to discuss the Chinese spy balloon, US foreign relations, release of Texan Mark Swidan, and his term limits constitutional amendment.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1-v0uGCDxeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1-v0uGCDxeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1-v0uGCDxeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Senator Ted Cruz",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Senator Cruz Blasts President Biden Over Mishandling of Chinese Spy Balloon",
+            "description": "Senator Cruz joins Face The Nation to discuss the Chinese spy balloon, US foreign relations, release of Texan Mark Swidan, and his term limits constitutional amendment."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M56S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "32415",
+          "likeCount": "1064",
+          "favoriteCount": "0",
+          "commentCount": "403"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Hld8cBsWVl0CYIRyrjLfMnjApgI",
+        "id": "O6R5_BVuMcI",
+        "snippet": {
+          "publishedAt": "2023-06-01T03:46:14Z",
+          "channelId": "UCNBmxc6FvKyxtCpUygcdINA",
+          "title": "3News' Russ Mitchell offers support to Jim Donovan as he battles leukemia relapse",
+          "description": "Jim Donovan, our longtime sports anchor here at WKYC Studios and the play-by-play voice of the Cleveland Browns, has announced that he is once again battling leukemia. \n\nDuring his announcement on Wednesday's \"Front Row,\" Jimmy said that the trouble started about a year and a half ago. \"I noticed something was amiss with my health,\" he explained. \"My concerns were confirmed to me and it was told to me that I had a relapse of leukemia.\"\n\nJimmy said that during the last year and a half, he has been receiving treatment using various forms of chemotherapy, both intravenous and oral. \"For the most part, they worked pretty well, but things change, and so we're going to have to go with a different treatment plan \u2014 a more aggressive treatment plan, which has already started,\" he added.\n\nSince has announcement, Jimmy has received an outpouring of support from you at home as well as us here at 3News. \n\nRuss Mitchell offered his own well wishes to Jim Donovan on \"What's Next\": https://www.wkyc.com/article/entertainment/television/programs/donovan-live/jim-donovan-3news-sports-anchor-browns-voice-announces-leukemia-relapse/95-c9a67602-d919-469a-8c6e-4cacc46d24f0 --\n\nFollow 3News on Social:\n\nFacebook:\u00a0https://www.facebook.com/wkyc.channel3/\u00a0\u00a0\n\nTwitter:\u00a0https://twitter.com/wkyc\u00a0\u00a0\n\nInstagram:\u00a0https://www.instagram.com/wkyc3/\u00a0\u00a0\n\nVisit our site:\u00a0https://www.wkyc.com/\n\nAnd be sure to download our app here:\u00a0https://wkyc.com/app",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O6R5_BVuMcI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "WKYC Channel 3",
+          "tags": [
+            "jim donovan",
+            "[ whats-next",
+            "life",
+            "local",
+            "news ]",
+            "sports",
+            "Sports-ott",
+            "jim donovan browns",
+            "jim donovan browns calls",
+            "jim donovan wkyc",
+            "jim donovan channel 3",
+            "jim donovan cleveland browns",
+            "jim donovan leukemia",
+            "jim donovan leukemia relapse",
+            "jim donovan university hospitals",
+            "jim donovan cancer",
+            "cleveland browns jim donovan"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3News' Russ Mitchell offers support to Jim Donovan as he battles leukemia relapse",
+            "description": "Jim Donovan, our longtime sports anchor here at WKYC Studios and the play-by-play voice of the Cleveland Browns, has announced that he is once again battling leukemia. \n\nDuring his announcement on Wednesday's \"Front Row,\" Jimmy said that the trouble started about a year and a half ago. \"I noticed something was amiss with my health,\" he explained. \"My concerns were confirmed to me and it was told to me that I had a relapse of leukemia.\"\n\nJimmy said that during the last year and a half, he has been receiving treatment using various forms of chemotherapy, both intravenous and oral. \"For the most part, they worked pretty well, but things change, and so we're going to have to go with a different treatment plan \u2014 a more aggressive treatment plan, which has already started,\" he added.\n\nSince has announcement, Jimmy has received an outpouring of support from you at home as well as us here at 3News. \n\nRuss Mitchell offered his own well wishes to Jim Donovan on \"What's Next\": https://www.wkyc.com/article/entertainment/television/programs/donovan-live/jim-donovan-3news-sports-anchor-browns-voice-announces-leukemia-relapse/95-c9a67602-d919-469a-8c6e-4cacc46d24f0 --\n\nFollow 3News on Social:\n\nFacebook:\u00a0https://www.facebook.com/wkyc.channel3/\u00a0\u00a0\n\nTwitter:\u00a0https://twitter.com/wkyc\u00a0\u00a0\n\nInstagram:\u00a0https://www.instagram.com/wkyc3/\u00a0\u00a0\n\nVisit our site:\u00a0https://www.wkyc.com/\n\nAnd be sure to download our app here:\u00a0https://wkyc.com/app"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1005",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8PhSs9yMcUjMiVt0_L9ZwwOrHwI",
+        "id": "3_mqJG2btL0",
+        "snippet": {
+          "publishedAt": "2023-05-12T00:33:04Z",
+          "channelId": "UCw0y9zO1RXI6uEzoKbbnxTQ",
+          "title": "Adena T. Friedman - Distinguished Business Leadership Award",
+          "description": "Adena T. Friedman\nDistinguished Business Leadership Award\nChair and Chief Executive Officer, Nasdaq, Inc.\n\nIntroduced by Co-Chair and Co-Founder of The Carlyle Group David M. Rubenstein\n\n--------------------------------------------------------\nThe Atlantic Council\u2019s Distinguished Leadership Awards celebrates the highest achieving individuals who embody the essence of the pillars of the transatlantic relationship. Each year, the event convenes an elite, international audience \u2013 including current and former heads of state, foreign dignitaries, ambassadors, members of Congress and the administration, military commanders, international business leaders, and leading members of the media. The event is regularly featured by national and international media outlets, including the Associated Press, CBS News, CNN, Fox News, MSNBC, POLITICO, Thomson Reuters, The Wall Street Journal, and The Washington Post, among others.\n\nThe Atlantic Council recognizes individuals who best represent the pillars of international relations: political and policy leaders, business executives, military brass, and artistic and humanitarian champions. This year we will feature our first all-female honoree slate, inspired by the past year of remarkable accomplishments by women in the world. Aside from our usual list of honorees, the Atlantic Council will be calling attention to the game changing and rising role of women\u2019s leadership in shaping a better world.\n\nLearn More: \nhttps://www.atlanticcouncil.org/events/distinguished-leadership-awards/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3_mqJG2btL0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AtlanticCouncil",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Adena T. Friedman - Distinguished Business Leadership Award",
+            "description": "Adena T. Friedman\nDistinguished Business Leadership Award\nChair and Chief Executive Officer, Nasdaq, Inc.\n\nIntroduced by Co-Chair and Co-Founder of The Carlyle Group David M. Rubenstein\n\n--------------------------------------------------------\nThe Atlantic Council\u2019s Distinguished Leadership Awards celebrates the highest achieving individuals who embody the essence of the pillars of the transatlantic relationship. Each year, the event convenes an elite, international audience \u2013 including current and former heads of state, foreign dignitaries, ambassadors, members of Congress and the administration, military commanders, international business leaders, and leading members of the media. The event is regularly featured by national and international media outlets, including the Associated Press, CBS News, CNN, Fox News, MSNBC, POLITICO, Thomson Reuters, The Wall Street Journal, and The Washington Post, among others.\n\nThe Atlantic Council recognizes individuals who best represent the pillars of international relations: political and policy leaders, business executives, military brass, and artistic and humanitarian champions. This year we will feature our first all-female honoree slate, inspired by the past year of remarkable accomplishments by women in the world. Aside from our usual list of honorees, the Atlantic Council will be calling attention to the game changing and rising role of women\u2019s leadership in shaping a better world.\n\nLearn More: \nhttps://www.atlanticcouncil.org/events/distinguished-leadership-awards/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "422",
+          "likeCount": "8",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CkCF36jNAkMXCYUQs4kCo9pNcBg",
+        "id": "bkeuQiQApGk",
+        "snippet": {
+          "publishedAt": "2023-06-22T13:58:40Z",
+          "channelId": "UC5jhzGBWOTvQku2kLbucGcw",
+          "title": "Media, Sports, and Entertainment with Greg Maffei, President and CEO of Liberty Media Corporation",
+          "description": "Willy sat down with Greg Maffei, President and Chief Executive Officer of Liberty Media. He is also the Chairman of Live Nation Entertainment, Sirius XM, and Trip Advisor \u2013 and we\u2019ve barely scratched the surface.\n\nThe pair discussed the building blocks of his remarkable career, what attracted him to the Formula 1 franchise and its direction for the future, the evolution of the video and music streaming industries, the impact of AI on Liberty Media\u2019s businesses, and so much more.\n\u00a0\nWatch or listen to the replay\u00a0 \u00a0\n\u00a0\nIf you have any comments or questions, please reach out to your main Walker & Dunlop point of contact. We are all available to answer questions and provide assistance. Additionally, if you have topics you would like covered during one of our future webcasts, we would be happy to take your suggestions.\n\nKey Points In The Webcast: \n1:18 Willy welcomes Greg Maffei\n02:59 Owning the Atlanta Braves\n04:45 Greg\u2019s intrinsic drive and early career\n08:29 A valuable lesson from Bill Gates\n12:47 Buying Liberty Media with Formula One\n16:42 A Formula One-exclusive track and sustainability efforts\n24:32 The competition between Red Bull vs. Mercedes\n28:42 How Netflix told the Formula One story\n31:27 Will Liberty be sold soon?\n33:40 Appreciating the hard-working management\n37:11 The tight competition in streaming\n38:32 How do you stand out in a sea of content?\n41:56 Howard Stern\u2019s contribution to Sirius XM\n44:29 The decline of home shopping\n46:28 The rise in demand for high-speed data\n48:38 Harnessing the power of AI\n52:11 Property searching on mobile and market predictions\n\nGET NOTIFIED about upcoming shows: \n\u00bb Subscribe to our YouTube channel here: https://www.youtube.com/channel/UC5jhzGBWOTvQku2kLbucGcw\n\u00bb See upcoming guests on the #WalkerWebcast here:\nhttps://www.walkerdunlop.com/webcasts/\n\nRelated webcasts: Tune in on Wednesdays for fresh perspectives about leadership, business, the economy, commercial real estate, and more! #WillyWalker hosts a diverse network of leaders as they share the wisdom that cuts across industry lines. \n\nCheck out our previous videos: \n\u00bb Full playlist: https://www.youtube.com/playlist?list=PL_QkMqEzOkzNmWUe9kpfRJ4213jIh6LNk\n\nPodcast:\n\u00bb Driven By Insight: https://podcasts.apple.com/us/podcast/driven-by-insight/id1540843402. \n\nFollow us: \n\u00bb LinkedIn: https://www.linkedin.com/company/walker-&-dunlop/\n\u00bb Facebook: https://www.facebook.com/WalkerDunlop\n\u00bb Twitter: https://twitter.com/WalkerDunlop\n\u00bb Instagram: https://www.instagram.com/walkerdunlop/\n\nSubscribe: \n\u00bb Newsletters: https://explore.walkerdunlop.com/subscribe\n\nPOSTING POLICY: \nPlease bear in mind that this is a public and professional platform. We\u2019ll do our best to ensure that our postings on this page comply with our standards, which prohibit content that: \n\u2022 is abusive, defamatory, threatening, or obscene \n\u2022 is fraudulent, deceptive, or misleading \n\u2022 violates the copyright, trademark, patent, trade secret, right of privacy, right of publicity, or other intellectual property right of another \n\u2022 contains or links to any virus, worm, Trojan horse, or other forms of malware or harmful code \n\u2022 contains the personal information of others, such as names, addresses, and telephone numbers \n\u2022 violates any law or regulation \n\u2022 is otherwise offensive. We expect users not to post content that violates our standards. We cannot monitor postings or discussions in advance, but we reserve the right to remove any posting that does not meet our standards.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bkeuQiQApGk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Walker & Dunlop",
+          "tags": [
+            "Greg Maffei",
+            "Liberty Media",
+            "Live Nation Entertainment",
+            "Sirius XM",
+            "Trip Advisor",
+            "Formula 1 franchise",
+            "franchise",
+            "Willy Walker",
+            "Walker Webcast",
+            "Media",
+            "Sports",
+            "entertainment news",
+            "news channel",
+            "Atlanta Braves",
+            "Bill Gates",
+            "sustainability efforts",
+            "The decline of home shopping",
+            "ai",
+            "artificial intelligence",
+            "high speed data",
+            "marketing predictions",
+            "property searching",
+            "gred maffei",
+            "greg maffei career",
+            "greg maffei success",
+            "greg maffei CEO",
+            "greg maffei business strategies"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Media, Sports, and Entertainment with Greg Maffei, President and CEO of Liberty Media Corporation",
+            "description": "Willy sat down with Greg Maffei, President and Chief Executive Officer of Liberty Media. He is also the Chairman of Live Nation Entertainment, Sirius XM, and Trip Advisor \u2013 and we\u2019ve barely scratched the surface.\n\nThe pair discussed the building blocks of his remarkable career, what attracted him to the Formula 1 franchise and its direction for the future, the evolution of the video and music streaming industries, the impact of AI on Liberty Media\u2019s businesses, and so much more.\n\u00a0\nWatch or listen to the replay\u00a0 \u00a0\n\u00a0\nIf you have any comments or questions, please reach out to your main Walker & Dunlop point of contact. We are all available to answer questions and provide assistance. Additionally, if you have topics you would like covered during one of our future webcasts, we would be happy to take your suggestions.\n\nKey Points In The Webcast: \n1:18 Willy welcomes Greg Maffei\n02:59 Owning the Atlanta Braves\n04:45 Greg\u2019s intrinsic drive and early career\n08:29 A valuable lesson from Bill Gates\n12:47 Buying Liberty Media with Formula One\n16:42 A Formula One-exclusive track and sustainability efforts\n24:32 The competition between Red Bull vs. Mercedes\n28:42 How Netflix told the Formula One story\n31:27 Will Liberty be sold soon?\n33:40 Appreciating the hard-working management\n37:11 The tight competition in streaming\n38:32 How do you stand out in a sea of content?\n41:56 Howard Stern\u2019s contribution to Sirius XM\n44:29 The decline of home shopping\n46:28 The rise in demand for high-speed data\n48:38 Harnessing the power of AI\n52:11 Property searching on mobile and market predictions\n\nGET NOTIFIED about upcoming shows: \n\u00bb Subscribe to our YouTube channel here: https://www.youtube.com/channel/UC5jhzGBWOTvQku2kLbucGcw\n\u00bb See upcoming guests on the #WalkerWebcast here:\nhttps://www.walkerdunlop.com/webcasts/\n\nRelated webcasts: Tune in on Wednesdays for fresh perspectives about leadership, business, the economy, commercial real estate, and more! #WillyWalker hosts a diverse network of leaders as they share the wisdom that cuts across industry lines. \n\nCheck out our previous videos: \n\u00bb Full playlist: https://www.youtube.com/playlist?list=PL_QkMqEzOkzNmWUe9kpfRJ4213jIh6LNk\n\nPodcast:\n\u00bb Driven By Insight: https://podcasts.apple.com/us/podcast/driven-by-insight/id1540843402. \n\nFollow us: \n\u00bb LinkedIn: https://www.linkedin.com/company/walker-&-dunlop/\n\u00bb Facebook: https://www.facebook.com/WalkerDunlop\n\u00bb Twitter: https://twitter.com/WalkerDunlop\n\u00bb Instagram: https://www.instagram.com/walkerdunlop/\n\nSubscribe: \n\u00bb Newsletters: https://explore.walkerdunlop.com/subscribe\n\nPOSTING POLICY: \nPlease bear in mind that this is a public and professional platform. We\u2019ll do our best to ensure that our postings on this page comply with our standards, which prohibit content that: \n\u2022 is abusive, defamatory, threatening, or obscene \n\u2022 is fraudulent, deceptive, or misleading \n\u2022 violates the copyright, trademark, patent, trade secret, right of privacy, right of publicity, or other intellectual property right of another \n\u2022 contains or links to any virus, worm, Trojan horse, or other forms of malware or harmful code \n\u2022 contains the personal information of others, such as names, addresses, and telephone numbers \n\u2022 violates any law or regulation \n\u2022 is otherwise offensive. We expect users not to post content that violates our standards. We cannot monitor postings or discussions in advance, but we reserve the right to remove any posting that does not meet our standards."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT57M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "44089",
+          "likeCount": "61",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Orcvpfrt-MqfnYFLJBmrTnavRVk",
+        "id": "2_1Y5FFcM6U",
+        "snippet": {
+          "publishedAt": "2023-05-03T16:00:02Z",
+          "channelId": "UCa90xqK2odw1KV5wHU9WRhg",
+          "title": "Try Not to Laugh Challenge - The Office US",
+          "description": "The ultimate try not to laugh challenge featuring the funniest moments from The Office US - how far can you make it through? \n\nStreaming now on Peacock: https://pck.tv/3mPrdWB\n\nWatch The Office US on Google Play: http://bit.ly/2xYQkLD & iTunes http://apple.co/2eW0rcK\n\nSubscribe: http://bit.ly/2y5VK8N\n\nWelcome to The Office Channel!\n\nThis channel is dedicated to everything The Office, from behind-the-scenes videos to fan theories. We'll be uploading new videos every week, so be sure to subscribe and hit the bell icon to be notified when we upload new content.\n\nIn this channel, you'll find:\n* Behind-the-scenes videos: We'll take you behind-the-scenes of The Office, showing you how the show was made and what it was like to work on set.\n* Fan theories: We'll share some of the most popular fan theories about The Office, and we'll even share some of our own.\n* Episode recaps: Relive your favorite moments from Michael Scott, Dwight Schrute, Jim Halpert, and more\u2026\n* Character interviews: We'll interview the cast and crew of The Office, getting their insights into the show and their characters.\n* Peacock exclusives: We\u2019ll upload never-before-seen deleted scenes, bloopers, and gag reels.\n\nIf you're a fan of The Office, then this is the channel for you! Subscribe today and never miss a beat.\n\nFB : https://www.facebook.com/theofficenbc\nTwitter : https://twitter.com/theofficenbc\nWebsite : http://www.nbc.com/the-office\n\n#TheOffice #USA #PeacockTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2_1Y5FFcM6U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Office",
+          "tags": [
+            "the office",
+            "The office try not to laugh",
+            "try not to laugh challenge",
+            "the office try not to laugh challenge",
+            "the office best moments",
+            "the office funniest moments try not to laugh",
+            "the office full episodes",
+            "rainn wilson",
+            "john krasinski",
+            "steve carell",
+            "michael scott",
+            "the office fire drill",
+            "jim and dwight pranks",
+            "dwight schrute",
+            "jim halpert",
+            "jenna fischer",
+            "the office funniest moments",
+            "the office bloopers season 1",
+            "the office cpr",
+            "the office parkour",
+            "best The Office Moments"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Try Not to Laugh Challenge - The Office US",
+            "description": "The ultimate try not to laugh challenge featuring the funniest moments from The Office US - how far can you make it through? \n\nStreaming now on Peacock: https://pck.tv/3mPrdWB\n\nWatch The Office US on Google Play: http://bit.ly/2xYQkLD & iTunes http://apple.co/2eW0rcK\n\nSubscribe: http://bit.ly/2y5VK8N\n\nWelcome to The Office Channel!\n\nThis channel is dedicated to everything The Office, from behind-the-scenes videos to fan theories. We'll be uploading new videos every week, so be sure to subscribe and hit the bell icon to be notified when we upload new content.\n\nIn this channel, you'll find:\n* Behind-the-scenes videos: We'll take you behind-the-scenes of The Office, showing you how the show was made and what it was like to work on set.\n* Fan theories: We'll share some of the most popular fan theories about The Office, and we'll even share some of our own.\n* Episode recaps: Relive your favorite moments from Michael Scott, Dwight Schrute, Jim Halpert, and more\u2026\n* Character interviews: We'll interview the cast and crew of The Office, getting their insights into the show and their characters.\n* Peacock exclusives: We\u2019ll upload never-before-seen deleted scenes, bloopers, and gag reels.\n\nIf you're a fan of The Office, then this is the channel for you! Subscribe today and never miss a beat.\n\nFB : https://www.facebook.com/theofficenbc\nTwitter : https://twitter.com/theofficenbc\nWebsite : http://www.nbc.com/the-office\n\n#TheOffice #USA #PeacockTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1516620",
+          "likeCount": "24038",
+          "favoriteCount": "0",
+          "commentCount": "753"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oDKhbNtlhxw_KQd6FR4nlJknWWE",
+        "id": "0yKp7il9FTo",
+        "snippet": {
+          "publishedAt": "2023-06-08T00:00:09Z",
+          "channelId": "UC4OvD2yIbofl9l4dIlqSNMw",
+          "title": "Bill O'Reilly on CNN Boss FIRED! Latest on Trump's likely indictment | No Spin News",
+          "description": "Talking Points Memo: Bill breaks down why CNN fired their boss and what it means for the media\nThe latest on the likely indictment of former President Trump\nAn important report on an immigration loophole used by the Biden administration\nHotels leaving San Francisco\nThe First TV's Jesse Kelly on the No Spin News\nThis Day in History: The legend of Daniel Boone\nFinal Thought: Bad parents\n\nSubscribe to never miss an episode of No Spin News with Bill O'Reilly: https://www.youtube.com/channel/UC4OvD2yIbofl9l4dIlqSNMw\n\nWatch full episodes of No Spin News here: https://www.youtube.com/playlist?list=PLwxrMUnj1nrK2QWer2VxbanNdgnQTZaj6\n\nWatch full clips of No Spin News here: https://www.youtube.com/playlist?list=PLwxrMUnj1nrKg88YudztlZyFrNKt1VNxr\n\nBill O'Reilly's official Youtube channel - No Spin. Subscribe for No Spin News each night, exclusive clips, and a one-of-a-kind brand of news analysis each night.\n\nBecome an O\u2019Reilly Premium Member: https://nospin.billoreilly.com/buy01/\nBuy Bill\u2019s New Book Available Now: https://www.billoreilly.com/p/The-Killing-Series/Killing-the-Witches/61561.html\nVisit Bill\u2019s Website: https://www.billoreilly.com\nFollow Bill on Twitter: http://www.twitter.com/BillOReilly\nFollow No Spin News on Twitter: http://www.twitter.com/NoSpinNews\nLike Bill on Facebook: http://www.facebook.com/BillOReillyofficial",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0yKp7il9FTo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bill O'Reilly",
+          "tags": [
+            "Bill O\u2019Reilly",
+            "No Spin News",
+            "bill o reilly",
+            "no spin news",
+            "bill o reilly no spin news",
+            "bill oreilly",
+            "bill o'reilly",
+            "o'reilly no spin",
+            "no spin news bill o'reilly",
+            "the o'reilly update",
+            "bill o'reilly joe biden",
+            "joe biden bill o reilly",
+            "bill o reilly fox news",
+            "bill o reilly show",
+            "bill o'reilly youtube",
+            "bill o'reilly youtube channel",
+            "no spin bill o'reilly",
+            "bill o'reilly 2023",
+            "no spin news o reilly",
+            "no spin news bill o reilly",
+            "no spin news bill"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Bill O'Reilly on CNN Boss FIRED! Latest on Trump's likely indictment | No Spin News",
+            "description": "Talking Points Memo: Bill breaks down why CNN fired their boss and what it means for the media\nThe latest on the likely indictment of former President Trump\nAn important report on an immigration loophole used by the Biden administration\nHotels leaving San Francisco\nThe First TV's Jesse Kelly on the No Spin News\nThis Day in History: The legend of Daniel Boone\nFinal Thought: Bad parents\n\nSubscribe to never miss an episode of No Spin News with Bill O'Reilly: https://www.youtube.com/channel/UC4OvD2yIbofl9l4dIlqSNMw\n\nWatch full episodes of No Spin News here: https://www.youtube.com/playlist?list=PLwxrMUnj1nrK2QWer2VxbanNdgnQTZaj6\n\nWatch full clips of No Spin News here: https://www.youtube.com/playlist?list=PLwxrMUnj1nrKg88YudztlZyFrNKt1VNxr\n\nBill O'Reilly's official Youtube channel - No Spin. Subscribe for No Spin News each night, exclusive clips, and a one-of-a-kind brand of news analysis each night.\n\nBecome an O\u2019Reilly Premium Member: https://nospin.billoreilly.com/buy01/\nBuy Bill\u2019s New Book Available Now: https://www.billoreilly.com/p/The-Killing-Series/Killing-the-Witches/61561.html\nVisit Bill\u2019s Website: https://www.billoreilly.com\nFollow Bill on Twitter: http://www.twitter.com/BillOReilly\nFollow No Spin News on Twitter: http://www.twitter.com/NoSpinNews\nLike Bill on Facebook: http://www.facebook.com/BillOReillyofficial"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "197390",
+          "likeCount": "6224",
+          "favoriteCount": "0",
+          "commentCount": "435"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Kh2btWbtrR559QJ-4osOv1NQVXs",
+        "id": "pfS4BjQO_Lo",
+        "snippet": {
+          "publishedAt": "2023-02-10T05:00:10Z",
+          "channelId": "UC5uzDw5LMxebhoQ3UlSaixw",
+          "title": "Stanley Brown - God Is Good (Audio) w/ Karen Clark Sheard, Hezekiah Walker, Kierra Sheard",
+          "description": "#StanleyBrown #GodIsGood #AllTheTime\n\"God Is Good\" Out Now: \nSubscribe For More: \nOfficial Website: http://www.stanleyabrown.com/\n\nFollow Stanley Brown \nInstagram: https://www.instagram.com/stanleyabrown\nTikTok: https://www.tiktok.com/@stanleyabrown\nTwitter: https://twitter.com/stanleyabrown\n\n\nThis is the vibe we on\nNo negative energy\nThis is how I live my life\nAnd we\u2019re sending this energy out to the world\nAnd you know what\nYou\u2019re gonna have to get up on this one\nGet up!\nGet up!\nGet up!\nGet up!\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nYou don\u2019t have to worry what the day may bring\nLift your hands and sing\nGod is good\nAll the time\nNo matter the pain you\u2019re feeling\nNo need to fear, he\u2019s given\nPeace of mind\nGrace and love\nStrength and joy\nThat\u2019s all we need\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nIf you are going through a hard time and you don\u2019t know what to do just look up, he\u2019s there for you\nLive your life and don\u2019t give up\nHe\u2019s the one who won\u2019t leave us\nKnow that he\u2019s there, know that he cares for you\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nIn these rough times\nIt gets dark and cloudy\nIf we could find a way to heal the world today\nWe believe that we can get through it\nNo matter what\nWe still know that\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nLet me hear the ladies\nLet me hear the brothers\nLet me hear the whole wide world\nGod is good\nAll the time\nAll the time\nGod is good\nYeah\nGod is good\nYeah, yeah\nGod is good\nHe\u2019s good all the time",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pfS4BjQO_Lo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stanley Brown",
+          "tags": [
+            "music producer",
+            "Stanley brown",
+            "learn how to play piano",
+            "learn how to play bass",
+            "organ players",
+            "musician",
+            "executive producer",
+            "music executive",
+            "gospel",
+            "hip hop music",
+            "gospel music",
+            "learn how to make it in the music industry",
+            "music industry"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stanley Brown - God Is Good (Audio) w/ Karen Clark Sheard, Hezekiah Walker, Kierra Sheard",
+            "description": "#StanleyBrown #GodIsGood #AllTheTime\n\"God Is Good\" Out Now: \nSubscribe For More: \nOfficial Website: http://www.stanleyabrown.com/\n\nFollow Stanley Brown \nInstagram: https://www.instagram.com/stanleyabrown\nTikTok: https://www.tiktok.com/@stanleyabrown\nTwitter: https://twitter.com/stanleyabrown\n\n\nThis is the vibe we on\nNo negative energy\nThis is how I live my life\nAnd we\u2019re sending this energy out to the world\nAnd you know what\nYou\u2019re gonna have to get up on this one\nGet up!\nGet up!\nGet up!\nGet up!\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nYou don\u2019t have to worry what the day may bring\nLift your hands and sing\nGod is good\nAll the time\nNo matter the pain you\u2019re feeling\nNo need to fear, he\u2019s given\nPeace of mind\nGrace and love\nStrength and joy\nThat\u2019s all we need\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nIf you are going through a hard time and you don\u2019t know what to do just look up, he\u2019s there for you\nLive your life and don\u2019t give up\nHe\u2019s the one who won\u2019t leave us\nKnow that he\u2019s there, know that he cares for you\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nIn these rough times\nIt gets dark and cloudy\nIf we could find a way to heal the world today\nWe believe that we can get through it\nNo matter what\nWe still know that\nGod is good\nAll the time\nAll the time\nGod is good\nGod is good\nAll the time\nAll the time\nGod is good\nLet me hear the ladies\nLet me hear the brothers\nLet me hear the whole wide world\nGod is good\nAll the time\nAll the time\nGod is good\nYeah\nGod is good\nYeah, yeah\nGod is good\nHe\u2019s good all the time"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT3M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "126432",
+          "likeCount": "2441",
+          "favoriteCount": "0",
+          "commentCount": "66"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 27,
+      "resultsPerPage": 27
+    }
+  }
+}

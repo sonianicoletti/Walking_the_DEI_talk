@@ -1,0 +1,1187 @@
+{
+  "ceo": "Matteo Del Fante",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "K92S2CrVasHgwyWzntpdhZUFHig",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 13,
+      "resultsPerPage": 12
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AfpS5d576aivsaIeEwE34igLH9A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AjSq1vdCJVs"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-31T15:00:14Z",
+          "channelId": "UCWJhBqnyVdHAuxexgjghNFw",
+          "title": "Il futuro per Del Fante di Poste Italiane: \u201cPuntiamo sui piccoli centri, non tradiamo ci\u00f2 che siamo\u201d",
+          "description": "Intervista sul futuro all'amministratore delegato di Poste Italiane: dal cambiamento climatico da combattere puntando sulle ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fanpage.it",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-31T15:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L4Ez9R75_KvifrsUMuiXFj__P9s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JgaW2q3g_ec"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-02T14:32:34Z",
+          "channelId": "UCn4BzT_EeCOUUyF6GJrsQxA",
+          "title": "Da Polis alla transizione digitale, l&#39;intervista di Del Fante a Fanpage",
+          "description": "L'Amministratore Delegato di Poste Italiane Matteo Del Fante intervistato dal direttore di Fanpage Francesco Cancellato nei locali ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Poste Italiane",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-02T14:32:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oAzutkQdpJxpuyTjGzwvob-B6AQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j-lTdFpq7xw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-24T11:51:47Z",
+          "channelId": "UCn4BzT_EeCOUUyF6GJrsQxA",
+          "title": "Del Fante: Poste al servizio della digitalizzazione del Paese",
+          "description": "Il messaggio dell'Amministratore Delegato di Poste Italiane, Matteo Del Fante, all'evento \u201cVerso l'identit\u00e0 digitale europea\u201d: \u201cI ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Poste Italiane",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-24T11:51:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6HsaelepCcG88xghaxnGRpHfXyA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JPzhgfVUcco"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-08T15:19:04Z",
+          "channelId": "UC2lCxEqj8bfRfYbK1FNNNkQ",
+          "title": "Poste Italiane, l\u2019ad Del Fante: \u00abIl bonus ai dipendenti? Giusto premiare a attenzione a clienti...",
+          "description": "L'intervista rilasciata dall'ad di Poste Italiane, Matteo Del Fante, e il commento ai risultati del terzo trimestre e dei primi nove mesi ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Corriere della Sera",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-08T15:19:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tx5bzPno8EcFM5yla0SxRZQn85Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L2-_I9stlzo"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-05T16:18:59Z",
+          "channelId": "UCJF-j_JVD7PfFJYPhvji7AA",
+          "title": "Zeig die Cap mal von vorne \ud83e\udd23\ud83d\udcb8 #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LionTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-05T16:18:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jp8rCgjvSTkbqlxxJNonKwmbrQg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5lHxw7Y3UGY"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-30T15:14:07Z",
+          "channelId": "UC-8GAQpYuW6Goaum_Q4d5sw",
+          "title": "Del Fante (AD Poste italiane): &quot;Con progetto Polis continuiamo a connettere l&#39;Italia&quot;",
+          "description": "La videointervista a Matteo Del Fante, AD del Gruppo Poste italiane, nel giorno della presentazione del progetto 'Polis', finanziato ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Key4Biz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-30T15:14:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "b9JhrIbyu1ocRFnUSPl_Iy3bQkI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O5-DpMNmqjc"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-30T16:14:44Z",
+          "channelId": "UCA97hGD0SHQNIvXK8aEpxrw",
+          "title": "Poste Italiane: 7mila sportelli unici in piccoli comuni",
+          "description": "Poste Italiane: 7mila sportelli unici in piccoli comuni Progetto Polis: servizi Pa e coworking per promuovere coesione (Roma).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "alanews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-30T16:14:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2a9dbUFh7Q7gP8Z0FnhSRlIGsy4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TTCPWd-kLmc"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-21T13:52:31Z",
+          "channelId": "UCn4BzT_EeCOUUyF6GJrsQxA",
+          "title": "Poste Italiane, gli auguri dell\u2019AD Del Fante: grazie ai dipendenti, nostre scelte premiano",
+          "description": "L'AD Del Fante ringrazia tutti i dipendenti e ribadisce al TG il valore e il successo delle scelte compiute, che hanno premiato ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Poste Italiane",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-21T13:52:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vj2my7CEOUdWkTbIJLoc5D_SqR4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2PwFvj7-OWI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-20T20:34:52Z",
+          "channelId": "UC-8GAQpYuW6Goaum_Q4d5sw",
+          "title": "Piantedosi a Poste Italiane: &quot;Grande importanza erogare passaporto in uffici postali&quot;",
+          "description": "Poste italiane rilascer\u00e0 negli uffici postali il passaporto entro la fine di quest'anno e da marzo erogher\u00e0 la carta d'identit\u00e0 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Key4Biz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-20T20:34:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ycWNCYs4vp-H4wplxvFR2ybE4vg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2VWeqn9eGhY"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-11T07:17:37Z",
+          "channelId": "UC_9GoUflGQmZSOSM88Jm-fQ",
+          "title": "ITALIAONLINE_Roberto Giacchi",
+          "description": "Roberto Giacchi CEO ItaliaOnline SDGs N 9. INDUSTRY, INNOVATION AND INFRASTRUCTURE \u201cLa formazione come asset ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CEOforLIFE AWARDS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-11T07:17:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1v4H4U5wJZNvijQS3ShNr38WXeQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YWNT21X0G5s"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-19T11:18:17Z",
+          "channelId": "UChVRDM88-O5TTHGmiRPhPBw",
+          "title": "#CDPsiamoNOI Il nostro impegno per la cooperazione internazionale raccontato dalle persone di CDP",
+          "description": "I #RisultatiCDP2022 evidenziano come, attraverso il nostro lavoro, abbiamo dato il nostro contributo nel campo della ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Gruppo Cassa Depositi e Prestiti",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-19T11:18:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "avtxAXWmXg5zwiAMlzqDm1Bgw54",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "D0sqwb1c7XA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-08T00:22:23Z",
+          "channelId": "UChWexnblQxJ1yl6PPQICtiA",
+          "title": "monza inter 2 a 2, monza sotto la curva",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Matteo Delbue",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-08T00:22:23Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "qIUHmoX5wKgcq1p3kG8prkQ4ykQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "an0WCtMgWCJvs35opSW2qQ2p_c0",
+        "id": "AjSq1vdCJVs",
+        "snippet": {
+          "publishedAt": "2023-10-31T15:00:14Z",
+          "channelId": "UCWJhBqnyVdHAuxexgjghNFw",
+          "title": "Il futuro per Del Fante di Poste Italiane: \u201cPuntiamo sui piccoli centri, non tradiamo ci\u00f2 che siamo\u201d",
+          "description": "Intervista sul futuro all'amministratore delegato di Poste Italiane: dal cambiamento climatico da combattere puntando sulle rinnovabili e consumando meno, alla fine della moneta cartacea, sino alla necessit\u00e0 di proteggere le piccole imprese e i piccoli comuni: \"La connessione pu\u00f2 diventare la grande occasione per rilanciarli\u201d\n\nhttps://www.fanpage.it/innovazione/tecnologia/il-futuro-per-matteo-del-fante-di-poste-italiane-puntiamo-sui-piccoli-centri-non-dobbiamo-tradire-cio-che-siamo/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AjSq1vdCJVs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Fanpage.it",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Il futuro per Del Fante di Poste Italiane: \u201cPuntiamo sui piccoli centri, non tradiamo ci\u00f2 che siamo\u201d",
+            "description": "Intervista sul futuro all'amministratore delegato di Poste Italiane: dal cambiamento climatico da combattere puntando sulle rinnovabili e consumando meno, alla fine della moneta cartacea, sino alla necessit\u00e0 di proteggere le piccole imprese e i piccoli comuni: \"La connessione pu\u00f2 diventare la grande occasione per rilanciarli\u201d\n\nhttps://www.fanpage.it/innovazione/tecnologia/il-futuro-per-matteo-del-fante-di-poste-italiane-puntiamo-sui-piccoli-centri-non-dobbiamo-tradire-cio-che-siamo/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT21M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9195",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "s5UEPQoPtvW3YajhJkE7YrkD5Ew",
+        "id": "JgaW2q3g_ec",
+        "snippet": {
+          "publishedAt": "2023-11-02T14:32:34Z",
+          "channelId": "UCn4BzT_EeCOUUyF6GJrsQxA",
+          "title": "Da Polis alla transizione digitale, l'intervista di Del Fante a Fanpage",
+          "description": "L'Amministratore Delegato di Poste Italiane Matteo Del Fante intervistato dal direttore di Fanpage Francesco Cancellato nei locali della mostra dedicata ai 160 anni di Poste a Piazza San Silvestro.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JgaW2q3g_ec/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Poste Italiane",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Da Polis alla transizione digitale, l'intervista di Del Fante a Fanpage",
+            "description": "L'Amministratore Delegato di Poste Italiane Matteo Del Fante intervistato dal direttore di Fanpage Francesco Cancellato nei locali della mostra dedicata ai 160 anni di Poste a Piazza San Silvestro."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "314",
+          "likeCount": "15",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QagCUKtPgIvsq2CZId8fxBegmcY",
+        "id": "j-lTdFpq7xw",
+        "snippet": {
+          "publishedAt": "2023-05-24T11:51:47Z",
+          "channelId": "UCn4BzT_EeCOUUyF6GJrsQxA",
+          "title": "Del Fante: Poste al servizio della digitalizzazione del Paese",
+          "description": "Il messaggio dell'Amministratore Delegato di Poste Italiane, Matteo Del Fante, all'evento \u201cVerso l'identit\u00e0 digitale europea\u201d: \u201cI risultati raggiunti con lo Spid non vanno dispersi, le competenze e le infrastrutture di Poste sono al servizio della digitalizzazione del Paese\u201d.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/j-lTdFpq7xw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Poste Italiane",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Del Fante: Poste al servizio della digitalizzazione del Paese",
+            "description": "Il messaggio dell'Amministratore Delegato di Poste Italiane, Matteo Del Fante, all'evento \u201cVerso l'identit\u00e0 digitale europea\u201d: \u201cI risultati raggiunti con lo Spid non vanno dispersi, le competenze e le infrastrutture di Poste sono al servizio della digitalizzazione del Paese\u201d."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "359",
+          "likeCount": "3",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_RHREOINEg-Zsj2PFCamOflm6no",
+        "id": "JPzhgfVUcco",
+        "snippet": {
+          "publishedAt": "2023-11-08T15:19:04Z",
+          "channelId": "UC2lCxEqj8bfRfYbK1FNNNkQ",
+          "title": "Poste Italiane, l\u2019ad Del Fante: \u00abIl bonus ai dipendenti? Giusto premiare a attenzione a clienti...",
+          "description": "L'intervista rilasciata dall'ad di Poste Italiane, Matteo Del Fante, e il commento ai risultati del terzo trimestre e dei primi nove mesi del 2023. Qui, l'articolo completo: Poste, l'utile sale a 1,5 miliardi nei nove mesi: bonus di 1.000 euro ai dipendenti. ( Corriere Tv ). Guarda il video su Corriere: https://video.corriere.it/economia/poste-italiane-l-ad-fante-il-bonus-dipendenti-giusto-premiare-attenzione-clienti-innovazione/d0bc9fa6-7d7d-11ee-8bbd-2076da079d53",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JPzhgfVUcco/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Corriere della Sera",
+          "tags": [
+            "Del",
+            "Economia",
+            "Fante:",
+            "Giusto",
+            "Italiane",
+            "Poste",
+            "ai",
+            "attenzione",
+            "bonus",
+            "clienti",
+            "corriere",
+            "corriere della sera",
+            "corriere della sera notizie",
+            "corriere della sera oggi",
+            "corriere della sera ultime notizie",
+            "corriere tv",
+            "dipendenti?",
+            "innovazione\u00bb",
+            "l'ad",
+            "news corriere",
+            "premiare",
+            "\u00abIl"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Poste Italiane, l\u2019ad Del Fante: \u00abIl bonus ai dipendenti? Giusto premiare a attenzione a clienti...",
+            "description": "L'intervista rilasciata dall'ad di Poste Italiane, Matteo Del Fante, e il commento ai risultati del terzo trimestre e dei primi nove mesi del 2023. Qui, l'articolo completo: Poste, l'utile sale a 1,5 miliardi nei nove mesi: bonus di 1.000 euro ai dipendenti. ( Corriere Tv ). Guarda il video su Corriere: https://video.corriere.it/economia/poste-italiane-l-ad-fante-il-bonus-dipendenti-giusto-premiare-attenzione-clienti-innovazione/d0bc9fa6-7d7d-11ee-8bbd-2076da079d53"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "808",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "na8AJnKVSLXAS6r37f_t6FUNL5k",
+        "id": "L2-_I9stlzo",
+        "snippet": {
+          "publishedAt": "2023-04-05T16:18:59Z",
+          "channelId": "UCJF-j_JVD7PfFJYPhvji7AA",
+          "title": "Zeig die Cap mal von vorne \ud83e\udd23\ud83d\udcb8 #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L2-_I9stlzo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LionTV",
+          "tags": [
+            "shorts"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Zeig die Cap mal von vorne \ud83e\udd23\ud83d\udcb8 #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2399769",
+          "likeCount": "29168",
+          "favoriteCount": "0",
+          "commentCount": "1661"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yGJ74c7iF1l-AABxSfHcYEjKTDw",
+        "id": "5lHxw7Y3UGY",
+        "snippet": {
+          "publishedAt": "2023-01-30T15:14:07Z",
+          "channelId": "UC-8GAQpYuW6Goaum_Q4d5sw",
+          "title": "Del Fante (AD Poste italiane): \"Con progetto Polis continuiamo a connettere l'Italia\"",
+          "description": "La videointervista a Matteo Del Fante, AD del Gruppo Poste italiane, nel giorno della presentazione del progetto \u2018Polis\u2019, finanziato anche con 800 milioni di risorse del piano complementare del PNRR e 320 milioni dal gruppo guidato da\u00a0Del Fante. L\u2019obiettivo \u00e8 trasformare 7mila uffici postali nei Comuni con meno di 15mila abitanti, entro dicembre 2026, in uno sportello unico per erogare i servizi digitali delle Pubbliche amministrazioni: 40 uffici postali sono stati gi\u00e0 completati. Molti certificati potranno, con semplicit\u00e0, essere erogati da un totem.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5lHxw7Y3UGY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Key4Biz",
+          "tags": [
+            "Del Fante Poste italiane",
+            "Matteo Del Fante poste italiane",
+            "Poste italiane progetto Polis",
+            "Matteo Del Fante progetto Polis"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Del Fante (AD Poste italiane): \"Con progetto Polis continuiamo a connettere l'Italia\"",
+            "description": "La videointervista a Matteo Del Fante, AD del Gruppo Poste italiane, nel giorno della presentazione del progetto \u2018Polis\u2019, finanziato anche con 800 milioni di risorse del piano complementare del PNRR e 320 milioni dal gruppo guidato da\u00a0Del Fante. L\u2019obiettivo \u00e8 trasformare 7mila uffici postali nei Comuni con meno di 15mila abitanti, entro dicembre 2026, in uno sportello unico per erogare i servizi digitali delle Pubbliche amministrazioni: 40 uffici postali sono stati gi\u00e0 completati. Molti certificati potranno, con semplicit\u00e0, essere erogati da un totem."
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT3M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "461",
+          "likeCount": "0",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RGDoSxLYFCYxNlOUAk73nHFd8-s",
+        "id": "O5-DpMNmqjc",
+        "snippet": {
+          "publishedAt": "2023-01-30T16:14:44Z",
+          "channelId": "UCA97hGD0SHQNIvXK8aEpxrw",
+          "title": "Poste Italiane: 7mila sportelli unici in piccoli comuni",
+          "description": "Poste Italiane: 7mila sportelli unici in piccoli comuni\r\n\r\nProgetto Polis: servizi Pa e coworking per promuovere coesione\r\n\r\n (Roma). Poste Italiane: 7mila sportelli unici in piccoli comuni\n\nIntervista a Matteo Del Fante (Rossana Quarato/alanews)\r\n\r\n ---- Trascrizione generata automaticamente ---- \r\ne ora 40 comuni che partono subito Avete visto che dal punto di vista tecnico informatico gi\u00e0 ci sono le basi per erogare il servizio di con convinzione poi \u00e8 pi\u00f9 facile usare le risorse del PNR e forse per un'azienda e comunque ha un attivit\u00e0 di investimento da te numeri stamani 800 milioni di euro L'anno al quale aggiungere no nuove iniziative Quindi \u00e8 una macchina rodata che viene diciamo investita della responsabilit\u00e0 di fare nuove gare per progetto polizza sono servizi di identit\u00e0 servizi che riguardano la sfera della tizia quindi principalmente il casellario giudiziario servizi che fanno capo al Ministero dei Trasporti quindi le patenti servizi che fanno capo alle regioni  e i certificati che sono gi\u00e0 oggi disponibili sulle piattaforme istituzionali o dei comuni Ma che potranno essere anche stampati nel ufficio postale che spesso molti servizi ci sono sono disponibili on-line ma non tutti gli italiani hanno ho la capacit\u00e0 di entrare capire come farsi presentare si erogare quel certificato e talvolta Magari anche un problema di stampante a casa con tutti gli italiani e una stampante collegata al computer noi con l'ufficio Poste sotto casa riusciamo a risolvere la necessit\u00e0 che abbiamo avviato da tempo un progetto per cui dove non arriva la connessione a famosa banda larga noi soffriamo con tecnologie wireless per avere il minimo Quindi con la fva legalmente dal punto di vista degli impegni che ha poste come fornitore del servizio universale  noi potremmo chiudere diverse migliaia di uffici postali e ne avremmo tra virgolette da un lato diritto e dall'altro un ritorno anche di conto economico perch\u00e9 naturale gli uffici nei comuni pi\u00f9 piccoli hanno una bassa redditivit\u00e0 che molto spesso non copre i costi abbiamo deciso che invece era pi\u00f9 importante dal punto di vista della relazione con quei territori dalla relazione con quelle comunit\u00e0 che poi sono comunit\u00e0 Lo sappiamo tutti che per residenti fanno vedere un certo numero di persone ma come origine hanno un bacino molto pi\u00f9 ampio perch\u00e9 sono spesso i paesi si originali di provenienza di tanti Italiani che poi sono nelle grandi citt\u00e0 quindi facendo bene l\u00ec indirettamente favoriamo crediamo  avviamento la fiducia anche per gli italiani che vivono nelle grandi citt\u00e0 \r\n-",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O5-DpMNmqjc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "alanews",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Poste Italiane: 7mila sportelli unici in piccoli comuni",
+            "description": "Poste Italiane: 7mila sportelli unici in piccoli comuni\r\n\r\nProgetto Polis: servizi Pa e coworking per promuovere coesione\r\n\r\n (Roma). Poste Italiane: 7mila sportelli unici in piccoli comuni\n\nIntervista a Matteo Del Fante (Rossana Quarato/alanews)\r\n\r\n ---- Trascrizione generata automaticamente ---- \r\ne ora 40 comuni che partono subito Avete visto che dal punto di vista tecnico informatico gi\u00e0 ci sono le basi per erogare il servizio di con convinzione poi \u00e8 pi\u00f9 facile usare le risorse del PNR e forse per un'azienda e comunque ha un attivit\u00e0 di investimento da te numeri stamani 800 milioni di euro L'anno al quale aggiungere no nuove iniziative Quindi \u00e8 una macchina rodata che viene diciamo investita della responsabilit\u00e0 di fare nuove gare per progetto polizza sono servizi di identit\u00e0 servizi che riguardano la sfera della tizia quindi principalmente il casellario giudiziario servizi che fanno capo al Ministero dei Trasporti quindi le patenti servizi che fanno capo alle regioni  e i certificati che sono gi\u00e0 oggi disponibili sulle piattaforme istituzionali o dei comuni Ma che potranno essere anche stampati nel ufficio postale che spesso molti servizi ci sono sono disponibili on-line ma non tutti gli italiani hanno ho la capacit\u00e0 di entrare capire come farsi presentare si erogare quel certificato e talvolta Magari anche un problema di stampante a casa con tutti gli italiani e una stampante collegata al computer noi con l'ufficio Poste sotto casa riusciamo a risolvere la necessit\u00e0 che abbiamo avviato da tempo un progetto per cui dove non arriva la connessione a famosa banda larga noi soffriamo con tecnologie wireless per avere il minimo Quindi con la fva legalmente dal punto di vista degli impegni che ha poste come fornitore del servizio universale  noi potremmo chiudere diverse migliaia di uffici postali e ne avremmo tra virgolette da un lato diritto e dall'altro un ritorno anche di conto economico perch\u00e9 naturale gli uffici nei comuni pi\u00f9 piccoli hanno una bassa redditivit\u00e0 che molto spesso non copre i costi abbiamo deciso che invece era pi\u00f9 importante dal punto di vista della relazione con quei territori dalla relazione con quelle comunit\u00e0 che poi sono comunit\u00e0 Lo sappiamo tutti che per residenti fanno vedere un certo numero di persone ma come origine hanno un bacino molto pi\u00f9 ampio perch\u00e9 sono spesso i paesi si originali di provenienza di tanti Italiani che poi sono nelle grandi citt\u00e0 quindi facendo bene l\u00ec indirettamente favoriamo crediamo  avviamento la fiducia anche per gli italiani che vivono nelle grandi citt\u00e0 \r\n-"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "313",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bVcz0gm8kYd9PGPj-zHFkS37ZEE",
+        "id": "TTCPWd-kLmc",
+        "snippet": {
+          "publishedAt": "2023-12-21T13:52:31Z",
+          "channelId": "UCn4BzT_EeCOUUyF6GJrsQxA",
+          "title": "Poste Italiane, gli auguri dell\u2019AD Del Fante: grazie ai dipendenti, nostre scelte premiano",
+          "description": "L'AD Del Fante ringrazia tutti i dipendenti e ribadisce al TG il valore e il successo delle scelte compiute, che hanno premiato l'Azienda e che guideranno il nuovo Piano strategico.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TTCPWd-kLmc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Poste Italiane",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Poste Italiane, gli auguri dell\u2019AD Del Fante: grazie ai dipendenti, nostre scelte premiano",
+            "description": "L'AD Del Fante ringrazia tutti i dipendenti e ribadisce al TG il valore e il successo delle scelte compiute, che hanno premiato l'Azienda e che guideranno il nuovo Piano strategico."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "443",
+          "likeCount": "15",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AYYcSYnhCbUySrEf46MoUMc1aMk",
+        "id": "2PwFvj7-OWI",
+        "snippet": {
+          "publishedAt": "2023-10-20T20:34:52Z",
+          "channelId": "UC-8GAQpYuW6Goaum_Q4d5sw",
+          "title": "Piantedosi a Poste Italiane: \"Grande importanza erogare passaporto in uffici postali\"",
+          "description": "\u201cPoste italiane rilascer\u00e0 negli uffici postali il passaporto entro la fine di quest\u2019anno e da marzo erogher\u00e0 la carta d\u2019identit\u00e0 elettronica (#CIE)\u201d. L\u2019ha annunciato Giuseppe Lasco condirettore di Poste italiane alla 1^ edizione di #SecurityDay di Poste Italiane alla presenza del ministro dell\u2019Interno Matteo Piantedosi e dell\u2019AD del gruppo Matteo Del Fante. Le interviste a Piantedosi e a Del Fante.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2PwFvj7-OWI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Key4Biz",
+          "tags": [
+            "Piantedosi Poste italiane",
+            "passaporto in uffici postali",
+            "Carta identit\u00e0 elettronica poste italiane"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Piantedosi a Poste Italiane: \"Grande importanza erogare passaporto in uffici postali\"",
+            "description": "\u201cPoste italiane rilascer\u00e0 negli uffici postali il passaporto entro la fine di quest\u2019anno e da marzo erogher\u00e0 la carta d\u2019identit\u00e0 elettronica (#CIE)\u201d. L\u2019ha annunciato Giuseppe Lasco condirettore di Poste italiane alla 1^ edizione di #SecurityDay di Poste Italiane alla presenza del ministro dell\u2019Interno Matteo Piantedosi e dell\u2019AD del gruppo Matteo Del Fante. Le interviste a Piantedosi e a Del Fante."
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT2M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1197",
+          "likeCount": "12",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Rkj1IUfSszgxGvnLjzbS2GPIddo",
+        "id": "2VWeqn9eGhY",
+        "snippet": {
+          "publishedAt": "2023-09-11T07:17:37Z",
+          "channelId": "UC_9GoUflGQmZSOSM88Jm-fQ",
+          "title": "ITALIAONLINE_Roberto Giacchi",
+          "description": "Roberto Giacchi CEO ItaliaOnline\nSDGs N 9. INDUSTRY, INNOVATION AND INFRASTRUCTURE \n\u201cLa formazione come asset strategico per lo sviluppo delle imprese italiane\u201d",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2VWeqn9eGhY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CEOforLIFE AWARDS",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "ITALIAONLINE_Roberto Giacchi",
+            "description": "Roberto Giacchi CEO ItaliaOnline\nSDGs N 9. INDUSTRY, INNOVATION AND INFRASTRUCTURE \n\u201cLa formazione come asset strategico per lo sviluppo delle imprese italiane\u201d"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT9M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "136",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "L95drkvwZKUOUJX4lXDJdMbrPzo",
+        "id": "YWNT21X0G5s",
+        "snippet": {
+          "publishedAt": "2023-05-19T11:18:17Z",
+          "channelId": "UChVRDM88-O5TTHGmiRPhPBw",
+          "title": "#CDPsiamoNOI Il nostro impegno per la cooperazione internazionale raccontato dalle persone di CDP",
+          "description": "I #RisultatiCDP2022 evidenziano come, attraverso il nostro lavoro, abbiamo dato il nostro contributo nel campo della #CooperazioneInternazionale. Nel 2022 infatti abbiamo mobilitato 600 milioni di euro a favore di #governi, #istituzionifinanziarie, #imprese e #fondidinvestimento, sostenendo iniziative in Africa e nell\u2019area Caraibica nel campo dell\u2019#educazione, della #sanit\u00e0 e del contrasto al #cambiamentoclimatico.\n \nOperiamo per rafforzare il nostro ruolo di finanziatore con risorse proprie e di gestore di fondi pubblici per la cooperazione internazionale e siamo impegnati nella selezione di nuove iniziative in aree e settori strategici per il Sistema Italia per generare elevati impatti #ambientali, #economici e #sociali.\n \n\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbc \u00c8 l\u2019impegno di tante persone a renderlo possibile, alcune di loro ve lo raccontano in questo video perch\u00e9 #CDPsiamoNOI. E se volete saperne di pi\u00f9 consultate il nostro terzo #BilancioIntegrato \ud83d\udc49\ud83c\udffc cdp.it/risultati2022",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YWNT21X0G5s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gruppo Cassa Depositi e Prestiti",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "#CDPsiamoNOI Il nostro impegno per la cooperazione internazionale raccontato dalle persone di CDP",
+            "description": "I #RisultatiCDP2022 evidenziano come, attraverso il nostro lavoro, abbiamo dato il nostro contributo nel campo della #CooperazioneInternazionale. Nel 2022 infatti abbiamo mobilitato 600 milioni di euro a favore di #governi, #istituzionifinanziarie, #imprese e #fondidinvestimento, sostenendo iniziative in Africa e nell\u2019area Caraibica nel campo dell\u2019#educazione, della #sanit\u00e0 e del contrasto al #cambiamentoclimatico.\n \nOperiamo per rafforzare il nostro ruolo di finanziatore con risorse proprie e di gestore di fondi pubblici per la cooperazione internazionale e siamo impegnati nella selezione di nuove iniziative in aree e settori strategici per il Sistema Italia per generare elevati impatti #ambientali, #economici e #sociali.\n \n\ud83d\udcbc\ud83d\udc69\u200d\ud83d\udcbc \u00c8 l\u2019impegno di tante persone a renderlo possibile, alcune di loro ve lo raccontano in questo video perch\u00e9 #CDPsiamoNOI. E se volete saperne di pi\u00f9 consultate il nostro terzo #BilancioIntegrato \ud83d\udc49\ud83c\udffc cdp.it/risultati2022"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "352",
+          "likeCount": "1",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_8_-n0jlfWGZ1zIo0EsZKVWPzg0",
+        "id": "D0sqwb1c7XA",
+        "snippet": {
+          "publishedAt": "2023-01-08T00:22:23Z",
+          "channelId": "UChWexnblQxJ1yl6PPQICtiA",
+          "title": "monza inter 2 a 2, monza sotto la curva",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/D0sqwb1c7XA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Matteo Delbue",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "monza inter 2 a 2, monza sotto la curva",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "355",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "ceo": "Mathias Miedreich",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Cpf05yNaiKmuLfTS5dFHPFcyAQ0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5VSvn05qPqdfgjezre2WIVS-nws",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T87Su7W8oSQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-23T15:11:21Z",
+          "channelId": "UCAO58AGdq7GZt5wjYu7K8nA",
+          "title": "GBA Voices",
+          "description": "Today we hear from Umicore's CEO and GBA Supervisory Council member Mathias Miedreich how the GBA battery passport can ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Global Battery Alliance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-23T15:11:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9sCwMwhANmGpx961PdmZ70-HyGc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PfwUMkQFj-A"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-17T11:57:08Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Umicore CEO discusses the importance of a fully integrated European battery material supply chain",
+          "description": "Mathias Miedreich, CEO of Umicore, discusses the materials technology company's full-year results and growth strategy for 2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-17T11:57:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ijxEx0GayrdZ1G-jjVZKSYE7n4U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DDaLXDBds34"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-18T08:45:01Z",
+          "channelId": "UCz5qP6UsSNwmOBh-Wx9Dn7Q",
+          "title": "\u2b50 The Geopolitics of Industry #WEF23 #Davos",
+          "description": "DESCRIPTION: From the use of sanctions to technology supply shocks, how can business leaders adapt to a world of increased ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MileiNials",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-18T08:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "14ZTJU2M3v31ogd4EmtY-BtdZQE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dnqWR_7Jovs"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T09:54:19Z",
+          "channelId": "UCNDmCdgaRH6qbMQiw34KywQ",
+          "title": "Capital Markets Day 2022 - webcast",
+          "description": "On June 22nd 2022, at Umicore Capital Markets Day, Mathias Miedreich, CEO, along with members of the management ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Umicore",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T09:54:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bjx3rHJjqBtHKJsbpx2-D3n2AMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2WOCfvzWxwM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-12T12:13:44Z",
+          "channelId": "UCE1KZHQVeL3tZnoAQYWMW5Q",
+          "title": "CEO Talks: Steven De Proost - 7C Solarparken",
+          "description": "Steven De Proost van het zonne-energiebedrijf 7C Solarparken was te gast in onze CEO Talks. Hij geeft een antwoord op al uw ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Tijd",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-12T12:13:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R8ZkCG_hb5wmeynyzAkIcyRgmhM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NwyJBR_Z2co"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-12T22:55:50Z",
+          "channelId": "UCE1KZHQVeL3tZnoAQYWMW5Q",
+          "title": "CEO Talks met Koen Dejonckheere, CEO van Gimv",
+          "description": "Koen Dejonckheere van de Vlaamse investeringsmaatschappij Gimv is onze gast in CEO Talks. U kunt nu al uw vragen stellen op ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Tijd",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-12T22:55:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ygf8G-Nw9ciCOw40xXuGqvlsrP0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bBKMTxvqVfU"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-20T22:59:45Z",
+          "channelId": "UCE1KZHQVeL3tZnoAQYWMW5Q",
+          "title": "Live Stream CEO Talks met Francis Deprez, CEO D&#39;Ieteren",
+          "description": "Live Stream CEO Talks met Francis Deprez, CEO D'Ieteren.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "De Tijd",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-20T22:59:45Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "CSgWsjVvPoNSG3HU8DrGuxm1_XM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "DH_5KZ8nV0uMeO7r5hoCLrrrTaI",
+        "id": "T87Su7W8oSQ",
+        "snippet": {
+          "publishedAt": "2023-01-23T15:11:21Z",
+          "channelId": "UCAO58AGdq7GZt5wjYu7K8nA",
+          "title": "GBA Voices",
+          "description": "Today we hear from Umicore's CEO and GBA Supervisory Council member Mathias Miedreich how the GBA battery passport can contribute to the electrification of the transport sector by bringing transparency and driving the progressive reduction of greenhouse gas emissions across the battery value chain.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/T87Su7W8oSQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Global Battery Alliance",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "GBA Voices",
+            "description": "Today we hear from Umicore's CEO and GBA Supervisory Council member Mathias Miedreich how the GBA battery passport can contribute to the electrification of the transport sector by bringing transparency and driving the progressive reduction of greenhouse gas emissions across the battery value chain."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "279",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oNKVRzbj0wXaml8cdmIlLjDhj58",
+        "id": "PfwUMkQFj-A",
+        "snippet": {
+          "publishedAt": "2023-02-17T11:57:08Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "Umicore CEO discusses the importance of a fully integrated European battery material supply chain",
+          "description": "Mathias Miedreich, CEO of Umicore, discusses the materials technology company's full-year results and growth strategy for 2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PfwUMkQFj-A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "tags": [
+            "Squawk Box"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Umicore CEO discusses the importance of a fully integrated European battery material supply chain",
+            "description": "Mathias Miedreich, CEO of Umicore, discusses the materials technology company's full-year results and growth strategy for 2023."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "695",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "87AmNGj5xMoessaLW0CasAste1k",
+        "id": "DDaLXDBds34",
+        "snippet": {
+          "publishedAt": "2023-01-18T08:45:01Z",
+          "channelId": "UCz5qP6UsSNwmOBh-Wx9Dn7Q",
+          "title": "\u2b50 The Geopolitics of Industry #WEF23 #Davos",
+          "description": "\u2b50 DESCRIPTION: From the use of sanctions to technology supply shocks, how can business leaders adapt to a world of increased geopolitical fractures?\n\n\u2b50 SPEAKERS:\n\ud83d\udccc Ravi Agrawal\nEditor-in-Chief, Foreign Policy magazine\n\ud83d\udccc Mathias Miedreich\nChief Executive Officer, Umicore\n\ud83d\udccc Anne Richards\nChief Executive Officer, Fidelity International\n\ud83d\udccc Carmine Di Sibio\nGlobal Chairman and Chief Executive Officer, EY\n\ud83d\udccc Lubna S. Olayan\nChair of the Executive Committee, Olayan Financing Company\n\n\u2b50 CATEGORY:\n\ud83d\udccc World Economic Forum\n\u2705 Licencia de atribuci\u00f3n de Creative Commons",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DDaLXDBds34/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MileiNials",
+          "tags": [
+            "economist",
+            "economic",
+            "economics",
+            "economy",
+            "apeeco",
+            "apeeconomics",
+            "econom\u00eda",
+            "sustainable global goals",
+            "climate change",
+            "sustainability",
+            "davos agenda",
+            "World Economic Forum",
+            "Davos",
+            "politics",
+            "finance",
+            "news",
+            "leadership",
+            "democracy",
+            "education",
+            "4IR",
+            "technology",
+            "tech",
+            "AI",
+            "automation",
+            "work",
+            "future",
+            "world news",
+            "world",
+            "forum",
+            "world news today",
+            "worldeconomicforum",
+            "recommended for you",
+            "globalization",
+            "robotics",
+            "bloomberg",
+            "documentary",
+            "davos 2022",
+            "wef 22",
+            "#wef22",
+            "#davos"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\u2b50 The Geopolitics of Industry #WEF23 #Davos",
+            "description": "\u2b50 DESCRIPTION: From the use of sanctions to technology supply shocks, how can business leaders adapt to a world of increased geopolitical fractures?\n\n\u2b50 SPEAKERS:\n\ud83d\udccc Ravi Agrawal\nEditor-in-Chief, Foreign Policy magazine\n\ud83d\udccc Mathias Miedreich\nChief Executive Officer, Umicore\n\ud83d\udccc Anne Richards\nChief Executive Officer, Fidelity International\n\ud83d\udccc Carmine Di Sibio\nGlobal Chairman and Chief Executive Officer, EY\n\ud83d\udccc Lubna S. Olayan\nChair of the Executive Committee, Olayan Financing Company\n\n\u2b50 CATEGORY:\n\ud83d\udccc World Economic Forum\n\u2705 Licencia de atribuci\u00f3n de Creative Commons"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT45M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "45",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OfxCC4G2mVrk4DIGD1G-n17X8ec",
+        "id": "dnqWR_7Jovs",
+        "snippet": {
+          "publishedAt": "2023-06-23T09:54:19Z",
+          "channelId": "UCNDmCdgaRH6qbMQiw34KywQ",
+          "title": "Capital Markets Day 2022 - webcast",
+          "description": "On June 22nd 2022, at Umicore Capital Markets Day, Mathias Miedreich, CEO, along with members of the management presented our strategic roadmap towards 2030. We provided further insights on our ambitions and the next exciting chapter of our journey of sustainable growth and value creation.\n\nRead more here: https://capitalmarketsday.umicore.com/en/\n\nAgenda & Speakers\n00:00 - 05:19 Agenda\n05:20 - 01:00:38  Excellent starting position and strategy drivers (Mathias Miedreich, Frank Daufenbach)\n01:00:39 - 01:33:35 Growth, returns and cash-flows (Filip Platteeuw)\n01:33:36 - 02:10:28 Q&A session with Mathias, Frank and Filip\n02:10:29 - 02:33:40 We go for zero (G\u00e9raldine Nolens)\n02:33:42 - 03:06:48 Advanced materials as a key enabling technology in various sectors (Denis Goffaux)\n03:06:49 - 03:26:18 Q&A Session with Mathias, G\u00e9raldine and Denis\n03:26:24 - 04:08:28 Mobility transformation - Capture profitable growth and create sustainable value in Rechargeable Battery Materials (Ralph Kiessling)\n04:08:29 - 04:32:31 Mobility transformation - Capture peak profitability and maximize value in Automotive Catalysts (Bart Sap)\n04:32:32 - 05:19:14 Q&A session with Mathias, Ralph and Bart\n05:19:15 - 05:34:24 Mobility transformation - Capture the emerging growth in Fuel Cell (Bart Sap)\n05:34:25 - 06:06:11 Mobility transformation - Capture profitable growth in circular battery value chain with Battery Recycling Solutions (Kurt Vandeputte)\n06:06:12 -  06:35:23 Q&A session with Mathias, Bart and Kurt\n06:35:37 - 06:39:47 Closing remarks (Mathias Miedreich)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dnqWR_7Jovs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Umicore",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Capital Markets Day 2022 - webcast",
+            "description": "On June 22nd 2022, at Umicore Capital Markets Day, Mathias Miedreich, CEO, along with members of the management presented our strategic roadmap towards 2030. We provided further insights on our ambitions and the next exciting chapter of our journey of sustainable growth and value creation.\n\nRead more here: https://capitalmarketsday.umicore.com/en/\n\nAgenda & Speakers\n00:00 - 05:19 Agenda\n05:20 - 01:00:38  Excellent starting position and strategy drivers (Mathias Miedreich, Frank Daufenbach)\n01:00:39 - 01:33:35 Growth, returns and cash-flows (Filip Platteeuw)\n01:33:36 - 02:10:28 Q&A session with Mathias, Frank and Filip\n02:10:29 - 02:33:40 We go for zero (G\u00e9raldine Nolens)\n02:33:42 - 03:06:48 Advanced materials as a key enabling technology in various sectors (Denis Goffaux)\n03:06:49 - 03:26:18 Q&A Session with Mathias, G\u00e9raldine and Denis\n03:26:24 - 04:08:28 Mobility transformation - Capture profitable growth and create sustainable value in Rechargeable Battery Materials (Ralph Kiessling)\n04:08:29 - 04:32:31 Mobility transformation - Capture peak profitability and maximize value in Automotive Catalysts (Bart Sap)\n04:32:32 - 05:19:14 Q&A session with Mathias, Ralph and Bart\n05:19:15 - 05:34:24 Mobility transformation - Capture the emerging growth in Fuel Cell (Bart Sap)\n05:34:25 - 06:06:11 Mobility transformation - Capture profitable growth in circular battery value chain with Battery Recycling Solutions (Kurt Vandeputte)\n06:06:12 -  06:35:23 Q&A session with Mathias, Bart and Kurt\n06:35:37 - 06:39:47 Closing remarks (Mathias Miedreich)"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6H39M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1050",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "229_m2vGHA-k52XFZu2MaAQR2aU",
+        "id": "2WOCfvzWxwM",
+        "snippet": {
+          "publishedAt": "2023-01-12T12:13:44Z",
+          "channelId": "UCE1KZHQVeL3tZnoAQYWMW5Q",
+          "title": "CEO Talks: Steven De Proost - 7C Solarparken",
+          "description": "Steven De Proost van het zonne-energiebedrijf 7C Solarparken was te gast in onze CEO Talks. Hij geeft een antwoord op al uw vragen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2WOCfvzWxwM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "De Tijd",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "CEO Talks: Steven De Proost - 7C Solarparken",
+            "description": "Steven De Proost van het zonne-energiebedrijf 7C Solarparken was te gast in onze CEO Talks. Hij geeft een antwoord op al uw vragen."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT48M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2085",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jPnx3YItdch0sHF-m5maYVAYoEs",
+        "id": "NwyJBR_Z2co",
+        "snippet": {
+          "publishedAt": "2023-10-12T22:55:50Z",
+          "channelId": "UCE1KZHQVeL3tZnoAQYWMW5Q",
+          "title": "CEO Talks met Koen Dejonckheere, CEO van Gimv",
+          "description": "Koen Dejonckheere van de Vlaamse investeringsmaatschappij Gimv is onze gast in CEO Talks. U kunt nu al uw vragen stellen op tijd.be.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NwyJBR_Z2co/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "De Tijd",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "nl",
+          "localized": {
+            "title": "CEO Talks met Koen Dejonckheere, CEO van Gimv",
+            "description": "Koen Dejonckheere van de Vlaamse investeringsmaatschappij Gimv is onze gast in CEO Talks. U kunt nu al uw vragen stellen op tijd.be."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT49M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3041",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UeweTWB5j32u0Ph87AQ3Gd1d6Ss",
+        "id": "bBKMTxvqVfU",
+        "snippet": {
+          "publishedAt": "2023-04-20T22:59:45Z",
+          "channelId": "UCE1KZHQVeL3tZnoAQYWMW5Q",
+          "title": "Live Stream CEO Talks met Francis Deprez, CEO D'Ieteren",
+          "description": "Live Stream CEO Talks met Francis Deprez, CEO D'Ieteren",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bBKMTxvqVfU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "De Tijd",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Live Stream CEO Talks met Francis Deprez, CEO D'Ieteren",
+            "description": "Live Stream CEO Talks met Francis Deprez, CEO D'Ieteren"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT48M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2272",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

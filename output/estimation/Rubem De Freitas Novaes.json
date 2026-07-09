@@ -1,0 +1,145 @@
+{
+  "ceo": "Rubem De Freitas Novaes",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "oeA3jyQ8BShuaumR3kwebTzlU1Y",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Bn5M8nf_SNSWLUXN_W5HujCC_OE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "46hP0YGH6hk"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-19T21:00:02Z",
+          "channelId": "UCLkfG3LKp0wkwt4fyEi6tQg",
+          "title": "O DIA EM QUE O J\u00d4 SOARES REVELOU O FABIO PORCHAT - Peraltas #shorts",
+          "description": "comedia #globo #fabioporchat #josoares #humor #humorista #humorbrasil #com\u00e9dia #standup #engra\u00e7ado #engra\u00e7ados ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Peraltas Comedy ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-19T21:00:02Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "NdDBrRHzH_AF-R49s9zYymmX5Hw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "U7oEwaZoaNwLez0Qx1pq7RGypc0",
+        "id": "46hP0YGH6hk",
+        "snippet": {
+          "publishedAt": "2023-04-19T21:00:02Z",
+          "channelId": "UCLkfG3LKp0wkwt4fyEi6tQg",
+          "title": "O DIA EM QUE O J\u00d4 SOARES REVELOU O FABIO PORCHAT - Peraltas #shorts",
+          "description": "#comedia #globo #fabioporchat #josoares #humor #humorista #humorbrasil #com\u00e9dia #standup #engra\u00e7ado #engra\u00e7ados #standupcomedy #risada",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/46hP0YGH6hk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Peraltas Comedy ",
+          "tags": [
+            "jo",
+            "j\u00f4 soares",
+            "jo soares globo",
+            "programa do jo",
+            "programa do jo na rede globo",
+            "programa do j\u00f4",
+            "j\u00f4",
+            "programa do j\u00f4 11 e meia",
+            "caneca do j\u00f4",
+            "entrevista j\u00f4",
+            "fabio porchat",
+            "f\u00e1bio porchat",
+            "porchat",
+            "que hist\u00f3ria \u00e9 essa porchat",
+            "porchat no gnt",
+            "fabio porchat que historia \u00e9 essa",
+            "que hist\u00f3ria \u00e9 essa porchat?",
+            "programa do porchat",
+            "fabio porchat gnt",
+            "fabio porchat podcast",
+            "hist\u00f3rias do porchat",
+            "que historia \u00e9 essa porchat",
+            "fabio porchat que historia essa",
+            "hist\u00f3ria do f\u00e1bio porchat"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "O DIA EM QUE O J\u00d4 SOARES REVELOU O FABIO PORCHAT - Peraltas #shorts",
+            "description": "#comedia #globo #fabioporchat #josoares #humor #humorista #humorbrasil #com\u00e9dia #standup #engra\u00e7ado #engra\u00e7ados #standupcomedy #risada"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "429286",
+          "likeCount": "17280",
+          "favoriteCount": "0",
+          "commentCount": "564"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

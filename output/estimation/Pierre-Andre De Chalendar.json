@@ -1,0 +1,3186 @@
+{
+  "ceo": "Pierre-Andre De Chalendar",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "NGzNkn4fLCQQmEzz0xxAdGACZ2w",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 30
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FJ1pOjR3ryHfXT-_C_v8QOwNFKo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SfV2wG3Lw8A"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-20T23:55:31Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "La grande interview : Partage de la valeur, bient\u00f4t dans la loi",
+          "description": "Ce lundi 20 f\u00e9vrier, Pierre-Andr\u00e9 de Chalendar, pr\u00e9sident de l'Institut de l'Entreprise et pr\u00e9sident de Saint-Gobain est revenu sur ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-20T23:55:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Sqz0HboI7oda4zn-R6DwGDqEJWc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GF7dOs0fVYU"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-09T12:06:32Z",
+          "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
+          "title": "SMART IMPACT - Emission du jeudi 9 f\u00e9vrier",
+          "description": "Jeudi 9 f\u00e9vrier 2023, SMART IMPACT re\u00e7oit Pierre-Andr\u00e9 de Chalendar (PDG, Saint-Gobain) , Brune Poirson (Directrice du ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "B SMART",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-09T12:06:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bFBaBgwzPCEZ7yN8RY1x4vKqo1U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CBYfKvcg5vk"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-09T16:43:38Z",
+          "channelId": "UC5WFSncb01pBfKcQw3mfO9A",
+          "title": "#Partageonsleconomie - RSE, ESG, l&#39;entreprise responsable \u00e0 l&#39;heure des comptes",
+          "description": "Partageons l'Economie, l'\u00e9v\u00e9nement leader de l'entreprise responsable et de la finance d'impact. Au menu, trois lettres, ESG, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "La Tribune \u00c9v\u00e9nements",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-09T16:43:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ovic5yoe9RrddjCPPCxacEvQNBM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vQroOPuJKcc"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-29T04:43:23Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "REF 2023: &quot;M\u00e9tro, boulot, ma non troppo ! Le travail a-t-il l&#39;avenir devant lui ?&quot; - Suivez le live",
+          "description": "REF 2023: \"M\u00e9tro, boulot, ma non troppo ! Le travail a-t-il l'avenir devant lui ?\" - Olivier Dussopt, ministre du Travail, Marylise L\u00e9on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-29T04:43:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0sHtIVXdBcqGhwXHuEI57CyUg_k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3dne59SZrXc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-04T08:57:05Z",
+          "channelId": "UCEjHaXk9dwwvRKM7q0HHd5w",
+          "title": "Quels emplois en 2030 ?",
+          "description": "L'univers des emplois est en plein mouvement, mais pas forc\u00e9ment l\u00e0 o\u00f9 nous pouvons l'imaginer. A l'horizon 2030, quels ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Melchior",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-04T08:57:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ICOIJMByMzU3FHP5rICkyUCXo5s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YvuyvswEJRM"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T09:37:01Z",
+          "channelId": "UCgMQyYW9E720LLWgEWPY1pg",
+          "title": "Pas de reindustrialisation sans formation !",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fabien Gay, Directeur de l'Humanit\u00e9 et S\u00e9nateur",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T09:37:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jY5ZJ-U0OXDWbNl3dGtB6RqKGqU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QbHNjnBSups"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-09T11:43:31Z",
+          "channelId": "UCDAILV-9eaMgsCTRVnRKO2w",
+          "title": "#REAix2023 - AMPHI 01 DIMANCHE 09 MATIN - FR",
+          "description": "Retrouvez ici en direct dimanche 9 juillet 4 conf\u00e9rences des Rencontres \u00c9conomiques d'Aix-en-Provence : 8h30 : G\u00e9ostrat\u00e9gie et ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Les Rencontres \u00e9conomiques d'Aix-en-Provence",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-09T11:43:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DOiKWrh3e4h0F85jT78bxDsVjmw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BPJc8MBntrk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T10:35:41Z",
+          "channelId": "UCAUgpKyceozcNk19UIz7rpg",
+          "title": "Entretien avec Benoit Bazin, Directeur G\u00e9n\u00e9ral de Saint-Gobain",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Saint-Gobain",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T10:35:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Lby1qZRz37PdgAR9VQoFlTXD5gg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7P94-HogJKA"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-24T20:43:19Z",
+          "channelId": "UC9jq6tr49rHZTUK-Jm1hV4w",
+          "title": "Beno\u00eet Bazin (groupe Saint-Gobain) :Un plan marshall de la r\u00e9novation",
+          "description": "Ce mercredi 24 mai, Beno\u00eet Bazin, directeur g\u00e9n\u00e9ral du groupe Saint-Gobain, s'est pench\u00e9 sur le plan marshall de la r\u00e9novation, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Crypto",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-24T20:43:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eYhA7jUt9NYXBUo8i16z_BIKeTY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Kft2_ln9KH8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-11T16:32:29Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "\ud83d\udd34EN DIRECT : Olivier Gantois est l&#39;invit\u00e9 de La Grande Interview",
+          "description": "Olivier Gantois, pr\u00e9sident du l'UFIP \u00c9nergies et Mobilit\u00e9s, est l'invit\u00e9 de La Grande Interview d'Hedwige Chevrillon sur le plateau ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kft2_ln9KH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kft2_ln9KH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kft2_ln9KH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-11T16:32:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8PN2k0Y4YHdNxC531ZRHFk56RDE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FndIoc1yUBE"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-09T10:39:04Z",
+          "channelId": "UCAUgpKyceozcNk19UIz7rpg",
+          "title": "A look back at 12 highlights wich defined Saint-Gobain in 2022 !",
+          "description": "Back to the year full of events which has just been accomplished ! \u25b6\ufe0f Catch up on the Group's highlights in 2022.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Saint-Gobain",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-09T10:39:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "upXMvRFJqMikXm5uEFn1EniNt1Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GVu6u0B6vlU"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-16T12:29:03Z",
+          "channelId": "UCDfc_zPYTJeXGQ_UlBdTSvA",
+          "title": "Taxer les IA et les robots ? (ft Bill Gates \ud83d\ude01) #politique #ia #directAN #nupes #ias",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PunchingPol",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-16T12:29:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S61NXaAXckdgcyxzSBWgTlWjSqY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yt5XPxJXnew"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-19T09:09:27Z",
+          "channelId": "UCN-9RKW_izkIUMH0eQ60H2g",
+          "title": "ICLC 2023 | Aftermovie",
+          "description": "The International Conference on Live Coding (ICLC) is dedicated to practices and research focused on technologies and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "International Conference on Live Coding",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-19T09:09:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PR6jBMd63OJuV5c-0cmLJoUdhu4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "obHolbf9t7U"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-28T12:48:02Z",
+          "channelId": "UCHxWDzGkSoEmFhDaU6nbsCg",
+          "title": "Industrie circulaire vs. d\u00e9chets - Intervention de Gr\u00e9gory Richa aux Journ\u00e9es de l&#39;\u00c9conomie (J\u00e9co)",
+          "description": "Aujourd'hui, il faut r\u00e9orienter le d\u00e9bat. Il faut continuer \u00e0 recycler, il faut continuer d'optimiser, mais il faut ouvrir un \u00e9norme champ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "OPEO - Accompagner les mutations industrielles",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-28T12:48:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HEi7A-p_gN1JRmvykb04Br9QZbk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VqHHnjyhKDM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-17T22:08:39Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "La grande interview : R\u00e9agir face aux \u00c9tats-Unis, le d\u00e9fi de l\u2019Europe",
+          "description": "Ce mardi 17 janvier, Pascal Cagni, pr\u00e9sident de Business France, associ\u00e9 et fondateur de C4 Venture Davos, Suisse, s'est ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-17T22:08:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3p8KSZd81zBtSc3JqJ67kO1MRu0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6OO8JAayP5o"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-28T08:25:45Z",
+          "channelId": "UCJldRgT_D7Am-ErRHQZ90uw",
+          "title": "Beno\u00eet Bazin, directeur g\u00e9n\u00e9ral de Saint-Gobain, invit\u00e9 de On n&#39;arr\u00eate pas l&#39;\u00e9co",
+          "description": "En fin de semaine, Saint-Gobain a pr\u00e9sent\u00e9 des r\u00e9sultats tr\u00e8s solides. Son patron, lui, r\u00e9clame depuis des mois un plan Marshall ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "France Inter",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-28T08:25:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4dz6bMzS0LQWr1kSWi9ZcrexSmY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bGcpbAR303E"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-20T19:03:35Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Bourse: que penser d&#39;Herm\u00e8s, Renault et Ubisoft?",
+          "description": "Amaury de Tonqu\u00e9dec donne la parole \u00e0 Eric Lewin, R\u00e9dacteur en chef des publications Agora pour vous aider \u00e0 d\u00e9crypter au ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-20T19:03:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qnu7RJhwZTPv_ctNqmALn1D--e0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m8Gwi_F-Sg8"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-15T09:01:34Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Nicolas Doze : Le pari de la r\u00e9industrialisation est-il gagn\u00e9 ?",
+          "description": "Ce lundi 15 mai, dans sa chronique La pol\u00e9mique, Nicolas Doze est revenu sur Emmanuel Macron qui est \u00e0 Versailles pour la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-15T09:01:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FpEw9ggP2cwVpGJmHlwhvDVo6s0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OsukE_lhfbk"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-09T08:10:42Z",
+          "channelId": "UCWKiIbShSl3-Bm_TXtBea7w",
+          "title": "Interview de Franck Chemin, CEO, Cyber-way by Cr\u00e9dit Agricole Alpes Provence",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Finance Innovation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-09T08:10:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "up7cTD5l6UUTfsKOI9vEsFJiJLo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qMyAHJebk8E"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-29T12:07:31Z",
+          "channelId": "UCnIWNujSpiiuH29-TBCz9aw",
+          "title": "Les derniers jours de l&#39;industrie fran\u00e7aise ? Avec Lo\u00efk Le Floch-Prigent (ex-GDF &amp; ELF)",
+          "description": "VA + re\u00e7oit cette semaine Lo\u00efk Le Floch-Prigent, ing\u00e9nieur, industriel, et auteur fran\u00e7ais. Discret pendant de nombreuses ann\u00e9es, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "VA Plus",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-29T12:07:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iLnQ1H-CYjdyDTloSD2ZIMOwP-c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9J16LldALrg"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-15T15:23:30Z",
+          "channelId": "UC5WFSncb01pBfKcQw3mfO9A",
+          "title": "Publics, priv\u00e9s : comment am\u00e9nager ensemble le Grand Paris ? | Sommet du Grand Paris 2023",
+          "description": "A quelques mois de la Coupe du monde de rugby et des Jeux olympiques et paralympiques, acteurs politiques, publics et priv\u00e9s, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9J16LldALrg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9J16LldALrg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9J16LldALrg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "La Tribune \u00c9v\u00e9nements",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-15T15:23:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tqMxPoIXXR-L26KNkXmaEMFv9FY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BHbhAEwXnWA"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-20T06:48:47Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Gilles Bonnenfant (Eurogroup Consulting) : La France est-elle encore attractive ?",
+          "description": "Ce lundi 20 f\u00e9vrier, Gilles Bonnenfant, pr\u00e9sident d'Eurogroup Consulting et pr\u00e9sident de la Commission pour l'attractivit\u00e9 de la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-20T06:48:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "y8BJOPzg9kCDZ_xx_JGj8A76GcU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ubtJOkWeqOE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-02T13:58:30Z",
+          "channelId": "UCYFUg910AyviU3kFjiqE_SQ",
+          "title": "Hochleistungsventilatoren f\u00fcr die Industrie",
+          "description": "Einblicke in die BerlinerLuft. Ventilatorenfertigung.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BerlinerLuft. Technik GmbH",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-02T13:58:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "89WlBGnd3eE078D3md7FjA2a844",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vIVBVmeJ2DM"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T04:00:36Z",
+          "channelId": "UCl8sYOIxUDprXrCnbPIQYNQ",
+          "title": "Benoit Bazin, Chief Executive Officer, Saint-Gobain",
+          "description": "Benoit Bazin at Climate Week NYC Opening Ceremony.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Climate Group",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T04:00:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NtViAyqaLaH8u4hXPjXJvfRIB6A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GxE-PBtLZ8w"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-12T09:59:44Z",
+          "channelId": "UCx7bYW1KV80z3XLfzSYcsGA",
+          "title": "GCP PREPRUFE\u00ae SCS Seamless, Hydrophilic Waterproofing system for shotcrete walls",
+          "description": "PREPRUFE\u00ae SCS blindside waterproofing system for shotcrete foundation walls. Learn how the PREPRUFE\u00ae SCS system works ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GCP Applied Technologies",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-12T09:59:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TvYEJJmMIK43snV_7nalIsxbCrc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0Pdw7mE9nlA"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-11T10:50:25Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Quelle est la situation de l&#39;industrie fran\u00e7aise ?",
+          "description": "Ce jeudi 11 mai, David Cousquer, cr\u00e9ateur et g\u00e9rant de Trendeo, Caroline Delloye, directrice g\u00e9n\u00e9rale du groupe Gonzales, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-11T10:50:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oJ_t8MRwaxmhQ11lIHYaUTYGIlw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L4RXc6L8_z8"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T09:14:50Z",
+          "channelId": "UCQd5LYcykaFeZtjDaP3bNSA",
+          "title": "Keynote \u201cInnovation : premier bilan du plan France 2030\u201d - Futurapolis Sant\u00e9 2023",
+          "description": "Multi-entrepreneur de la tech et d\u00e9put\u00e9 macroniste, Bruno Bonnell a succ\u00e9d\u00e9 aux \u00e9narques Louis Gallois et Louis Schweitzer \u00e0 la ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Le Point",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T09:14:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WcahWKyXaX6GzmG9MpvdzzX4JlU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0Tz0I9425hY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-05T14:29:43Z",
+          "channelId": "UCuRCC-yXLlXr4_O2oBUG9lQ",
+          "title": "Vincenzo Vinzi, ESSEC - DG sur \u00c9coute",
+          "description": "Vincenzo Vinzi, ESSEC - DG sur \u00c9coute. Pour ce nouvel \u00e9pisode de DG sur \u00c9coute, la s\u00e9rie d'interviews qui s'int\u00e9resse aux ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thotis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-05T14:29:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TTM5xKX1M_MHTFuExMrPv9F-Z8E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CklR33chbS4"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-12T03:34:44Z",
+          "channelId": "UCPaeEhnVIdn4T01gUphIltw",
+          "title": "Pr\u00e9sentation de la strat\u00e9gie pour acc\u00e9l\u00e9rer notre r\u00e9industrialisation.",
+          "description": "Pour suivre la Pr\u00e9sidence de la R\u00e9publique : Facebook : https://www.facebook.com/elysee.fr Twitter : https://twitter.com/elysee ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "\u00c9lys\u00e9e",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-12T03:34:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fGeEmYkNND52UWYuGsJ-citYONw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j73jkP-3t-0"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-04T08:04:35Z",
+          "channelId": "UClpfQyL4qNSCAIr8NKoPRrA",
+          "title": "Juan Branco aux Mardis de l&#39;ESSEC",
+          "description": "Ce mardi 3 octobre, les Mardis de l'ESSEC re\u00e7oivent Juan Branco, activiste politique et avocat international.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Les Mardis de l'ESSEC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-04T08:04:35Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "0O_Yd3OY0Zd6XhCOkqm_gU0Fyng",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Uc5CEVo8zikLz-cPiDeDfZAIDzs",
+        "id": "SfV2wG3Lw8A",
+        "snippet": {
+          "publishedAt": "2023-02-20T23:55:31Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "La grande interview : Partage de la valeur, bient\u00f4t dans la loi",
+          "description": "Ce lundi 20 f\u00e9vrier, Pierre-Andr\u00e9 de Chalendar, pr\u00e9sident de l'Institut de l'Entreprise et pr\u00e9sident de Saint-Gobain est revenu sur l'accord, en phase de signature, sur le partage de la valeur, dans La grande interview dans l'\u00e9mission Good Evening Business pr\u00e9sent\u00e9e par Hedwige Chevrillon. Good Evening Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SfV2wG3Lw8A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "La grande interview : Partage de la valeur, bient\u00f4t dans la loi",
+            "description": "Ce lundi 20 f\u00e9vrier, Pierre-Andr\u00e9 de Chalendar, pr\u00e9sident de l'Institut de l'Entreprise et pr\u00e9sident de Saint-Gobain est revenu sur l'accord, en phase de signature, sur le partage de la valeur, dans La grande interview dans l'\u00e9mission Good Evening Business pr\u00e9sent\u00e9e par Hedwige Chevrillon. Good Evening Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT24M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "537",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OQhMYaMthK7H-5eMFjUkSXQEUXQ",
+        "id": "GF7dOs0fVYU",
+        "snippet": {
+          "publishedAt": "2023-02-09T12:06:32Z",
+          "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
+          "title": "SMART IMPACT - Emission du jeudi 9 f\u00e9vrier",
+          "description": "Jeudi 9 f\u00e9vrier 2023, SMART IMPACT re\u00e7oit Pierre-Andr\u00e9 de Chalendar (PDG, Saint-Gobain) , Brune Poirson (Directrice du d\u00e9veloppement durable, Groupe Accor) et Louis Sibille (Cofondateur, Nona)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GF7dOs0fVYU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "B SMART",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "SMART IMPACT - Emission du jeudi 9 f\u00e9vrier",
+            "description": "Jeudi 9 f\u00e9vrier 2023, SMART IMPACT re\u00e7oit Pierre-Andr\u00e9 de Chalendar (PDG, Saint-Gobain) , Brune Poirson (Directrice du d\u00e9veloppement durable, Groupe Accor) et Louis Sibille (Cofondateur, Nona)"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT28M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "158",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "97E2yBQA6D1ezjYuj_aNE6dmLWQ",
+        "id": "CBYfKvcg5vk",
+        "snippet": {
+          "publishedAt": "2023-05-09T16:43:38Z",
+          "channelId": "UC5WFSncb01pBfKcQw3mfO9A",
+          "title": "#Partageonsleconomie - RSE, ESG, l'entreprise responsable \u00e0 l'heure des comptes",
+          "description": "Partageons l\u2019Economie, l\u2019\u00e9v\u00e9nement leader de l\u2019entreprise responsable et de la finance d\u2019impact. \nAu menu, trois lettres, ESG, pour Environnement, Soci\u00e9t\u00e9, Gouvernance et RSE, pour Responsabilit\u00e9 soci\u00e9tale et environnementale, qui guident d\u00e9sormais la strat\u00e9gie des entreprises mais aussi l\u2019investissement de l\u2019\u00e9pargne. \n\nD\u00e9couvrez la s\u00e9quence, \"RSE, ESG : l'entreprise responsable \u00e0 l'heure des comptes\", avec :\n- Pierre-Andr\u00e9 de CHALENDAR, Pr\u00e9sident de Saint-Gobain & Pr\u00e9sident de l'Institut de l'Entreprise\n- C\u00e9cile CABANIS, Directrice g\u00e9n\u00e9rale adjointe de Tikehau Capital\n- Antoine SIRE, Responsable de l'Engagement d'entreprise & membre du Comit\u00e9 Ex\u00e9cutif de BNP Paribas\n\nAnimation : Philippe Mabille, Directeur de la r\u00e9daction de la Tribune",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CBYfKvcg5vk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "La Tribune \u00c9v\u00e9nements",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "#Partageonsleconomie - RSE, ESG, l'entreprise responsable \u00e0 l'heure des comptes",
+            "description": "Partageons l\u2019Economie, l\u2019\u00e9v\u00e9nement leader de l\u2019entreprise responsable et de la finance d\u2019impact. \nAu menu, trois lettres, ESG, pour Environnement, Soci\u00e9t\u00e9, Gouvernance et RSE, pour Responsabilit\u00e9 soci\u00e9tale et environnementale, qui guident d\u00e9sormais la strat\u00e9gie des entreprises mais aussi l\u2019investissement de l\u2019\u00e9pargne. \n\nD\u00e9couvrez la s\u00e9quence, \"RSE, ESG : l'entreprise responsable \u00e0 l'heure des comptes\", avec :\n- Pierre-Andr\u00e9 de CHALENDAR, Pr\u00e9sident de Saint-Gobain & Pr\u00e9sident de l'Institut de l'Entreprise\n- C\u00e9cile CABANIS, Directrice g\u00e9n\u00e9rale adjointe de Tikehau Capital\n- Antoine SIRE, Responsable de l'Engagement d'entreprise & membre du Comit\u00e9 Ex\u00e9cutif de BNP Paribas\n\nAnimation : Philippe Mabille, Directeur de la r\u00e9daction de la Tribune"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT28M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "564",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0TSMUaOHRwtXFv18pedU6g7g7ME",
+        "id": "vQroOPuJKcc",
+        "snippet": {
+          "publishedAt": "2023-08-29T04:43:23Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "REF 2023: \"M\u00e9tro, boulot, ma non troppo ! Le travail a-t-il l'avenir devant lui ?\" - Suivez le live",
+          "description": "REF 2023: \"M\u00e9tro, boulot, ma non troppo ! Le travail a-t-il l'avenir devant lui ?\" - Olivier Dussopt, ministre du Travail, Marylise L\u00e9on, secr\u00e9taire g\u00e9n\u00e9rale de la CFDT ou encore Pierre-Andr\u00e9 Chalendar d\u00e9battent de la place du travail en cette rentr\u00e9e 2023 - Suivez le live",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vQroOPuJKcc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "REF 2023: \"M\u00e9tro, boulot, ma non troppo ! Le travail a-t-il l'avenir devant lui ?\" - Suivez le live",
+            "description": "REF 2023: \"M\u00e9tro, boulot, ma non troppo ! Le travail a-t-il l'avenir devant lui ?\" - Olivier Dussopt, ministre du Travail, Marylise L\u00e9on, secr\u00e9taire g\u00e9n\u00e9rale de la CFDT ou encore Pierre-Andr\u00e9 Chalendar d\u00e9battent de la place du travail en cette rentr\u00e9e 2023 - Suivez le live"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT47M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1049",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jSl7DL7s5K-YOf8Lz4ZzAOl9vkc",
+        "id": "3dne59SZrXc",
+        "snippet": {
+          "publishedAt": "2023-09-04T08:57:05Z",
+          "channelId": "UCEjHaXk9dwwvRKM7q0HHd5w",
+          "title": "Quels emplois en 2030 ?",
+          "description": "\ud83d\udc49 L\u2019univers des emplois est en plein mouvement, mais pas forc\u00e9ment l\u00e0 o\u00f9 nous pouvons l\u2019imaginer. A l\u2019horizon 2030, quels m\u00e9tiers connaitront une croissance de l\u2019emploi ? Sont-ce les m\u00eames m\u00e9tiers qui recruteront le plus ? Comment appr\u00e9hender l\u2019\u00e9volution des m\u00e9tiers li\u00e9s au num\u00e9rique ? Pourquoi ces \u00e9volutions peuvent-elles susciter des angoisses aupr\u00e8s des actifs ?\n.\n.\nVid\u00e9o issue des ENTRETIENS DE L'ORIENTATION 2023 propos\u00e9s par MELCHIOR : Extrait de la conf\u00e9rence - Quels m\u00e9tiers et quelles comp\u00e9tences pour r\u00e9pondre aux transformations \u00e9cologiques, \u00e9conomiques et num\u00e9riques ?\n\nAvec : \n\ud83d\udfe0 Pierre-Andr\u00e9 de Chalendar, Pr\u00e9sident de l'Institut de l'Entreprise, Pr\u00e9sident de Saint-Gobain\n\ud83d\udfe1 Gilles de Margerie, Commissaire g\u00e9n\u00e9ral de France Strat\u00e9gie\n\ud83d\udfe2 Estelle Sauvat, Directrice g\u00e9n\u00e9rale du Groupe Alpha\n\ud83d\udfe3 Christophe Lavialle, Repr\u00e9sentant du DGESCO, Doyen du groupe Sciences \u00e9conomiques et sociales\n\ud83c\udfa4 Jean-Marc Vittori, Editorialiste, Les Echos\n\nPlus d'informations : https://www.melchior.fr/elo/les-entre... \n\n\ud83d\udcbc https://www.linkedin.com/company/prog... \n\ud83c\udf0d https://www.facebook.com/www.melchior... \n\ud83d\udcf7 https://www.instagram.com/melchior.fr_/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3dne59SZrXc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Melchior",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Quels emplois en 2030 ?",
+            "description": "\ud83d\udc49 L\u2019univers des emplois est en plein mouvement, mais pas forc\u00e9ment l\u00e0 o\u00f9 nous pouvons l\u2019imaginer. A l\u2019horizon 2030, quels m\u00e9tiers connaitront une croissance de l\u2019emploi ? Sont-ce les m\u00eames m\u00e9tiers qui recruteront le plus ? Comment appr\u00e9hender l\u2019\u00e9volution des m\u00e9tiers li\u00e9s au num\u00e9rique ? Pourquoi ces \u00e9volutions peuvent-elles susciter des angoisses aupr\u00e8s des actifs ?\n.\n.\nVid\u00e9o issue des ENTRETIENS DE L'ORIENTATION 2023 propos\u00e9s par MELCHIOR : Extrait de la conf\u00e9rence - Quels m\u00e9tiers et quelles comp\u00e9tences pour r\u00e9pondre aux transformations \u00e9cologiques, \u00e9conomiques et num\u00e9riques ?\n\nAvec : \n\ud83d\udfe0 Pierre-Andr\u00e9 de Chalendar, Pr\u00e9sident de l'Institut de l'Entreprise, Pr\u00e9sident de Saint-Gobain\n\ud83d\udfe1 Gilles de Margerie, Commissaire g\u00e9n\u00e9ral de France Strat\u00e9gie\n\ud83d\udfe2 Estelle Sauvat, Directrice g\u00e9n\u00e9rale du Groupe Alpha\n\ud83d\udfe3 Christophe Lavialle, Repr\u00e9sentant du DGESCO, Doyen du groupe Sciences \u00e9conomiques et sociales\n\ud83c\udfa4 Jean-Marc Vittori, Editorialiste, Les Echos\n\nPlus d'informations : https://www.melchior.fr/elo/les-entre... \n\n\ud83d\udcbc https://www.linkedin.com/company/prog... \n\ud83c\udf0d https://www.facebook.com/www.melchior... \n\ud83d\udcf7 https://www.instagram.com/melchior.fr_/"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT6M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "99",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wqtbW-_D8-j441usTVlYE4ulXJg",
+        "id": "YvuyvswEJRM",
+        "snippet": {
+          "publishedAt": "2023-06-23T09:37:01Z",
+          "channelId": "UCgMQyYW9E720LLWgEWPY1pg",
+          "title": "Pas de reindustrialisation sans formation !",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YvuyvswEJRM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fabien Gay, Directeur de l'Humanit\u00e9 et S\u00e9nateur",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Pas de reindustrialisation sans formation !",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3945",
+          "likeCount": "628",
+          "favoriteCount": "0",
+          "commentCount": "23"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WHyLEYfK60ESpZfrbHnMu449SVY",
+        "id": "QbHNjnBSups",
+        "snippet": {
+          "publishedAt": "2023-07-09T11:43:31Z",
+          "channelId": "UCDAILV-9eaMgsCTRVnRKO2w",
+          "title": "#REAix2023 - AMPHI 01 DIMANCHE 09 MATIN - FR",
+          "description": "Retrouvez ici en direct dimanche 9 juillet 4 conf\u00e9rences des Rencontres \u00c9conomiques d'Aix-en-Provence :\n\n8h30 : G\u00e9ostrat\u00e9gie et commerce mondial : un couple en crise\nAssiste-t-on \u00e0 une \u00ab d\u00e9mondialisation \u00bb et comment ? Va-t-on vers un monde \u00ab plurilat\u00e9ral \u00bb o\u00f9 les int\u00e9r\u00eats nationaux gouvernent les relations internationales et r\u00e9seaux d\u2019alliances d\u2019opportunit\u00e9 ? Quel r\u00f4le pour les organisations multilat\u00e9rales ? \nAvec :\n\u2022 Sylvie BERMANN, Ambassadrice de France\n\u2022 Mingpo CAI, Cathay Capital\n\u2022 Beno\u00eet CHASSEGUET, Chubb\n\u2022 Pierre-Olivier GOURINCHAS, FMI\n\u2022 Saori KATADA, University of Southern California\n\n9h30 : Europe, l\u2019Union fait la force\nFace \u00e0 la crise sanitaire, puis \u00e0 la guerre en Ukraine men\u00e9e par la Russie, l\u2019Europe a \u00e9t\u00e9 confront\u00e9e \u00e0 de nombreux d\u00e9fis, dont la d\u00e9pendance \u00e9nerg\u00e9tique \u00e0 la Russie et la d\u00e9stabilisation des march\u00e9s agricoles mondiaux sur fond de r\u00e9surgence de l\u2019inflation.\nAvec :\n\u2022 Tiago ANTUNES, Minist\u00e8re des affaires europ\u00e9ennes, Portugal\n\u2022 Pierre-Andr\u00e9 DE CHALENDAR, Saint-Gobain\n\u2022 Maarja KRUUSMAA, Commission europ\u00e9enne\n\u2022 Pierre LEVY, Ambassadeur de France en Russie\n\u2022 Adam TOOZE, Universit\u00e9 de Colombia\n\n10h30 : Session sp\u00e9ciale\nFaut-il \u00eatre ours ou taureau, haussier ou baissier, malthusien ou schumpet\u00e9rien ?\nAvec :\n\u2022 Elisabeth BORNE, R\u00e9publique fran\u00e7aise\n\u2022 Antoine JOCHYMS, Open Politics\n\u2022 Jasmine MANET, Youth Forever\n\u2022 Claire P\u00c9TREAULT, Les Pepites Vertes\n\u2022 Axel SENGENES-CROS, Croix-Rouge\n\n11h15 : Assurer la s\u00e9curit\u00e9 alimentaire\nFace \u00e0 l\u2019inflation et la guerre, les prix alimentaires ont fortement augment\u00e9 et l\u2019on commence tout juste \u00e0 retrouver un semblant de stabilit\u00e9\u2026 Comment faire pour assurer la s\u00e9curit\u00e9 alimentaire dans ces conditions ?\nAvec :\n\u2022 Michel BARNIER, Commission europ\u00e9enne\n\u2022 Thierry BLANDINI\u00c8RES, INVIVO\n\u2022 Katherine MEIGHAN, FIDA\n\u2022 Amadou SECK, EUROGERM S\u00e9n\u00e9gal\n\u2022 Alain TCHIBOZO, Banque Ouest Africaine de D\u00e9veloppement\n\n12h15 : Paroles d\u2019espoirs\nC\u2019est seulement si nous nous emparons de la transition climatique et plus largement de la transition \u00e9cologique que celles-ci peuvent r\u00e9ussir. Le succ\u00e8s est l\u2019affaire de tous les acteurs. L\u2019orchestration de leurs efforts est un d\u00e9fi d\u2019une ampleur sans pr\u00e9c\u00e9dent. \nAvec :\n\u2022 Fathi BENJILALI, Champion du monde breakdance\n\u2022 Ava DJAMSHIDI, ELLE\n\u2022 Victor STORCHAN, Mozilla\n\u2022 Melati WIJSEN, Bye Bye Plastic Bags & YOUTHTOPIA\n\n12h15 : Paroles d\u2019espoirs\nC\u2019est seulement si nous nous emparons de la transition climatique et plus largement de la transition \u00e9cologique que celles-ci peuvent r\u00e9ussir. Le succ\u00e8s est l\u2019affaire de tous les acteurs. L\u2019orchestration de leurs efforts est un d\u00e9fi d\u2019une ampleur sans pr\u00e9c\u00e9dent. \nAvec :\n\u2022 Fathi BENJILALI, Champion du monde breakdance\n\u2022 Ava DJAMSHIDI, ELLE\n\u2022 Victor STORCHAN, Mozilla\n\n12h15 : Conclusion des Rencontres Economiques d\u2019Aix-en-Provence\nC\u2019est seulement si nous nous emparons de la transition climatique et plus largement de la transition \u00e9cologique que celles-ci peuvent r\u00e9ussir. Le succ\u00e8s est l\u2019affaire de tous les acteurs. L\u2019orchestration de leurs efforts est un d\u00e9fi d\u2019une ampleur sans pr\u00e9c\u00e9dent. \nAvec :\n\u2022 Fran\u00e7oise BENHAMOU, Le Cercle des \u00e9conomistes\n\u2022 Jean-Herv\u00e9 LORENZI, Les Rencontres \u00c9conomiques\n\u2022 Renaud MUSELIER, Conseil R\u00e9gional SUD\n\nRendez-vous sur le site de l\u2019\u00e9v\u00e9nement pour d\u00e9couvrir le programme complet et voir tous les directs : https://www.lesrencontreseconomiques.fr/programme/\nInscrivez-vous gratuitement pour vivre l\u2019exp\u00e9rience sur place ou en ligne : https://www.lesrencontreseconomiques.fr/inscription/\n\nSuivez-nous sur nos autres r\u00e9seaux sociaux :\nTWITTER : https://twitter.com/Cercle_eco\nINSTAGRAM : https://www.instagram.com/cercle_eco/\nLINKEDIN : https://www.linkedin.com/company/cercle-des-%C3%A9conomistes/\nTIKTOK : https://www.tiktok.com/@cercle_eco\n\n#REAIX",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QbHNjnBSups/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Les Rencontres \u00e9conomiques d'Aix-en-Provence",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "#REAix2023 - AMPHI 01 DIMANCHE 09 MATIN - FR",
+            "description": "Retrouvez ici en direct dimanche 9 juillet 4 conf\u00e9rences des Rencontres \u00c9conomiques d'Aix-en-Provence :\n\n8h30 : G\u00e9ostrat\u00e9gie et commerce mondial : un couple en crise\nAssiste-t-on \u00e0 une \u00ab d\u00e9mondialisation \u00bb et comment ? Va-t-on vers un monde \u00ab plurilat\u00e9ral \u00bb o\u00f9 les int\u00e9r\u00eats nationaux gouvernent les relations internationales et r\u00e9seaux d\u2019alliances d\u2019opportunit\u00e9 ? Quel r\u00f4le pour les organisations multilat\u00e9rales ? \nAvec :\n\u2022 Sylvie BERMANN, Ambassadrice de France\n\u2022 Mingpo CAI, Cathay Capital\n\u2022 Beno\u00eet CHASSEGUET, Chubb\n\u2022 Pierre-Olivier GOURINCHAS, FMI\n\u2022 Saori KATADA, University of Southern California\n\n9h30 : Europe, l\u2019Union fait la force\nFace \u00e0 la crise sanitaire, puis \u00e0 la guerre en Ukraine men\u00e9e par la Russie, l\u2019Europe a \u00e9t\u00e9 confront\u00e9e \u00e0 de nombreux d\u00e9fis, dont la d\u00e9pendance \u00e9nerg\u00e9tique \u00e0 la Russie et la d\u00e9stabilisation des march\u00e9s agricoles mondiaux sur fond de r\u00e9surgence de l\u2019inflation.\nAvec :\n\u2022 Tiago ANTUNES, Minist\u00e8re des affaires europ\u00e9ennes, Portugal\n\u2022 Pierre-Andr\u00e9 DE CHALENDAR, Saint-Gobain\n\u2022 Maarja KRUUSMAA, Commission europ\u00e9enne\n\u2022 Pierre LEVY, Ambassadeur de France en Russie\n\u2022 Adam TOOZE, Universit\u00e9 de Colombia\n\n10h30 : Session sp\u00e9ciale\nFaut-il \u00eatre ours ou taureau, haussier ou baissier, malthusien ou schumpet\u00e9rien ?\nAvec :\n\u2022 Elisabeth BORNE, R\u00e9publique fran\u00e7aise\n\u2022 Antoine JOCHYMS, Open Politics\n\u2022 Jasmine MANET, Youth Forever\n\u2022 Claire P\u00c9TREAULT, Les Pepites Vertes\n\u2022 Axel SENGENES-CROS, Croix-Rouge\n\n11h15 : Assurer la s\u00e9curit\u00e9 alimentaire\nFace \u00e0 l\u2019inflation et la guerre, les prix alimentaires ont fortement augment\u00e9 et l\u2019on commence tout juste \u00e0 retrouver un semblant de stabilit\u00e9\u2026 Comment faire pour assurer la s\u00e9curit\u00e9 alimentaire dans ces conditions ?\nAvec :\n\u2022 Michel BARNIER, Commission europ\u00e9enne\n\u2022 Thierry BLANDINI\u00c8RES, INVIVO\n\u2022 Katherine MEIGHAN, FIDA\n\u2022 Amadou SECK, EUROGERM S\u00e9n\u00e9gal\n\u2022 Alain TCHIBOZO, Banque Ouest Africaine de D\u00e9veloppement\n\n12h15 : Paroles d\u2019espoirs\nC\u2019est seulement si nous nous emparons de la transition climatique et plus largement de la transition \u00e9cologique que celles-ci peuvent r\u00e9ussir. Le succ\u00e8s est l\u2019affaire de tous les acteurs. L\u2019orchestration de leurs efforts est un d\u00e9fi d\u2019une ampleur sans pr\u00e9c\u00e9dent. \nAvec :\n\u2022 Fathi BENJILALI, Champion du monde breakdance\n\u2022 Ava DJAMSHIDI, ELLE\n\u2022 Victor STORCHAN, Mozilla\n\u2022 Melati WIJSEN, Bye Bye Plastic Bags & YOUTHTOPIA\n\n12h15 : Paroles d\u2019espoirs\nC\u2019est seulement si nous nous emparons de la transition climatique et plus largement de la transition \u00e9cologique que celles-ci peuvent r\u00e9ussir. Le succ\u00e8s est l\u2019affaire de tous les acteurs. L\u2019orchestration de leurs efforts est un d\u00e9fi d\u2019une ampleur sans pr\u00e9c\u00e9dent. \nAvec :\n\u2022 Fathi BENJILALI, Champion du monde breakdance\n\u2022 Ava DJAMSHIDI, ELLE\n\u2022 Victor STORCHAN, Mozilla\n\n12h15 : Conclusion des Rencontres Economiques d\u2019Aix-en-Provence\nC\u2019est seulement si nous nous emparons de la transition climatique et plus largement de la transition \u00e9cologique que celles-ci peuvent r\u00e9ussir. Le succ\u00e8s est l\u2019affaire de tous les acteurs. L\u2019orchestration de leurs efforts est un d\u00e9fi d\u2019une ampleur sans pr\u00e9c\u00e9dent. \nAvec :\n\u2022 Fran\u00e7oise BENHAMOU, Le Cercle des \u00e9conomistes\n\u2022 Jean-Herv\u00e9 LORENZI, Les Rencontres \u00c9conomiques\n\u2022 Renaud MUSELIER, Conseil R\u00e9gional SUD\n\nRendez-vous sur le site de l\u2019\u00e9v\u00e9nement pour d\u00e9couvrir le programme complet et voir tous les directs : https://www.lesrencontreseconomiques.fr/programme/\nInscrivez-vous gratuitement pour vivre l\u2019exp\u00e9rience sur place ou en ligne : https://www.lesrencontreseconomiques.fr/inscription/\n\nSuivez-nous sur nos autres r\u00e9seaux sociaux :\nTWITTER : https://twitter.com/Cercle_eco\nINSTAGRAM : https://www.instagram.com/cercle_eco/\nLINKEDIN : https://www.linkedin.com/company/cercle-des-%C3%A9conomistes/\nTIKTOK : https://www.tiktok.com/@cercle_eco\n\n#REAIX"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT5H7M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1093",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UzlbdOMu1Py6pxF0LIzh91ak9Mo",
+        "id": "BPJc8MBntrk",
+        "snippet": {
+          "publishedAt": "2023-07-13T10:35:41Z",
+          "channelId": "UCAUgpKyceozcNk19UIz7rpg",
+          "title": "Entretien avec Benoit Bazin, Directeur G\u00e9n\u00e9ral de Saint-Gobain",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BPJc8MBntrk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Saint-Gobain",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Entretien avec Benoit Bazin, Directeur G\u00e9n\u00e9ral de Saint-Gobain",
+            "description": ""
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "460",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mZMwxRXDQRZnPNBvS8809fIcfps",
+        "id": "7P94-HogJKA",
+        "snippet": {
+          "publishedAt": "2023-05-24T20:43:19Z",
+          "channelId": "UC9jq6tr49rHZTUK-Jm1hV4w",
+          "title": "Beno\u00eet Bazin (groupe Saint-Gobain) :Un plan marshall de la r\u00e9novation",
+          "description": "Ce mercredi 24 mai, Beno\u00eet Bazin, directeur g\u00e9n\u00e9ral du groupe Saint-Gobain, s'est pench\u00e9 sur le plan marshall de la r\u00e9novation, sur la prise de conscience sur le climat, les passoires \u00e9nerg\u00e9tiques, et sur d\u2019autres sujets d\u2019actualit\u00e9 autour du b\u00e2timent, dans La grande interview dans l'\u00e9mission Good Evening Business pr\u00e9sent\u00e9e par Hedwige Chevrillon. Good Evening Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7P94-HogJKA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Crypto",
+          "tags": [
+            "AudreyTcherkoff",
+            "BenoitBazin",
+            "GuillaumePaul",
+            "HedwigeChevrillon",
+            "batiment",
+            "bfmbusiness",
+            "business",
+            "economie",
+            "finance",
+            "goodeveningbusiness",
+            "groupesaintgobain",
+            "lagrandeinterview",
+            "renovation"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Beno\u00eet Bazin (groupe Saint-Gobain) :Un plan marshall de la r\u00e9novation",
+            "description": "Ce mercredi 24 mai, Beno\u00eet Bazin, directeur g\u00e9n\u00e9ral du groupe Saint-Gobain, s'est pench\u00e9 sur le plan marshall de la r\u00e9novation, sur la prise de conscience sur le climat, les passoires \u00e9nerg\u00e9tiques, et sur d\u2019autres sujets d\u2019actualit\u00e9 autour du b\u00e2timent, dans La grande interview dans l'\u00e9mission Good Evening Business pr\u00e9sent\u00e9e par Hedwige Chevrillon. Good Evening Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT24M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "860",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LqZOEA0ADUB6LpXv5MZBjJV1mAw",
+        "id": "Kft2_ln9KH8",
+        "snippet": {
+          "publishedAt": "2023-09-11T16:32:29Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "\ud83d\udd34EN DIRECT : Olivier Gantois est l'invit\u00e9 de La Grande Interview",
+          "description": "Olivier Gantois, pr\u00e9sident du l'UFIP \u00c9nergies et Mobilit\u00e9s, est l'invit\u00e9 de La Grande Interview d'Hedwige Chevrillon sur le plateau de Good Evening Business.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kft2_ln9KH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kft2_ln9KH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kft2_ln9KH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Mobilit\u00e9s",
+            "\u00c9conomie",
+            "\u00c9nergies"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "\ud83d\udd34EN DIRECT : Olivier Gantois est l'invit\u00e9 de La Grande Interview",
+            "description": "Olivier Gantois, pr\u00e9sident du l'UFIP \u00c9nergies et Mobilit\u00e9s, est l'invit\u00e9 de La Grande Interview d'Hedwige Chevrillon sur le plateau de Good Evening Business."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT15M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "369",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DuZvmfppQFL1ty2cxBOMqfLA5oo",
+        "id": "FndIoc1yUBE",
+        "snippet": {
+          "publishedAt": "2023-01-09T10:39:04Z",
+          "channelId": "UCAUgpKyceozcNk19UIz7rpg",
+          "title": "A look back at 12 highlights wich defined Saint-Gobain in 2022 !",
+          "description": "\ud83c\udf8a Back to the year full of events which has just been accomplished !\n\u25b6\ufe0f Catch up on the Group's highlights in 2022.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FndIoc1yUBE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Saint-Gobain",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "A look back at 12 highlights wich defined Saint-Gobain in 2022 !",
+            "description": "\ud83c\udf8a Back to the year full of events which has just been accomplished !\n\u25b6\ufe0f Catch up on the Group's highlights in 2022."
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "423",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vDR6YwEFMuLO9rEolA81oTyGVoQ",
+        "id": "GVu6u0B6vlU",
+        "snippet": {
+          "publishedAt": "2023-02-16T12:29:03Z",
+          "channelId": "UCDfc_zPYTJeXGQ_UlBdTSvA",
+          "title": "Taxer les IA et les robots ? (ft Bill Gates \ud83d\ude01) #politique #ia #directAN #nupes #ias",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GVu6u0B6vlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PunchingPol",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Taxer les IA et les robots ? (ft Bill Gates \ud83d\ude01) #politique #ia #directAN #nupes #ias",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14774",
+          "likeCount": "780",
+          "favoriteCount": "0",
+          "commentCount": "23"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_51da-V856RgRymHr2_36KQfCcg",
+        "id": "yt5XPxJXnew",
+        "snippet": {
+          "publishedAt": "2023-05-19T09:09:27Z",
+          "channelId": "UCN-9RKW_izkIUMH0eQ60H2g",
+          "title": "ICLC 2023 | Aftermovie",
+          "description": "The International Conference on Live Coding (ICLC) is dedicated to practices and research focused on technologies and philosophies that interpret the use of computer code as gesture within the context of live performances. In its previous editions the community has offered important insights on this practice from many diverse perspectives \u2013 technical, philosophical, educational, political and more.\n\nhttps://iclc.toplap.org/2023/\n\nContributors Overview (more info in the catalogue https://iclc.toplap.org/2023/catalogue/)\nAbreu, Iv\u00e1n     Alexandros, Drymonitis     Alonen, Miika     Alonso, Florencia (Flor de Fuego)     Amaya Gonzalez, Juan Felipe     Ancona, Riccardo     Andrade, Rafaele     Armitage, Jack     Baalman, Marije     Bahng, Sojung (\ubc29\uc18c\uc815)     Bautista Rodr\u00edguez, Lina     Beckmann, Tom     Borgeat, Patrick     Bouchard, Sara     Briede, Ilze (Kavi)     Candra Rini, Peni     Carl\u00e9, Martin     Casamaj\u00f3, Ramon (QBRNTHSS)     Casilli, Kirby     Champlin, Alicia     Cheesman, Lucy     Chicau, Joana     Claes, Andrew     Clester, Ian     Copper, Monique     Corfiel, Miki     Cort\u00e9s, Malitzin (CNDSD)     Corvi, Francesco     Cullis, Amy     Davis, Ted     Diapoulis, Georgios     Fiebrink, Rebecca     Folz, Rodney (haute.rod)     Forment, Rapha\u00ebl Maurice (Bubobubo)     Francavilla, Giulia (Giulia Rae)     Franco Briones, Alejandro     Fraser, Glen     Freeke, Saskia     Freeman, Jason     Frelih, Luka     Ganz, Axel (Grimberg)     Garson, Jessica (Messica Arson)     Geier, Leonard     Genissel, Agata     Georges, R\u00e9mi (Ralt144MI)     Giannoutakis, Kosmas     Gola, Bruno     Gordon, Marcus (magfoto)     Gorelick, Dan (dan.dog)     Groff Hennigh-Palermo, Sarah     Gunnarsson, Bjarni     Hanson, Don (d0n.xyz)     Harris, Roxanne (alsoknownasrox)     Hern\u00e1ndez S\u00e1nchez, Citlali (turbulente)     Hirschfeld, Robert     Hofmann, Yannick     Hoogland, Timo     Hurst, Amy     H\u00f6pfner, Daniel     Imrisek, Sarah (@cymatiste)     Isern Rabella, Eloi (Eloi el Bon Noi)     J. Juarez, Aaron     Jack, Olivia     Jaudzems, Kaspars     John, Guy     Jordaens, Kasper     J\u00f3nsson, Bj\u00f6rn \u00de\u00f3r     Kaney, Matthew     Kiefer, Chris     Knotts, Shelly     Kyriakoudis, Dimitris     Lawson, Shawn (Obi-Wan Codenobi)     Li, Song (\u674e\u677e)     Liu, Jia (\u5218\u4f73)     Lorway, Norah     Loveless, Melody     L\u00f3pez Pineda, Iv\u00e1n     M. Martins, Fellipe     Maheras, Hrysovalanti (hryso)     Marie, Mynah     Marques Da Costa, Joenio     McLaughlin, Tyler (R Tyler)     McLean, Alex     Methfessel, Paul     Michelin, Ludovica     Montague, Jude     Mori, Giovanni     Moura, Mari     M\u00fagica, Julia     N. Del Angel, Luis     Nilson, Click     Noriega Alcaraz, Felipe Ignacio     Nulli, Giovanni     Oduro, Kofi (illestpreacha)     Padovani, Jos\u00e9 Henrique     Pappalardo, Sebastian (eerie_ear)     Pavlica, Bla\u017e     Payne, William Christopher     Paz, Iv\u00e1n     Pibernat Trias, Roger     Popple, Ulysses     Powley, Edward     Purnama Aji, Rangga     Reppel, Niklas     Reus, Jonathan     Rinkoff, William (c_robo_)     Roberts, Antonio     Rohrhuber, Julian     Roos, Felix     Saladino, Iris     Samarotto, Michele     Sarratea, Sol (@alsolquema)     Satomi, Mika     Schreiber, Jakob     Schubert, Deva     Sewell, Sen     Shimizu, Junichi     Sicchio, Kate     Smith, Ryan Ross (The Wookie)     Sondervan, Dagobert     Sousa Santos, Raphael (sonologico)     Srinivasan, Sumanth     Strohschein, Heather     Sutherland, Matilda     S\u00e1nchez Medina, Alejandro     Tan, Shuoxin (\u8c2d\u7855\u6b23)     Torres N\u00fa\u00f1ez del Prado, Paola     van de Zandschulp, Klasien     van der Walt, J. Simon     van Sluijs, Fabian     Vasilakos, Konstantinos     Verhage, Sabrina     Villase\u00f1or de Cortina, Diego (Videco)     Weber, Anselm     Whitmer, Bill     Wieser, Renate     Wilson, Arthur     Wilson, Elizabeth     Xamb\u00f3, Anna\n\nVideo by Videohippies and Tanja Busking",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yt5XPxJXnew/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "International Conference on Live Coding",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ICLC 2023 | Aftermovie",
+            "description": "The International Conference on Live Coding (ICLC) is dedicated to practices and research focused on technologies and philosophies that interpret the use of computer code as gesture within the context of live performances. In its previous editions the community has offered important insights on this practice from many diverse perspectives \u2013 technical, philosophical, educational, political and more.\n\nhttps://iclc.toplap.org/2023/\n\nContributors Overview (more info in the catalogue https://iclc.toplap.org/2023/catalogue/)\nAbreu, Iv\u00e1n     Alexandros, Drymonitis     Alonen, Miika     Alonso, Florencia (Flor de Fuego)     Amaya Gonzalez, Juan Felipe     Ancona, Riccardo     Andrade, Rafaele     Armitage, Jack     Baalman, Marije     Bahng, Sojung (\ubc29\uc18c\uc815)     Bautista Rodr\u00edguez, Lina     Beckmann, Tom     Borgeat, Patrick     Bouchard, Sara     Briede, Ilze (Kavi)     Candra Rini, Peni     Carl\u00e9, Martin     Casamaj\u00f3, Ramon (QBRNTHSS)     Casilli, Kirby     Champlin, Alicia     Cheesman, Lucy     Chicau, Joana     Claes, Andrew     Clester, Ian     Copper, Monique     Corfiel, Miki     Cort\u00e9s, Malitzin (CNDSD)     Corvi, Francesco     Cullis, Amy     Davis, Ted     Diapoulis, Georgios     Fiebrink, Rebecca     Folz, Rodney (haute.rod)     Forment, Rapha\u00ebl Maurice (Bubobubo)     Francavilla, Giulia (Giulia Rae)     Franco Briones, Alejandro     Fraser, Glen     Freeke, Saskia     Freeman, Jason     Frelih, Luka     Ganz, Axel (Grimberg)     Garson, Jessica (Messica Arson)     Geier, Leonard     Genissel, Agata     Georges, R\u00e9mi (Ralt144MI)     Giannoutakis, Kosmas     Gola, Bruno     Gordon, Marcus (magfoto)     Gorelick, Dan (dan.dog)     Groff Hennigh-Palermo, Sarah     Gunnarsson, Bjarni     Hanson, Don (d0n.xyz)     Harris, Roxanne (alsoknownasrox)     Hern\u00e1ndez S\u00e1nchez, Citlali (turbulente)     Hirschfeld, Robert     Hofmann, Yannick     Hoogland, Timo     Hurst, Amy     H\u00f6pfner, Daniel     Imrisek, Sarah (@cymatiste)     Isern Rabella, Eloi (Eloi el Bon Noi)     J. Juarez, Aaron     Jack, Olivia     Jaudzems, Kaspars     John, Guy     Jordaens, Kasper     J\u00f3nsson, Bj\u00f6rn \u00de\u00f3r     Kaney, Matthew     Kiefer, Chris     Knotts, Shelly     Kyriakoudis, Dimitris     Lawson, Shawn (Obi-Wan Codenobi)     Li, Song (\u674e\u677e)     Liu, Jia (\u5218\u4f73)     Lorway, Norah     Loveless, Melody     L\u00f3pez Pineda, Iv\u00e1n     M. Martins, Fellipe     Maheras, Hrysovalanti (hryso)     Marie, Mynah     Marques Da Costa, Joenio     McLaughlin, Tyler (R Tyler)     McLean, Alex     Methfessel, Paul     Michelin, Ludovica     Montague, Jude     Mori, Giovanni     Moura, Mari     M\u00fagica, Julia     N. Del Angel, Luis     Nilson, Click     Noriega Alcaraz, Felipe Ignacio     Nulli, Giovanni     Oduro, Kofi (illestpreacha)     Padovani, Jos\u00e9 Henrique     Pappalardo, Sebastian (eerie_ear)     Pavlica, Bla\u017e     Payne, William Christopher     Paz, Iv\u00e1n     Pibernat Trias, Roger     Popple, Ulysses     Powley, Edward     Purnama Aji, Rangga     Reppel, Niklas     Reus, Jonathan     Rinkoff, William (c_robo_)     Roberts, Antonio     Rohrhuber, Julian     Roos, Felix     Saladino, Iris     Samarotto, Michele     Sarratea, Sol (@alsolquema)     Satomi, Mika     Schreiber, Jakob     Schubert, Deva     Sewell, Sen     Shimizu, Junichi     Sicchio, Kate     Smith, Ryan Ross (The Wookie)     Sondervan, Dagobert     Sousa Santos, Raphael (sonologico)     Srinivasan, Sumanth     Strohschein, Heather     Sutherland, Matilda     S\u00e1nchez Medina, Alejandro     Tan, Shuoxin (\u8c2d\u7855\u6b23)     Torres N\u00fa\u00f1ez del Prado, Paola     van de Zandschulp, Klasien     van der Walt, J. Simon     van Sluijs, Fabian     Vasilakos, Konstantinos     Verhage, Sabrina     Villase\u00f1or de Cortina, Diego (Videco)     Weber, Anselm     Whitmer, Bill     Wieser, Renate     Wilson, Arthur     Wilson, Elizabeth     Xamb\u00f3, Anna\n\nVideo by Videohippies and Tanja Busking"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "848",
+          "likeCount": "35",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1reiHgUIEyFFMNWb2eTqBOMeeWA",
+        "id": "obHolbf9t7U",
+        "snippet": {
+          "publishedAt": "2023-03-28T12:48:02Z",
+          "channelId": "UCHxWDzGkSoEmFhDaU6nbsCg",
+          "title": "Industrie circulaire vs. d\u00e9chets - Intervention de Gr\u00e9gory Richa aux Journ\u00e9es de l'\u00c9conomie (J\u00e9co)",
+          "description": "\u00ab Aujourd'hui, il faut r\u00e9orienter le d\u00e9bat. Il faut continuer \u00e0 recycler, il faut continuer d'optimiser, mais il faut ouvrir un \u00e9norme champ d'innovation, de discussion et de transformation sur nos usages en amont. \u00bb \n\n\u00c0 l'occasion des Journ\u00e9es de l'\u00c9conomie (J\u00e9co), organis\u00e9es par la Fondation Innovation et Transitions, Gr\u00e9gory Richa, directeur associ\u00e9 OPEO, co-fondateur du mouvement #Circular4Good et co-auteur de l'ouvrage \u00ab Pivoter vers l'industrie circulaire \u00bb parle de la n\u00e9cessit\u00e9 de faire pivoter les acteurs industriels vers des mod\u00e8les circulaires. \n\nLe sujet de cette table ronde : \u00ab Am\u00e9liorer le recyclage des d\u00e9chets m\u00e9nagers \u00bb. En quoi cette th\u00e9matique qui nous concerne toutes et tous est directement li\u00e9 \u00e0 la capacit\u00e9 des industries \u00e0 \u00e9voluer du mod\u00e8le lin\u00e9aire au mod\u00e8le circulaire ? \n\nLes intervenants \u00e0 la table : Fabien Charreyre, Pr\u00e9sident-dondateur de 3WAYSTE, Directeur G\u00e9n\u00e9ral du Groupe VACHER, Mich\u00e8le Pappalardo, Pr\u00e9sidente du comit\u00e9 du label ISR et Baptiste Perrissin-Fabert, Directeur ex\u00e9cutif de l'expertise et des programmes de l\u2019ADEME. \n\nVersion compl\u00e8te de l'\u00e9change disponible ici : http://www.touteconomie.org/conferences/ameliorer-le-recyclage-des-dechets-menagers-video-disponible\n-\nSuivez Gr\u00e9gory Richa sur LinkedIn : https://www.linkedin.com/in/gregoryricha/\n\nSuivez #Circular4Good sur les r\u00e9seaux : https://linktr.ee/opeoconseil\n\nSuivez OPEO sur les r\u00e9seaux sociaux :\n\u2022 LinkedIn : https://www.linkedin.com/company/opeo/\n\u2022 Twitter : https://twitter.com/OPEOConseil\n\u2022 Instagram : https://www.instagram.com/opeoconseil/\n\u2022 Toutes nos actualit\u00e9s : https://opeo-conseil.fr/actualites/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/obHolbf9t7U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "OPEO - Accompagner les mutations industrielles",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Industrie circulaire vs. d\u00e9chets - Intervention de Gr\u00e9gory Richa aux Journ\u00e9es de l'\u00c9conomie (J\u00e9co)",
+            "description": "\u00ab Aujourd'hui, il faut r\u00e9orienter le d\u00e9bat. Il faut continuer \u00e0 recycler, il faut continuer d'optimiser, mais il faut ouvrir un \u00e9norme champ d'innovation, de discussion et de transformation sur nos usages en amont. \u00bb \n\n\u00c0 l'occasion des Journ\u00e9es de l'\u00c9conomie (J\u00e9co), organis\u00e9es par la Fondation Innovation et Transitions, Gr\u00e9gory Richa, directeur associ\u00e9 OPEO, co-fondateur du mouvement #Circular4Good et co-auteur de l'ouvrage \u00ab Pivoter vers l'industrie circulaire \u00bb parle de la n\u00e9cessit\u00e9 de faire pivoter les acteurs industriels vers des mod\u00e8les circulaires. \n\nLe sujet de cette table ronde : \u00ab Am\u00e9liorer le recyclage des d\u00e9chets m\u00e9nagers \u00bb. En quoi cette th\u00e9matique qui nous concerne toutes et tous est directement li\u00e9 \u00e0 la capacit\u00e9 des industries \u00e0 \u00e9voluer du mod\u00e8le lin\u00e9aire au mod\u00e8le circulaire ? \n\nLes intervenants \u00e0 la table : Fabien Charreyre, Pr\u00e9sident-dondateur de 3WAYSTE, Directeur G\u00e9n\u00e9ral du Groupe VACHER, Mich\u00e8le Pappalardo, Pr\u00e9sidente du comit\u00e9 du label ISR et Baptiste Perrissin-Fabert, Directeur ex\u00e9cutif de l'expertise et des programmes de l\u2019ADEME. \n\nVersion compl\u00e8te de l'\u00e9change disponible ici : http://www.touteconomie.org/conferences/ameliorer-le-recyclage-des-dechets-menagers-video-disponible\n-\nSuivez Gr\u00e9gory Richa sur LinkedIn : https://www.linkedin.com/in/gregoryricha/\n\nSuivez #Circular4Good sur les r\u00e9seaux : https://linktr.ee/opeoconseil\n\nSuivez OPEO sur les r\u00e9seaux sociaux :\n\u2022 LinkedIn : https://www.linkedin.com/company/opeo/\n\u2022 Twitter : https://twitter.com/OPEOConseil\n\u2022 Instagram : https://www.instagram.com/opeoconseil/\n\u2022 Toutes nos actualit\u00e9s : https://opeo-conseil.fr/actualites/"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT6M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "142",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "666c6GqgvxGNsmH_TorVJnWN8TQ",
+        "id": "VqHHnjyhKDM",
+        "snippet": {
+          "publishedAt": "2023-01-17T22:08:39Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "La grande interview : R\u00e9agir face aux \u00c9tats-Unis, le d\u00e9fi de l\u2019Europe",
+          "description": "Ce mardi 17 janvier, Pascal Cagni, pr\u00e9sident de Business France, associ\u00e9 et fondateur de C4 Venture Davos, Suisse, s'est pench\u00e9 sur le Forum \u00e9conomique mondial 2023, dans La grande interview dans l'\u00e9mission Good Evening Business pr\u00e9sent\u00e9e par Hedwige Chevrillon. Good Evening Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VqHHnjyhKDM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "La grande interview : R\u00e9agir face aux \u00c9tats-Unis, le d\u00e9fi de l\u2019Europe",
+            "description": "Ce mardi 17 janvier, Pascal Cagni, pr\u00e9sident de Business France, associ\u00e9 et fondateur de C4 Venture Davos, Suisse, s'est pench\u00e9 sur le Forum \u00e9conomique mondial 2023, dans La grande interview dans l'\u00e9mission Good Evening Business pr\u00e9sent\u00e9e par Hedwige Chevrillon. Good Evening Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "409",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fBuiBimgsngJ2ORj7yRbKMis9Hc",
+        "id": "6OO8JAayP5o",
+        "snippet": {
+          "publishedAt": "2023-10-28T08:25:45Z",
+          "channelId": "UCJldRgT_D7Am-ErRHQZ90uw",
+          "title": "Beno\u00eet Bazin, directeur g\u00e9n\u00e9ral de Saint-Gobain, invit\u00e9 de On n'arr\u00eate pas l'\u00e9co",
+          "description": "En fin de semaine, Saint-Gobain a pr\u00e9sent\u00e9 des r\u00e9sultats tr\u00e8s solides. Son patron, lui, r\u00e9clame depuis des mois un plan Marshall dans les b\u00e2timents publics et priv\u00e9s pour acc\u00e9l\u00e9rer les investissements qui tardent \u00e0 arriver. Beno\u00eet Bazin s'en explique ce samedi au micro d'Emmanuel Duteil.\n\nL'\u00e9mission int\u00e9grale : https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-28-octobre-2023-2925665",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6OO8JAayP5o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "France Inter",
+          "tags": [
+            "28 Octobre 2023",
+            "Benoit Bazin",
+            "Economie",
+            "Emmanuel Duteil",
+            "Extrait \u00e9mission",
+            "France Inter",
+            "info"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Beno\u00eet Bazin, directeur g\u00e9n\u00e9ral de Saint-Gobain, invit\u00e9 de On n'arr\u00eate pas l'\u00e9co",
+            "description": "En fin de semaine, Saint-Gobain a pr\u00e9sent\u00e9 des r\u00e9sultats tr\u00e8s solides. Son patron, lui, r\u00e9clame depuis des mois un plan Marshall dans les b\u00e2timents publics et priv\u00e9s pour acc\u00e9l\u00e9rer les investissements qui tardent \u00e0 arriver. Beno\u00eet Bazin s'en explique ce samedi au micro d'Emmanuel Duteil.\n\nL'\u00e9mission int\u00e9grale : https://www.radiofrance.fr/franceinter/podcasts/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-du-samedi-28-octobre-2023-2925665"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT10M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4213",
+          "likeCount": "42",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k4crVDJxVGScqFrPUY1eaRUSmLQ",
+        "id": "bGcpbAR303E",
+        "snippet": {
+          "publishedAt": "2023-02-20T19:03:35Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Bourse: que penser d'Herm\u00e8s, Renault et Ubisoft?",
+          "description": "Amaury de Tonqu\u00e9dec donne la parole \u00e0 Eric Lewin, R\u00e9dacteur en chef des publications Agora pour vous aider \u00e0 d\u00e9crypter au mieux l\u2019actualit\u00e9 financi\u00e8re du moment afin de faire les meilleurs choix dans la gestion de votre portefeuille. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bGcpbAR303E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Bourse: que penser d'Herm\u00e8s, Renault et Ubisoft?",
+            "description": "Amaury de Tonqu\u00e9dec donne la parole \u00e0 Eric Lewin, R\u00e9dacteur en chef des publications Agora pour vous aider \u00e0 d\u00e9crypter au mieux l\u2019actualit\u00e9 financi\u00e8re du moment afin de faire les meilleurs choix dans la gestion de votre portefeuille. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1266",
+          "likeCount": "37",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6agh8dTYXyUpFF1svmJB-OF7jWY",
+        "id": "m8Gwi_F-Sg8",
+        "snippet": {
+          "publishedAt": "2023-05-15T09:01:34Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Nicolas Doze : Le pari de la r\u00e9industrialisation est-il gagn\u00e9 ?",
+          "description": "Ce lundi 15 mai, dans sa chronique La pol\u00e9mique, Nicolas Doze est revenu sur Emmanuel Macron qui est \u00e0 Versailles pour la 6\u00e8me \u00e9dition du sommet \"Choose France\" avec pour objectifs d'attirer les investisseurs et de r\u00e9industrialiser le pays. Cette chronique est \u00e0 voir ou \u00e9couter du lundi au vendredi dans BFM Patrimoine pr\u00e9sent\u00e9e par C\u00e9dric Decoeur sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m8Gwi_F-Sg8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Nicolas Doze : Le pari de la r\u00e9industrialisation est-il gagn\u00e9 ?",
+            "description": "Ce lundi 15 mai, dans sa chronique La pol\u00e9mique, Nicolas Doze est revenu sur Emmanuel Macron qui est \u00e0 Versailles pour la 6\u00e8me \u00e9dition du sommet \"Choose France\" avec pour objectifs d'attirer les investisseurs et de r\u00e9industrialiser le pays. Cette chronique est \u00e0 voir ou \u00e9couter du lundi au vendredi dans BFM Patrimoine pr\u00e9sent\u00e9e par C\u00e9dric Decoeur sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3340",
+          "likeCount": "42",
+          "favoriteCount": "0",
+          "commentCount": "17"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iEZ8yP0iivDUKmw3nmH6cXUijO8",
+        "id": "OsukE_lhfbk",
+        "snippet": {
+          "publishedAt": "2023-06-09T08:10:42Z",
+          "channelId": "UCWKiIbShSl3-Bm_TXtBea7w",
+          "title": "Interview de Franck Chemin, CEO, Cyber-way by Cr\u00e9dit Agricole Alpes Provence",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OsukE_lhfbk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Finance Innovation",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Interview de Franck Chemin, CEO, Cyber-way by Cr\u00e9dit Agricole Alpes Provence",
+            "description": ""
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "175",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ePhao_W-f6hKe3oD9dBAI80kS78",
+        "id": "qMyAHJebk8E",
+        "snippet": {
+          "publishedAt": "2023-01-29T12:07:31Z",
+          "channelId": "UCnIWNujSpiiuH29-TBCz9aw",
+          "title": "Les derniers jours de l'industrie fran\u00e7aise ? Avec Lo\u00efk Le Floch-Prigent (ex-GDF & ELF)",
+          "description": "VA + re\u00e7oit cette semaine Lo\u00efk Le Floch-Prigent, ing\u00e9nieur, industriel, et auteur fran\u00e7ais. Discret pendant de nombreuses ann\u00e9es, cet ex-grand patron parcours aujourd'hui les m\u00e9dias pour alerter les Fran\u00e7ais sur une situation de plus en plus critique pour la France et son \u00e9conomie. \n\nAu menu de ce Grand Entretien\u00a0 : la situation \u00e9nerg\u00e9tique de la France, le grand g\u00e2chis du potentiel nucl\u00e9aire, la d\u00e9sindustrialisation qui guette le pays sur fond de factures d'\u00e9lectricit\u00e9 qui s'envolent, le totalitarisme \u00e9cologique impos\u00e9 par une hyperclasse technocratique mondialis\u00e9e...  \n\n00:00 Intro\n00:40 Incomp\u00e9tence, trahison, ou je m'en foutisme\u00a0?  \n01:48 Juge et partie ? \n02:33 Y'a-t-il un avenir pour l'industrie en France ?\n03:42 Le gouvernement laisse pourrir la situation \n07:09 Opposition \u00e0 la cr\u00e9ation du march\u00e9 europ\u00e9en de l'\u00e9lectricit\u00e9\n10:55 Qui a d\u00e9cid\u00e9 l'alignement du prix de l'\u00e9lectricit\u00e9 sur le gaz ?\n14:28 Les b\u00e9n\u00e9ficiaires de l'ARENH sont-ils des parasites ?\n17:25 Les Allemands profitent du syst\u00e8me \n19:04 Peut-on sortir du march\u00e9 de l'\u00e9lectricit\u00e9 ?\n22:06 La structure du march\u00e9 alt\u00e8re nos centrales nucl\u00e9aires \n27:16 Nos centrales sont-elles en si mauvais \u00e9tat ?  \n35:56 L'Allemagne ouvre des mines de charbon\n38:41 L'Ukraine a tu\u00e9 la lutte contre le changement climatique \n43:03 Faut-il forer et exploiter le p\u00e9trole de schiste en France ? \n45:11 En quoi Emmanuel Macron diff\u00e8re-t-il de ses pr\u00e9d\u00e9cesseurs \n46:30 Vers un gouvernement universel ? \n\nLe d\u00e9cryptage sur le march\u00e9 europ\u00e9en de l'\u00e9lectricit\u00e9 \nhttps://youtu.be/35pD5tWgxtM\n\n\ud83d\udd34 NOUS SOUTENIR : https://bit.ly/RejoindreVAPlus\n\n\ud83d\udd25 Merci encore \u00e0 nos abonn\u00e9s Rejoindre et notamment \u00e0 nos \"m\u00e9c\u00e8nes\" :\n\nJA G, Gabriel P, Edouard, Baptiste Tournant, David SACRE, walter, Vanilla Sky, Zip It, julien rivet, Vincent Hygonnet, dream-kingdom glad, Raph, Le Correcteur, Maylis de Marsac, Miecryslaw Jusko.\n\n\ud83e\udd1d Vous \u00eates une entreprise et souhaitez \u00eatre partenaire d'une de nos vid\u00e9os ?\nContactez-nous via le mail : vaplus@valmonde.fr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qMyAHJebk8E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VA Plus",
+          "tags": [
+            "\u00e9lectricit\u00e9",
+            "nucl\u00e9aire",
+            "centrale nucl\u00e9aire",
+            "Lo\u00efk Le Floch-Prigent",
+            "EDF",
+            "GDF",
+            "Commission Europ\u00e9enne",
+            "souverainet\u00e9 \u00e9nerg\u00e9tique",
+            "autonomie",
+            "gaz de schiste",
+            "Exploration du gaz de schiste",
+            "Gouvernement universel",
+            "\u00e9cologie",
+            "D\u00e9sindustrialisation",
+            "r\u00e9volution industriel",
+            "d\u00e9sertification",
+            "tiers-mondisation",
+            "mondialisme",
+            "mondialisation",
+            "usine",
+            "ch\u00f4mage",
+            "march\u00e9 europ\u00e9en de l'\u00e9lectricit\u00e9",
+            "\u00e9olienne",
+            "panneau solaire",
+            "batterie",
+            "centrale \u00e0 gaz",
+            "centrale \u00e0 charbon",
+            "documentaire",
+            "valeurs actuelles"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Les derniers jours de l'industrie fran\u00e7aise ? Avec Lo\u00efk Le Floch-Prigent (ex-GDF & ELF)",
+            "description": "VA + re\u00e7oit cette semaine Lo\u00efk Le Floch-Prigent, ing\u00e9nieur, industriel, et auteur fran\u00e7ais. Discret pendant de nombreuses ann\u00e9es, cet ex-grand patron parcours aujourd'hui les m\u00e9dias pour alerter les Fran\u00e7ais sur une situation de plus en plus critique pour la France et son \u00e9conomie. \n\nAu menu de ce Grand Entretien\u00a0 : la situation \u00e9nerg\u00e9tique de la France, le grand g\u00e2chis du potentiel nucl\u00e9aire, la d\u00e9sindustrialisation qui guette le pays sur fond de factures d'\u00e9lectricit\u00e9 qui s'envolent, le totalitarisme \u00e9cologique impos\u00e9 par une hyperclasse technocratique mondialis\u00e9e...  \n\n00:00 Intro\n00:40 Incomp\u00e9tence, trahison, ou je m'en foutisme\u00a0?  \n01:48 Juge et partie ? \n02:33 Y'a-t-il un avenir pour l'industrie en France ?\n03:42 Le gouvernement laisse pourrir la situation \n07:09 Opposition \u00e0 la cr\u00e9ation du march\u00e9 europ\u00e9en de l'\u00e9lectricit\u00e9\n10:55 Qui a d\u00e9cid\u00e9 l'alignement du prix de l'\u00e9lectricit\u00e9 sur le gaz ?\n14:28 Les b\u00e9n\u00e9ficiaires de l'ARENH sont-ils des parasites ?\n17:25 Les Allemands profitent du syst\u00e8me \n19:04 Peut-on sortir du march\u00e9 de l'\u00e9lectricit\u00e9 ?\n22:06 La structure du march\u00e9 alt\u00e8re nos centrales nucl\u00e9aires \n27:16 Nos centrales sont-elles en si mauvais \u00e9tat ?  \n35:56 L'Allemagne ouvre des mines de charbon\n38:41 L'Ukraine a tu\u00e9 la lutte contre le changement climatique \n43:03 Faut-il forer et exploiter le p\u00e9trole de schiste en France ? \n45:11 En quoi Emmanuel Macron diff\u00e8re-t-il de ses pr\u00e9d\u00e9cesseurs \n46:30 Vers un gouvernement universel ? \n\nLe d\u00e9cryptage sur le march\u00e9 europ\u00e9en de l'\u00e9lectricit\u00e9 \nhttps://youtu.be/35pD5tWgxtM\n\n\ud83d\udd34 NOUS SOUTENIR : https://bit.ly/RejoindreVAPlus\n\n\ud83d\udd25 Merci encore \u00e0 nos abonn\u00e9s Rejoindre et notamment \u00e0 nos \"m\u00e9c\u00e8nes\" :\n\nJA G, Gabriel P, Edouard, Baptiste Tournant, David SACRE, walter, Vanilla Sky, Zip It, julien rivet, Vincent Hygonnet, dream-kingdom glad, Raph, Le Correcteur, Maylis de Marsac, Miecryslaw Jusko.\n\n\ud83e\udd1d Vous \u00eates une entreprise et souhaitez \u00eatre partenaire d'une de nos vid\u00e9os ?\nContactez-nous via le mail : vaplus@valmonde.fr"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT50M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29933",
+          "likeCount": "1394",
+          "favoriteCount": "0",
+          "commentCount": "198"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HsUyy62VNOLo5fEZ8tmiZzGE5nA",
+        "id": "9J16LldALrg",
+        "snippet": {
+          "publishedAt": "2023-09-15T15:23:30Z",
+          "channelId": "UC5WFSncb01pBfKcQw3mfO9A",
+          "title": "Publics, priv\u00e9s : comment am\u00e9nager ensemble le Grand Paris ? | Sommet du Grand Paris 2023",
+          "description": "A quelques mois de la Coupe du monde de rugby et des Jeux olympiques et paralympiques, acteurs politiques, publics et priv\u00e9s, travaillons en confiance pour penser et faire le Grand Paris.\n\n\u00c0 l'occasion de l'\u00e9v\u00e9nement #SommetduGrandParis, (re)d\u00e9couvrez la s\u00e9quence \"Publics, priv\u00e9s, am\u00e9nageons ensemble le Grand Paris\" avec : \n\n- Jacques-Alain BENISTI - Maire de Villiers-sur-Marne, conseiller m\u00e9tropolitain charg\u00e9 du suivi d'Inventons la M\u00e9tropole du Grand Paris et des grandes op\u00e9rations m\u00e9tropolitaines\n- Franck HELARY - Directeur g\u00e9n\u00e9ral de Cr\u00e9dit Agricole Immobilier Corporate et Promotion\n- Clothilde GREFF \u2013 Pr\u00e9sidente de la Chambre des Notaires des Hauts-de Seine\n- Sophie MEYNET - Directrice g\u00e9n\u00e9rale immobilier r\u00e9sidentiel de GA Smart Building\n- Katayoune PANAHI - Directrice de SNCF IMMOBILIER\n\nAnimation : C\u00e9sar Armand, journaliste \u00e0 La Tribune",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9J16LldALrg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9J16LldALrg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9J16LldALrg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "La Tribune \u00c9v\u00e9nements",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Publics, priv\u00e9s : comment am\u00e9nager ensemble le Grand Paris ? | Sommet du Grand Paris 2023",
+            "description": "A quelques mois de la Coupe du monde de rugby et des Jeux olympiques et paralympiques, acteurs politiques, publics et priv\u00e9s, travaillons en confiance pour penser et faire le Grand Paris.\n\n\u00c0 l'occasion de l'\u00e9v\u00e9nement #SommetduGrandParis, (re)d\u00e9couvrez la s\u00e9quence \"Publics, priv\u00e9s, am\u00e9nageons ensemble le Grand Paris\" avec : \n\n- Jacques-Alain BENISTI - Maire de Villiers-sur-Marne, conseiller m\u00e9tropolitain charg\u00e9 du suivi d'Inventons la M\u00e9tropole du Grand Paris et des grandes op\u00e9rations m\u00e9tropolitaines\n- Franck HELARY - Directeur g\u00e9n\u00e9ral de Cr\u00e9dit Agricole Immobilier Corporate et Promotion\n- Clothilde GREFF \u2013 Pr\u00e9sidente de la Chambre des Notaires des Hauts-de Seine\n- Sophie MEYNET - Directrice g\u00e9n\u00e9rale immobilier r\u00e9sidentiel de GA Smart Building\n- Katayoune PANAHI - Directrice de SNCF IMMOBILIER\n\nAnimation : C\u00e9sar Armand, journaliste \u00e0 La Tribune"
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT35M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "226",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EaKDwuw9ZrWDngV24DDL5Kkrn28",
+        "id": "BHbhAEwXnWA",
+        "snippet": {
+          "publishedAt": "2023-02-20T06:48:47Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Gilles Bonnenfant (Eurogroup Consulting) : La France est-elle encore attractive ?",
+          "description": "Ce lundi 20 f\u00e9vrier, Gilles Bonnenfant, pr\u00e9sident d'Eurogroup Consulting et pr\u00e9sident de la Commission pour l'attractivit\u00e9 de la France des Conseillers du Commerce Ext\u00e9rieur, parle de l'attractivit\u00e9 de la France envers les investisseurs \u00e9trangers ainsi que de l'importance de la r\u00e9industrialisation de notre pays, dans l'\u00e9mission Good Morning Business, pr\u00e9sent\u00e9e par St\u00e9phanie Coleau et Christophe Jakubyszyn. Good Morning Business est \u00e0 voir ou \u00e9couter du lundi au vendredi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BHbhAEwXnWA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Gilles Bonnenfant (Eurogroup Consulting) : La France est-elle encore attractive ?",
+            "description": "Ce lundi 20 f\u00e9vrier, Gilles Bonnenfant, pr\u00e9sident d'Eurogroup Consulting et pr\u00e9sident de la Commission pour l'attractivit\u00e9 de la France des Conseillers du Commerce Ext\u00e9rieur, parle de l'attractivit\u00e9 de la France envers les investisseurs \u00e9trangers ainsi que de l'importance de la r\u00e9industrialisation de notre pays, dans l'\u00e9mission Good Morning Business, pr\u00e9sent\u00e9e par St\u00e9phanie Coleau et Christophe Jakubyszyn. Good Morning Business est \u00e0 voir ou \u00e9couter du lundi au vendredi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "697",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vAtTCkiX3dDJQHCDg4BdPZwIkOs",
+        "id": "ubtJOkWeqOE",
+        "snippet": {
+          "publishedAt": "2023-11-02T13:58:30Z",
+          "channelId": "UCYFUg910AyviU3kFjiqE_SQ",
+          "title": "Hochleistungsventilatoren f\u00fcr die Industrie",
+          "description": "Einblicke in die BerlinerLuft. Ventilatorenfertigung.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ubtJOkWeqOE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BerlinerLuft. Technik GmbH",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Hochleistungsventilatoren f\u00fcr die Industrie",
+            "description": "Einblicke in die BerlinerLuft. Ventilatorenfertigung."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "189",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "817vubEmzniHQl7pRwgpr5v8VxA",
+        "id": "vIVBVmeJ2DM",
+        "snippet": {
+          "publishedAt": "2023-09-20T04:00:36Z",
+          "channelId": "UCl8sYOIxUDprXrCnbPIQYNQ",
+          "title": "Benoit Bazin, Chief Executive Officer, Saint-Gobain",
+          "description": "Benoit Bazin at Climate Week NYC Opening Ceremony.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vIVBVmeJ2DM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Climate Group",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Benoit Bazin, Chief Executive Officer, Saint-Gobain",
+            "description": "Benoit Bazin at Climate Week NYC Opening Ceremony."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "644",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iHJfu6PLLwBcOWUFGmYPQbefhyY",
+        "id": "GxE-PBtLZ8w",
+        "snippet": {
+          "publishedAt": "2023-09-12T09:59:44Z",
+          "channelId": "UCx7bYW1KV80z3XLfzSYcsGA",
+          "title": "GCP PREPRUFE\u00ae SCS Seamless, Hydrophilic Waterproofing system for shotcrete walls",
+          "description": "PREPRUFE\u00ae SCS blindside waterproofing system for shotcrete foundation walls. Learn how the PREPRUFE\u00ae SCS system works to fill & seal voids and cracks to form a continuous and integral bond to the structure, eliminating lateral water migration between the membrane and the shotcrete. Available only from GCP, a Saint-Gobain company.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GxE-PBtLZ8w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GCP Applied Technologies",
+          "tags": [
+            "Construction Products",
+            "How To",
+            "preprufe scs",
+            "preprufe",
+            "blindside waterproofing",
+            "shotcrete foundation walls",
+            "lateral water migration",
+            "seamless",
+            "hydrophilic waterproofing system"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "GCP PREPRUFE\u00ae SCS Seamless, Hydrophilic Waterproofing system for shotcrete walls",
+            "description": "PREPRUFE\u00ae SCS blindside waterproofing system for shotcrete foundation walls. Learn how the PREPRUFE\u00ae SCS system works to fill & seal voids and cracks to form a continuous and integral bond to the structure, eliminating lateral water migration between the membrane and the shotcrete. Available only from GCP, a Saint-Gobain company."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6898",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ofFApSv0dO9nU05OYmEtH_QbixY",
+        "id": "0Pdw7mE9nlA",
+        "snippet": {
+          "publishedAt": "2023-05-11T10:50:25Z",
+          "channelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+          "title": "Quelle est la situation de l'industrie fran\u00e7aise ?",
+          "description": "Ce jeudi 11 mai, David Cousquer, cr\u00e9ateur et g\u00e9rant de Trendeo, Caroline Delloye, directrice g\u00e9n\u00e9rale du groupe Gonzales, et Laurent Vronski, directeur g\u00e9n\u00e9ral d'Ervor, ont abord\u00e9 le mouvement de la cr\u00e9ation d'usines malgr\u00e9 le contexte de crise et l'inflation, le groupe Gonzales qui est au c\u0153ur de la r\u00e9industrialisation puis Ervor, le dernier fabricant fran\u00e7ais de compresseur d'air, dans l'\u00e9mission 90 Minutes Business pr\u00e9sent\u00e9e par Sandra Gandoin. 90 Minutes Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0Pdw7mE9nlA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BFM Business",
+          "tags": [
+            "Iran",
+            "Israel",
+            "\u00c9tats-Unis",
+            "Qatar",
+            "Liban",
+            "Guerre mondiale",
+            "iran carte",
+            "iran etats unis",
+            "iran guerre",
+            "iran dubai",
+            "Irak",
+            "Donald Trump",
+            "netanyahu",
+            "Bombe nucl\u00e9aire",
+            "Guerre Israel",
+            "Guerre trump",
+            "Iran missiles",
+            "France guerre",
+            "actualit\u00e9s internationales",
+            "actualit\u00e9 iran",
+            "guerre iran aujourd'hui",
+            "france iran distance",
+            "iran bombe",
+            "Ali Khamenei",
+            "macron guerre",
+            "bfm iran",
+            "cons\u00e9quences guerre iran",
+            "bourse guerre en iran",
+            "crash \u00e9conomique guerre trump",
+            "macron guerre iran",
+            "prix p\u00e9trole"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Quelle est la situation de l'industrie fran\u00e7aise ?",
+            "description": "Ce jeudi 11 mai, David Cousquer, cr\u00e9ateur et g\u00e9rant de Trendeo, Caroline Delloye, directrice g\u00e9n\u00e9rale du groupe Gonzales, et Laurent Vronski, directeur g\u00e9n\u00e9ral d'Ervor, ont abord\u00e9 le mouvement de la cr\u00e9ation d'usines malgr\u00e9 le contexte de crise et l'inflation, le groupe Gonzales qui est au c\u0153ur de la r\u00e9industrialisation puis Ervor, le dernier fabricant fran\u00e7ais de compresseur d'air, dans l'\u00e9mission 90 Minutes Business pr\u00e9sent\u00e9e par Sandra Gandoin. 90 Minutes Business est \u00e0 voir ou \u00e9couter du lundi au jeudi sur BFM Business. \ud83d\udc4b Bienvenue sur la cha\u00eene YouTube officielle de BFM Business, premi\u00e8re cha\u00eene d'information \u00e9conomique et financi\u00e8re de France.\n\n\ud83d\udcfa Chaque jour, suivez en vid\u00e9o l'int\u00e9gralit\u00e9 de l'actualit\u00e9 \u00e9conomique, boursi\u00e8re, entrepreneuriale et financi\u00e8re. De Good Morning Business \u00e0 La Grande Interview, en passant par Les Experts, Tout pour Investir ou BFM Bourse, nos \u00e9missions vous apportent analyses, reportages, d\u00e9cryptages, d\u00e9bats et interviews d'experts.\n\n\ud83d\udcbc Entreprises, march\u00e9s, consommation, innovation, patrimoine, vie au travail, cryptommonaie... BFM Business vous aide \u00e0 tout comprendre \u00e0 l\u2019\u00e9conomie.\n\n\ud83d\udd34 Pour ne rien manquer :\n\ud83d\udc49 Abonnez-vous \u00e0 la cha\u00eene : urlr.me/G9aRwB \n\ud83c\udf10 Site officiel : https://www.bfmbusiness.com\n\n\ud83d\udcf2 Suivez-nous aussi sur les r\u00e9seaux sociaux :\nTwitter / X : https://twitter.com/BFMBusiness\nFacebook : https://www.facebook.com/BFMBusiness\nInstagram : https://www.instagram.com/bfmbusiness/\n\n#Economie #Finance #crypto #Entreprises #Bourse #BFMBusiness #BFM #BFMTV"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6740",
+          "likeCount": "80",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "H4vyeY0u29VD4DAa8WstUpXlpBU",
+        "id": "L4RXc6L8_z8",
+        "snippet": {
+          "publishedAt": "2023-10-18T09:14:50Z",
+          "channelId": "UCQd5LYcykaFeZtjDaP3bNSA",
+          "title": "Keynote \u201cInnovation : premier bilan du plan France 2030\u201d - Futurapolis Sant\u00e9 2023",
+          "description": "Multi-entrepreneur de la tech et d\u00e9put\u00e9 macroniste, Bruno Bonnell a succ\u00e9d\u00e9 aux \u00e9narques Louis Gallois et Louis Schweitzer \u00e0 la t\u00eate d\u2019un des plus beaux postes de la R\u00e9publique : le secr\u00e9tariat g\u00e9n\u00e9ral pour l\u2019investissement. Son job consiste \u00e0 v\u00e9rifier que les 54 milliards d\u2019euros des programmes d\u2019investissement d\u2019avenir et d\u00e9sormais du plan France 2030 soient bien d\u00e9pens\u00e9s pour irriguer les objectifs prioritaires du gouvernement. Il dispose notamment de 2,3 milliards d\u2019euros pour faire produire 20 bio-m\u00e9dicaments en France au cours des 7 ann\u00e9es \u00e0 venir \u2026\n\nAvec :\n- Bruno Bonnell, secr\u00e9taire g\u00e9n\u00e9ral pour l\u2019investissement en charge du plan France 2030 et d\u00e9put\u00e9 du Rh\u00f4ne\n\nSuivez nous sur :\n\n- Youtube : https://www.youtube.com/c/lepoint/\n- Facebook : https://www.facebook.com/lepoint.fr/\n- Twitter : https://twitter.com/LePoint\n- Instagram : https://www.instagram.com/lepointfr\n- Tik Tok : https://www.tiktok.com/@lepointfr\n- LinkedIn : https://www.linkedin.com/company/le-point/posts/\n- www.lepoint.fr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L4RXc6L8_z8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Le Point",
+          "tags": [
+            "LPT",
+            "Actualit\u00e9",
+            "Information",
+            "Journal",
+            "Magazine",
+            "Hebdomadaire",
+            "France",
+            "Paris",
+            "M\u00e9dia",
+            "Vid\u00e9o",
+            "Le Point",
+            "Actualit\u00e9s",
+            "news",
+            "International",
+            "Politique"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Keynote \u201cInnovation : premier bilan du plan France 2030\u201d - Futurapolis Sant\u00e9 2023",
+            "description": "Multi-entrepreneur de la tech et d\u00e9put\u00e9 macroniste, Bruno Bonnell a succ\u00e9d\u00e9 aux \u00e9narques Louis Gallois et Louis Schweitzer \u00e0 la t\u00eate d\u2019un des plus beaux postes de la R\u00e9publique : le secr\u00e9tariat g\u00e9n\u00e9ral pour l\u2019investissement. Son job consiste \u00e0 v\u00e9rifier que les 54 milliards d\u2019euros des programmes d\u2019investissement d\u2019avenir et d\u00e9sormais du plan France 2030 soient bien d\u00e9pens\u00e9s pour irriguer les objectifs prioritaires du gouvernement. Il dispose notamment de 2,3 milliards d\u2019euros pour faire produire 20 bio-m\u00e9dicaments en France au cours des 7 ann\u00e9es \u00e0 venir \u2026\n\nAvec :\n- Bruno Bonnell, secr\u00e9taire g\u00e9n\u00e9ral pour l\u2019investissement en charge du plan France 2030 et d\u00e9put\u00e9 du Rh\u00f4ne\n\nSuivez nous sur :\n\n- Youtube : https://www.youtube.com/c/lepoint/\n- Facebook : https://www.facebook.com/lepoint.fr/\n- Twitter : https://twitter.com/LePoint\n- Instagram : https://www.instagram.com/lepointfr\n- Tik Tok : https://www.tiktok.com/@lepointfr\n- LinkedIn : https://www.linkedin.com/company/le-point/posts/\n- www.lepoint.fr"
+          },
+          "defaultAudioLanguage": "fr-FR"
+        },
+        "contentDetails": {
+          "duration": "PT30M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "318",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mlaayZptuZdF0xaTElK1gRB2iGU",
+        "id": "0Tz0I9425hY",
+        "snippet": {
+          "publishedAt": "2023-10-05T14:29:43Z",
+          "channelId": "UCuRCC-yXLlXr4_O2oBUG9lQ",
+          "title": "Vincenzo Vinzi, ESSEC - DG sur \u00c9coute",
+          "description": "Vincenzo Vinzi, ESSEC - DG sur \u00c9coute. Pour ce nouvel \u00e9pisode de DG sur \u00c9coute, la s\u00e9rie d'interviews qui s'int\u00e9resse aux directrices et directeurs de Grandes \u00c9coles, nous avons eu le plaisir d'\u00e9changer avec Vincenzo Vinzi, Directeur g\u00e9n\u00e9ral de l'ESSEC et vice-pr\u00e9sident de la CDEFM. #ESSEC #CDEFM #BusinessSchool\n\n0:00 : Introduction\n0:20 : Le parcours de Vincenzo Vinzi, Directeur de l'ESSEC\n1:39 : Ce qui anime Vincenzo Vinzi au quotidien\n3:04 : Ce qui diff\u00e9rencie l'ESSEC des autres Business Schools ?\n5:38 : Comment rester parmi les meilleures \u00e9coles de management ?\n7:35 : Les axes du plan strat\u00e9gique de l'ESSEC\n10:55 : Ouverture sociale et diversit\u00e9 \u00e0 l'ESSEC en 2023\n14:30 : Le nouveau campus de Cergy\n17:15 : La pr\u00e9pa est-elle encore une voie royale ?\n20:43 : L'opposition entre les BBA et les PGE ? Les BBA font-ils concurrence aux pr\u00e9pas ?\n23:30 : Le rapprochement avec CY Cergy Paris Universit\u00e9\n26:40 : Nouvelles responsabilit\u00e9s au sein de la CDEFM\n\nThotis, LE nouveau m\u00e9dia de r\u00e9f\u00e9rence dans l'orientation en France.\nUn site (incontournable) : https://thotismedia.com/\n- Thotis Post Bac, pour l'orientation post bac et Parcoursup \n- Thotis Master, pour la poursuite d'\u00e9tudes et l'orientation en Master\n- Thotis M\u00e9tiers, pour d\u00e9couvrir tous les m\u00e9tiers",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0Tz0I9425hY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Thotis",
+          "tags": [
+            "dg sur \u00e9coute",
+            "vincenzo vinzi",
+            "essec business school",
+            "essec",
+            "essec business school paris mim",
+            "essec business school tour",
+            "essec business school campus tour",
+            "essec executive education",
+            "french business school",
+            "pioneer spirit",
+            "essec programs",
+            "vincenzo esposito vinzi",
+            "top business schools",
+            "cy cergy paris",
+            "cdefm",
+            "thotis"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Vincenzo Vinzi, ESSEC - DG sur \u00c9coute",
+            "description": "Vincenzo Vinzi, ESSEC - DG sur \u00c9coute. Pour ce nouvel \u00e9pisode de DG sur \u00c9coute, la s\u00e9rie d'interviews qui s'int\u00e9resse aux directrices et directeurs de Grandes \u00c9coles, nous avons eu le plaisir d'\u00e9changer avec Vincenzo Vinzi, Directeur g\u00e9n\u00e9ral de l'ESSEC et vice-pr\u00e9sident de la CDEFM. #ESSEC #CDEFM #BusinessSchool\n\n0:00 : Introduction\n0:20 : Le parcours de Vincenzo Vinzi, Directeur de l'ESSEC\n1:39 : Ce qui anime Vincenzo Vinzi au quotidien\n3:04 : Ce qui diff\u00e9rencie l'ESSEC des autres Business Schools ?\n5:38 : Comment rester parmi les meilleures \u00e9coles de management ?\n7:35 : Les axes du plan strat\u00e9gique de l'ESSEC\n10:55 : Ouverture sociale et diversit\u00e9 \u00e0 l'ESSEC en 2023\n14:30 : Le nouveau campus de Cergy\n17:15 : La pr\u00e9pa est-elle encore une voie royale ?\n20:43 : L'opposition entre les BBA et les PGE ? Les BBA font-ils concurrence aux pr\u00e9pas ?\n23:30 : Le rapprochement avec CY Cergy Paris Universit\u00e9\n26:40 : Nouvelles responsabilit\u00e9s au sein de la CDEFM\n\nThotis, LE nouveau m\u00e9dia de r\u00e9f\u00e9rence dans l'orientation en France.\nUn site (incontournable) : https://thotismedia.com/\n- Thotis Post Bac, pour l'orientation post bac et Parcoursup \n- Thotis Master, pour la poursuite d'\u00e9tudes et l'orientation en Master\n- Thotis M\u00e9tiers, pour d\u00e9couvrir tous les m\u00e9tiers"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT28M23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7143",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GNVBS64SzWQYeG6KHpIGUXuINZ4",
+        "id": "CklR33chbS4",
+        "snippet": {
+          "publishedAt": "2023-05-12T03:34:44Z",
+          "channelId": "UCPaeEhnVIdn4T01gUphIltw",
+          "title": "Pr\u00e9sentation de la strat\u00e9gie pour acc\u00e9l\u00e9rer notre r\u00e9industrialisation.",
+          "description": "Pour suivre la Pr\u00e9sidence de la R\u00e9publique :\nFacebook : https://www.facebook.com/elysee.fr\nTwitter : https://twitter.com/elysee\nInstagram : https://www.instagram.com/elysee\nLinkedIn : https://www.linkedin.com/company/pr-sidence-de-la-r-publique",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CklR33chbS4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "\u00c9lys\u00e9e",
+          "tags": [
+            "\u00e9lys\u00e9e",
+            "Pr\u00e9sidence",
+            "emmanuel",
+            "macron",
+            "france"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Pr\u00e9sentation de la strat\u00e9gie pour acc\u00e9l\u00e9rer notre r\u00e9industrialisation.",
+            "description": "Pour suivre la Pr\u00e9sidence de la R\u00e9publique :\nFacebook : https://www.facebook.com/elysee.fr\nTwitter : https://twitter.com/elysee\nInstagram : https://www.instagram.com/elysee\nLinkedIn : https://www.linkedin.com/company/pr-sidence-de-la-r-publique"
+          },
+          "defaultAudioLanguage": "fr-FR"
+        },
+        "contentDetails": {
+          "duration": "PT1H37M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19955",
+          "likeCount": "341",
+          "favoriteCount": "0",
+          "commentCount": "78"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JX4mQStJHzDCJc8LMKeAQ_1utaQ",
+        "id": "j73jkP-3t-0",
+        "snippet": {
+          "publishedAt": "2023-10-04T08:04:35Z",
+          "channelId": "UClpfQyL4qNSCAIr8NKoPRrA",
+          "title": "Juan Branco aux Mardis de l'ESSEC",
+          "description": "Ce mardi 3 octobre, les Mardis de l'ESSEC re\u00e7oivent Juan Branco, activiste politique et avocat international.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/j73jkP-3t-0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Les Mardis de l'ESSEC",
+          "tags": [
+            "Mardis",
+            "ESSEC",
+            "Mardis de l'ESSEC",
+            "tribune \u00e9tudiante",
+            "d\u00e9bat",
+            "conf\u00e9rence"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Juan Branco aux Mardis de l'ESSEC",
+            "description": "Ce mardi 3 octobre, les Mardis de l'ESSEC re\u00e7oivent Juan Branco, activiste politique et avocat international."
+          },
+          "defaultAudioLanguage": "fr"
+        },
+        "contentDetails": {
+          "duration": "PT1H36M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "91748",
+          "likeCount": "2533",
+          "favoriteCount": "0",
+          "commentCount": "327"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 30,
+      "resultsPerPage": 30
+    }
+  }
+}

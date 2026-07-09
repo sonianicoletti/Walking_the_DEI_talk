@@ -1,0 +1,422 @@
+{
+  "ceo": "Moritaka Yoshida",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ABqvxTBgEX-NpuLUueiKmEdPKDg",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9MtIsjyX3yXzNCQcFtzi53r0x8E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "U8Qbl7k6X5c"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-05T21:29:21Z",
+          "channelId": "UC5jOw41cvFlMYzOFR7tcK6A",
+          "title": "Santoku v.s. Gyuto: which is best?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Knifewear",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-05T21:29:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dYdysozbwXKD0SjoVrTMyvP91a0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Hq-JtzE_uqw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-24T16:26:32Z",
+          "channelId": "UC__s8KvC7jafWKl2Xf8SQ0g",
+          "title": "Nakagawa Ginsan Bunka 170mm Unboxing",
+          "description": "Nakagawa Ginsan Bunka 170mm https://www.chefknivestogo.com/nagibu171.html.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chefknivestogo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-24T16:26:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5KZZQTelo0xdl8lx2lxOCYDOr8s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dy871wRJZSs"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-16T15:00:34Z",
+          "channelId": "UCGor_7enK-de8WWEpMKkrIg",
+          "title": "Yu Kurosaki HAP40 Mirrored Chef Knives with Stylish Resin Custom Handles Mukamura Model",
+          "description": "A short movie of the Yu Kurosaki Special Knives by Mukamura. You can view it here at: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hocho Knife Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-16T15:00:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tboktkwL2blvolsP6xIir97LQfE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d4Foy_-d9c8"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-09T11:38:23Z",
+          "channelId": "UCjBVDxKlU0OAset1xRytLJA",
+          "title": "Nigara Hamono - Bunka | CLEANCUT.",
+          "description": "Bunka knife with 170 mm blade length. Blade height: 49 mm Weight: 150 gr Blade length: 169 mm Steel: Stainless SG2 steel with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CLEANCUT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-09T11:38:23Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "yw_N2jYD4D3z__Te7bQXx_BdmuM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "b18yeeNaXk8q-E7WRS2Y5s77AHQ",
+        "id": "U8Qbl7k6X5c",
+        "snippet": {
+          "publishedAt": "2023-04-05T21:29:21Z",
+          "channelId": "UC5jOw41cvFlMYzOFR7tcK6A",
+          "title": "Santoku v.s. Gyuto: which is best?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U8Qbl7k6X5c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Knifewear",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Santoku v.s. Gyuto: which is best?",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "761876",
+          "likeCount": "14727",
+          "favoriteCount": "0",
+          "commentCount": "184"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0YbuY4Sa5X0Up8bI_Ci5Y_K5Odk",
+        "id": "Hq-JtzE_uqw",
+        "snippet": {
+          "publishedAt": "2023-08-24T16:26:32Z",
+          "channelId": "UC__s8KvC7jafWKl2Xf8SQ0g",
+          "title": "Nakagawa Ginsan Bunka 170mm Unboxing",
+          "description": "Nakagawa Ginsan Bunka 170mm\nhttps://www.chefknivestogo.com/nagibu171.html",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Hq-JtzE_uqw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chefknivestogo",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nakagawa Ginsan Bunka 170mm Unboxing",
+            "description": "Nakagawa Ginsan Bunka 170mm\nhttps://www.chefknivestogo.com/nagibu171.html"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "839",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "E1xUN4AiizLaoPxATHfvA6G-tmU",
+        "id": "dy871wRJZSs",
+        "snippet": {
+          "publishedAt": "2023-05-16T15:00:34Z",
+          "channelId": "UCGor_7enK-de8WWEpMKkrIg",
+          "title": "Yu Kurosaki HAP40 Mirrored Chef Knives with Stylish Resin Custom Handles Mukamura Model",
+          "description": "A short movie of the Yu Kurosaki Special Knives by Mukamura. You can view it here at:  \nhttps://www.hocho-knife.com/yu-kurosaki-special/\nKR-HPM-SL270-REAC-MUKAMURA\nKR-HPM-CH210-REWC-MUKAMURA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dy871wRJZSs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hocho Knife Channel",
+          "tags": [
+            "yu kurosaki",
+            "japanese knife",
+            "japanese chef knife",
+            "takefu",
+            "japan",
+            "hocho",
+            "sushi knife",
+            "sashimi knife",
+            "chef knife",
+            "hap40",
+            "mukamura",
+            "gyuto",
+            "slicer"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Yu Kurosaki HAP40 Mirrored Chef Knives with Stylish Resin Custom Handles Mukamura Model",
+            "description": "A short movie of the Yu Kurosaki Special Knives by Mukamura. You can view it here at:  \nhttps://www.hocho-knife.com/yu-kurosaki-special/\nKR-HPM-SL270-REAC-MUKAMURA\nKR-HPM-CH210-REWC-MUKAMURA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "413",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gTHWja_Tbzhou-cToSPtg0tkYPM",
+        "id": "d4Foy_-d9c8",
+        "snippet": {
+          "publishedAt": "2023-03-09T11:38:23Z",
+          "channelId": "UCjBVDxKlU0OAset1xRytLJA",
+          "title": "Nigara Hamono - Bunka | CLEANCUT.",
+          "description": "Bunka knife with 170 mm blade length.\nBlade height: 49 mm\nWeight: 150 gr\nBlade length: 169 mm\nSteel: Stainless SG2 steel with stainless clad. (HRC: 62-63)\n\nNigara Hamono has its manufacturing in the Japanese city of Hirosaki. Since the 17th century, the Nigara family has manufactured a variety of tools focusing on kitchen knives. In this series, premium SG2 steel is used, which gives the knife unmatched cutting characteristics and sharpness. The blade is thin and lightweight and the delicate edge perfectly glides through the produce. For the handle, Nigara has chosen to use wenge wood with a bolster in black buffalo horn. The combination of handle and blade is stunning and we are sure that this knife series will be immensely popular.\n\nFind it here and learn more: \nSwedish customers:  \nhttps://www.cleancut.se/butik/knivserier/nigara-%7C-sg2\nEU customers: \nhttps://www.cleancut.eu/butik/knifebrands/nigara-%7C-sg2-tsuchime\nUS customers:\nhttps://www.cleancut.eu/butik/knifebrands/nigara-%7C-sg2-tsuchime\n\nFollow us: \nFacebook: https://www.facebook.com/cleancut.se \nInstagram: https://www.instagram.com/cleancut.se/ \n\nWebsites: \nSWE: https://www.cleancut.se \nEU: https://www.cleancut.eu \nUS: https://www.cleancut.eu/\n\nCleancut is your number one retailer of hand made japanese knives and sharpening tools in Scandinavia.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/d4Foy_-d9c8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CLEANCUT",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nigara Hamono - Bunka | CLEANCUT.",
+            "description": "Bunka knife with 170 mm blade length.\nBlade height: 49 mm\nWeight: 150 gr\nBlade length: 169 mm\nSteel: Stainless SG2 steel with stainless clad. (HRC: 62-63)\n\nNigara Hamono has its manufacturing in the Japanese city of Hirosaki. Since the 17th century, the Nigara family has manufactured a variety of tools focusing on kitchen knives. In this series, premium SG2 steel is used, which gives the knife unmatched cutting characteristics and sharpness. The blade is thin and lightweight and the delicate edge perfectly glides through the produce. For the handle, Nigara has chosen to use wenge wood with a bolster in black buffalo horn. The combination of handle and blade is stunning and we are sure that this knife series will be immensely popular.\n\nFind it here and learn more: \nSwedish customers:  \nhttps://www.cleancut.se/butik/knivserier/nigara-%7C-sg2\nEU customers: \nhttps://www.cleancut.eu/butik/knifebrands/nigara-%7C-sg2-tsuchime\nUS customers:\nhttps://www.cleancut.eu/butik/knifebrands/nigara-%7C-sg2-tsuchime\n\nFollow us: \nFacebook: https://www.facebook.com/cleancut.se \nInstagram: https://www.instagram.com/cleancut.se/ \n\nWebsites: \nSWE: https://www.cleancut.se \nEU: https://www.cleancut.eu \nUS: https://www.cleancut.eu/\n\nCleancut is your number one retailer of hand made japanese knives and sharpening tools in Scandinavia."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1851",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}

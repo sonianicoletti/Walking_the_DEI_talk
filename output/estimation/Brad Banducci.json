@@ -1,0 +1,2006 @@
+{
+  "ceo": "Brad Banducci",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "xL95K7_YsdhwNQoN1ABU9UyEWLM",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 34,
+      "resultsPerPage": 19
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UhJVXGQoXxugmUDmsZkyyk1w9As",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vtd_wC1T2Wk"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-02T04:37:08Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3&quot;",
+          "description": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3 compared to the prior year with solidsales ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-02T04:37:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kKhKfU8yaC6lSEenvF4JsQazmig",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_CKl6Z7h2FA"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-17T01:30:14Z",
+          "channelId": "UCN9TIvgbQMPzGNrv2raR4Hg",
+          "title": "Woolworths CEO | Brad Banducci | Unconscious Bias, Wellbeing &amp; Authenticity",
+          "description": "Kicking off Season 2 of the Real STUFF podcast, Hunter Johnson is humbled to be in conversation with Woolworths CEO and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stuff That Matters",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-17T01:30:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tp-cKtjfl988wwu1LOlFNXMIUMA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ad0KBtzq0ZA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-27T07:15:16Z",
+          "channelId": "UCoWKwd06OC0Y0XpvAa8jfdw",
+          "title": "&#39;You have lied to us&#39;: senators lash KPMG Australia boss and allege cover-up",
+          "description": "Earlier this year, KPMG Australia told the Senate it \"does not engage in 'power mapping' or any other similar practice\". Subscribe ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Guardian Australia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-27T07:15:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PCFQTQsGyWrhQ16zKbCaRpK6tBg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_e6EsbpPa3M"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-19T03:13:31Z",
+          "channelId": "UCKqhE3YwFpjCyvY7BedTemg",
+          "title": "Hort Connections 2023 interview with Paul Turner, Woolworths",
+          "description": "Jodie Calwell, Business Development Manager at the International Fresh Produce Association Australia-New Zealand, chats to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AUSVEG",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-19T03:13:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7mg_aUil7-Pnv4z28iQ1Rv6IlfA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XuniWdkuFvY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-30T21:34:58Z",
+          "channelId": "UCX15yQQOgUllNFd8wNRV1KQ",
+          "title": "New Coles boss vows to bring prices &#39;down down&#39; | A Current Affair",
+          "description": "Subscribe here: http://9Soci.al/v6PJ50GjSKI | At a time when every cent counts, it's important to know who's in charge of our food.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A Current Affair",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-30T21:34:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-lzoENqGY5MzfjBpODBFLGtKJls",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aVF8iJW4RF4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-02T01:58:19Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Coles will take a provision of $25 million for underpaying managers.",
+          "description": "The supermarket chain group will conduct more remediation relating to the reconciliation of available records of the days and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-02T01:58:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iM3XKxc4Xp24Xk7CSS1fJVgFs-s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eu4bgXu-ggA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-04T09:49:46Z",
+          "channelId": "UCIYLOcEUX6TbBo7HQVF2PKA",
+          "title": "Aussie takes frustration with grocery prices to a new level | 9 News Australia",
+          "description": "Subscribe and : http://9Soci.al/KM6e50GjSK9 | A Sydney-based graphic designer has taken his frustration at the rising cost of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "9 News Australia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-04T09:49:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qWDcEOSeFExr24H-hdqu-cQHn5Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lq2W5WyR_xI"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-01T01:59:37Z",
+          "channelId": "UCRMikC-2eGuUVR93w0U6LJA",
+          "title": "Going for a Woolworths Interview",
+          "description": "Hi, I was going for a Woolworths interview and thought of making a video about it.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "rxzhik",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-01T01:59:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-At-LPAMyrSaJXPLNwbkyv18Vt8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "imMLj4L5i6E"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-04T03:10:12Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "Consumer activists plant mock price tags at Coles and Woolworths",
+          "description": "Sky News host Paul Murray reacts to consumer activists putting up fake price tags that accuse supermarket giants of price gouging ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-04T03:10:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R3-RU1Jkek9LJjOAVFtttAT15ZY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YcLWSfB3VoI"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-23T07:40:00Z",
+          "channelId": "UC42-s2hAo-wjx6ysNbyUDMQ",
+          "title": "Down down, prices are down. Love the fresh food people #woolies #coles #arroncrascall",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "GET LOST with a Travel Guide ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-23T07:40:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UP8GLxua_6PFJrjdWIOf5MB58qk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2FA02hJ-UPU"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-21T01:12:56Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Coles Group New CEO",
+          "description": "Australian grocer the Coles Group has a new CEO. Leah Weckert has been appointed as chief executive officer and managing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-21T01:12:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9kaNpZG_PAYWl0ZZq6YJxMD5qBk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KJwMvGOjL8w"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-21T06:06:49Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "Coles appoints Leah Weckert to replace Steven Cain as CEO",
+          "description": "Supermarket chain Coles surprised markets today by announcing CEO Steven Cain will retire after five years and be replaced by ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-21T06:06:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Fmoy5z32vZgFliR-W7cYPDTtCbk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hM1ROJ9n6wE"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T16:44:52Z",
+          "channelId": "UCfM-3hDSJkd2M_YGSn8oVkw",
+          "title": "Melbourne Street Scenes, 2010s Australia",
+          "description": "Melbourne Street Scenes, 2010s Australia from the Kinolibrary Archive Film Collections. Clip ref GZ38 available in HD.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kinolibrary",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T16:44:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2p4UP3Sn293TjhzYF2f8E_U1DcI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aBWPKxBFgZo"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-21T23:06:45Z",
+          "channelId": "UCf8HKKGakmV1kW-GnbFblAQ",
+          "title": "COME SHOPPING WITH US AT COLES LOCAL MANLY",
+          "description": "Come shopping with Beth to Coles Local Manly to shop all ingredients for a delicious breakfast treat - Mozzarella Hash Browns!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dairy Free Down Under",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-21T23:06:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oUD9cTC37rxkP55Oh6OBYe2FFxM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "htcSBM40xHE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-27T01:43:30Z",
+          "channelId": "UCYJXNW8U2mQiqFq9f_rjTWA",
+          "title": "Alexis George, CEO of AMP | Meet The CEO",
+          "description": "UNSW Business School invites you to a thought-provoking Meet the CEO livestream. In an engaging interview with UNSW ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "UNSW Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-27T01:43:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SRXJHZyI_SmMq8zmiKqfqkrJenM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tl0ETZjez7w"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-21T23:27:56Z",
+          "channelId": "UCFhMxMSK-AzTuTteBLN3PEg",
+          "title": "Quick Grocery shopping at Woolies Metro - Parramatta, Sydney,  Australia.#costofliving #deals #2023",
+          "description": "After a long travel using Sydney's train system we wanted to grab some milk and cereals, and ended up at Woolies Metro thats just ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Adventure Bites & Crafts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-21T23:27:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NMBywG9cpOM4XzpbgCPckgE2V4A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "djMcNSNTr-c"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-18T12:43:18Z",
+          "channelId": "UCjh53m7HrwMx-2T_-GszRFg",
+          "title": "Brazil boosts bird flu defense to protect world&#39;s top chicken industry#news",
+          "description": "Brazil boosts bird flu defense to protect world's top chicken industry CAMPINAS, Brazil, May 17 (Reuters) - Brazil is taking extra ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "YoutubeNews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-18T12:43:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XQv8RwaXQxsYvN2eZuab4gu8BQA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J9LKd9ZRZCQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-26T09:58:27Z",
+          "channelId": "UCApU-1WCQ156Od1YN4M8W4g",
+          "title": "Woolworth in nur 3 Minuten",
+          "description": "Alles wird schneller, komplexer und globaler. Mit diesen Ver\u00e4nderungen w\u00e4chst das Bed\u00fcrfnis nach Verl\u00e4sslichkeit, Halt und ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Woolworth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-26T09:58:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ejhNFTA8dba6KsRykoOq2mfo9x4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "I3XHNQCC_T4"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-16T03:47:01Z",
+          "channelId": "UCWbzkEt23deESq-slNXSuFQ",
+          "title": "BHP Shareholder Q&amp;A 2023",
+          "description": "BHP Shareholder Q&A 2023 with Mike Henry, David Lamont and Geraldine Slattery.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BHP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-16T03:47:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "x94oKUOdh6OqUD28eqmiytcKxk4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "l5BIJxeWZJ15lqhajpFZSN8rrTw",
+        "id": "vtd_wC1T2Wk",
+        "snippet": {
+          "publishedAt": "2023-05-02T04:37:08Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3\"",
+          "description": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3 compared to the prior year with solidsales growth across all of our businesses. Availability scores in our Food businesses are improving as supply chains slowly recover, but customers are concerned about the impact of ongoing inflation on household budgets. \u201cIn general, customer spending is stable. However, value-conscious customers are becoming more thoughtful about their discretionary spend, trading into more affordable options such as our own brands and looking for additional ways to save in store or through our Digital, Rewards and eCommerce platforms. \u201cIn Australian Food, sales increased by 7.6% driven by Woolworths Food Retail sales growth of 7.4%. Woolworths Supermarkets and Metro Food Stores store-originated growth was strong as customers shopped more in store and eCom sales returned to growth after cycling COVID impacts in the prior year.\n\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\n#kalkinemedia #aunews #woolworths #retail #sales\n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vtd_wC1T2Wk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "tags": [
+            "au news",
+            "kalkinemedia",
+            "kalkinemedia au",
+            "woolworths group",
+            "woolworths",
+            "asx wow",
+            "retail",
+            "sales",
+            "consumer",
+            "produce",
+            "food products",
+            "food business",
+            "food and beverage",
+            "food store",
+            "supermarket",
+            "inflation",
+            "eCommerce",
+            "consumer products"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3\"",
+            "description": "Woolworths Group CEO, Brad Banducci, said: \u201cGroup sales increased by 8.0% in Q3 compared to the prior year with solidsales growth across all of our businesses. Availability scores in our Food businesses are improving as supply chains slowly recover, but customers are concerned about the impact of ongoing inflation on household budgets. \u201cIn general, customer spending is stable. However, value-conscious customers are becoming more thoughtful about their discretionary spend, trading into more affordable options such as our own brands and looking for additional ways to save in store or through our Digital, Rewards and eCommerce platforms. \u201cIn Australian Food, sales increased by 7.6% driven by Woolworths Food Retail sales growth of 7.4%. Woolworths Supermarkets and Metro Food Stores store-originated growth was strong as customers shopped more in store and eCom sales returned to growth after cycling COVID impacts in the prior year.\n\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\n#kalkinemedia #aunews #woolworths #retail #sales\n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "98",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sgDtJFA1DM0DE0_5oPOQ2ej4tpw",
+        "id": "_CKl6Z7h2FA",
+        "snippet": {
+          "publishedAt": "2023-04-17T01:30:14Z",
+          "channelId": "UCN9TIvgbQMPzGNrv2raR4Hg",
+          "title": "Woolworths CEO | Brad Banducci | Unconscious Bias, Wellbeing & Authenticity",
+          "description": "Kicking off Season 2 of the Real STUFF podcast, Hunter Johnson is humbled to be in conversation with Woolworths CEO and Managing Director Brad Banducci, one of the most respected corporate leaders in the country. Their chat explores purpose, leadership, and well-being in business and in life.\n\nBrad is incredibly self aware and shares his perspectives on conscious bias, the importance of diversity in good decision making, and how his daughters have played a role in shaping his views. He also spends his Saturdays travelling to suburbs like Blacktown, Penrith and Parramatta to ensure he has an authentic understanding of his customers and their needs. (How many other CEOs of ASX-listed companies could say the same?)\n\nBrad demonstrates a genuine care and concern for the mental wellbeing of his workforce  - which numbers over 200,000 people - and opens up about suicide rates within the business and what is being done to support Woolworths employees\n\nIf you\u2019re keen to know what it takes to be Australia\u2019s #1 most trusted brand, listen in to Brad Banducci lift the lid in his chat with Hunter Johnson on Real STUFF.\n\nIt\u2019s a confusing time to be a man. We see guys all around us suffering under the weight of limiting, toxic stereotypes that are reinforced by outdated brands. We know that suicide is the country\u2019s leading cause of death for guys aged under 45; one in five boys will experience mental illness before the age of 18; and family violence kills at least one woman every week. \n\nWe believe this is preventable if we invest in initiatives that allow men to break free of limiting constructs and express themselves more freely. Consumer brands shape culture, and there is a huge opportunity for STUFF to help tackle the escalating crisis around masculinity. It is urgent that we find new ways to do so and that\u2019s why we\u2019re here: to reflect a more authentic masculinity.\n\nA podcast by STUFF\nwww.websiteofstuff.com\nwww.instagram.com/followthestuff",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_CKl6Z7h2FA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stuff That Matters",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Woolworths CEO | Brad Banducci | Unconscious Bias, Wellbeing & Authenticity",
+            "description": "Kicking off Season 2 of the Real STUFF podcast, Hunter Johnson is humbled to be in conversation with Woolworths CEO and Managing Director Brad Banducci, one of the most respected corporate leaders in the country. Their chat explores purpose, leadership, and well-being in business and in life.\n\nBrad is incredibly self aware and shares his perspectives on conscious bias, the importance of diversity in good decision making, and how his daughters have played a role in shaping his views. He also spends his Saturdays travelling to suburbs like Blacktown, Penrith and Parramatta to ensure he has an authentic understanding of his customers and their needs. (How many other CEOs of ASX-listed companies could say the same?)\n\nBrad demonstrates a genuine care and concern for the mental wellbeing of his workforce  - which numbers over 200,000 people - and opens up about suicide rates within the business and what is being done to support Woolworths employees\n\nIf you\u2019re keen to know what it takes to be Australia\u2019s #1 most trusted brand, listen in to Brad Banducci lift the lid in his chat with Hunter Johnson on Real STUFF.\n\nIt\u2019s a confusing time to be a man. We see guys all around us suffering under the weight of limiting, toxic stereotypes that are reinforced by outdated brands. We know that suicide is the country\u2019s leading cause of death for guys aged under 45; one in five boys will experience mental illness before the age of 18; and family violence kills at least one woman every week. \n\nWe believe this is preventable if we invest in initiatives that allow men to break free of limiting constructs and express themselves more freely. Consumer brands shape culture, and there is a huge opportunity for STUFF to help tackle the escalating crisis around masculinity. It is urgent that we find new ways to do so and that\u2019s why we\u2019re here: to reflect a more authentic masculinity.\n\nA podcast by STUFF\nwww.websiteofstuff.com\nwww.instagram.com/followthestuff"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT34M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1505",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tFIdG3kSTCNJznmtx5K_bSzeGi0",
+        "id": "Ad0KBtzq0ZA",
+        "snippet": {
+          "publishedAt": "2023-09-27T07:15:16Z",
+          "channelId": "UCoWKwd06OC0Y0XpvAa8jfdw",
+          "title": "'You have lied to us': senators lash KPMG Australia boss and allege cover-up",
+          "description": "Earlier this year, KPMG Australia told the Senate it \"does not engage in 'power mapping' or any other similar practice\". \nSubscribe to Guardian Australia on YouTube and hit the bell to see new videos \u25ba http://bit.ly/gdnaustraliasubs\n \nAt a Senate inquiry hearing in Canberra, Greens senator Barbara Pocock produced a document that showed a map of officials at a government department. Yates acknowledged the document contained the photos and names of dozens of public servants at an agency where KPMG Australia was operating. He also acknowledged the map showed the strength of the public servants' relationship with the firm.\n\nFollow the Australia news live blog for the latest updates \u25ba https://www.theguardian.com/australia-news/series/australian-news-live/latest?CMP=gdnaus_yt\n \nSupport the Guardian \u25ba https://support.theguardian.com/contribute\n \nWebsite \u25ba https://theguardian.com/au\nFacebook \u25ba https://facebook.com/theguardianaustralia\nInstagram \u25ba https://instagram.com/guardianaustralia\nTwitter \u25ba https://twitter.com/GuardianAus\nTikTok \u25ba https://tiktok.com/@guardianaustralia\nLinkedIn \u25ba https://linkedin.com/company/guardianaustralia\n \nSubscribe to the Guardian's other YouTube channels:\nThe Guardian \u25ba https://bit.ly/guardiannewssubs\nGuardian News \u25ba https://bit.ly/guardiannewssubs\nGuardian Football \u25ba https://bit.ly/gdnfootballsubs\nGuardian Sport \u25ba https://bit.ly/gdnsportsubs\nGuardian Live \u25ba https://bit.ly/guardianlivesubs\n\n#Australia #KPMG #Politics #Pocock #News",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ad0KBtzq0ZA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Guardian Australia",
+          "tags": [
+            "auspol",
+            "australian news",
+            "australian politics",
+            "business",
+            "canberra",
+            "deloitte",
+            "greens senator kpmg",
+            "greens sentaor pocock",
+            "kpmg",
+            "kpmg cover up",
+            "kpmg hearing",
+            "kpmg inquiry",
+            "kpmg power map",
+            "kpmg public officials",
+            "kpmg public officials map",
+            "pocock",
+            "pocock kpmg",
+            "power map",
+            "pwc",
+            "senate estimates"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "'You have lied to us': senators lash KPMG Australia boss and allege cover-up",
+            "description": "Earlier this year, KPMG Australia told the Senate it \"does not engage in 'power mapping' or any other similar practice\". \nSubscribe to Guardian Australia on YouTube and hit the bell to see new videos \u25ba http://bit.ly/gdnaustraliasubs\n \nAt a Senate inquiry hearing in Canberra, Greens senator Barbara Pocock produced a document that showed a map of officials at a government department. Yates acknowledged the document contained the photos and names of dozens of public servants at an agency where KPMG Australia was operating. He also acknowledged the map showed the strength of the public servants' relationship with the firm.\n\nFollow the Australia news live blog for the latest updates \u25ba https://www.theguardian.com/australia-news/series/australian-news-live/latest?CMP=gdnaus_yt\n \nSupport the Guardian \u25ba https://support.theguardian.com/contribute\n \nWebsite \u25ba https://theguardian.com/au\nFacebook \u25ba https://facebook.com/theguardianaustralia\nInstagram \u25ba https://instagram.com/guardianaustralia\nTwitter \u25ba https://twitter.com/GuardianAus\nTikTok \u25ba https://tiktok.com/@guardianaustralia\nLinkedIn \u25ba https://linkedin.com/company/guardianaustralia\n \nSubscribe to the Guardian's other YouTube channels:\nThe Guardian \u25ba https://bit.ly/guardiannewssubs\nGuardian News \u25ba https://bit.ly/guardiannewssubs\nGuardian Football \u25ba https://bit.ly/gdnfootballsubs\nGuardian Sport \u25ba https://bit.ly/gdnsportsubs\nGuardian Live \u25ba https://bit.ly/guardianlivesubs\n\n#Australia #KPMG #Politics #Pocock #News"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "43128",
+          "likeCount": "445",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Cnsm8QhtQpugpVHgveM_DQFx59c",
+        "id": "_e6EsbpPa3M",
+        "snippet": {
+          "publishedAt": "2023-06-19T03:13:31Z",
+          "channelId": "UCKqhE3YwFpjCyvY7BedTemg",
+          "title": "Hort Connections 2023 interview with Paul Turner, Woolworths",
+          "description": "Jodie Calwell, Business Development Manager at the International Fresh Produce Association Australia-New Zealand, chats to Hort Connection speaker Paul Turner, Commercial Director of Fruit & Vegetables at Woolworths Supermarkets, on the trends report and how this affects retailers and other industry bodies.\n\n\n\ud83c\udf31 Visit the AUSVEG website: https://www.ausveg.com.au\n\n\ud83c\udf31 Instagram: http://www.instagram.com/ausveg/\n\ud83c\udf31 Facebook: http://www.facebook.com/AUSVEG\n\ud83c\udf31 Twitter: http://twitter.com/AUSVEG",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_e6EsbpPa3M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AUSVEG",
+          "tags": [
+            "vegetables",
+            "fruit",
+            "horticulture",
+            "supermarket",
+            "consumers"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hort Connections 2023 interview with Paul Turner, Woolworths",
+            "description": "Jodie Calwell, Business Development Manager at the International Fresh Produce Association Australia-New Zealand, chats to Hort Connection speaker Paul Turner, Commercial Director of Fruit & Vegetables at Woolworths Supermarkets, on the trends report and how this affects retailers and other industry bodies.\n\n\n\ud83c\udf31 Visit the AUSVEG website: https://www.ausveg.com.au\n\n\ud83c\udf31 Instagram: http://www.instagram.com/ausveg/\n\ud83c\udf31 Facebook: http://www.facebook.com/AUSVEG\n\ud83c\udf31 Twitter: http://twitter.com/AUSVEG"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "389",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LlMuMYAowmu4-PuW1kklseCmFPA",
+        "id": "XuniWdkuFvY",
+        "snippet": {
+          "publishedAt": "2023-08-30T21:34:58Z",
+          "channelId": "UCX15yQQOgUllNFd8wNRV1KQ",
+          "title": "New Coles boss vows to bring prices 'down down' | A Current Affair",
+          "description": "Subscribe here: http://9Soci.al/v6PJ50GjSKI | At a time when every cent counts, it's important to know who's in charge of our food. Now, one of our biggest supermarkets has a new boss and they're bringing back a classic campaign with them. (Broadcast 29 August, 2023)\n\nStream full episodes on 9Now: https://9now.app.link/5Kxzlq5dX6 \n\nFollow ACA on Facebook: http://facebook.com/ACurrentAffair9\nFollow ACA on Twitter: http://twitter.com/ACurrentAffair9 \nFollow ACA on Instagram: http://instagram.com/ACurrentAffair9 \n\nA Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team. A Current Affairs airs weeknights 7.00pm on Channel 9\n\n#ACA #ACurrentAffair",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XuniWdkuFvY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "A Current Affair",
+          "tags": [
+            "a current affair",
+            "a current affair reporter",
+            "a current affair australia",
+            "channel 9 news",
+            "9 news australia",
+            "australia news",
+            "world news",
+            "australian news",
+            "channel 9"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New Coles boss vows to bring prices 'down down' | A Current Affair",
+            "description": "Subscribe here: http://9Soci.al/v6PJ50GjSKI | At a time when every cent counts, it's important to know who's in charge of our food. Now, one of our biggest supermarkets has a new boss and they're bringing back a classic campaign with them. (Broadcast 29 August, 2023)\n\nStream full episodes on 9Now: https://9now.app.link/5Kxzlq5dX6 \n\nFollow ACA on Facebook: http://facebook.com/ACurrentAffair9\nFollow ACA on Twitter: http://twitter.com/ACurrentAffair9 \nFollow ACA on Instagram: http://instagram.com/ACurrentAffair9 \n\nA Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team. A Current Affairs airs weeknights 7.00pm on Channel 9\n\n#ACA #ACurrentAffair"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21009",
+          "likeCount": "136",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "q3qh2uTPWTAYZ7CMI6ZzECfpiB8",
+        "id": "aVF8iJW4RF4",
+        "snippet": {
+          "publishedAt": "2023-06-02T01:58:19Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Coles will take a provision of $25 million for underpaying managers.",
+          "description": "The supermarket chain group will conduct more remediation relating to the reconciliation of available records of the days and hours of work of its managers. A class action and a separate proceeding by the Fair Work Ombudsman have started in the Federal Court,\n\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aVF8iJW4RF4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "tags": [
+            "Coles",
+            "supermarket chain group",
+            "the Federal Court",
+            "underpayment",
+            "salaries",
+            "General Retail Industry Award",
+            "Coles expressed"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Coles will take a provision of $25 million for underpaying managers.",
+            "description": "The supermarket chain group will conduct more remediation relating to the reconciliation of available records of the days and hours of work of its managers. A class action and a separate proceeding by the Fair Work Ombudsman have started in the Federal Court,\n\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "190",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YqptEPwJqHYOqLGQbgPbQD0BQtA",
+        "id": "eu4bgXu-ggA",
+        "snippet": {
+          "publishedAt": "2023-09-04T09:49:46Z",
+          "channelId": "UCIYLOcEUX6TbBo7HQVF2PKA",
+          "title": "Aussie takes frustration with grocery prices to a new level | 9 News Australia",
+          "description": "Subscribe and \ud83d\udd14: http://9Soci.al/KM6e50GjSK9 | A Sydney-based graphic designer has taken his frustration at the rising cost of groceries to a whole new level.\n\nFOLLOW 9News Australia\n\u25ba Facebook: https://www.facebook.com/9News/\n\u25ba Twitter: https://twitter.com/9NewsAUS\n\u25ba Instagram: https://www.instagram.com/9news/\n\nJoin 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.\n\n#9News #BreakingNews #NineNewsAustralia #9NewsAUS",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eu4bgXu-ggA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "9 News Australia",
+          "tags": [
+            "Nine News Australia",
+            "Channel 9",
+            "Nine news",
+            "channel 9 news",
+            "Australia News",
+            "Australian News",
+            "Sydney News",
+            "Melbourne News",
+            "Latest news Australia",
+            "9news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Aussie takes frustration with grocery prices to a new level | 9 News Australia",
+            "description": "Subscribe and \ud83d\udd14: http://9Soci.al/KM6e50GjSK9 | A Sydney-based graphic designer has taken his frustration at the rising cost of groceries to a whole new level.\n\nFOLLOW 9News Australia\n\u25ba Facebook: https://www.facebook.com/9News/\n\u25ba Twitter: https://twitter.com/9NewsAUS\n\u25ba Instagram: https://www.instagram.com/9news/\n\nJoin 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.\n\n#9News #BreakingNews #NineNewsAustralia #9NewsAUS"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT2M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "236577",
+          "likeCount": "2445",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "np0GrDw269bmb71hVpMPywIcZus",
+        "id": "lq2W5WyR_xI",
+        "snippet": {
+          "publishedAt": "2023-02-01T01:59:37Z",
+          "channelId": "UCRMikC-2eGuUVR93w0U6LJA",
+          "title": "Going for a Woolworths Interview",
+          "description": "Hi, I was going for a Woolworths interview and thought of making a video about it.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lq2W5WyR_xI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "rxzhik",
+          "tags": [
+            "Melbourne",
+            "Woolworths"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Going for a Woolworths Interview",
+            "description": "Hi, I was going for a Woolworths interview and thought of making a video about it."
+          },
+          "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+          "duration": "PT9M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2138",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NyYdgd_wcWlcxm9VpfQ_sIGFHW4",
+        "id": "imMLj4L5i6E",
+        "snippet": {
+          "publishedAt": "2023-09-04T03:10:12Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "Consumer activists plant mock price tags at Coles and Woolworths",
+          "description": "Sky News host Paul Murray reacts to consumer activists putting up fake price tags that accuse supermarket giants of price gouging amid cost-of-living pressures.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/imMLj4L5i6E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "tags": [
+            "6336544251112",
+            "fb",
+            "msn",
+            "opinion",
+            "paulmurray",
+            "yt"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Consumer activists plant mock price tags at Coles and Woolworths",
+            "description": "Sky News host Paul Murray reacts to consumer activists putting up fake price tags that accuse supermarket giants of price gouging amid cost-of-living pressures."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7467",
+          "likeCount": "70",
+          "favoriteCount": "0",
+          "commentCount": "51"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "11b1JuZcMrOGTzW8WIidDnh9LqY",
+        "id": "YcLWSfB3VoI",
+        "snippet": {
+          "publishedAt": "2023-02-23T07:40:00Z",
+          "channelId": "UC42-s2hAo-wjx6ysNbyUDMQ",
+          "title": "Down down, prices are down. Love the fresh food people #woolies #coles #arroncrascall",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YcLWSfB3VoI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GET LOST with a Travel Guide ",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Down down, prices are down. Love the fresh food people #woolies #coles #arroncrascall",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "647",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WWyINW_UwmS0awFiEoUHoPO3duc",
+        "id": "2FA02hJ-UPU",
+        "snippet": {
+          "publishedAt": "2023-02-21T01:12:56Z",
+          "channelId": "UCCqqvuhldqUbRrvfek50N9w",
+          "title": "Coles Group New CEO",
+          "description": "Australian grocer the Coles Group has a new CEO. Leah Weckert has been appointed as chief executive officer and managing director with effect from May 1, upon the retirement of Steven Cain.\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2FA02hJ-UPU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kalkine Media",
+          "tags": [
+            "Coles Group",
+            "New CEO",
+            "Wesfarmers Group"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Coles Group New CEO",
+            "description": "Australian grocer the Coles Group has a new CEO. Leah Weckert has been appointed as chief executive officer and managing director with effect from May 1, upon the retirement of Steven Cain.\nWorld News with in-depth analysis \u2013 trusted & transparent! Kalkine Media is on a mission to empower its viewers with quality news coverage from across the globe. Tune into Kalkine Media\u2019s LIVE market news coverage, exclusive corporate interviews, expert talks, and trending stories of the day. \n\nCheck out Kalkine Media on mobile and download our app for iPhone and Android. Stay Apprised, Invest Wise! \nFor Android- bit.ly/3Gqlrpk\nFor Apple- bit.ly/3WVTMBY\n\nCheck out our media Website \ud83d\udc49 https://kalkinemedia.com/au \nFollow us and stay updated on the Go with the Market Charter \ud83d\udc47\ud83d\udc47\nFacebook - https://www.facebook.com/kalkineau/ \nTwitter - https://twitter.com/kalkineau \nLinkedIn - https://www.linkedin.com/company/4829818"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1237",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eYR5D9jGS1lGWS9TeRJseIHo2es",
+        "id": "KJwMvGOjL8w",
+        "snippet": {
+          "publishedAt": "2023-02-21T06:06:49Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "Coles appoints Leah Weckert to replace Steven Cain as CEO",
+          "description": "Supermarket chain Coles surprised markets today by announcing CEO Steven Cain will retire after five years and be replaced by Coles Chief Executive Commercial and Express Leah Weckert.\n\nMr Cain guided Coles through COVID and oversaw the development of an automated distribution centre in Queensland and a joint venture with UK robotic online supermarket Ocado.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KJwMvGOjL8w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "tags": [
+            "6320900367112",
+            "fb",
+            "msn",
+            "opinion",
+            "rossgreenwood",
+            "yt"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Coles appoints Leah Weckert to replace Steven Cain as CEO",
+            "description": "Supermarket chain Coles surprised markets today by announcing CEO Steven Cain will retire after five years and be replaced by Coles Chief Executive Commercial and Express Leah Weckert.\n\nMr Cain guided Coles through COVID and oversaw the development of an automated distribution centre in Queensland and a joint venture with UK robotic online supermarket Ocado."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1139",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "32"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xliSm92kFNc3P0LJVS9hlsV2dZo",
+        "id": "hM1ROJ9n6wE",
+        "snippet": {
+          "publishedAt": "2023-04-27T16:44:52Z",
+          "channelId": "UCfM-3hDSJkd2M_YGSn8oVkw",
+          "title": "Melbourne Street Scenes, 2010s Australia",
+          "description": "Melbourne Street Scenes, 2010s Australia from the Kinolibrary Archive Film Collections. Clip ref GZ38 available in HD. For commercial projects only. To order the clip clean and high res, or to find out more about our various archive collections, visit http://www.kinolibrary.com. \n\nDiscover our brilliant range of archive footage here: https://stories.kinolibrary.com/collection-highlights/\n\n2010s Australia Melbourne street scenes, train station, shopping street.\n\naustralia, melbourne, street scenes, city\n\nKinolibrary is a commercial archive film agency supplying high quality, rare and inspiring footage to media professionals. Our collections cover a wealth of eclectic and intriguing themes, locations and eras\n\nWEBSITE: http://kinolibrary.com/ \nTWITTER: https://twitter.com/thekinolibrary \nFACEBOOK: https://www.facebook.com/Kinolibrary/ \nINSTAGRAM: https://www.instagram.com/kinolibrary/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hM1ROJ9n6wE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kinolibrary",
+          "tags": [
+            "kinolibrary",
+            "kino library",
+            "stock footage",
+            "archive footage",
+            "archive",
+            "footage",
+            "australia",
+            "melbourne",
+            "street scenes",
+            "city"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Melbourne Street Scenes, 2010s Australia",
+            "description": "Melbourne Street Scenes, 2010s Australia from the Kinolibrary Archive Film Collections. Clip ref GZ38 available in HD. For commercial projects only. To order the clip clean and high res, or to find out more about our various archive collections, visit http://www.kinolibrary.com. \n\nDiscover our brilliant range of archive footage here: https://stories.kinolibrary.com/collection-highlights/\n\n2010s Australia Melbourne street scenes, train station, shopping street.\n\naustralia, melbourne, street scenes, city\n\nKinolibrary is a commercial archive film agency supplying high quality, rare and inspiring footage to media professionals. Our collections cover a wealth of eclectic and intriguing themes, locations and eras\n\nWEBSITE: http://kinolibrary.com/ \nTWITTER: https://twitter.com/thekinolibrary \nFACEBOOK: https://www.facebook.com/Kinolibrary/ \nINSTAGRAM: https://www.instagram.com/kinolibrary/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "357",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YBTUPFrqzr35VMWWNJoEUdxgBUo",
+        "id": "aBWPKxBFgZo",
+        "snippet": {
+          "publishedAt": "2023-05-21T23:06:45Z",
+          "channelId": "UCf8HKKGakmV1kW-GnbFblAQ",
+          "title": "COME SHOPPING WITH US AT COLES LOCAL MANLY",
+          "description": "Come shopping with Beth to Coles Local Manly to shop all ingredients for a delicious breakfast treat - Mozzarella Hash Browns! Vegan-Friendly & Dairy-Free! \n\nThese vegan-friendly hash browns are a delicious alternative to traditional hash browns. They are perfect for a quick and easy breakfast. The DFDU Mozzarella Style Shreds give the hash browns a rich and creamy flavour, while our Aioli Style, sauce provides a tangy and delicious dip. You can even add your favourite herbs and spices to the mixture for extra flavour.\n\nShop everything at Coles Local stores. \n\nFull Recipe: https://dairyfreedownunder.com.au/vegan-crispy-mozzarella-hash-browns/ \nStockists: https://dairyfreedownunder.com.au/stockists/\nInstagram: @dairyfreedownunder_  \nSubscribe: @dairyfreedownunder_",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aBWPKxBFgZo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dairy Free Down Under",
+          "tags": [
+            "DAIRY FREE RECIPES",
+            "COME SHOPPING WITH US",
+            "SHOPPING HAUL",
+            "DAIRY FREE DOWN UNDER",
+            "COLES LOCAL",
+            "COLES LOCAL SHOPPING HAUL",
+            "VEGAN FRIENDLY HASHBROWNS"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "COME SHOPPING WITH US AT COLES LOCAL MANLY",
+            "description": "Come shopping with Beth to Coles Local Manly to shop all ingredients for a delicious breakfast treat - Mozzarella Hash Browns! Vegan-Friendly & Dairy-Free! \n\nThese vegan-friendly hash browns are a delicious alternative to traditional hash browns. They are perfect for a quick and easy breakfast. The DFDU Mozzarella Style Shreds give the hash browns a rich and creamy flavour, while our Aioli Style, sauce provides a tangy and delicious dip. You can even add your favourite herbs and spices to the mixture for extra flavour.\n\nShop everything at Coles Local stores. \n\nFull Recipe: https://dairyfreedownunder.com.au/vegan-crispy-mozzarella-hash-browns/ \nStockists: https://dairyfreedownunder.com.au/stockists/\nInstagram: @dairyfreedownunder_  \nSubscribe: @dairyfreedownunder_"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "894",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3xfo3qgm9ZhzXWLDhHiTZHIk3aE",
+        "id": "htcSBM40xHE",
+        "snippet": {
+          "publishedAt": "2023-10-27T01:43:30Z",
+          "channelId": "UCYJXNW8U2mQiqFq9f_rjTWA",
+          "title": "Alexis George, CEO of AMP | Meet The CEO",
+          "description": "UNSW Business School invites you to a thought-provoking Meet the CEO livestream. In an engaging interview with UNSW alumna Ellen Derrick (AGSM MBA 2006), Alexis (BCom 1986) will share her experiences and perspectives on her early life and distinguished career. Alexis will also discuss her approach to leadership and the positive change she has instilled within AMP and the financial services industry, highlighting key accomplishments and lessons learnt along the way.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/htcSBM40xHE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UNSW Business School",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Alexis George, CEO of AMP | Meet The CEO",
+            "description": "UNSW Business School invites you to a thought-provoking Meet the CEO livestream. In an engaging interview with UNSW alumna Ellen Derrick (AGSM MBA 2006), Alexis (BCom 1986) will share her experiences and perspectives on her early life and distinguished career. Alexis will also discuss her approach to leadership and the positive change she has instilled within AMP and the financial services industry, highlighting key accomplishments and lessons learnt along the way."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1H4M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2587",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QhcD3aqt0yXaOaheAOYyAIgRTU4",
+        "id": "tl0ETZjez7w",
+        "snippet": {
+          "publishedAt": "2023-01-21T23:27:56Z",
+          "channelId": "UCFhMxMSK-AzTuTteBLN3PEg",
+          "title": "Quick Grocery shopping at Woolies Metro - Parramatta, Sydney,  Australia.#costofliving #deals #2023",
+          "description": "After a long travel using Sydney's train system we wanted to grab some milk and cereals, and ended up at Woolies Metro thats just next to the Parramatta Train Station. The train station also connects to the Westfield Mall in Parramatta. #groceryshopping \n\nEnjoy the video, Sound by Bensounds.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tl0ETZjez7w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Adventure Bites & Crafts",
+          "tags": [
+            "Woolworths Supermarket",
+            "Woolworths",
+            "Woolworths Deals",
+            "Sydney Shopping",
+            "Sydney Grocery Shopping",
+            "Life in Syndey",
+            "Cost Of Living Sydney",
+            "Sydney Deals shopping",
+            "Easy Shopping Sydney",
+            "Sydney Metro Shopping",
+            "Woolies MEtro",
+            "Metro",
+            "Sydney Groceries",
+            "Sydney Milk Price",
+            "Quick Shopping Sydney",
+            "Where to get groceries Sydney"
+          ],
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Quick Grocery shopping at Woolies Metro - Parramatta, Sydney,  Australia.#costofliving #deals #2023",
+            "description": "After a long travel using Sydney's train system we wanted to grab some milk and cereals, and ended up at Woolies Metro thats just next to the Parramatta Train Station. The train station also connects to the Westfield Mall in Parramatta. #groceryshopping \n\nEnjoy the video, Sound by Bensounds.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "369",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RiCg6RggdvQQSgxlcMyLhGOqzvA",
+        "id": "djMcNSNTr-c",
+        "snippet": {
+          "publishedAt": "2023-05-18T12:43:18Z",
+          "channelId": "UCjh53m7HrwMx-2T_-GszRFg",
+          "title": "Brazil boosts bird flu defense to protect world's top chicken industry#news",
+          "description": "Brazil boosts bird flu defense to protect world's top chicken industry\n\nCAMPINAS, Brazil, May 17 (Reuters) - Brazil is taking extra precautions to protect the world's largest poultry export industry from a highly pathogenic avian influenza virus that was this week detected among wild birds in the country after previously hitting neighboring nations.\n\nNearly $10 billion of chicken exports would be at risk if H5N1 bird flu infects commercial flocks in Brazil, which has taken on a growing role in supplying the world's poultry and eggs as importing nations ban chicken and turkey meat from countries with the virus.\nOn Monday, the only World Organization for Animal Health (WOAH) accredited lab in Latin America confirmed detection of H5N1 in two wild Thalasseus acuflavidus birds, or Cabot's terns, and one Brown Booby (Sula leucogaster) captured in Espirito Santo state.\n\nPer protocol, local veterinarians in Espirito Santo took samples from the birds on site and sent them to the reference lab in Campinas, Brazil.\n\n\"The entire industry is mobilized to monitor the situation identified in Espirito Santo,\" national meat lobby ABPA said in a statement.\nA case of bird flu on a farm usually results in the entire flock being killed and can trigger trade restrictions from importing countries, while detection among wild birds does not spark bans under WOAH guidelines.\n\nBrazilian officials say they do not expect the cases in wild birds to have any trade impact, and noted Espirito Santo on Brazil's central Atlantic coast does not border any of the country's main poultry producing states in the far south.\n\nIn other countries, avian flu outbreaks in wild birds have frequently been followed by transmission to commercial flocks.\n\nBird flu outbreaks have contributed to higher prices of poultry and eggs, normally an affordable source of protein.\n\nThe Brazilian government this year raised investments 19-fold to increase testing capacity at its network of six federal laboratories, and increased the overall budget of its Animal and Plant Health and Inspection Services by some 12% to 209 million reais ($42 million).\n\"For every 1 real spent in the Campinas federal laboratory, some 64 reais of potential losses are avoided to the meat industry,\" said Rodrigo Nazareno, who coordinates the national laboratory network.\n\nReuters visited WOAH's reference lab on April 25, before this week's positive test. Lab workers were already on high alert after more than 75 outbreaks of highly pathogenic avian influenza were reported in nine countries in Central and South America, many for the first time ever.\n\nAs poultry farmers increased monitoring, Brazil saw a six-fold increase in suspect case notifications through early May.\n\nDRONES ON PATROL\nBrazil in recent weeks started using drones to patrol sensitive areas such as the Pantanal, the world's largest freshwater wetland, and implemented a strict ban on commercial farm visits by non-authorized persons.\n\nAfter cases were confirmed in neighboring Argentina and Uruguay, Brazil announced in late March a 90-day suspension of all events involving the exposition of poultry.\n\nThe agriculture ministry told Reuters that more testing may be required within a 10-km (6.2-mile) radius of the Espirito Santo outbreaks, including of commercial flocks, and that it will maintain surveillance of potential cases in wild birds nationwide.\n\nBrazil's chicken export revenue jumped by more than 27% in dollars last year as local companies benefited from the global avian flu scare, which opened up new markets.\n\nChina and the Middle East remained big customers. And the European Union, where countries like France had to kill millions of birds to contain outbreaks, boosted import volumes from Brazil by some 23%, industry data show.\n\nSince early 2022, wild birds have spread the highly infectious virus farther and wider around the world than ever before. While humans can contract H5N1, such cases remain rare, and global health officials have said the risk to humans is low.\n\nThe virus arrived in South America through migratory birds, said Masaio Mizuno Ishizuka, a senior epidemiologist at the University of Sao Paulo.\n\nNormally birds will only spread bird flu for around five days. But the virus' presence in small sea life the birds feed on may have enabled its broader spread this year, she said.\n\n\"The virus is extremely capable of presenting mutations to increase its potential for survival as a species,\" Ishizuka cautioned.#news",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/djMcNSNTr-c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YoutubeNews",
+          "tags": [
+            "News",
+            "youtube",
+            "youtubenews",
+            "news today",
+            "news in us",
+            "news in a",
+            "usa today",
+            "bbc",
+            "bbcnews",
+            "ABC News",
+            "Voice of America",
+            "Fox News",
+            "NBC News",
+            "Insider News",
+            "NBC News World",
+            "ABS-CBN News",
+            "CNA",
+            "Breaking News",
+            "Fresh News",
+            "News18 India",
+            "PNN News",
+            "Us"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Brazil boosts bird flu defense to protect world's top chicken industry#news",
+            "description": "Brazil boosts bird flu defense to protect world's top chicken industry\n\nCAMPINAS, Brazil, May 17 (Reuters) - Brazil is taking extra precautions to protect the world's largest poultry export industry from a highly pathogenic avian influenza virus that was this week detected among wild birds in the country after previously hitting neighboring nations.\n\nNearly $10 billion of chicken exports would be at risk if H5N1 bird flu infects commercial flocks in Brazil, which has taken on a growing role in supplying the world's poultry and eggs as importing nations ban chicken and turkey meat from countries with the virus.\nOn Monday, the only World Organization for Animal Health (WOAH) accredited lab in Latin America confirmed detection of H5N1 in two wild Thalasseus acuflavidus birds, or Cabot's terns, and one Brown Booby (Sula leucogaster) captured in Espirito Santo state.\n\nPer protocol, local veterinarians in Espirito Santo took samples from the birds on site and sent them to the reference lab in Campinas, Brazil.\n\n\"The entire industry is mobilized to monitor the situation identified in Espirito Santo,\" national meat lobby ABPA said in a statement.\nA case of bird flu on a farm usually results in the entire flock being killed and can trigger trade restrictions from importing countries, while detection among wild birds does not spark bans under WOAH guidelines.\n\nBrazilian officials say they do not expect the cases in wild birds to have any trade impact, and noted Espirito Santo on Brazil's central Atlantic coast does not border any of the country's main poultry producing states in the far south.\n\nIn other countries, avian flu outbreaks in wild birds have frequently been followed by transmission to commercial flocks.\n\nBird flu outbreaks have contributed to higher prices of poultry and eggs, normally an affordable source of protein.\n\nThe Brazilian government this year raised investments 19-fold to increase testing capacity at its network of six federal laboratories, and increased the overall budget of its Animal and Plant Health and Inspection Services by some 12% to 209 million reais ($42 million).\n\"For every 1 real spent in the Campinas federal laboratory, some 64 reais of potential losses are avoided to the meat industry,\" said Rodrigo Nazareno, who coordinates the national laboratory network.\n\nReuters visited WOAH's reference lab on April 25, before this week's positive test. Lab workers were already on high alert after more than 75 outbreaks of highly pathogenic avian influenza were reported in nine countries in Central and South America, many for the first time ever.\n\nAs poultry farmers increased monitoring, Brazil saw a six-fold increase in suspect case notifications through early May.\n\nDRONES ON PATROL\nBrazil in recent weeks started using drones to patrol sensitive areas such as the Pantanal, the world's largest freshwater wetland, and implemented a strict ban on commercial farm visits by non-authorized persons.\n\nAfter cases were confirmed in neighboring Argentina and Uruguay, Brazil announced in late March a 90-day suspension of all events involving the exposition of poultry.\n\nThe agriculture ministry told Reuters that more testing may be required within a 10-km (6.2-mile) radius of the Espirito Santo outbreaks, including of commercial flocks, and that it will maintain surveillance of potential cases in wild birds nationwide.\n\nBrazil's chicken export revenue jumped by more than 27% in dollars last year as local companies benefited from the global avian flu scare, which opened up new markets.\n\nChina and the Middle East remained big customers. And the European Union, where countries like France had to kill millions of birds to contain outbreaks, boosted import volumes from Brazil by some 23%, industry data show.\n\nSince early 2022, wild birds have spread the highly infectious virus farther and wider around the world than ever before. While humans can contract H5N1, such cases remain rare, and global health officials have said the risk to humans is low.\n\nThe virus arrived in South America through migratory birds, said Masaio Mizuno Ishizuka, a senior epidemiologist at the University of Sao Paulo.\n\nNormally birds will only spread bird flu for around five days. But the virus' presence in small sea life the birds feed on may have enabled its broader spread this year, she said.\n\n\"The virus is extremely capable of presenting mutations to increase its potential for survival as a species,\" Ishizuka cautioned.#news"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT5M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4AWTgaomSZ0kX_Jlxl-4we77ix8",
+        "id": "J9LKd9ZRZCQ",
+        "snippet": {
+          "publishedAt": "2023-04-26T09:58:27Z",
+          "channelId": "UCApU-1WCQ156Od1YN4M8W4g",
+          "title": "Woolworth in nur 3 Minuten",
+          "description": "Alles wird schneller, komplexer und globaler. Mit diesen Ver\u00e4nderungen w\u00e4chst das Bed\u00fcrfnis nach Verl\u00e4sslichkeit, Halt und Vertrautem. Wir geben den Menschen dieses Gef\u00fchl. \nWir sind H\u00e4ndler und wir leben Handel mit Herz und Hand. Seit der Gr\u00fcndung der Woolworth GmbH 2010 haben wir t\u00e4glich an uns, unseren Produkten und unserem Einkaufserlebnis gearbeitet. Und dabei nie vergessen wie wichtig g\u00fcnstige Preise und ein breites Sortiment f\u00fcr unsere Kunden sind.\n\nUm nichts mehr zu verpassen halten wir dich hier stets auf dem Laufenden: \n\n\u2022 Newsletter: https://woolworth.de/kundenservice/e-mail-newsletter/\n\u2022 Instagram: https://www.instagram.com/woolworthdeutschland/\n\u2022 Facebook: https://www.facebook.com/WoolworthDeutschland/\n\u2022 TikTok: https://www.tiktok.com/@woolworthdeutschland?lang=de-DE\n\nWir freuen uns auf dich :)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/J9LKd9ZRZCQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Woolworth",
+          "tags": [
+            "Woolworth",
+            "Woolworth Aktionskaufhaus",
+            "Woolworth Kaufhaus",
+            "Woolworth Prospekt",
+            "Woolworth Wochenprospekt"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Woolworth in nur 3 Minuten",
+            "description": "Alles wird schneller, komplexer und globaler. Mit diesen Ver\u00e4nderungen w\u00e4chst das Bed\u00fcrfnis nach Verl\u00e4sslichkeit, Halt und Vertrautem. Wir geben den Menschen dieses Gef\u00fchl. \nWir sind H\u00e4ndler und wir leben Handel mit Herz und Hand. Seit der Gr\u00fcndung der Woolworth GmbH 2010 haben wir t\u00e4glich an uns, unseren Produkten und unserem Einkaufserlebnis gearbeitet. Und dabei nie vergessen wie wichtig g\u00fcnstige Preise und ein breites Sortiment f\u00fcr unsere Kunden sind.\n\nUm nichts mehr zu verpassen halten wir dich hier stets auf dem Laufenden: \n\n\u2022 Newsletter: https://woolworth.de/kundenservice/e-mail-newsletter/\n\u2022 Instagram: https://www.instagram.com/woolworthdeutschland/\n\u2022 Facebook: https://www.facebook.com/WoolworthDeutschland/\n\u2022 TikTok: https://www.tiktok.com/@woolworthdeutschland?lang=de-DE\n\nWir freuen uns auf dich :)"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT2M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1578",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g8aICnd7g761pBRTxm1yb7hhKv4",
+        "id": "I3XHNQCC_T4",
+        "snippet": {
+          "publishedAt": "2023-03-16T03:47:01Z",
+          "channelId": "UCWbzkEt23deESq-slNXSuFQ",
+          "title": "BHP Shareholder Q&A 2023",
+          "description": "BHP Shareholder Q&A 2023 with Mike Henry, David Lamont and Geraldine Slattery.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/I3XHNQCC_T4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "BHP",
+          "tags": [
+            "BHP",
+            "BHP Billiton",
+            "Billiton",
+            "Mining",
+            "Resources"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BHP Shareholder Q&A 2023",
+            "description": "BHP Shareholder Q&A 2023 with Mike Henry, David Lamont and Geraldine Slattery."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT44M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3753",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 19,
+      "resultsPerPage": 19
+    }
+  }
+}

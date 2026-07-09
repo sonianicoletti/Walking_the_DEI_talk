@@ -1,0 +1,1119 @@
+{
+  "ceo": "Ivan Glasenberg",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WupzhGT0BPpMKag7eaUkAVTGRNk",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 16,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-Btkx3WXMdcwt3nhNaZaNLKpYAE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YkrFakWF6nk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-29T08:04:12Z",
+          "channelId": "UCv8fAFnIJ6jlvDBGvRymM4g",
+          "title": "Vilnius Conference2023. Presentation by Ivan Glasenberg",
+          "description": "Investorsforum #Vilnius #conference Ivan Glasenberg is a South African business executive and former CEO of Glencore, one of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Investors Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-29T08:04:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Sv7n4a5z808egN8AnNlkay-z21c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5XXeg8CCSnA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-29T08:33:57Z",
+          "channelId": "UCv8fAFnIJ6jlvDBGvRymM4g",
+          "title": "Vilnius Conference2023. Discussion on Natural resources",
+          "description": "Investorsforum #Vilnius #conference Panelist : EY Energy Sector Leader Saulius Adomaitis, Former CEO of Clancore Ivan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Investors Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-29T08:33:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PbZN7GwNTez0oSAjluaZNT5ZpqQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DKjqGPzcCVY"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-19T09:50:11Z",
+          "channelId": "UCU6nH03skN7obLJYY3jGR3Q",
+          "title": "Glencore International   History and Company profile overview",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Animating Linc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-19T09:50:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZSmsXcDAEVq0LvtZmBz3jSCvHXA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nPQvR25Lm4M"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-16T09:36:43Z",
+          "channelId": "UCIYOt1YmpMuK7otp-oyqmFw",
+          "title": "Top 10 Richest Persons in Switzerland 2023 #richest",
+          "description": "10. Rudolf Maag: $5.5 billion 9. Thomas Straumann: $5.6 billion 8. Thomas Schmidheiny: $5.9 billion 7. Rahel Blocher: $6.6 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Top 10 Facts ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-16T09:36:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J70Gjl3wAWIeWG3IXyoWTXBzf6E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Hl6QGRUG8Ts"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-19T22:05:57Z",
+          "channelId": "UCZNBUP2s-yfRMldn23ZgGfA",
+          "title": "Marc Rich and the No-Arbitrage Principle",
+          "description": "In this video, we examine CAPEX, options/futures pricing, the history of Marc Rich/Glencore, no-arbitrage and LNG trade financing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Giving Desk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-19T22:05:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MDRM-dAMFMECi0_djQftpyiJ434",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4pO9SxH3SxY"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-10T04:02:58Z",
+          "channelId": "UCDG6ymBA9CJi06XCH7aMryQ",
+          "title": "Gary Nagle, CEO, Glencore Melbourne Mining Club in London 2023.",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Melbourne Mining Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-10T04:02:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qLryAFGXykZ25Ww5tCnqnm28V-g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_SHh08uFK6A"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-07T01:01:08Z",
+          "channelId": "UCBp9SM5icJ40sD9ovecI4Pw",
+          "title": "#SecretsSelfmadeBillionaires 1750 #ArthurDantchik  #Gambler to #Trader #Billionaire #SIG #JeffYass",
+          "description": "Arthur Dantchik is a very secretive trader and billionaire. He was probably born in 1958, but we don't know where. We know he is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_SHh08uFK6A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_SHh08uFK6A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_SHh08uFK6A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "#SecretsSelfmadeBillionaires by Paul Chan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-07T01:01:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DpysAi_z8JEUZQQiOUcvh86RvSY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ncbl8IgTU7s"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-04T22:28:04Z",
+          "channelId": "UC04_rUstP7vyLANZ0rJYz_A",
+          "title": "Teck Rejects Glencore\u2019s Acquisition Bid: \u201cOpportunistically Timed\u201d",
+          "description": "Teck Resources has rejected an unsolicited proposal to acquire the Canadian mining firm Glencore. The deal would have seen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Deep Dive",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-04T22:28:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KWRQqhnPu-uWlJ5cF_WLwiBakLg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "F_tKh9Nmmls"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-10T15:06:43Z",
+          "channelId": "UCt7c5fcw_DlfSpIA-KyzLjw",
+          "title": "Main Stage: Innovation - Dan Cathy",
+          "description": "Carol Waddy, Director of Corporate Social Responsibility, Chick-fil-A, Inc., sat down with Dan Cathy to talk nonprofit leadership ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chick-fil-A Impact Accelerator",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-10T15:06:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fhVsjVGwpJiAX1rZBIZnKRWt-eY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qMx7T3fiv9c"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-26T04:40:06Z",
+          "channelId": "UC6XZuZiH4hAc0kITFev82Zw",
+          "title": "Jacqueline Mars#shorts",
+          "description": "Jacqueline Mars #short #billionaire #richest #business #rich #jacqueline #mars.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Storyteller",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-26T04:40:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5vPk6ElJVZTv5bmxDH8z-n-EhQE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "swiPoUumzIc"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-14T12:32:42Z",
+          "channelId": "UCgwWEwDzyhBQXNkjClZ23DA",
+          "title": "Our Honest Opinion On Pinarello",
+          "description": "This clip is a section from episode 13 of the Wild Ones Podcast. You can view the full video here: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cade Media Clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-14T12:32:42Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "miLUiiO7YnN7Owim73wHuIDTOvc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "1n47ZdpfwTUtOrHZttm2k2aA4nE",
+        "id": "YkrFakWF6nk",
+        "snippet": {
+          "publishedAt": "2023-09-29T08:04:12Z",
+          "channelId": "UCv8fAFnIJ6jlvDBGvRymM4g",
+          "title": "Vilnius Conference2023. Presentation by Ivan Glasenberg",
+          "description": "#Investorsforum #Vilnius #conference \nIvan Glasenberg is a South African business executive and former CEO of Glencore, one of the world's largest commodity trading and mining companies. I. Glasenberg looked at sustainability from another angle. The growth of electric vehicles, electrical infrastructure and other areas of transition energy can cause significant tensions in the markets of various raw materials.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YkrFakWF6nk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Investors Forum",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vilnius Conference2023. Presentation by Ivan Glasenberg",
+            "description": "#Investorsforum #Vilnius #conference \nIvan Glasenberg is a South African business executive and former CEO of Glencore, one of the world's largest commodity trading and mining companies. I. Glasenberg looked at sustainability from another angle. The growth of electric vehicles, electrical infrastructure and other areas of transition energy can cause significant tensions in the markets of various raw materials."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1954",
+          "likeCount": "39",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9RBlw5SRLyoeyx6amH_aZxEdcO0",
+        "id": "5XXeg8CCSnA",
+        "snippet": {
+          "publishedAt": "2023-09-29T08:33:57Z",
+          "channelId": "UCv8fAFnIJ6jlvDBGvRymM4g",
+          "title": "Vilnius Conference2023. Discussion on Natural resources",
+          "description": "#Investorsforum #Vilnius #conference \nPanelist : EY Energy Sector Leader Saulius Adomaitis, Former CEO of Clancore Ivan Glasenberg,  President emeritus of the Natural Resource Governance Institute Daniel Kaufmann. Moderated by Managing Partner of Ellex Valiunas Rolandas Vali\u016bnas.\n\nDiscussion drew the attention of the guests of the Vilnius conference to the complex perspectives of natural resources.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5XXeg8CCSnA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Investors Forum",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vilnius Conference2023. Discussion on Natural resources",
+            "description": "#Investorsforum #Vilnius #conference \nPanelist : EY Energy Sector Leader Saulius Adomaitis, Former CEO of Clancore Ivan Glasenberg,  President emeritus of the Natural Resource Governance Institute Daniel Kaufmann. Moderated by Managing Partner of Ellex Valiunas Rolandas Vali\u016bnas.\n\nDiscussion drew the attention of the guests of the Vilnius conference to the complex perspectives of natural resources."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT31M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "936",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SaT_vcdvjJA71VFlbdoY5QGarBQ",
+        "id": "DKjqGPzcCVY",
+        "snippet": {
+          "publishedAt": "2023-12-19T09:50:11Z",
+          "channelId": "UCU6nH03skN7obLJYY3jGR3Q",
+          "title": "Glencore International   History and Company profile overview",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DKjqGPzcCVY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Animating Linc",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Glencore International   History and Company profile overview",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_2cCpm25XancPTBxd0jP9V2CFhc",
+        "id": "nPQvR25Lm4M",
+        "snippet": {
+          "publishedAt": "2023-10-16T09:36:43Z",
+          "channelId": "UCIYOt1YmpMuK7otp-oyqmFw",
+          "title": "Top 10 Richest Persons in Switzerland 2023 #richest",
+          "description": "10. Rudolf Maag: $5.5 billion\n9. Thomas Straumann: $5.6 billion\n8. Thomas Schmidheiny: $5.9 billion \n7. Rahel Blocher: $6.6 billion\n6. Magdalena Martullo-Blocher: $6.6 billion\n5. Guillaume Pousaz: $7.2 billion\n4. Ivan Glasenberg: $8.6 billion\n3. Ernesto Bertarelli: $9.5 billion\n2. Rafaela Aponte-Diamant: $29.5 billion\n1. Gianluigi Aponte: $29.5 billion",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nPQvR25Lm4M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Top 10 Facts ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Top 10 Richest Persons in Switzerland 2023 #richest",
+            "description": "10. Rudolf Maag: $5.5 billion\n9. Thomas Straumann: $5.6 billion\n8. Thomas Schmidheiny: $5.9 billion \n7. Rahel Blocher: $6.6 billion\n6. Magdalena Martullo-Blocher: $6.6 billion\n5. Guillaume Pousaz: $7.2 billion\n4. Ivan Glasenberg: $8.6 billion\n3. Ernesto Bertarelli: $9.5 billion\n2. Rafaela Aponte-Diamant: $29.5 billion\n1. Gianluigi Aponte: $29.5 billion"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1003",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "S3jmg9buQFi7AI_7VI4dTsg5HNU",
+        "id": "Hl6QGRUG8Ts",
+        "snippet": {
+          "publishedAt": "2023-07-19T22:05:57Z",
+          "channelId": "UCZNBUP2s-yfRMldn23ZgGfA",
+          "title": "Marc Rich and the No-Arbitrage Principle",
+          "description": "In this video, we examine CAPEX, options/futures pricing, the history of Marc Rich/Glencore, no-arbitrage and LNG trade financing.\nThe Black-Scholes calculators can be found here:\nhttps://goodcalculators.com/black-scholes-calculator/\nhttps://www.mystockoptions.com/black-scholes.cfm\nWe are hiring and would love to hear from you: info@givingdesk.org",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Hl6QGRUG8Ts/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Giving Desk",
+          "tags": [
+            "liquid gas markets",
+            "no-arbitrage principals",
+            "the essence of capitalism",
+            "market efficiency",
+            "gross margin",
+            "monopolies",
+            "letters of credit",
+            "Marc Rich history",
+            "marine traffic economics",
+            "marc rich",
+            "economics",
+            "capitalism",
+            "lng trading",
+            "profit margin",
+            "financial statements",
+            "management accounting",
+            "oil deals",
+            "trade financing",
+            "arbitrage",
+            "no-arbitrage",
+            "no arbitrage principle",
+            "explainer video",
+            "finance explainer video",
+            "isreal-iran",
+            "oil embargo",
+            "trade history",
+            "financial engineering"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Marc Rich and the No-Arbitrage Principle",
+            "description": "In this video, we examine CAPEX, options/futures pricing, the history of Marc Rich/Glencore, no-arbitrage and LNG trade financing.\nThe Black-Scholes calculators can be found here:\nhttps://goodcalculators.com/black-scholes-calculator/\nhttps://www.mystockoptions.com/black-scholes.cfm\nWe are hiring and would love to hear from you: info@givingdesk.org"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT6M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10431",
+          "likeCount": "251",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZuMR-bQ2i01Iku-Qv_kLJvuMb9w",
+        "id": "4pO9SxH3SxY",
+        "snippet": {
+          "publishedAt": "2023-07-10T04:02:58Z",
+          "channelId": "UCDG6ymBA9CJi06XCH7aMryQ",
+          "title": "Gary Nagle, CEO, Glencore Melbourne Mining Club in London 2023.",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4pO9SxH3SxY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Melbourne Mining Club",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Gary Nagle, CEO, Glencore Melbourne Mining Club in London 2023.",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT45M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6875",
+          "likeCount": "78",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DZyN9DtFeeCBej6X01Vi9xn6-fI",
+        "id": "_SHh08uFK6A",
+        "snippet": {
+          "publishedAt": "2023-02-07T01:01:08Z",
+          "channelId": "UCBp9SM5icJ40sD9ovecI4Pw",
+          "title": "#SecretsSelfmadeBillionaires 1750 #ArthurDantchik  #Gambler to #Trader #Billionaire #SIG #JeffYass",
+          "description": "Arthur Dantchik is a very secretive trader and billionaire.  He was probably born in 1958,  but we don't know where.  We know he is Jewish from his charitable donation to Israel.   He went to Bayside High School in Queens, New York.  In 1979,  he earned a degree in Biology from State University of New York at Binghamton.  Most importantly,  his roommate there was Jeff Yass, a future $30 Billion trader and his future business partner.  After graduation,  Arthur Dantchik and Jeff Yass moved to Las Vegas and became professional trader.  In 1987,  he , Jeff Yass and 5 others co-founded Susquehanna International Group (SIG).  They named the company Susquehanna after the river that flows past Binghamton into Pennsylvania.  SIG specializes in two things: first is ETF or Exchange Traded Funds and second is option trading.   Arthur Dantchik is best known as the China Hand, because he was the pioneer that invested in ByteDance, the parent company of Tik Tok.  After Tik Tok became a global phenomenon, it was said SIG made $30 Billion out of this investment.  In February 2023,  he has a net worth of $7.5 Billion and he is 65 year old.  The secret of his success is he is the trainer of trader and he used poker games to train his traders,  true to the origin of his firm.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_SHh08uFK6A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_SHh08uFK6A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_SHh08uFK6A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "#SecretsSelfmadeBillionaires by Paul Chan",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#SecretsSelfmadeBillionaires 1750 #ArthurDantchik  #Gambler to #Trader #Billionaire #SIG #JeffYass",
+            "description": "Arthur Dantchik is a very secretive trader and billionaire.  He was probably born in 1958,  but we don't know where.  We know he is Jewish from his charitable donation to Israel.   He went to Bayside High School in Queens, New York.  In 1979,  he earned a degree in Biology from State University of New York at Binghamton.  Most importantly,  his roommate there was Jeff Yass, a future $30 Billion trader and his future business partner.  After graduation,  Arthur Dantchik and Jeff Yass moved to Las Vegas and became professional trader.  In 1987,  he , Jeff Yass and 5 others co-founded Susquehanna International Group (SIG).  They named the company Susquehanna after the river that flows past Binghamton into Pennsylvania.  SIG specializes in two things: first is ETF or Exchange Traded Funds and second is option trading.   Arthur Dantchik is best known as the China Hand, because he was the pioneer that invested in ByteDance, the parent company of Tik Tok.  After Tik Tok became a global phenomenon, it was said SIG made $30 Billion out of this investment.  In February 2023,  he has a net worth of $7.5 Billion and he is 65 year old.  The secret of his success is he is the trainer of trader and he used poker games to train his traders,  true to the origin of his firm."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M32S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "519",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WUixxvOOzj1_QIpIWUsQdWBhEP8",
+        "id": "Ncbl8IgTU7s",
+        "snippet": {
+          "publishedAt": "2023-04-04T22:28:04Z",
+          "channelId": "UC04_rUstP7vyLANZ0rJYz_A",
+          "title": "Teck Rejects Glencore\u2019s Acquisition Bid: \u201cOpportunistically Timed\u201d",
+          "description": "Teck Resources has rejected an unsolicited proposal to acquire the Canadian mining firm Glencore. The deal would have seen the two companies split into separate firms, with Teck shareholders exposed to thermal coal and oil trading. Teck\u2019s board saw significant jurisdictional risks, all of which would negatively impact the value potential of Teck\u2019s business.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ncbl8IgTU7s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Deep Dive",
+          "tags": [
+            "Teck Resources",
+            "Glen Core",
+            "GlenCore",
+            "glencore",
+            "unicef canada",
+            "evr",
+            "elk valley resources",
+            "cnbc",
+            "invictus games",
+            "british columbia",
+            "mining news",
+            "mining company",
+            "geological engineering",
+            "Science Daily",
+            "Harvard",
+            "harvard university",
+            "bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Teck Rejects Glencore\u2019s Acquisition Bid: \u201cOpportunistically Timed\u201d",
+            "description": "Teck Resources has rejected an unsolicited proposal to acquire the Canadian mining firm Glencore. The deal would have seen the two companies split into separate firms, with Teck shareholders exposed to thermal coal and oil trading. Teck\u2019s board saw significant jurisdictional risks, all of which would negatively impact the value potential of Teck\u2019s business."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "482",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iwabCvWq540VZj7IqpG6AhIDW28",
+        "id": "F_tKh9Nmmls",
+        "snippet": {
+          "publishedAt": "2023-03-10T15:06:43Z",
+          "channelId": "UCt7c5fcw_DlfSpIA-KyzLjw",
+          "title": "Main Stage: Innovation - Dan Cathy",
+          "description": "Carol Waddy, Director of Corporate Social Responsibility, Chick-fil-A, Inc., sat down with Dan Cathy to talk nonprofit leadership and innovation.\nLearn more: https://www.chickfilaimpactaccelerator.com/\"",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F_tKh9Nmmls/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chick-fil-A Impact Accelerator",
+          "tags": [
+            "Plywood People",
+            "Chick-fil-A Impact Accelerator",
+            "Nonprofit",
+            "leadership",
+            "Atlanta",
+            "impact",
+            "purpose",
+            "innovation"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Main Stage: Innovation - Dan Cathy",
+            "description": "Carol Waddy, Director of Corporate Social Responsibility, Chick-fil-A, Inc., sat down with Dan Cathy to talk nonprofit leadership and innovation.\nLearn more: https://www.chickfilaimpactaccelerator.com/\""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT33M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "168",
+          "likeCount": "4",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wvftfOug2ZTIHBzsMWiEwATSD4M",
+        "id": "qMx7T3fiv9c",
+        "snippet": {
+          "publishedAt": "2023-09-26T04:40:06Z",
+          "channelId": "UC6XZuZiH4hAc0kITFev82Zw",
+          "title": "Jacqueline Mars#shorts",
+          "description": "Jacqueline Mars #short #billionaire #richest #business #rich #jacqueline #mars",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qMx7T3fiv9c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Storyteller",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jacqueline Mars#shorts",
+            "description": "Jacqueline Mars #short #billionaire #richest #business #rich #jacqueline #mars"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "324",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4TfesLI5yPfDb3xHmUbQ9mQ1HYs",
+        "id": "swiPoUumzIc",
+        "snippet": {
+          "publishedAt": "2023-09-14T12:32:42Z",
+          "channelId": "UCgwWEwDzyhBQXNkjClZ23DA",
+          "title": "Our Honest Opinion On Pinarello",
+          "description": "This clip is a section from episode 13 of the Wild Ones Podcast. You can view the full video here: https://youtu.be/s-xP_RJF18Y?si=dEekrE5iH7DqsMun\nOr listen to all episodes here: https://podfollow.com/the-wild-ones/view\n\nSUPPORT Francis Cade and Cade Media directly:\nVia Patreon: https://www.patreon.com/franciscade\nVia our clothing brand WILD: https://wearethewildones.co.uk/collections/\n\nAFFILIATE LINKS\nGoPro GRILL Mount: https://www.prostandard.com/?ref=0Wo1...\nGoPro Hero 11: https://prf.hn/l/ryjmwQn\nTiny Insta360: https://www.insta360.com/sal/go_2?ins...\nBigger Insta360: https://www.insta360.com/sal/one_x2?i\u2026\nStyrkr: 25% off your first order with FCADE25 https://bit.ly/36WrFyn\n\nThanks to our CHANNEL SPONSORS:\nAttacus Cycling\nSCOTT\nGarmin\nFidlock\nParcours Wheels\nTailfin\nHutchinson Tyres\nSungod\nStyrkr\nGT85\n\n#cycling #bikes #bicycle",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/swiPoUumzIc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cade Media Clips",
+          "tags": [
+            "bicycle",
+            "cycling",
+            "procycling",
+            "cade",
+            "francis",
+            "bikefit",
+            "road",
+            "gravel",
+            "bikepacking",
+            "builds"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Our Honest Opinion On Pinarello",
+            "description": "This clip is a section from episode 13 of the Wild Ones Podcast. You can view the full video here: https://youtu.be/s-xP_RJF18Y?si=dEekrE5iH7DqsMun\nOr listen to all episodes here: https://podfollow.com/the-wild-ones/view\n\nSUPPORT Francis Cade and Cade Media directly:\nVia Patreon: https://www.patreon.com/franciscade\nVia our clothing brand WILD: https://wearethewildones.co.uk/collections/\n\nAFFILIATE LINKS\nGoPro GRILL Mount: https://www.prostandard.com/?ref=0Wo1...\nGoPro Hero 11: https://prf.hn/l/ryjmwQn\nTiny Insta360: https://www.insta360.com/sal/go_2?ins...\nBigger Insta360: https://www.insta360.com/sal/one_x2?i\u2026\nStyrkr: 25% off your first order with FCADE25 https://bit.ly/36WrFyn\n\nThanks to our CHANNEL SPONSORS:\nAttacus Cycling\nSCOTT\nGarmin\nFidlock\nParcours Wheels\nTailfin\nHutchinson Tyres\nSungod\nStyrkr\nGT85\n\n#cycling #bikes #bicycle"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "78393",
+          "likeCount": "651",
+          "favoriteCount": "0",
+          "commentCount": "137"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

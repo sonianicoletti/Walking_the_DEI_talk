@@ -1,0 +1,149 @@
+{
+  "ceo": "Fujio Mitarai",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7va_y1nCJQQPKvLl83b6sf3eEao",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 1
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d18FYsfqXnmVPiPbEVnYOZ9eiqs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MkibTJmaXj0"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-25T09:18:47Z",
+          "channelId": "UCrroaGjAjAjqXEjqdsjLMIw",
+          "title": "10 Unique Japan Travel Spots - Hidden Gems &amp; Off-The-Beaten-Track Locations For Your Next Trip",
+          "description": "If you found this video helpful, you're going to love my new travel guide - Beyond The Tourist Trail! An e-book for travellers filled ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Currently Hannah",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-25T09:18:47Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "hmBGj3ZzSuc0HkRtIkC7Bne_Gu0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "wCvRbgTc-vY0qYx_a51lmd7B4GA",
+        "id": "MkibTJmaXj0",
+        "snippet": {
+          "publishedAt": "2023-02-25T09:18:47Z",
+          "channelId": "UCrroaGjAjAjqXEjqdsjLMIw",
+          "title": "10 Unique Japan Travel Spots - Hidden Gems & Off-The-Beaten-Track Locations For Your Next Trip",
+          "description": "If you found this video helpful, you're going to love my new travel guide - Beyond The Tourist Trail! An e-book for travellers filled with 120+ hidden gems in Japan between Tokyo and Osaka. Available now on my website: https://geni.us/f6OAmeO If you bundle the two guides together, you can grab the second one at 25% off!\n\nIncluded in the guide are:\n- 20 Top Hidden Gems\n- 100+ Nearby Places of Interest\n- Detailed travel, transportation and culture information\n- Bus schedules, translated timetables and hyperlinks to get you there smoothly\n- Options for public transport or driving \n- Japanese phrases to make your travels smoother\n- Presented beautifully with over 160 high quality photos\n\nI've also just released my 2nd travel guide, this time to Kyoto! Full of over 30 of my favourite unique, alternative and beautiful locations in Kyoto. Avoid the crowds, support the local economy and don't settle for a typical tourist experience in Japan. Get off-the-beaten track and travel like a local: https://geni.us/f6OAmeO\n\nChapters:\n00:00-00:15 Intro\n00:16-01:47 Beppu\n01:48-02:42 Tsubame Onsen\n02:43-04:31 Complete guide to Japan\n04:32-05:10 Nachi Falls\n05:11-05:47 Shirakawago\n05:48-07:12 Aso Kuju National Park\n07:13-08:26 Nikko\n08:27-10:20 Hokkaido (3 locations)\n10:21-10:54 Kurashiki Bikan Historical Quarter \n10:55-11:35 Amami Island\n11:36-13:30 Ochijuku\n\n\u2022\n \nExtra information from this video:\nBeppu, Oita: https://geni.us/7pgfe\nTsubame Onsen: https://geni.us/69xDi\nShirakawago: https://geni.us/Xay2oO\nNikko: https://geni.us/EN1hoX\nAmami Island: https://www.japan-guide.com/e/e4691.html\nKurashiki Bikan Historical Quarter: https://geni.us/KF03k1\nNachi Falls: https://geni.us/kbgV0U2\nShirakibetsu Lake Igloo Village: https://geni.us/FYoY5\nChapel on the Water: https://geni.us/UXwU\nShirogane Pond: https://geni.us/xGyq\nOuchi-Juku: https://geni.us/2E1UKa\n\n\u2022\n\nGrab some merch:\nhttps://geni.us/channel-merch\n\nSupport me on Patreon for extra content and early access: \nwww.patreon.com/currentlyhannah \n\nInstagram:\n@currently.hannah\n\nMusic from Musicbed:\nhttps://geni.us/musicbedref\n\nMy filming gear:\nhttps://kit.co/currentlyhannah\n\n#currentlyhannah #japantravel #japantravelguide",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MkibTJmaXj0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Currently Hannah",
+          "tags": [
+            "currently hannah",
+            "travel",
+            "japan travel",
+            "expat",
+            "solo travel",
+            "outdoor",
+            "overlanding",
+            "living in japan",
+            "second trip to japan",
+            "off-the-beaten-track Japan",
+            "Hidden gem Japan",
+            "How to travel japan",
+            "travel guide",
+            "travelling japan",
+            "japan travel tips",
+            "japan travelling",
+            "first time in japan",
+            "wakayama",
+            "kyushu",
+            "hokkaido",
+            "niigata",
+            "nagano",
+            "inaka japan",
+            "life in japan",
+            "how to travel around japan",
+            "places to visit in japan",
+            "unique spots to visit in Japan"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "10 Unique Japan Travel Spots - Hidden Gems & Off-The-Beaten-Track Locations For Your Next Trip",
+            "description": "If you found this video helpful, you're going to love my new travel guide - Beyond The Tourist Trail! An e-book for travellers filled with 120+ hidden gems in Japan between Tokyo and Osaka. Available now on my website: https://geni.us/f6OAmeO If you bundle the two guides together, you can grab the second one at 25% off!\n\nIncluded in the guide are:\n- 20 Top Hidden Gems\n- 100+ Nearby Places of Interest\n- Detailed travel, transportation and culture information\n- Bus schedules, translated timetables and hyperlinks to get you there smoothly\n- Options for public transport or driving \n- Japanese phrases to make your travels smoother\n- Presented beautifully with over 160 high quality photos\n\nI've also just released my 2nd travel guide, this time to Kyoto! Full of over 30 of my favourite unique, alternative and beautiful locations in Kyoto. Avoid the crowds, support the local economy and don't settle for a typical tourist experience in Japan. Get off-the-beaten track and travel like a local: https://geni.us/f6OAmeO\n\nChapters:\n00:00-00:15 Intro\n00:16-01:47 Beppu\n01:48-02:42 Tsubame Onsen\n02:43-04:31 Complete guide to Japan\n04:32-05:10 Nachi Falls\n05:11-05:47 Shirakawago\n05:48-07:12 Aso Kuju National Park\n07:13-08:26 Nikko\n08:27-10:20 Hokkaido (3 locations)\n10:21-10:54 Kurashiki Bikan Historical Quarter \n10:55-11:35 Amami Island\n11:36-13:30 Ochijuku\n\n\u2022\n \nExtra information from this video:\nBeppu, Oita: https://geni.us/7pgfe\nTsubame Onsen: https://geni.us/69xDi\nShirakawago: https://geni.us/Xay2oO\nNikko: https://geni.us/EN1hoX\nAmami Island: https://www.japan-guide.com/e/e4691.html\nKurashiki Bikan Historical Quarter: https://geni.us/KF03k1\nNachi Falls: https://geni.us/kbgV0U2\nShirakibetsu Lake Igloo Village: https://geni.us/FYoY5\nChapel on the Water: https://geni.us/UXwU\nShirogane Pond: https://geni.us/xGyq\nOuchi-Juku: https://geni.us/2E1UKa\n\n\u2022\n\nGrab some merch:\nhttps://geni.us/channel-merch\n\nSupport me on Patreon for extra content and early access: \nwww.patreon.com/currentlyhannah \n\nInstagram:\n@currently.hannah\n\nMusic from Musicbed:\nhttps://geni.us/musicbedref\n\nMy filming gear:\nhttps://kit.co/currentlyhannah\n\n#currentlyhannah #japantravel #japantravelguide"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT13M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1488633",
+          "likeCount": "26733",
+          "favoriteCount": "0",
+          "commentCount": "411"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+    }
+  }
+}

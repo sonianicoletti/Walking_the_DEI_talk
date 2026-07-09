@@ -1,0 +1,570 @@
+{
+  "ceo": "Thomas Schinecker",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "BC845qZYTks-n_fzRxN4Y1wtkoc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2tXRbci-P81tIhy589cRfcQHOxY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "inSBOTDRVWg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-09T15:45:01Z",
+          "channelId": "UCaxIsKnhxr6bfaJFQc67-rg",
+          "title": "Shanghai in the eyes of global CEOs: Severin Schwan, Roche",
+          "description": "Severin Schwan, CEO of the Switzerland-based Roche, portrays the company's future in Shanghai ahead of the 6th International ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ShanghaiEye\u9b54\u90fd\u773c",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-09T15:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wVl6GBLbAvaNZIcXrk_9UXWv8uY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H4BdSU1sPxs"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-11T13:04:08Z",
+          "channelId": "UCCACGkY9GtkcW_0OOWfsZ7w",
+          "title": "B\u00f6rsenplatz Z\u00fcrich: Roche - Investitionen in Innovationen als Schl\u00fcssel zum Erfolg?",
+          "description": "Bei Roche ist im M\u00e4rz eine \u00c4ra zu Ende gegangen. Mit Severin Schwan hat der langj\u00e4hrige CEO seinen Hut genommen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vontobel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-11T13:04:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0BqbfP3bC2LKHAKLYnfSKXiE3FY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Wb5w1aa5KtQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-02T15:00:19Z",
+          "channelId": "UCYWIEbibRcZav6xMLo9qWWw",
+          "title": "Pharma Giant Delays Cancer Treatment Drug To Punish Biden",
+          "description": "Drug companies are now threatening to delay the release of life-saving medications because they're mad that they may not be ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Ring of Fire",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-02T15:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9e34JYn4eQ1FrW4NAlbB7Plxfew",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CEBKx4nycDc"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-19T18:30:06Z",
+          "channelId": "UCeqKIgPQfNInOswGRWt48kQ",
+          "title": "Superreiche und ihr Verm\u00f6gen: Milliard\u00e4r packt aus | #shorts #zdfheute #breyer",
+          "description": "Thomas Bscher, Erbe einer Privatbank-Familie, fr\u00fcher erfolgreicher Rennfahrer, geh\u00f6rt zu den Superreichen in Deutschland.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ZDFheute Nachrichten",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-19T18:30:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "a3Azi8VLd6RnpTws_ul3Oe8E3LQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fqW7S3-Iwbk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-27T12:11:46Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "The U.S.&#39; Inflation Reduction Act risks hampering innovation, says Roche CEO",
+          "description": "Roche CEO Thomas Schinecker warns that sections of the U.S. Inflation Reduction Act could stifle the development of new ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-27T12:11:46Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "dNOrDpbrh2Ghc8cmTrD3f7pz-LM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "BiE_o2Tn41jWDz_SegZ3Yqcrsj4",
+        "id": "inSBOTDRVWg",
+        "snippet": {
+          "publishedAt": "2023-10-09T15:45:01Z",
+          "channelId": "UCaxIsKnhxr6bfaJFQc67-rg",
+          "title": "Shanghai in the eyes of global CEOs: Severin Schwan, Roche",
+          "description": "Severin Schwan, CEO of the Switzerland-based Roche, portrays the company's future in Shanghai ahead of the 6th International Import Expo(CIIE) and the International Business Leaders' Advisory Council (IBLAC) meeting. \n \n__________________\nShanghaiEye focuses on producing top-quality contents.\nNobody knows SHANGHAI better than us.\nPlease subscribe to us  \u263b\u263b\u263b\n__________________\nFor more stories, please click\n\n\u25a0 What's up today in Shanghai, the most updated news of the city\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MNjpE4hspSVry8dR555getN\n\n\u25a0 Amazing Shanghai, exploring the unknown corners of the city,  learning the people, food and stories behind them\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MMVTWr-zIXjsS4hhSQPmyes\n\n\u25a0 What Chinese people's lives are like during the post COVID-19 period\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MPrPTmIirpfgETu6VKVESXe\n\n\u25a0 Views of foreign scholars on China and its affairs\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MO9ua_nSK6slRPdUl-ovjRe\n\n\u25a0 Foreign faces in Shanghai, people living in this city sharing their true feelings\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MP0vJDSw23_1MCPJhAfGbiG\n\n\u25a0 Mini-docs showing why China is the country it is today \nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MOreRu2AbZ3ziIUyCcdBLwX\n\n__________________\n\u260eLeave us messages if you have any suggestions or questions!\nThank you!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/inSBOTDRVWg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ShanghaiEye\u9b54\u90fd\u773c",
+          "tags": [
+            "Shanghai",
+            "Shanghaieye",
+            "Dragon TV",
+            "\u4e0a\u6d77",
+            "\u4e1c\u65b9\u536b\u89c6",
+            "Shanghai TV",
+            "\u9b54\u90fd\u773c",
+            "\u9b54\u90fd",
+            "Shanghai Media Group",
+            "International Business Leaders' Advisory Council",
+            "Roche",
+            "Severin Schwan",
+            "Switzerland"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shanghai in the eyes of global CEOs: Severin Schwan, Roche",
+            "description": "Severin Schwan, CEO of the Switzerland-based Roche, portrays the company's future in Shanghai ahead of the 6th International Import Expo(CIIE) and the International Business Leaders' Advisory Council (IBLAC) meeting. \n \n__________________\nShanghaiEye focuses on producing top-quality contents.\nNobody knows SHANGHAI better than us.\nPlease subscribe to us  \u263b\u263b\u263b\n__________________\nFor more stories, please click\n\n\u25a0 What's up today in Shanghai, the most updated news of the city\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MNjpE4hspSVry8dR555getN\n\n\u25a0 Amazing Shanghai, exploring the unknown corners of the city,  learning the people, food and stories behind them\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MMVTWr-zIXjsS4hhSQPmyes\n\n\u25a0 What Chinese people's lives are like during the post COVID-19 period\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MPrPTmIirpfgETu6VKVESXe\n\n\u25a0 Views of foreign scholars on China and its affairs\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MO9ua_nSK6slRPdUl-ovjRe\n\n\u25a0 Foreign faces in Shanghai, people living in this city sharing their true feelings\nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MP0vJDSw23_1MCPJhAfGbiG\n\n\u25a0 Mini-docs showing why China is the country it is today \nhttps://www.youtube.com/playlist?list=PLeyl7CQ2A5MOreRu2AbZ3ziIUyCcdBLwX\n\n__________________\n\u260eLeave us messages if you have any suggestions or questions!\nThank you!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "419",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7FT41-OUbjCZcErAMsAYWzMzS7s",
+        "id": "H4BdSU1sPxs",
+        "snippet": {
+          "publishedAt": "2023-04-11T13:04:08Z",
+          "channelId": "UCCACGkY9GtkcW_0OOWfsZ7w",
+          "title": "B\u00f6rsenplatz Z\u00fcrich: Roche - Investitionen in Innovationen als Schl\u00fcssel zum Erfolg?",
+          "description": "Bei Roche ist im M\u00e4rz eine \u00c4ra zu Ende gegangen. Mit Severin Schwan hat der langj\u00e4hrige CEO seinen Hut genommen. Der neue Chef Thomas Schinecker sieht Investitionen in Innovationen als Schl\u00fcssel zum Erfolg.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H4BdSU1sPxs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vontobel",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "B\u00f6rsenplatz Z\u00fcrich: Roche - Investitionen in Innovationen als Schl\u00fcssel zum Erfolg?",
+            "description": "Bei Roche ist im M\u00e4rz eine \u00c4ra zu Ende gegangen. Mit Severin Schwan hat der langj\u00e4hrige CEO seinen Hut genommen. Der neue Chef Thomas Schinecker sieht Investitionen in Innovationen als Schl\u00fcssel zum Erfolg."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "198",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wHFh0SCLLjGZ3QHJHbSz3ZMBSdU",
+        "id": "Wb5w1aa5KtQ",
+        "snippet": {
+          "publishedAt": "2023-09-02T15:00:19Z",
+          "channelId": "UCYWIEbibRcZav6xMLo9qWWw",
+          "title": "Pharma Giant Delays Cancer Treatment Drug To Punish Biden",
+          "description": "Drug companies are now threatening to delay the release of life-saving medications because they\u2019re mad that they may not be able to gouge American consumers like they used to. The government is now able to negotiate drug prices for 10 drugs covered for Medicare patients, and the drug companies are ready to send you to an early grave to stop that from happening.\u00a0Mike Papantonio\u00a0&\u00a0Farron Cousins\u00a0discuss more.\n\nLink - https://www.levernews.com/pharma-giant-threatens-to-delay-drugs-over-new-price-controls/\n\nCheck out our merch by visiting our store:  https://www.buyrof.com/\n\nSubscribe to our podcast: http://www.ROFPodcast.com\n\nBecome a member today!: https://www.youtube.com/channel/UCYWIEbibRcZav6xMLo9qWWw/join\n\nSupport us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire\n\nSpread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!\n\nSupport Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/theringoffire\n\nBe sociable! Follow us on:\nFacebook: http://www.facebook.com/RingofFireRadio\nTwitter: https://twitter.com/RingofFireMedia\nInstagram: https://www.instagram.com/ringoffirenetwork/\n\n*This transcript was generated by a third-party transcription software company, so please excuse any typos.\n\nDrug companies are now threatening to delay the release of lifesaving medications because they're just mad that they may not be able to gouge the American consumers, steal from the American consumers like they used to. The government's now able to negotiate drug prices for only 10 drugs. Only 10 drugs. Medicare patients, drug companies are so upset that, gee whizz the government is actually gonna be able to negotiate. This company, I have been toe to toe with. This is the most disgusting leadership I've ever seen, and I've handled virtually every major pharmaceutical case in the country. I mean, there's very few that I haven't handled that were the big cases. This is a Swiss company. It's Genentech, but it's Roche. Okay. And if you look at the Roche, the history, they are hyenas. That's the way I describe these people. Top to bottom hyenas. But they're saying here, we're going to allow women that have cervical cancer to die. And we're not gonna push research because we're mad, they've upset us. Right?\nYeah. That is exactly what this is saying. Again, another awesome report from The Lever news service here. And, so you've got Roche, Genentech, telling us that, oh, well we've developed this amazing cancer drug for women. We could save tons of lives, but, oh, this Biden administration's making us negotiate the price of one drug.\nFor 10 drugs.\nYeah. Across all the pharmaceutical companies. And we don't even know, by the way, if any of them are Roche drugs.\nNo idea.\nThey released the list this week. But anyway, so Roche is saying, well, we just, we can no longer afford to put it into testing. We're gonna start delaying our drugs if you're gonna make us not gouge consumers because that's what this is. They can still, in other countries, charge a thousand percent markup and still make tons of money. But here in the US we are talking about 20000% markups. 40000% markups. There are some drugs, and you and I have sat here and talked about 'em, the markups are over 250000% on the markups.\nWell, not only that, we gave this company, not we, the government gave this company a tax break, right?\nYeah.\nAnd they ended up making billions, 10, was it $10 billion somewhere in that range?\nYeah.\n$10 billion just in what taxpayers gave them as a break. Right. On top of that, taxpayers have been involved in paying for most of the research that goes into their drugs. They pay for it at universities where all this research is done, then the company comes in and scoops that up. Now, in this situation, this is really what they're saying. They're saying, you know what? We're going to delay the release of an effective drug for ovarian cancer. Okay. We're gonna let women die of ovarian cancer. We think we have one. We think we're onto it, but we're gonna delay it. And so if you take a look at this company, there's no surprises here. They've got a history. It's a terrible history. They were sued about lying and hiding serious adverse health problems. They hid 'em for dozens of drugs over a decade. They were sued for bilking the government for $1.5 billion on the Tamiflu case. This is who you're dealing with. By the way, we gotta get a picture of this guy. His name, he's Roche CEO. His name is Thomas Schinecker. Well, Mr. Schinecker here says that this is good for our investors. Hell with the women who are dying of cervical cancer. That's literally what he is saying, isn't it?\nYeah, it is. And over the last 10 years, this company, Roche, has spent more on stock buybacks than they have on research and development.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Wb5w1aa5KtQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Ring of Fire",
+          "tags": [
+            "the ring of fire",
+            "progressive news",
+            "trofire",
+            "politics",
+            "the young turks",
+            "tyt",
+            "politics today",
+            "us news",
+            "breaking news",
+            "rof",
+            "mike papantonio",
+            "america's lawyer",
+            "farron cousins",
+            "genentech",
+            "roche pharma",
+            "pharma prices",
+            "cervical cancer treatment",
+            "ovarian cancer drug",
+            "negotiate drug prices",
+            "biden drug price",
+            "drug costs",
+            "medicare prices"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pharma Giant Delays Cancer Treatment Drug To Punish Biden",
+            "description": "Drug companies are now threatening to delay the release of life-saving medications because they\u2019re mad that they may not be able to gouge American consumers like they used to. The government is now able to negotiate drug prices for 10 drugs covered for Medicare patients, and the drug companies are ready to send you to an early grave to stop that from happening.\u00a0Mike Papantonio\u00a0&\u00a0Farron Cousins\u00a0discuss more.\n\nLink - https://www.levernews.com/pharma-giant-threatens-to-delay-drugs-over-new-price-controls/\n\nCheck out our merch by visiting our store:  https://www.buyrof.com/\n\nSubscribe to our podcast: http://www.ROFPodcast.com\n\nBecome a member today!: https://www.youtube.com/channel/UCYWIEbibRcZav6xMLo9qWWw/join\n\nSupport us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire\n\nSpread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!\n\nSupport Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/theringoffire\n\nBe sociable! Follow us on:\nFacebook: http://www.facebook.com/RingofFireRadio\nTwitter: https://twitter.com/RingofFireMedia\nInstagram: https://www.instagram.com/ringoffirenetwork/\n\n*This transcript was generated by a third-party transcription software company, so please excuse any typos.\n\nDrug companies are now threatening to delay the release of lifesaving medications because they're just mad that they may not be able to gouge the American consumers, steal from the American consumers like they used to. The government's now able to negotiate drug prices for only 10 drugs. Only 10 drugs. Medicare patients, drug companies are so upset that, gee whizz the government is actually gonna be able to negotiate. This company, I have been toe to toe with. This is the most disgusting leadership I've ever seen, and I've handled virtually every major pharmaceutical case in the country. I mean, there's very few that I haven't handled that were the big cases. This is a Swiss company. It's Genentech, but it's Roche. Okay. And if you look at the Roche, the history, they are hyenas. That's the way I describe these people. Top to bottom hyenas. But they're saying here, we're going to allow women that have cervical cancer to die. And we're not gonna push research because we're mad, they've upset us. Right?\nYeah. That is exactly what this is saying. Again, another awesome report from The Lever news service here. And, so you've got Roche, Genentech, telling us that, oh, well we've developed this amazing cancer drug for women. We could save tons of lives, but, oh, this Biden administration's making us negotiate the price of one drug.\nFor 10 drugs.\nYeah. Across all the pharmaceutical companies. And we don't even know, by the way, if any of them are Roche drugs.\nNo idea.\nThey released the list this week. But anyway, so Roche is saying, well, we just, we can no longer afford to put it into testing. We're gonna start delaying our drugs if you're gonna make us not gouge consumers because that's what this is. They can still, in other countries, charge a thousand percent markup and still make tons of money. But here in the US we are talking about 20000% markups. 40000% markups. There are some drugs, and you and I have sat here and talked about 'em, the markups are over 250000% on the markups.\nWell, not only that, we gave this company, not we, the government gave this company a tax break, right?\nYeah.\nAnd they ended up making billions, 10, was it $10 billion somewhere in that range?\nYeah.\n$10 billion just in what taxpayers gave them as a break. Right. On top of that, taxpayers have been involved in paying for most of the research that goes into their drugs. They pay for it at universities where all this research is done, then the company comes in and scoops that up. Now, in this situation, this is really what they're saying. They're saying, you know what? We're going to delay the release of an effective drug for ovarian cancer. Okay. We're gonna let women die of ovarian cancer. We think we have one. We think we're onto it, but we're gonna delay it. And so if you take a look at this company, there's no surprises here. They've got a history. It's a terrible history. They were sued about lying and hiding serious adverse health problems. They hid 'em for dozens of drugs over a decade. They were sued for bilking the government for $1.5 billion on the Tamiflu case. This is who you're dealing with. By the way, we gotta get a picture of this guy. His name, he's Roche CEO. His name is Thomas Schinecker. Well, Mr. Schinecker here says that this is good for our investors. Hell with the women who are dying of cervical cancer. That's literally what he is saying, isn't it?\nYeah, it is. And over the last 10 years, this company, Roche, has spent more on stock buybacks than they have on research and development."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21917",
+          "likeCount": "1995",
+          "favoriteCount": "0",
+          "commentCount": "277"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fn9qZcojIZEXwnO4LWS1q5mnsd0",
+        "id": "CEBKx4nycDc",
+        "snippet": {
+          "publishedAt": "2023-12-19T18:30:06Z",
+          "channelId": "UCeqKIgPQfNInOswGRWt48kQ",
+          "title": "Superreiche und ihr Verm\u00f6gen: Milliard\u00e4r packt aus | #shorts #zdfheute #breyer",
+          "description": "Thomas Bscher, Erbe einer Privatbank-Familie, fr\u00fcher erfolgreicher Rennfahrer, geh\u00f6rt zu den Superreichen in Deutschland. Einer gleichm\u00e4\u00dfigeren Verteilung von Verm\u00f6gen in der Gesellschaft steht er kritisch gegen\u00fcber.\n\nWer viel Geld hat, redet normalerweise nicht dar\u00fcber. Jochen Breyer ist es gelungen, Superreiche zu begleiten. Wie leben sie? Und: Wie erleben sie die Debatten \u00fcber ihr Verm\u00f6gen? \n\nDie ganze Doku findet ihr in der ZDF-Mediathek: https://kurz.zdf.de/jw3N/\n\nWie ticken Superreiche wirklich? Interview mit Jochen Breyer: https://kurz.zdf.de/w7Sy/\n\nNeue Daten \u00fcber Deutschlands Milliard\u00e4re: https://kurz.zdf.de/yrwp/\n\n_____\n\nHier auf ZDFheute Nachrichten erfahrt ihr, was auf der Welt passiert und was uns alle etwas angeht: Wir sorgen f\u00fcr Durchblick in der Nachrichtenwelt, erkl\u00e4ren die Hintergr\u00fcnde und gehen auf gesellschaftliche Debatten ein. Diskutiert in Livestreams mit uns und bildet euch eure eigene Meinung mit den Fakten, die wir euch pr\u00e4sentieren.\n\nAbonniert unseren Kanal, um nichts mehr zu verpassen.\n\nImmer auf dem aktuellen Stand seid ihr auf http://www.ZDFheute.de/.\n#Geld #Doku #Nachrichten",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CEBKx4nycDc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ZDFheute Nachrichten",
+          "tags": [
+            "zdf",
+            "zeit",
+            "ZDF Zeit",
+            "Breyer Doku",
+            "ZDF Doku Jochen Breyer",
+            "ZDF Doku Reiche",
+            "ZDF Doku Milliard\u00e4re",
+            "Milliarden",
+            "Milliard\u00e4re",
+            "Superreiche",
+            "Millionen",
+            "Doku ZDF",
+            "ZDF",
+            "Doku Nachrichten",
+            "Jochen Breyer",
+            "Boehringer",
+            "Aldi",
+            "Porsche",
+            "Merck",
+            "Geld",
+            "Finanzen",
+            "Deutschland Milliarden",
+            "Milliarden Verm\u00f6gen",
+            "Erbe Milliarden"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "de",
+          "localized": {
+            "title": "Superreiche und ihr Verm\u00f6gen: Milliard\u00e4r packt aus | #shorts #zdfheute #breyer",
+            "description": "Thomas Bscher, Erbe einer Privatbank-Familie, fr\u00fcher erfolgreicher Rennfahrer, geh\u00f6rt zu den Superreichen in Deutschland. Einer gleichm\u00e4\u00dfigeren Verteilung von Verm\u00f6gen in der Gesellschaft steht er kritisch gegen\u00fcber.\n\nWer viel Geld hat, redet normalerweise nicht dar\u00fcber. Jochen Breyer ist es gelungen, Superreiche zu begleiten. Wie leben sie? Und: Wie erleben sie die Debatten \u00fcber ihr Verm\u00f6gen? \n\nDie ganze Doku findet ihr in der ZDF-Mediathek: https://kurz.zdf.de/jw3N/\n\nWie ticken Superreiche wirklich? Interview mit Jochen Breyer: https://kurz.zdf.de/w7Sy/\n\nNeue Daten \u00fcber Deutschlands Milliard\u00e4re: https://kurz.zdf.de/yrwp/\n\n_____\n\nHier auf ZDFheute Nachrichten erfahrt ihr, was auf der Welt passiert und was uns alle etwas angeht: Wir sorgen f\u00fcr Durchblick in der Nachrichtenwelt, erkl\u00e4ren die Hintergr\u00fcnde und gehen auf gesellschaftliche Debatten ein. Diskutiert in Livestreams mit uns und bildet euch eure eigene Meinung mit den Fakten, die wir euch pr\u00e4sentieren.\n\nAbonniert unseren Kanal, um nichts mehr zu verpassen.\n\nImmer auf dem aktuellen Stand seid ihr auf http://www.ZDFheute.de/.\n#Geld #Doku #Nachrichten"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5531689",
+          "likeCount": "111637",
+          "favoriteCount": "0",
+          "commentCount": "269"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BYM638fDCM7q3Gx9fs6tFcCfI9M",
+        "id": "fqW7S3-Iwbk",
+        "snippet": {
+          "publishedAt": "2023-07-27T12:11:46Z",
+          "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+          "title": "The U.S.' Inflation Reduction Act risks hampering innovation, says Roche CEO",
+          "description": "Roche CEO Thomas Schinecker warns that sections of the U.S. Inflation Reduction Act could stifle the development of new medicines.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fqW7S3-Iwbk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC International Live",
+          "tags": [
+            "Squawk Box"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The U.S.' Inflation Reduction Act risks hampering innovation, says Roche CEO",
+            "description": "Roche CEO Thomas Schinecker warns that sections of the U.S. Inflation Reduction Act could stifle the development of new medicines."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "989",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

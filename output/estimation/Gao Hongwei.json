@@ -1,0 +1,246 @@
+{
+  "ceo": "Gao Hongwei",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "UNDsCIdvCzZs2VZ52ZkhI4ppe8U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WxEb2TGd3pu3CgutsG00M1sQc9o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SpWKzrcecHM"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-01T00:36:47Z",
+          "channelId": "UCAlB0OHffaOgX1xj964_Agg",
+          "title": "An Introduction to American Invitational Mathematics Examination - AIME",
+          "description": "By Dr. Hongwei Gao.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Morning Star Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-01T00:36:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dh5_5J4ed0jtupaU3JMNeJFDKlA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jafXKKGxGjo"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-16T22:08:56Z",
+          "channelId": "UCgLmaNJ9Wi5Jdk6bJo1UjaA",
+          "title": "MEN&#39;S DOUBLE FINAL US Open 2023 | Fang Chih LEE-Fang Jen LEE  vs GOH Sze Fei Nur IZZUDDIN   #bwf",
+          "description": "MEN'S DOUBLE FINAL US Open 2023 | Fang Chih LEE-Fang Jen LEE vs GOH Sze Fei Nur IZZUDDIN #usopen2023 Final Watch ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Badminton Battle Zone",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-16T22:08:56Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "x9SymIvxarl6NdEUg2kJHeAdRzE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "qeT3e03EtatGNMlH6-UC-YnIpu8",
+        "id": "SpWKzrcecHM",
+        "snippet": {
+          "publishedAt": "2023-02-01T00:36:47Z",
+          "channelId": "UCAlB0OHffaOgX1xj964_Agg",
+          "title": "An Introduction to American Invitational Mathematics Examination - AIME",
+          "description": "By Dr. Hongwei Gao",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SpWKzrcecHM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Morning Star Institute",
+          "tags": [
+            "math",
+            "math competition",
+            "AMC8",
+            "AMC",
+            "free"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "An Introduction to American Invitational Mathematics Examination - AIME",
+            "description": "By Dr. Hongwei Gao"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT30M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "633",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YtdpoJ-kvNIWzyeZrPRbdoXkPfw",
+        "id": "jafXKKGxGjo",
+        "snippet": {
+          "publishedAt": "2023-07-16T22:08:56Z",
+          "channelId": "UCgLmaNJ9Wi5Jdk6bJo1UjaA",
+          "title": "MEN'S DOUBLE FINAL US Open 2023 | Fang Chih LEE-Fang Jen LEE  vs GOH Sze Fei Nur IZZUDDIN   #bwf",
+          "description": "MEN'S DOUBLE FINAL US Open 2023 | Fang Chih LEE-Fang Jen LEE  vs GOH Sze Fei Nur IZZUDDIN   #usopen2023 \nFinal\nWatch the Men\u2019s Double  highlights match \nYONEX US Open 2023 | BWF Super 300 | Badminton Open 2023\n\n #MAS GOH Sze Fei/ Nur IZZUDDIN  def. #TPE LEE Fang-Chih/ LEE Fang-Jen 21-9 21-10\n\n#yonexusopen2023 #usopen2023 #USOpen2023 #usopen2023badminton #badminton #badmintonopen #badmintonopen2023 Make Sure To Subscribe The channel.\ud83d\ude4f\ud83d\ude4f\ud83d\ude4fon below link if you are likin the videos.\nhttps://www.youtube.com/@badmintonbattlezone?sub_confirmation=1\nKidambi Srikanth japan open 2023\nChou Tien Chen Japan Open 2023 \nbadminton highlights 2023\nJapan open badminton highlights 2023\nJapan open 2023 PV sindhu match\nJapan Open Badminton 2023 mixed doubles\nKoki Watanabe \nPriyanshu Rajawat \nLakshya Sen \nJonathan Christie \nKanta Tsuneyama \nChou Tien Chen \nKidambi Srikanth \npv Sindhu\nHs Prannoy\nKidambi Srikanth\nLee Chia-shi \nYe Hongwei \nLi Shi Feng \nBadminton Highlights\nBadminton matches\nbadminton battle zone",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jafXKKGxGjo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Badminton Battle Zone",
+          "tags": [
+            "badminton",
+            "badminton highlights",
+            "bwf",
+            "badminton open",
+            "badminton world tour",
+            "yonex us open2023",
+            "us open 2023",
+            "us open 2023 badminton",
+            "badminton us open 2023",
+            "kunlavut vitidsarn",
+            "kunlavut vitisarn",
+            "kunlavut vitidsarn us open 2023",
+            "\u0e01\u0e38\u0e25\u0e27\u0e38\u0e12\u0e34 \u0e27\u0e34\u0e17\u0e34\u0e15\u0e28\u0e32\u0e19\u0e15\u0e4c",
+            "lin chun yi",
+            "lin chun-yi",
+            "\u9ad8\u6a4b\u6d38\u58eb GOH Sze Fei",
+            "Nur IZZUDDIN",
+            "LEE Fang-Chih",
+            "LEE Fang-Jen",
+            "GOH Sze Fei Nur IZZUDDIN vs lee Fang-Chih lee Fang-Jen",
+            "us open badminton 2023",
+            "us open badminton 2023 final"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "MEN'S DOUBLE FINAL US Open 2023 | Fang Chih LEE-Fang Jen LEE  vs GOH Sze Fei Nur IZZUDDIN   #bwf",
+            "description": "MEN'S DOUBLE FINAL US Open 2023 | Fang Chih LEE-Fang Jen LEE  vs GOH Sze Fei Nur IZZUDDIN   #usopen2023 \nFinal\nWatch the Men\u2019s Double  highlights match \nYONEX US Open 2023 | BWF Super 300 | Badminton Open 2023\n\n #MAS GOH Sze Fei/ Nur IZZUDDIN  def. #TPE LEE Fang-Chih/ LEE Fang-Jen 21-9 21-10\n\n#yonexusopen2023 #usopen2023 #USOpen2023 #usopen2023badminton #badminton #badmintonopen #badmintonopen2023 Make Sure To Subscribe The channel.\ud83d\ude4f\ud83d\ude4f\ud83d\ude4fon below link if you are likin the videos.\nhttps://www.youtube.com/@badmintonbattlezone?sub_confirmation=1\nKidambi Srikanth japan open 2023\nChou Tien Chen Japan Open 2023 \nbadminton highlights 2023\nJapan open badminton highlights 2023\nJapan open 2023 PV sindhu match\nJapan Open Badminton 2023 mixed doubles\nKoki Watanabe \nPriyanshu Rajawat \nLakshya Sen \nJonathan Christie \nKanta Tsuneyama \nChou Tien Chen \nKidambi Srikanth \npv Sindhu\nHs Prannoy\nKidambi Srikanth\nLee Chia-shi \nYe Hongwei \nLi Shi Feng \nBadminton Highlights\nBadminton matches\nbadminton battle zone"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "51",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}
