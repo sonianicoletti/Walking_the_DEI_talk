@@ -1,0 +1,121 @@
+{
+  "ceo": "Beth E. Ford",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WFBHB2tc-Jnq7yZUhkkrPJOcsKc",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 23211,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j7N6Edjmw8VHJxtoFPNsRZVE_ks",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sIIrgw6jN64"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-31T16:01:26Z",
+          "channelId": "UCfRvkpHIoAPNvZt3KuB4nZQ",
+          "title": "Heuermann Lecture with Beth Ford, CEO and President of Land O&#39;Lakes (Archive)",
+          "description": "This session was part of the 2023 Water for Food Global Conference held May 8-11, 2023 in Lincoln, Nebraska, USA. Uncharted ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Daugherty Water for Food Global Institute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-31T16:01:26Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Ioe3UJf8mSBqhZw4LwN_KVzBSC8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "TyvwBKOaBbn7EP6kLkI6iijgA8U",
+        "id": "sIIrgw6jN64",
+        "snippet": {
+          "publishedAt": "2023-07-31T16:01:26Z",
+          "channelId": "UCfRvkpHIoAPNvZt3KuB4nZQ",
+          "title": "Heuermann Lecture with Beth Ford, CEO and President of Land O'Lakes (Archive)",
+          "description": "This session was part of the 2023 Water for Food Global Conference held May 8-11, 2023 in Lincoln, Nebraska, USA.\n\nUncharted Waters: Why everyone should care about the global water crisis \n\nThe global demand for water is set to outstrip supply by 56  percent in 2030. Drought conditions coupled with extreme flooding and severe storms are costing farmers billions of dollars in lost production and jeopardizing food security around the world. This discussion with Land O\u2019Lakes, Inc. President and Chief Executive Officer Beth Ford will highlight why water is at the top of her priority list, current initiatives farmers are implementing to preserve our water supply and the need for a comprehensive, long-term water sustainability strategy. Beth Ford serves as president and chief executive officer of Land O\u2019Lakes, Inc., a Fortune 200 food production, and agribusiness company that is also a century-old farmer-owned cooperative. Land O\u2019 Lakes operates Land O\u2019Lakes Dairy Foods, Purina Animal Nutrition, WinField United and Truterra and has operations in more than 60 countries. \n\nMs. Ford joined Land O\u2019Lakes in 2011 and has held a variety of roles across all businesses. She is a passionate advocate on behalf of farmers and rural America with the goal of connecting people, particularly in urban areas, to the farmers and rural communities who grow their food. In addition, she is the convener of The American Connection Project to help bridge the digital divide. Beth's 35-year career spans six industries at seven companies. Ford is on the board of directors of Starbucks and previously served on the board of directors of Blackrock, Inc. She also serves on the board of directors for the Business Roundtable and the Columbia University Business School \u2013 Deming Center Board of Advisors. She recently was inducted into the Supply Chain Hall of Fame by the Council of Supply Chain Management Professionals (CSCMP) and received a Doctor of Humane Letters honorary degree from Iowa State University in 2022.\n\nThe Heuermann Lectures focus on providing security, and here security means enough to sustain the world, in the areas of food, natural resources, and renewable energy for people, as well as on securing the sustainability of rual communities where the vital work of producing food and renewable energy occurs. Lectures are coordinated by the Institute of Agriculture and Natural Resources at the University of Nebraska\u2013Lincoln and open to the public.\n\nLearn more at waterforfood.nebraska.edu \nFind #WaterforFood Conference materials at https://waterforfood.nebraska.edu/explore-our-conferences/2023-water-for-food-global-conference\n\nArchive Notice: This video is for historic reference. If you need an accessible version, please contact waterforfood@nebraska.edu.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sIIrgw6jN64/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Daugherty Water for Food Global Institute",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Heuermann Lecture with Beth Ford, CEO and President of Land O'Lakes (Archive)",
+            "description": "This session was part of the 2023 Water for Food Global Conference held May 8-11, 2023 in Lincoln, Nebraska, USA.\n\nUncharted Waters: Why everyone should care about the global water crisis \n\nThe global demand for water is set to outstrip supply by 56  percent in 2030. Drought conditions coupled with extreme flooding and severe storms are costing farmers billions of dollars in lost production and jeopardizing food security around the world. This discussion with Land O\u2019Lakes, Inc. President and Chief Executive Officer Beth Ford will highlight why water is at the top of her priority list, current initiatives farmers are implementing to preserve our water supply and the need for a comprehensive, long-term water sustainability strategy. Beth Ford serves as president and chief executive officer of Land O\u2019Lakes, Inc., a Fortune 200 food production, and agribusiness company that is also a century-old farmer-owned cooperative. Land O\u2019 Lakes operates Land O\u2019Lakes Dairy Foods, Purina Animal Nutrition, WinField United and Truterra and has operations in more than 60 countries. \n\nMs. Ford joined Land O\u2019Lakes in 2011 and has held a variety of roles across all businesses. She is a passionate advocate on behalf of farmers and rural America with the goal of connecting people, particularly in urban areas, to the farmers and rural communities who grow their food. In addition, she is the convener of The American Connection Project to help bridge the digital divide. Beth's 35-year career spans six industries at seven companies. Ford is on the board of directors of Starbucks and previously served on the board of directors of Blackrock, Inc. She also serves on the board of directors for the Business Roundtable and the Columbia University Business School \u2013 Deming Center Board of Advisors. She recently was inducted into the Supply Chain Hall of Fame by the Council of Supply Chain Management Professionals (CSCMP) and received a Doctor of Humane Letters honorary degree from Iowa State University in 2022.\n\nThe Heuermann Lectures focus on providing security, and here security means enough to sustain the world, in the areas of food, natural resources, and renewable energy for people, as well as on securing the sustainability of rual communities where the vital work of producing food and renewable energy occurs. Lectures are coordinated by the Institute of Agriculture and Natural Resources at the University of Nebraska\u2013Lincoln and open to the public.\n\nLearn more at waterforfood.nebraska.edu \nFind #WaterforFood Conference materials at https://waterforfood.nebraska.edu/explore-our-conferences/2023-water-for-food-global-conference\n\nArchive Notice: This video is for historic reference. If you need an accessible version, please contact waterforfood@nebraska.edu."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H13M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "263",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

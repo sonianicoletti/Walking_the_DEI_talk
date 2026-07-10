@@ -1,0 +1,535 @@
+{
+  "ceo": "Jon R. Moeller",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Pfgxdi7NsuZIhVXgqALqQtJbDZc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 38,
+      "resultsPerPage": 29
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VID8JZmfI8hSfBeL2y14lcVAhSk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nuhbz9kIapM"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-06T19:11:33Z",
+          "channelId": "UCxdwm6MkC_g3dygI7e0CjPQ",
+          "title": "ES Webinar: A Look Ahead at P&amp;G with Jon Moeller",
+          "description": "Watch this webinar with Jon Moeller, CEO at Procter & Gamble, for \"Look Ahead: P&G.\" About Jon: Jon Moeller is P&G's President ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "P&G Alumni Network",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-06T19:11:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "noeWbd4ajztjbUQDnKCwwbB4cj0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t3TrJJq4PwQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-04T19:26:29Z",
+          "channelId": "UCmI91XokgClwok4kruG9fZQ",
+          "title": "P&amp;G CEO Jon Moeller speaks at Signal 2023",
+          "description": "P&G's CEO talks about why quality remains central to the company's top and bottom line.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Signal360",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-04T19:26:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PHn4X0IDxSEslApOw_FRLc7bmRQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T_8NDVHweWA"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-21T13:23:31Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "P&amp;G CEO Jon Moeller on Q3 earnings",
+          "description": "P&G CEO Jon Moeller joins Squawk Box' to react to the company's Q1 earnings, which beat Wall Street's revenue and earnings ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-21T13:23:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cp0CCRIsyC51qWy1D6aZygwkARA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-IN3Rwn6C6A"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T12:21:17Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "P&amp;G CEO Jon Moeller on earnings beat, consumer strength and inflation impact",
+          "description": "Procter & Gamble chairman and CEO Jon Moeller joins 'Squawk Box' to discuss the company's earnings results, which reported ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T12:21:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VUbBnG75icT4KbJQoTntQar4_KA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AYfa4Saj2FI"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-13T15:24:14Z",
+          "channelId": "UCxt2FSxpDm3f7smpiLJT-XA",
+          "title": "March 9, 2023, Meeting with Jon Moeller",
+          "description": "Jon R. Moeller, Chairman of the Board & President & CEO, Procter & Gamble, spoke to the Cincinnati Rotary Club on Thursday, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cincinnatirotaryclub",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-13T15:24:14Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SkvDfSAGnQrhBiyGfoi9qRVtW9Q",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "cbszARdAkLvdakwgHp6U4gWF980",
+        "id": "nuhbz9kIapM",
+        "snippet": {
+          "publishedAt": "2023-03-06T19:11:33Z",
+          "channelId": "UCxdwm6MkC_g3dygI7e0CjPQ",
+          "title": "ES Webinar: A Look Ahead at P&G with Jon Moeller",
+          "description": "Watch this webinar with Jon Moeller, CEO at Procter & Gamble, for\u00a0\"Look Ahead: P&G.\"\n\nAbout Jon:\nJon Moeller is P&G\u2019s President and Chief Executive Officer and has been an integral part of P&G's leadership team for well over two decades, developing strategies that drive the company's growth today. P&G\u2019s positive momentum and return to balanced growth and value creation reflect the underlying strength of these strategic choices and the organization as a whole.\n\nPrior to becoming CEO, Jon was P&G\u2019s Chief Operating Officer, with profit/loss responsibility for P&G\u2019s Enterprise Markets (Latin America, India, Middle East, Africa, Southeast Asia, and Eastern Europe). He also led the company\u2019s Investor Relations, Information Technology, Global Business Services, Sales, Market Operations, Purchasing, Manufacturing, and Distribution efforts.\n\nJon held the role of P&G\u2019s Chief Financial Officer for more than 12 years, leading P&G\u2019s Finance & Accounting, Tax, Treasury, Corporate Strategy, Business Development, and Investor Relations functions. He managed P&G\u2019s global Duracell, Salon Professional, Retail Hair Color, Prestige Fragrances, and Retail Hair Color businesses for a multi-year period as those businesses were transitioned for sale.\n\nSince joining P&G in 1988 as a cost analyst, Jon has held various senior leadership roles in categories, sectors, and regions, including assignments in China as the company\u2019s Treasurer, Global Beauty, Health, and Feminine Care as Finance Senior VP, and Corporate Forecasting & Analysis.\n\nHe has led major merger and acquisition operations, including the Merck KGaA acquisition and the divestitures of P&G\u2019s coffee, snacks, pharmaceuticals, battery, and prestige beauty businesses.\n\nJon serves on the boards of the Alliance to End Plastic Waste, the Consumer Goods Forum, Isle of Harris Distillers Ltd, and is a member of the Business Roundtable. He previously served on the Board of Directors for Monsanto for eight years and was Chairman of that Board\u2019s Audit Committee.\nHe is active in the business, civic, and cultural leadership of Greater Cincinnati, serving in an advisory role on local Boards, and is a Trustee Emeritus and Former Chairman of the Cincinnati Art Museum Board of Trustees.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nuhbz9kIapM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "P&G Alumni Network",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ES Webinar: A Look Ahead at P&G with Jon Moeller",
+            "description": "Watch this webinar with Jon Moeller, CEO at Procter & Gamble, for\u00a0\"Look Ahead: P&G.\"\n\nAbout Jon:\nJon Moeller is P&G\u2019s President and Chief Executive Officer and has been an integral part of P&G's leadership team for well over two decades, developing strategies that drive the company's growth today. P&G\u2019s positive momentum and return to balanced growth and value creation reflect the underlying strength of these strategic choices and the organization as a whole.\n\nPrior to becoming CEO, Jon was P&G\u2019s Chief Operating Officer, with profit/loss responsibility for P&G\u2019s Enterprise Markets (Latin America, India, Middle East, Africa, Southeast Asia, and Eastern Europe). He also led the company\u2019s Investor Relations, Information Technology, Global Business Services, Sales, Market Operations, Purchasing, Manufacturing, and Distribution efforts.\n\nJon held the role of P&G\u2019s Chief Financial Officer for more than 12 years, leading P&G\u2019s Finance & Accounting, Tax, Treasury, Corporate Strategy, Business Development, and Investor Relations functions. He managed P&G\u2019s global Duracell, Salon Professional, Retail Hair Color, Prestige Fragrances, and Retail Hair Color businesses for a multi-year period as those businesses were transitioned for sale.\n\nSince joining P&G in 1988 as a cost analyst, Jon has held various senior leadership roles in categories, sectors, and regions, including assignments in China as the company\u2019s Treasurer, Global Beauty, Health, and Feminine Care as Finance Senior VP, and Corporate Forecasting & Analysis.\n\nHe has led major merger and acquisition operations, including the Merck KGaA acquisition and the divestitures of P&G\u2019s coffee, snacks, pharmaceuticals, battery, and prestige beauty businesses.\n\nJon serves on the boards of the Alliance to End Plastic Waste, the Consumer Goods Forum, Isle of Harris Distillers Ltd, and is a member of the Business Roundtable. He previously served on the Board of Directors for Monsanto for eight years and was Chairman of that Board\u2019s Audit Committee.\nHe is active in the business, civic, and cultural leadership of Greater Cincinnati, serving in an advisory role on local Boards, and is a Trustee Emeritus and Former Chairman of the Cincinnati Art Museum Board of Trustees."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT54M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2985",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yhdu6UbV5IykslVcqa5qeJ_Ut9o",
+        "id": "t3TrJJq4PwQ",
+        "snippet": {
+          "publishedAt": "2023-09-04T19:26:29Z",
+          "channelId": "UCmI91XokgClwok4kruG9fZQ",
+          "title": "P&G CEO Jon Moeller speaks at Signal 2023",
+          "description": "P&G\u2019s CEO talks about why quality remains central to the company\u2019s top and bottom line",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t3TrJJq4PwQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Signal360",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "P&G CEO Jon Moeller speaks at Signal 2023",
+            "description": "P&G\u2019s CEO talks about why quality remains central to the company\u2019s top and bottom line"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT33M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2978",
+          "likeCount": "32",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UaKLj6OtCbpGLV4so4QYdZu8UsA",
+        "id": "T_8NDVHweWA",
+        "snippet": {
+          "publishedAt": "2023-04-21T13:23:31Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "P&G CEO Jon Moeller on Q3 earnings",
+          "description": "P&G CEO Jon Moeller joins Squawk Box' to react to the company's Q1 earnings, which beat Wall Street's revenue and earnings estimates.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/T_8NDVHweWA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "P&G CEO Jon Moeller on Q3 earnings",
+            "description": "P&G CEO Jon Moeller joins Squawk Box' to react to the company's Q1 earnings, which beat Wall Street's revenue and earnings estimates."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2594",
+          "likeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ECdC-avMx9tN9uLrnW98PWod6sY",
+        "id": "-IN3Rwn6C6A",
+        "snippet": {
+          "publishedAt": "2023-10-18T12:21:17Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "P&G CEO Jon Moeller on earnings beat, consumer strength and inflation impact",
+          "description": "Procter & Gamble chairman and CEO Jon Moeller joins 'Squawk Box' to discuss the company's earnings results, which reported quarterly earnings and revenue that topped analysts\u2019 expectations, the strength of the consumer, impact of inflation, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-IN3Rwn6C6A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "P&G CEO Jon Moeller on earnings beat, consumer strength and inflation impact",
+            "description": "Procter & Gamble chairman and CEO Jon Moeller joins 'Squawk Box' to discuss the company's earnings results, which reported quarterly earnings and revenue that topped analysts\u2019 expectations, the strength of the consumer, impact of inflation, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "62122",
+          "likeCount": "7872",
+          "favoriteCount": "0",
+          "commentCount": "36"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fv8rJaO83AnQbhNJxv65EubYi54",
+        "id": "AYfa4Saj2FI",
+        "snippet": {
+          "publishedAt": "2023-03-13T15:24:14Z",
+          "channelId": "UCxt2FSxpDm3f7smpiLJT-XA",
+          "title": "March 9, 2023, Meeting with Jon Moeller",
+          "description": "Jon R. Moeller, Chairman of the Board & President & CEO, Procter & Gamble, spoke to the Cincinnati Rotary Club on Thursday, March 9.  Jon Moeller has been an integral part of P&G\u2019s leadership team for well over two decades, developing strategies that P&G people are executing with excellence to drive the company's growth today.  P&G's positive momentum and return to balanced growth and value reflect the underlying strength of these strategic choices and the organization.\nPrior to becoming CEO, Jon was P&G\u2019s Chief Operating Officer, with profit/loss responsibility for P&G\u2019s Enterprise Markets (Latin America, India, Middle East, Africa, Southeast Asia and Eastern Europe).  He also led the company's Investor Relations, Information Technology, Global Business Services, Sales, Market Operations, Purchasing, Manufacturing, and Distribution efforts.\nSince joining P&G in 1988, as a cost analyst, Jon has held various senior leadership roles in categories, sectors and regions, including assignments in China, as the company's Treasurer, Global Beauty, Health, and Feminine Care Finance Senior VP, and Corporate Forecasting & Analysis.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AYfa4Saj2FI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "cincinnatirotaryclub",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "March 9, 2023, Meeting with Jon Moeller",
+            "description": "Jon R. Moeller, Chairman of the Board & President & CEO, Procter & Gamble, spoke to the Cincinnati Rotary Club on Thursday, March 9.  Jon Moeller has been an integral part of P&G\u2019s leadership team for well over two decades, developing strategies that P&G people are executing with excellence to drive the company's growth today.  P&G's positive momentum and return to balanced growth and value reflect the underlying strength of these strategic choices and the organization.\nPrior to becoming CEO, Jon was P&G\u2019s Chief Operating Officer, with profit/loss responsibility for P&G\u2019s Enterprise Markets (Latin America, India, Middle East, Africa, Southeast Asia and Eastern Europe).  He also led the company's Investor Relations, Information Technology, Global Business Services, Sales, Market Operations, Purchasing, Manufacturing, and Distribution efforts.\nSince joining P&G in 1988, as a cost analyst, Jon has held various senior leadership roles in categories, sectors and regions, including assignments in China, as the company's Treasurer, Global Beauty, Health, and Feminine Care Finance Senior VP, and Corporate Forecasting & Analysis."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT55M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "97",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 29,
+      "resultsPerPage": 29
+    }
+  }
+}

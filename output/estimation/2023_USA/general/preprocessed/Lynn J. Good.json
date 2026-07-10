@@ -1,0 +1,23 @@
+{
+  "ceo": "Lynn J. Good",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "R6tYkXJRZ2ySbzxBoc3blSAGBVA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 288386,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "WwkQGKeNBml44yJFE-xSenzU6n4",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

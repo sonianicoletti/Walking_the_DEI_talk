@@ -1,0 +1,336 @@
+{
+  "ceo": "Hans E. Vestberg",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Yi2G9Ps8rDB0tblOvUQX6ERv8bI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 42,
+      "resultsPerPage": 40
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qwMsJRo5LYI3F8__kZxfAH6rqI0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "muZjMjusva8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-05T14:07:10Z",
+          "channelId": "UCDKihs06j8wFDLdAP1sWfzg",
+          "title": "Hans Vestberg | The 2023 GW Business &amp; Policy Forum",
+          "description": "Hans Vestberg, Chairman and CEO of Verizon, discusses digital inclusion and how it could be addressed. About the 2023 GW ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The George Washington University School of Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-05T14:07:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "htPuk0mZaFcLG5S5S_iF46KreWM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "42k5eyEMIG0"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-25T13:03:31Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Verizon CEO Hans Vestberg on Q1 earnings",
+          "description": "Verizon CEO Hans Vestberg joins 'Squawk Box' to react to the company's first-quarter earnings, how it stacks up against its ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-25T13:03:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mOAfJW4XVedlUAU4-3qBGDRzYCY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BCBH8pMJvUo"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-13T09:39:17Z",
+          "channelId": "UCzx8IkRAiJvZarosJQbeNoQ",
+          "title": "Hans Vestberg &amp; Frank Boulben: Verizon, Connecting Society  - TLF 2023",
+          "description": "How the future of mobility can empower the next generation: Hans Vestberg and Frank Boulben, respectively Chairman and CEO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Frenchfounders",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-13T09:39:17Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "N-9dUfK5x0Bo4Kwwkgk5NnvJm3M",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "d9dQZRTzH3EvCd1HphM2AReMA7Y",
+        "id": "muZjMjusva8",
+        "snippet": {
+          "publishedAt": "2023-06-05T14:07:10Z",
+          "channelId": "UCDKihs06j8wFDLdAP1sWfzg",
+          "title": "Hans Vestberg | The 2023 GW Business & Policy Forum",
+          "description": "Hans Vestberg, Chairman and CEO of Verizon, discusses digital inclusion and how it could be addressed. \n\nAbout the 2023 GW Business & Policy Forum\nEmerging technologies have become a dominant force in our society \u2014 driving economics, policy and culture, and accounting for more than US$40 trillion in global nominal GDP. On April 25, 2023, those driving forces became the focus of global leaders from both the private and public sectors as they came together at the George Washington University for the first annual GW Business & Policy Forum. The theme for this inaugural forum was Attacking Cybersecurity Risks. Participants gained invaluable insights and opportunities for interaction as we addressed the most significant issues related to this ever-evolving landscape and the profound implications they have for global business, markets and regulation.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/muZjMjusva8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The George Washington University School of Business",
+          "tags": [
+            "GWSB",
+            "GW School of Business",
+            "business school"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hans Vestberg | The 2023 GW Business & Policy Forum",
+            "description": "Hans Vestberg, Chairman and CEO of Verizon, discusses digital inclusion and how it could be addressed. \n\nAbout the 2023 GW Business & Policy Forum\nEmerging technologies have become a dominant force in our society \u2014 driving economics, policy and culture, and accounting for more than US$40 trillion in global nominal GDP. On April 25, 2023, those driving forces became the focus of global leaders from both the private and public sectors as they came together at the George Washington University for the first annual GW Business & Policy Forum. The theme for this inaugural forum was Attacking Cybersecurity Risks. Participants gained invaluable insights and opportunities for interaction as we addressed the most significant issues related to this ever-evolving landscape and the profound implications they have for global business, markets and regulation."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "550",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "N6hQHmQfZ2o65J00u3gVGWcytes",
+        "id": "42k5eyEMIG0",
+        "snippet": {
+          "publishedAt": "2023-04-25T13:03:31Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Verizon CEO Hans Vestberg on Q1 earnings",
+          "description": "Verizon CEO Hans Vestberg joins 'Squawk Box' to react to the company's first-quarter earnings, how it stacks up against its competitors, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/42k5eyEMIG0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Verizon CEO Hans Vestberg on Q1 earnings",
+            "description": "Verizon CEO Hans Vestberg joins 'Squawk Box' to react to the company's first-quarter earnings, how it stacks up against its competitors, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13553",
+          "likeCount": "113",
+          "favoriteCount": "0",
+          "commentCount": "29"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4dyKR3trninhVOKVSVTZpVBtDCw",
+        "id": "BCBH8pMJvUo",
+        "snippet": {
+          "publishedAt": "2023-12-13T09:39:17Z",
+          "channelId": "UCzx8IkRAiJvZarosJQbeNoQ",
+          "title": "Hans Vestberg & Frank Boulben: Verizon, Connecting Society  - TLF 2023",
+          "description": "How the future of mobility can empower the next generation: Hans Vestberg and Frank Boulben, respectively Chairman and CEO Chief Revenue Officer @VerizonWireless in conversation with Diane Brady, Assistant Managing Editor @Forbes.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BCBH8pMJvUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Frenchfounders",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hans Vestberg & Frank Boulben: Verizon, Connecting Society  - TLF 2023",
+            "description": "How the future of mobility can empower the next generation: Hans Vestberg and Frank Boulben, respectively Chairman and CEO Chief Revenue Officer @VerizonWireless in conversation with Diane Brady, Assistant Managing Editor @Forbes."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "274",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 40,
+      "resultsPerPage": 40
+    }
+  }
+}

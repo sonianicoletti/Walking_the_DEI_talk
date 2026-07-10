@@ -1,0 +1,128 @@
+{
+  "ceo": "Haviv Ilan",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "s3mRpEHKvblPyJUNxTG6JEiWthA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S63SKqRyVk2tYSaHwPMA0cmLTz8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VpEEcpUG4oc"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-20T13:00:30Z",
+          "channelId": "UCVGd62P3vVvJ8TV4aEHQvHQ",
+          "title": "Rich Templeton is replaced as CEO of Texas Instruments by existing operations chief Haviv Ilan.",
+          "description": "Welcome to my channel Elastic World 24 Please stay with me, those who are new to my channel, subscribe to the channel, and if ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elastic World 24",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-20T13:00:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "7rn6PSdPpFrOMOCPu1RwenT4MHE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "xHXNLJutIKagK3xph8ZB2-NIL2k",
+        "id": "VpEEcpUG4oc",
+        "snippet": {
+          "publishedAt": "2023-01-20T13:00:30Z",
+          "channelId": "UCVGd62P3vVvJ8TV4aEHQvHQ",
+          "title": "Rich Templeton is replaced as CEO of Texas Instruments by existing operations chief Haviv Ilan.",
+          "description": "Welcome to my channel Elastic World 24\n\n\nPlease stay with me, those who are new to my channel, subscribe to the channel, and if you like the video, then give 1 like because your 1 like will encourage me to make the next video.\n\nSkip:- called \n\nPhoto- called \n\n\nFair Use Disclaimer:\nThis channel may use some copyrighted materials without specific authorization of the owner but contents used here falls under the \u201cFair Use\u201d Copyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.,",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VpEEcpUG4oc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Elastic World 24",
+          "tags": [
+            "texus",
+            "Texas Instruments",
+            "Rich Templeton",
+            "chief Haviv Ilan.",
+            "company's CEO",
+            "Templeton",
+            "Brian Crutcher",
+            "Crutcher",
+            "CBNS",
+            "CNN",
+            "CNW"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Rich Templeton is replaced as CEO of Texas Instruments by existing operations chief Haviv Ilan.",
+            "description": "Welcome to my channel Elastic World 24\n\n\nPlease stay with me, those who are new to my channel, subscribe to the channel, and if you like the video, then give 1 like because your 1 like will encourage me to make the next video.\n\nSkip:- called \n\nPhoto- called \n\n\nFair Use Disclaimer:\nThis channel may use some copyrighted materials without specific authorization of the owner but contents used here falls under the \u201cFair Use\u201d Copyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.,"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "573",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

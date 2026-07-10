@@ -1,0 +1,22 @@
+{
+  "ceo": "Barbara Rentler",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "eFp3WRpWRwkKIjjEzDpOusx-9b8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "n3QfO1O_9yTKXHQBc_kQ7PjmbOE",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

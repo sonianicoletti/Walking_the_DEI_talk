@@ -1,0 +1,1818 @@
+{
+  "ceo": "Shantanu Narayen",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Wo8DjMpCEQzEBLWIxnsBq0BpFIc",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 419,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "B1uh3oOIZlFA4VEkXpHATGwagx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Y6qDNW4DjXM"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-12T21:45:38Z",
+          "channelId": "UC5_SBQbLA9Kg7Jh5GpXoP3g",
+          "title": "CEO Shantanu Narayen Shares on Gen AI at #AdobeMAX! | Adobe",
+          "description": "Your creativity, your way. CEO Shantanu Narayen shares the opportunity of generative AI tools as an ingredient in your creative ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Adobe",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-12T21:45:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Dw8otECUcs44CuodY4k_Ai3xAtw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cJz0cEdTv5E"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-19T00:51:39Z",
+          "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
+          "title": "Shantanu Narayen, Chairman and CEO of Adobe: People, Technology, and Creative Inspiration",
+          "description": "Shantanu Narayen, Chairman and CEO of Adobe, spoke with Sankalp Banerjee, MBA '23, in View From The Top at Stanford GSB.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stanford Graduate School of Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-19T00:51:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FtW_ziFiTgf2HXf0iYaYiurvTJ8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Bu4XDh5HFEw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-15T15:15:04Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Adobe CEO Shantanu Narayen on generative A.I. partnership with Google&#39;s Bard",
+          "description": "Adobe CEO Shantanu Narayen joins 'Squawk on the Street' to discuss the company's generative A.I. strategy, including its new ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-15T15:15:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dpczlejcyrBmXLk_tRMqPIgwJFk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k44TLLWOhqA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-14T22:13:32Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Adobe CEO Shantanu Narayen: We&#39;ve seen resilience in both consumers and SMB continue through Q3",
+          "description": "Shantanu Narayen, Adobe CEO, joins 'Closing Bell Overtime' to talk Q3 earnings, guidance for the quarter ahead, AI integration ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-14T22:13:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ysk65cQlGRj88m3mpP_XaNjDqsg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "F5mDoS6z4AM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-26T00:02:03Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "LIVE | Adobe CEO Shantanu Narayen &amp; Microsoft President Brad Smith at B20 Summit India EXCLUSIVE",
+          "description": "Adobe plans to offer 'freemium' model to grow its Generative AI userbase. Microsoft calls for regulation of AI. CNBC-TV18 speaks ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-26T00:02:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xG8eQgDcKve2VbDcXgEyp3hI6Ls",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CO5bdbOjv_0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-16T00:43:30Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Adobe CEO Shantanu Narayen says A.I. is &#39;going to make people so much more productive&#39;",
+          "description": "Adobe CEO Shantanu Narayen joins 'Mad Money' host Jim Cramer to dive into the company's Q2 earnings beat, the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-16T00:43:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YNzU_vs6QpvellB7PE65Eql4WXU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bWuFe-pM13I"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-26T12:30:21Z",
+          "channelId": "UCqcEzOKaA4nc0gISklN0Ryw",
+          "title": "The Moment with Ryan Patel: Featuring Adobe CEO Shantanu Narayen | HP",
+          "description": "Welcome to season two of The Moment with @ryanpatelglobal We had a chance to sit down with Shantanu Narayen, CEO of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-26T12:30:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IoxVImg26qvunnjpm4_3LJwgEew",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0GHOhKi3HJo"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T03:58:00Z",
+          "channelId": "UCRK4FDIkUyslEAUdyRDdCtQ",
+          "title": "Adobe\u2019s CEO Shantanu Narayen arrives at the White House for the State dinner",
+          "description": "Adobe's CEO Shantanu Narayen arrives at the White House for the State dinner. #narendramodi #modiinusa #modii #usa ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NEWS9 Live",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T03:58:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5Hjr8Suzp_nGV0rNcvg3HtIkQKg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Y5uNSIN0OiU"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-26T00:30:31Z",
+          "channelId": "UCJFOER35ggIWwsXh2ZDnqyg",
+          "title": "Too soon to rush into regulating Artificial Intelligence: Shantanu Narayen, CEO of Adobe Systems",
+          "description": "Shantanu Narayen, the visionary CEO of Adobe Systems, sits down with ET's Bodhisatva Ganguli and Surabhi Agrawal to share ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Economic Times",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-26T00:30:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UzeDhNMwHyjvcgdDZms6q9Z3sFs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zkCS2FCbTjY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-25T20:03:51Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "B20 Summit India LIVE | Shantanu Narayen on AI for Business &amp; Societies: Opportunities &amp; Regulations",
+          "description": "B20 Summit India 2023 is here! Catch Shereen Bhan in conversation with Shantanu Narayen of Adobe, USA on AI for Business ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-25T20:03:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QcV0RIYyfPA8BeDr5FVrgEDc4ps",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "U0zHgL3tXrI"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T09:30:11Z",
+          "channelId": "UCUld3m_rLi37zHm5XhbELPQ",
+          "title": "The Powerhouse of Adobe: Indian American Shantanu Narayen one of the highest paid executives!",
+          "description": "InfluentialIndians: Shantanu Narayen is one of the highest paid executive in the world whose skills and knowledge have taken ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Logical Indian",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T09:30:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L53VCG-vsVzwhOaHe0k-FQzXvlo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZTUWtzVhNf4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-04T18:20:12Z",
+          "channelId": "UCAdNB3_kWkpGLs0aPnM0Yvw",
+          "title": "What makes Adobe CEO an Inspiring Leader? Shantanu Narayen",
+          "description": "Join us in this captivating YouTube video as we delve into the extraordinary life and career of Shantanu Narayen, the Chairman, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Inspirational Ideas",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-04T18:20:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-KMgps-PsbOOEKba4b3n_xyoNdQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cYC8583h58M"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-09T05:17:27Z",
+          "channelId": "UC3FMm7csgB8jywzmAHu5IyA",
+          "title": "CEO of Adobe Systems: Shantanu Narayen \ud83d\udd25 #shorts",
+          "description": "CEO of Adobe Systems: Shantanu Narayen Info : Shantanu Narayen is the chairman, president and CEO of Adobe. He joined ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Inspiring Minds",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-09T05:17:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d2WoODczk8YeRcQWLCrQzaWNduk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OTUF2lCan9s"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-06T05:30:09Z",
+          "channelId": "UConxLKZ-gsUV0-zSP1sV6eg",
+          "title": "Shantanu Narayen CEO of Adobe | Success Story of Shantanu Narayen",
+          "description": "Shantanu Narayen CEO of Adobe Shantanu Narayen was born on May 27, 1963, in Hyderabad, India. He is the second son of a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CouponMoto",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-06T05:30:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IpsrT2ifhPBfYP-PstXN0umbeQI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nbXwRoHQSms"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-15T08:30:21Z",
+          "channelId": "UCNOcLsicnnREXPW5WETpv-Q",
+          "title": "World\u2019s SMARTEST CEO | Shantanu Narayen of Adobe #shorts #education",
+          "description": "Episode 35 of #indianswhoinspire series With a remarkable 99% Glassdoor approval, Shantanu Narayen, Adobe's CEO, fosters a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sarath Nerella",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-15T08:30:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CBxFIktRMS-TVnH02duyjVB2ED8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Eo4MU-1fqpU"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-11T09:08:34Z",
+          "channelId": "UC465BeC9lPQlRpPuG898GCA",
+          "title": "Shantanu Narayen is the CEO of Adobe. #shorts #adobe #viralvideo",
+          "description": "Disclaimer: This content doesn't belong to me, it is edited and shared for education and awareness purpose. If the content owners ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Wisdom Clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-11T09:08:34Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "vM2GTPA0eEi-3CmCYreJs0O3gRE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "5RiwHAyWgs-hQLprMJ77vUp2tmw",
+        "id": "Y6qDNW4DjXM",
+        "snippet": {
+          "publishedAt": "2023-10-12T21:45:38Z",
+          "channelId": "UC5_SBQbLA9Kg7Jh5GpXoP3g",
+          "title": "CEO Shantanu Narayen Shares on Gen AI at #AdobeMAX! | Adobe",
+          "description": "Your creativity, your way. \ud83d\udcab CEO Shantanu Narayen shares the opportunity of generative AI tools as an ingredient in your creative process. #AdobeMAX https://adobe.ly/46igVDM\n\nSubscribe to Adobe: https://adobe.ly/3Oq11Ay\n\nLearn More About Creative Cloud: https://adobe.ly/48KX80I\n\nLearn More About Document Cloud: https://adobe.ly/48KHimO\n\nLearn More About Experience Cloud: https://adobe.ly/3vspuyC\n\nAbout Adobe:\nAdobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone \u2013 from emerging artists to global brands \u2013 to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. We\u2019re changing the world through digital experiences.\n\nThis YouTube channel represents three cloud products from Adobe: Creative Cloud, Experience Cloud, and Document Cloud. Through our content, we aim to inspire, educate, and empower individuals and businesses to unleash their full potential using Adobe's suite of cloud-based solutions.\n\nOur channel brings you exclusive access to Adobe events, including product launches, keynote presentations, and behind-the-scenes coverage. Stay up to date with the latest news, community updates, and developments within the Adobe ecosystem, and gain valuable insights from industry experts and Adobe representatives.\n\nConnect with Adobe:\nFacebook: https://www.facebook.com/adobe\nTwitter: https://www.twitter.com/adobe\nInstagram: https://www.instagram.com/adobe\nTikTok: https://www.tiktok.com/@adobe\n\n#Adobe #AdobeYouTube\n\nCEO Shantanu Narayen Shares on Gen AI at #AdobeMAX! | Adobe\nhttps://www.youtube.com/watch?v=Y6qDNW4DjXM",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Y6qDNW4DjXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Adobe",
+          "tags": [
+            "AI",
+            "Acrobat",
+            "Adobe",
+            "Adobe Acrobat",
+            "Adobe Creative Cloud",
+            "Adobe Experience Cloud",
+            "Adobe MAX",
+            "Adobe MAX Sneaks",
+            "Adobe Marketing Cloud",
+            "Adobe Sneaks",
+            "AdobeMAX",
+            "Experience Cloud",
+            "Illustrator",
+            "Photoshop",
+            "Premiere Pro",
+            "SAAS",
+            "Sneaks",
+            "Substance 3D",
+            "artificial intelligence",
+            "design",
+            "designers",
+            "digital experiences",
+            "digital marketing",
+            "graphic design",
+            "marketing",
+            "motion graphics",
+            "photo editing",
+            "software",
+            "technology",
+            "video editing"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CEO Shantanu Narayen Shares on Gen AI at #AdobeMAX! | Adobe",
+            "description": "Your creativity, your way. \ud83d\udcab CEO Shantanu Narayen shares the opportunity of generative AI tools as an ingredient in your creative process. #AdobeMAX https://adobe.ly/46igVDM\n\nSubscribe to Adobe: https://adobe.ly/3Oq11Ay\n\nLearn More About Creative Cloud: https://adobe.ly/48KX80I\n\nLearn More About Document Cloud: https://adobe.ly/48KHimO\n\nLearn More About Experience Cloud: https://adobe.ly/3vspuyC\n\nAbout Adobe:\nAdobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone \u2013 from emerging artists to global brands \u2013 to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. We\u2019re changing the world through digital experiences.\n\nThis YouTube channel represents three cloud products from Adobe: Creative Cloud, Experience Cloud, and Document Cloud. Through our content, we aim to inspire, educate, and empower individuals and businesses to unleash their full potential using Adobe's suite of cloud-based solutions.\n\nOur channel brings you exclusive access to Adobe events, including product launches, keynote presentations, and behind-the-scenes coverage. Stay up to date with the latest news, community updates, and developments within the Adobe ecosystem, and gain valuable insights from industry experts and Adobe representatives.\n\nConnect with Adobe:\nFacebook: https://www.facebook.com/adobe\nTwitter: https://www.twitter.com/adobe\nInstagram: https://www.instagram.com/adobe\nTikTok: https://www.tiktok.com/@adobe\n\n#Adobe #AdobeYouTube\n\nCEO Shantanu Narayen Shares on Gen AI at #AdobeMAX! | Adobe\nhttps://www.youtube.com/watch?v=Y6qDNW4DjXM"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14552",
+          "likeCount": "193",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HSgezsHBnWobzXyoyk-YE51TMBI",
+        "id": "cJz0cEdTv5E",
+        "snippet": {
+          "publishedAt": "2023-04-19T00:51:39Z",
+          "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
+          "title": "Shantanu Narayen, Chairman and CEO of Adobe: People, Technology, and Creative Inspiration",
+          "description": "Shantanu Narayen, Chairman and CEO of Adobe, spoke with Sankalp Banerjee, MBA \u201923, in View From The Top at Stanford GSB. Shantanu reflected on his personal evolution as a leader across his career, including the last 16 years as CEO. He discussed the importance of innovative thinking across multiple scales, seeking opportunities in setbacks, and finding creative inspiration. He also shared his perspective on the future of technology and digital experiences, including the impact of generative AI and data transparency.\n\n\u201cIf you can create unreasonable expectations, people amaze you with their creativity.\u201d\n\n#gsbvftt #gsbpodcast",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cJz0cEdTv5E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stanford Graduate School of Business",
+          "tags": [
+            "Adobe",
+            "Leadership",
+            "Shantanu Narayen",
+            "Sankalp Banerjee",
+            "View From The Top",
+            "Technology",
+            "generative ai",
+            "data transparency",
+            "tech leadership",
+            "technology leadership",
+            "business takeaways",
+            "the gsb",
+            "stanford gsb community",
+            "the stanford gsb experience",
+            "business insights",
+            "gsb transformative experience",
+            "higher education",
+            "stanford gsb takeaways",
+            "stanford gsb business school",
+            "stanford higher education",
+            "business school gsb",
+            "stanford mba",
+            "gsb mba",
+            "stanford graduate school of business"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shantanu Narayen, Chairman and CEO of Adobe: People, Technology, and Creative Inspiration",
+            "description": "Shantanu Narayen, Chairman and CEO of Adobe, spoke with Sankalp Banerjee, MBA \u201923, in View From The Top at Stanford GSB. Shantanu reflected on his personal evolution as a leader across his career, including the last 16 years as CEO. He discussed the importance of innovative thinking across multiple scales, seeking opportunities in setbacks, and finding creative inspiration. He also shared his perspective on the future of technology and digital experiences, including the impact of generative AI and data transparency.\n\n\u201cIf you can create unreasonable expectations, people amaze you with their creativity.\u201d\n\n#gsbvftt #gsbpodcast"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT52M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "136357",
+          "favoriteCount": "0",
+          "commentCount": "51"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Uh7DHsdu7-fl7Sn7GSa77SuaduE",
+        "id": "Bu4XDh5HFEw",
+        "snippet": {
+          "publishedAt": "2023-05-15T15:15:04Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Adobe CEO Shantanu Narayen on generative A.I. partnership with Google's Bard",
+          "description": "Adobe CEO Shantanu Narayen joins 'Squawk on the Street' to discuss the company's generative A.I. strategy, including its new partnership with Google's Bard.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Bu4XDh5HFEw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Adobe CEO Shantanu Narayen on generative A.I. partnership with Google's Bard",
+            "description": "Adobe CEO Shantanu Narayen joins 'Squawk on the Street' to discuss the company's generative A.I. strategy, including its new partnership with Google's Bard."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11140",
+          "likeCount": "76",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_ef5WVo1UfJsVzLHyq_8sZtVG50",
+        "id": "k44TLLWOhqA",
+        "snippet": {
+          "publishedAt": "2023-09-14T22:13:32Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Adobe CEO Shantanu Narayen: We've seen resilience in both consumers and SMB continue through Q3",
+          "description": "Shantanu Narayen, Adobe CEO, joins 'Closing Bell Overtime' to talk Q3 earnings, guidance for the quarter ahead, AI integration and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/k44TLLWOhqA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Closing Bell Overtime",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Adobe CEO Shantanu Narayen: We've seen resilience in both consumers and SMB continue through Q3",
+            "description": "Shantanu Narayen, Adobe CEO, joins 'Closing Bell Overtime' to talk Q3 earnings, guidance for the quarter ahead, AI integration and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4636",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aSW2k3qfGs2SuMTnXVfsumiHMRg",
+        "id": "F5mDoS6z4AM",
+        "snippet": {
+          "publishedAt": "2023-08-26T00:02:03Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "LIVE | Adobe CEO Shantanu Narayen & Microsoft President Brad Smith at B20 Summit India EXCLUSIVE",
+          "description": "Adobe plans to offer 'freemium' model to grow its Generative AI userbase.  Microsoft calls for regulation of AI. CNBC-TV18 speaks to Adobe CEO Shantanu Narayen & Microsoft President Brad Smith at B20 Summit India\n\n#B20SummitIndia #generativeai #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F5mDoS6z4AM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "g20 summit 2023 india",
+            "b20 summit india 2023",
+            "b20 summit india 2023 live",
+            "b20 summit india 2023 live updates",
+            "g20 summit",
+            "g20 summit in india",
+            "g20 summit india",
+            "2023 g20 summit",
+            "g20 summit 2023",
+            "b20 summit",
+            "g20 summit 2023 in india",
+            "b20 india summit latest updates",
+            "b20 summit 2023",
+            "g20 summit 2023 india current affairs",
+            "b20 india",
+            "india g20 summit",
+            "b20 summit 2023 india",
+            "g20 summit 2023 current affairs",
+            "b20 summit 2023 aim",
+            "g20 summit in india 2022",
+            "b20 summit india"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "LIVE | Adobe CEO Shantanu Narayen & Microsoft President Brad Smith at B20 Summit India EXCLUSIVE",
+            "description": "Adobe plans to offer 'freemium' model to grow its Generative AI userbase.  Microsoft calls for regulation of AI. CNBC-TV18 speaks to Adobe CEO Shantanu Narayen & Microsoft President Brad Smith at B20 Summit India\n\n#B20SummitIndia #generativeai #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT27M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "683",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IGXNgLO5uoTRRHV7ENMd8hL4XNw",
+        "id": "CO5bdbOjv_0",
+        "snippet": {
+          "publishedAt": "2023-06-16T00:43:30Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Adobe CEO Shantanu Narayen says A.I. is 'going to make people so much more productive'",
+          "description": "Adobe CEO Shantanu Narayen joins 'Mad Money' host Jim Cramer to dive into the company's Q2 earnings beat, the implementation of A.I. in Adobe products, and more. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CO5bdbOjv_0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Adobe CEO Shantanu Narayen says A.I. is 'going to make people so much more productive'",
+            "description": "Adobe CEO Shantanu Narayen joins 'Mad Money' host Jim Cramer to dive into the company's Q2 earnings beat, the implementation of A.I. in Adobe products, and more. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7198",
+          "likeCount": "29",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PIJbV68ZOrPl-va-26wbQwbaw08",
+        "id": "bWuFe-pM13I",
+        "snippet": {
+          "publishedAt": "2023-10-26T12:30:21Z",
+          "channelId": "UCqcEzOKaA4nc0gISklN0Ryw",
+          "title": "The Moment with Ryan Patel: Featuring Adobe CEO Shantanu Narayen | HP",
+          "description": "Welcome to season two of The Moment with @ryanpatelglobal \n\nWe had a chance to sit down with Shantanu Narayen, CEO of Adobe, to talk about Adobe\u2019s continuous reinvention, his vision for AI innovation, and personal stories from his upbringing in India. \n\nWe would love to hear what encouragement you took from Shantanu\u2019s story. Let us know in the comments!\n\n#HPTheMoment @ryanpatelglobal \n\nListen to the full conversation with Shantanu and other guests on Spotify: https://open.spotify.com/show/7EH1VIAoJFJlsGsGUwDTYQ\n\n\nSUBSCRIBE: http://bit.ly/2mGfXhF\n\nSHOP NOW: https://www.hp.com/us-en/shop\n\nAbout HP:\nHP Inc. is a technology company that believes one thoughtful idea has the power to change the world. Its product and service portfolio of personal systems, printers, and 3D printing solutions helps bring these ideas to life. Visit http://www.hp.com. \n\nConnect with HP:\nVisit HP WEBSITE: http://www.hp.com\nLike HP on FACEBOOK: https://www.facebook.com/HP\nFollow HP on TWITTER: https://twitter.com/HP\nFollow HP on INSTAGRAM: https://www.instagram.com/hp\nFollow HP on LINKEDIN: https://www.linkedin.com/company/hp\n\nThe Moment with Ryan Patel: Featuring Adobe CEO Shantanu Narayen | HP\nhttps://www.youtube.com/HP",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bWuFe-pM13I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HP",
+          "tags": [
+            "HP",
+            "Hewlett-Packard",
+            "Hewlett Packard",
+            "Laptop",
+            "Desktop",
+            "Tablet",
+            "Printer",
+            "Ink",
+            "Toner",
+            "Display",
+            "Business Solutions",
+            "Gaming",
+            "All-In-One",
+            "Graphics Solutions"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Moment with Ryan Patel: Featuring Adobe CEO Shantanu Narayen | HP",
+            "description": "Welcome to season two of The Moment with @ryanpatelglobal \n\nWe had a chance to sit down with Shantanu Narayen, CEO of Adobe, to talk about Adobe\u2019s continuous reinvention, his vision for AI innovation, and personal stories from his upbringing in India. \n\nWe would love to hear what encouragement you took from Shantanu\u2019s story. Let us know in the comments!\n\n#HPTheMoment @ryanpatelglobal \n\nListen to the full conversation with Shantanu and other guests on Spotify: https://open.spotify.com/show/7EH1VIAoJFJlsGsGUwDTYQ\n\n\nSUBSCRIBE: http://bit.ly/2mGfXhF\n\nSHOP NOW: https://www.hp.com/us-en/shop\n\nAbout HP:\nHP Inc. is a technology company that believes one thoughtful idea has the power to change the world. Its product and service portfolio of personal systems, printers, and 3D printing solutions helps bring these ideas to life. Visit http://www.hp.com. \n\nConnect with HP:\nVisit HP WEBSITE: http://www.hp.com\nLike HP on FACEBOOK: https://www.facebook.com/HP\nFollow HP on TWITTER: https://twitter.com/HP\nFollow HP on INSTAGRAM: https://www.instagram.com/hp\nFollow HP on LINKEDIN: https://www.linkedin.com/company/hp\n\nThe Moment with Ryan Patel: Featuring Adobe CEO Shantanu Narayen | HP\nhttps://www.youtube.com/HP"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "647533",
+          "likeCount": "68",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YYZc1NkQYRVnyC2INAijqHRr0ms",
+        "id": "0GHOhKi3HJo",
+        "snippet": {
+          "publishedAt": "2023-06-23T03:58:00Z",
+          "channelId": "UCRK4FDIkUyslEAUdyRDdCtQ",
+          "title": "Adobe\u2019s CEO Shantanu Narayen arrives at the White House for the State dinner",
+          "description": "Adobe\u2019s CEO Shantanu Narayen arrives at the White House for the State dinner.\n\n#narendramodi  #modiinusa  #modii #usa #indiausrelations  #usa  #indiausa  #modiinusa  #modiusvisit  #modiinamerica  #indiausrelations  #ModiMeetsWorldLeaders #bilateralrelations \n#WhiteHouseSummit #AdobeCEO\n..............................................................................................\nNews9 is India's first fully integrated English news brand across all digital platforms. It includes a publishing platform, viz. www.news9live.com, a future-ready OTT platform, News9 Plus, and a 24-Hour video streaming service on connected TVs and all social platforms. \n\nIt's the English news brand that understands and fits perfectly into the digital-first lifestyles of our English news audiences.\n\n\n\u25ba Watch us on YouTube      : https://www.youtube.com/c/NEWS9LIVE\n\u25ba Like us on Facebook        : https://www.facebook.com/news9live \n\u25ba Follow us on Instagram   : https://www.instagram.com/news9live\n\u25ba Follow us on Twitter         : https://twitter.com/NEWS9TWEETS",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0GHOhKi3HJo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NEWS9 Live",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Adobe\u2019s CEO Shantanu Narayen arrives at the White House for the State dinner",
+            "description": "Adobe\u2019s CEO Shantanu Narayen arrives at the White House for the State dinner.\n\n#narendramodi  #modiinusa  #modii #usa #indiausrelations  #usa  #indiausa  #modiinusa  #modiusvisit  #modiinamerica  #indiausrelations  #ModiMeetsWorldLeaders #bilateralrelations \n#WhiteHouseSummit #AdobeCEO\n..............................................................................................\nNews9 is India's first fully integrated English news brand across all digital platforms. It includes a publishing platform, viz. www.news9live.com, a future-ready OTT platform, News9 Plus, and a 24-Hour video streaming service on connected TVs and all social platforms. \n\nIt's the English news brand that understands and fits perfectly into the digital-first lifestyles of our English news audiences.\n\n\n\u25ba Watch us on YouTube      : https://www.youtube.com/c/NEWS9LIVE\n\u25ba Like us on Facebook        : https://www.facebook.com/news9live \n\u25ba Follow us on Instagram   : https://www.instagram.com/news9live\n\u25ba Follow us on Twitter         : https://twitter.com/NEWS9TWEETS"
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1818",
+          "likeCount": "26",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gq3fS6MCoxAFS8o6GxWGmCwhZk4",
+        "id": "Y5uNSIN0OiU",
+        "snippet": {
+          "publishedAt": "2023-08-26T00:30:31Z",
+          "channelId": "UCJFOER35ggIWwsXh2ZDnqyg",
+          "title": "Too soon to rush into regulating Artificial Intelligence: Shantanu Narayen, CEO of Adobe Systems",
+          "description": "Shantanu Narayen, the visionary CEO of Adobe Systems, sits down with ET's Bodhisatva Ganguli and Surabhi Agrawal to share insights into the future of artificial intelligence.\n#adobe #artificialintelligence #ai \n\u25ba Subscribe to The Economic Times for the latest video updates. It's free! - https://www.youtube.com/TheEconomicTimes?sub_confirmation=1\n\n\u25ba More Videos @ ETTV - https://economictimes.indiatimes.com/TV\n\n\u25ba https://EconomicTimes.com\n\n\u25ba For business news on the go, download ET app:\nhttps://etapp.onelink.me/tOvY/EconomicTimesApp\n\nFollow ET on:\n\n\u25ba Facebook - https://www.facebook.com/EconomicTimes \n\u25ba Twitter - https://www.twitter.com/economictimes\n\u25ba LinkedIn - https://www.linkedin.com/company/economictimes\n\u25ba Instagram - https://www.instagram.com/the_economic_times\n\u25ba Flipboard - https://flipboard.com/@economictimes\n\n#news #latestnews #economictimes #ET #TheEconomicTimes #businessnews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Y5uNSIN0OiU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Economic Times",
+          "tags": [
+            "business news",
+            "economy news",
+            "economic times",
+            "ET Markets",
+            "ET",
+            "latest news",
+            "news today",
+            "news",
+            "trending",
+            "viral",
+            "trending videos",
+            "viral videos",
+            "trending news",
+            "big news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Too soon to rush into regulating Artificial Intelligence: Shantanu Narayen, CEO of Adobe Systems",
+            "description": "Shantanu Narayen, the visionary CEO of Adobe Systems, sits down with ET's Bodhisatva Ganguli and Surabhi Agrawal to share insights into the future of artificial intelligence.\n#adobe #artificialintelligence #ai \n\u25ba Subscribe to The Economic Times for the latest video updates. It's free! - https://www.youtube.com/TheEconomicTimes?sub_confirmation=1\n\n\u25ba More Videos @ ETTV - https://economictimes.indiatimes.com/TV\n\n\u25ba https://EconomicTimes.com\n\n\u25ba For business news on the go, download ET app:\nhttps://etapp.onelink.me/tOvY/EconomicTimesApp\n\nFollow ET on:\n\n\u25ba Facebook - https://www.facebook.com/EconomicTimes \n\u25ba Twitter - https://www.twitter.com/economictimes\n\u25ba LinkedIn - https://www.linkedin.com/company/economictimes\n\u25ba Instagram - https://www.instagram.com/the_economic_times\n\u25ba Flipboard - https://flipboard.com/@economictimes\n\n#news #latestnews #economictimes #ET #TheEconomicTimes #businessnews"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT17M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "663",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pyUufGba358WDWkfKgEOTA-1mpI",
+        "id": "zkCS2FCbTjY",
+        "snippet": {
+          "publishedAt": "2023-08-25T20:03:51Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "B20 Summit India LIVE | Shantanu Narayen on AI for Business & Societies: Opportunities & Regulations",
+          "description": "B20 Summit India 2023 is here! Catch Shereen Bhan in conversation with Shantanu Narayen of Adobe, USA on AI for Business and Societies: Opportunities and Regulations\n\n#b20 #g20 #g20summit #b20india #india #ai #business  #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday  \n\nRead More:https://www.cnbctv18.com/technology/adobe-ceo-bets-big-on-generative-ai-to-offer-freemium-model-to-grow-its-userbase-17633651.htm\n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zkCS2FCbTjY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "2023 G20 Summit",
+            "B20 India",
+            "B20 Summit",
+            "B20 Summit: What's On The Agenda",
+            "B20 Summit India 2023",
+            "B20 Summit India 2023 live",
+            "B20 Summit India 2023 live updates",
+            "B20 India summit latest updates",
+            "adobe",
+            "adobe business outlook",
+            "adobe india expansion plans",
+            "adobe expansion plans",
+            "adobe business expansion plans",
+            "generative AI",
+            "the rise of generative AI",
+            "adobe & generative AI",
+            "adobe FY24 business outlook",
+            "CNBC TV18 latest news updates",
+            "CNBC TV18 latest updates",
+            "CNBC TV18 updates"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "B20 Summit India LIVE | Shantanu Narayen on AI for Business & Societies: Opportunities & Regulations",
+            "description": "B20 Summit India 2023 is here! Catch Shereen Bhan in conversation with Shantanu Narayen of Adobe, USA on AI for Business and Societies: Opportunities and Regulations\n\n#b20 #g20 #g20summit #b20india #india #ai #business  #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday  \n\nRead More:https://www.cnbctv18.com/technology/adobe-ceo-bets-big-on-generative-ai-to-offer-freemium-model-to-grow-its-userbase-17633651.htm\n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT21M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2505",
+          "likeCount": "35",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kzCR9AV4RSjYyCzb9uod-cmT3vs",
+        "id": "U0zHgL3tXrI",
+        "snippet": {
+          "publishedAt": "2023-09-20T09:30:11Z",
+          "channelId": "UCUld3m_rLi37zHm5XhbELPQ",
+          "title": "The Powerhouse of Adobe: Indian American Shantanu Narayen one of the highest paid executives!",
+          "description": "#InfluentialIndians: Shantanu Narayen is one of the highest paid executive in the world whose skills and knowledge have taken ADOBE to dizzying heights. Watch the video to know more. #II45",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U0zHgL3tXrI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Logical Indian",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Powerhouse of Adobe: Indian American Shantanu Narayen one of the highest paid executives!",
+            "description": "#InfluentialIndians: Shantanu Narayen is one of the highest paid executive in the world whose skills and knowledge have taken ADOBE to dizzying heights. Watch the video to know more. #II45"
+          },
+          "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "160",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Mq0CXFeM_qefdZAgD-3KJYzGM3M",
+        "id": "ZTUWtzVhNf4",
+        "snippet": {
+          "publishedAt": "2023-06-04T18:20:12Z",
+          "channelId": "UCAdNB3_kWkpGLs0aPnM0Yvw",
+          "title": "What makes Adobe CEO an Inspiring Leader? Shantanu Narayen",
+          "description": "Join us in this captivating YouTube video as we delve into the extraordinary life and career of Shantanu Narayen, the Chairman, President, and CEO of Adobe Systems. From his humble beginnings in Hyderabad, India, to his transformative leadership at Adobe, Narayen's story is a testament to the power of passion, resilience, and visionary thinking. \nDiscover how he shaped Adobe into a global powerhouse in digital media and marketing, revolutionizing the industry along the way. Learn about his commitment to diversity, corporate social responsibility, and his inspiring journey from Hyderabad to Silicon Valley. \nGet ready to be inspired by Narayen's incredible achievements and gain valuable insights into leadership, innovation, and the pursuit of excellence. Don't miss this chance to learn from a true visionary and change maker!\n\nDisclaimer: \nAny content provided in this video is for general informational and educational purposes only and should not be considered as professional advice. Viewers are advised to do their own research and consult with a professional before making any decisions based on this information. Inspirational Ideas will not be held liable for any loss or damage caused by reliance on any information provided in this video.\n\n#LeadershipLessons #CEOInsights #innovation #techindustry  #DigitalTransformation #InspiringLeaders #ShantanuNarayen #Adobe #TechIndustry #SuccessStories #Entrepreneurship #VisionaryLeadership #BusinessInspiration #CorporateSocialResponsibility #DiversityAndInclusion #TechGiant #TechInnovations #CEOInterview",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZTUWtzVhNf4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Inspirational Ideas",
+          "tags": [
+            "Leadership Lessons",
+            "CEO Insights",
+            "Innovation in Tech",
+            "Digital Transformation",
+            "Inspiring Leaders",
+            "Shantanu Narayen",
+            "Adobe CEO",
+            "Tech Industry",
+            "Success Stories",
+            "Entrepreneurship",
+            "Visionary Leadership",
+            "Business Inspiration",
+            "Diversity and Inclusion",
+            "Digital Media Solutions",
+            "Marketing Revolution",
+            "Tech Innovations",
+            "CEO Interview",
+            "Industry Disruption",
+            "Executive Leadership",
+            "Business Strategy",
+            "Technology Innovation",
+            "Career Growth",
+            "Professional Development",
+            "Corporate Culture",
+            "Adobe"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What makes Adobe CEO an Inspiring Leader? Shantanu Narayen",
+            "description": "Join us in this captivating YouTube video as we delve into the extraordinary life and career of Shantanu Narayen, the Chairman, President, and CEO of Adobe Systems. From his humble beginnings in Hyderabad, India, to his transformative leadership at Adobe, Narayen's story is a testament to the power of passion, resilience, and visionary thinking. \nDiscover how he shaped Adobe into a global powerhouse in digital media and marketing, revolutionizing the industry along the way. Learn about his commitment to diversity, corporate social responsibility, and his inspiring journey from Hyderabad to Silicon Valley. \nGet ready to be inspired by Narayen's incredible achievements and gain valuable insights into leadership, innovation, and the pursuit of excellence. Don't miss this chance to learn from a true visionary and change maker!\n\nDisclaimer: \nAny content provided in this video is for general informational and educational purposes only and should not be considered as professional advice. Viewers are advised to do their own research and consult with a professional before making any decisions based on this information. Inspirational Ideas will not be held liable for any loss or damage caused by reliance on any information provided in this video.\n\n#LeadershipLessons #CEOInsights #innovation #techindustry  #DigitalTransformation #InspiringLeaders #ShantanuNarayen #Adobe #TechIndustry #SuccessStories #Entrepreneurship #VisionaryLeadership #BusinessInspiration #CorporateSocialResponsibility #DiversityAndInclusion #TechGiant #TechInnovations #CEOInterview"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1437",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ASWBwk0ALCkNkBbsxb-u7JJYciY",
+        "id": "cYC8583h58M",
+        "snippet": {
+          "publishedAt": "2023-12-09T05:17:27Z",
+          "channelId": "UC3FMm7csgB8jywzmAHu5IyA",
+          "title": "CEO of Adobe Systems: Shantanu Narayen \ud83d\udd25 #shorts",
+          "description": "CEO of Adobe Systems: Shantanu Narayen \ud83d\udd25\n\nInfo : \nShantanu Narayen is the chairman, president and CEO of Adobe. He joined the company in 1998 and became its CEO in 2007. Prior to finding success at Adobe, he was a product developer at Apple and co-founded a photo-sharing startup called Pictra.\n\n___________________________________________________________________________\nThank you for watching this video!\n\nPlease Subscribe get more Inspiring videos.\n\n\nInspiring Video\nMotivational videos\nenglish speech\nadobe systems\nshantanu narayen\nshort videos\n\n\n#ceo #adobe #adobesoftware #shantanunarayen #motivation #india #inspiration #speech #english",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cYC8583h58M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Inspiring Minds",
+          "tags": [
+            "CEO of adobe systems",
+            "shantanu narayen",
+            "ceo",
+            "indian ceos",
+            "famous people speech in india",
+            "famous people speech",
+            "english speech",
+            "shantanu narayen adobe",
+            "shantanu narayen speech",
+            "famous ceos in india",
+            "shantanu narayen hindi",
+            "shantanu narayen interview",
+            "speech",
+            "bri",
+            "british english speaking videos",
+            "English motivational speech",
+            "viral Shorts",
+            "trending shorts",
+            "shorts",
+            "english speech with english subtitle",
+            "learn english",
+            "english speechvideos",
+            "english speeking"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "CEO of Adobe Systems: Shantanu Narayen \ud83d\udd25 #shorts",
+            "description": "CEO of Adobe Systems: Shantanu Narayen \ud83d\udd25\n\nInfo : \nShantanu Narayen is the chairman, president and CEO of Adobe. He joined the company in 1998 and became its CEO in 2007. Prior to finding success at Adobe, he was a product developer at Apple and co-founded a photo-sharing startup called Pictra.\n\n___________________________________________________________________________\nThank you for watching this video!\n\nPlease Subscribe get more Inspiring videos.\n\n\nInspiring Video\nMotivational videos\nenglish speech\nadobe systems\nshantanu narayen\nshort videos\n\n\n#ceo #adobe #adobesoftware #shantanunarayen #motivation #india #inspiration #speech #english"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1788",
+          "likeCount": "41",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gJmZ0iyErgvFOqKl-IBRbbn-sSo",
+        "id": "OTUF2lCan9s",
+        "snippet": {
+          "publishedAt": "2023-03-06T05:30:09Z",
+          "channelId": "UConxLKZ-gsUV0-zSP1sV6eg",
+          "title": "Shantanu Narayen CEO of Adobe | Success Story of Shantanu Narayen",
+          "description": "Shantanu Narayen CEO of Adobe\n\n\nShantanu Narayen was born on May 27, 1963, in Hyderabad, India.\n\nHe is the second son of a mother who taught American literature and a father who ran a plastics company.\n\nHe attended Hyderabad Public School.\n\nHe earned a bachelor's degree in electronics and communication engineering from the University College of Engineering, Osmania University in Hyderabad.\n\nHe moved to the US to complete his education, and in 1986 received a master's degree in computer science from Bowling Green State University in Ohio.\n\nHe met his wife Reni while at Bowling Green State University in the mid-1980s; she has a doctorate in clinical psychology.\n\nIn 1986 Narayen joined a Silicon Valley start-up called Measurex Automation Systems, which made computer control systems for automotive and electronics customers.\n\nHe then moved to Apple, where he was in senior management positions from 1989 to 1995.\n\nIn 1993 he received an MBA from the Haas School of Business, University of California, Berkeley.\n\nAfter Apple, he served as director of desktop and collaboration products for Silicon Graphics.\n\nIn 1996 co-founded Pictra Inc., a company that pioneered the concept of digital photo sharing over the Internet.\n\nNarayen joined Adobe in 1998 as senior vice president of worldwide product development, a position he held through 2001.\n\nFrom 2001 to 2005 he was executive vice president of worldwide products.\n\nIn 2005 he was appointed president and chief operating officer.\n\nIn November 2007, Adobe announced that Bruce Chizen would step down as CEO effective December 1, 2007, to be replaced by Narayen.\n\nAs CEO, Narayen Adobe has entered the digital experiences category, an expansion that began with the company\u2019s acquisition of Omniture in 2009.\n\nIn May 2011, Narayen received an honorary doctorate from his alma mater, Bowling Green State University.\n\nIn 2011, Barack Obama appointed him as a member of his Management Advisory Board.\n\nIn 2018 Adobe exceeded $100 billion in market cap and joined the Fortune 400 for the first time.\n\nIn 2018 it also ranked No. 13 on Forbes\u2019 Most Innovative Companies list.\n\nNarayen is the lead independent director on the board of directors for Pfizer and vice chairman of the US-India Strategic Partnership Forum.\n\nIn 2018, Narayen was ranked #12 on Fortune's \"Businessperson of the Year\" list and was deemed \"Global Indian of the Year\" in 2018 by The Economic Times of India.\n\nIn 2019, he was a recipient of India's Padma Shri award.\n\n#successstory #shantanunaraye #motivationalvideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OTUF2lCan9s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CouponMoto",
+          "tags": [
+            "Shantanu Narayen CEO of Adobe",
+            "Success Story of Shantanu Narayen",
+            "shantanu narayen",
+            "adobe ceo",
+            "shantanu narayen adobe",
+            "shantanu narayen interview",
+            "shantanu narayen speech"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shantanu Narayen CEO of Adobe | Success Story of Shantanu Narayen",
+            "description": "Shantanu Narayen CEO of Adobe\n\n\nShantanu Narayen was born on May 27, 1963, in Hyderabad, India.\n\nHe is the second son of a mother who taught American literature and a father who ran a plastics company.\n\nHe attended Hyderabad Public School.\n\nHe earned a bachelor's degree in electronics and communication engineering from the University College of Engineering, Osmania University in Hyderabad.\n\nHe moved to the US to complete his education, and in 1986 received a master's degree in computer science from Bowling Green State University in Ohio.\n\nHe met his wife Reni while at Bowling Green State University in the mid-1980s; she has a doctorate in clinical psychology.\n\nIn 1986 Narayen joined a Silicon Valley start-up called Measurex Automation Systems, which made computer control systems for automotive and electronics customers.\n\nHe then moved to Apple, where he was in senior management positions from 1989 to 1995.\n\nIn 1993 he received an MBA from the Haas School of Business, University of California, Berkeley.\n\nAfter Apple, he served as director of desktop and collaboration products for Silicon Graphics.\n\nIn 1996 co-founded Pictra Inc., a company that pioneered the concept of digital photo sharing over the Internet.\n\nNarayen joined Adobe in 1998 as senior vice president of worldwide product development, a position he held through 2001.\n\nFrom 2001 to 2005 he was executive vice president of worldwide products.\n\nIn 2005 he was appointed president and chief operating officer.\n\nIn November 2007, Adobe announced that Bruce Chizen would step down as CEO effective December 1, 2007, to be replaced by Narayen.\n\nAs CEO, Narayen Adobe has entered the digital experiences category, an expansion that began with the company\u2019s acquisition of Omniture in 2009.\n\nIn May 2011, Narayen received an honorary doctorate from his alma mater, Bowling Green State University.\n\nIn 2011, Barack Obama appointed him as a member of his Management Advisory Board.\n\nIn 2018 Adobe exceeded $100 billion in market cap and joined the Fortune 400 for the first time.\n\nIn 2018 it also ranked No. 13 on Forbes\u2019 Most Innovative Companies list.\n\nNarayen is the lead independent director on the board of directors for Pfizer and vice chairman of the US-India Strategic Partnership Forum.\n\nIn 2018, Narayen was ranked #12 on Fortune's \"Businessperson of the Year\" list and was deemed \"Global Indian of the Year\" in 2018 by The Economic Times of India.\n\nIn 2019, he was a recipient of India's Padma Shri award.\n\n#successstory #shantanunaraye #motivationalvideo"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "255",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dIhXdBoHsbw0RSCqzK1w9cm48rY",
+        "id": "nbXwRoHQSms",
+        "snippet": {
+          "publishedAt": "2023-08-15T08:30:21Z",
+          "channelId": "UCNOcLsicnnREXPW5WETpv-Q",
+          "title": "World\u2019s SMARTEST CEO | Shantanu Narayen of Adobe #shorts #education",
+          "description": "Episode 35 of #indianswhoinspire series\n\nWith a remarkable 99% Glassdoor approval, Shantanu Narayen, Adobe's CEO, fosters a unique, self-motivated work culture.\n\nEmbracing a 'gentleman leadership style', he turned piracy into loyalty. By allowing unrestricted access and appealing to ethics, he converted users into paying customers, bolstering Adobe's success.\n\nUnder Shantanu's leadership, Adobe's profits surged from $500 million to over $5 billion annually, and its market cap skyrocketed from $20 to over $200 billion.\n\nDo you wish your CEO was like Shantanu? Let me know in the comments.\n\n\n---------------------------------------------------------------\n\nAre you tired of how Western media stereotypes India? \ud83e\udd14 - The stories of their refusal to accept the Indian growth story. \ud83d\ude44 - Their peddled narratives that continue to build a negative perception of India. To change this, starting today, we @india_in_a_minute have launched a 365-day series on \u201cIndians Who Inspire\u201d..\ud83c\uddee\ud83c\uddf3\ud83d\udcaa \n\nWe will share the incredible achievements of eminent Indian personalities... .. whose contributions made the world a better place, in 1-minute stories. \ud83c\udf89 \nJoin me on this journey today: Follow me on LinkedIn: https://www.linkedin.com/in/sarathner... Subscribe to @india_in_a_minute on YouTube & Instagram \n\n#adobe \n#shantanunarayen\n#leadership \n#technology \n#ceo \n#fortune100\n#fortune500 \n#indiainaminute \n#sarathnerella",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nbXwRoHQSms/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sarath Nerella",
+          "tags": [
+            "shantanu narayen case study",
+            "shantanu narayen adobe",
+            "indians who inspire",
+            "adobe",
+            "shantanu narayen",
+            "leadership",
+            "technology",
+            "ceo",
+            "fortune100",
+            "fortune500",
+            "indiainaminute",
+            "sarathnerella"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "World\u2019s SMARTEST CEO | Shantanu Narayen of Adobe #shorts #education",
+            "description": "Episode 35 of #indianswhoinspire series\n\nWith a remarkable 99% Glassdoor approval, Shantanu Narayen, Adobe's CEO, fosters a unique, self-motivated work culture.\n\nEmbracing a 'gentleman leadership style', he turned piracy into loyalty. By allowing unrestricted access and appealing to ethics, he converted users into paying customers, bolstering Adobe's success.\n\nUnder Shantanu's leadership, Adobe's profits surged from $500 million to over $5 billion annually, and its market cap skyrocketed from $20 to over $200 billion.\n\nDo you wish your CEO was like Shantanu? Let me know in the comments.\n\n\n---------------------------------------------------------------\n\nAre you tired of how Western media stereotypes India? \ud83e\udd14 - The stories of their refusal to accept the Indian growth story. \ud83d\ude44 - Their peddled narratives that continue to build a negative perception of India. To change this, starting today, we @india_in_a_minute have launched a 365-day series on \u201cIndians Who Inspire\u201d..\ud83c\uddee\ud83c\uddf3\ud83d\udcaa \n\nWe will share the incredible achievements of eminent Indian personalities... .. whose contributions made the world a better place, in 1-minute stories. \ud83c\udf89 \nJoin me on this journey today: Follow me on LinkedIn: https://www.linkedin.com/in/sarathner... Subscribe to @india_in_a_minute on YouTube & Instagram \n\n#adobe \n#shantanunarayen\n#leadership \n#technology \n#ceo \n#fortune100\n#fortune500 \n#indiainaminute \n#sarathnerella"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6128",
+          "likeCount": "85",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jr_48uAd1ZQ03EjurX84DW8Tjj0",
+        "id": "Eo4MU-1fqpU",
+        "snippet": {
+          "publishedAt": "2023-02-11T09:08:34Z",
+          "channelId": "UC465BeC9lPQlRpPuG898GCA",
+          "title": "Shantanu Narayen is the CEO of Adobe. #shorts #adobe #viralvideo",
+          "description": "Disclaimer: \n\nThis content doesn't belong to me, it is edited and shared for education and awareness purpose. If the content owners of this video has any issues, we request you to directly message me.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Eo4MU-1fqpU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "The Wisdom Clips",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Shantanu Narayen is the CEO of Adobe. #shorts #adobe #viralvideo",
+            "description": "Disclaimer: \n\nThis content doesn't belong to me, it is edited and shared for education and awareness purpose. If the content owners of this video has any issues, we request you to directly message me."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "851",
+          "likeCount": "20",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

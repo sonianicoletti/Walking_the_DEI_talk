@@ -1,0 +1,23 @@
+{
+  "ceo": "Richard A. Gonzalez",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "kBujNPS_RG62eyXHp7-OEt4LmcI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 163954,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "gLc0yvsyOxwZS-sSxa9exMpQ40k",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

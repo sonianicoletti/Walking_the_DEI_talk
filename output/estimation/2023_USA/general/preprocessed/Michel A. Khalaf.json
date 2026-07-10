@@ -1,0 +1,121 @@
+{
+  "ceo": "Michel A. Khalaf",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "hGGlCBpKT9cATFd4-CRBuWA4pos",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 69,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "drzeuTTiEXIWYUI1H8a-a899kno",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "by7MfoztT78"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-23T19:17:29Z",
+          "channelId": "UCvU90MbRz-Xf-FtAqgcCzIg",
+          "title": "NPower Gala 2023 Fireside Chat with Michel Khalaf, Chief Executive Officer of MetLife",
+          "description": "Follow us and learn more here: www.npower.org Facebook: https://www.facebook.com/npower.org/ Instagram: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NPower",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-23T19:17:29Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KCS9QRVO0OGTiaAD6nDdqGqKShc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "GXoikYBzXFWt-twPK1H4UTcRgC4",
+        "id": "by7MfoztT78",
+        "snippet": {
+          "publishedAt": "2023-10-23T19:17:29Z",
+          "channelId": "UCvU90MbRz-Xf-FtAqgcCzIg",
+          "title": "NPower Gala 2023 Fireside Chat with Michel Khalaf, Chief Executive Officer of MetLife",
+          "description": "Follow us and learn more here:\n\nwww.npower.org\nFacebook: https://www.facebook.com/npower.org/\nInstagram: https://www.instagram.com/npowerorg/\nLinkedIn: https://www.linkedin.com/school/npowertechnologytraining",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/by7MfoztT78/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NPower",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "NPower Gala 2023 Fireside Chat with Michel Khalaf, Chief Executive Officer of MetLife",
+            "description": "Follow us and learn more here:\n\nwww.npower.org\nFacebook: https://www.facebook.com/npower.org/\nInstagram: https://www.instagram.com/npowerorg/\nLinkedIn: https://www.linkedin.com/school/npowertechnologytraining"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "918",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

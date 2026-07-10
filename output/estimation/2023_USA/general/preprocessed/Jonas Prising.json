@@ -1,0 +1,120 @@
+{
+  "ceo": "Jonas Prising",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "AnQscLWTm6pm-cJsp8TzpCQHAX0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 198,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Lne44XDlaRRwZFon_p9Mg3ivZhQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Zd7a-uZz_kM"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-26T13:56:01Z",
+          "channelId": "UC9_hemY4TVSDS2PyEgwDLzw",
+          "title": "Viva Technology 2023 - Interview Alain Roumilhac et Jonas Prising",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ManpowerGroup France",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-26T13:56:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "FXWL0tRMAqOqa3kQkUQKuo8YaBM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "NI8b8SAHXaE-Bx34O5n-R3gQqt0",
+        "id": "Zd7a-uZz_kM",
+        "snippet": {
+          "publishedAt": "2023-06-26T13:56:01Z",
+          "channelId": "UC9_hemY4TVSDS2PyEgwDLzw",
+          "title": "Viva Technology 2023 - Interview Alain Roumilhac et Jonas Prising",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Zd7a-uZz_kM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ManpowerGroup France",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "fr",
+          "localized": {
+            "title": "Viva Technology 2023 - Interview Alain Roumilhac et Jonas Prising",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "149",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

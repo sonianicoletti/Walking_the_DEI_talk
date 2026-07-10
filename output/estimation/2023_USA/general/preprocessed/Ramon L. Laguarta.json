@@ -1,0 +1,140 @@
+{
+  "ceo": "Ramon L. Laguarta",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "FIPCvbsd_Cr2lmTtzQVZygBznV4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ahW1BcbG9W9IBW275d8egkXMXmQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HrVG9WqeBAo"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-12T06:13:23Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Maverick CEO: How Ramon Laguarta is Shaping the Future of the Food Industry.",
+          "description": "Welcome to Mindful Thoughts, where we explore the lives and careers of inspiring individuals. In this episode, we're taking a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-12T06:13:23Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kQfAxweIiyYoC0AG6EZMVaYHNcw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "l6ijyxFAHhWO3MXawu0j8ny4Gfk",
+        "id": "HrVG9WqeBAo",
+        "snippet": {
+          "publishedAt": "2023-03-12T06:13:23Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Maverick CEO: How Ramon Laguarta is Shaping the Future of the Food Industry.",
+          "description": "Welcome to Mindful Thoughts, where we explore the lives and careers of inspiring individuals. In this episode, we're taking a closer look at the incredible journey of Ramon Laguarta, CEO of PepsiCo. From his humble beginnings to his rise to the top of one of the world's largest food and beverage companies, Laguarta's story is a testament to the power of hard work, perseverance, and leadership. So sit back, relax, and let's dive into the world of Ramon Laguarta.\n\nRamon Laguarta is a global business leader with more than two decades of experience in the food and beverage industry. He was born in Spain and earned a degree in Economics and Business Administration from ESADE Business School in Barcelona. After completing his studies, he began his career in the financial sector, working for several companies in Europe.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HrVG9WqeBAo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "tags": [
+            "Ramon Laguarta",
+            "Laguarta",
+            "Ramon",
+            "Pepsi",
+            "Top CEO",
+            "f&b",
+            "food",
+            "beverage",
+            "vision",
+            "principles",
+            "thoughts",
+            "thought",
+            "mindset",
+            "insight",
+            "business",
+            "business strategy",
+            "influential person",
+            "influential people",
+            "influential"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Maverick CEO: How Ramon Laguarta is Shaping the Future of the Food Industry.",
+            "description": "Welcome to Mindful Thoughts, where we explore the lives and careers of inspiring individuals. In this episode, we're taking a closer look at the incredible journey of Ramon Laguarta, CEO of PepsiCo. From his humble beginnings to his rise to the top of one of the world's largest food and beverage companies, Laguarta's story is a testament to the power of hard work, perseverance, and leadership. So sit back, relax, and let's dive into the world of Ramon Laguarta.\n\nRamon Laguarta is a global business leader with more than two decades of experience in the food and beverage industry. He was born in Spain and earned a degree in Economics and Business Administration from ESADE Business School in Barcelona. After completing his studies, he began his career in the financial sector, working for several companies in Europe."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "433",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

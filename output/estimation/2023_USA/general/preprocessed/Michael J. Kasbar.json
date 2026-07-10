@@ -1,0 +1,138 @@
+{
+  "ceo": "Michael J. Kasbar",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "QRFZnNzhB0RppvHXAoZ13lymj68",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IewY7s5mDUXFhAMHHvTlGVx0Hr8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VFKqsBjknl0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-26T20:18:01Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "World Kinect Corporation CEO Michael Kasbar talks about the company&#39;s new name and ticker symbol",
+          "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-26T20:18:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "f7_wYXboUeuhUSWUOXR95Ekb2Uc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "r8sCCZPUs9TKSp8vK3pF5Hf8EoI",
+        "id": "VFKqsBjknl0",
+        "snippet": {
+          "publishedAt": "2023-06-26T20:18:01Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "World Kinect Corporation CEO Michael Kasbar talks about the company's new name and ticker symbol",
+          "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in the company's journey and what he's focused on for the future. #NYSEFloorTalk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VFKqsBjknl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "tags": [
+            "Financial Regulatory Structure",
+            "Investor Confidence",
+            "Financial Responsibility",
+            "Transparency",
+            "Accountability",
+            "Fair Market Dealing",
+            "Global regulation",
+            "Free Enterprise",
+            "Standardized Derivatives",
+            "De-regulation",
+            "Risk Taking",
+            "Trust",
+            "Heritage",
+            "Integrity",
+            "Advocacy",
+            "Technology",
+            "NYSE",
+            "NYSE Euronext",
+            "NYSE Market",
+            "NYSE Com",
+            "Nasdaq NYSE",
+            "Law",
+            "Justice",
+            "Business School",
+            "Innovation",
+            "Solutions",
+            "New Vision",
+            "Investments"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "World Kinect Corporation CEO Michael Kasbar talks about the company's new name and ticker symbol",
+            "description": "New name and a new ticker symbol -- hear what World Kinect Corporation CEO Michael Kasbar has to say about this next step in the company's journey and what he's focused on for the future. #NYSEFloorTalk"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1286",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

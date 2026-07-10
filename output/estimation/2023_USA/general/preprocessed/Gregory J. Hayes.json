@@ -1,0 +1,215 @@
+{
+  "ceo": "Gregory J. Hayes",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "unDj3lFlg7cIM2P40gxjjVo_A5s",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 171,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0gz-_PY-wXSDDbFeI1BPCuUfBfg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yV3lNjRmndU"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-13T16:20:03Z",
+          "channelId": "UCWvLrrkDl8IHkamOq0BOKEA",
+          "title": "RTX CEO Gregory J. Hayes Outlines Global Aerospace Collaboration",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "U.S. Chamber of Commerce",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-13T16:20:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EzBNh_UFvOeECI3I2eCGu_o0szY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8kraczRh2lg"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-10T07:00:04Z",
+          "channelId": "UCuTo_ZZCUrcabFxgtMFKVVQ",
+          "title": "USA m\u00e1 nedostatok zbran\u00ed - Gregory J. Hayes - v\u00fdkonn\u00fd riadite\u013e Raytheon Technologies Corp - #shorts",
+          "description": "Gregory J. Hayes je v\u00fdkonn\u00fdm riadite\u013eom spolo\u010dnosti Raytheon Technologies Corporation, nadn\u00e1rodn\u00e9ho konglomer\u00e1tu, ktor\u00fd ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "InfoStream SK",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-10T07:00:04Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1-u2Sv48O6okN88wgk9dGplbatE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "lLLhMeJx12j6Bgal74BTwrWUtMk",
+        "id": "yV3lNjRmndU",
+        "snippet": {
+          "publishedAt": "2023-09-13T16:20:03Z",
+          "channelId": "UCWvLrrkDl8IHkamOq0BOKEA",
+          "title": "RTX CEO Gregory J. Hayes Outlines Global Aerospace Collaboration",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yV3lNjRmndU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "U.S. Chamber of Commerce",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "RTX CEO Gregory J. Hayes Outlines Global Aerospace Collaboration",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1536",
+          "likeCount": "21",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FgT3j1I9ufic1lxsHNqXr-26hbQ",
+        "id": "8kraczRh2lg",
+        "snippet": {
+          "publishedAt": "2023-01-10T07:00:04Z",
+          "channelId": "UCuTo_ZZCUrcabFxgtMFKVVQ",
+          "title": "USA m\u00e1 nedostatok zbran\u00ed - Gregory J. Hayes - v\u00fdkonn\u00fd riadite\u013e Raytheon Technologies Corp - #shorts",
+          "description": "Gregory J. Hayes je v\u00fdkonn\u00fdm riadite\u013eom spolo\u010dnosti Raytheon Technologies Corporation, nadn\u00e1rodn\u00e9ho konglomer\u00e1tu, ktor\u00fd poskytuje produkty a slu\u017eby v oblasti leteckej a obrannej techniky. Hayes p\u00f4sob\u00ed v spolo\u010dnosti na r\u00f4znych ved\u00facich poz\u00edci\u00e1ch od roku 2004 a gener\u00e1lnym riadite\u013eom sa stal v roku 2014. Pred p\u00f4soben\u00edm v spolo\u010dnosti Raytheon Technologies pracoval Hayes pre spolo\u010dnos\u0165 United Technologies Corporation a zast\u00e1val r\u00f4zne ved\u00face poz\u00edcie v oblasti financi\u00ed, prev\u00e1dzky a rozvoja podnikania. #shorts #raytheon",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8kraczRh2lg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "InfoStream SK",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "sk",
+          "localized": {
+            "title": "USA m\u00e1 nedostatok zbran\u00ed - Gregory J. Hayes - v\u00fdkonn\u00fd riadite\u013e Raytheon Technologies Corp - #shorts",
+            "description": "Gregory J. Hayes je v\u00fdkonn\u00fdm riadite\u013eom spolo\u010dnosti Raytheon Technologies Corporation, nadn\u00e1rodn\u00e9ho konglomer\u00e1tu, ktor\u00fd poskytuje produkty a slu\u017eby v oblasti leteckej a obrannej techniky. Hayes p\u00f4sob\u00ed v spolo\u010dnosti na r\u00f4znych ved\u00facich poz\u00edci\u00e1ch od roku 2004 a gener\u00e1lnym riadite\u013eom sa stal v roku 2014. Pred p\u00f4soben\u00edm v spolo\u010dnosti Raytheon Technologies pracoval Hayes pre spolo\u010dnos\u0165 United Technologies Corporation a zast\u00e1val r\u00f4zne ved\u00face poz\u00edcie v oblasti financi\u00ed, prev\u00e1dzky a rozvoja podnikania. #shorts #raytheon"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "176",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Mauricio Gutierrez",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "O-9wsvDjGPW_8mn7mYXSJnqI85Y",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6172,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "3NjKwtwqwoBeExS3AOjEg6fcG04",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

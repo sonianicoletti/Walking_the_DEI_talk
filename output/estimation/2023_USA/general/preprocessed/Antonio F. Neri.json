@@ -1,0 +1,443 @@
+{
+  "ceo": "Antonio F. Neri",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "oEWQ4BS3TTvlD8vBpA31L_tLsqk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 135,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FzU44mlBxFPTqzrel2TIPKvgQRg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VrJKiuJqb_E"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-20T19:37:40Z",
+          "channelId": "UCqQ4RrN7K3Y_iLWfX_26yHA",
+          "title": "Q&amp;A with HPE CEO Antonio Neri at #hpdiscover",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Holger Mueller",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-20T19:37:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SUQzCsgSuMXL2nZGsuIKoinniiQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_usPSScF7Ys"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-10T21:13:06Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Episode 356: HPE CEO Antonio Neri Cultivates a Culture of Innovation",
+          "description": "Antonio Neri, President and CEO of Hewlett Packard Enterprise (NYSE: HPE), is marking his fifth year helming the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-10T21:13:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BqdQ1wWq17VcD5AAVeT74VcbsvU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gKbrJuRZW-k"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-14T16:02:43Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "HPE CEO Antonio Neri: We are the market leader in supercomputers",
+          "description": "Antonio Neri, Hewlett Packard Enterprise CEO, joins 'Squawk on the Street' to discuss the company's investment in the artificial ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-14T16:02:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QJ6k4E_Ggy3f2R2r7JN2fsrKIvk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GS5NdinN2Is"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-30T16:08:52Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Customers are all very anxious to adopt AI technology, says HPE CEO Antonio Neri",
+          "description": "HPE CEO Antonio Neri joins 'Squawk on the Street' to discuss the company's quarterly earnings results, what AI is doing for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-30T16:08:52Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ZntmlHpDCAvdGtkkwr2vj_o2LCE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "fBQYW8-9T7Wy7hfpNWhF3D7szRg",
+        "id": "VrJKiuJqb_E",
+        "snippet": {
+          "publishedAt": "2023-06-20T19:37:40Z",
+          "channelId": "UCqQ4RrN7K3Y_iLWfX_26yHA",
+          "title": "Q&A with HPE CEO Antonio Neri at #hpdiscover",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VrJKiuJqb_E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Holger Mueller",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Q&A with HPE CEO Antonio Neri at #hpdiscover",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "400",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZEqr-zHMQ1eSZNLEit8mk55168g",
+        "id": "_usPSScF7Ys",
+        "snippet": {
+          "publishedAt": "2023-04-10T21:13:06Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Episode 356: HPE CEO Antonio Neri Cultivates a Culture of Innovation",
+          "description": "Antonio Neri, President and CEO of Hewlett Packard Enterprise (NYSE: HPE), is marking his fifth year helming the 60,000-employee company offering enterprise and cloud services and solutions. As both an engineer and an artist, Antonio\u2019s career has taken him across the globe, from call center to CEO. He explains how HPE is continuing the purpose-driven ambitions that founders Bill Hewlett and David Packard instilled in HP\u2019s DNA.  Antonio also shared his ambitions for HPE GreenLake to lead the edge-to-cloud sector by partnering with customers to meet future needs, from AI to supercomputing.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_usPSScF7Ys/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Episode 356: HPE CEO Antonio Neri Cultivates a Culture of Innovation",
+            "description": "Antonio Neri, President and CEO of Hewlett Packard Enterprise (NYSE: HPE), is marking his fifth year helming the 60,000-employee company offering enterprise and cloud services and solutions. As both an engineer and an artist, Antonio\u2019s career has taken him across the globe, from call center to CEO. He explains how HPE is continuing the purpose-driven ambitions that founders Bill Hewlett and David Packard instilled in HP\u2019s DNA.  Antonio also shared his ambitions for HPE GreenLake to lead the edge-to-cloud sector by partnering with customers to meet future needs, from AI to supercomputing."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT56M15S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "241",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gIj735DLKOX8Khk5NtugL7GrpkU",
+        "id": "gKbrJuRZW-k",
+        "snippet": {
+          "publishedAt": "2023-06-14T16:02:43Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "HPE CEO Antonio Neri: We are the market leader in supercomputers",
+          "description": "Antonio Neri, Hewlett Packard Enterprise CEO, joins 'Squawk on the Street' to discuss the company's investment in the artificial intelligence space, whether the investment is cannibalizing other parts of the business, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gKbrJuRZW-k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HPE CEO Antonio Neri: We are the market leader in supercomputers",
+            "description": "Antonio Neri, Hewlett Packard Enterprise CEO, joins 'Squawk on the Street' to discuss the company's investment in the artificial intelligence space, whether the investment is cannibalizing other parts of the business, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3654",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CD0skU3diYwoOkih7V1xAiikEG0",
+        "id": "GS5NdinN2Is",
+        "snippet": {
+          "publishedAt": "2023-08-30T16:08:52Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Customers are all very anxious to adopt AI technology, says HPE CEO Antonio Neri",
+          "description": "HPE CEO Antonio Neri joins 'Squawk on the Street' to discuss the company's quarterly earnings results, what AI is doing for Hewlett Packard, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GS5NdinN2Is/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Customers are all very anxious to adopt AI technology, says HPE CEO Antonio Neri",
+            "description": "HPE CEO Antonio Neri joins 'Squawk on the Street' to discuss the company's quarterly earnings results, what AI is doing for Hewlett Packard, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1142",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "ceo": "John T. Stankey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "G-vNe6kRhXDIqb6rQIaO60zNgM8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 38,
+      "resultsPerPage": 27
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "41jq7yH-9zeqOB5gBMmRis59NLU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qctNsiRIJ90"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-31T20:53:45Z",
+          "channelId": "UCbcZ5thSZxQeVpnbUZU9aDw",
+          "title": "BC CEO Club: John Stankey, CEO of AT&amp;T",
+          "description": "The Boston College Chief Executives Club welcomed John Stankey, CEO of AT&T. John Stankey engaged in a fireside chat with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Boston College Chief Executives Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-31T20:53:45Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "vzV28HxOp4A0BVfN-3nKdzD0bZ8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "hticVKZUHdda0_ke2ZK3SgcZwFw",
+        "id": "qctNsiRIJ90",
+        "snippet": {
+          "publishedAt": "2023-03-31T20:53:45Z",
+          "channelId": "UCbcZ5thSZxQeVpnbUZU9aDw",
+          "title": "BC CEO Club: John Stankey, CEO of AT&T",
+          "description": "The Boston College Chief Executives Club welcomed John Stankey, CEO of AT&T. John Stankey engaged in a fireside chat with Marianne Harrison, President & CEO of John Hancock.\n\nThe conversation focused on AT&T\u2019s investment in infrastructure, the impact of climate control on their business, their investment into secure networks for first responders, and the company\u2019s investment on connecting all areas of the country to their network",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qctNsiRIJ90/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Boston College Chief Executives Club",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "BC CEO Club: John Stankey, CEO of AT&T",
+            "description": "The Boston College Chief Executives Club welcomed John Stankey, CEO of AT&T. John Stankey engaged in a fireside chat with Marianne Harrison, President & CEO of John Hancock.\n\nThe conversation focused on AT&T\u2019s investment in infrastructure, the impact of climate control on their business, their investment into secure networks for first responders, and the company\u2019s investment on connecting all areas of the country to their network"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT43M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1380",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 27,
+      "resultsPerPage": 27
+    }
+  }
+}

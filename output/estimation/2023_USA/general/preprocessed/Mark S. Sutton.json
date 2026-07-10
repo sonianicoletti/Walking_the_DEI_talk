@@ -1,0 +1,22 @@
+{
+  "ceo": "Mark S. Sutton",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7Q3rW-aqer6zlBp5EIRlnz9X7ko",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 69292,
+      "resultsPerPage": 25
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "khzNdMgTau6B0cpiKZmcOH8BFCs",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 25,
+      "resultsPerPage": 25
+    }
+  }
+}

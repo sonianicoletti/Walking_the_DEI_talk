@@ -1,0 +1,22 @@
+{
+  "ceo": "Lal L. Karsanbhai",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "hFxqvkEzkiRvB8bQa8P_EGohKuQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 6
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SY3vhPCvgU0-K7tbL0Vux_QNhGs",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

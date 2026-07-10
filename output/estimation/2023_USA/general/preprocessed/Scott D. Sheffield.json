@@ -1,0 +1,139 @@
+{
+  "ceo": "Scott D. Sheffield",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ydn2CLfO7avJHNXryau1ShzNx-c",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1576,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VVF0VUCUNk8yTOD_zDlNgpUtK40",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jU4GsIY7qlw"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-11T13:35:42Z",
+          "channelId": "UCX7KE1xF-GIZBhruy4Ru7mA",
+          "title": "The Power Hungry Podcast: Scott Sheffield, CEO of Pioneer Natural Resources",
+          "description": "Scott Sheffield heads Irving-based Pioneer Natural Resources, a $47 billion company that is the largest oil producer in Texas.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Robert Bryce",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-11T13:35:42Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ndrtZYlUFmTzCQnGGES6nO_81S8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "2lBR8Y16BndcRro3nMec7dx6dfs",
+        "id": "jU4GsIY7qlw",
+        "snippet": {
+          "publishedAt": "2023-04-11T13:35:42Z",
+          "channelId": "UCX7KE1xF-GIZBhruy4Ru7mA",
+          "title": "The Power Hungry Podcast: Scott Sheffield, CEO of Pioneer Natural Resources",
+          "description": "Scott Sheffield heads Irving-based Pioneer Natural Resources, a $47 billion company that is the largest oil producer in Texas. In this episode, Sheffield discusses the challenges facing drillers in the Permian Basin, why the industry is increasing the length of its laterals, the use of \u201cdamp sand\u201d in fracking, flaring, capital discipline, and why OPEC producers will continue to dominate the global oil sector in the years ahead. (Recorded March 29, 2023.)\n\nThanks for checking out my channel. \nPlease like and subscribe for more energy and power content. \n\nSubscribe to my Substack: \nhttps://robertbryce.substack.com\n\nThe Power Hungry Podcast: \nhttps://open.spotify.com/show/2EakVwK...\n\nTiktok: \nhttps://www.tiktok.com/@pwrhungry\n\nTwitter: \nhttps://twitter.com/pwrhungry?ref_src...\n\nRead my books (all six of them): \nhttp://bit.ly/3Gv1Rc0\n\nWatch my documentary: Juice: How Electricity Explains the World on Amazon Prime: \nhttps://amzn.to/3gk9Ttx\n\nRobert Bryce Website: \nhttps://robertbryce.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jU4GsIY7qlw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Robert Bryce",
+          "tags": [
+            "Robert Bryce",
+            "Scott Sheffield",
+            "Pioneer Natural Resources",
+            "oil",
+            "driller",
+            "Permian Basin",
+            "laterals",
+            "damp sand",
+            "fracking",
+            "flaring",
+            "capital",
+            "OPEC",
+            "global",
+            "energy",
+            "electricity",
+            "Burning Down The Grid",
+            "Tyson Culver"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Power Hungry Podcast: Scott Sheffield, CEO of Pioneer Natural Resources",
+            "description": "Scott Sheffield heads Irving-based Pioneer Natural Resources, a $47 billion company that is the largest oil producer in Texas. In this episode, Sheffield discusses the challenges facing drillers in the Permian Basin, why the industry is increasing the length of its laterals, the use of \u201cdamp sand\u201d in fracking, flaring, capital discipline, and why OPEC producers will continue to dominate the global oil sector in the years ahead. (Recorded March 29, 2023.)\n\nThanks for checking out my channel. \nPlease like and subscribe for more energy and power content. \n\nSubscribe to my Substack: \nhttps://robertbryce.substack.com\n\nThe Power Hungry Podcast: \nhttps://open.spotify.com/show/2EakVwK...\n\nTiktok: \nhttps://www.tiktok.com/@pwrhungry\n\nTwitter: \nhttps://twitter.com/pwrhungry?ref_src...\n\nRead my books (all six of them): \nhttp://bit.ly/3Gv1Rc0\n\nWatch my documentary: Juice: How Electricity Explains the World on Amazon Prime: \nhttps://amzn.to/3gk9Ttx\n\nRobert Bryce Website: \nhttps://robertbryce.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H1M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2995",
+          "likeCount": "79",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

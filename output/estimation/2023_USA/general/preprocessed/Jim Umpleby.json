@@ -1,0 +1,251 @@
+{
+  "ceo": "Jim Umpleby",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "-2JtfIoVNcV97TCOaX9FpweTgmE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 62,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x5HJPJxhHWrWzD5ulx1TbKayftg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UvdjJRVTOYc"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-28T00:11:09Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Caterpillar CEO Jim Umpleby sits down one-on-one with Jim Cramer",
+          "description": "Jim Umpleby, Caterpillar CEO, joins \"Mad Money\" host Jim Cramer to discuss China, infrastructure spending and company ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-28T00:11:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xfOv7Pwws0_otDGp3kKuZc4h3ZU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VAgPcpuMg4k"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-01T14:53:06Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Caterpillar CEO Jim Umpleby on Q2 earnings beat, growth outlook, China market",
+          "description": "Caterpillar chairman and CEO Jim Umpleby joins 'Squawk on the Street' to discuss the company's quarterly earnings results, rest ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-01T14:53:06Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "q8fXeGcYE9GKeB242-RVcCJe0pg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "VgERK-PmU6i2MIsJqIMnBVNMlS4",
+        "id": "UvdjJRVTOYc",
+        "snippet": {
+          "publishedAt": "2023-04-28T00:11:09Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Caterpillar CEO Jim Umpleby sits down one-on-one with Jim Cramer",
+          "description": "Jim Umpleby, Caterpillar CEO, joins \"Mad Money\" host Jim Cramer to discuss China, infrastructure spending and company outlook. Sign up and learn more about the CNBC Investing Club with Jim Cramer\u00a0https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UvdjJRVTOYc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Caterpillar CEO Jim Umpleby sits down one-on-one with Jim Cramer",
+            "description": "Jim Umpleby, Caterpillar CEO, joins \"Mad Money\" host Jim Cramer to discuss China, infrastructure spending and company outlook. Sign up and learn more about the CNBC Investing Club with Jim Cramer\u00a0https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6781",
+          "likeCount": "60",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8Burem1x-t0XC8RnSX9OOgRfE6E",
+        "id": "VAgPcpuMg4k",
+        "snippet": {
+          "publishedAt": "2023-08-01T14:53:06Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Caterpillar CEO Jim Umpleby on Q2 earnings beat, growth outlook, China market",
+          "description": "Caterpillar chairman and CEO Jim Umpleby joins 'Squawk on the Street' to discuss the company's quarterly earnings results, rest of year outlook, doing business in China, power generation, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VAgPcpuMg4k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Caterpillar CEO Jim Umpleby on Q2 earnings beat, growth outlook, China market",
+            "description": "Caterpillar chairman and CEO Jim Umpleby joins 'Squawk on the Street' to discuss the company's quarterly earnings results, rest of year outlook, doing business in China, power generation, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9366",
+          "likeCount": "64",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

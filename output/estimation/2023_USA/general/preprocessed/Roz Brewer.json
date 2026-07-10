@@ -1,0 +1,120 @@
+{
+  "ceo": "Roz Brewer",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "E3my0rv5hjyRPLhWJrMy9THHcq4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 43,
+      "resultsPerPage": 39
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bAOwoV6D5hrczXzmaluzQOub5Dc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6ckukdIopc8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-02T04:27:54Z",
+          "channelId": "UCoYPrC3NHGC1wipln5Dj-ow",
+          "title": "WalGreens CEO Roz Brewer steps down",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Finance Rebel ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-02T04:27:54Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "APMtdIoBetrxXL6BNDXj9twSEhU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "R7XGKTIgxNCDtQerAcy_fI8dS3A",
+        "id": "6ckukdIopc8",
+        "snippet": {
+          "publishedAt": "2023-09-02T04:27:54Z",
+          "channelId": "UCoYPrC3NHGC1wipln5Dj-ow",
+          "title": "WalGreens CEO Roz Brewer steps down",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6ckukdIopc8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Finance Rebel ",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "WalGreens CEO Roz Brewer steps down",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2638",
+          "likeCount": "31",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 39,
+      "resultsPerPage": 39
+    }
+  }
+}

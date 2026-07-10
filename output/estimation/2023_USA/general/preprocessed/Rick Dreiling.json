@@ -1,0 +1,22 @@
+{
+  "ceo": "Rick Dreiling",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "T07-5bdUybKKWkbEPTz7Jf18YlQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 5
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "eVIxVdDPxFEOH_bKwXrnZi7ZEP4",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Michael F. Roman",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "L0fByU0yj9ic386nPcflnATn2yM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 307659,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "OD0FmZ87FwPdD6XFlCT2_IIb8vI",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

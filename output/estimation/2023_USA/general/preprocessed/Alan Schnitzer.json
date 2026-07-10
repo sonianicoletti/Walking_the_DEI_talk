@@ -1,0 +1,130 @@
+{
+  "ceo": "Alan Schnitzer",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "k9g3AJAgoYMO2h5cwPh_CTscDoE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 12
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3942UuSllfsQzM4m1A2c9YZI9O0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IpKosYWxdHQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-10T16:18:30Z",
+          "channelId": "UCTXCRyvHbmcrPUEBqoRSxWQ",
+          "title": "A Conversation with Travelers Chairman and CEO Alan Schnitzer",
+          "description": "What makes a successful leader during times of uncertainty and rapid change? To celebrate the Travelers Institute's 100th ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Travelers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-10T16:18:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "pflUYD-hoi-VyyGzzY-XHiYgbmw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "gY5DtpvGuJ5UprFNA077zH2FNj0",
+        "id": "IpKosYWxdHQ",
+        "snippet": {
+          "publishedAt": "2023-11-10T16:18:30Z",
+          "channelId": "UCTXCRyvHbmcrPUEBqoRSxWQ",
+          "title": "A Conversation with Travelers Chairman and CEO Alan Schnitzer",
+          "description": "What makes a successful leader during times of uncertainty and rapid change? To celebrate the Travelers Institute's 100th webinar, Travelers Chairman and Chief Executive Officer Alan Schnitzer joined the Wednesdays with Woodward webinar series for a conversation on leadership. Since 2015, Schnitzer has successfully led Travelers through extraordinary times, including a pandemic, economic volatility, rapid technological change and more. Schnitzer has been recognized as an industry leader and an advocate for bringing people together to address critical challenges and opportunities impacting the communities where we live and work. \n\nThe Travelers Institute\u2019s webinar series explores pressing topics at the intersection of insurance, business and public policy. Learn more: https://travl.rs/3mQ3wRR.\n\nView video transcript: https://travl.rs/47L7MUE\n\n0:00 \u2013 Welcome.\n7:34 \u2013 Business challenges call for forward-thinking leaders.\n16:51 \u2013 Company culture is a key component.\n26:12 \u2013 Driving positive change through civic engagement.\n30:10 \u2013 New technologies create opportunity.\n32:28 \u2013 Cybersecurity continues to be a top priority.\n37:15 \u2013 Advice for the next generation.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IpKosYWxdHQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Travelers",
+          "tags": [
+            "wednesdays with woodward",
+            "joan woodward",
+            "travelers",
+            "travelers institute",
+            "alan schnitzer",
+            "travelers ceo",
+            "leadership",
+            "leadership webinar",
+            "webinar"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A Conversation with Travelers Chairman and CEO Alan Schnitzer",
+            "description": "What makes a successful leader during times of uncertainty and rapid change? To celebrate the Travelers Institute's 100th webinar, Travelers Chairman and Chief Executive Officer Alan Schnitzer joined the Wednesdays with Woodward webinar series for a conversation on leadership. Since 2015, Schnitzer has successfully led Travelers through extraordinary times, including a pandemic, economic volatility, rapid technological change and more. Schnitzer has been recognized as an industry leader and an advocate for bringing people together to address critical challenges and opportunities impacting the communities where we live and work. \n\nThe Travelers Institute\u2019s webinar series explores pressing topics at the intersection of insurance, business and public policy. Learn more: https://travl.rs/3mQ3wRR.\n\nView video transcript: https://travl.rs/47L7MUE\n\n0:00 \u2013 Welcome.\n7:34 \u2013 Business challenges call for forward-thinking leaders.\n16:51 \u2013 Company culture is a key component.\n26:12 \u2013 Driving positive change through civic engagement.\n30:10 \u2013 New technologies create opportunity.\n32:28 \u2013 Cybersecurity continues to be a top priority.\n37:15 \u2013 Advice for the next generation."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT41M38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3029",
+          "likeCount": "15",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 12
+    }
+  }
+}

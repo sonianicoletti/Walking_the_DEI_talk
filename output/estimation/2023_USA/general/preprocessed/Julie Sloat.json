@@ -1,0 +1,22 @@
+{
+  "ceo": "Julie Sloat",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Jlu6VLMwubS3sXRXqKNXArC4L7w",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Ps14SpXETdbhFBrNGrQcUZeyf9s",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

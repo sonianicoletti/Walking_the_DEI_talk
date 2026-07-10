@@ -1,0 +1,120 @@
+{
+  "ceo": "Michael Devito",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "sgp7M791eZi9tVcHSMzM2DhZIvE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 153547,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zbMlzzKg9yhG2cYPcrvklB5YVrA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "69f9luacoNg"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-25T15:48:10Z",
+          "channelId": "UCBaKOZWvVEsmwGZSPqIVlrA",
+          "title": "Michael DeVito on Around the Island",
+          "description": "Our Executive Director Michael DeVito was interviewed by Jennifer Sammartino on a recent episode of Around the Island! DeVito ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NYCID",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-25T15:48:10Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Ipl7eJ3_U7juQDYnaObg-uBzqbk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "qT7lAT4Jzh3mr77PKjMpYG5jHw0",
+        "id": "69f9luacoNg",
+        "snippet": {
+          "publishedAt": "2023-07-25T15:48:10Z",
+          "channelId": "UCBaKOZWvVEsmwGZSPqIVlrA",
+          "title": "Michael DeVito on Around the Island",
+          "description": "Our Executive Director Michael DeVito was interviewed by Jennifer Sammartino on a recent episode of Around the Island! DeVito spoke about how NYCID works with the Staten Island community and how people can take advantage of our services. Watch his full interview right here!\n\n#WeImproveLives",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/69f9luacoNg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NYCID",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Michael DeVito on Around the Island",
+            "description": "Our Executive Director Michael DeVito was interviewed by Jennifer Sammartino on a recent episode of Around the Island! DeVito spoke about how NYCID works with the Staten Island community and how people can take advantage of our services. Watch his full interview right here!\n\n#WeImproveLives"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M28S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "52",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

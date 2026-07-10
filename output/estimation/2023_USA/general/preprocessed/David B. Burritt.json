@@ -1,0 +1,22 @@
+{
+  "ceo": "David B. Burritt",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Uc-Fu4Sfwl7g89-RVLMHtsXv71U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 7
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "jqbXhOQzQtK39VsCYeGJmedCRH4",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "ceo": "Robert D. Isom",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "D7WBBD7-uGOM9M0XlnnVPB0Vwp0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 75,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VowuLUXnzAOte8wUSWAUmw1xQYU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wzDlsMMzAsQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-12T16:17:57Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "American Airline CEO Robert Isom on FAA outage: Investment is required, no doubt",
+          "description": "American Airlines hiked its revenue and profit estimates for the fourth quarter on Thursday. The Airlines' CEO Robert Isom joins ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-12T16:17:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oa2aGKI0UmIF-v3TyA-Jq5621fc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bHvW2_JoOSo"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T16:02:10Z",
+          "channelId": "UCJXw0BFh90eeJlg3YMLYd2Q",
+          "title": "American Airlines CEO Robert Isom at Skift Aviation Forum 2023",
+          "description": "Robert Isom, CEO of American Airlines ,spoke with Edward Russell, Editor, Skift Airline Weekly Editor Edward Russell at the Skift ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Skift",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T16:02:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qi6KDndaQ23iwpgLNFpCWIlJ9Hg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3BfRXGBxhhs"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-19T13:35:26Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "American Airlines CEO Robert Isom: I see robust demand going into 2024",
+          "description": "CNBC's Phil LeBeau and American Airlines CEO Robert Isom joins 'Squawk Box' to discuss the airline's quarterly earnings results ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-19T13:35:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_DWSRCDjbLWq6bGR_D6mFl9wwc4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KMvInZlJWIU"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-18T20:06:34Z",
+          "channelId": "UCWvLrrkDl8IHkamOq0BOKEA",
+          "title": "American Airlines CEO Robert Isom on Innovation and the Future",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "U.S. Chamber of Commerce",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-18T20:06:34Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "affEyBZCdi4Y2SoWOrvwO3wUZjc",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Xrih1-qIVVDaUKPsDlk_wHqK3qw",
+        "id": "wzDlsMMzAsQ",
+        "snippet": {
+          "publishedAt": "2023-01-12T16:17:57Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "American Airline CEO Robert Isom on FAA outage: Investment is required, no doubt",
+          "description": "American Airlines hiked its revenue and profit estimates for the fourth quarter on Thursday. The Airlines' CEO Robert Isom joins 'Squawk Box' to discuss more. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wzDlsMMzAsQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "American Airline CEO Robert Isom on FAA outage: Investment is required, no doubt",
+            "description": "American Airlines hiked its revenue and profit estimates for the fourth quarter on Thursday. The Airlines' CEO Robert Isom joins 'Squawk Box' to discuss more. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2089",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bK5gSxs2IvNQ5nj0yyZ7LkI4Vks",
+        "id": "bHvW2_JoOSo",
+        "snippet": {
+          "publishedAt": "2023-11-03T16:02:10Z",
+          "channelId": "UCJXw0BFh90eeJlg3YMLYd2Q",
+          "title": "American Airlines CEO Robert Isom at Skift Aviation Forum 2023",
+          "description": "Robert Isom, CEO of American Airlines ,spoke with Edward Russell, Editor, Skift Airline Weekly Editor Edward Russell at the Skift Aviation Forum in Ft Worth Texas in November 2023.\n\nSee future events with travel leaders at https://live.skift.com\n\nConnect with Skift\nLinkedIn: https://www.linkedin.com/company/skift/\nX: https://twitter.com/skift\nFacebook: https://facebook.com/skiftnews\nInstagram: https://www.instagram.com/skiftnews/\nWhatsApp: https://whatsapp.com/channel/0029VaAL375LikgIXmNPYQ0L/\n\nSubscribe to @SkiftNews and never miss an update from the travel industry.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bHvW2_JoOSo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Skift",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "American Airlines CEO Robert Isom at Skift Aviation Forum 2023",
+            "description": "Robert Isom, CEO of American Airlines ,spoke with Edward Russell, Editor, Skift Airline Weekly Editor Edward Russell at the Skift Aviation Forum in Ft Worth Texas in November 2023.\n\nSee future events with travel leaders at https://live.skift.com\n\nConnect with Skift\nLinkedIn: https://www.linkedin.com/company/skift/\nX: https://twitter.com/skift\nFacebook: https://facebook.com/skiftnews\nInstagram: https://www.instagram.com/skiftnews/\nWhatsApp: https://whatsapp.com/channel/0029VaAL375LikgIXmNPYQ0L/\n\nSubscribe to @SkiftNews and never miss an update from the travel industry."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT35M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3981",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "t8HQjxnZr2Vsev3jUZE7sg1TFwM",
+        "id": "3BfRXGBxhhs",
+        "snippet": {
+          "publishedAt": "2023-10-19T13:35:26Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "American Airlines CEO Robert Isom: I see robust demand going into 2024",
+          "description": "CNBC\u2019s Phil LeBeau and American Airlines CEO Robert Isom joins 'Squawk Box' to discuss the airline's quarterly earnings results, travel demand, Q4 outlook, capacity challenges, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3BfRXGBxhhs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "American Airlines CEO Robert Isom: I see robust demand going into 2024",
+            "description": "CNBC\u2019s Phil LeBeau and American Airlines CEO Robert Isom joins 'Squawk Box' to discuss the airline's quarterly earnings results, travel demand, Q4 outlook, capacity challenges, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6571",
+          "likeCount": "48",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dQnCnTVq679sem890iXcxkP7sGc",
+        "id": "KMvInZlJWIU",
+        "snippet": {
+          "publishedAt": "2023-09-18T20:06:34Z",
+          "channelId": "UCWvLrrkDl8IHkamOq0BOKEA",
+          "title": "American Airlines CEO Robert Isom on Innovation and the Future",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KMvInZlJWIU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "U.S. Chamber of Commerce",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "American Airlines CEO Robert Isom on Innovation and the Future",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2197",
+          "likeCount": "20",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

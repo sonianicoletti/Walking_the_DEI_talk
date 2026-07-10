@@ -1,0 +1,22 @@
+{
+  "ceo": "Samuel N. Hazen",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ildyZOiK8cW0dVRrgd96rLaPHO0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 35,
+      "resultsPerPage": 18
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "nvOHG3oUhStQ0AO1Nh9-ACmlIRk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

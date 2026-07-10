@@ -1,0 +1,986 @@
+{
+  "ceo": "Frank J. Bisignano",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WT8jt30zGesU1oGHcyTcx047V0o",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lNpDHvP1tKu6zwzQsE84ImUqdoc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9YFWUoTK_z4"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-26T16:05:17Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Fiserv CEO Frank Bisignano: On the front end, financial institutions are not slowing down spending",
+          "description": "Fiserv CEO Frank Bisignano joins 'Squawk on the Street' to discuss moderating consumer spending, Fiserv's Q2 earnings ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-26T16:05:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yA92CyuCNZ6u80i2KrcN0FPKoWs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XX939Vn9r_E"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-19T10:20:48Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Episode 367: Fiserv CEO Frank Bisignano on Fintech Innovation and Returning Home to the NYSE",
+          "description": "Frank Bisignano, the legendary chairman, president and CEO of Fiserv (NYSE: FI), took the worn path from Brooklyn to Wall Street ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-19T10:20:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jqGZAUvq1GfqRwOB4L7JElkbddI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4yi9NEKiHYg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T16:18:41Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Fiserv CEO Frank Bisignano on small business outlook, state of the consumer and international growth",
+          "description": "Frank Bisignano, Fiserv CEO, joins 'Squawk on the Street' to discuss the company and state of the consumer. For access to live ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T16:18:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mrdjlBhaoWKI6ULEE0dsnQGuOk4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FWi5heYc0vI"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-25T16:16:22Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Fiserv CEO Frank Bisignano discusses earnings beat and banking crisis fallout",
+          "description": "Frank Bisignano, Fiserv CEO, joins 'Squawk on the Street' to discuss the company's quarterly earnings results and guidance, how ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-25T16:16:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CwY1rQa8eyDKEakHtIc9sz1nKiw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fHa1ILFQHrw"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T00:30:48Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Fiserv is the newest member of the #NYSECommunity!",
+          "description": "Fiserv is the newest member of the #NYSECommunity! Frank Bisignano, Chairman & CEO of Fiserv, talks with @JudyKhanShaw ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T00:30:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WIEyQUCPR0y6NmefrC0KLs4i5II",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ol6Gel43cvs"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-12T00:40:08Z",
+          "channelId": "UCOXFMhTtK2CUQnetJINmfUg",
+          "title": "Hear from Our Associates",
+          "description": "Learn why our associates are #FiservProud to work with us. Apply today! www.fiserv.com/joinourteam.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fiserv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-12T00:40:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2V9PENW7jAp6qk3q1kfeuvPvvO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p_Ggw4x9V-w"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T13:32:26Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Fiserv, Inc. (NYSE: FI) Rings The Opening Bell\u00ae",
+          "description": "The New York Stock Exchange welcomes Fiserv, Inc. (NYSE: FI) to celebrate its listing. To honor the occasion, Frank J. Bisignano, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T13:32:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fZtcH3sIaoEkmLZATSr0eeO2f9M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4cYyDs3Y-II"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-20T22:29:34Z",
+          "channelId": "UCQd7JOrRDuf-1D1xlNJJOAg",
+          "title": "Empowering financial freedom with Payfare | TSX: PAY | Gravitas 2023 - LA Summit",
+          "description": "Marco Margiotta, CEO of Payfare, interviewed at Gravitas 2023 | LA Summit. \u00bb Subscribe to Market One: http://bit.ly/2CYmf2y ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Market One",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-20T22:29:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OErEDpxQ70_o8hlRIbT0pNvurak",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i07p6IDor1k"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-02T17:05:34Z",
+          "channelId": "UCbM97DW0jUONcarwkjYkr2Q",
+          "title": "Interview with Sheila Oliver, Lt  Governor, New Jersey   Public Problem Solving Series",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The GovLab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-02T17:05:34Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "TE6rUX2quRB6spyQhDsK1q0MEHs",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "501UDXPh1lRD6SyKy5p0fzNOlNs",
+        "id": "9YFWUoTK_z4",
+        "snippet": {
+          "publishedAt": "2023-07-26T16:05:17Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Fiserv CEO Frank Bisignano: On the front end, financial institutions are not slowing down spending",
+          "description": "Fiserv CEO Frank Bisignano joins 'Squawk on the Street' to discuss moderating consumer spending, Fiserv's Q2 earnings takeaways, and financial institutions investing in fintech. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9YFWUoTK_z4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fiserv CEO Frank Bisignano: On the front end, financial institutions are not slowing down spending",
+            "description": "Fiserv CEO Frank Bisignano joins 'Squawk on the Street' to discuss moderating consumer spending, Fiserv's Q2 earnings takeaways, and financial institutions investing in fintech. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2886",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GBh2F4H5L-bsWA7hVv5O_t_Iaeg",
+        "id": "XX939Vn9r_E",
+        "snippet": {
+          "publishedAt": "2023-06-19T10:20:48Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Episode 367: Fiserv CEO Frank Bisignano on Fintech Innovation and Returning Home to the NYSE",
+          "description": "Frank Bisignano, the legendary chairman, president and CEO of Fiserv (NYSE: FI), took the worn path from Brooklyn to Wall Street, but has seen success few have matched in removing the friction between buyers and sellers. After celebrating the transfer of his company\u2019s listing from Nasdaq to the NYSE, Frank stepped Inside the ICE House to talk about the future of payments, navigating mergers and how Fiserv\u2019s Clover platform transforms small businesses. Frank shared his story of rising through the ranks of Wall Street, riding a phoenix through the rebirth of First Data, and the future the FinTech Revolution.\r\n\r\n  Inside the ICE House:   https://www.theice.com/insights/conversations/inside-the-ice-house",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XX939Vn9r_E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Episode 367: Fiserv CEO Frank Bisignano on Fintech Innovation and Returning Home to the NYSE",
+            "description": "Frank Bisignano, the legendary chairman, president and CEO of Fiserv (NYSE: FI), took the worn path from Brooklyn to Wall Street, but has seen success few have matched in removing the friction between buyers and sellers. After celebrating the transfer of his company\u2019s listing from Nasdaq to the NYSE, Frank stepped Inside the ICE House to talk about the future of payments, navigating mergers and how Fiserv\u2019s Clover platform transforms small businesses. Frank shared his story of rising through the ranks of Wall Street, riding a phoenix through the rebirth of First Data, and the future the FinTech Revolution.\r\n\r\n  Inside the ICE House:   https://www.theice.com/insights/conversations/inside-the-ice-house"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT45M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1169",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "f6n8D94W2Lnu-HUwGNaxIuXhkCQ",
+        "id": "4yi9NEKiHYg",
+        "snippet": {
+          "publishedAt": "2023-10-24T16:18:41Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Fiserv CEO Frank Bisignano on small business outlook, state of the consumer and international growth",
+          "description": "Frank Bisignano, Fiserv CEO, joins 'Squawk on the Street' to discuss the company and state of the consumer. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4yi9NEKiHYg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fiserv CEO Frank Bisignano on small business outlook, state of the consumer and international growth",
+            "description": "Frank Bisignano, Fiserv CEO, joins 'Squawk on the Street' to discuss the company and state of the consumer. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3649",
+          "likeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1vOx65Quf3GSjI79QBBE1Kwy3nE",
+        "id": "FWi5heYc0vI",
+        "snippet": {
+          "publishedAt": "2023-04-25T16:16:22Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Fiserv CEO Frank Bisignano discusses earnings beat and banking crisis fallout",
+          "description": "Frank Bisignano, Fiserv CEO, joins 'Squawk on the Street' to discuss the company's quarterly earnings results and guidance, how the CEO thinks about the lending picture this year and Fiserv's Clover business. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FWi5heYc0vI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fiserv CEO Frank Bisignano discusses earnings beat and banking crisis fallout",
+            "description": "Frank Bisignano, Fiserv CEO, joins 'Squawk on the Street' to discuss the company's quarterly earnings results and guidance, how the CEO thinks about the lending picture this year and Fiserv's Clover business. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3329",
+          "likeCount": "26",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "M5sTozx60MBCI5X_N75qf-OEJuo",
+        "id": "fHa1ILFQHrw",
+        "snippet": {
+          "publishedAt": "2023-06-08T00:30:48Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Fiserv is the newest member of the #NYSECommunity!",
+          "description": "Fiserv is the newest member of the #NYSECommunity! Frank Bisignano, Chairman & CEO of Fiserv, talks with @JudyKhanShaw about the significance of the company's transfer to the NYSE, its new ticker symbol FI and what he's excited about for the future. #NYSEFloorTalk #fintech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fHa1ILFQHrw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "tags": [
+            "Financial Regulatory Structure",
+            "Investor Confidence",
+            "Financial Responsibility",
+            "Transparency",
+            "Accountability",
+            "Fair Market Dealing",
+            "Global regulation",
+            "Free Enterprise",
+            "Standardized Derivatives",
+            "De-regulation",
+            "Risk Taking",
+            "Trust",
+            "Heritage",
+            "Integrity",
+            "Advocacy",
+            "Technology",
+            "NYSE",
+            "NYSE Euronext",
+            "NYSE Market",
+            "NYSE Com",
+            "Nasdaq NYSE",
+            "Law",
+            "Justice",
+            "Business School",
+            "Innovation",
+            "Solutions",
+            "New Vision",
+            "Investments"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fiserv is the newest member of the #NYSECommunity!",
+            "description": "Fiserv is the newest member of the #NYSECommunity! Frank Bisignano, Chairman & CEO of Fiserv, talks with @JudyKhanShaw about the significance of the company's transfer to the NYSE, its new ticker symbol FI and what he's excited about for the future. #NYSEFloorTalk #fintech"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "221",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BgwOJoRTpo1iWdTdRhL2P28SBsc",
+        "id": "Ol6Gel43cvs",
+        "snippet": {
+          "publishedAt": "2023-08-12T00:40:08Z",
+          "channelId": "UCOXFMhTtK2CUQnetJINmfUg",
+          "title": "Hear from Our Associates",
+          "description": "Learn why our associates are #FiservProud to work with us.\n\nApply today! www.fiserv.com/joinourteam",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ol6Gel43cvs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fiserv",
+          "tags": [
+            "careers",
+            "fiserv proud",
+            "fisvproud",
+            "recruit"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hear from Our Associates",
+            "description": "Learn why our associates are #FiservProud to work with us.\n\nApply today! www.fiserv.com/joinourteam"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "579",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K4ji0dzABOCKwGD_6_Z7QQfjXW8",
+        "id": "p_Ggw4x9V-w",
+        "snippet": {
+          "publishedAt": "2023-06-07T13:32:26Z",
+          "channelId": "UCG2B6emunc-8ACAChpHv0qQ",
+          "title": "Fiserv, Inc. (NYSE: FI) Rings The Opening Bell\u00ae",
+          "description": "The New York Stock Exchange welcomes Fiserv, Inc. (NYSE: FI) to celebrate its listing. To honor the occasion, Frank J. Bisignano, Chairman, President and Chief Executive Officer, will ring The Opening Bell\u00ae.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p_Ggw4x9V-w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New York Stock Exchange",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fiserv, Inc. (NYSE: FI) Rings The Opening Bell\u00ae",
+            "description": "The New York Stock Exchange welcomes Fiserv, Inc. (NYSE: FI) to celebrate its listing. To honor the occasion, Frank J. Bisignano, Chairman, President and Chief Executive Officer, will ring The Opening Bell\u00ae."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1933",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AKys6yGNIbXwEH0EJXic23j3KtU",
+        "id": "4cYyDs3Y-II",
+        "snippet": {
+          "publishedAt": "2023-06-20T22:29:34Z",
+          "channelId": "UCQd7JOrRDuf-1D1xlNJJOAg",
+          "title": "Empowering financial freedom with Payfare | TSX: PAY | Gravitas 2023 - LA Summit",
+          "description": "Marco Margiotta, CEO of Payfare, interviewed at Gravitas 2023 | LA Summit.\n\n\u00bb Subscribe to Market One: http://bit.ly/2CYmf2y\n\nLearn more about Payfare on their website: https://corp.payfare.com/ \n\nSee how your company can reach millions of investors on BNN Bloomberg through the Market One Minute: https://bit.ly/2JcqR8X\n\nEngage with Market One\n\u00bb Like us on Facebook: https://www.facebook.com/marketonemediagroup \n\u00bb Follow us on Twitter: https://twitter.com/MarketOneMedia \n\u00bb Connect with us on LinkedIn: https://www.linkedin.com/company/3489472/ \n\u00bb Follow us on Instagram: https://www.instagram.com/marketonemediagroup/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4cYyDs3Y-II/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Market One",
+          "tags": [
+            "Payfare",
+            "stocks",
+            "investing",
+            "capital markets",
+            "finance"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Empowering financial freedom with Payfare | TSX: PAY | Gravitas 2023 - LA Summit",
+            "description": "Marco Margiotta, CEO of Payfare, interviewed at Gravitas 2023 | LA Summit.\n\n\u00bb Subscribe to Market One: http://bit.ly/2CYmf2y\n\nLearn more about Payfare on their website: https://corp.payfare.com/ \n\nSee how your company can reach millions of investors on BNN Bloomberg through the Market One Minute: https://bit.ly/2JcqR8X\n\nEngage with Market One\n\u00bb Like us on Facebook: https://www.facebook.com/marketonemediagroup \n\u00bb Follow us on Twitter: https://twitter.com/MarketOneMedia \n\u00bb Connect with us on LinkedIn: https://www.linkedin.com/company/3489472/ \n\u00bb Follow us on Instagram: https://www.instagram.com/marketonemediagroup/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "459",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xBjHvwAxRephvJG2ogsSWQS2d4I",
+        "id": "i07p6IDor1k",
+        "snippet": {
+          "publishedAt": "2023-08-02T17:05:34Z",
+          "channelId": "UCbM97DW0jUONcarwkjYkr2Q",
+          "title": "Interview with Sheila Oliver, Lt  Governor, New Jersey   Public Problem Solving Series",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i07p6IDor1k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The GovLab",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Interview with Sheila Oliver, Lt  Governor, New Jersey   Public Problem Solving Series",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT19M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "173",
+          "likeCount": "8",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ceo": "Fabrizio Freda",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "al7pIwtHE5BgEWN--KpdvoiTM_s",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "RhKa4U1eG_ll1b1u585DnYiN6b8",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

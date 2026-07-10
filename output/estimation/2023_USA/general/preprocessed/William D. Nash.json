@@ -1,0 +1,23 @@
+{
+  "ceo": "William D. Nash",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ckeb0FefFS_8Nq4yh37N3A2T3KQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1054,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "LS-VOoZsXH7c9sT3WYOH_RR0198",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

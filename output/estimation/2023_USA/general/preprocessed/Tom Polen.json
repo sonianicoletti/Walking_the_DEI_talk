@@ -1,0 +1,23 @@
+{
+  "ceo": "Tom Polen",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "PwRjYXf51XCinXGmh4SMxmajLbA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 17764,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KbOXGblOHix0OGOI2szUXhg8mHU",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

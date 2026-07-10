@@ -1,0 +1,119 @@
+{
+  "ceo": "Mark Lashier",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cucQ_LS1vkbd-pwQ6vBrECEnQ2k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 6
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tAqOU5neb9WO3-KUxc7Y_bSj6rQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iI-qlvRa7Wg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T20:52:56Z",
+          "channelId": "UCFKujJLyzuoUhrF5JlH78Dg",
+          "title": "Facing the Energy Future: A Conversation with Phillips 66 CEO Mark Lashier",
+          "description": "Oct. 11, 2023 Join us for a lunchtime discussion with Mark Lashier, president and CEO of Phillips 66. While key players from ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BakerInstitute",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T20:52:56Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Dep0FUNDAw2NXgAL8KDK23VIipU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "wLQKEeBdEhaqUbNvMXhW7rrgTIg",
+        "id": "iI-qlvRa7Wg",
+        "snippet": {
+          "publishedAt": "2023-10-18T20:52:56Z",
+          "channelId": "UCFKujJLyzuoUhrF5JlH78Dg",
+          "title": "Facing the Energy Future: A Conversation with Phillips 66 CEO Mark Lashier",
+          "description": "Oct. 11, 2023\n\nJoin us for a lunchtime discussion with Mark Lashier, president and CEO of Phillips 66. While key players from government, industry and citizenry are collaborating to shape the energy transition, the world needs secure, reliable and affordable energy today. Fossil fuels provide over 80% of the world's energy and will play an important role, albeit in lower-carbon forms, for years to come.\n\nLashier will share his inside views on the energy future and what it means for Phillips 66\u2019s business and workforce strategy. There has never been a more exciting time to carve a career in the energy industry and make an impact. He\u2019ll detail how bright, innovative minds can come together to find solutions for secure, reliable energy while pursuing a lower-carbon future.\n\nMark Lashier is president and CEO of Phillips 66, a diversified energy company. A chemical engineer, he has over 30 years of experience in various executive leadership roles within the energy and petrochemical industries. Lashier served as chief operating officer of Phillips 66 from April 2021 through June 2022. Before that, he was president and CEO of Chevron Phillips Chemical Company LLC (CPChem), a joint venture between Phillips 66 and Chevron, from 2017 to 2021. He previously held several leadership positions at CPChem. Lashier began his career at Phillips Petroleum in 1989 as an Associate Research Engineer.\n\nHe serves on the boards of several industry groups and nonprofits, including American Fuel and Petrochemical Manufacturers, the Greater Houston Partnership, Iowa State University\u2019s College of Engineering Industrial Advisory Council, Junior Achievement of Southeast Texas and the American Cancer Society\u2019s CEOs Against Cancer. He also serves on the executive committee of American Petroleum Institute and is a member of the Business Roundtable, the Business Council, and the National Petroleum Council.\n\nLashier received a Bachelor of Science and a doctorate in chemical engineering from Iowa State University. He holds 13 U.S. patents.\n\nModerator\n\nEdward M. Emmett\nFellow in Energy and Transportation Policy\n\nFollow the Baker Institute on social media\nTwitter \u25ba\u25ba https://twitter.com/BakerInstitute\nFacebook \u25ba\u25ba https://www.facebook.com/BakerInstitute\nLinkedIn \u25ba\u25ba https://bit.ly/LinkedIn-BakerInstitute\n \nAbout the Baker Institute\nThe Baker Institute is a nonpartisan public policy institute at Rice University. Ranked the No. 1 university-based think tank in the world, its mission is to bridge the world of ideas and the world of action. Visit our website to learn more: https://www.bakerinstitute.org/.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iI-qlvRa7Wg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BakerInstitute",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Facing the Energy Future: A Conversation with Phillips 66 CEO Mark Lashier",
+            "description": "Oct. 11, 2023\n\nJoin us for a lunchtime discussion with Mark Lashier, president and CEO of Phillips 66. While key players from government, industry and citizenry are collaborating to shape the energy transition, the world needs secure, reliable and affordable energy today. Fossil fuels provide over 80% of the world's energy and will play an important role, albeit in lower-carbon forms, for years to come.\n\nLashier will share his inside views on the energy future and what it means for Phillips 66\u2019s business and workforce strategy. There has never been a more exciting time to carve a career in the energy industry and make an impact. He\u2019ll detail how bright, innovative minds can come together to find solutions for secure, reliable energy while pursuing a lower-carbon future.\n\nMark Lashier is president and CEO of Phillips 66, a diversified energy company. A chemical engineer, he has over 30 years of experience in various executive leadership roles within the energy and petrochemical industries. Lashier served as chief operating officer of Phillips 66 from April 2021 through June 2022. Before that, he was president and CEO of Chevron Phillips Chemical Company LLC (CPChem), a joint venture between Phillips 66 and Chevron, from 2017 to 2021. He previously held several leadership positions at CPChem. Lashier began his career at Phillips Petroleum in 1989 as an Associate Research Engineer.\n\nHe serves on the boards of several industry groups and nonprofits, including American Fuel and Petrochemical Manufacturers, the Greater Houston Partnership, Iowa State University\u2019s College of Engineering Industrial Advisory Council, Junior Achievement of Southeast Texas and the American Cancer Society\u2019s CEOs Against Cancer. He also serves on the executive committee of American Petroleum Institute and is a member of the Business Roundtable, the Business Council, and the National Petroleum Council.\n\nLashier received a Bachelor of Science and a doctorate in chemical engineering from Iowa State University. He holds 13 U.S. patents.\n\nModerator\n\nEdward M. Emmett\nFellow in Energy and Transportation Policy\n\nFollow the Baker Institute on social media\nTwitter \u25ba\u25ba https://twitter.com/BakerInstitute\nFacebook \u25ba\u25ba https://www.facebook.com/BakerInstitute\nLinkedIn \u25ba\u25ba https://bit.ly/LinkedIn-BakerInstitute\n \nAbout the Baker Institute\nThe Baker Institute is a nonpartisan public policy institute at Rice University. Ranked the No. 1 university-based think tank in the world, its mission is to bridge the world of ideas and the world of action. Visit our website to learn more: https://www.bakerinstitute.org/."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "338",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 6
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ceo": "Michael L. Tipsord",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "H0Fp9Inwh_juk4woLjnybq7n7_U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "FpRf0fZra6H8pHjl4cukFm23ZNo",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

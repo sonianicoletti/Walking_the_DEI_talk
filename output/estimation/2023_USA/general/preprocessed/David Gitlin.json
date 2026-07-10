@@ -1,0 +1,350 @@
+{
+  "ceo": "David Gitlin",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "cUSUdxoUds9-M4LFNaNPcrQSGx0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 39,
+      "resultsPerPage": 37
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GxQIWfWjSGdzA_EF7thwovPLUNs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uxyx3wA6XVM"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-03T20:05:23Z",
+          "channelId": "UCSswIOfjHRYn02UP2ZupNTQ",
+          "title": "David Gitlin Interview",
+          "description": "Excerpts from David's interview with Rick Anthony.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uxyx3wA6XVM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uxyx3wA6XVM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uxyx3wA6XVM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pro&Fan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-03T20:05:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oU0XDC76Okcu3FaaLVfGI9jNjMI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4HgWoxt3cBI"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T19:07:14Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Carrier CEO David Gitlin on sustainability and acquiring Viessmann unit",
+          "description": "Carrier CEO David Gitlin joins CNBC's \"Squawk on the Street\" to discuss competition in Europe and the growth of heat pumps in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T19:07:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OB3KAuHkTtTt6QszgigIYunrmKU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-_nnIeen694"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-05T12:01:57Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "LIVE: Carrier CEO David Gitlin Discusses $22 Bn Sales Target &amp; Expansion Plans in India | CNBC TV18",
+          "description": "parikshitl in conversation with David Gitlin, Chairman & CEO of @carrier on the company's 2023 sales target of $22 bn, the India ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-05T12:01:57Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "mkSenw9-j1NsHDCer35IofpZSKE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "MtcDRmQLXq5tFUQnklgQ_T2RG_I",
+        "id": "uxyx3wA6XVM",
+        "snippet": {
+          "publishedAt": "2023-12-03T20:05:23Z",
+          "channelId": "UCSswIOfjHRYn02UP2ZupNTQ",
+          "title": "David Gitlin Interview",
+          "description": "Excerpts from David's interview with Rick Anthony",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uxyx3wA6XVM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uxyx3wA6XVM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uxyx3wA6XVM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pro&Fan",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "David Gitlin Interview",
+            "description": "Excerpts from David's interview with Rick Anthony"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19M43S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "40",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QO85OCQZxh85_6Nz0iOKeA-selo",
+        "id": "4HgWoxt3cBI",
+        "snippet": {
+          "publishedAt": "2023-04-27T19:07:14Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Carrier CEO David Gitlin on sustainability and acquiring Viessmann unit",
+          "description": "Carrier CEO David Gitlin joins CNBC's \"Squawk on the Street\" to discuss competition in Europe and the growth of heat pumps in the U.S. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4HgWoxt3cBI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Carrier CEO David Gitlin on sustainability and acquiring Viessmann unit",
+            "description": "Carrier CEO David Gitlin joins CNBC's \"Squawk on the Street\" to discuss competition in Europe and the growth of heat pumps in the U.S. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3798",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qumomIQuST0EXV3xZbGDckVXq4M",
+        "id": "-_nnIeen694",
+        "snippet": {
+          "publishedAt": "2023-10-05T12:01:57Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "LIVE: Carrier CEO David Gitlin Discusses $22 Bn Sales Target & Expansion Plans in India | CNBC TV18",
+          "description": "@parikshitl in conversation with David Gitlin, Chairman & CEO of @carrier on the company's 2023 sales target of $22 bn, the India business and scaling up manufacturing in India.\n\n\n#ceo #carrier #exclusive #indiabusiness #expansion #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   #cnbctv18 \n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-_nnIeen694/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "carrier",
+            "willis carrier",
+            "carrier conditioning",
+            "carrier ac units",
+            "david gitlin",
+            "carrier ac",
+            "carrier a/c",
+            "carrier air",
+            "the carrier",
+            "carrier utc",
+            "carrier condition",
+            "carrier air conditioning",
+            "carrier air condition",
+            "carrier aircon",
+            "carrier air conditioner",
+            "carrier air conditioning company",
+            "carrier center for intelligent buildings",
+            "carrier earnings",
+            "carrier ceo",
+            "carrier global",
+            "carrier global corp",
+            "david westin",
+            "carrier clinic",
+            "dave gitlin",
+            "carrier stock",
+            "carrrier ceo",
+            "cnbctv18"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "LIVE: Carrier CEO David Gitlin Discusses $22 Bn Sales Target & Expansion Plans in India | CNBC TV18",
+            "description": "@parikshitl in conversation with David Gitlin, Chairman & CEO of @carrier on the company's 2023 sales target of $22 bn, the India business and scaling up manufacturing in India.\n\n\n#ceo #carrier #exclusive #indiabusiness #expansion #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   #cnbctv18 \n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT11M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3083",
+          "likeCount": "36",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 37,
+      "resultsPerPage": 37
+    }
+  }
+}

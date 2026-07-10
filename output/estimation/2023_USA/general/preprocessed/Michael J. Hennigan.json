@@ -1,0 +1,23 @@
+{
+  "ceo": "Michael J. Hennigan",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "n2qiSUl_3fGkOphoNvlWycOxnng",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 109,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "LODzdc1XWqN0SpAhtq4gGS8QB7A",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

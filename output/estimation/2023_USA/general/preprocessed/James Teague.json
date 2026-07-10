@@ -1,0 +1,120 @@
+{
+  "ceo": "James Teague",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "H5ZKI2nS39yCE7eUoDV-euc2VSQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9042,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VBTBVfFeRjoE75ly4P4HQFnokiU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ruF4UTchUDg"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-10T21:14:34Z",
+          "channelId": "UCqWJ482MN3cRc-vOVWTdiBw",
+          "title": "James Teague, 2023 Nominee for GIN Man of the Year",
+          "description": "Jim Teague of A Teague of Your Own joins us for a live interview and is a nominee for the 2023 GIN Man of the Year.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WIN",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-10T21:14:34Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "uAK7h9vdTUlS5gNYjs6EodRS9nE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "AMN_yr-s0IJWpLI7LjfTFIPZGWk",
+        "id": "ruF4UTchUDg",
+        "snippet": {
+          "publishedAt": "2023-11-10T21:14:34Z",
+          "channelId": "UCqWJ482MN3cRc-vOVWTdiBw",
+          "title": "James Teague, 2023 Nominee for GIN Man of the Year",
+          "description": "Jim Teague of A Teague of Your Own joins us for a live interview and is a nominee for the 2023 GIN Man of the Year.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ruF4UTchUDg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WIN",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "James Teague, 2023 Nominee for GIN Man of the Year",
+            "description": "Jim Teague of A Teague of Your Own joins us for a live interview and is a nominee for the 2023 GIN Man of the Year."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M8S",
+          "dimension": "2d",
+          "definition": "sd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "ceo": "Carol B. Tome",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "YUcD_zNQvot72_3u43DQ-AD-b0E",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 230497,
+      "resultsPerPage": 32
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XncgY8rlDRZYsjAxvQlGkj1bJx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "14PNNdIRv2M"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-04T00:43:33Z",
+          "channelId": "UCoqlImgQOvFiJ1FQ592SO4g",
+          "title": "Ep 9, Carol B. Tome, UPS CEO",
+          "description": "Carol B. Tome, Danny M. Arlin II, I break down a CNBC interview of Carol giving a 1st quarter earnings report. She takes her shot ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bi-Weekly Grievance Podcast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-04T00:43:33Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "APxC5ZzD6AdOpgx4fKWIZTj4EaU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "77PFB0x8FiVoU0HKMs3MG9PEt5M",
+        "id": "14PNNdIRv2M",
+        "snippet": {
+          "publishedAt": "2023-06-04T00:43:33Z",
+          "channelId": "UCoqlImgQOvFiJ1FQ592SO4g",
+          "title": "Ep 9, Carol B. Tome, UPS CEO",
+          "description": "Carol B. Tome, Danny M. Arlin II, I break down a CNBC interview of Carol giving a 1st quarter earnings report. She takes her shot at the Teamsters and I set her straight. #ticktockaug1st2023 #Teamsters #UPS #Teamsterstrong\n\nTeamster Media Hub:\nhttps://www.facebook.com/groups/1205605179877710/?ref=share\n\nThe UPSurge / Patreon:\nhttps://youtube.com/@upsurgepod\nhttps://www.patreon.com/upsurgepod\n\nMoe Allen / Amanda & family GoFundMe:\nhttps://www.patreon.com/upsurgepod\n\nTikTok:\nhttps://www.tiktok.com/@biweeklygrievance",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/14PNNdIRv2M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bi-Weekly Grievance Podcast",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ep 9, Carol B. Tome, UPS CEO",
+            "description": "Carol B. Tome, Danny M. Arlin II, I break down a CNBC interview of Carol giving a 1st quarter earnings report. She takes her shot at the Teamsters and I set her straight. #ticktockaug1st2023 #Teamsters #UPS #Teamsterstrong\n\nTeamster Media Hub:\nhttps://www.facebook.com/groups/1205605179877710/?ref=share\n\nThe UPSurge / Patreon:\nhttps://youtube.com/@upsurgepod\nhttps://www.patreon.com/upsurgepod\n\nMoe Allen / Amanda & family GoFundMe:\nhttps://www.patreon.com/upsurgepod\n\nTikTok:\nhttps://www.tiktok.com/@biweeklygrievance"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT30M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1117",
+          "likeCount": "30",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 32
+    }
+  }
+}

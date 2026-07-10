@@ -1,0 +1,251 @@
+{
+  "ceo": "Jim Taiclet",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wqo0c-CSAybFGOECoIAsyxp9X7U",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 60,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TIwtosHH_gw12p-6Ui7cfBqYTq0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bceGxoOMk4E"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-08T00:45:44Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Lockheed Martin CEO Jim Taiclet goes one-on-one with Jim Cramer",
+          "description": "Lockheed Martin Chairman, President and CEO Jim Taiclet joins 'Mad Money' host Jim Cramer to talk U.S. defense spending, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-08T00:45:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dZn1TeCXXz4Yajakriq93-vzntE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YN-02GzsMzA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-24T20:25:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Lockheed Martin CEO Jim Taiclet on strong demand for defense",
+          "description": "Lockheed Martin CEO Jim Taiclet joins 'Power Lunch' to discuss new developments in military defense technology, the increased ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-24T20:25:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "OXQftW8DtFKy-FOfv_VPZ5IwwVE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "BJPlU0MzicefDUUKcT0dhhBil_M",
+        "id": "bceGxoOMk4E",
+        "snippet": {
+          "publishedAt": "2023-11-08T00:45:44Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Lockheed Martin CEO Jim Taiclet goes one-on-one with Jim Cramer",
+          "description": "Lockheed Martin Chairman, President and CEO Jim Taiclet joins 'Mad Money' host Jim Cramer to talk U.S. defense spending, combining tech and defense, hiring veterans and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bceGxoOMk4E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lockheed Martin CEO Jim Taiclet goes one-on-one with Jim Cramer",
+            "description": "Lockheed Martin Chairman, President and CEO Jim Taiclet joins 'Mad Money' host Jim Cramer to talk U.S. defense spending, combining tech and defense, hiring veterans and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10365",
+          "likeCount": "105",
+          "favoriteCount": "0",
+          "commentCount": "36"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FOIDMNKulcPPfYrKadNWPnnFfuk",
+        "id": "YN-02GzsMzA",
+        "snippet": {
+          "publishedAt": "2023-01-24T20:25:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Lockheed Martin CEO Jim Taiclet on strong demand for defense",
+          "description": "Lockheed Martin CEO Jim Taiclet joins 'Power Lunch' to discuss new developments in military defense technology, the increased demand for defense equipment worldwide, and a ramped-up pace for military contracting since the war in Ukraine.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YN-02GzsMzA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Business",
+            "News",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lockheed Martin CEO Jim Taiclet on strong demand for defense",
+            "description": "Lockheed Martin CEO Jim Taiclet joins 'Power Lunch' to discuss new developments in military defense technology, the increased demand for defense equipment worldwide, and a ramped-up pace for military contracting since the war in Ukraine."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13036",
+          "likeCount": "98",
+          "favoriteCount": "0",
+          "commentCount": "51"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

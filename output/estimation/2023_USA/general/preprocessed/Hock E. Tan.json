@@ -1,0 +1,327 @@
+{
+  "ceo": "Hock E. Tan",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "P6mxYYcBZoOSRxOSVR10ESWO7kE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 117,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hAsi-wK5DNT1azSfgteHpyCKmx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wtJOFAMDolw"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-20T18:15:11Z",
+          "channelId": "UClTXOYx4haGObRhBTgpXsIA",
+          "title": "Chambers Talks Episode 27: Achieving the American Dream with Hock Tan of Broadcom",
+          "description": "If you're looking for a prime example of the American Dream, look no further than President & CEO of Broadcom, Hock Tan.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "JC2 Ventures",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-20T18:15:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-Zth6f3WFOqSPSA1niah8kHP7qA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L5_pr7ox5Jo"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-22T14:11:12Z",
+          "channelId": "UC8fY_kIR5AqTmafpAzOjQ2g",
+          "title": "VMware Acquisition Close: Q&amp;A with Hock Tan, President and CEO, Broadcom - Six Five Insider",
+          "description": "On this episode of The Six Five - Insider Edition, hosts Daniel Newman and Patrick Moorhead welcome Broadcom's Hock Tan, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Moor Insights & Strategy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-22T14:11:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DxnRsBMtdiS3BF6dH49ZLg0d4m0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bdg3IxoA3Ys"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-06T16:41:23Z",
+          "channelId": "UCn-oLYSX__uAaix8m1DBq3w",
+          "title": "Hock Tan, Broadcom | Building a Broader IT Modernization Strategy",
+          "description": "Broadcom President and CEO Hock Tan says the merger of Broadcom and VMware will allow for more investment in IT solutions ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FedScoop",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-06T16:41:23Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "GRe_xXkgndki5_M4F3hN-tfWCF8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "oKuJaFCkdqzqv3a1wEbPpb8w_8g",
+        "id": "wtJOFAMDolw",
+        "snippet": {
+          "publishedAt": "2023-04-20T18:15:11Z",
+          "channelId": "UClTXOYx4haGObRhBTgpXsIA",
+          "title": "Chambers Talks Episode 27: Achieving the American Dream with Hock Tan of Broadcom",
+          "description": "If you\u2019re looking for a prime example of the American Dream, look no further than President & CEO of Broadcom, Hock Tan. 50 years ago, Hock arrived in America with a plan to get a great education and never stopped pursuing his own American Dream. From working at General Motors and PepsiCo, to leading several semiconductor companies, Hock knows the value of staying open to new, exciting opportunities. Today, he is taking that mentality and applying it to Broadcom, where, as Hock shares on episode 27 of Chambers Talks, innovative ideas and \u201cmoonshots\u201d abound.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wtJOFAMDolw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "JC2 Ventures",
+          "tags": [
+            "John Chambers",
+            "JC2 Ventures",
+            "Cisco CEO",
+            "Broadcom",
+            "Hock Tan",
+            "American Dream",
+            "Chambers Talks",
+            "General Motors",
+            "PepsiCo"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chambers Talks Episode 27: Achieving the American Dream with Hock Tan of Broadcom",
+            "description": "If you\u2019re looking for a prime example of the American Dream, look no further than President & CEO of Broadcom, Hock Tan. 50 years ago, Hock arrived in America with a plan to get a great education and never stopped pursuing his own American Dream. From working at General Motors and PepsiCo, to leading several semiconductor companies, Hock knows the value of staying open to new, exciting opportunities. Today, he is taking that mentality and applying it to Broadcom, where, as Hock shares on episode 27 of Chambers Talks, innovative ideas and \u201cmoonshots\u201d abound."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1550",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6-PeerAF12rB6U7vCm5gVVPB1Lo",
+        "id": "L5_pr7ox5Jo",
+        "snippet": {
+          "publishedAt": "2023-11-22T14:11:12Z",
+          "channelId": "UC8fY_kIR5AqTmafpAzOjQ2g",
+          "title": "VMware Acquisition Close: Q&A with Hock Tan, President and CEO, Broadcom - Six Five Insider",
+          "description": "On this episode of The Six Five - Insider Edition, hosts Daniel Newman and Patrick Moorhead welcome Broadcom\u2019s Hock Tan, President and CEO, for an inside look at the future of a combined Broadcom and VMware, the company\u2019s private and hybrid cloud strategy, security, and more.\n \nTheir discussion covers:\n \n* What to expect from a combined Broadcom and VMware and what the company plans to focus on throughout this next fiscal year\n\n* Broadcom\u2019s private and hybrid cloud strategy and what role VMware will play in furthering that strategy\n\n* The impact of the VMware acquisition on Broadcom\u2019s customers, and how what it means for the future of the private cloud\n\n* How the inclusion of VMware\u2019s services, will help Broadcom\u2019s customers navigate challenging security issues\n\n* How Broadcom plans to incorporate VMware\u2019s existing partners into Broadcom\u2019s robust partner ecosystem and what VMware partners can expect in the coming months\n\n#broadcom, #vmware, #hocktan, #security, #cloud, #multicloud, #privatecloud, #partnerecosystem, #patrickmoorhead, #danielnewman, #thesixfive, \n\nDisclaimer: The Six Five webcast is for information and entertainment purposes only. Over the course of this webcast, we may talk about companies that are publicly traded, and we may even reference that fact and their equity share price, but please do not take anything that we say as a recommendation about what you should do with your investment dollars. We are not investment advisors, and we ask that you do not treat us as such.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L5_pr7ox5Jo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Moor Insights & Strategy",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "VMware Acquisition Close: Q&A with Hock Tan, President and CEO, Broadcom - Six Five Insider",
+            "description": "On this episode of The Six Five - Insider Edition, hosts Daniel Newman and Patrick Moorhead welcome Broadcom\u2019s Hock Tan, President and CEO, for an inside look at the future of a combined Broadcom and VMware, the company\u2019s private and hybrid cloud strategy, security, and more.\n \nTheir discussion covers:\n \n* What to expect from a combined Broadcom and VMware and what the company plans to focus on throughout this next fiscal year\n\n* Broadcom\u2019s private and hybrid cloud strategy and what role VMware will play in furthering that strategy\n\n* The impact of the VMware acquisition on Broadcom\u2019s customers, and how what it means for the future of the private cloud\n\n* How the inclusion of VMware\u2019s services, will help Broadcom\u2019s customers navigate challenging security issues\n\n* How Broadcom plans to incorporate VMware\u2019s existing partners into Broadcom\u2019s robust partner ecosystem and what VMware partners can expect in the coming months\n\n#broadcom, #vmware, #hocktan, #security, #cloud, #multicloud, #privatecloud, #partnerecosystem, #patrickmoorhead, #danielnewman, #thesixfive, \n\nDisclaimer: The Six Five webcast is for information and entertainment purposes only. Over the course of this webcast, we may talk about companies that are publicly traded, and we may even reference that fact and their equity share price, but please do not take anything that we say as a recommendation about what you should do with your investment dollars. We are not investment advisors, and we ask that you do not treat us as such."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25898",
+          "likeCount": "63",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vzy3TZlL-NP_ybZhwK6SuQ5Vyfo",
+        "id": "bdg3IxoA3Ys",
+        "snippet": {
+          "publishedAt": "2023-02-06T16:41:23Z",
+          "channelId": "UCn-oLYSX__uAaix8m1DBq3w",
+          "title": "Hock Tan, Broadcom | Building a Broader IT Modernization Strategy",
+          "description": "Broadcom President and CEO Hock Tan says the merger of Broadcom and VMware will allow for more investment in IT solutions that provide greater flexibility to modernize applications, manage software and services, and secure data across clouds. Tan says this will \u201cgive federal agencies the tools to control their own destiny\u201d in multi-cloud environments, all while \u201cincreasing choice and reducing risk.\u201d\n\nThis video is part of a series of interviews with leaders in federal agencies and industry. We explore federal agencies efforts to collect, manage and analyze vast volumes of data, securely in a multi-cloud operating environment. This series was produced by Scoop News Group and underwritten by Broadcom.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bdg3IxoA3Ys/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FedScoop",
+          "tags": [
+            "Broadcom",
+            "VMware",
+            "Hock Tan",
+            "FedScoop",
+            "federal government",
+            "IT modernization",
+            "cloud",
+            "data",
+            "modern applications"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hock Tan, Broadcom | Building a Broader IT Modernization Strategy",
+            "description": "Broadcom President and CEO Hock Tan says the merger of Broadcom and VMware will allow for more investment in IT solutions that provide greater flexibility to modernize applications, manage software and services, and secure data across clouds. Tan says this will \u201cgive federal agencies the tools to control their own destiny\u201d in multi-cloud environments, all while \u201cincreasing choice and reducing risk.\u201d\n\nThis video is part of a series of interviews with leaders in federal agencies and industry. We explore federal agencies efforts to collect, manage and analyze vast volumes of data, securely in a multi-cloud operating environment. This series was produced by Scoop News Group and underwritten by Broadcom."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT14M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12107",
+          "likeCount": "48",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

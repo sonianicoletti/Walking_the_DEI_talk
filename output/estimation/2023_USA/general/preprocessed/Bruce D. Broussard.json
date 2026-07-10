@@ -1,0 +1,120 @@
+{
+  "ceo": "Bruce D. Broussard",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "mkz9JeM-XGiT6EFTWIZyOq6jjOk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 173,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LWGrVF04q-iyF_D2Ohnh9KqXAAE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AjjD3fwISrI"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-16T20:56:03Z",
+          "channelId": "UCYgh-v7PeqHsonUyqwY6LXg",
+          "title": "Hayden Island CSI Interview with Bruce Broussard of Oregon Voter Digest on 8 13 23",
+          "description": "This interview is about one community's efforts in dealing with illegal camping, crime, homelessness, & drug addiction on Hayden ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hayden Island CSI",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-16T20:56:03Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5kixJdIj_hTeKZSCAhFioNtfzWw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "8yYqVxaTBlSLhkR3IBNAAEvnvEs",
+        "id": "AjjD3fwISrI",
+        "snippet": {
+          "publishedAt": "2023-08-16T20:56:03Z",
+          "channelId": "UCYgh-v7PeqHsonUyqwY6LXg",
+          "title": "Hayden Island CSI Interview with Bruce Broussard of Oregon Voter Digest on 8 13 23",
+          "description": "This interview is about one community's efforts in dealing with illegal camping, crime, homelessness, & drug addiction on Hayden Island in Portland Oregon, and provides insights & positive steps and solutions for addressing these issues in every neighborhood having similar issues.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AjjD3fwISrI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hayden Island CSI",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Hayden Island CSI Interview with Bruce Broussard of Oregon Voter Digest on 8 13 23",
+            "description": "This interview is about one community's efforts in dealing with illegal camping, crime, homelessness, & drug addiction on Hayden Island in Portland Oregon, and provides insights & positive steps and solutions for addressing these issues in every neighborhood having similar issues."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT58M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "58",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

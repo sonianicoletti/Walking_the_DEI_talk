@@ -1,0 +1,231 @@
+{
+  "ceo": "Tricia Griffith",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "RGB13zXkIitC56x3bUveJr7YBDI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 45,
+      "resultsPerPage": 38
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qb_p9uauZ5yZIxklrxPxNiX7dew",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PgezkltSQtc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-08T16:26:36Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Progressive CEO Tricia Griffith: We are in the business of trust",
+          "description": "Progressive CEO Tricia Griffith joins 'Squawk on the Street' to discuss the state of the overall insurance business, how the higher ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-08T16:26:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rq8xgqAlM97YLU5mCbaIYLd-GkA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ETXsdJhyaWE"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T21:05:27Z",
+          "channelId": "UCBp03toXz-WZ6gSt7YtSdEg",
+          "title": "LIVE: CRIMECON with Tricia Griffith from WebSleuths",
+          "description": "Subscribe to @HiddenTrueCrime. Join this channel to get access to perks: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hidden True Crime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T21:05:27Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "nYQQ-PtwsyxfYVI9o0hSfOTu6RY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "5Rx2sIQeo3IHqAKiV7fys0hWNR8",
+        "id": "PgezkltSQtc",
+        "snippet": {
+          "publishedAt": "2023-11-08T16:26:36Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Progressive CEO Tricia Griffith: We are in the business of trust",
+          "description": "Progressive CEO Tricia Griffith joins 'Squawk on the Street' to discuss the state of the overall insurance business, how the higher interest rates are affecting the company's economics, and whether the company's strategy has been impacted by climate change.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PgezkltSQtc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Progressive CEO Tricia Griffith: We are in the business of trust",
+            "description": "Progressive CEO Tricia Griffith joins 'Squawk on the Street' to discuss the state of the overall insurance business, how the higher interest rates are affecting the company's economics, and whether the company's strategy has been impacted by climate change."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4580",
+          "likeCount": "53",
+          "favoriteCount": "0",
+          "commentCount": "34"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XmpYjihFuMPOOnb01XjbFbHry14",
+        "id": "ETXsdJhyaWE",
+        "snippet": {
+          "publishedAt": "2023-09-23T21:05:27Z",
+          "channelId": "UCBp03toXz-WZ6gSt7YtSdEg",
+          "title": "LIVE: CRIMECON with Tricia Griffith from WebSleuths",
+          "description": "Subscribe to @HiddenTrueCrime. Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCBp03toXz-WZ6gSt7YtSdEg/join\nAlso subscribe to @websleuthsLive snd check out all of Tricia\u2019s lives.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ETXsdJhyaWE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Hidden True Crime",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "LIVE: CRIMECON with Tricia Griffith from WebSleuths",
+            "description": "Subscribe to @HiddenTrueCrime. Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCBp03toXz-WZ6gSt7YtSdEg/join\nAlso subscribe to @websleuthsLive snd check out all of Tricia\u2019s lives."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT11M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11530",
+          "likeCount": "1102",
+          "favoriteCount": "0",
+          "commentCount": "87"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 38,
+      "resultsPerPage": 38
+    }
+  }
+}

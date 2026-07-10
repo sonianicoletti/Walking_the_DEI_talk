@@ -1,0 +1,22 @@
+{
+  "ceo": "Jeffrey L. Harmening",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "bbANoY1k0i--O4wgpcLNVhQFx_o",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "s2sgmCl4VrYe00zoPOQ5uc6afhQ",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

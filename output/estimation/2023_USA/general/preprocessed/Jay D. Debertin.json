@@ -1,0 +1,22 @@
+{
+  "ceo": "Jay D. Debertin",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "kztcfYtaakT6oWnz30jknhL10v8",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "sZRl7_E6TlBoupTIgXhb6rprxUY",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

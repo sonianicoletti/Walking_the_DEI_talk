@@ -1,0 +1,23 @@
+{
+  "ceo": "Christopher Winfrey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "FX66pEoLtSpGUg_wSTOVf-LiagY",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 269125,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Z-0tfcu8VT8uEHEwFZJuQUfR7ys",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

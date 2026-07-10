@@ -1,0 +1,214 @@
+{
+  "ceo": "Priscilla Almodovar",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ejzcPwrxV6KBODVYqApw74pk-x4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 17,
+      "resultsPerPage": 14
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wGO2iQZqvKXG5q5buo5B7uW3RXM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6hKv1k_Eor0"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-12T18:19:48Z",
+          "channelId": "UCqwreS1wKG2l_K2ESOtIlyA",
+          "title": "Fannie Mae CEO Priscilla Almodovar at CNBC&#39;s Equity and Opportunity: Exec Connect",
+          "description": "More from the CNBC Events: https://bit.ly/40ZdNd1 Subscribe to the CNBC Events Marketing Newsletter here: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Events",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-12T18:19:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "haNABCrWNS9V2-t1q7pX_WF4s0g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ykPapBjC6mw"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-13T14:40:00Z",
+          "channelId": "UCTLy6Kvy6_BKxiHITPU6hog",
+          "title": "mPower Moments: Hard Work and Limitless Opportunities with Fannie Mae\u2019s Priscilla Almodovar",
+          "description": "Hard work is where my confidence comes from.\u201d mPower Founder Marcia M. Davies sits down with Priscilla Almodovar, CEO at ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "mbamortgage",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-13T14:40:00Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "j7z8tr122qj8Fzr7aRi_xINuUGE",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "NktT2LcXVFoIqqDiqXEIkOCbBmM",
+        "id": "6hKv1k_Eor0",
+        "snippet": {
+          "publishedAt": "2023-10-12T18:19:48Z",
+          "channelId": "UCqwreS1wKG2l_K2ESOtIlyA",
+          "title": "Fannie Mae CEO Priscilla Almodovar at CNBC's Equity and Opportunity: Exec Connect",
+          "description": "More from the CNBC Events: https://bit.ly/40ZdNd1\nSubscribe to the CNBC Events Marketing Newsletter here: https://cnb.cx/3nJqzht\n\nFollow on Twitter: https://twitter.com/cnbcevents \nFollow on LinkedIn: https://www.linkedin.com/showcase/cnbcevents",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6hKv1k_Eor0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Events",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fannie Mae CEO Priscilla Almodovar at CNBC's Equity and Opportunity: Exec Connect",
+            "description": "More from the CNBC Events: https://bit.ly/40ZdNd1\nSubscribe to the CNBC Events Marketing Newsletter here: https://cnb.cx/3nJqzht\n\nFollow on Twitter: https://twitter.com/cnbcevents \nFollow on LinkedIn: https://www.linkedin.com/showcase/cnbcevents"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1643",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oXv__0-PKf9TJmYhruKUmqvLFPM",
+        "id": "ykPapBjC6mw",
+        "snippet": {
+          "publishedAt": "2023-12-13T14:40:00Z",
+          "channelId": "UCTLy6Kvy6_BKxiHITPU6hog",
+          "title": "mPower Moments: Hard Work and Limitless Opportunities with Fannie Mae\u2019s Priscilla Almodovar",
+          "description": "\u201cHard work is where my confidence comes from.\u201d\n \nmPower Founder Marcia M. Davies sits down with Priscilla Almodovar, CEO at Fannie Mae, for an insightful interview on Priscilla\u2019s career, including her \u201cdream job\u201d at Fannie Mae. She also shares the many lessons she has learned and emphasizes how hard work and effort have helped her thrive. Furthermore, Priscilla also talks about the importance of affordable housing, and how it is her mission to ensure that her employees feel motivated and connected to Fannie Mae's mission of creating affordable housing opportunities.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ykPapBjC6mw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mbamortgage",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "mPower Moments: Hard Work and Limitless Opportunities with Fannie Mae\u2019s Priscilla Almodovar",
+            "description": "\u201cHard work is where my confidence comes from.\u201d\n \nmPower Founder Marcia M. Davies sits down with Priscilla Almodovar, CEO at Fannie Mae, for an insightful interview on Priscilla\u2019s career, including her \u201cdream job\u201d at Fannie Mae. She also shares the many lessons she has learned and emphasizes how hard work and effort have helped her thrive. Furthermore, Priscilla also talks about the importance of affordable housing, and how it is her mission to ensure that her employees feel motivated and connected to Fannie Mae's mission of creating affordable housing opportunities."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "391",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 14,
+      "resultsPerPage": 14
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Dave Rush",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "S_HHgiJyuGbl1iwztyQVDHCaAnA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 713064,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "NvfLOcZ7DWTc5l7eJIodTXKM4t0",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

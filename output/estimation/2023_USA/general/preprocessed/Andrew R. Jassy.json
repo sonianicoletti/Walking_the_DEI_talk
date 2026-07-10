@@ -1,0 +1,502 @@
+{
+  "ceo": "Andrew R. Jassy",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "mQ7h_POWiA0EwSpwzt_PZ-6mQPo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 154,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "H9UltOLFEkzBXNL3EvILCRyNkvM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Qsnam8A9NYI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T20:04:12Z",
+          "channelId": "UC1NF71EwP41VdjAU1iXdLkw",
+          "title": "PM Modi meets CEO of Amazon, Andrew Jassy in Washington DC",
+          "description": "modiinusa #unitedstates #PMModiUSVisit #pmmodiinusa #washingtondc #AndrewJassy Prime Minister Narendra Modi meets ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Narendra Modi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T20:04:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4dvDIUfOy87EnE2bwcuno3wNx4k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l_kA0a1yVo8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T20:53:42Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Prime Minister Narendra Modi Meets Amazon CEO Andrew Jassy In Washington, DC | CNBC TV18",
+          "description": "WATCH | Prime Minister Narendra Modi meets Amazon CEO Andrew Jassy in Washington, DC. #indiausapartnership ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T20:53:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LW5ynK_a7WzlLhWuVYrVVgoB2fE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O3YacKKqQV0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T21:47:57Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Amazon CEO Andrew Jassy: Very Interested In Helping Create More Jobs | PM Modi In US | CNBC TV18",
+          "description": "WATCH | After meeting PM Modi, #Amazon CEO Andrew Jassy says, \"Very interested in helping create more jobs, helping digitise ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T21:47:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0-uBkEU1ay8nbomn6mX2VYpcXAs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WknTxEhZ7dw"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-24T16:51:22Z",
+          "channelId": "UCJ97pLhPp-CU9Tj4-dp9B6g",
+          "title": "Amazon CEO Andrew Jassy About Modi | Investments In India | Washington DC | Modi US | YOYO TV Shorts",
+          "description": "Amazon CEO Andrew Jassy About PM Modi | Investments In India | Washington DC | Modi US | YOYO TV Shorts ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "YOYO TV Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-24T16:51:22Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "XJw0IxfYwspHaypGA4jgWjta32o",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "EKhNeb7DWgbWoEjwE4ODMb_dir0",
+        "id": "Qsnam8A9NYI",
+        "snippet": {
+          "publishedAt": "2023-06-23T20:04:12Z",
+          "channelId": "UC1NF71EwP41VdjAU1iXdLkw",
+          "title": "PM Modi meets CEO of Amazon, Andrew Jassy in Washington DC",
+          "description": "#modiinusa #unitedstates #PMModiUSVisit #pmmodiinusa #washingtondc #AndrewJassy\n\nPrime Minister Narendra Modi meets CEO of Amazon, Andrew Jassy in Washington DC\n\nPM Modi attends diaspora event at Eisenhower Theatre, John F. Kennedy Center\n\nSubscribe Now: https://goo.gl/8qsb5E Stay Updated! \ud83d\udd14\n\nFollow us to stay updated:\n\n\u25ba Download the NM App: http://nm4.in/dnldapp\n\u25ba Like us on Facebook: https://facebook.com/narendramodi\n\u25ba Follow us on Twitter: https://twitter.com/narendramodi\n\u25ba Follow us on Instagram: http://instagram.com/narendramodi\n\nPM Modi In USA\n\nPM Modi US tour\n\nIndia US Relations\n\nPM Modi US Visit\n\nPM Modi US visit 2023\n\nPM Modi in Washington DC",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Qsnam8A9NYI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Narendra Modi",
+          "tags": [
+            "Narendra modi",
+            "modi",
+            "prime minister of india",
+            "pm narendra modi",
+            "pm modi",
+            "pm modi speech",
+            "pm narendra modi speech",
+            "pm modi speech today",
+            "namo",
+            "pm of india",
+            "pm modi speech latest",
+            "pm modi latest speech",
+            "india",
+            "narendra modi youtube",
+            "narendra modi latest speech 2022",
+            "modi speech today",
+            "modi live",
+            "modi live news",
+            "prime minister narendra modi",
+            "modi in usa",
+            "newyork",
+            "USA",
+            "India US Relations",
+            "PM Modi US Visit",
+            "Washington DC",
+            "Andrew Jassy",
+            "Amazon"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PM Modi meets CEO of Amazon, Andrew Jassy in Washington DC",
+            "description": "#modiinusa #unitedstates #PMModiUSVisit #pmmodiinusa #washingtondc #AndrewJassy\n\nPrime Minister Narendra Modi meets CEO of Amazon, Andrew Jassy in Washington DC\n\nPM Modi attends diaspora event at Eisenhower Theatre, John F. Kennedy Center\n\nSubscribe Now: https://goo.gl/8qsb5E Stay Updated! \ud83d\udd14\n\nFollow us to stay updated:\n\n\u25ba Download the NM App: http://nm4.in/dnldapp\n\u25ba Like us on Facebook: https://facebook.com/narendramodi\n\u25ba Follow us on Twitter: https://twitter.com/narendramodi\n\u25ba Follow us on Instagram: http://instagram.com/narendramodi\n\nPM Modi In USA\n\nPM Modi US tour\n\nIndia US Relations\n\nPM Modi US Visit\n\nPM Modi US visit 2023\n\nPM Modi in Washington DC"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9080",
+          "likeCount": "348",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yIUXTy90RkfZD-0rVaNJwjoB9sg",
+        "id": "l_kA0a1yVo8",
+        "snippet": {
+          "publishedAt": "2023-06-23T20:53:42Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Prime Minister Narendra Modi Meets Amazon CEO Andrew Jassy In Washington, DC | CNBC TV18",
+          "description": "WATCH | Prime Minister Narendra Modi meets Amazon CEO Andrew Jassy in Washington, DC.\n\n#indiausapartnership  #uswelcomesmodi #cnbctv18 #pmmodiusvisit #modiusvisit2023 #narendramodi #historicstatevisit2023 #washingtondc #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday \n\nRead web story: https://www.cnbctv18.com/world/very-interested-in-creating-more-jobs-amazon-ceo-reiterates-15-billion-investment-in-india-17029531.htm\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l_kA0a1yVo8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "Modi Meets Amazon CEO Andrew Jassy",
+            "Amazon CEO Andrew Jassy",
+            "pm modi",
+            "narendra modi",
+            "modi",
+            "pm modi speech today",
+            "pm modi speech",
+            "pm modi speech latest",
+            "pm modi us visit",
+            "pm modi latest speech",
+            "pm narendra modi",
+            "boeing",
+            "modi speech today",
+            "pm narendra modi speech",
+            "pm modi in us",
+            "narendra modi youtube",
+            "pm modi usa visit",
+            "modi live",
+            "modi in usa",
+            "modi speech",
+            "pm modi us visit in june",
+            "pm modi news",
+            "prime minister narendra modi",
+            "pm modi to visit us",
+            "cnbc tv18"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Prime Minister Narendra Modi Meets Amazon CEO Andrew Jassy In Washington, DC | CNBC TV18",
+            "description": "WATCH | Prime Minister Narendra Modi meets Amazon CEO Andrew Jassy in Washington, DC.\n\n#indiausapartnership  #uswelcomesmodi #cnbctv18 #pmmodiusvisit #modiusvisit2023 #narendramodi #historicstatevisit2023 #washingtondc #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday \n\nRead web story: https://www.cnbctv18.com/world/very-interested-in-creating-more-jobs-amazon-ceo-reiterates-15-billion-investment-in-india-17029531.htm\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "900",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pksVcbU-eorZTHDd_kQ6tS4Uou8",
+        "id": "O3YacKKqQV0",
+        "snippet": {
+          "publishedAt": "2023-06-23T21:47:57Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Amazon CEO Andrew Jassy: Very Interested In Helping Create More Jobs | PM Modi In US | CNBC TV18",
+          "description": "WATCH | After meeting PM Modi, #Amazon CEO Andrew Jassy says, \"Very interested in helping create more jobs, helping digitise more small & medium size businesses & helping more Indian cos & products be able to be exported all around the world\"\n\n#indiausapartnership  #uswelcomesmodi #cnbctv18 #pmmodiusvisit #modiusvisit2023 #narendramodi #historicstatevisit2023 #washingtondc #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday \n\nRead web story: https://www.cnbctv18.com/world/very-interested-in-creating-more-jobs-amazon-ceo-reiterates-15-billion-investment-in-india-17029531.htm\n\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O3YacKKqQV0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "Modi Meets Amazon CEO Andrew Jassy",
+            "Amazon CEO Andrew Jassy",
+            "pm modi",
+            "narendra modi",
+            "modi",
+            "pm modi speech today",
+            "pm modi speech",
+            "pm modi speech latest",
+            "pm modi us visit",
+            "pm modi latest speech",
+            "pm narendra modi",
+            "boeing",
+            "modi speech today",
+            "pm narendra modi speech",
+            "pm modi in us",
+            "narendra modi youtube",
+            "pm modi usa visit",
+            "modi live",
+            "modi in usa",
+            "modi speech",
+            "pm modi us visit in june",
+            "pm modi news",
+            "prime minister narendra modi",
+            "pm modi to visit us",
+            "cnbc tv18"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Amazon CEO Andrew Jassy: Very Interested In Helping Create More Jobs | PM Modi In US | CNBC TV18",
+            "description": "WATCH | After meeting PM Modi, #Amazon CEO Andrew Jassy says, \"Very interested in helping create more jobs, helping digitise more small & medium size businesses & helping more Indian cos & products be able to be exported all around the world\"\n\n#indiausapartnership  #uswelcomesmodi #cnbctv18 #pmmodiusvisit #modiusvisit2023 #narendramodi #historicstatevisit2023 #washingtondc #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday \n\nRead web story: https://www.cnbctv18.com/world/very-interested-in-creating-more-jobs-amazon-ceo-reiterates-15-billion-investment-in-india-17029531.htm\n\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "711",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SOs1lNNLm_TL62TuK0Yk5zVR9gQ",
+        "id": "WknTxEhZ7dw",
+        "snippet": {
+          "publishedAt": "2023-06-24T16:51:22Z",
+          "channelId": "UCJ97pLhPp-CU9Tj4-dp9B6g",
+          "title": "Amazon CEO Andrew Jassy About Modi | Investments In India | Washington DC | Modi US | YOYO TV Shorts",
+          "description": "Amazon CEO Andrew Jassy About PM Modi | Investments In India | Washington DC | Modi US | YOYO TV Shorts\n#AmazonCEOAndrewJassy #AndrewJassySpeech #PMModi #InvestmentsInIndia #WashingtonDC #ModiUS #YOYOTVShorts #YOYOMedia #YOYOTVTelugu #YOYOTVChannel\nVery productive conversation with PM Modi, says Amazon CEO Andew Jassy\nDownload YOYOTV App Now\r\n\r\nAndroid: https://play.google.com/store/apps/details?id=com.yoyiptv.yoyomobile\r\niOS: https://itunes.apple.com/us/app/yoyotv/id1392981692?mt=8\r\n\r\nWatch 24/7 News Videos, andhra pradesh and telangana Latest News Online, Breaking News updates, special political analysis, current issues, celebrity latest updates, movie reviews, movie Public Talks and exclusive Interviews anytime anywhere.\r\n________________________________\r\nFollow Us on: \r\nFacebook: http://bit.ly/2hkcu66 \r\nTwitter: https://twitter.com/YOYOTVChannel \r\nWebsite: http://yoyoiptv.com/\r\nSubscribe Us https://www.youtube.com/channel/UCJ97pLhPp-CU9Tj4-dp9B6g?sub_confirmation=1",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WknTxEhZ7dw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YOYO TV Channel",
+          "tags": [
+            "pm modi us visit",
+            "narendra modi",
+            "pm modi",
+            "Amazon CEO Andrew Jassy",
+            "Andrew Jassy About PM Modi",
+            "Investments In India",
+            "Washington DC",
+            "Modi USA",
+            "YOYO TV Shorts"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Amazon CEO Andrew Jassy About Modi | Investments In India | Washington DC | Modi US | YOYO TV Shorts",
+            "description": "Amazon CEO Andrew Jassy About PM Modi | Investments In India | Washington DC | Modi US | YOYO TV Shorts\n#AmazonCEOAndrewJassy #AndrewJassySpeech #PMModi #InvestmentsInIndia #WashingtonDC #ModiUS #YOYOTVShorts #YOYOMedia #YOYOTVTelugu #YOYOTVChannel\nVery productive conversation with PM Modi, says Amazon CEO Andew Jassy\nDownload YOYOTV App Now\r\n\r\nAndroid: https://play.google.com/store/apps/details?id=com.yoyiptv.yoyomobile\r\niOS: https://itunes.apple.com/us/app/yoyotv/id1392981692?mt=8\r\n\r\nWatch 24/7 News Videos, andhra pradesh and telangana Latest News Online, Breaking News updates, special political analysis, current issues, celebrity latest updates, movie reviews, movie Public Talks and exclusive Interviews anytime anywhere.\r\n________________________________\r\nFollow Us on: \r\nFacebook: http://bit.ly/2hkcu66 \r\nTwitter: https://twitter.com/YOYOTVChannel \r\nWebsite: http://yoyoiptv.com/\r\nSubscribe Us https://www.youtube.com/channel/UCJ97pLhPp-CU9Tj4-dp9B6g?sub_confirmation=1"
+          },
+          "defaultAudioLanguage": "te"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "878",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "ceo": "Sarah M. London",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "1blXL5BXVvqT-R7lPtIDan_W0i4",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 461806,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oFl0dK9TZAojJXhD7Fh0CeZSjNc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nArCz-SqlKw"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-12T19:51:19Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Centene has helped Medicaid members move to marketplace products, says CEO Sarah London",
+          "description": "Sarah London, Centene CEO, and CNBC's Bertha Coombs join 'The Exchange' to discuss the company's investor day, the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-12T19:51:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XZBi92FqE7qfCx8DJaF-VKUu5cQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cMTKxRaQLP8"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-23T21:43:10Z",
+          "channelId": "UCWYFTZKIwL9QJmHyORBooLg",
+          "title": "Leveraging Data to Transform Health with Sarah London, Centene Corporation",
+          "description": "Centene is a leading healthcare enterprise committed transforming the health of the community, one person at a time.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HLTH",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-23T21:43:10Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SgTVLTHw4RqAddBxZitTRKHfGkg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "SV-M5_Zv1W25H_miQ9tWFzDN224",
+        "id": "nArCz-SqlKw",
+        "snippet": {
+          "publishedAt": "2023-12-12T19:51:19Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Centene has helped Medicaid members move to marketplace products, says CEO Sarah London",
+          "description": "Sarah London, Centene CEO, and CNBC\u2019s Bertha Coombs join 'The Exchange' to discuss the company's investor day, the outlook for Medicare and Medicaid, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nArCz-SqlKw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Centene has helped Medicaid members move to marketplace products, says CEO Sarah London",
+            "description": "Sarah London, Centene CEO, and CNBC\u2019s Bertha Coombs join 'The Exchange' to discuss the company's investor day, the outlook for Medicare and Medicaid, and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4036",
+          "likeCount": "20",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_7-mxZIhV5YZEHXEccGCZjv7h0k",
+        "id": "cMTKxRaQLP8",
+        "snippet": {
+          "publishedAt": "2023-01-23T21:43:10Z",
+          "channelId": "UCWYFTZKIwL9QJmHyORBooLg",
+          "title": "Leveraging Data to Transform Health with Sarah London, Centene Corporation",
+          "description": "Centene is a leading healthcare enterprise committed transforming the health of the community, one person at a time. The company offers high-quality, affordable health insurance coverage to nearly 1 in 15 individuals across the nation. Centene CEO Sarah London sat down down with Salesforce Chief Health Officer Fatima Paruk MD, MPH to discuss how Centene is tackling big issues like access to care and health equity, and how the company is leveraging technology and data to transform healthcare.\n\nWatch the full session: https://community.hlth.com/home/videos/leveraging-data-to-transform-health\n\nWant more content like this? Learn more about HLTH: https://www.hlth.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cMTKxRaQLP8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HLTH",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Leveraging Data to Transform Health with Sarah London, Centene Corporation",
+            "description": "Centene is a leading healthcare enterprise committed transforming the health of the community, one person at a time. The company offers high-quality, affordable health insurance coverage to nearly 1 in 15 individuals across the nation. Centene CEO Sarah London sat down down with Salesforce Chief Health Officer Fatima Paruk MD, MPH to discuss how Centene is tackling big issues like access to care and health equity, and how the company is leveraging technology and data to transform healthcare.\n\nWatch the full session: https://community.hlth.com/home/videos/leveraging-data-to-transform-health\n\nWant more content like this? Learn more about HLTH: https://www.hlth.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1585",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

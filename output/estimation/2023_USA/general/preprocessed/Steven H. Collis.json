@@ -1,0 +1,22 @@
+{
+  "ceo": "Steven H. Collis",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "KcaKi_5gjW4JM7rW-72KHm88uvY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 15
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "gcu9Pqyx4pMHvcRZ8EzToLqo9LQ",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 15
+    }
+  }
+}

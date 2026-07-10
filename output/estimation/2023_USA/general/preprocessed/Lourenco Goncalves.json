@@ -1,0 +1,119 @@
+{
+  "ceo": "Lourenco Goncalves",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "J7HKosiG31n6bFlKWWmxTLiY3c4",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 198,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9vDuYJE7Pu8wPbv1JVkkbu3A9tw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DJ5Qha5AXss"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-25T15:54:59Z",
+          "channelId": "UCKTguOu9lqgEvmt1lcgntdA",
+          "title": "Cleveland Cliffs $CLF CEO Lourenco Goncalves on CNBC.",
+          "description": "Video clipped from CNBC on 2023-04-25.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jimmy Slamat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-25T15:54:59Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "irN0hQ4j_gKV8hgiJonfEoqi5lI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "WsNGyywUmM3XtHUMdm7_BxRf81U",
+        "id": "DJ5Qha5AXss",
+        "snippet": {
+          "publishedAt": "2023-04-25T15:54:59Z",
+          "channelId": "UCKTguOu9lqgEvmt1lcgntdA",
+          "title": "Cleveland Cliffs $CLF CEO Lourenco Goncalves on CNBC.",
+          "description": "Video clipped from CNBC on 2023-04-25.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DJ5Qha5AXss/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jimmy Slamat",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cleveland Cliffs $CLF CEO Lourenco Goncalves on CNBC.",
+            "description": "Video clipped from CNBC on 2023-04-25."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2187",
+          "likeCount": "15",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

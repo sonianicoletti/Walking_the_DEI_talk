@@ -1,0 +1,444 @@
+{
+  "ceo": "Stephane Bancel",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "0dh8vUTl9pd8GCYsbe8YR6C4-bI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 198,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lTEG81FSI9aXsRt9a8cd0vLWv4U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NLktSvjmTFc"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-14T23:44:32Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Moderna CEO Stephane Bancel Talks Skin Cancer | Bloomberg Talks",
+          "description": "Moderna CEO Stephane Bancel discusses the joint effort between Merck and Moderna to create a vaccine that combats skin ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-14T23:44:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5ZoMR_e0SCFET4fyXAzO39pGZxI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "o1UHz7JZJ6U"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-02T17:12:09Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Moderna Inc CEO Stephane Bancel Talks Costs | Bloomberg Talks",
+          "description": "Moderna Inc CEO Stephane Bancel discusses the 'business cost structure' of the industry following the vaccine maker's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-02T17:12:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PSZo0Xi24DsQZktDvbu8Ijb28m8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "h10NecUaXFM"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-07T18:32:12Z",
+          "channelId": "UC9XXx5y5vC3CFm4J9aVO-hw",
+          "title": "Moderna ceo Stephane Bancel admits company was already producing products prior to \u201cpandemic\u201d",
+          "description": "Prior to the \u201cpandemic\u201d Moderna already had 100000 doses of the gene therapy with a need for 1 billion more to be produced.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chanel 0151",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-07T18:32:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yQYxwTBZdMdtS-ZDczr2-E8Ztm0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8e-9YwlWGwg"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-30T23:14:33Z",
+          "channelId": "UCdl8xPDTKUwIAxUOF5kHwmw",
+          "title": "Stephane Bancel, AD di Moderna. Nel 2019 sapeva gi\u00e0 che ci sarebbe stata una pandemia.",
+          "description": "Video tratto da in'intervista a Stephane Bancel, amministratore delegato di Moderna, al meeting annuale del WEF a Davos nel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bastiano Contrario",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-30T23:14:33Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Cy3_SO5GnZOqyO7wglQHd1Vg48M",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "B0XmsECIhgzekl2mgPWc5yOMzQM",
+        "id": "NLktSvjmTFc",
+        "snippet": {
+          "publishedAt": "2023-12-14T23:44:32Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Moderna CEO Stephane Bancel Talks Skin Cancer | Bloomberg Talks",
+          "description": "Moderna CEO Stephane Bancel discusses the joint effort between Merck and Moderna to create a vaccine that combats skin cancer. He speaks with Bloomberg's Tom Keene, Jonathan Ferro, and Lisa Abramowicz. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NLktSvjmTFc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Business",
+            "Business News",
+            "Daily News",
+            "Investing",
+            "News",
+            "Politics",
+            "bloomberg",
+            "bloomberg interview",
+            "bloomberg podcast",
+            "bloomberg talks",
+            "business",
+            "economy",
+            "finance",
+            "investing",
+            "podcast",
+            "talks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Moderna CEO Stephane Bancel Talks Skin Cancer | Bloomberg Talks",
+            "description": "Moderna CEO Stephane Bancel discusses the joint effort between Merck and Moderna to create a vaccine that combats skin cancer. He speaks with Bloomberg's Tom Keene, Jonathan Ferro, and Lisa Abramowicz. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "203",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wddHBvL7F11lxCQeyTtez9UUPLs",
+        "id": "o1UHz7JZJ6U",
+        "snippet": {
+          "publishedAt": "2023-11-02T17:12:09Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Moderna Inc CEO Stephane Bancel Talks Costs | Bloomberg Talks",
+          "description": "Moderna Inc CEO Stephane Bancel discusses the 'business cost structure' of the industry following the vaccine maker's gloomier-than-expected outlook. He speaks with Bloomberg's Guy Johnson and Alix Steel. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/o1UHz7JZJ6U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Business",
+            "Business News",
+            "Daily News",
+            "Investing",
+            "News",
+            "Politics",
+            "bloomberg",
+            "bloomberg interview",
+            "bloomberg podcast",
+            "bloomberg talks",
+            "business",
+            "economy",
+            "finance",
+            "investing",
+            "podcast",
+            "talks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Moderna Inc CEO Stephane Bancel Talks Costs | Bloomberg Talks",
+            "description": "Moderna Inc CEO Stephane Bancel discusses the 'business cost structure' of the industry following the vaccine maker's gloomier-than-expected outlook. He speaks with Bloomberg's Guy Johnson and Alix Steel. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "110",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Fg-TUk4vU8sAX4z-NbphWcJc_Uo",
+        "id": "h10NecUaXFM",
+        "snippet": {
+          "publishedAt": "2023-02-07T18:32:12Z",
+          "channelId": "UC9XXx5y5vC3CFm4J9aVO-hw",
+          "title": "Moderna ceo Stephane Bancel admits company was already producing products prior to \u201cpandemic\u201d",
+          "description": "Prior to the \u201cpandemic\u201d Moderna already had  100,000 doses of the gene therapy with a need for 1 billion more to be produced",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h10NecUaXFM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chanel 0151",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Moderna ceo Stephane Bancel admits company was already producing products prior to \u201cpandemic\u201d",
+            "description": "Prior to the \u201cpandemic\u201d Moderna already had  100,000 doses of the gene therapy with a need for 1 billion more to be produced"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "403",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "reAqZRyJW3WykqxP1_2YMLv7ny0",
+        "id": "8e-9YwlWGwg",
+        "snippet": {
+          "publishedAt": "2023-03-30T23:14:33Z",
+          "channelId": "UCdl8xPDTKUwIAxUOF5kHwmw",
+          "title": "Stephane Bancel, AD di Moderna. Nel 2019 sapeva gi\u00e0 che ci sarebbe stata una pandemia.",
+          "description": "Video tratto da in'intervista a Stephane Bancel, amministratore delegato di Moderna, al meeting annuale del WEF a Davos nel gennaio 2023.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8e-9YwlWGwg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bastiano Contrario",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Stephane Bancel, AD di Moderna. Nel 2019 sapeva gi\u00e0 che ci sarebbe stata una pandemia.",
+            "description": "Video tratto da in'intervista a Stephane Bancel, amministratore delegato di Moderna, al meeting annuale del WEF a Davos nel gennaio 2023."
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "20",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

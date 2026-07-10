@@ -1,0 +1,121 @@
+{
+  "ceo": "Vivek Sankaran",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wMNftBnYy8mUlcL6NwScSEP891k",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 230,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OZyIOz-aSm7I-14xdyTeLWKD6mQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dgZQ6XLz3xA"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-08T14:05:53Z",
+          "channelId": "UC9feYyHv8cM0GfzH-fT0i3g",
+          "title": "Kroger CEO Rodney McMullen and Albertsons CEO Vivek Sankaran Discuss Proposed Merger",
+          "description": "The proposed merger between The Kroger Co. and Albertsons Cos. would bring benefits to not only customers and associates but ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Automation Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-08T14:05:53Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "JmCf-APRfifv6KTrtgok7rcH79M",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "8ypEJhr7owUUmDKQhWzuPQ9lM6w",
+        "id": "dgZQ6XLz3xA",
+        "snippet": {
+          "publishedAt": "2023-08-08T14:05:53Z",
+          "channelId": "UC9feYyHv8cM0GfzH-fT0i3g",
+          "title": "Kroger CEO Rodney McMullen and Albertsons CEO Vivek Sankaran Discuss Proposed Merger",
+          "description": "The proposed merger between The Kroger Co. and Albertsons Cos. would bring benefits to not only customers and associates but also to the farmers who sell their crops to the companies, according to Kroger CEO Rodney McMullen and Albertsons CEO Vivek Sankaran. The two chief executives joined together for a video that was filmed at a King Soopers grocery store, and posted to LinkedIn, to discuss the opportunities that would emerge once the supermarket giants are combined. \n\u201cThe combination of Kroger and Albertsons is about creating more opportunities,\u201d McMullen said. \u201cMore opportunities for our customers to find the food they love at lower prices, more opportunities for associates to grow their careers with us now and in the future.\u201d\nContinued McMullen: \u201cAnd the growth extends well outside of our doors. We see more opportunities for our farmers to sell more of their crops in more places and more opportunities to bring communities across America the food families need to thrive.\u201d\nSankaran further explained that customers would see both lower prices and more choices during their shopping trips. \u201cTogether, we will provide a wider, better selection of the products customers need, want and love, with all the personalized offers that help families everywhere put food on the table,\u201d he explained.\nThe merged companies would also have a better opportunity to help end hunger in America, Sankaran said. \n\u201cIn fact, we recently announced a commitment to donate 10 billion meals by 2030,\u201d he said. \u201cThat\u2019s enough to feed every person in the cities of Seattle, Denver, Chicago and Boston every meal, every day, for nearly two years. Neither company could achieve this kind of impact alone.\u201d\nEarlier this month, a U.S. district judge in San Francisco dismissed a consumer lawsuit filed against the pending merger. Judge Vince Chhabria stated in his ruling that the 25 plaintiffs, who hail from Texas, California, Florida and other states, \u201chave made no effort to explain how the merger would affect any one of them personally\u201d and also \u201clack standing to challenge the dividend payment.\u201d\nThe deal between the two companies could close as soon as January 2024, though the Federal Trade Commission (FTC) is still reviewing the potential merger. The Center for Science in the Public Interest (CSPI) has called on the FTC to block the merger, outlining its concerns in a letter saying it would result in fewer grocery stores and higher food prices \u2014 negatively affecting food and nutrition security for consumers around the country.\nIn a July 22 joint interview with the Denver Post, Sankaran and McMullen were asked about the federal government\u2019s new and tighter guidelines for mergers and acquisitions, proposed earlier this summer and set to go into effect before the final Albertsons-Kroger review. The leaders said they were ready to proceed with legal action if the merger is rejected.\nServing 11 million customers daily through a digital shopping experience and retail food stores under a variety of banner names, Cincinnati-based Kroger is No. 4 on The PG 100, Progressive Grocer\u2019s 2023 list of the top food and consumables retailers in North America. Boise, Idaho-based Albertsons operates more than 2,200 retail stores in 34 states. The company is No. 9 on The PG 100. PG also named both companies to its Retailers of the Century list.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dgZQ6XLz3xA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Automation Channel",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kroger CEO Rodney McMullen and Albertsons CEO Vivek Sankaran Discuss Proposed Merger",
+            "description": "The proposed merger between The Kroger Co. and Albertsons Cos. would bring benefits to not only customers and associates but also to the farmers who sell their crops to the companies, according to Kroger CEO Rodney McMullen and Albertsons CEO Vivek Sankaran. The two chief executives joined together for a video that was filmed at a King Soopers grocery store, and posted to LinkedIn, to discuss the opportunities that would emerge once the supermarket giants are combined. \n\u201cThe combination of Kroger and Albertsons is about creating more opportunities,\u201d McMullen said. \u201cMore opportunities for our customers to find the food they love at lower prices, more opportunities for associates to grow their careers with us now and in the future.\u201d\nContinued McMullen: \u201cAnd the growth extends well outside of our doors. We see more opportunities for our farmers to sell more of their crops in more places and more opportunities to bring communities across America the food families need to thrive.\u201d\nSankaran further explained that customers would see both lower prices and more choices during their shopping trips. \u201cTogether, we will provide a wider, better selection of the products customers need, want and love, with all the personalized offers that help families everywhere put food on the table,\u201d he explained.\nThe merged companies would also have a better opportunity to help end hunger in America, Sankaran said. \n\u201cIn fact, we recently announced a commitment to donate 10 billion meals by 2030,\u201d he said. \u201cThat\u2019s enough to feed every person in the cities of Seattle, Denver, Chicago and Boston every meal, every day, for nearly two years. Neither company could achieve this kind of impact alone.\u201d\nEarlier this month, a U.S. district judge in San Francisco dismissed a consumer lawsuit filed against the pending merger. Judge Vince Chhabria stated in his ruling that the 25 plaintiffs, who hail from Texas, California, Florida and other states, \u201chave made no effort to explain how the merger would affect any one of them personally\u201d and also \u201clack standing to challenge the dividend payment.\u201d\nThe deal between the two companies could close as soon as January 2024, though the Federal Trade Commission (FTC) is still reviewing the potential merger. The Center for Science in the Public Interest (CSPI) has called on the FTC to block the merger, outlining its concerns in a letter saying it would result in fewer grocery stores and higher food prices \u2014 negatively affecting food and nutrition security for consumers around the country.\nIn a July 22 joint interview with the Denver Post, Sankaran and McMullen were asked about the federal government\u2019s new and tighter guidelines for mergers and acquisitions, proposed earlier this summer and set to go into effect before the final Albertsons-Kroger review. The leaders said they were ready to proceed with legal action if the merger is rejected.\nServing 11 million customers daily through a digital shopping experience and retail food stores under a variety of banner names, Cincinnati-based Kroger is No. 4 on The PG 100, Progressive Grocer\u2019s 2023 list of the top food and consumables retailers in North America. Boise, Idaho-based Albertsons operates more than 2,200 retail stores in 34 states. The company is No. 9 on The PG 100. PG also named both companies to its Retailers of the Century list."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2044",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

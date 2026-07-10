@@ -1,0 +1,22 @@
+{
+  "ceo": "Preston Feight",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "E4pEoYKPl1EH87wo0Wy7tZ0czSM",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "xieJJLr7-md7FOGPmZox5LkWpC8",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

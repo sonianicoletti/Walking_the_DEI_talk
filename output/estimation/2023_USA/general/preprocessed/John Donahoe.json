@@ -1,0 +1,642 @@
+{
+  "ceo": "John Donahoe",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "K0qyEiJ6LpArNtCOJyFSsk8adTk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 101,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4OUXObqQ-mSLCLZwcpaWVyp9FGI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BrAZ1zFUmTE"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-08T09:00:10Z",
+          "channelId": "UChD6XA0-Qlmue8JQAn_jqGA",
+          "title": "Behind the Scenes: A Day in the Life of Nike CEO John Donahoe",
+          "description": "Nike, Inc. is an American multinational corporation specializing in the design, development, manufacturing, and marketing of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TIME TRAVELER",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-08T09:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OiSWa9-Tt3anf4PMPbRucTCX3zs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lYYlXhJjm7w"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-01T11:16:16Z",
+          "channelId": "UCSYShIp9haahjn6S-x4FkPw",
+          "title": "Diamond business secrets from Nike CEO John Donahoe",
+          "description": "shortsvideo #shorts.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "compuff",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-01T11:16:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5xmP_3yuqiEeExTgfiC2cnCVKOk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DaHyTz9o1IQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-07T11:43:14Z",
+          "channelId": "UCG70itGiAHAGqxRPe2d6v9Q",
+          "title": "Never Stand Still   John Donahoe",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Gowri Shankar",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-07T11:43:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_GqbvzvUpq-T4htoYklK51qb9gw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_NGtsHJ59xk"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-24T20:19:10Z",
+          "channelId": "UCxX4e8ryqHrt1d7_ep0SM-g",
+          "title": "Breaking Down the Desantis-Disney Feud - Insights from Nike&#39;s CEO, John Donahoe",
+          "description": "Join us as we break down the Desantis-Disney feud with insights from Nike's CEO, John Donahoe. In this unique perspective, we ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Market News Today",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-24T20:19:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fp_w25vu80lt5Fgn7jvgt3ZxUGU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E0pZu-vRmvc"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-24T15:14:06Z",
+          "channelId": "UCLfOOf8ZhLSDPIBQmXXSTig",
+          "title": "How Nike CEO John Donahoe Stands by His Values in Contrast to Disney&#39;s Feud with DeSantis",
+          "description": "In this video, we explore how Nike CEO John Donahoe stands by his values in contrast to Disney's feud with DeSantis. We will ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "World News Roundup ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-24T15:14:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "suo1t04L9-Tb-RmKBBLXdp9Qdnk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tdmKdaTV5_8"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T13:24:08Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Maverick CEO Who Transformed eBay and Nike: John Donahoe&#39;s Impact on Business.",
+          "description": "Hi everyone, welcome to our video about John Donahoe, the CEO of Nike. In this first part, we'll take a closer look at Donahoe's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T13:24:08Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "_Vzae9-Imi-Lf4iCYNzTzrHcX3I",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "1jGK-9bZgTxLgctuP-6T6oeBTmQ",
+        "id": "BrAZ1zFUmTE",
+        "snippet": {
+          "publishedAt": "2023-08-08T09:00:10Z",
+          "channelId": "UChD6XA0-Qlmue8JQAn_jqGA",
+          "title": "Behind the Scenes: A Day in the Life of Nike CEO John Donahoe",
+          "description": "Nike, Inc. is an American multinational corporation specializing in the design, development, manufacturing, and marketing of footwear, apparel, equipment, accessories, and services. John Donahoe is the CEO of Nike.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BrAZ1zFUmTE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TIME TRAVELER",
+          "tags": [
+            "Nike",
+            "Inc. is an American multinational corporation specializing in the design",
+            "development",
+            "manufacturing",
+            "and marketing of footwear",
+            "apparel",
+            "equipment",
+            "accessories"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Behind the Scenes: A Day in the Life of Nike CEO John Donahoe",
+            "description": "Nike, Inc. is an American multinational corporation specializing in the design, development, manufacturing, and marketing of footwear, apparel, equipment, accessories, and services. John Donahoe is the CEO of Nike."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "406",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fT0f0P40aF0B9GLOM5adQ000868",
+        "id": "lYYlXhJjm7w",
+        "snippet": {
+          "publishedAt": "2023-07-01T11:16:16Z",
+          "channelId": "UCSYShIp9haahjn6S-x4FkPw",
+          "title": "Diamond business secrets from Nike CEO John Donahoe",
+          "description": "#shortsvideo #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lYYlXhJjm7w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "compuff",
+          "tags": [
+            "John Donahoe",
+            "Nike CEO",
+            "Diamond business secrets",
+            "Business strategies",
+            "Leadership insights",
+            "Nike success story",
+            "Brand management",
+            "Supply chain management",
+            "Retail industry",
+            "Marketing and advertising",
+            "Customer engagement",
+            "Product innovation",
+            "Corporate governance",
+            "Global business expansion",
+            "Competitive advantage",
+            "Financial performance",
+            "Consumer behavior",
+            "Strategic partnerships",
+            "Team management",
+            "Brand loyalty",
+            "Corporate social responsibility",
+            "motivation",
+            "john donahoe speech"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "tr",
+          "localized": {
+            "title": "Diamond business secrets from Nike CEO John Donahoe",
+            "description": "#shortsvideo #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "294",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1dKFyvi3HvXjboEzocBMnwK8N0E",
+        "id": "DaHyTz9o1IQ",
+        "snippet": {
+          "publishedAt": "2023-03-07T11:43:14Z",
+          "channelId": "UCG70itGiAHAGqxRPe2d6v9Q",
+          "title": "Never Stand Still   John Donahoe",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DaHyTz9o1IQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gowri Shankar",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Never Stand Still   John Donahoe",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "e81hGDo-pbNmRStsoV5GU0UeEZg",
+        "id": "_NGtsHJ59xk",
+        "snippet": {
+          "publishedAt": "2023-05-24T20:19:10Z",
+          "channelId": "UCxX4e8ryqHrt1d7_ep0SM-g",
+          "title": "Breaking Down the Desantis-Disney Feud - Insights from Nike's CEO, John Donahoe",
+          "description": "Join us as we break down the Desantis-Disney feud with insights from Nike's CEO, John Donahoe. In this unique perspective, we delve into the controversy that has caught the attention of global corporations and everyday citizens alike. From understanding the root of the conflict to interpreting its implications, Donahoe's input offers an invaluable perspective. \nAs the leader of a multinational company, his views not only shed light on the situation but also bring to the fore the role corporations play in society. Subscribe to our channel for more enlightening discussions and critical debates on trending issues.\n\nhttps://newsformarket.com/2023/05/24/nike-ceo-john-donahoe-weighs-in-on-desantis-disney-feud/\n\n#NikeCEO\n#JohnDonahoe\n#DesantisDisneyFeud\n#CorporatePerspectives\n#ConflictAnalysis\n#CEOInsights\n#NikeTakesAStand\n\nWork with Us: https://translatela.com/\nDo you run a private medical practice?!: https://clinicbookia.com/\nThinking of starting your own podcast?: https://temascitadinos.com/\n\n\n\nDISCLAIMER: The information in this video should not be considered tax, financial, investment, or any kind of professional advice. Only a professional diagnosis of your specific situation can determine which strategies are appropriate for your needs. NEWSFORMARKET can and does not provide advice unless/until engaged by you.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_NGtsHJ59xk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Market News Today",
+          "tags": [
+            "Nike CEO",
+            "John Donahoe",
+            "Desantis-Disney feud",
+            "trending issues"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Breaking Down the Desantis-Disney Feud - Insights from Nike's CEO, John Donahoe",
+            "description": "Join us as we break down the Desantis-Disney feud with insights from Nike's CEO, John Donahoe. In this unique perspective, we delve into the controversy that has caught the attention of global corporations and everyday citizens alike. From understanding the root of the conflict to interpreting its implications, Donahoe's input offers an invaluable perspective. \nAs the leader of a multinational company, his views not only shed light on the situation but also bring to the fore the role corporations play in society. Subscribe to our channel for more enlightening discussions and critical debates on trending issues.\n\nhttps://newsformarket.com/2023/05/24/nike-ceo-john-donahoe-weighs-in-on-desantis-disney-feud/\n\n#NikeCEO\n#JohnDonahoe\n#DesantisDisneyFeud\n#CorporatePerspectives\n#ConflictAnalysis\n#CEOInsights\n#NikeTakesAStand\n\nWork with Us: https://translatela.com/\nDo you run a private medical practice?!: https://clinicbookia.com/\nThinking of starting your own podcast?: https://temascitadinos.com/\n\n\n\nDISCLAIMER: The information in this video should not be considered tax, financial, investment, or any kind of professional advice. Only a professional diagnosis of your specific situation can determine which strategies are appropriate for your needs. NEWSFORMARKET can and does not provide advice unless/until engaged by you."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "100",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dOiS3KCKs5rXMrVnUghtrpClnT4",
+        "id": "E0pZu-vRmvc",
+        "snippet": {
+          "publishedAt": "2023-05-24T15:14:06Z",
+          "channelId": "UCLfOOf8ZhLSDPIBQmXXSTig",
+          "title": "How Nike CEO John Donahoe Stands by His Values in Contrast to Disney's Feud with DeSantis",
+          "description": "In this video, we explore how Nike CEO John Donahoe stands by his values in contrast to Disney's feud with DeSantis. We will discuss the importance of corporations fighting for the values integral to their brands and how it can impact their business. Stay tuned!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E0pZu-vRmvc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "World News Roundup ",
+          "tags": [
+            "Nike CEO John Donahoe",
+            "Disney's Feud with DeSantis",
+            "Values",
+            "Leadership",
+            "Gen Z",
+            "Climate Change",
+            "Diversity and Inclusion"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Nike CEO John Donahoe Stands by His Values in Contrast to Disney's Feud with DeSantis",
+            "description": "In this video, we explore how Nike CEO John Donahoe stands by his values in contrast to Disney's feud with DeSantis. We will discuss the importance of corporations fighting for the values integral to their brands and how it can impact their business. Stay tuned!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xvpvQJz8smfjpkltFvRQwC3UuNA",
+        "id": "tdmKdaTV5_8",
+        "snippet": {
+          "publishedAt": "2023-03-15T13:24:08Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Maverick CEO Who Transformed eBay and Nike: John Donahoe's Impact on Business.",
+          "description": "Hi everyone, welcome to our video about John Donahoe, the CEO of Nike. In this first part, we'll take a closer look at Donahoe's career path and how he rose to become the CEO of one of the world's largest athletic apparel companies.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tdmKdaTV5_8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Maverick CEO Who Transformed eBay and Nike: John Donahoe's Impact on Business.",
+            "description": "Hi everyone, welcome to our video about John Donahoe, the CEO of Nike. In this first part, we'll take a closer look at Donahoe's career path and how he rose to become the CEO of one of the world's largest athletic apparel companies."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "172",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

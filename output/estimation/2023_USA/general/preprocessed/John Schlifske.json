@@ -1,0 +1,22 @@
+{
+  "ceo": "John Schlifske",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "MvxGRgOJ6sDiHBbKcmvE4ESqaq4",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "LR9KvCfQy1XpsxrSCBgqqIVu6A8",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 2,
+      "resultsPerPage": 2
+    }
+  }
+}

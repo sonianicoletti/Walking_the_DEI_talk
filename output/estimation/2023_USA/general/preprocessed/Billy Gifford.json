@@ -1,0 +1,23 @@
+{
+  "ceo": "Billy Gifford",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Tku0ovjQ00Cqx1wnW2dUeXVLq1U",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1219,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1vPTJjkPoePFUvDVMqRqd1Ka8r4",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

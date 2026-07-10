@@ -1,0 +1,309 @@
+{
+  "ceo": "Bryan B. Deboer",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "DKMxeQnMHen6aMHW471GjhyBKNU",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GepHbRXkBbJpZn-HEkI3DBcbRQA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "65p4S7AvmFQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-16T13:14:24Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum: ASOTU Capturing Bryan DeBoer Playing Pinball",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-16T13:14:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hakpYRc7zmy3h_fkxR_UOSSnstE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eHINxfFkS3w"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T14:27:49Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum Morning Keynote: Bryan DeBoer CEO &amp; President Lithia Driveway",
+          "description": "Alan Haig, President of Haig Partners discusses Lithia's growth strategy and success as the 2023 AutoTeam America Buy-Sell ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T14:27:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TzWmt_Hcm6htd00MzTIwHWLLXGs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FP6-TXHshgk"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-13T20:01:09Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Buy-Sell Summit &amp; Dealer/CEO/CFO Forum: Bryan DeBoer / Lithia Highlights",
+          "description": "Alan Haig, President of Haig Partners interviews Bryan DeBoer, President and CEO of Lithia Driveway at the 2023 AutoTeam ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-13T20:01:09Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "JevoYz-3bLcMOogOBY-QFwL2hU0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "XZfuYKxCHLcuMXxC2R-8gZfoTtM",
+        "id": "65p4S7AvmFQ",
+        "snippet": {
+          "publishedAt": "2023-03-16T13:14:24Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum: ASOTU Capturing Bryan DeBoer Playing Pinball",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/65p4S7AvmFQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AutoTeam America Dealer|CEO|CFO Forum: ASOTU Capturing Bryan DeBoer Playing Pinball",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "67",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RhBA-j1S6eGqZ2AJXgySZsh6b5k",
+        "id": "eHINxfFkS3w",
+        "snippet": {
+          "publishedAt": "2023-03-15T14:27:49Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Dealer|CEO|CFO Forum Morning Keynote: Bryan DeBoer CEO & President Lithia Driveway",
+          "description": "Alan Haig, President of Haig Partners discusses Lithia's growth strategy and success as the 2023 AutoTeam America Buy-Sell Summit and Dealer|CEO|CFO Forum.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eHINxfFkS3w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AutoTeam America Dealer|CEO|CFO Forum Morning Keynote: Bryan DeBoer CEO & President Lithia Driveway",
+            "description": "Alan Haig, President of Haig Partners discusses Lithia's growth strategy and success as the 2023 AutoTeam America Buy-Sell Summit and Dealer|CEO|CFO Forum."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H5M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1010",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0sipezNMxNGMO7BCMM-lXWT8KoE",
+        "id": "FP6-TXHshgk",
+        "snippet": {
+          "publishedAt": "2023-03-13T20:01:09Z",
+          "channelId": "UCXoQx2j4Bgyhpd7ediCDKyw",
+          "title": "AutoTeam America Buy-Sell Summit & Dealer/CEO/CFO Forum: Bryan DeBoer / Lithia Highlights",
+          "description": "Alan Haig, President of Haig Partners interviews Bryan DeBoer, President and CEO of Lithia Driveway at the 2023 AutoTeam America Buy-Sell Summit and Dealer/CEO/CFO Forum.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FP6-TXHshgk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Haig Partners",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AutoTeam America Buy-Sell Summit & Dealer/CEO/CFO Forum: Bryan DeBoer / Lithia Highlights",
+            "description": "Alan Haig, President of Haig Partners interviews Bryan DeBoer, President and CEO of Lithia Driveway at the 2023 AutoTeam America Buy-Sell Summit and Dealer/CEO/CFO Forum."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT3M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "297",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "ceo": "Robin Vince",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "kmmO4QJ2PMPPCDt__luAftctFMo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 19412,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rXVYgJ9j_NbQBkAlApdTSvBatcc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "57GYa0ocGNM"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-01T15:26:37Z",
+          "channelId": "UC4TVyXrROjNeGUOYXWhstOQ",
+          "title": "Robin Vince CEO BNY Mellon interview JPM on CNBC",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stargazer46 \u201cStargazer46\u201d",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-01T15:26:37Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "LFZAkxk8jz7NMaAndeYd6siAsCk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "iuMH4gU0yiaIzkkmDuiyDFBHee4",
+        "id": "57GYa0ocGNM",
+        "snippet": {
+          "publishedAt": "2023-05-01T15:26:37Z",
+          "channelId": "UC4TVyXrROjNeGUOYXWhstOQ",
+          "title": "Robin Vince CEO BNY Mellon interview JPM on CNBC",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/57GYa0ocGNM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stargazer46 \u201cStargazer46\u201d",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Robin Vince CEO BNY Mellon interview JPM on CNBC",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "69",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "ceo": "William S. Demchak",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "zMWKq0xjRqC43sI0yUR10jM7gnI",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 6,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yMY9mBPqbuDxo2HyahmjN-1mdVg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xtQAys3ONLQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T15:31:13Z",
+          "channelId": "UCzXvcrj3Gs8u463hCkCjFPg",
+          "title": "W. L. Mellon Speaker Series: William Demchak",
+          "description": "The W.L. Mellon Speaker Series is a forum that encourages insightful and lively dialogue between Tepper students and global ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TepperCMU",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T15:31:13Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "FRKwL0DxdEjCOgw5UUgtjn2ROYM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "g-c1bA0IBqoeSl7h2cny691xS1Q",
+        "id": "xtQAys3ONLQ",
+        "snippet": {
+          "publishedAt": "2023-11-01T15:31:13Z",
+          "channelId": "UCzXvcrj3Gs8u463hCkCjFPg",
+          "title": "W. L. Mellon Speaker Series: William Demchak",
+          "description": "The W.L. Mellon Speaker Series is a forum that encourages insightful and lively dialogue between Tepper students and global leaders, CEOs, and management experts. William \"Bill\" Demchak is in his element in rapidly-changing environments punctuated by periods of crisis. As chairman, President and CEO of The PNC Financial Services Group, one of the largest diversified financial services companies in the U.S, he has seen his share.\n\nIn this video, Demchak imparts wisdom and candid insight gained through his career.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xtQAys3ONLQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TepperCMU",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "W. L. Mellon Speaker Series: William Demchak",
+            "description": "The W.L. Mellon Speaker Series is a forum that encourages insightful and lively dialogue between Tepper students and global leaders, CEOs, and management experts. William \"Bill\" Demchak is in his element in rapidly-changing environments punctuated by periods of crisis. As chairman, President and CEO of The PNC Financial Services Group, one of the largest diversified financial services companies in the U.S, he has seen his share.\n\nIn this video, Demchak imparts wisdom and candid insight gained through his career."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT55M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "658",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

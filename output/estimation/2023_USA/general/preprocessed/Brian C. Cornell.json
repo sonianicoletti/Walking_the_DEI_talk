@@ -1,0 +1,346 @@
+{
+  "ceo": "Brian C. Cornell",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "B39f7sf8zLGaNlGLJXWvZOz4deI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 306,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kkgbJs61IoPKVyi9CCd26pgnOw4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cXoQy5Fauvk"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-02T12:33:25Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Target CEO Brian Cornell: Shoppers are pulling back, even on groceries",
+          "description": "Target CEO Brian Cornell joins 'Squawk Box' to discuss the challenges facing the retailer, from backlash around pride month ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-02T12:33:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6nmpnNj9sHxDir-XJZ0gTf4j9N4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vNfwxMeJ0gE"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T11:00:49Z",
+          "channelId": "UCqwreS1wKG2l_K2ESOtIlyA",
+          "title": "On Target with CEO Brian Cornell at Evolve Global Summit 2023",
+          "description": "It has been a tough year for Target; contending with the Pride controversy, a surge in retail crime and a slowing consumer.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Events",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T11:00:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oWB06pAUDrabJ_vzzLhpkzJVPpM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Yr7PrztOqCc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-16T01:02:54Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Target CEO Brian Cornell goes one-on-one with Jim Cramer",
+          "description": "Target Chair and CEO Brian Cornell joins 'Mad Money' host Jim Cramer to talk quarterly earnings, consumer trends, retail theft ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-16T01:02:54Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kL4KJZUnsDuFhRq1YC-BtI6de40",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "jus6mBDr0tbXT9Qd6U6M5shl6-0",
+        "id": "cXoQy5Fauvk",
+        "snippet": {
+          "publishedAt": "2023-11-02T12:33:25Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Target CEO Brian Cornell: Shoppers are pulling back, even on groceries",
+          "description": "Target CEO Brian Cornell joins 'Squawk Box' to discuss the challenges facing the retailer, from backlash around pride month merchandise and messaging, to the crunch consumers still face from high inflation, impact from organized retail crime, what he has learned from consumer behavior, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cXoQy5Fauvk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Target CEO Brian Cornell: Shoppers are pulling back, even on groceries",
+            "description": "Target CEO Brian Cornell joins 'Squawk Box' to discuss the challenges facing the retailer, from backlash around pride month merchandise and messaging, to the crunch consumers still face from high inflation, impact from organized retail crime, what he has learned from consumer behavior, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "244408",
+          "likeCount": "2149",
+          "favoriteCount": "0",
+          "commentCount": "1627"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PKH8TJ4wiYH4r4vR60sgrYOd6lQ",
+        "id": "vNfwxMeJ0gE",
+        "snippet": {
+          "publishedAt": "2023-11-03T11:00:49Z",
+          "channelId": "UCqwreS1wKG2l_K2ESOtIlyA",
+          "title": "On Target with CEO Brian Cornell at Evolve Global Summit 2023",
+          "description": "It has been a tough year for Target; contending with the Pride controversy, a surge in retail crime and a slowing consumer. For CEO Brian Cornell, staying on top of those challenges while also focusing on what the retail giant needs to do to stay competitive for the future is no easy task. In this expansive and candid interview, CNBC\u2019s Becky Quick speaks to Cornell about what\u2019s ahead for Target, plans for the stores and workforce and lessons he has learned over the past year that will help him navigate the future. \nSign up to watch all of CNBC\u2019s Evolve Global Summit exclusively on-demand: https://bit.ly/3QGNg1N\nMore from the CNBC Events: https://bit.ly/40ZdNd1\nSubscribe to the CNBC Events Marketing Newsletter here: https://cnb.cx/3nJqzht\nFollow on Twitter: https://twitter.com/cnbcevents\nFollow on LinkedIn: https://www.linkedin.com/showcase/cnbcevents",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vNfwxMeJ0gE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Events",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "On Target with CEO Brian Cornell at Evolve Global Summit 2023",
+            "description": "It has been a tough year for Target; contending with the Pride controversy, a surge in retail crime and a slowing consumer. For CEO Brian Cornell, staying on top of those challenges while also focusing on what the retail giant needs to do to stay competitive for the future is no easy task. In this expansive and candid interview, CNBC\u2019s Becky Quick speaks to Cornell about what\u2019s ahead for Target, plans for the stores and workforce and lessons he has learned over the past year that will help him navigate the future. \nSign up to watch all of CNBC\u2019s Evolve Global Summit exclusively on-demand: https://bit.ly/3QGNg1N\nMore from the CNBC Events: https://bit.ly/40ZdNd1\nSubscribe to the CNBC Events Marketing Newsletter here: https://cnb.cx/3nJqzht\nFollow on Twitter: https://twitter.com/cnbcevents\nFollow on LinkedIn: https://www.linkedin.com/showcase/cnbcevents"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1239",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jjA9BugzjrT4xM9XHwMVR5119GU",
+        "id": "Yr7PrztOqCc",
+        "snippet": {
+          "publishedAt": "2023-11-16T01:02:54Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Target CEO Brian Cornell goes one-on-one with Jim Cramer",
+          "description": "Target Chair and CEO Brian Cornell joins 'Mad Money' host Jim Cramer to talk quarterly earnings, consumer trends, retail theft and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Yr7PrztOqCc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Target CEO Brian Cornell goes one-on-one with Jim Cramer",
+            "description": "Target Chair and CEO Brian Cornell joins 'Mad Money' host Jim Cramer to talk quarterly earnings, consumer trends, retail theft and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12056",
+          "likeCount": "58",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

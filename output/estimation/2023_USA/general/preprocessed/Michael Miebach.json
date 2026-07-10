@@ -1,0 +1,813 @@
+{
+  "ceo": "Michael Miebach",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "taNpGUgie4_RNMGdZdUUNt2h8us",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 179,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WlsB2Nzr9EjBvd-wkNOWMiUOIFA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "37hWucJN3IE"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-18T16:59:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Resilience is the name of the game, says Mastercard CEO Michael Miebach",
+          "description": "CNBC's Sara Eisen talks with Mastercard CEO, Michael Miebach to discuss future of the company, banks, the consumer, inflation ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-18T16:59:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ruugVWLac02dxohYRK9WZ4L1qKI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MyA65qRoL78"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-25T15:33:44Z",
+          "channelId": "UC3uJIdRFTGgLWrUziaHbzrg",
+          "title": "B20 Summit India: Mastercard CEO Michael Miebach On Regulating Generative AI |  BQ Prime",
+          "description": "B20SummitIndia | #Mastercard CEO Michael Miebach speaks about regulating #GenerativeAI. For the latest news and updates, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NDTV Profit",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-25T15:33:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tQnPwbVQg4SEcYm88n0tW0rKTCs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fxSenwIbLh4"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-26T22:34:29Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "LIVE: Shereen Bhan In Conversation With Mastercard CEO Michael Miebach | B20 India | CNBC TV18",
+          "description": "Catch Shereen Bhan speaks with Mastercard CEO Michael Miebach on the sidelines of B20 India #mastercard #b20india #g20 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-26T22:34:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n3JbBjNh4wdVJoG0Y5Yc5uBGIl0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-gsdOTeKo2M"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-19T20:56:08Z",
+          "channelId": "UCxz9Qm3KmIILmDLfQ5a14Tg",
+          "title": "Leading for Innovation and Inclusion featuring Mastercard CEO Michael Miebach and Makhtar Diop",
+          "description": "We are living through a time of overwhelming complexity \u2013 achieving new heights of technological and scientific innovation ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mastercard News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-19T20:56:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pgjXEMnrbw6ms8yfn99qqGcZSf0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BnAihcIyuR8"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-28T12:15:11Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Game-Changer: How Michael Miebach is Revolutionizing the Financial Services Industry",
+          "description": "Welcome to Mindful Thoughts! in this video on Michael Miebach, the CEO of Mastercard. We will take a look at Miebach's career ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-28T12:15:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bY_4PB0yOgihMugTCp-2jcjtqV8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FU__s-IaniQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-27T17:30:08Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Mastercard CEO Michael Miebach On Growth, Fin Tech &amp; Much More | EXCLUSIVE | B 20 India | CNBC TV18",
+          "description": "Catch Shereen Bhan speaks with Mastercard CEO Michael Miebach on the sidelines of B20 India #mastercard #b20india #g20 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-27T17:30:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oTRngdmWmcURP86YC3xsQO4A9SE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hmCFX0bBjfI"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-10T14:00:32Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "How Michael Miebach Stand Out as Business Leaders!! #mastercard #thoughts #ceo #mindset #insight",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-10T14:00:32Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "QVIKM_cEUUkW99oYZvVeMduCs7E",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "zOAobWHtoCQsxVleLp-msYLzdvw",
+        "id": "37hWucJN3IE",
+        "snippet": {
+          "publishedAt": "2023-01-18T16:59:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Resilience is the name of the game, says Mastercard CEO Michael Miebach",
+          "description": "CNBC's Sara Eisen talks with Mastercard CEO, Michael Miebach to discuss future of the company, banks, the consumer, inflation and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/37hWucJN3IE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "app",
+            "business news",
+            "cnbc",
+            "digital",
+            "disrupt",
+            "funding",
+            "innovation",
+            "investors",
+            "nasdaq",
+            "nyse",
+            "online",
+            "silicon valley",
+            "startup",
+            "stock market",
+            "tech",
+            "techcheck",
+            "technology",
+            "venture",
+            "wall street"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Resilience is the name of the game, says Mastercard CEO Michael Miebach",
+            "description": "CNBC's Sara Eisen talks with Mastercard CEO, Michael Miebach to discuss future of the company, banks, the consumer, inflation and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3482",
+          "likeCount": "22",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_PIyr6EmzpWUWp5dS7SqyeCjVrM",
+        "id": "MyA65qRoL78",
+        "snippet": {
+          "publishedAt": "2023-08-25T15:33:44Z",
+          "channelId": "UC3uJIdRFTGgLWrUziaHbzrg",
+          "title": "B20 Summit India: Mastercard CEO Michael Miebach On Regulating Generative AI |  BQ Prime",
+          "description": "#B20SummitIndia | #Mastercard CEO Michael Miebach speaks about regulating #GenerativeAI. \n\nFor the latest news and updates, visit: http://bqprime.com\n\n--------------------------------------------------------------------------------------------------------------------\nFor more videos subscribe to our channel: http://bit.ly/32JXa74\nVisit BQ Prime for more news: https://www.bqprime.com/\nDon't enter the stock market unaware. Read all Research Reports here: https://www.bqprime.com/research-reports\n\nFor the latest business news and analysis\nSubscribe to our Newsletters here: https://www.bqprime.com/my-bq/newsletter\nSubscribe to our Telegram channel: https://t.me/BQPrime\n\nFollow BQ Prime here\nTwitter: https://twitter.com/bqprime\nFacebook: https://www.facebook.com/BQPrime/\nLinkedIn: https://www.linkedin.com/company/13184554/\nInstagram: https://www.instagram.com/bqprime/\nPinterest: https://in.pinterest.com/BQPrimeNews/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MyA65qRoL78/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NDTV Profit",
+          "tags": [
+            "Bloomberg",
+            "BloombergQuint",
+            "Business",
+            "India",
+            "News",
+            "bqprime",
+            "BQ Prime",
+            "BQ Prime Videos",
+            "BQ Prime Uploads",
+            "News & media",
+            "Business News",
+            "Economy News",
+            "India News",
+            "BQ Prime Hindi",
+            "Markets",
+            "Stocks",
+            "Breaking News",
+            "Economy",
+            "BQ Prime powered by Bloomberg",
+            "B20 Summit India",
+            "B20",
+            "B20 Summit",
+            "Mastercard",
+            "Michael Miebach"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "B20 Summit India: Mastercard CEO Michael Miebach On Regulating Generative AI |  BQ Prime",
+            "description": "#B20SummitIndia | #Mastercard CEO Michael Miebach speaks about regulating #GenerativeAI. \n\nFor the latest news and updates, visit: http://bqprime.com\n\n--------------------------------------------------------------------------------------------------------------------\nFor more videos subscribe to our channel: http://bit.ly/32JXa74\nVisit BQ Prime for more news: https://www.bqprime.com/\nDon't enter the stock market unaware. Read all Research Reports here: https://www.bqprime.com/research-reports\n\nFor the latest business news and analysis\nSubscribe to our Newsletters here: https://www.bqprime.com/my-bq/newsletter\nSubscribe to our Telegram channel: https://t.me/BQPrime\n\nFollow BQ Prime here\nTwitter: https://twitter.com/bqprime\nFacebook: https://www.facebook.com/BQPrime/\nLinkedIn: https://www.linkedin.com/company/13184554/\nInstagram: https://www.instagram.com/bqprime/\nPinterest: https://in.pinterest.com/BQPrimeNews/"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1M13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "283",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4UGOp0DpwMKN0igufZa2hh2fFrU",
+        "id": "fxSenwIbLh4",
+        "snippet": {
+          "publishedAt": "2023-08-26T22:34:29Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "LIVE: Shereen Bhan In Conversation With Mastercard CEO Michael Miebach | B20 India | CNBC TV18",
+          "description": "Catch Shereen Bhan speaks with Mastercard CEO Michael Miebach on the sidelines of B20 India\n\n#mastercard #b20india #g20 #cnbctv18live #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nRead More: https://www.cnbctv18.com/business/g20-b20-mastercard-india-offers-bigger-digital-growth-opportunity-ceo-17644501.htm\n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fxSenwIbLh4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "b 20 india",
+            "mastercard ceo michael miebach",
+            "mastercard ceo michael miebach exclusive",
+            "michael miebach exclusive",
+            "mastercard ceo michael miebach india visit",
+            "mastercard ceo michael miebach in india",
+            "mastercard ceo michael miebachs first india visit",
+            "michael miebach exclusive on plans for india",
+            "michael miebach on indian economy",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC tv18 live",
+            "Financial News",
+            "live news",
+            "top news live"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "LIVE: Shereen Bhan In Conversation With Mastercard CEO Michael Miebach | B20 India | CNBC TV18",
+            "description": "Catch Shereen Bhan speaks with Mastercard CEO Michael Miebach on the sidelines of B20 India\n\n#mastercard #b20india #g20 #cnbctv18live #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nRead More: https://www.cnbctv18.com/business/g20-b20-mastercard-india-offers-bigger-digital-growth-opportunity-ceo-17644501.htm\n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT19M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1341",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ESagvubOsPVtT-uV15c8C6-MMcg",
+        "id": "-gsdOTeKo2M",
+        "snippet": {
+          "publishedAt": "2023-04-19T20:56:08Z",
+          "channelId": "UCxz9Qm3KmIILmDLfQ5a14Tg",
+          "title": "Leading for Innovation and Inclusion featuring Mastercard CEO Michael Miebach and Makhtar Diop",
+          "description": "We are living through a time of overwhelming complexity \u2013 achieving new heights of technological and scientific innovation against a backdrop of overlapping global crises and uncertainty. How can leaders help navigate this environment by keeping trust and inclusion front and center for their organizations, their customers, stakeholders and the broader global community. Join Mastercard CEO Michael Miebach and IFC Managing Director Makhtar Diop for a discussion on leadership and transformative power of innovation, technology and trust to address the challenges before us.\n\nFor more information, please visit: https://globalinclusivegrowthsummit.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-gsdOTeKo2M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mastercard News",
+          "tags": [
+            "Michael Miebach",
+            "Makhtar Diop",
+            "Mastercard",
+            "Mastercard CEO",
+            "IFC",
+            "International Finance Corporation",
+            "Inclusive Growth",
+            "Global Inclusive Growth Summit",
+            "Diversity Equity Inclusion",
+            "Impact Data Science",
+            "Financial Inclusion",
+            "Center for Inclusive Growth"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Leading for Innovation and Inclusion featuring Mastercard CEO Michael Miebach and Makhtar Diop",
+            "description": "We are living through a time of overwhelming complexity \u2013 achieving new heights of technological and scientific innovation against a backdrop of overlapping global crises and uncertainty. How can leaders help navigate this environment by keeping trust and inclusion front and center for their organizations, their customers, stakeholders and the broader global community. Join Mastercard CEO Michael Miebach and IFC Managing Director Makhtar Diop for a discussion on leadership and transformative power of innovation, technology and trust to address the challenges before us.\n\nFor more information, please visit: https://globalinclusivegrowthsummit.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1849",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tFODOF8s9WZIDK9byJe78otGJIU",
+        "id": "BnAihcIyuR8",
+        "snippet": {
+          "publishedAt": "2023-02-28T12:15:11Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Game-Changer: How Michael Miebach is Revolutionizing the Financial Services Industry",
+          "description": "Welcome to Mindful Thoughts! in this video on Michael Miebach, the CEO of Mastercard. We will take a look at Miebach's career history and mindset, to understand how he became a successful and influential business leader.\n\nMichael Miebach was born in Germany and holds a degree in economics from the University of Bonn. He began his career in banking at Deutsche Bank, where he worked in various roles for almost a decade. In 2001, Miebach moved to Citigroup, where he spent nine years in leadership positions in the bank's credit card business in Europe, the Middle East, and Africa. During his time at Citigroup, Miebach helped launch several new credit card products and led the bank's acquisition of the Egg credit card business in the UK.\n\nIn 2010, Miebach joined Mastercard as Division President for the company's Middle East and Africa region. He subsequently held leadership roles in other regions, including serving as President of Mastercard's North American markets and as Chief Product Officer. In March 2020, Miebach was appointed President of Mastercard, and he became the company's CEO in January 2021, succeeding Ajay Banga.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BnAihcIyuR8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "tags": [
+            "Michael Miebach",
+            "MasterCard",
+            "Ceo",
+            "Career",
+            "principles",
+            "mindset",
+            "finance",
+            "thought",
+            "financial business",
+            "thoughts",
+            "influential people",
+            "influential person",
+            "Miebach"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Game-Changer: How Michael Miebach is Revolutionizing the Financial Services Industry",
+            "description": "Welcome to Mindful Thoughts! in this video on Michael Miebach, the CEO of Mastercard. We will take a look at Miebach's career history and mindset, to understand how he became a successful and influential business leader.\n\nMichael Miebach was born in Germany and holds a degree in economics from the University of Bonn. He began his career in banking at Deutsche Bank, where he worked in various roles for almost a decade. In 2001, Miebach moved to Citigroup, where he spent nine years in leadership positions in the bank's credit card business in Europe, the Middle East, and Africa. During his time at Citigroup, Miebach helped launch several new credit card products and led the bank's acquisition of the Egg credit card business in the UK.\n\nIn 2010, Miebach joined Mastercard as Division President for the company's Middle East and Africa region. He subsequently held leadership roles in other regions, including serving as President of Mastercard's North American markets and as Chief Product Officer. In March 2020, Miebach was appointed President of Mastercard, and he became the company's CEO in January 2021, succeeding Ajay Banga."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "99",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tB5xJfHnOqGtvjZ1uXavslEKN4g",
+        "id": "FU__s-IaniQ",
+        "snippet": {
+          "publishedAt": "2023-08-27T17:30:08Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Mastercard CEO Michael Miebach On Growth, Fin Tech & Much More | EXCLUSIVE | B 20 India | CNBC TV18",
+          "description": "Catch Shereen Bhan speaks with Mastercard CEO Michael Miebach on the sidelines of B20 India\n\n#mastercard #b20india #g20 #cnbctv18live #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FU__s-IaniQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "b 20 india",
+            "mastercard ceo michael miebach",
+            "mastercard ceo michael miebach exclusive",
+            "michael miebach exclusive",
+            "mastercard ceo michael miebach india visit",
+            "mastercard ceo michael miebach in india",
+            "mastercard ceo michael miebachs first india visit",
+            "michael miebach exclusive on plans for india",
+            "michael miebach on indian economy",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC tv18 live",
+            "Financial News",
+            "live news",
+            "top news live"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Mastercard CEO Michael Miebach On Growth, Fin Tech & Much More | EXCLUSIVE | B 20 India | CNBC TV18",
+            "description": "Catch Shereen Bhan speaks with Mastercard CEO Michael Miebach on the sidelines of B20 India\n\n#mastercard #b20india #g20 #cnbctv18live #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\n\ud83d\udd34CNBC TV18 LIVE TV: https://youtube.com/live/P857H4ej-MQ\nSUBSCRIBE to our Channel: https://bit.ly/3nvEcxf\n---------------------------------------------------------------------------------------------------------------------\n                               \ud83d\udc51 Check Out Top CNBC TV18 Playlist Videos: \n\n\ud83d\udd39CNBC TV18 Classic Interviews: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDmfXVg7XEQngsCY9RoS-fv\n\n\ud83d\udd39CNBC TV18 Digital: https://www.youtube.com/playlist?list=PLjq9mRS1PfGDCcaVZ_82M9vhLo9lGJYzo\n\n\ud83d\udd39CNBC TV18 Weekend Special: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBHEa5NnoKuUsX5GwxEGuri\n\n\ud83d\udd39CNBC TV18 Next-Gen: https://www.youtube.com/playlist?list=PLjq9mRS1PfGA6roe9q3J9fq_gBIDjX2w7\n\n\ud83d\udd39Overdrive Show: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCnSVjfbWfNCJLrv-CqfGmH\n\ud83d\udd39CNBC TV18 Newsreels: https://www.youtube.com/playlist?list=PLjq9mRS1PfGCmABWWQRX4NqGLCtScwqex\n\n\ud83d\udd39Young Turks: https://www.youtube.com/playlist?list=PLjq9mRS1PfGBZaN1e38X2ZmevnU1e1NJs\n\n\ud83d\udd39Starup Streets: https://www.youtube.com/playlist?list=PLjq9mRS1PfGD3CzrtMr_VJRbIly6sfyFI\n\n------------------------------------------------------------------------------------\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT10M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1770",
+          "likeCount": "30",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "O-TcuQUQKSpQdu4qM7FaxWlFcmA",
+        "id": "hmCFX0bBjfI",
+        "snippet": {
+          "publishedAt": "2023-04-10T14:00:32Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "How Michael Miebach Stand Out as Business Leaders!! #mastercard #thoughts #ceo #mindset #insight",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hmCFX0bBjfI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Michael Miebach Stand Out as Business Leaders!! #mastercard #thoughts #ceo #mindset #insight",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "698",
+          "likeCount": "16",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

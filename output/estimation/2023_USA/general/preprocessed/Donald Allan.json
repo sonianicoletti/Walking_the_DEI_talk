@@ -1,0 +1,215 @@
+{
+  "ceo": "Donald Allan",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "sgq3kTxNlY21R1ffGIhyuJ4hugk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 20494,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SkUSDIOkJruT9LuDSRbk-c5tp2U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E7Y_nNqlfGg"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-11T18:44:18Z",
+          "channelId": "UCTXCRyvHbmcrPUEBqoRSxWQ",
+          "title": "Lessons for Your Business Toolbox: Stanley Black &amp; Decker President &amp; CEO Donald Allan Jr.",
+          "description": "The Travelers Institute, the public policy division of Travelers, hosted a webinar with Stanley Black & Decker President and CEO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Travelers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-11T18:44:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gb96LTv1H18BwfoF1zPai4w6xQE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZA6sAZmTTeM"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-13T15:51:22Z",
+          "channelId": "UC6ChRxRX-mop_jeqfOSbA2w",
+          "title": "Investing in Employees: Donald Allan, Jr., President &amp; CEO of Stanley Black &amp; Decker",
+          "description": "Business Roundtable member Donald Allan, Jr., President & Chief Executive Officer of Stanley Black & Decker, on building ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Business Roundtable",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-13T15:51:22Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "7kZzCVuOwi65QaOY7B-AoRn2HaY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "MY85vxOtdBK13hklHT36W_9YvLQ",
+        "id": "E7Y_nNqlfGg",
+        "snippet": {
+          "publishedAt": "2023-04-11T18:44:18Z",
+          "channelId": "UCTXCRyvHbmcrPUEBqoRSxWQ",
+          "title": "Lessons for Your Business Toolbox: Stanley Black & Decker President & CEO Donald Allan Jr.",
+          "description": "The Travelers Institute, the public policy division of Travelers, hosted a webinar with Stanley Black & Decker President and CEO Donald Allan Jr. The session explored what it\u2019s like to lead a major manufacturing company in 2023. The discussion touched on supply chain, inflation, innovation, social responsibility and how today\u2019s corporate leaders can succeed while providing value to all stakeholders.\n\nThe Travelers Institute\u2019s webinar series explores pressing topics at the intersection of insurance, business and public policy. Learn more: https://travl.rs/3mQ3wRR.\n\nPresented by the Travelers Institute, the MetroHartford Alliance, the Master's in Financial Technology (FinTech) Program at the University of Connecticut School of Business, the Connecticut Business & Industry Association and the Insurance Association of Connecticut.\n\nView descriptive transcript: https://travl.rs/3nWnqLp\n\n0:00 \u2013 Welcome.\n8:24 \u2013 Create organizational change by valuing quality over quantity. \n15:33 \u2013 Allan on what makes a good leader:\n20:27 \u2013 Stretch by putting yourself in uncomfortable situations. \n23:20 \u2013 The challenge of running a global manufacturing company. \n53:51 \u2013 What\u2019s the CEO\u2019s favorite Stanley Black & Decker product?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E7Y_nNqlfGg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Travelers",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lessons for Your Business Toolbox: Stanley Black & Decker President & CEO Donald Allan Jr.",
+            "description": "The Travelers Institute, the public policy division of Travelers, hosted a webinar with Stanley Black & Decker President and CEO Donald Allan Jr. The session explored what it\u2019s like to lead a major manufacturing company in 2023. The discussion touched on supply chain, inflation, innovation, social responsibility and how today\u2019s corporate leaders can succeed while providing value to all stakeholders.\n\nThe Travelers Institute\u2019s webinar series explores pressing topics at the intersection of insurance, business and public policy. Learn more: https://travl.rs/3mQ3wRR.\n\nPresented by the Travelers Institute, the MetroHartford Alliance, the Master's in Financial Technology (FinTech) Program at the University of Connecticut School of Business, the Connecticut Business & Industry Association and the Insurance Association of Connecticut.\n\nView descriptive transcript: https://travl.rs/3nWnqLp\n\n0:00 \u2013 Welcome.\n8:24 \u2013 Create organizational change by valuing quality over quantity. \n15:33 \u2013 Allan on what makes a good leader:\n20:27 \u2013 Stretch by putting yourself in uncomfortable situations. \n23:20 \u2013 The challenge of running a global manufacturing company. \n53:51 \u2013 What\u2019s the CEO\u2019s favorite Stanley Black & Decker product?"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H1M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1309",
+          "likeCount": "6",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4fbMuY35osQbGB3De2mJTQbCyZA",
+        "id": "ZA6sAZmTTeM",
+        "snippet": {
+          "publishedAt": "2023-09-13T15:51:22Z",
+          "channelId": "UC6ChRxRX-mop_jeqfOSbA2w",
+          "title": "Investing in Employees: Donald Allan, Jr., President & CEO of Stanley Black & Decker",
+          "description": "Business Roundtable member Donald Allan, Jr., President & Chief Executive Officer of Stanley Black & Decker, on building sustainable workforce programs: \u201cThe Workplace Partnership Initiative reflects the importance of public-private partnerships in establishing sustainable workforce programs. Business-led collaborative programs have the capacity to be agile and create scale. A more effective approach is to get everyone engaged\u2014businesses, government, technical schools, vocational schools, community colleges, and labor\u2014to work together to build out programs that are more responsive to the current needs.\u201d",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZA6sAZmTTeM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Business Roundtable",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Investing in Employees: Donald Allan, Jr., President & CEO of Stanley Black & Decker",
+            "description": "Business Roundtable member Donald Allan, Jr., President & Chief Executive Officer of Stanley Black & Decker, on building sustainable workforce programs: \u201cThe Workplace Partnership Initiative reflects the importance of public-private partnerships in establishing sustainable workforce programs. Business-led collaborative programs have the capacity to be agile and create scale. A more effective approach is to get everyone engaged\u2014businesses, government, technical schools, vocational schools, community colleges, and labor\u2014to work together to build out programs that are more responsive to the current needs.\u201d"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1070",
+          "likeCount": "6",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "ceo": "David M. Cordani",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "qN2swDoqMvJk5emapopFOkzENeg",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eOEGvhB9Fk3vHaUh0dwNGRfVaO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tRgek1aHnpA"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-09T18:26:03Z",
+          "channelId": "UCzzyFiG6cbWqrXD2Sp8j9Cw",
+          "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+          "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC's Mad Money for an ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cigna Healthcare",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-09T18:26:03Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "pRBEsGojLJ-OaysZHa7TnVtmmhI",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ZgArGl8YIu2P9kICPbwUrUHl_zs",
+        "id": "tRgek1aHnpA",
+        "snippet": {
+          "publishedAt": "2023-05-09T18:26:03Z",
+          "channelId": "UCzzyFiG6cbWqrXD2Sp8j9Cw",
+          "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+          "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC\u2019s Mad Money for an interview with host Jim Cramer. \nWatch the full interview below, which covered:   \nPharmacy Benefit Managers (PBMs): Overall growth in our business, our commitment to transparency, and positive outcomes for patients. \nWho we serve: Employers of all sizes, independent health plans, hospital systems, and government agencies. \nBiosimilars: Affordability and choice for patients and customers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tRgek1aHnpA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cigna Healthcare",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CNBC Mad Money Interview Featuring David Cordani, Chairman and CEO of The Cigna Group",
+            "description": "After sharing our Q1 2023 results, David Cordani, chairman and CEO of The Cigna Group, joined CNBC\u2019s Mad Money for an interview with host Jim Cramer. \nWatch the full interview below, which covered:   \nPharmacy Benefit Managers (PBMs): Overall growth in our business, our commitment to transparency, and positive outcomes for patients. \nWho we serve: Employers of all sizes, independent health plans, hospital systems, and government agencies. \nBiosimilars: Affordability and choice for patients and customers."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2712",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

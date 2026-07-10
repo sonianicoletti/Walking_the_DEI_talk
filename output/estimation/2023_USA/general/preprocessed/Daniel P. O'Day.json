@@ -1,0 +1,22 @@
+{
+  "ceo": "Daniel P. O'Day",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "qoPDUgcffuO-_0HTmGGo9HO7d_k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 7
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "t1TTLs8CRXQX9WrrNG-NlXZ_xeI",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 7,
+      "resultsPerPage": 7
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "Willie Chiang",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "bsnX4DRmvbP_j3LhaWMW6NZ2VJk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 490,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Z-4e-LCQ5eaSnPLQkJBskP6Eh_w",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

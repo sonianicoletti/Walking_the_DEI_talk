@@ -1,0 +1,22 @@
+{
+  "ceo": "Jack A. Fusco",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wcsbuPqREha35SUK4Dx3wwjDC2M",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 310,
+      "resultsPerPage": 25
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kZmky_2wizaeTYaC3KIjHEdagN4",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 25,
+      "resultsPerPage": 25
+    }
+  }
+}

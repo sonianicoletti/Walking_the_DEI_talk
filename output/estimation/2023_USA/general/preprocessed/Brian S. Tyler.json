@@ -1,0 +1,819 @@
+{
+  "ceo": "Brian S. Tyler",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "5Q5OAYL0Ugqf8NVED3yzAhET5WM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 688598,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DVce2eBWeztk7fFSP7exvKwNCro",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wfo-y5o4PlQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-09T20:00:30Z",
+          "channelId": "UCoBSi6AOGXWb_NBIGNHP9Qw",
+          "title": "Brian Tyler on Working With Taylor Sheridan | Yellowstone | Paramount Network",
+          "description": "\"[Taylor Sheridan] is kind of this really cool director that he puts music at the forefront.\" Get Yellowstone season 5, part 1 now: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yellowstone Universe",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-09T20:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8TWtxBptTc-Xh4QnzHElsd8jZp0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qHvvhhJtZyw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-05T12:00:40Z",
+          "channelId": "UCPIHhuAmWjSHt27i9pp-OKw",
+          "title": "Brian Tyler on Scoring The Super Mario Bros Movie, Awakening at Wynn, Are We Dreaming, and More!",
+          "description": "John chats with composer Brian Tyler on Awakening, Are We Dreaming, The Super Mario Bros. Movie, Magic, Breakdancing ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Nerd Reactor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-05T12:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TRNyak5aLMcXwNJAsopxjrqyklI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GZukj47TX2Y"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-30T19:03:10Z",
+          "channelId": "UCDYcczgXCL1pdDQAxIofCXA",
+          "title": "Brian Tyler on CBS&#39;s &quot;The Morning Wrap&quot; Discussing the Music for Super Mario Bros Movie and Fast X",
+          "description": "Brian Tyler was the guest on \"The Morning Wrap\" on CBS in May 2023 discussing career, in particular his films Fast X and Super ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brian Tyler (ARE WE DREAMING)",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-30T19:03:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8YLYbPbRr9hpkFrRQthVySrKpKM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2wcTL6D1ZqM"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T17:40:56Z",
+          "channelId": "UCkH1uDkyuO9sVjSqdqBygOg",
+          "title": "The Lot: &#39;Rock star composer&#39; Brian Tyler",
+          "description": "If there's such a thing as a \"rock star composer,\" Brian Tyler is certainly it. He has scored some of the biggest box office hits of all ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CBS LA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T17:40:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gQlJOkTWYlrNVjS3ga9Hq4fSfXI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FErOC7F5e_g"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-03T05:03:43Z",
+          "channelId": "UCjiGHzoTdJv10m3bwKWf6ew",
+          "title": "Brian Tyler: THE SUPER MARIO BROS. MOVIE",
+          "description": "Don't wait in line! Buy movie tickets in over 60 countries at http://movie-times.net. Plus interviews with the people who make the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Movie Times",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-03T05:03:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tzjM57tMdbHrM0pbjvzgGonB-I0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YCcyt-05sJk"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-16T14:00:20Z",
+          "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+          "title": "DEVASTATING caller: Brian Tyler Cohen is way hotter than you #shorts",
+          "description": "Voicemail caller says that David is smug and full of himself, and Brian Tyler Cohen is \"way hotter\" --- Become a Member: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "David Pakman Show",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-16T14:00:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "haP3vXtsBVS9xyWFE6SOXGsB_Lc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VRXaV0GSKN0"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-21T18:00:12Z",
+          "channelId": "UCKRoXz3hHAu2XL_k3Ef4vJQ",
+          "title": "Ranking Fox News DUMBEST Stories with Brian Tyler Cohen and Tommy Vietor | Liberal Tiers",
+          "description": "Former Obama spokesperson Tommy Vietor and political commentator Brian Tyler Cohen Draft the Dumbest Fox News Stories ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pod Save America",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-21T18:00:12Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "a2LOgyS7cEUd-papMha3PqLA5do",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "QWqIEbmOowwvoxFJZpbBaZxda8A",
+        "id": "wfo-y5o4PlQ",
+        "snippet": {
+          "publishedAt": "2023-05-09T20:00:30Z",
+          "channelId": "UCoBSi6AOGXWb_NBIGNHP9Qw",
+          "title": "Brian Tyler on Working With Taylor Sheridan | Yellowstone | Paramount Network",
+          "description": "\"[Taylor Sheridan] is kind of this really cool director that he puts music at the forefront.\" Get Yellowstone season 5, part 1 now: https://amzn.to/3NQqq6W\n\n#YellowstoneTV  #ParamountNetwork\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\nSubscribe for More! https://bit.ly/2JLjjeO\n\nListen to The Official Yellowstone Podcast. Available wherever you get your podcasts: https://link.chtbl.com/vcz68eL0\n\nFollow Yellowstone\nFacebook: https://www.facebook.com/yellowstoneparamount/\nInstagram: https://www.instagram.com/yellowstone/\nTwitter: https://twitter.com/yellowstone\nTikTok: https://www.tiktok.com/@yellowstone",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wfo-y5o4PlQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yellowstone Universe",
+          "tags": [
+            "yellowstone season 5",
+            "kevin costner",
+            "dutton family",
+            "yellowstone love",
+            "recap",
+            "yellowstone recap",
+            "best moments Yellowstone",
+            "yellowstone",
+            "yellowstone paramount network",
+            "paramount",
+            "paramount tv show",
+            "cowboy",
+            "yellowstone tv show",
+            "yellowstone new episodes",
+            "wes bentley",
+            "kelly reilly",
+            "luke grimes",
+            "cole hauser",
+            "cory dutton",
+            "taylor sheridan",
+            "gil birmingham",
+            "finale",
+            "best of yellowstone",
+            "rip wheeler",
+            "Yellowstone",
+            "full episode",
+            "yellowstone full episode"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian Tyler on Working With Taylor Sheridan | Yellowstone | Paramount Network",
+            "description": "\"[Taylor Sheridan] is kind of this really cool director that he puts music at the forefront.\" Get Yellowstone season 5, part 1 now: https://amzn.to/3NQqq6W\n\n#YellowstoneTV  #ParamountNetwork\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\nSubscribe for More! https://bit.ly/2JLjjeO\n\nListen to The Official Yellowstone Podcast. Available wherever you get your podcasts: https://link.chtbl.com/vcz68eL0\n\nFollow Yellowstone\nFacebook: https://www.facebook.com/yellowstoneparamount/\nInstagram: https://www.instagram.com/yellowstone/\nTwitter: https://twitter.com/yellowstone\nTikTok: https://www.tiktok.com/@yellowstone"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "49681",
+          "likeCount": "383",
+          "favoriteCount": "0",
+          "commentCount": "30"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2atY8GjpUMPEll6cr-iw3grYJ9E",
+        "id": "qHvvhhJtZyw",
+        "snippet": {
+          "publishedAt": "2023-05-05T12:00:40Z",
+          "channelId": "UCPIHhuAmWjSHt27i9pp-OKw",
+          "title": "Brian Tyler on Scoring The Super Mario Bros Movie, Awakening at Wynn, Are We Dreaming, and More!",
+          "description": "John chats with composer Brian Tyler on Awakening, Are We Dreaming, The Super Mario Bros. Movie, Magic, Breakdancing, Meeting Shigeru & Koji Kondo, Collecting Gaming Magazines, Children of Dune, and More.\n\nAre We Dreaming: https://www.arewedreaming.com/\nAwakening at Wynn: https://www.wynnlasvegas.com/entertainment/awakening",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qHvvhhJtZyw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nerd Reactor",
+          "tags": [
+            "The Super Mario Bros. Movie",
+            "Brian Tyler",
+            "Composer",
+            "Interview",
+            "Awakening at Wynn",
+            "Are We Dreaming",
+            "Shigeru Miyamoto",
+            "Nintendo"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian Tyler on Scoring The Super Mario Bros Movie, Awakening at Wynn, Are We Dreaming, and More!",
+            "description": "John chats with composer Brian Tyler on Awakening, Are We Dreaming, The Super Mario Bros. Movie, Magic, Breakdancing, Meeting Shigeru & Koji Kondo, Collecting Gaming Magazines, Children of Dune, and More.\n\nAre We Dreaming: https://www.arewedreaming.com/\nAwakening at Wynn: https://www.wynnlasvegas.com/entertainment/awakening"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT48M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "217",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_XD9_sxaffru9Ilx9hEwYrsRlEw",
+        "id": "GZukj47TX2Y",
+        "snippet": {
+          "publishedAt": "2023-05-30T19:03:10Z",
+          "channelId": "UCDYcczgXCL1pdDQAxIofCXA",
+          "title": "Brian Tyler on CBS's \"The Morning Wrap\" Discussing the Music for Super Mario Bros Movie and Fast X",
+          "description": "Brian Tyler was the guest on \"The Morning Wrap\" on CBS in May 2023 discussing career,  in particular his films Fast X and Super Mario Bros Movie. \n\n#BrianTyler #FastX #SuperMarioBrosMovie",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GZukj47TX2Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brian Tyler (ARE WE DREAMING)",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian Tyler on CBS's \"The Morning Wrap\" Discussing the Music for Super Mario Bros Movie and Fast X",
+            "description": "Brian Tyler was the guest on \"The Morning Wrap\" on CBS in May 2023 discussing career,  in particular his films Fast X and Super Mario Bros Movie. \n\n#BrianTyler #FastX #SuperMarioBrosMovie"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17313",
+          "favoriteCount": "0",
+          "commentCount": "37"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aHs58BCcFPqx2oLvpmbQ4BV1pFA",
+        "id": "2wcTL6D1ZqM",
+        "snippet": {
+          "publishedAt": "2023-03-29T17:40:56Z",
+          "channelId": "UCkH1uDkyuO9sVjSqdqBygOg",
+          "title": "The Lot: 'Rock star composer' Brian Tyler",
+          "description": "If there\u2019s such a thing as a \"rock star composer,\" Brian Tyler is certainly it. He has scored some of the biggest box office hits of all time, from \"Crazy Rich Asians\" to Marvel movies. His latest film score is the new Super Mario Brothers movie. Suzanne Marques has more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2wcTL6D1ZqM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CBS LA",
+          "tags": [
+            "Eye On Entertainment",
+            "The Lot - Segments"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Lot: 'Rock star composer' Brian Tyler",
+            "description": "If there\u2019s such a thing as a \"rock star composer,\" Brian Tyler is certainly it. He has scored some of the biggest box office hits of all time, from \"Crazy Rich Asians\" to Marvel movies. His latest film score is the new Super Mario Brothers movie. Suzanne Marques has more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "669",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pdk7Uxxi0iOdxE_QNLOvI0d0Fcw",
+        "id": "FErOC7F5e_g",
+        "snippet": {
+          "publishedAt": "2023-04-03T05:03:43Z",
+          "channelId": "UCjiGHzoTdJv10m3bwKWf6ew",
+          "title": "Brian Tyler: THE SUPER MARIO BROS. MOVIE",
+          "description": "Don't wait in line! Buy movie tickets in over 60 countries at http://movie-times.net. Plus interviews with the people who make the movies you love, international film festival coverage, global box office and news, and the world's greatest video store! We deliver!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FErOC7F5e_g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Movie Times",
+          "tags": [
+            "movie times",
+            "movie tickets",
+            "gift cards",
+            "videos",
+            "DVD",
+            "blu-ray",
+            "sex",
+            "porn",
+            "nudity",
+            "naked"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Brian Tyler: THE SUPER MARIO BROS. MOVIE",
+            "description": "Don't wait in line! Buy movie tickets in over 60 countries at http://movie-times.net. Plus interviews with the people who make the movies you love, international film festival coverage, global box office and news, and the world's greatest video store! We deliver!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "786",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kSJ-gp4DsgeCOr5S8GrUoVo6v90",
+        "id": "YCcyt-05sJk",
+        "snippet": {
+          "publishedAt": "2023-07-16T14:00:20Z",
+          "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+          "title": "DEVASTATING caller: Brian Tyler Cohen is way hotter than you #shorts",
+          "description": "-- Voicemail caller says that David is smug and full of himself, and Brian Tyler Cohen is \"way hotter\"\n---\nBecome a Member: https://www.davidpakman.com/membership\nBecome a Patron: https://www.patreon.com/davidpakmanshow\nBook David Pakman: https://www.cameo.com/davidpakman\n---\nDavid on Instagram: http://www.instagram.com/david.pakman\nDavid on Threads: https://www.threads.net/@david.pakman\nTDPS Subreddit: http://www.reddit.com/r/thedavidpakmanshow/\nPakman Discord: https://www.davidpakman.com/discord\nFacebook: http://www.facebook.com/davidpakmanshow\nLeave a Voicemail Line: (219)-2DAVIDP\n---\nDavid's tech:\n- Camera: Sony PXW-X70 https://amzn.to/3emv1v1\n- Microphone: Shure SM7B: https://amzn.to/3hEVtSH\n- Voice Processor: dbx 266xs https://amzn.to/3B1SV8N\n- Stream Controller: Elgato Stream Deck https://amzn.to/3B4jPNq\n- Microphone Cloudlifter: https://amzn.to/2T9bhne\n\n-Timely news is important! We upload new clips every day! Make sure to subscribe!\n\nBroadcast on July 10, 2023\n\n#davidpakmanshow #davidpakman",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YCcyt-05sJk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "David Pakman Show",
+          "tags": [
+            "david pakman brian tyler cohen",
+            "independent media",
+            "progressive",
+            "liberal",
+            "social democracy",
+            "democratic socialism",
+            "socialism",
+            "the young turks",
+            "kyle kulinski",
+            "majoirty report",
+            "sam seder",
+            "jimmy dore",
+            "joe rogan",
+            "tim pool",
+            "steven crowder",
+            "ben shapiro",
+            "hatriot mail",
+            "hate mail",
+            "live calller",
+            "live call",
+            "voicemail",
+            "biden",
+            "trump"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DEVASTATING caller: Brian Tyler Cohen is way hotter than you #shorts",
+            "description": "-- Voicemail caller says that David is smug and full of himself, and Brian Tyler Cohen is \"way hotter\"\n---\nBecome a Member: https://www.davidpakman.com/membership\nBecome a Patron: https://www.patreon.com/davidpakmanshow\nBook David Pakman: https://www.cameo.com/davidpakman\n---\nDavid on Instagram: http://www.instagram.com/david.pakman\nDavid on Threads: https://www.threads.net/@david.pakman\nTDPS Subreddit: http://www.reddit.com/r/thedavidpakmanshow/\nPakman Discord: https://www.davidpakman.com/discord\nFacebook: http://www.facebook.com/davidpakmanshow\nLeave a Voicemail Line: (219)-2DAVIDP\n---\nDavid's tech:\n- Camera: Sony PXW-X70 https://amzn.to/3emv1v1\n- Microphone: Shure SM7B: https://amzn.to/3hEVtSH\n- Voice Processor: dbx 266xs https://amzn.to/3B1SV8N\n- Stream Controller: Elgato Stream Deck https://amzn.to/3B4jPNq\n- Microphone Cloudlifter: https://amzn.to/2T9bhne\n\n-Timely news is important! We upload new clips every day! Make sure to subscribe!\n\nBroadcast on July 10, 2023\n\n#davidpakmanshow #davidpakman"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "41919",
+          "likeCount": "2580",
+          "favoriteCount": "0",
+          "commentCount": "413"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "U9OJlmuZiCw8tBJ9LQ4Xw5j3ktM",
+        "id": "VRXaV0GSKN0",
+        "snippet": {
+          "publishedAt": "2023-02-21T18:00:12Z",
+          "channelId": "UCKRoXz3hHAu2XL_k3Ef4vJQ",
+          "title": "Ranking Fox News DUMBEST Stories with Brian Tyler Cohen and Tommy Vietor | Liberal Tiers",
+          "description": "Former Obama spokesperson Tommy Vietor and political commentator Brian Tyler Cohen Draft the Dumbest Fox News Stories and Scandals\n\nFeaturing the Best of the Worst culture war segments from Fox News\u2019 Tucker Carlson, Sean Hannity, and Laura Ingraham. Tommy and BTC trace dumb Republican outrage from the Obama Administration (tan suit, dijon mustard, fist jab) through the casting of The Little Mermaid, and the overly-inflated (and potentially dangerous) Chinese spy balloon coverage.\n\nComment below to let us know who you think has the Best/Worst list - BTC \ud83d\udd35 or Tommy \ud83d\udd34?\n\nSUBSCRIBE to our channel \ud83d\udc49@podsaveamerica\ud83d\udc48\nSUBSCRIBE to BTC\u2019s channel \ud83d\udc49@briantylercohen\ud83d\udc48\n\n00:00 - The Draft of the Dumbest Fox News Scandals\n00:55 - 3D Printed Steaks from Gutfeld\n02:10 - Obama Madrassa\n03:36 - Little Mermaid Casting from Laura Ingraham\n04:25 - Kitty Litter in Schools from Jesse Watters\n05:32 - Woke M&M's from Tucker Carlson\n06:26 - Terrorist Fist Jab\n07:40 - Obama's Dijon Burger from Sean Hannity\n09:21 - Balloonghazi featuring Kevin McCarthy\n11:32 - Xbox Going Green\n12:49 - Cancel Dr. Seuss\n14:11 - BTC's Draft Picks\n15:13 - Tommy's Draft Picks\n16:20 - Honorable Mention: Obama's Tan Suit\n16:52 - VOTE in the Comments\n\n#FoxNews #PodSaveAmerica #obama \n\nCREDITS:\nPRODUCER: Ben Hethcoat\nSUPERVISING PRODUCER: Elijah Cone\nEDITOR: Ben Hethcoat\n\nCrooked believes that we need a better conversation about politics, culture, and the world around us\u2014one that doesn\u2019t just focus on what\u2019s broken, but what we can do to fix it. At a time when it\u2019s increasingly easy to feel cynical or hopeless, former Obama staffers Jon Favreau, Jon Lovett, and Tommy Vietor have created a place where people can have sane conversations that inform, entertain, and inspire action. In 2017 they started Crooked with Pod Save America\u2014a no-bullshit conversation about politics. Since then, we continue to add shows, voices, and opportunities for activism, because it\u2019s up to all of us to do our part to build a better world. That\u2019s it. End of mission.\n\nLearn more about Crooked at http://www.crooked.com\nFollow the pod on Twitter https://twitter.com/podsaveamerica\nFollow Crooked on Facebook https://www.facebook.com/CrookedMedia/ \nFollow Crooked on Instagram https://www.instagram.com/crookedmedia/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VRXaV0GSKN0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Pod Save America",
+          "tags": [
+            "Tommy Vietor",
+            "Jon Lovitz",
+            "Dan Pheiffer",
+            "Pod Save America",
+            "Crooked Media",
+            "MSNBC",
+            "CNN",
+            "Brian Tyler Cohen",
+            "BTC",
+            "Fox News",
+            "Dumb",
+            "Scandals",
+            "Hannity",
+            "Tucker",
+            "Tucker Carlson",
+            "Sean Hannity",
+            "Trump",
+            "MAGA",
+            "Obama",
+            "Obama tan suit",
+            "Little Mermaid",
+            "culture wars",
+            "M&Ms",
+            "M&M's",
+            "Republicans",
+            "Democrats",
+            "GOP",
+            "Obama mustard",
+            "dumb Fox News",
+            "Fox News outrage",
+            "Jesse Watters",
+            "Laura Ingraham",
+            "China",
+            "Chinese Balloon",
+            "Dr. Seuss",
+            "Podcast",
+            "Barack Obama",
+            "Gutfeld!",
+            "Fox",
+            "Spy Balloon",
+            "Donald Trump",
+            "Ranking Fox News",
+            "Politics"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ranking Fox News DUMBEST Stories with Brian Tyler Cohen and Tommy Vietor | Liberal Tiers",
+            "description": "Former Obama spokesperson Tommy Vietor and political commentator Brian Tyler Cohen Draft the Dumbest Fox News Stories and Scandals\n\nFeaturing the Best of the Worst culture war segments from Fox News\u2019 Tucker Carlson, Sean Hannity, and Laura Ingraham. Tommy and BTC trace dumb Republican outrage from the Obama Administration (tan suit, dijon mustard, fist jab) through the casting of The Little Mermaid, and the overly-inflated (and potentially dangerous) Chinese spy balloon coverage.\n\nComment below to let us know who you think has the Best/Worst list - BTC \ud83d\udd35 or Tommy \ud83d\udd34?\n\nSUBSCRIBE to our channel \ud83d\udc49@podsaveamerica\ud83d\udc48\nSUBSCRIBE to BTC\u2019s channel \ud83d\udc49@briantylercohen\ud83d\udc48\n\n00:00 - The Draft of the Dumbest Fox News Scandals\n00:55 - 3D Printed Steaks from Gutfeld\n02:10 - Obama Madrassa\n03:36 - Little Mermaid Casting from Laura Ingraham\n04:25 - Kitty Litter in Schools from Jesse Watters\n05:32 - Woke M&M's from Tucker Carlson\n06:26 - Terrorist Fist Jab\n07:40 - Obama's Dijon Burger from Sean Hannity\n09:21 - Balloonghazi featuring Kevin McCarthy\n11:32 - Xbox Going Green\n12:49 - Cancel Dr. Seuss\n14:11 - BTC's Draft Picks\n15:13 - Tommy's Draft Picks\n16:20 - Honorable Mention: Obama's Tan Suit\n16:52 - VOTE in the Comments\n\n#FoxNews #PodSaveAmerica #obama \n\nCREDITS:\nPRODUCER: Ben Hethcoat\nSUPERVISING PRODUCER: Elijah Cone\nEDITOR: Ben Hethcoat\n\nCrooked believes that we need a better conversation about politics, culture, and the world around us\u2014one that doesn\u2019t just focus on what\u2019s broken, but what we can do to fix it. At a time when it\u2019s increasingly easy to feel cynical or hopeless, former Obama staffers Jon Favreau, Jon Lovett, and Tommy Vietor have created a place where people can have sane conversations that inform, entertain, and inspire action. In 2017 they started Crooked with Pod Save America\u2014a no-bullshit conversation about politics. Since then, we continue to add shows, voices, and opportunities for activism, because it\u2019s up to all of us to do our part to build a better world. That\u2019s it. End of mission.\n\nLearn more about Crooked at http://www.crooked.com\nFollow the pod on Twitter https://twitter.com/podsaveamerica\nFollow Crooked on Facebook https://www.facebook.com/CrookedMedia/ \nFollow Crooked on Instagram https://www.instagram.com/crookedmedia/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "251558",
+          "likeCount": "8141",
+          "favoriteCount": "0",
+          "commentCount": "1451"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

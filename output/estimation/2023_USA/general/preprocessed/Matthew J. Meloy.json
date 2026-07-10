@@ -1,0 +1,22 @@
+{
+  "ceo": "Matthew J. Meloy",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "dK7WkgUZH1zwIIzc4ZEZ1-HQkUc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "RXc0ROxvX8CvEB2whoyl3uF2DC0",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 3,
+      "resultsPerPage": 3
+    }
+  }
+}

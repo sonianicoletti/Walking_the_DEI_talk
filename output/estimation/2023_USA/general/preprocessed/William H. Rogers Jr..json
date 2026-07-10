@@ -1,0 +1,23 @@
+{
+  "ceo": "William H. Rogers Jr.",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "7vYGTjS8iHW1YJsnlwFg8qAQbRk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 89443,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "a_XM9lC7t3CsFgNIipwcg2s_F3I",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

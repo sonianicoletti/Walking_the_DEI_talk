@@ -1,0 +1,23 @@
+{
+  "ceo": "Pierce Norton",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "8FhGRciULdtFyB-G2SvY28AbLKs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 24316,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "UCAFcQkg-4Y7c-56ivTW-pSw25A",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

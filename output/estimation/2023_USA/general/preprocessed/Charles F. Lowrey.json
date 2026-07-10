@@ -1,0 +1,120 @@
+{
+  "ceo": "Charles F. Lowrey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "At-MinPk2Y5rc1_25wXuYROl-Vs",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 17,
+      "resultsPerPage": 14
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K0MEyh_5CjAA7EjgiHqwmaflqC4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H_CT64U8vy4"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-09T09:17:33Z",
+          "channelId": "UCg2rexusra_Jz4Gqy2EbWmg",
+          "title": "The Geneva Association at 50 years: Charles F. Lowrey",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TheGenevaAssociation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-09T09:17:33Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "dl-TcJ0XlK9AZd0mQaQaplIl-sg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "rAcJ3dcIryNZwkOCEc3y5uxHT2s",
+        "id": "H_CT64U8vy4",
+        "snippet": {
+          "publishedAt": "2023-10-09T09:17:33Z",
+          "channelId": "UCg2rexusra_Jz4Gqy2EbWmg",
+          "title": "The Geneva Association at 50 years: Charles F. Lowrey",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H_CT64U8vy4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheGenevaAssociation",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Geneva Association at 50 years: Charles F. Lowrey",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "196",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 14,
+      "resultsPerPage": 14
+    }
+  }
+}

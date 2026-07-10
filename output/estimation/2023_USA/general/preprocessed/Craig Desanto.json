@@ -1,0 +1,22 @@
+{
+  "ceo": "Craig Desanto",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "Oh4_-5kuW_Rt3IhwcHDA1ab_F9k",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 37,
+      "resultsPerPage": 32
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "v0zCGWTJRF9hPQBpRWwqkrxYG_g",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 32
+    }
+  }
+}

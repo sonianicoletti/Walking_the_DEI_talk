@@ -1,0 +1,22 @@
+{
+  "ceo": "Kevin P. Hourican",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "eqEvT3t84FhrrE1SvkWCeOPLMAc",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "L5I9vRX5Gpl6zSHcUl1l8fJ6bcY",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 4,
+      "resultsPerPage": 4
+    }
+  }
+}

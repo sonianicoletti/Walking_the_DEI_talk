@@ -1,0 +1,22 @@
+{
+  "ceo": "Roger W. Crandall",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "o_TW7Tkwh_WLdM3vF227dM_Py7U",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "gO_7qLtLD4drGHJilwzhmsPPycc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

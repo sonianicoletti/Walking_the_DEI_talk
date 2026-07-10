@@ -1,0 +1,23 @@
+{
+  "ceo": "Sandy Douglas",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "g8luUN-PclJUPdFi8QxrcrRnWMM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 15097,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "-pJ5iUL1wohzJmkzRRGGrEF5n2E",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

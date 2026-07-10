@@ -1,0 +1,1220 @@
+{
+  "ceo": "Ed Bastian",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "waLqagP8qpS36YzXu-t0VI8B2nQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 544,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NkPqVXhyZSd5Y47W5omBqH_1Qtc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "woPeYEC6zcU"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-17T12:32:05Z",
+          "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+          "title": "Delta Air Lines CEO Ed Bastian on upcoming summer travel",
+          "description": "The TSA expects a possible record number of travelers to pass through U.S. airports this summer. Delta Air Lines CEO Ed Bastian ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CBS Mornings",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-17T12:32:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PPDQ2ru7cRoeuA_8R84pFZZdQQk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XqPQv9RGsy0"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-31T08:52:34Z",
+          "channelId": "UCO7bj4yPpLyQ_3BlzAtENZw",
+          "title": "Safety Talk with Ed Bastian, CEO of Delta Airlines",
+          "description": "Ed Bastian, CEO of Delta Airlines shares his views on aviation safety leadership. For more information: https://www.iata.org/safety/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "IATAtv",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-31T08:52:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4kqVyVsNQiLMZ6YJOGxQVd4t16k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lU3L6HZPOXI"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T13:10:14Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta Air Lines CEO Ed Bastian on record Q2 earnings: Momentum has continued to build",
+          "description": "CNBC's Phil LeBeau and Delta Air Lines CEO Ed Bastian join 'Squawk Box' to discuss the airline's Q2 earnings results, which ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T13:10:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jp70CzghuVTddsWMRooW24N0e8I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nM3H8vs3WR8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-27T12:38:21Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta Air Lines CEO Ed Bastian: Second quarter will be the &#39;highest Q2 earnings in our history&#39;",
+          "description": "Delta Air Lines CEO Ed Bastian joins 'Squawk Box' to discuss the airline raising its Q2 guidance, post-pandemic demand surge, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-27T12:38:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0Yf6WUa5Xb4oYnPgiz2G9ZxpM_k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hmSBADuQVFc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-08T16:37:12Z",
+          "channelId": "UCz6RzD6KG_hH_oHb2kyW5jQ",
+          "title": "Ed Bastian, Delta CEO: Making Travel Magical",
+          "description": "Delta Air Lines is looking to revive the glory days of travel with a premium experience in the sky. Under Ed Bastian, who took over ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Morgan Stanley",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-08T16:37:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ylZbbqIP55dFJ-eQ-239KoYHs7Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EIU4AEwq5cg"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-13T14:09:06Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Delta earnings beats expectation, CEO Ed Bastian talks boom in travel, consumer demand",
+          "description": "Delta #youtube #yahoofinance Yahoo Finance anchor Brad Smith spoke with Delta Air Lines CEO about earnings beating ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-13T14:09:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L1LHqW-afFJDa1GtkEPRKOwj4JU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UteLxht2kQo"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-13T13:02:33Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta CEO Ed Bastian on Q1 earnings: We&#39;re getting ready for a strong travel season",
+          "description": "E d Bastian, Delta CEO, joins 'Closing Bell' to discuss the company's quarterly earnings results, Delta's Q2 guidance and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-13T13:02:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WMP84O4Cbf14AScA_knN6uAbYgc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YFL9DjJ_HBY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-12T12:34:45Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta Air Lines CEO Ed Bastian on Q3 results, travel demand and SkyMiles backlash",
+          "description": "CNBC's Phil LeBeau and Delta Air Lines CEO Ed Bastian join 'Squawk Box' to discuss the airline's quarterly earnings results, the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-12T12:34:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qyjN39iAOwq-qMidJfgAH3xgIZc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xeOASIjE-ZY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-10T12:53:32Z",
+          "channelId": "UCQZCzRQNOjB47WNcjQR4FYw",
+          "title": "Delta Air Lines CEO Ed Bastian Joins The Morning X (INTERVIEW) Part 2 | The Morning X with...",
+          "description": "Leslie is gearing up for a big trip to Germany, so she turns to a true expert for travel advice - Delta CEO Ed Bastian. As CEO of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cumulus Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-10T12:53:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xI54nHZi6aFRw3V50XUa642rvd4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Mg_1dhIzhjM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-10T13:07:34Z",
+          "channelId": "UCQZCzRQNOjB47WNcjQR4FYw",
+          "title": "Delta Air Lines CEO Ed Bastian Joins The Morning X (INTERVIEW) Part 1 | The Morning X with...",
+          "description": "Leslie is gearing up for a big trip to Germany, so she turns to a true expert for travel advice - Delta CEO Ed Bastian. As CEO of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cumulus Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-10T13:07:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1Z54m5oqeGUKHtJDth0yLQ8m8qY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iMGChlmo4gk"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T09:07:37Z",
+          "channelId": "UCDDgj-0KfS3Ny6Rwlrc6v6A",
+          "title": "Power of Purpose: featuring Ed Bastian, CEO, Delta Air Lines &amp; Shai Weiss, CEO, Virgin Atlantic",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BritishAmerican Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T09:07:37Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "-6FbaxsYnfaFEMsZfSpTi-5TSkU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "3ysVi2a-VVVWeKBdmoqRL5cit9E",
+        "id": "woPeYEC6zcU",
+        "snippet": {
+          "publishedAt": "2023-05-17T12:32:05Z",
+          "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+          "title": "Delta Air Lines CEO Ed Bastian on upcoming summer travel",
+          "description": "The TSA expects a possible record number of travelers to pass through U.S. airports this summer. Delta Air Lines CEO Ed Bastian joins \"CBS Mornings\" for a closer look at how the airline plans to handle the influx of passengers.\n\n#news #delta #travel \n\nEach weekday morning, \"CBS Mornings\u201d co-hosts Gayle King, Tony Dokoupil and Nate Burleson bring you the latest breaking news, smart conversation and in-depth feature reporting. \"CBS Mornings\" airs weekdays at 7 a.m. on CBS and stream it at 8 a.m. ET on the CBS News app.\n\nSubscribe to \u201cCBS Mornings\u201d on YouTube: https://www.youtube.com/CBSMornings \nWatch CBS News: http://cbsn.ws/1PlLpZ7c\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nFollow \"CBS Mornings\" on Instagram: https://bit.ly/3A13OqA\nLike \"CBS Mornings\" on Facebook: https://bit.ly/3tpOx00\nFollow \"CBS Mornings\" on Twitter: https://bit.ly/38QQp8B\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\u200b\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/woPeYEC6zcU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CBS Mornings",
+          "tags": [
+            "video",
+            "cbs",
+            "news",
+            "delta air lines",
+            "delta",
+            "plane",
+            "travel",
+            "ceo",
+            "ed bastian",
+            "summer",
+            "airports",
+            "tsa",
+            "record number"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta Air Lines CEO Ed Bastian on upcoming summer travel",
+            "description": "The TSA expects a possible record number of travelers to pass through U.S. airports this summer. Delta Air Lines CEO Ed Bastian joins \"CBS Mornings\" for a closer look at how the airline plans to handle the influx of passengers.\n\n#news #delta #travel \n\nEach weekday morning, \"CBS Mornings\u201d co-hosts Gayle King, Tony Dokoupil and Nate Burleson bring you the latest breaking news, smart conversation and in-depth feature reporting. \"CBS Mornings\" airs weekdays at 7 a.m. on CBS and stream it at 8 a.m. ET on the CBS News app.\n\nSubscribe to \u201cCBS Mornings\u201d on YouTube: https://www.youtube.com/CBSMornings \nWatch CBS News: http://cbsn.ws/1PlLpZ7c\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nFollow \"CBS Mornings\" on Instagram: https://bit.ly/3A13OqA\nLike \"CBS Mornings\" on Facebook: https://bit.ly/3tpOx00\nFollow \"CBS Mornings\" on Twitter: https://bit.ly/38QQp8B\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\u200b\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "AU",
+              "CA"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11866",
+          "likeCount": "123",
+          "favoriteCount": "0",
+          "commentCount": "36"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "os6nIvFeq8vvUXCQ88rJESo0TxM",
+        "id": "XqPQv9RGsy0",
+        "snippet": {
+          "publishedAt": "2023-08-31T08:52:34Z",
+          "channelId": "UCO7bj4yPpLyQ_3BlzAtENZw",
+          "title": "Safety Talk with Ed Bastian, CEO of Delta Airlines",
+          "description": "Ed Bastian, CEO of Delta Airlines shares his views on aviation safety leadership.\n\nFor more information: https://www.iata.org/safety/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XqPQv9RGsy0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "IATAtv",
+          "tags": [
+            "aviation"
+          ],
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Safety Talk with Ed Bastian, CEO of Delta Airlines",
+            "description": "Ed Bastian, CEO of Delta Airlines shares his views on aviation safety leadership.\n\nFor more information: https://www.iata.org/safety/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1937",
+          "likeCount": "9",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mTAHp4L8ptYpdInLvWDY4AhSrIk",
+        "id": "lU3L6HZPOXI",
+        "snippet": {
+          "publishedAt": "2023-07-13T13:10:14Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta Air Lines CEO Ed Bastian on record Q2 earnings: Momentum has continued to build",
+          "description": "CNBC\u2019s Phil LeBeau and Delta Air Lines CEO Ed Bastian join 'Squawk Box' to discuss the airline's Q2 earnings results, which posted its highest quarterly revenue and earnings ever thanks to searing travel demand that has defied fears of an economic slowdown for months. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lU3L6HZPOXI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta Air Lines CEO Ed Bastian on record Q2 earnings: Momentum has continued to build",
+            "description": "CNBC\u2019s Phil LeBeau and Delta Air Lines CEO Ed Bastian join 'Squawk Box' to discuss the airline's Q2 earnings results, which posted its highest quarterly revenue and earnings ever thanks to searing travel demand that has defied fears of an economic slowdown for months. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6999",
+          "likeCount": "34",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "C5bqNxSc9Mf9ZVBvGVZkw-8xvls",
+        "id": "nM3H8vs3WR8",
+        "snippet": {
+          "publishedAt": "2023-06-27T12:38:21Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta Air Lines CEO Ed Bastian: Second quarter will be the 'highest Q2 earnings in our history'",
+          "description": "Delta Air Lines CEO Ed Bastian joins 'Squawk Box' to discuss the airline raising its Q2 guidance, post-pandemic demand surge, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nM3H8vs3WR8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta Air Lines CEO Ed Bastian: Second quarter will be the 'highest Q2 earnings in our history'",
+            "description": "Delta Air Lines CEO Ed Bastian joins 'Squawk Box' to discuss the airline raising its Q2 guidance, post-pandemic demand surge, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11549",
+          "likeCount": "54",
+          "favoriteCount": "0",
+          "commentCount": "15"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Kr4orrMfEpedjpWlEyufuadoKGo",
+        "id": "hmSBADuQVFc",
+        "snippet": {
+          "publishedAt": "2023-11-08T16:37:12Z",
+          "channelId": "UCz6RzD6KG_hH_oHb2kyW5jQ",
+          "title": "Ed Bastian, Delta CEO: Making Travel Magical",
+          "description": "Delta Air Lines is looking to revive the glory days of travel with a premium experience in the sky. Under Ed Bastian, who took over as CEO in 2016, Delta has improved the customer experience and grown revenue, while also navigating the operational challenges microenvironment that comes with running any airline. The result has been double-digit operating margins \u2013 a benchmark for major U.S. carriers.\n\nIn the latest episode of Exceptional Leaders, Freight Transportation & Airlines analyst Ravi Shanker sits down with Bastian to talk about everything from his advice on making hard decisions, to how it's possible to bring back the golden era of travel while keeping it accessible. https://mgstn.ly/3SDmwRr",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hmSBADuQVFc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Morgan Stanley",
+          "tags": [
+            "Delta Airlines",
+            "Morgan Stanley"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ed Bastian, Delta CEO: Making Travel Magical",
+            "description": "Delta Air Lines is looking to revive the glory days of travel with a premium experience in the sky. Under Ed Bastian, who took over as CEO in 2016, Delta has improved the customer experience and grown revenue, while also navigating the operational challenges microenvironment that comes with running any airline. The result has been double-digit operating margins \u2013 a benchmark for major U.S. carriers.\n\nIn the latest episode of Exceptional Leaders, Freight Transportation & Airlines analyst Ravi Shanker sits down with Bastian to talk about everything from his advice on making hard decisions, to how it's possible to bring back the golden era of travel while keeping it accessible. https://mgstn.ly/3SDmwRr"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3255",
+          "likeCount": "50",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fQZkJ7wzzq9w3CH89z8W7lk0iXI",
+        "id": "EIU4AEwq5cg",
+        "snippet": {
+          "publishedAt": "2023-07-13T14:09:06Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Delta earnings beats expectation, CEO Ed Bastian talks boom in travel, consumer demand",
+          "description": "#Delta #youtube #yahoofinance \nYahoo Finance anchor Brad Smith spoke with Delta Air Lines CEO about earnings beating expectations, the surge in post pandemic travel, record high profits, and consumer demand.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EIU4AEwq5cg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market",
+            "Delta"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta earnings beats expectation, CEO Ed Bastian talks boom in travel, consumer demand",
+            "description": "#Delta #youtube #yahoofinance \nYahoo Finance anchor Brad Smith spoke with Delta Air Lines CEO about earnings beating expectations, the surge in post pandemic travel, record high profits, and consumer demand.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT3M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "412",
+          "likeCount": "5",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GoHS2Kw32zBh7EotzowlD8Z9jjg",
+        "id": "UteLxht2kQo",
+        "snippet": {
+          "publishedAt": "2023-04-13T13:02:33Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta CEO Ed Bastian on Q1 earnings: We're getting ready for a strong travel season",
+          "description": "E d Bastian, Delta CEO, joins 'Closing Bell' to discuss the company's quarterly earnings results, Delta's Q2 guidance and Bastian's thoughts on the consumer. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UteLxht2kQo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta CEO Ed Bastian on Q1 earnings: We're getting ready for a strong travel season",
+            "description": "E d Bastian, Delta CEO, joins 'Closing Bell' to discuss the company's quarterly earnings results, Delta's Q2 guidance and Bastian's thoughts on the consumer. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2049",
+          "likeCount": "29",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DgN3VeB1taBACQpYaUCvEZKUVUc",
+        "id": "YFL9DjJ_HBY",
+        "snippet": {
+          "publishedAt": "2023-10-12T12:34:45Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Delta Air Lines CEO Ed Bastian on Q3 results, travel demand and SkyMiles backlash",
+          "description": "CNBC\u2019s Phil LeBeau and Delta Air Lines CEO Ed Bastian join 'Squawk Box' to discuss the airline's quarterly earnings results, the impact of fuel prices on cost pressures, travel demand outlook, rebound in corporate travel, SkyMiles backlash, impact of inflation, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YFL9DjJ_HBY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta Air Lines CEO Ed Bastian on Q3 results, travel demand and SkyMiles backlash",
+            "description": "CNBC\u2019s Phil LeBeau and Delta Air Lines CEO Ed Bastian join 'Squawk Box' to discuss the airline's quarterly earnings results, the impact of fuel prices on cost pressures, travel demand outlook, rebound in corporate travel, SkyMiles backlash, impact of inflation, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "43573",
+          "likeCount": "78",
+          "favoriteCount": "0",
+          "commentCount": "23"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3CrRlHouDwUD9yrRaVmop52YuKI",
+        "id": "xeOASIjE-ZY",
+        "snippet": {
+          "publishedAt": "2023-08-10T12:53:32Z",
+          "channelId": "UCQZCzRQNOjB47WNcjQR4FYw",
+          "title": "Delta Air Lines CEO Ed Bastian Joins The Morning X (INTERVIEW) Part 2 | The Morning X with...",
+          "description": "Leslie is gearing up for a big trip to Germany, so she turns to a true expert for travel advice - Delta CEO Ed Bastian. As CEO of Delta Air Lines, Ed Bastian leads more than 90,000 global professionals who are building the world\u2019s premier international airline, powered by a people-driven, customer-focused culture and spirit of innovation. Part 2 of 2. \n\n\nFollow Ed on LinkedIn (https://www.linkedin.com/in/edbastian/) and Instagram (https://www.instagram.com/edbastian/?hl=en) for his thoughts on leadership, culture, aviation and more.\n\n\nThe Morning X with Barnes (https://99xatl.com/crew/barnes/) and Leslie (https://99xatl.com/crew/lesliefram/) - Listen live weekdays 6-10 am Eastern on 99X Atlanta (https://99x.com/) (100.5 on the FM dial in Atlanta), at 99X.com, or in the 99X app (https://t.co/IUFGSlyQgh). The show is a mix of new shows along with \"Best of The Morning X\" which will be on-demand via this podcast the same day after it airs on 99X. The Morning X originated in 1994 with Barnes, Leslie, and Jimmy.\n\n\nPlease, review and subscribe to The Morning X, available on your favorite podcast network. Get Exclusive Morning X video interviews, video content, and bonus video exclusively from Facebook (https://www.facebook.com/themorningxatl), TikTok (https://www.tiktok.com/@themorningx?_t=8aECQajKmTr&_r=1), Instagram (https://instagram.com/themorningx), or our YouTube channel (https://www.youtube.com/channel/UCenGkjVmCmduJnkCGKxccOw). Find all of our social connections at our website TheMorningX.com (http://themorningx.com/)\n\n\nSign up for \"The Morning X Insiders (https://themorningx.com/)\" and be the first to get show announcements, free stuff, and insider information only available to members.\n\n\nExecutive Producer: Steve Barnes\n\n\nHosts: Steve Barnes, Leslie Fram\n\n\nProducer: Matt Courtoy\n\n\nProducer: Brian Christopher\n\n\nFAIR USE COPYRIGHT NOTICE The Copyright Laws of the United States recognize a \u201cfair use\u201d of copyrighted content. Section 107 of the U.S. Copyright Act states:\n\n\n\u201cNOTWITHSTANDING THE PROVISIONS OF SECTIONS 106 AND 106A, THE FAIR USE OF A COPYRIGHTED WORK, INCLUDING SUCH USE BY REPRODUCTION IN COPIES OR PHONORECORDS OR BY ANY OTHER MEANS SPECIFIED BY THAT SECTION, FOR PURPOSES SUCH AS CRITICISM, COMMENT, NEWS REPORTING, TEACHING (INCLUDING MULTIPLE COPIES FOR CLASSROOM USE), SCHOLARSHIP, OR RESEARCH, IS NOT AN INFRINGEMENT OF COPYRIGHT.\u201d THIS VIDEO/AUDIO IN GENERAL MAY CONTAIN CERTAIN COPYRIGHTED WORKS THAT WERE NOT SPECIFICALLY AUTHORIZED TO BE USED BY THE COPYRIGHT HOLDER(S), BUT WHICH WE BELIEVE IN GOOD FAITH ARE PROTECTED BY FEDERAL LAW AND THE FAIR USE DOCTRINE FOR ONE OR MORE OF THE REASONS NOTED ABOVE. IF YOU HAVE ANY SPECIFIC CONCERNS ABOUT THIS VIDEO OR OUR POSITION ON THE FAIR USE DEFENSE, PLEASE CONTACT US AT INFO@THEPOPCULTURESHOW.COM SO WE CAN DISCUSS AMICABLY. THANK YOU.\n\n\n\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xeOASIjE-ZY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cumulus Podcasts",
+          "tags": [
+            "Entertainment News",
+            "News",
+            "Personal Journals",
+            "Society & Culture",
+            "Tv & Film",
+            "Tv Reviews"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta Air Lines CEO Ed Bastian Joins The Morning X (INTERVIEW) Part 2 | The Morning X with...",
+            "description": "Leslie is gearing up for a big trip to Germany, so she turns to a true expert for travel advice - Delta CEO Ed Bastian. As CEO of Delta Air Lines, Ed Bastian leads more than 90,000 global professionals who are building the world\u2019s premier international airline, powered by a people-driven, customer-focused culture and spirit of innovation. Part 2 of 2. \n\n\nFollow Ed on LinkedIn (https://www.linkedin.com/in/edbastian/) and Instagram (https://www.instagram.com/edbastian/?hl=en) for his thoughts on leadership, culture, aviation and more.\n\n\nThe Morning X with Barnes (https://99xatl.com/crew/barnes/) and Leslie (https://99xatl.com/crew/lesliefram/) - Listen live weekdays 6-10 am Eastern on 99X Atlanta (https://99x.com/) (100.5 on the FM dial in Atlanta), at 99X.com, or in the 99X app (https://t.co/IUFGSlyQgh). The show is a mix of new shows along with \"Best of The Morning X\" which will be on-demand via this podcast the same day after it airs on 99X. The Morning X originated in 1994 with Barnes, Leslie, and Jimmy.\n\n\nPlease, review and subscribe to The Morning X, available on your favorite podcast network. Get Exclusive Morning X video interviews, video content, and bonus video exclusively from Facebook (https://www.facebook.com/themorningxatl), TikTok (https://www.tiktok.com/@themorningx?_t=8aECQajKmTr&_r=1), Instagram (https://instagram.com/themorningx), or our YouTube channel (https://www.youtube.com/channel/UCenGkjVmCmduJnkCGKxccOw). Find all of our social connections at our website TheMorningX.com (http://themorningx.com/)\n\n\nSign up for \"The Morning X Insiders (https://themorningx.com/)\" and be the first to get show announcements, free stuff, and insider information only available to members.\n\n\nExecutive Producer: Steve Barnes\n\n\nHosts: Steve Barnes, Leslie Fram\n\n\nProducer: Matt Courtoy\n\n\nProducer: Brian Christopher\n\n\nFAIR USE COPYRIGHT NOTICE The Copyright Laws of the United States recognize a \u201cfair use\u201d of copyrighted content. Section 107 of the U.S. Copyright Act states:\n\n\n\u201cNOTWITHSTANDING THE PROVISIONS OF SECTIONS 106 AND 106A, THE FAIR USE OF A COPYRIGHTED WORK, INCLUDING SUCH USE BY REPRODUCTION IN COPIES OR PHONORECORDS OR BY ANY OTHER MEANS SPECIFIED BY THAT SECTION, FOR PURPOSES SUCH AS CRITICISM, COMMENT, NEWS REPORTING, TEACHING (INCLUDING MULTIPLE COPIES FOR CLASSROOM USE), SCHOLARSHIP, OR RESEARCH, IS NOT AN INFRINGEMENT OF COPYRIGHT.\u201d THIS VIDEO/AUDIO IN GENERAL MAY CONTAIN CERTAIN COPYRIGHTED WORKS THAT WERE NOT SPECIFICALLY AUTHORIZED TO BE USED BY THE COPYRIGHT HOLDER(S), BUT WHICH WE BELIEVE IN GOOD FAITH ARE PROTECTED BY FEDERAL LAW AND THE FAIR USE DOCTRINE FOR ONE OR MORE OF THE REASONS NOTED ABOVE. IF YOU HAVE ANY SPECIFIC CONCERNS ABOUT THIS VIDEO OR OUR POSITION ON THE FAIR USE DEFENSE, PLEASE CONTACT US AT INFO@THEPOPCULTURESHOW.COM SO WE CAN DISCUSS AMICABLY. THANK YOU.\n\n\n\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "159",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ijVlhDU2kfcQH-YCXLDp_UmI5TM",
+        "id": "Mg_1dhIzhjM",
+        "snippet": {
+          "publishedAt": "2023-08-10T13:07:34Z",
+          "channelId": "UCQZCzRQNOjB47WNcjQR4FYw",
+          "title": "Delta Air Lines CEO Ed Bastian Joins The Morning X (INTERVIEW) Part 1 | The Morning X with...",
+          "description": "Leslie is gearing up for a big trip to Germany, so she turns to a true expert for travel advice - Delta CEO Ed Bastian. As CEO of Delta Air Lines, Ed Bastian leads more than 90,000 global professionals who are building the world\u2019s premier international airline, powered by a people-driven, customer-focused culture and spirit of innovation. Part 1 of 2. \n\n\nFollow Ed on LinkedIn (https://www.linkedin.com/in/edbastian/) and Instagram (https://www.instagram.com/edbastian/?hl=en) for his thoughts on leadership, culture, aviation and more.\n\n\nThe Morning X with Barnes (https://99xatl.com/crew/barnes/) and Leslie (https://99xatl.com/crew/lesliefram/) - Listen live weekdays 6-10 am Eastern on 99X Atlanta (https://99x.com/) (100.5 on the FM dial in Atlanta), at 99X.com, or in the 99X app (https://t.co/IUFGSlyQgh). The show is a mix of new shows along with \"Best of The Morning X\" which will be on-demand via this podcast the same day after it airs on 99X. The Morning X originated in 1994 with Barnes, Leslie, and Jimmy.\n\n\nPlease, review and subscribe to The Morning X, available on your favorite podcast network. Get Exclusive Morning X video interviews, video content, and bonus video exclusively from Facebook (https://www.facebook.com/themorningxatl), TikTok (https://www.tiktok.com/@themorningx?_t=8aECQajKmTr&_r=1), Instagram (https://instagram.com/themorningx), or our YouTube channel (https://www.youtube.com/channel/UCenGkjVmCmduJnkCGKxccOw). Find all of our social connections at our website TheMorningX.com (http://themorningx.com/)\n\n\nSign up for \"The Morning X Insiders (https://themorningx.com/)\" and be the first to get show announcements, free stuff, and insider information only available to members.\n\n\nExecutive Producer: Steve Barnes\n\n\nHosts: Steve Barnes, Leslie Fram\n\n\nProducer: Matt Courtoy\n\n\nProducer: Brian Christopher\n\n\nFAIR USE COPYRIGHT NOTICE The Copyright Laws of the United States recognize a \u201cfair use\u201d of copyrighted content. Section 107 of the U.S. Copyright Act states:\n\n\n\u201cNOTWITHSTANDING THE PROVISIONS OF SECTIONS 106 AND 106A, THE FAIR USE OF A COPYRIGHTED WORK, INCLUDING SUCH USE BY REPRODUCTION IN COPIES OR PHONORECORDS OR BY ANY OTHER MEANS SPECIFIED BY THAT SECTION, FOR PURPOSES SUCH AS CRITICISM, COMMENT, NEWS REPORTING, TEACHING (INCLUDING MULTIPLE COPIES FOR CLASSROOM USE), SCHOLARSHIP, OR RESEARCH, IS NOT AN INFRINGEMENT OF COPYRIGHT.\u201d THIS VIDEO/AUDIO IN GENERAL MAY CONTAIN CERTAIN COPYRIGHTED WORKS THAT WERE NOT SPECIFICALLY AUTHORIZED TO BE USED BY THE COPYRIGHT HOLDER(S), BUT WHICH WE BELIEVE IN GOOD FAITH ARE PROTECTED BY FEDERAL LAW AND THE FAIR USE DOCTRINE FOR ONE OR MORE OF THE REASONS NOTED ABOVE. IF YOU HAVE ANY SPECIFIC CONCERNS ABOUT THIS VIDEO OR OUR POSITION ON THE FAIR USE DEFENSE, PLEASE CONTACT US AT INFO@THEPOPCULTURESHOW.COM SO WE CAN DISCUSS AMICABLY. THANK YOU.\n\n\n\n\n\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Mg_1dhIzhjM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cumulus Podcasts",
+          "tags": [
+            "Entertainment News",
+            "News",
+            "Personal Journals",
+            "Society & Culture",
+            "Tv & Film",
+            "Tv Reviews"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Delta Air Lines CEO Ed Bastian Joins The Morning X (INTERVIEW) Part 1 | The Morning X with...",
+            "description": "Leslie is gearing up for a big trip to Germany, so she turns to a true expert for travel advice - Delta CEO Ed Bastian. As CEO of Delta Air Lines, Ed Bastian leads more than 90,000 global professionals who are building the world\u2019s premier international airline, powered by a people-driven, customer-focused culture and spirit of innovation. Part 1 of 2. \n\n\nFollow Ed on LinkedIn (https://www.linkedin.com/in/edbastian/) and Instagram (https://www.instagram.com/edbastian/?hl=en) for his thoughts on leadership, culture, aviation and more.\n\n\nThe Morning X with Barnes (https://99xatl.com/crew/barnes/) and Leslie (https://99xatl.com/crew/lesliefram/) - Listen live weekdays 6-10 am Eastern on 99X Atlanta (https://99x.com/) (100.5 on the FM dial in Atlanta), at 99X.com, or in the 99X app (https://t.co/IUFGSlyQgh). The show is a mix of new shows along with \"Best of The Morning X\" which will be on-demand via this podcast the same day after it airs on 99X. The Morning X originated in 1994 with Barnes, Leslie, and Jimmy.\n\n\nPlease, review and subscribe to The Morning X, available on your favorite podcast network. Get Exclusive Morning X video interviews, video content, and bonus video exclusively from Facebook (https://www.facebook.com/themorningxatl), TikTok (https://www.tiktok.com/@themorningx?_t=8aECQajKmTr&_r=1), Instagram (https://instagram.com/themorningx), or our YouTube channel (https://www.youtube.com/channel/UCenGkjVmCmduJnkCGKxccOw). Find all of our social connections at our website TheMorningX.com (http://themorningx.com/)\n\n\nSign up for \"The Morning X Insiders (https://themorningx.com/)\" and be the first to get show announcements, free stuff, and insider information only available to members.\n\n\nExecutive Producer: Steve Barnes\n\n\nHosts: Steve Barnes, Leslie Fram\n\n\nProducer: Matt Courtoy\n\n\nProducer: Brian Christopher\n\n\nFAIR USE COPYRIGHT NOTICE The Copyright Laws of the United States recognize a \u201cfair use\u201d of copyrighted content. Section 107 of the U.S. Copyright Act states:\n\n\n\u201cNOTWITHSTANDING THE PROVISIONS OF SECTIONS 106 AND 106A, THE FAIR USE OF A COPYRIGHTED WORK, INCLUDING SUCH USE BY REPRODUCTION IN COPIES OR PHONORECORDS OR BY ANY OTHER MEANS SPECIFIED BY THAT SECTION, FOR PURPOSES SUCH AS CRITICISM, COMMENT, NEWS REPORTING, TEACHING (INCLUDING MULTIPLE COPIES FOR CLASSROOM USE), SCHOLARSHIP, OR RESEARCH, IS NOT AN INFRINGEMENT OF COPYRIGHT.\u201d THIS VIDEO/AUDIO IN GENERAL MAY CONTAIN CERTAIN COPYRIGHTED WORKS THAT WERE NOT SPECIFICALLY AUTHORIZED TO BE USED BY THE COPYRIGHT HOLDER(S), BUT WHICH WE BELIEVE IN GOOD FAITH ARE PROTECTED BY FEDERAL LAW AND THE FAIR USE DOCTRINE FOR ONE OR MORE OF THE REASONS NOTED ABOVE. IF YOU HAVE ANY SPECIFIC CONCERNS ABOUT THIS VIDEO OR OUR POSITION ON THE FAIR USE DEFENSE, PLEASE CONTACT US AT INFO@THEPOPCULTURESHOW.COM SO WE CAN DISCUSS AMICABLY. THANK YOU.\n\n\n\n\n\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "213",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oJ_0LsXvjnyUy1Z0y_h1ajU1imU",
+        "id": "iMGChlmo4gk",
+        "snippet": {
+          "publishedAt": "2023-06-07T09:07:37Z",
+          "channelId": "UCDDgj-0KfS3Ny6Rwlrc6v6A",
+          "title": "Power of Purpose: featuring Ed Bastian, CEO, Delta Air Lines & Shai Weiss, CEO, Virgin Atlantic",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iMGChlmo4gk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BritishAmerican Business",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Power of Purpose: featuring Ed Bastian, CEO, Delta Air Lines & Shai Weiss, CEO, Virgin Atlantic",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT57M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "311",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

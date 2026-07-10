@@ -1,0 +1,320 @@
+{
+  "ceo": "Robert E. Jordan",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "1AjwEf2FdnZwrr1tbha7NyqG4i8",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 634867,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cJisx9XVja2zR_Y0ZF0FPjY7Zu8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W3ivhAVI4Nc"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-19T07:57:15Z",
+          "channelId": "UCMr5s6Tim3Wg7OQAVz8DKCQ",
+          "title": "Rosamund Pike about Robert Jordan writing The Wheel of Time and building up his characters",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jonatan Blomberg from MovieZine",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-19T07:57:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZofYuJRWHxLajYpWahqI6Ej9NNw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OF_67Iwt1zQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-11T16:54:27Z",
+          "channelId": "UCDrLGkZTcNCshOLiKi5NtEw",
+          "title": "Catching up with retired anchor Robert Jordan",
+          "description": "Here at WGN-TV we are celebrating 75 years on the air! And to mark this major milestone we are catching up with some of the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WGN News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-11T16:54:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_kgsprTsN-5kwU8rgbVNSAR2Y4Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IJoLJthep0c"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-13T14:14:01Z",
+          "channelId": "UCOmif6qdzaqmJWskXDtgjsA",
+          "title": "evolve | eps. 47 | Robert Jordan, CEO | InterimExecs",
+          "description": "I spoke with Robert Jordan, CEO of InterimExecs. We discussed the different types of leadership styles, what success looks like as ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rise Commercial",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-13T14:14:01Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "fKEnXoWyQwH8zZhOCNgyvYUT6n4",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "S2zIH9rVMQyozcaY9XeLNKymLps",
+        "id": "W3ivhAVI4Nc",
+        "snippet": {
+          "publishedAt": "2023-08-19T07:57:15Z",
+          "channelId": "UCMr5s6Tim3Wg7OQAVz8DKCQ",
+          "title": "Rosamund Pike about Robert Jordan writing The Wheel of Time and building up his characters",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W3ivhAVI4Nc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jonatan Blomberg from MovieZine",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Rosamund Pike about Robert Jordan writing The Wheel of Time and building up his characters",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9836",
+          "likeCount": "426",
+          "favoriteCount": "0",
+          "commentCount": "9"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1j03xTHHZoAI3JVt7YuYWJcg_Mc",
+        "id": "OF_67Iwt1zQ",
+        "snippet": {
+          "publishedAt": "2023-01-11T16:54:27Z",
+          "channelId": "UCDrLGkZTcNCshOLiKi5NtEw",
+          "title": "Catching up with retired anchor Robert Jordan",
+          "description": "Here at WGN-TV we are celebrating 75 years on the air!\u00a0 And to mark this major milestone we are catching up with some of the notable people who helped make us Chicago's Very Own. Legendary news man Robert Jordan first joined WGN in 1973 and spent nearly all of his 43 years in tv news here before retiring in 2016.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OF_67Iwt1zQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WGN News",
+          "tags": [
+            "Chicago",
+            "news",
+            "products",
+            "local chicago products",
+            "daytime chicago"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Catching up with retired anchor Robert Jordan",
+            "description": "Here at WGN-TV we are celebrating 75 years on the air!\u00a0 And to mark this major milestone we are catching up with some of the notable people who helped make us Chicago's Very Own. Legendary news man Robert Jordan first joined WGN in 1973 and spent nearly all of his 43 years in tv news here before retiring in 2016."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2429",
+          "likeCount": "56",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "M81-lbK_NwNJR0f2PCz3wleqg3I",
+        "id": "IJoLJthep0c",
+        "snippet": {
+          "publishedAt": "2023-01-13T14:14:01Z",
+          "channelId": "UCOmif6qdzaqmJWskXDtgjsA",
+          "title": "evolve | eps. 47 | Robert Jordan, CEO | InterimExecs",
+          "description": "I spoke with Robert Jordan, CEO of InterimExecs. We discussed the different types of leadership styles, what success looks like as a leader, and accountability.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IJoLJthep0c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rise Commercial",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "evolve | eps. 47 | Robert Jordan, CEO | InterimExecs",
+            "description": "I spoke with Robert Jordan, CEO of InterimExecs. We discussed the different types of leadership styles, what success looks like as a leader, and accountability."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT29M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "18",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "ceo": "Peter S. Zaffino",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "z4my_0kEwNEEsDDejBXtz8CEKDY",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MFdfgaNoCAcTmBS1ZY_eS7Wq-f8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "u6hmdwoNjDY"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-30T13:40:58Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "The David Rubenstein Show: Peter Zaffino",
+          "description": "AIG Chairman and CEO Peter Zaffino talks about the insurance giant's turnaround and AI's impact on his industry. He speaks on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-30T13:40:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lU6xrR9vZRI1QdTX7FVSMmm93y4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DfXlsPSZSqs"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-29T15:26:52Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "Peter Zaffino on the $180 Billion AIG Bailout",
+          "description": "AIG Chairman and CEO Peter Zaffino talks about the government bailout that kept AIG afloat after the 2008 financial crisis.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DfXlsPSZSqs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DfXlsPSZSqs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DfXlsPSZSqs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-29T15:26:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nbfiM0qWpAX7i02f3r0oesGxIU0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uXqiRsJm6D4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-30T01:32:11Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "AIG CEO Peter Zaffino Talks AI, Geopolitics and Climate Change | Bloomberg Talks",
+          "description": "AIG chief executive officer Peter Zaffino sees opportunities and challenges with the introduction of AI to the insurance industry.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-30T01:32:11Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "S6miD4wtwJsPCywaiVfbu_U2TN0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "VwoUp2Vxp_1aXo7qYlA6QTZRp-A",
+        "id": "u6hmdwoNjDY",
+        "snippet": {
+          "publishedAt": "2023-11-30T13:40:58Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "The David Rubenstein Show: Peter Zaffino",
+          "description": "AIG Chairman and CEO Peter Zaffino talks about the insurance giant's turnaround and AI's impact on his industry. He speaks on \"The David Rubenstein Show: Peer-to-Peer Conversations\". This interview was recorded October 16 in New York.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u6hmdwoNjDY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The David Rubenstein Show: Peter Zaffino",
+            "description": "AIG Chairman and CEO Peter Zaffino talks about the insurance giant's turnaround and AI's impact on his industry. He speaks on \"The David Rubenstein Show: Peer-to-Peer Conversations\". This interview was recorded October 16 in New York."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT24M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "73223",
+          "likeCount": "436",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YdhsGWXl9b8guxmwtbd7qkqn-7U",
+        "id": "DfXlsPSZSqs",
+        "snippet": {
+          "publishedAt": "2023-11-29T15:26:52Z",
+          "channelId": "UCqsN9MYiu1mKSAsYoF6ppTg",
+          "title": "Peter Zaffino on the $180 Billion AIG Bailout",
+          "description": "AIG Chairman and CEO Peter Zaffino talks about the government bailout that kept AIG afloat after the 2008 financial crisis. He says the government did make a profit on the package. He speaks on \"The David Rubenstein Show: Peer-to-Peer Conversations\". This interview was recorded October 16 in New York.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DfXlsPSZSqs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DfXlsPSZSqs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DfXlsPSZSqs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "David Rubenstein",
+          "tags": [
+            "Bloomberg"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Peter Zaffino on the $180 Billion AIG Bailout",
+            "description": "AIG Chairman and CEO Peter Zaffino talks about the government bailout that kept AIG afloat after the 2008 financial crisis. He says the government did make a profit on the package. He speaks on \"The David Rubenstein Show: Peer-to-Peer Conversations\". This interview was recorded October 16 in New York."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2453",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZR25d0V6JaT2hpBF3obsD6ufbJU",
+        "id": "uXqiRsJm6D4",
+        "snippet": {
+          "publishedAt": "2023-11-30T01:32:11Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "AIG CEO Peter Zaffino Talks AI, Geopolitics and Climate Change | Bloomberg Talks",
+          "description": "AIG chief executive officer Peter Zaffino sees opportunities and challenges with the introduction of AI to the insurance industry. He speaks on that and more with host David Rubenstein, on \"The David Rubenstein Show: Peer-to-Peer Conversations\", as seen on Bloomberg Television.\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uXqiRsJm6D4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Business",
+            "Business News",
+            "Daily News",
+            "Investing",
+            "News",
+            "Politics",
+            "bloomberg",
+            "bloomberg interview",
+            "bloomberg podcast",
+            "bloomberg talks",
+            "business",
+            "economy",
+            "finance",
+            "investing",
+            "podcast",
+            "talks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AIG CEO Peter Zaffino Talks AI, Geopolitics and Climate Change | Bloomberg Talks",
+            "description": "AIG chief executive officer Peter Zaffino sees opportunities and challenges with the introduction of AI to the insurance industry. He speaks on that and more with host David Rubenstein, on \"The David Rubenstein Show: Peer-to-Peer Conversations\", as seen on Bloomberg Television.\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "295",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

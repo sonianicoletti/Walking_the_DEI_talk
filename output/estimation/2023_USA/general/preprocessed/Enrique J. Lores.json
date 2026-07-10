@@ -1,0 +1,592 @@
+{
+  "ceo": "Enrique J. Lores",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "rzAgHacookfwZdD6xbjrC-tsTVw",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 24,
+      "resultsPerPage": 18
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SFcTQPrHN6xcs0ZBSEzHXGvbCV0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OyQZQ1-TDUM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-19T17:48:00Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "HP CEO Enrique Lores on leadership",
+          "description": "HP CEO Enrique Lores spoke with Yahoo Finance Editor-at-Large Brian Sozzi on leadership lessons learned throughout the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-19T17:48:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lPA2D4sYPdIoWjKL95lVeKHaGRo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L-4KM3Z-6KM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-17T20:56:00Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "HP Inc. CEO Enrique Lores on the economy: It&#39;s important to focus on areas we can control",
+          "description": "Enrique Lores, HP Inc. CEO, joins 'Closing Bell' from Davos to discuss the market for computers and his thoughts on the economy.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-17T20:56:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vCi_hKS4giriTZvqRQJpiW2NNoU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2arK6_WW_W4"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-16T18:30:05Z",
+          "channelId": "UCqcEzOKaA4nc0gISklN0Ryw",
+          "title": "The Moment with Ryan Patel: Season Two Preview with HP CEO Enrique Lores | HP",
+          "description": "Welcome to season two of The Moment with Ryan Patel. HP CEO Enrique Lores joined us to offer his personal insights into our ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-16T18:30:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AOjzJhifehu2n6wPzdArlgQO2FY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jQ3mu-i11SY"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T13:06:31Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "HP CEO Enrique Lores: Hybrid work is here to stay as employees value flexibility",
+          "description": "HP CEO Enrique Lores joins 'Squawk Box' to discuss what he sees in demand for HP's work-from-home products, the size of HP's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T13:06:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6ahhgSNMVJzjYOnszaxW58EYm6s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qv3hy44hLzk"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-30T12:19:48Z",
+          "channelId": "UCIvqcSPbzQBynjq230v9_yw",
+          "title": "13. Enrique Lores, presidente y CEO mundial de HP Inc",
+          "description": "Quieres ver m\u00e1s v\u00eddeos como este? Suscr\u00edbete: https://bit.ly/2s0lKRd S\u00edguenos en redes: - Facebook: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "EL ESPA\u00d1OL",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-30T12:19:48Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "4DE5zgZ1bKbtfS6m_LFARCmzqXU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "0iQ0tB1LH54OAmkHNPhhfqC9eWo",
+        "id": "OyQZQ1-TDUM",
+        "snippet": {
+          "publishedAt": "2023-01-19T17:48:00Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "HP CEO Enrique Lores on leadership",
+          "description": "HP CEO Enrique Lores spoke with Yahoo Finance Editor-at-Large Brian Sozzi on leadership lessons learned throughout the pandemic. Lores connected with Sozzi during the 2023 World Economic Forum. #shorts #yahoofinance #wef23 #hp \n\nDon't Miss: Valley of Hype: The culture that built Elizabeth Holmes\nWATCH HERE:\nhttps://youtu.be/Sb179GLPNYE\n\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OyQZQ1-TDUM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market",
+            "hp",
+            "enrique lores",
+            "leadership"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HP CEO Enrique Lores on leadership",
+            "description": "HP CEO Enrique Lores spoke with Yahoo Finance Editor-at-Large Brian Sozzi on leadership lessons learned throughout the pandemic. Lores connected with Sozzi during the 2023 World Economic Forum. #shorts #yahoofinance #wef23 #hp \n\nDon't Miss: Valley of Hype: The culture that built Elizabeth Holmes\nWATCH HERE:\nhttps://youtu.be/Sb179GLPNYE\n\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2225",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MQmeOddZXbW4Pha51sF869EXIZY",
+        "id": "L-4KM3Z-6KM",
+        "snippet": {
+          "publishedAt": "2023-01-17T20:56:00Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "HP Inc. CEO Enrique Lores on the economy: It's important to focus on areas we can control",
+          "description": "Enrique Lores, HP Inc. CEO, joins 'Closing Bell' from Davos to discuss the market for computers and his thoughts on the economy. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L-4KM3Z-6KM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Closing Bell",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HP Inc. CEO Enrique Lores on the economy: It's important to focus on areas we can control",
+            "description": "Enrique Lores, HP Inc. CEO, joins 'Closing Bell' from Davos to discuss the market for computers and his thoughts on the economy. For access to live and exclusive video from CNBC subscribe to CNBC PRO:\u00a0https://cnb.cx/2NGeIvi\n\n\u00bb Subscribe to CNBC TV:\u00a0https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC:\u00a0https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news:\u00a0http://www.cnbc.com/\nFollow CNBC on LinkedIn:\u00a0https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook:\u00a0https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter:\u00a0https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram:\u00a0https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2657",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fCqZ8PodbYs602YkvmGUbEfl9Jw",
+        "id": "2arK6_WW_W4",
+        "snippet": {
+          "publishedAt": "2023-10-16T18:30:05Z",
+          "channelId": "UCqcEzOKaA4nc0gISklN0Ryw",
+          "title": "The Moment with Ryan Patel: Season Two Preview with HP CEO Enrique Lores | HP",
+          "description": "Welcome to season two of The Moment with Ryan Patel.\n\nHP CEO Enrique Lores joined us to offer his personal insights into our season two guests and share his own takeaways on the excitement building for the future of AI. \n\nWe would love to hear what you are most excited about as we launch season two of The Moment with Ryan Patel Let us know in the comments!\n\n#HPTheMoment\n\nFor more conversations on The Moment with Ryan Patel, check us out on Spotify: https://open.spotify.com/show/7EH1VIAoJFJlsGsGUwDTYQ\n\n#leadership #disruption #ai #hpthemoment\n\nSUBSCRIBE: http://bit.ly/2mGfXhF\n\nSHOP NOW: https://www.hp.com/us-en/shop\n\nAbout HP:\nHP Inc. is a technology company that believes one thoughtful idea has the power to change the world. Its product and service portfolio of personal systems, printers, and 3D printing solutions helps bring these ideas to life. Visit http://www.hp.com. \n\nConnect with HP:\nVisit HP WEBSITE: http://www.hp.com\nLike HP on FACEBOOK: https://www.facebook.com/HP\nFollow HP on TWITTER: https://twitter.com/HP\nFollow HP on INSTAGRAM: https://www.instagram.com/hp\nFollow HP on LINKEDIN: https://www.linkedin.com/company/hp\n\n\nhttps://www.youtube.com/HP",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2arK6_WW_W4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "HP",
+          "tags": [
+            "HP",
+            "Hewlett-Packard",
+            "Hewlett Packard",
+            "Laptop",
+            "Desktop",
+            "Tablet",
+            "Printer",
+            "Ink",
+            "Toner",
+            "Display",
+            "Business Solutions",
+            "Gaming",
+            "All-In-One",
+            "Graphics Solutions",
+            "leadership",
+            "disruption",
+            "ai"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Moment with Ryan Patel: Season Two Preview with HP CEO Enrique Lores | HP",
+            "description": "Welcome to season two of The Moment with Ryan Patel.\n\nHP CEO Enrique Lores joined us to offer his personal insights into our season two guests and share his own takeaways on the excitement building for the future of AI. \n\nWe would love to hear what you are most excited about as we launch season two of The Moment with Ryan Patel Let us know in the comments!\n\n#HPTheMoment\n\nFor more conversations on The Moment with Ryan Patel, check us out on Spotify: https://open.spotify.com/show/7EH1VIAoJFJlsGsGUwDTYQ\n\n#leadership #disruption #ai #hpthemoment\n\nSUBSCRIBE: http://bit.ly/2mGfXhF\n\nSHOP NOW: https://www.hp.com/us-en/shop\n\nAbout HP:\nHP Inc. is a technology company that believes one thoughtful idea has the power to change the world. Its product and service portfolio of personal systems, printers, and 3D printing solutions helps bring these ideas to life. Visit http://www.hp.com. \n\nConnect with HP:\nVisit HP WEBSITE: http://www.hp.com\nLike HP on FACEBOOK: https://www.facebook.com/HP\nFollow HP on TWITTER: https://twitter.com/HP\nFollow HP on INSTAGRAM: https://www.instagram.com/hp\nFollow HP on LINKEDIN: https://www.linkedin.com/company/hp\n\n\nhttps://www.youtube.com/HP"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3200",
+          "likeCount": "42",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yNe58L15xsm4Yo19ZNQhnvNhLPI",
+        "id": "jQ3mu-i11SY",
+        "snippet": {
+          "publishedAt": "2023-03-29T13:06:31Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "HP CEO Enrique Lores: Hybrid work is here to stay as employees value flexibility",
+          "description": "HP CEO Enrique Lores joins 'Squawk Box' to discuss what he sees in demand for HP's work-from-home products, the size of HP's return to work product slate, and the health of the consumer and companies. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jQ3mu-i11SY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HP CEO Enrique Lores: Hybrid work is here to stay as employees value flexibility",
+            "description": "HP CEO Enrique Lores joins 'Squawk Box' to discuss what he sees in demand for HP's work-from-home products, the size of HP's return to work product slate, and the health of the consumer and companies. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5341",
+          "likeCount": "27",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sTpvF9WEeo8OVnuZ60aX7fLaKWE",
+        "id": "qv3hy44hLzk",
+        "snippet": {
+          "publishedAt": "2023-03-30T12:19:48Z",
+          "channelId": "UCIvqcSPbzQBynjq230v9_yw",
+          "title": "13. Enrique Lores, presidente y CEO mundial de HP Inc",
+          "description": "\u00bfQuieres ver m\u00e1s v\u00eddeos como este? Suscr\u00edbete: https://bit.ly/2s0lKRd\n\nS\u00edguenos en redes: \n- Facebook: https://www.facebook.com/elespanol2015/\n- Twitter: https://twitter.com/elespanolcom\n- Instagram: https://www.instagram.com/elespanol2015/\n- Tiktok: https://www.tiktok.com/@elespanolcom\n\nDescarga nuestra app: \n- Apple: https://itunes.apple.com/es/app/el-espanol/id1034574551?mt=8\n- Android: https://play.google.com/store/apps/details?id=com.elespanol&hl=es",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qv3hy44hLzk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "EL ESPA\u00d1OL",
+          "tags": [
+            "periodismo",
+            "informaci\u00f3n",
+            "noticias"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "13. Enrique Lores, presidente y CEO mundial de HP Inc",
+            "description": "\u00bfQuieres ver m\u00e1s v\u00eddeos como este? Suscr\u00edbete: https://bit.ly/2s0lKRd\n\nS\u00edguenos en redes: \n- Facebook: https://www.facebook.com/elespanol2015/\n- Twitter: https://twitter.com/elespanolcom\n- Instagram: https://www.instagram.com/elespanol2015/\n- Tiktok: https://www.tiktok.com/@elespanolcom\n\nDescarga nuestra app: \n- Apple: https://itunes.apple.com/es/app/el-espanol/id1034574551?mt=8\n- Android: https://play.google.com/store/apps/details?id=com.elespanol&hl=es"
+          },
+          "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+          "duration": "PT12M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "520",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 18
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "John J. Engel",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "9p5vqw6XDxoL2d_goiN1rKwg-GA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1003,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "8u7uXZdZZ2yqo46wHzMq4CJHEl0",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

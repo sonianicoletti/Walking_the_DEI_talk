@@ -1,0 +1,23 @@
+{
+  "ceo": "Joseph Dominguez",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "c4Un3MfXTEHxssF-Gc6IVpI4UwM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2914,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "xLgOThACUOXfVJXejjhm7VXB-ao",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

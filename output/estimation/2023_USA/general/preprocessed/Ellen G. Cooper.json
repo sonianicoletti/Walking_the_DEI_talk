@@ -1,0 +1,23 @@
+{
+  "ceo": "Ellen G. Cooper",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "V1sPE17oYurw7DeW6Ja0DTaJ11w",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 423,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "wgjB1Ae48EKos2GgkcgwGPHYfdk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

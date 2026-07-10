@@ -1,0 +1,134 @@
+{
+  "ceo": "Leon J. Topalian",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "5KZOtTobpmNmC22pjDrvDHNz8ao",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 8
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iSMm1ClSdOcD9LmkaOtly02t70s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m2DK4nr_fiU"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T00:02:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "We have to continue to advocate for the steel industry in the U.S., says Nucor CEO Leon Topalian",
+          "description": "Nucor CEO Leon Topalian goes one-on-one with 'Mad Money' host Jim Cramer to talk share repurchasing, steel tariffs and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T00:02:20Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "OpEi6-CSLrhV6TlYREEZeXiYBWs",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pDww_9UBFDyL5_xV-rMv1ldRoYQ",
+        "id": "m2DK4nr_fiU",
+        "snippet": {
+          "publishedAt": "2023-09-23T00:02:20Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "We have to continue to advocate for the steel industry in the U.S., says Nucor CEO Leon Topalian",
+          "description": "Nucor CEO Leon Topalian goes one-on-one with 'Mad Money' host Jim Cramer to talk share repurchasing, steel tariffs and more. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m2DK4nr_fiU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We have to continue to advocate for the steel industry in the U.S., says Nucor CEO Leon Topalian",
+            "description": "Nucor CEO Leon Topalian goes one-on-one with 'Mad Money' host Jim Cramer to talk share repurchasing, steel tariffs and more. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7251",
+          "likeCount": "19",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 8
+    }
+  }
+}

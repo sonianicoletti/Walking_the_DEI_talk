@@ -1,0 +1,22 @@
+{
+  "ceo": "Gerardo Norcia",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "mhcpo5v-LF5kMrVqnqzzvPffLb0",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 8
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5AjE5wFlidkoXzJ6Vy39PHSayHA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 8
+    }
+  }
+}

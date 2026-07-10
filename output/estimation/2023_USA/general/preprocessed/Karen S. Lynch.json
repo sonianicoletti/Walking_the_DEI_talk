@@ -1,0 +1,900 @@
+{
+  "ceo": "Karen S. Lynch",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "A9MMOfmqqMQhLY16k-yhAPSAuoE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 369,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qslvpa2CHZk2W8EDth-9T1BZnws",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-H1UtN4auk0"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-30T17:52:37Z",
+          "channelId": "UCfU4-ArXuSX0tpyApyklMAg",
+          "title": "A conversation with Hope King &amp; Karen S. Lynch",
+          "description": "A conversation with Hope King & Karen S. Lynch.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Axios",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-30T17:52:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1POfke0Kab-Sq8-bNpgyhO6_cR8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xZ8vkNitv54"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-05T16:07:23Z",
+          "channelId": "UCe5OST2Et9rnBUho307hvgA",
+          "title": "From Pharmacy Technician to Fortune 500 CEO: The Karen Lynch Story",
+          "description": "The Karen Lynch Story Discover the remarkable journey of Karen Lynch, a former Pharmacy Technician who defied the odds to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Niqabify",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-05T16:07:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Noyf2dGFOgt1V_3ZIZZKIxezL30",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DXieCFcqIgk"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-17T16:54:05Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "Pioneering a New Era in Healthcare: Karen S. Lynch&#39;s Visionary Leadership at CVS Health",
+          "description": "Welcome to Mindful Thoughts! In this video on Karen S. Lynch, the CEO of CVS Health. In this video, we will explore Lynch's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-17T16:54:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9jrZcP63fA79AyHtP5oe20wLCf4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tDSxKuRe5S4"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-05T12:30:30Z",
+          "channelId": "UCxnKGNPTR2AC6vc-6OIvCWg",
+          "title": "Karen Lynch , The Journey to Becoming a Powerful Woman | president and CEO of CVS Health",
+          "description": "Karen Lynch , The Journey to Becoming a Powerful Woman | president and CEO of CVS Health Thank you for watching this video.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "World of Women",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-05T12:30:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "thjFpuj-Pb-NluzVR4RWHtyX-WU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BjPMZxTfBtg"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-14T21:55:53Z",
+          "channelId": "UCFHigRR2bgRvyavkEp7Y30A",
+          "title": "A Conversation with Karen Lynch, CEO, CVS Health",
+          "description": "November 7, 2023 Karen S. Lynch, President and CEO of CVS Health, leads more than 300000 employees who are passionate ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Executives' Club of Chicago",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-14T21:55:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fTT0hC5XWJiN2JHeMSKla-LT1aw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MzABvRFtEcs"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-05T19:11:33Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "CVS Health CEO Karen Lynch: We&#39;re committed to lowering the total cost of health care",
+          "description": "Karen Lynch, CVS Health CEO, and CNBC's Bertha Coombs join 'The Exchange' to discuss the company's investor day, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-05T19:11:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZUVig-B-eSFUIfXoVelQetcaAqg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LxBeKOojDjI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-22T00:01:30Z",
+          "channelId": "UCJxgBb1L7sUcwLwZdsyimtg",
+          "title": "Karen Lynch Said Pharmacy walkouts in KS was do to WHATTTTT",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RXComedy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-22T00:01:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tAL8xeUyDcqpMi2OUWfSv3EgiGY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gGtLZ21JBs8"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-30T13:50:52Z",
+          "channelId": "UCjlU_pJplbL8_aE_3ckU4nw",
+          "title": "Official Trailer Reveal for Tempest by Karen Lynch",
+          "description": "This is the official cover reveal trailer for Karen Lynch's, Tempest. Created by The Illustrated Author Design Services. You can find ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Illustrated Author Design",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-30T13:50:52Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "TjPJ0vw9OM756h6ZEmRDp1EB-6w",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "pmtoOU2BvBLfwqrn5Y_Z3MjLnZ4",
+        "id": "-H1UtN4auk0",
+        "snippet": {
+          "publishedAt": "2023-03-30T17:52:37Z",
+          "channelId": "UCfU4-ArXuSX0tpyApyklMAg",
+          "title": "A conversation with Hope King & Karen S. Lynch",
+          "description": "A conversation with Hope King & Karen S. Lynch",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-H1UtN4auk0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Axios",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A conversation with Hope King & Karen S. Lynch",
+            "description": "A conversation with Hope King & Karen S. Lynch"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT21M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1849",
+          "likeCount": "23",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FB3696DyOujAdJD4VVnY2TWsQOA",
+        "id": "xZ8vkNitv54",
+        "snippet": {
+          "publishedAt": "2023-08-05T16:07:23Z",
+          "channelId": "UCe5OST2Et9rnBUho307hvgA",
+          "title": "From Pharmacy Technician to Fortune 500 CEO: The Karen Lynch Story",
+          "description": "The Karen Lynch Story\nDiscover the remarkable journey of Karen Lynch, a former Pharmacy Technician who defied the odds to become a Fortune 500 CEO. \ud83d\udcc8\ud83d\udc69\u200d\ud83d\udcbc\n\nIn this inspiring video, we delve into the world of business, finance, and leadership, tracing Karen Lynch's path from her early days in the healthcare industry to her current role as a visionary leader on Wall Street. \ud83d\udcbc\ud83d\udcf0\n\nAmidst the challenges brought by the pandemic, Karen Lynch's strategic foresight and unwavering determination led CVS Health through uncharted territories, addressing the crisis head-on and playing a pivotal role in vaccine distribution. \ud83d\udcaa\ud83d\udc89\n\nJoin us as we explore her candid insights in an exclusive interview, where Karen Lynch discusses her journey, the future of healthcare, and her perspective on being a female CEO in the corporate world. \ud83c\udf99\ufe0f\ud83d\udca1\n\nFrom pharmacy shelves to the upper echelons of the Fortune 500, Karen Lynch's story is a testament to the power of ambition, resilience, and breaking barriers. \ud83c\udf1f\ud83c\udfe2",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xZ8vkNitv54/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Niqabify",
+          "tags": [
+            "The Karen Lynch Story",
+            "KarenLynch",
+            "Fortune500",
+            "BusinessSuccess",
+            "FemaleCEOs",
+            "Finance",
+            "Leadership",
+            "CVSHealth",
+            "PandemicChallenges",
+            "WallStreet",
+            "InspirationalStory",
+            "business",
+            "wall street",
+            "fortune 500",
+            "news",
+            "finance",
+            "mpw",
+            "female ceos",
+            "money",
+            "journalism franchise",
+            "fortune",
+            "karen lynch",
+            "aetna",
+            "cvs",
+            "cvs health",
+            "pandemic",
+            "covid",
+            "challenges",
+            "forward",
+            "crisis",
+            "vaccine",
+            "cvs pharmacy",
+            "fortune 500 companies",
+            "minuteclinic",
+            "minute clinic cvs",
+            "karen lynch cvs",
+            "relentless karen lynch",
+            "karen lynch interview"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "From Pharmacy Technician to Fortune 500 CEO: The Karen Lynch Story",
+            "description": "The Karen Lynch Story\nDiscover the remarkable journey of Karen Lynch, a former Pharmacy Technician who defied the odds to become a Fortune 500 CEO. \ud83d\udcc8\ud83d\udc69\u200d\ud83d\udcbc\n\nIn this inspiring video, we delve into the world of business, finance, and leadership, tracing Karen Lynch's path from her early days in the healthcare industry to her current role as a visionary leader on Wall Street. \ud83d\udcbc\ud83d\udcf0\n\nAmidst the challenges brought by the pandemic, Karen Lynch's strategic foresight and unwavering determination led CVS Health through uncharted territories, addressing the crisis head-on and playing a pivotal role in vaccine distribution. \ud83d\udcaa\ud83d\udc89\n\nJoin us as we explore her candid insights in an exclusive interview, where Karen Lynch discusses her journey, the future of healthcare, and her perspective on being a female CEO in the corporate world. \ud83c\udf99\ufe0f\ud83d\udca1\n\nFrom pharmacy shelves to the upper echelons of the Fortune 500, Karen Lynch's story is a testament to the power of ambition, resilience, and breaking barriers. \ud83c\udf1f\ud83c\udfe2"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "220",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "brlJgLxs3f2rSW6uo8rVQ-BZI7M",
+        "id": "DXieCFcqIgk",
+        "snippet": {
+          "publishedAt": "2023-03-17T16:54:05Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "Pioneering a New Era in Healthcare: Karen S. Lynch's Visionary Leadership at CVS Health",
+          "description": "Welcome to Mindful Thoughts! In this video on Karen S. Lynch, the CEO of CVS Health. In this video, we will explore Lynch's career path, her leadership principles, and her impact on the healthcare industry. From her humble beginnings to her current position as one of the most powerful women in business, Karen S. Lynch's story is an inspiring one. Join us as we dive into the life and career of this remarkable leader.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DXieCFcqIgk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Pioneering a New Era in Healthcare: Karen S. Lynch's Visionary Leadership at CVS Health",
+            "description": "Welcome to Mindful Thoughts! In this video on Karen S. Lynch, the CEO of CVS Health. In this video, we will explore Lynch's career path, her leadership principles, and her impact on the healthcare industry. From her humble beginnings to her current position as one of the most powerful women in business, Karen S. Lynch's story is an inspiring one. Join us as we dive into the life and career of this remarkable leader."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "80",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JkwpSLpVkxJV9VJYwh_sNyRXapw",
+        "id": "tDSxKuRe5S4",
+        "snippet": {
+          "publishedAt": "2023-01-05T12:30:30Z",
+          "channelId": "UCxnKGNPTR2AC6vc-6OIvCWg",
+          "title": "Karen Lynch , The Journey to Becoming a Powerful Woman | president and CEO of CVS Health",
+          "description": "Karen Lynch , The Journey to Becoming a Powerful Woman | president and CEO of CVS Health\n\nThank you for watching this video. Don't forget to like this video and share it with your friends. Subscribe us to see more valuable videos.\n\nLeave a comment about your thoughts on the video and let us know what else you\u2019d like to see next!\n\n## Make sure to subscribe and hit the bell for new video notifications.\n## LIKE, COMMENT & TELL YOUR FRIENDS  if it make for your knowledge!!\n\n\u25bd Video link \u25ba https://youtu.be/tDSxKuRe5S4\n\nOUR OTHER MEDIA PLATFORMS:\n\u25baFacebook Page:- https://web.facebook.com/worldofwomenn/\n\u25baPinterest:- https://www.pinterest.com/bepowerfulwomen/\n\nPersonal Twitter account: \nhttps://twitter.com/Jenny951126\n\nMusic : https://www.bensound.com/royalty-free-music + Youtube Audio Library\nVideo Clips : https://www.pexels.com/freevideos\nFree Stock Images:https://unsplash.com + https://www.pexels.com\n\nPOPULAR UPLOADS \n\u25b6 Mckenzie Scott's Biography | Amazon Jeff Bezos' Ex-Wife\nhttps://youtu.be/chPIBoU6HU4\n\n\u25b6 Priyanka chopra Jonas biography | Miss India World and Miss World 2000\nhttps://youtu.be/G7kY_w3gngs\n\n\u25b6 Everything you need to know about Mary Barra \nhttps://youtu.be/U8fOIGAV7X4\n\n---------------------------------------------------------------------\n\nFor copyright related issues, credit addition and deletion please let us know and We will resolve your issue within a few hours.\n\n\u260e CONTACT US: powerofwomenblog@gmail.com\n\nFor Karen Lynch, being recognized as one of the most powerful women in America was just the beginning of her journey to becoming an even more powerful woman. Since those early days, she has experienced many successes, but also faced plenty of challenges and disappointments. Here\u2019s how Karen Lynch was able to turn her vision into reality by applying her own five principles on how to be a powerful woman.\n\nKaren\u2019s Story\nKaren was born in Santa Monica, California. Her father\u2019s death when she was only nine years old affected her tremendously. She moved with her mother and siblings to Whittier where they settled in a low-income neighborhood. They lived in government housing and Karen remembers how difficult it was on her mom; she took care of Karen and four other children, working two jobs most of her life. Even with all their challenges, Karen\u2019s mother set an example for her children that showed them if you persevere and work hard you can be successful no matter what your circumstances are...\n\nA Day in the Life of Karen Lynch\nI wake up each morning and enjoy a cup of coffee on my terrace. My mornings are so peaceful, that is until I try to get our four-year-old son out of bed for school. He loves to stay in bed as long as possible which gives me time to read or write. For breakfast, I usually have oatmeal with blueberries and strawberries or protein pancakes with blackberries and whipped cream, paired with milk or my husband\u2019s french press coffee, depending on how much time I have before work. When Alex goes off to daycare (he\u2019s currently at home full-time), my daughter and I head out for her morning classes in Midtown East.Tips from Karen on How to Stand Out as an Influencer in the Digital World\nOwn Your Power! I don\u2019t feel like it\u2019s about more experience or being older. It\u2019s about your point of view, it\u2019s about you as an individual owning your power and saying what I have to say matters. Do we ever really listen when someone is just telling us facts? Maybe in school. But in life, people want experience and they want genuine\u2014and that comes from how you deliver it and how authentic you are. If people can see through something or if they know that what I am saying is not coming from my heart, then I think they will lose respect for me no matter what my resume looks like.\n\nHow to Become a Powerful Woman Like Karen\nKaren was only one of four women in her senior year of high school. She had goals and dreams, but they were considered pretty far-fetched by all of her peers. She graduated and went on to college; while she didn\u2019t have big ambitions at first, she was majoring in business management because it just made sense. On top of that, she worked full-time for some extra cash, so she was able to get an apartment with three other girls after graduation. It wasn\u2019t long before Karen realized that she didn\u2019t like where things were going\u2014she wanted more from life than just a 9-to-5 desk job or getting married and having kids.\n\nLessons Learned from Karen on Anxiety While Traveling\n\nKeywords:-\nKaren Lynch,cvs health,cvs,aetna,karen lynch biography,karen,lynch,powerful women,forbs magazine,karen lymch interview,become a woman,Karen S. Lynch,pharmacy,vaccine,vaccine rollout,United States,human lending library,karen lynch,karen lynch childhood,Aetna,NewCo Shift Forum,Forum,Healthcare,CVS,Shift,Health,Insurance,top 10 most powerful women in the world,most powerful women in history,top 10 most powerful women,health insurance,medicare,aetna medicare",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tDSxKuRe5S4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "World of Women",
+          "tags": [
+            "Karen Lynch",
+            "cvs health",
+            "cvs",
+            "aetna",
+            "karen lynch biography",
+            "karen",
+            "lynch",
+            "powerful women",
+            "forbs magazine",
+            "karen lymch interview",
+            "become a woman",
+            "Karen S. Lynch",
+            "pharmacy",
+            "vaccine",
+            "vaccine rollout",
+            "United States",
+            "human lending library",
+            "karen lynch",
+            "karen lynch childhood",
+            "Aetna",
+            "NewCo Shift Forum",
+            "Forum",
+            "Healthcare",
+            "CVS",
+            "Shift",
+            "Health",
+            "Insurance",
+            "top 10 most powerful women in the world",
+            "most powerful women in history",
+            "top 10 most powerful women",
+            "health insurance",
+            "medicare",
+            "aetna medicare"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Karen Lynch , The Journey to Becoming a Powerful Woman | president and CEO of CVS Health",
+            "description": "Karen Lynch , The Journey to Becoming a Powerful Woman | president and CEO of CVS Health\n\nThank you for watching this video. Don't forget to like this video and share it with your friends. Subscribe us to see more valuable videos.\n\nLeave a comment about your thoughts on the video and let us know what else you\u2019d like to see next!\n\n## Make sure to subscribe and hit the bell for new video notifications.\n## LIKE, COMMENT & TELL YOUR FRIENDS  if it make for your knowledge!!\n\n\u25bd Video link \u25ba https://youtu.be/tDSxKuRe5S4\n\nOUR OTHER MEDIA PLATFORMS:\n\u25baFacebook Page:- https://web.facebook.com/worldofwomenn/\n\u25baPinterest:- https://www.pinterest.com/bepowerfulwomen/\n\nPersonal Twitter account: \nhttps://twitter.com/Jenny951126\n\nMusic : https://www.bensound.com/royalty-free-music + Youtube Audio Library\nVideo Clips : https://www.pexels.com/freevideos\nFree Stock Images:https://unsplash.com + https://www.pexels.com\n\nPOPULAR UPLOADS \n\u25b6 Mckenzie Scott's Biography | Amazon Jeff Bezos' Ex-Wife\nhttps://youtu.be/chPIBoU6HU4\n\n\u25b6 Priyanka chopra Jonas biography | Miss India World and Miss World 2000\nhttps://youtu.be/G7kY_w3gngs\n\n\u25b6 Everything you need to know about Mary Barra \nhttps://youtu.be/U8fOIGAV7X4\n\n---------------------------------------------------------------------\n\nFor copyright related issues, credit addition and deletion please let us know and We will resolve your issue within a few hours.\n\n\u260e CONTACT US: powerofwomenblog@gmail.com\n\nFor Karen Lynch, being recognized as one of the most powerful women in America was just the beginning of her journey to becoming an even more powerful woman. Since those early days, she has experienced many successes, but also faced plenty of challenges and disappointments. Here\u2019s how Karen Lynch was able to turn her vision into reality by applying her own five principles on how to be a powerful woman.\n\nKaren\u2019s Story\nKaren was born in Santa Monica, California. Her father\u2019s death when she was only nine years old affected her tremendously. She moved with her mother and siblings to Whittier where they settled in a low-income neighborhood. They lived in government housing and Karen remembers how difficult it was on her mom; she took care of Karen and four other children, working two jobs most of her life. Even with all their challenges, Karen\u2019s mother set an example for her children that showed them if you persevere and work hard you can be successful no matter what your circumstances are...\n\nA Day in the Life of Karen Lynch\nI wake up each morning and enjoy a cup of coffee on my terrace. My mornings are so peaceful, that is until I try to get our four-year-old son out of bed for school. He loves to stay in bed as long as possible which gives me time to read or write. For breakfast, I usually have oatmeal with blueberries and strawberries or protein pancakes with blackberries and whipped cream, paired with milk or my husband\u2019s french press coffee, depending on how much time I have before work. When Alex goes off to daycare (he\u2019s currently at home full-time), my daughter and I head out for her morning classes in Midtown East.Tips from Karen on How to Stand Out as an Influencer in the Digital World\nOwn Your Power! I don\u2019t feel like it\u2019s about more experience or being older. It\u2019s about your point of view, it\u2019s about you as an individual owning your power and saying what I have to say matters. Do we ever really listen when someone is just telling us facts? Maybe in school. But in life, people want experience and they want genuine\u2014and that comes from how you deliver it and how authentic you are. If people can see through something or if they know that what I am saying is not coming from my heart, then I think they will lose respect for me no matter what my resume looks like.\n\nHow to Become a Powerful Woman Like Karen\nKaren was only one of four women in her senior year of high school. She had goals and dreams, but they were considered pretty far-fetched by all of her peers. She graduated and went on to college; while she didn\u2019t have big ambitions at first, she was majoring in business management because it just made sense. On top of that, she worked full-time for some extra cash, so she was able to get an apartment with three other girls after graduation. It wasn\u2019t long before Karen realized that she didn\u2019t like where things were going\u2014she wanted more from life than just a 9-to-5 desk job or getting married and having kids.\n\nLessons Learned from Karen on Anxiety While Traveling\n\nKeywords:-\nKaren Lynch,cvs health,cvs,aetna,karen lynch biography,karen,lynch,powerful women,forbs magazine,karen lymch interview,become a woman,Karen S. Lynch,pharmacy,vaccine,vaccine rollout,United States,human lending library,karen lynch,karen lynch childhood,Aetna,NewCo Shift Forum,Forum,Healthcare,CVS,Shift,Health,Insurance,top 10 most powerful women in the world,most powerful women in history,top 10 most powerful women,health insurance,medicare,aetna medicare"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "457",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ie9bxFXbDX4NI90pInAVg-w-cZc",
+        "id": "BjPMZxTfBtg",
+        "snippet": {
+          "publishedAt": "2023-12-14T21:55:53Z",
+          "channelId": "UCFHigRR2bgRvyavkEp7Y30A",
+          "title": "A Conversation with Karen Lynch, CEO, CVS Health",
+          "description": "November 7, 2023\n\nKaren S. Lynch, President and CEO of CVS Health, leads more than 300,000 employees who are passionate about delivering superior health experiences for consumers by improving health outcomes, broadening access to care, and lowering costs. Under Karen\u2019s leadership, CVS Health touches the lives of more than 100 million people through its health care and pharmacy benefits management businesses and presence in over 9,000 community health destinations across the United States.\n\nJoin the Exec Club's conversation with Karen S. Lynch and Mike Pykosz, CEO of Oak Street Health. Oak Street Health was recently acquired by CVS Health and helps advance the company\u2019s commitment to broadening access to care, with a focus on underserved communities. During this event, Karen will reflect on how CVS Health is redefining health care, using technology to advance consumer health, and key leadership lessons from her more than three-decade career.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BjPMZxTfBtg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Executives' Club of Chicago",
+          "tags": [
+            "karen lynch",
+            "cvs health",
+            "health",
+            "health care",
+            "karen s. lynch",
+            "health care innovation",
+            "public health",
+            "health care quality",
+            "the karen lynch story",
+            "karen lynch biography",
+            "karen lynch interview",
+            "health care cost",
+            "karen lynch cvs",
+            "health care access",
+            "relentless karen lynch",
+            "health insurance",
+            "social determinants of health",
+            "health insurers",
+            "health insurance news",
+            "health equity",
+            "health merger",
+            "mental health",
+            "community health",
+            "health company news",
+            "Oak Street Health",
+            "Mike Pykosz"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A Conversation with Karen Lynch, CEO, CVS Health",
+            "description": "November 7, 2023\n\nKaren S. Lynch, President and CEO of CVS Health, leads more than 300,000 employees who are passionate about delivering superior health experiences for consumers by improving health outcomes, broadening access to care, and lowering costs. Under Karen\u2019s leadership, CVS Health touches the lives of more than 100 million people through its health care and pharmacy benefits management businesses and presence in over 9,000 community health destinations across the United States.\n\nJoin the Exec Club's conversation with Karen S. Lynch and Mike Pykosz, CEO of Oak Street Health. Oak Street Health was recently acquired by CVS Health and helps advance the company\u2019s commitment to broadening access to care, with a focus on underserved communities. During this event, Karen will reflect on how CVS Health is redefining health care, using technology to advance consumer health, and key leadership lessons from her more than three-decade career."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT29M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1912",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HZ6TG7aS1S9AhV3A_MxRHkHplGQ",
+        "id": "MzABvRFtEcs",
+        "snippet": {
+          "publishedAt": "2023-12-05T19:11:33Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "CVS Health CEO Karen Lynch: We're committed to lowering the total cost of health care",
+          "description": "Karen Lynch, CVS Health CEO, and CNBC\u2019s Bertha Coombs join 'The Exchange' to discuss the company's investor day, prescription drug pricing, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MzABvRFtEcs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CVS Health CEO Karen Lynch: We're committed to lowering the total cost of health care",
+            "description": "Karen Lynch, CVS Health CEO, and CNBC\u2019s Bertha Coombs join 'The Exchange' to discuss the company's investor day, prescription drug pricing, and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6113",
+          "likeCount": "43",
+          "favoriteCount": "0",
+          "commentCount": "21"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Gl2H8O7eiyz_Q4qySqT2gGza4mk",
+        "id": "LxBeKOojDjI",
+        "snippet": {
+          "publishedAt": "2023-10-22T00:01:30Z",
+          "channelId": "UCJxgBb1L7sUcwLwZdsyimtg",
+          "title": "Karen Lynch Said Pharmacy walkouts in KS was do to WHATTTTT",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LxBeKOojDjI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "RXComedy",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Karen Lynch Said Pharmacy walkouts in KS was do to WHATTTTT",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1211",
+          "likeCount": "83",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CXOve5hm2Edo6CQHqrZOTnqrYBQ",
+        "id": "gGtLZ21JBs8",
+        "snippet": {
+          "publishedAt": "2023-09-30T13:50:52Z",
+          "channelId": "UCjlU_pJplbL8_aE_3ckU4nw",
+          "title": "Official Trailer Reveal for Tempest by Karen Lynch",
+          "description": "This is the official cover reveal trailer for Karen Lynch's, Tempest. \nCreated by The Illustrated Author Design Services. \n____________________\nYou can find my work at:\n\nhttps://linktr.ee/theillustratedauthordesign",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gGtLZ21JBs8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Illustrated Author Design",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Official Trailer Reveal for Tempest by Karen Lynch",
+            "description": "This is the official cover reveal trailer for Karen Lynch's, Tempest. \nCreated by The Illustrated Author Design Services. \n____________________\nYou can find my work at:\n\nhttps://linktr.ee/theillustratedauthordesign"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "206",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

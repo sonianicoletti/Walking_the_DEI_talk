@@ -1,0 +1,23 @@
+{
+  "ceo": "James C. Fish Jr.",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "JdCVmB7sCYu0afPJ3soDlvixFJw",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 39922,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "iZ49NGkwPUofSHg3_bd5Ut7ZQgk",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

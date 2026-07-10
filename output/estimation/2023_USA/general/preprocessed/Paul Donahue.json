@@ -1,0 +1,23 @@
+{
+  "ceo": "Paul Donahue",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "v5Co04qpbln8vG3G8Z6rScyuQGc",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3202,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "so5Zs3lJ-lmRjId5GXBSvSBPogc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

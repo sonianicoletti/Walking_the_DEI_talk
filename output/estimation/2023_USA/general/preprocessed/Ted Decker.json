@@ -1,0 +1,546 @@
+{
+  "ceo": "Ted Decker",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "F0zsqdN5MzYbNc2gUkG43qGg-bo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 267,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pMDbmhc6zfewJFIUEU3Jo4AZ6ts",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1BObl6b9oSE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-05T21:34:50Z",
+          "channelId": "UCz6RzD6KG_hH_oHb2kyW5jQ",
+          "title": "The Home Depot\u2019s Ted Decker: Exceptional Leaders / Exceptional Ideas",
+          "description": "When Ted Decker stepped in as CEO of The Home Depot in 2022, it was the best of times and the worst of times. COVID-19 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Morgan Stanley",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-05T21:34:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0u1Vd1dxMkxIwNh2cy4ZIeRrDgE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eIfR6Rpfgl0"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T19:04:23Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Home Depot CEO Ted Decker: We are operating really well",
+          "description": "Home Depot CEO Ted Decker and CNBC's Courtney Reagan join 'The Exchange' to discuss how the company is preparing for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T19:04:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QU0p4s3D31PfPahepucyMHQhMZ8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UfQHaI7H-rU"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-30T18:22:55Z",
+          "channelId": "UCsVf1FVnzhAvV_prU52La4g",
+          "title": "Dean&#39;s Speaker Series: Ted Decker, Chair, President, and CEO of The Home Depot",
+          "description": "Dean Maryam Alavi and Ted Decker, CEO of The Home Depot, sit down for a conversation about leadership and strategy, how ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Georgia Tech Scheller College of Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-30T18:22:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sp5HxqsSq5i2_yykeVGCFxENjl4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TWPVFE6vBgM"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T12:41:43Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Home Depot CEO Ted Decker: We knew spending would shift from goods to services",
+          "description": "Home Depot CEO Ted Decker sits down with CNBC's Becky Quick ahead of its investor conference to discuss the home ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T12:41:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "evThST1ZkcZISXsFdqG93BxLfvs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W8VZ47f8vP4"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-13T19:50:30Z",
+          "channelId": "UCYA7BPpENGv-gpl_yLZLWEA",
+          "title": "March 13, 2023   Ted Decker &amp; Ann Marie Campbell, Home Depot",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rotary Club Of Atlanta",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-13T19:50:30Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kvsfM1-4BcKJ2iOBoootHPQ4xxM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ZoJe06hznDLsv-v8QI3ozzmIer8",
+        "id": "1BObl6b9oSE",
+        "snippet": {
+          "publishedAt": "2023-10-05T21:34:50Z",
+          "channelId": "UCz6RzD6KG_hH_oHb2kyW5jQ",
+          "title": "The Home Depot\u2019s Ted Decker: Exceptional Leaders / Exceptional Ideas",
+          "description": "When Ted Decker stepped in as CEO of The Home Depot in 2022, it was the best of times and the worst of times.  COVID-19 created a surge in home improvement projects alongside record sales. But this can be a tricky handoff for a CEO trying to make his mark.\n\nIn the latest episode of Exceptional Leaders, Retail analyst Simeon Gutman sits down with Decker to discuss the role of AI in the customer experience, how VR will scale productivity, and the energy the defines the company\u2019s culture. https://mgstn.ly/3ZFZE5f",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1BObl6b9oSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Morgan Stanley",
+          "tags": [
+            "Home Depot",
+            "Morgan Stanley"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Home Depot\u2019s Ted Decker: Exceptional Leaders / Exceptional Ideas",
+            "description": "When Ted Decker stepped in as CEO of The Home Depot in 2022, it was the best of times and the worst of times.  COVID-19 created a surge in home improvement projects alongside record sales. But this can be a tricky handoff for a CEO trying to make his mark.\n\nIn the latest episode of Exceptional Leaders, Retail analyst Simeon Gutman sits down with Decker to discuss the role of AI in the customer experience, how VR will scale productivity, and the energy the defines the company\u2019s culture. https://mgstn.ly/3ZFZE5f"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6812",
+          "likeCount": "73",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vVwaxKrC3oQa7xPwi54B3Hpvz-M",
+        "id": "eIfR6Rpfgl0",
+        "snippet": {
+          "publishedAt": "2023-11-20T19:04:23Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Home Depot CEO Ted Decker: We are operating really well",
+          "description": "Home Depot CEO Ted Decker and CNBC's Courtney Reagan join 'The Exchange' to discuss how the company is preparing for Black Friday, the state of the consumer, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eIfR6Rpfgl0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "cnbc",
+            "business",
+            "news",
+            "finance",
+            "investing",
+            "the exchange",
+            "stocks",
+            "economy",
+            "politics",
+            "breaking news",
+            "money",
+            "Wall Street",
+            "kelly evans",
+            "newsroom"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Home Depot CEO Ted Decker: We are operating really well",
+            "description": "Home Depot CEO Ted Decker and CNBC's Courtney Reagan join 'The Exchange' to discuss how the company is preparing for Black Friday, the state of the consumer, and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT4M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8381",
+          "likeCount": "30",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZcAvpJW56XlKVZYRTmCBEvcaUh0",
+        "id": "UfQHaI7H-rU",
+        "snippet": {
+          "publishedAt": "2023-01-30T18:22:55Z",
+          "channelId": "UCsVf1FVnzhAvV_prU52La4g",
+          "title": "Dean's Speaker Series: Ted Decker, Chair, President, and CEO of The Home Depot",
+          "description": "Dean Maryam Alavi and Ted Decker, CEO of The Home Depot, sit down for a conversation about leadership and strategy, how The Home Depot plans to grow its business, and the future of retail and shopping. \n\nTed Decker is chair, president, and CEO of The Home Depot, the world\u2019s largest home improvement retailer with more than 2,300 stores and 500,000 associates. Under Ted\u2019s leadership, The Home Depot is creating a seamless interconnected shopping experience for Pro and DIY customers, while championing the company\u2019s unique culture.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UfQHaI7H-rU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Georgia Tech Scheller College of Business",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dean's Speaker Series: Ted Decker, Chair, President, and CEO of The Home Depot",
+            "description": "Dean Maryam Alavi and Ted Decker, CEO of The Home Depot, sit down for a conversation about leadership and strategy, how The Home Depot plans to grow its business, and the future of retail and shopping. \n\nTed Decker is chair, president, and CEO of The Home Depot, the world\u2019s largest home improvement retailer with more than 2,300 stores and 500,000 associates. Under Ted\u2019s leadership, The Home Depot is creating a seamless interconnected shopping experience for Pro and DIY customers, while championing the company\u2019s unique culture."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1176",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KGCLoTIrRca6ZLvfFLlrwlWshVY",
+        "id": "TWPVFE6vBgM",
+        "snippet": {
+          "publishedAt": "2023-06-13T12:41:43Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Home Depot CEO Ted Decker: We knew spending would shift from goods to services",
+          "description": "Home Depot CEO Ted Decker sits down with CNBC's Becky Quick ahead of its investor conference to discuss the home improvement retailer's performance, his plans for the business, including how to grow when consumers are shifting spending habits from goods to experiences, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TWPVFE6vBgM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Home Depot CEO Ted Decker: We knew spending would shift from goods to services",
+            "description": "Home Depot CEO Ted Decker sits down with CNBC's Becky Quick ahead of its investor conference to discuss the home improvement retailer's performance, his plans for the business, including how to grow when consumers are shifting spending habits from goods to experiences, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22094",
+          "likeCount": "108",
+          "favoriteCount": "0",
+          "commentCount": "15"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_zpH4sgQ53cCM2uiZZzTT90mqps",
+        "id": "W8VZ47f8vP4",
+        "snippet": {
+          "publishedAt": "2023-03-13T19:50:30Z",
+          "channelId": "UCYA7BPpENGv-gpl_yLZLWEA",
+          "title": "March 13, 2023   Ted Decker & Ann Marie Campbell, Home Depot",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W8VZ47f8vP4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rotary Club Of Atlanta",
+          "tags": [
+            "Rotary Atlanta"
+          ],
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "March 13, 2023   Ted Decker & Ann Marie Campbell, Home Depot",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT40M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1512",
+          "likeCount": "13",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "ceo": "Raj Subramaniam",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "6F8g86RTnhDNPRduozb1gAxXGgM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 206269,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9aT5K5Xd15RGOkBSDt974pXAsU4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eURfPQzM028"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T11:00:39Z",
+          "channelId": "UCqwreS1wKG2l_K2ESOtIlyA",
+          "title": "What&#39;s Driving Transformation at FedEx?  CEO Raj Subramaniam fills us in at the Evolve Global Summit",
+          "description": "With the holiday season around the corner, FedEx CEO Raj Subramaniam explains how this legacy company is leveraging ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Events",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T11:00:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9iB6k2IfV8tkpDZm6TUsdTMUaMA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FDST1gnJAXs"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-18T19:34:29Z",
+          "channelId": "UC8IMzFU10rjIjiZMNWdoI8Q",
+          "title": "[2023 Outstanding 50] The Pinnacle Award to Raj Subramaniam",
+          "description": "September 21st, 2023 at Cipriani Wall Street Photographed by Jon Bewley & Team For more information about the award: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Asian American Business Development",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-18T19:34:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s-c9fHF3arAKliC-WTeDSBI2-3Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "l5WDyAPD6Dc"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-18T20:26:54Z",
+          "channelId": "UCHlXspOKaWutfgmyFfoEbrQ",
+          "title": "Indian-American Fed EX CEO Raj Subramaniam presented with Pravasi Bharatiya Samman",
+          "description": "Indian-American Fed EX CEO Raj Subramaniam presented with Pravasi Bharatiya Samman ITV Gold is the longest running South ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ITV Gold",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-18T20:26:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TW6IxbAXkqCNzPrwoG2djw3889Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ggBhEHQF85s"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T08:19:07Z",
+          "channelId": "UClTXOYx4haGObRhBTgpXsIA",
+          "title": "Chambers Talks Episode 25: Embedding innovation into your company DNA with Raj Subramaniam of FedEx",
+          "description": "John is joined by friend and fellow tech disruptor Raj Subramaniam to discuss stepping into the role of President and CEO of the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "JC2 Ventures",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T08:19:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_nrb0DPH8PqT5iuaya20X8_9PkM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Xae4OZxzQ3g"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T20:03:03Z",
+          "channelId": "UCiU6kIBC5i79l5qJJyJhKlA",
+          "title": "A Digital-First FedEx | Raj Subramaniam | Vivek and Vandana Sharma India Lecture",
+          "description": "The Center for Emerging Markets welcomed Raj Subramaniam, President, CEO, and Director of FedEx Corporation, for a fireside ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D'Amore-McKim School of Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T20:03:03Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "B5AB2M7O27v3dKNcpSEVazx5YPA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "75ADQkbTnDudiXeD2j5lrHmz-0Y",
+        "id": "eURfPQzM028",
+        "snippet": {
+          "publishedAt": "2023-11-03T11:00:39Z",
+          "channelId": "UCqwreS1wKG2l_K2ESOtIlyA",
+          "title": "What's Driving Transformation at FedEx?  CEO Raj Subramaniam fills us in at the Evolve Global Summit",
+          "description": "With the holiday season around the corner, FedEx CEO Raj Subramaniam explains how this legacy company is leveraging logistics, supply chains and predictive AI to keep your packages \u2013 and the global economy \u2013 moving. Leadership in action, from transportation to ecommerce, as the world\u2019s largest overnight delivery service recalibrates its future. Plus, what its like to walk in the footsteps of visionary founder Fred Smith and evolve the company for the future.\nSign up to watch all of CNBC\u2019s Evolve Global Summit exclusively on-demand: https://bit.ly/3QGNg1N\nMore from the CNBC Events: https://bit.ly/40ZdNd1\nSubscribe to the CNBC Events Marketing Newsletter here: https://cnb.cx/3nJqzht\nFollow on Twitter: https://twitter.com/cnbcevents\nFollow on LinkedIn: https://www.linkedin.com/showcase/cnbcevents",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eURfPQzM028/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Events",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What's Driving Transformation at FedEx?  CEO Raj Subramaniam fills us in at the Evolve Global Summit",
+            "description": "With the holiday season around the corner, FedEx CEO Raj Subramaniam explains how this legacy company is leveraging logistics, supply chains and predictive AI to keep your packages \u2013 and the global economy \u2013 moving. Leadership in action, from transportation to ecommerce, as the world\u2019s largest overnight delivery service recalibrates its future. Plus, what its like to walk in the footsteps of visionary founder Fred Smith and evolve the company for the future.\nSign up to watch all of CNBC\u2019s Evolve Global Summit exclusively on-demand: https://bit.ly/3QGNg1N\nMore from the CNBC Events: https://bit.ly/40ZdNd1\nSubscribe to the CNBC Events Marketing Newsletter here: https://cnb.cx/3nJqzht\nFollow on Twitter: https://twitter.com/cnbcevents\nFollow on LinkedIn: https://www.linkedin.com/showcase/cnbcevents"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13255",
+          "likeCount": "88",
+          "favoriteCount": "0",
+          "commentCount": "74"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yvRL_aSMSPQgJYfugqt-wu-_ihw",
+        "id": "FDST1gnJAXs",
+        "snippet": {
+          "publishedAt": "2023-10-18T19:34:29Z",
+          "channelId": "UC8IMzFU10rjIjiZMNWdoI8Q",
+          "title": "[2023 Outstanding 50] The Pinnacle Award to Raj Subramaniam",
+          "description": "September 21st, 2023 at Cipriani Wall Street\nPhotographed by Jon Bewley & Team\n\nFor more information about the award: https://www.aabdc.com/outstanding50\n\nThe Outstanding 50 Asian Americans in Business Awards Gala Dinner was first established in 2001 by the Asian American Business Development Center, which has remained the premier forum to highlight the achievements of Asian American business professionals across the U.S. Marking its 22nd anniversary in 2023, the award recipients represent a microcosm of the best of Asian American entrepreneurs, professionals and corporate executives who are engaged in a wide range of business interests, and all of whom have a role in driving the U.S. economy.\n\nRaj Subramaniam, President, CEO and Board of Directors member of FedEx Corporation, has more than 30 years of industry experience at FedEx. His international leadership experience, keen business insights, and focus on globalization have contributed to the success of FedEx and provide a blueprint as the company revolutionizes the transportation and logistics industry. Subramaniam is responsible for spearheading the current global transformation of FedEx, which includes revitalizing the company\u2019s operating strategy, profitably growing the e-commerce business, and harnessing the power of global supply chain data to drive the company\u2019s digital transformation.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FDST1gnJAXs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Asian American Business Development",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "[2023 Outstanding 50] The Pinnacle Award to Raj Subramaniam",
+            "description": "September 21st, 2023 at Cipriani Wall Street\nPhotographed by Jon Bewley & Team\n\nFor more information about the award: https://www.aabdc.com/outstanding50\n\nThe Outstanding 50 Asian Americans in Business Awards Gala Dinner was first established in 2001 by the Asian American Business Development Center, which has remained the premier forum to highlight the achievements of Asian American business professionals across the U.S. Marking its 22nd anniversary in 2023, the award recipients represent a microcosm of the best of Asian American entrepreneurs, professionals and corporate executives who are engaged in a wide range of business interests, and all of whom have a role in driving the U.S. economy.\n\nRaj Subramaniam, President, CEO and Board of Directors member of FedEx Corporation, has more than 30 years of industry experience at FedEx. His international leadership experience, keen business insights, and focus on globalization have contributed to the success of FedEx and provide a blueprint as the company revolutionizes the transportation and logistics industry. Subramaniam is responsible for spearheading the current global transformation of FedEx, which includes revitalizing the company\u2019s operating strategy, profitably growing the e-commerce business, and harnessing the power of global supply chain data to drive the company\u2019s digital transformation."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "245",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gBoJ4mQBK7e2xN0M7rQzPvF6AGQ",
+        "id": "l5WDyAPD6Dc",
+        "snippet": {
+          "publishedAt": "2023-04-18T20:26:54Z",
+          "channelId": "UCHlXspOKaWutfgmyFfoEbrQ",
+          "title": "Indian-American Fed EX CEO Raj Subramaniam presented with Pravasi Bharatiya Samman",
+          "description": "Indian-American Fed EX CEO Raj Subramaniam presented with Pravasi Bharatiya Samman \n\nITV Gold is the longest running South Asian TV station in the U.S. and is part of the largest Indian American media house, Parikh Worldwide Media. Subscribe to ITV Gold on Spectrum (Time Warner Cable), Altice (Cable Vision), RCN and Sling TV.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l5WDyAPD6Dc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ITV Gold",
+          "tags": [
+            "indian american news",
+            "india",
+            "america",
+            "usa",
+            "news",
+            "india news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Indian-American Fed EX CEO Raj Subramaniam presented with Pravasi Bharatiya Samman",
+            "description": "Indian-American Fed EX CEO Raj Subramaniam presented with Pravasi Bharatiya Samman \n\nITV Gold is the longest running South Asian TV station in the U.S. and is part of the largest Indian American media house, Parikh Worldwide Media. Subscribe to ITV Gold on Spectrum (Time Warner Cable), Altice (Cable Vision), RCN and Sling TV."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "183",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TDPTYIlkez_aaWpf9vEM8JCn4eU",
+        "id": "ggBhEHQF85s",
+        "snippet": {
+          "publishedAt": "2023-03-29T08:19:07Z",
+          "channelId": "UClTXOYx4haGObRhBTgpXsIA",
+          "title": "Chambers Talks Episode 25: Embedding innovation into your company DNA with Raj Subramaniam of FedEx",
+          "description": "John is joined by friend and fellow tech disruptor Raj Subramaniam to discuss stepping into the role of President and CEO of the iconic FedEx. The greatest companies can often be the most difficult to change, yet over the past 50 years FedEx has continuously evolved to meet the needs of the world around us. From the company\u2019s legacy of innovation and its commitment to finding significant points of differentiation for its customers, Raj shares how FedEx will leverage its vast physical network and emerging technologies to continue leading market transitions for years to come.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ggBhEHQF85s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "JC2 Ventures",
+          "tags": [
+            "John Chambers",
+            "Raj Subramaniam",
+            "FedEx",
+            "Cisco",
+            "JC2 Ventures"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chambers Talks Episode 25: Embedding innovation into your company DNA with Raj Subramaniam of FedEx",
+            "description": "John is joined by friend and fellow tech disruptor Raj Subramaniam to discuss stepping into the role of President and CEO of the iconic FedEx. The greatest companies can often be the most difficult to change, yet over the past 50 years FedEx has continuously evolved to meet the needs of the world around us. From the company\u2019s legacy of innovation and its commitment to finding significant points of differentiation for its customers, Raj shares how FedEx will leverage its vast physical network and emerging technologies to continue leading market transitions for years to come."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "137",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_i610HC61ncoAdmRt5M4IGJkSkM",
+        "id": "Xae4OZxzQ3g",
+        "snippet": {
+          "publishedAt": "2023-10-24T20:03:03Z",
+          "channelId": "UCiU6kIBC5i79l5qJJyJhKlA",
+          "title": "A Digital-First FedEx | Raj Subramaniam | Vivek and Vandana Sharma India Lecture",
+          "description": "The Center for Emerging Markets welcomed Raj Subramaniam, President, CEO, and Director of FedEx Corporation, for a fireside chat to discuss how FedEx is making global supply chains smarter for everyone.\n\nLearn more: http://www.damore-mckim.northeastern.edu/\r\n\r\nFollow us on:\r\nFacebook: https://www.facebook.com/DAmoreMcKim  \r\nInstagram: https://instagram.com/DAmoreMcKim\r\nLinkedIn: https://www.linkedin.com/edu/school?id=18507 \r\nTwitter: https://twitter.com/nu_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Xae4OZxzQ3g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "D'Amore-McKim School of Business",
+          "tags": [
+            "Northeastern University",
+            "D'AMore-McKim School of Business"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A Digital-First FedEx | Raj Subramaniam | Vivek and Vandana Sharma India Lecture",
+            "description": "The Center for Emerging Markets welcomed Raj Subramaniam, President, CEO, and Director of FedEx Corporation, for a fireside chat to discuss how FedEx is making global supply chains smarter for everyone.\n\nLearn more: http://www.damore-mckim.northeastern.edu/\r\n\r\nFollow us on:\r\nFacebook: https://www.facebook.com/DAmoreMcKim  \r\nInstagram: https://instagram.com/DAmoreMcKim\r\nLinkedIn: https://www.linkedin.com/edu/school?id=18507 \r\nTwitter: https://twitter.com/nu_business"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2899",
+          "likeCount": "27",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

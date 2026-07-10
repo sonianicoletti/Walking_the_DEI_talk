@@ -1,0 +1,404 @@
+{
+  "ceo": "Marvin R. Ellison",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "OJVl1Z32TMocOMLrMoz0aogItrQ",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 18,
+      "resultsPerPage": 15
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gvzhgWEsYX_q0M4Ax1jYrIJTCYg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NClAwXD97Ds"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-01T18:29:28Z",
+          "channelId": "UCNLYyJhre8lM8DoD9I3a8CQ",
+          "title": "NRF Foundation Honors 2023 - Lowe&#39;s Chairman and CEO Marvin Ellison is The Visionary 2023",
+          "description": "The Visionary 2023 \u2013 Lowe's Chairman and CEO Marvin Ellison \u2013 delivered remarks onstage January 15 at the NRF Foundation ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NClAwXD97Ds/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NClAwXD97Ds/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NClAwXD97Ds/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "National Retail Federation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-01T18:29:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w_Wm0h-Bo0iMUC5MqQBcGreuX8E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r1qOvUbmE70"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-26T18:56:12Z",
+          "channelId": "UCNLYyJhre8lM8DoD9I3a8CQ",
+          "title": "Lowe&#39;s CEO Marvin Ellison talks about climbing the corporate ladder",
+          "description": "At NRF 2023: Retail's Big Show, Lowe's Companies Inc. Chairman and CEO Marvin Ellison reflects on how his career path was ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "National Retail Federation",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-26T18:56:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YShz3ZDI0XhAEWcBV4BI709Ay30",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uae-ruVNuUQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-28T11:34:40Z",
+          "channelId": "UCauN42x9aLwAvkxPWrD-MCg",
+          "title": "Listen - Marvin Ellison, CEO @ Lowes",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Leadership Coaching",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-28T11:34:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "X5EEArAZ-Y6w5fdxcLHw_Go3RJw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "adbuQbmwsoA"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-22T23:37:58Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "We have the unique ability to execute in both urban and rural areas, says Lowe&#39;s CEO Marvin Ellison",
+          "description": "'Mad Money' host Jim Cramer goes one-on-one with Lowe's Chairman, President and CEO Marvin Ellison to talk quarterly ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-22T23:37:58Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "UmrE2jWNDv3tKx1wtw07O_9WhMM",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "YmDrHG5pNSziN2MDDa9_zABF_1Y",
+        "id": "NClAwXD97Ds",
+        "snippet": {
+          "publishedAt": "2023-02-01T18:29:28Z",
+          "channelId": "UCNLYyJhre8lM8DoD9I3a8CQ",
+          "title": "NRF Foundation Honors 2023 - Lowe's Chairman and CEO Marvin Ellison is The Visionary 2023",
+          "description": "The Visionary 2023 \u2013 Lowe's Chairman and CEO Marvin Ellison \u2013 delivered remarks onstage January 15 at the NRF Foundation Honors, presented by American Express and PwC. Mr. Ellison's children presented him with the award.\nhttps://nrffoundation.org/honors/honorees/visionary",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NClAwXD97Ds/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NClAwXD97Ds/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NClAwXD97Ds/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "National Retail Federation",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "NRF Foundation Honors 2023 - Lowe's Chairman and CEO Marvin Ellison is The Visionary 2023",
+            "description": "The Visionary 2023 \u2013 Lowe's Chairman and CEO Marvin Ellison \u2013 delivered remarks onstage January 15 at the NRF Foundation Honors, presented by American Express and PwC. Mr. Ellison's children presented him with the award.\nhttps://nrffoundation.org/honors/honorees/visionary"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT18M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2804",
+          "likeCount": "42",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LQ6L3aeK70xXBnJuT6ij7WjH034",
+        "id": "r1qOvUbmE70",
+        "snippet": {
+          "publishedAt": "2023-01-26T18:56:12Z",
+          "channelId": "UCNLYyJhre8lM8DoD9I3a8CQ",
+          "title": "Lowe's CEO Marvin Ellison talks about climbing the corporate ladder",
+          "description": "At NRF 2023: Retail's Big Show, Lowe's Companies Inc. Chairman and CEO Marvin Ellison reflects on how his career path was only made possible with the help of others. He spoke with NRF President and CEO Matthew Shay about his vision for the future of retail and Lowe\u2019s role in bringing it to life through investing in programs that empower young leaders and expand access to opportunity.\n\nTo learn more, visit: https://nrfbigshow.nrf.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r1qOvUbmE70/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "National Retail Federation",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lowe's CEO Marvin Ellison talks about climbing the corporate ladder",
+            "description": "At NRF 2023: Retail's Big Show, Lowe's Companies Inc. Chairman and CEO Marvin Ellison reflects on how his career path was only made possible with the help of others. He spoke with NRF President and CEO Matthew Shay about his vision for the future of retail and Lowe\u2019s role in bringing it to life through investing in programs that empower young leaders and expand access to opportunity.\n\nTo learn more, visit: https://nrfbigshow.nrf.com/"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4400",
+          "likeCount": "26",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pU4QzspJ3X-r5PMitCIWcf_qOBM",
+        "id": "uae-ruVNuUQ",
+        "snippet": {
+          "publishedAt": "2023-09-28T11:34:40Z",
+          "channelId": "UCauN42x9aLwAvkxPWrD-MCg",
+          "title": "Listen - Marvin Ellison, CEO @ Lowes",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uae-ruVNuUQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Leadership Coaching",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Listen - Marvin Ellison, CEO @ Lowes",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "237",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K2Hyj32fZz4NOc41xJYyJmxneU4",
+        "id": "adbuQbmwsoA",
+        "snippet": {
+          "publishedAt": "2023-08-22T23:37:58Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "We have the unique ability to execute in both urban and rural areas, says Lowe's CEO Marvin Ellison",
+          "description": "'Mad Money' host Jim Cramer goes one-on-one with Lowe's Chairman, President and CEO Marvin Ellison to talk quarterly earnings results. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/adbuQbmwsoA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We have the unique ability to execute in both urban and rural areas, says Lowe's CEO Marvin Ellison",
+            "description": "'Mad Money' host Jim Cramer goes one-on-one with Lowe's Chairman, President and CEO Marvin Ellison to talk quarterly earnings results. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2302",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 15
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ceo": "James C. O'Rourke",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "LKNpSPnteE91AU9zmrRCajJnJQ0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 159,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "o7uWr_yXGaqj0Kdk5MBKeIRqOgw",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

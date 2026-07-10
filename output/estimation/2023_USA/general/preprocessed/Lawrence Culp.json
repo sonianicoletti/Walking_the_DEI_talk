@@ -1,0 +1,470 @@
+{
+  "ceo": "Lawrence Culp",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "ikpw7X6y9uB4OoDidyAx5TYE_f8",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 167,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VG5HdLZSabiteeymA7ASRkKXvtQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2DC5e468jM4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-22T01:53:34Z",
+          "channelId": "UC7SuJ7R6oSftWO3v8qWc66Q",
+          "title": "PM Modi meets GE Aerospace CEO, H. Lawrence Culp Jr.",
+          "description": "A convergence of innovation and collaboration! #PMModi engages with @GE_Aerospace CEO, H. Lawrence Culp, Jr. during ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "New India Junction",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-22T01:53:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NUzwT1Lv0_OsJH_B4LS7Ws4KJIU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p_DSJnJ7eHU"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-21T22:02:08Z",
+          "channelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
+          "title": "GE Aerospace CEO, H  Lawrence Culp, Jr  meets PM Modi in Washington DC",
+          "description": "DD News is India's 24x7 news channel from the stable of the country's Public Service Broadcaster, Prasar Bharati. It has the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DD News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-21T22:02:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V6ejvpDXMCzAFRPM2NjOqSIDuZ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NxvgEPCQ-QI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-22T01:28:34Z",
+          "channelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
+          "title": "PM Modi meets Chairman and CEO of General Electric H Lawrence Culp Jr in Washington DC",
+          "description": "Prime Minister Modi met General Electric H Lawrence Culp Jr Chairman in Washington DC on June 22. H Lawrence Culp Jr is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ANI News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-22T01:28:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AWNAA-QLnUnp6OYZxDHd1IpnUPY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kL86vodh87w"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T14:52:32Z",
+          "channelId": "UCa2bUBT81_ZPH_AkG_JmZdg",
+          "title": "\ud83e\udd1d PM Modi Meets US CEOs, Including GE&#39;s Lawrence Culp Jr  \ud83c\udf0d #IndoUSRelations",
+          "description": "Welcome to our YouTube channel dedicated to delivering the latest news updates from India on a daily basis. Our channel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NewsINDIA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T14:52:32Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "FH3gylwoh2SU0bsmnM-8Lo6zeK8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "AcuHPUq4B8pTduMmIza93xXOB00",
+        "id": "2DC5e468jM4",
+        "snippet": {
+          "publishedAt": "2023-06-22T01:53:34Z",
+          "channelId": "UC7SuJ7R6oSftWO3v8qWc66Q",
+          "title": "PM Modi meets GE Aerospace CEO, H. Lawrence Culp Jr.",
+          "description": "A convergence of innovation and collaboration! #PMModi engages with @GE_Aerospace CEO, H. Lawrence Culp, Jr. during #ModiUSVisit2023 in #WashingtonDC. Exciting prospects arise as GE's expertise across Power, Renewable Energy, Aviation, and Healthcare intertwines with India's vision for progress and development.\n\nCheck out some of our other popular videos:\n\nhttps://www.youtube.com/watch?v=g9BsMMkSC9A\nhttps://www.youtube.com/watch?v=Bo1AgQlOgiw&t=316s\nhttps://www.youtube.com/watch?v=GwbrSxd0WQ4\n\nSpread the word \n\n#ModiInUSA #PMModiUSVisit #NewIndiaJunction \n\nContribute to the conversation\n\nDrop a comment to let us know what you think!\n\nBe a part of the NIJ Community:\nInstagram: http://www.instagram.com/nijunction\nFacebook: http://www.facebook.com/nijunction\nTwitter: http://www.twitter.com/nijunction\nSpotify: https://open.spotify.com/show/2DPvQM22Zcf1v3REL08bdd",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2DC5e468jM4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New India Junction",
+          "tags": [
+            "pm modi in us",
+            "pm modi",
+            "pm narendra modi",
+            "prime minister narendra modi",
+            "pm modi in usa",
+            "narendra modi in usa",
+            "modi us visit",
+            "modi us visit 2023",
+            "modi us visit schedule",
+            "modi us visit 2023 schedule",
+            "narendra modi",
+            "narendra modi in united states",
+            "modi visit to usa",
+            "pm modi us trip",
+            "pm modi us tour",
+            "Prime Minister Modi",
+            "modi in us 2023",
+            "PM modi in Washington",
+            "world leader",
+            "new india junction",
+            "pm modi us visit",
+            "pm modi to visit to us",
+            "ge aerospace"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PM Modi meets GE Aerospace CEO, H. Lawrence Culp Jr.",
+            "description": "A convergence of innovation and collaboration! #PMModi engages with @GE_Aerospace CEO, H. Lawrence Culp, Jr. during #ModiUSVisit2023 in #WashingtonDC. Exciting prospects arise as GE's expertise across Power, Renewable Energy, Aviation, and Healthcare intertwines with India's vision for progress and development.\n\nCheck out some of our other popular videos:\n\nhttps://www.youtube.com/watch?v=g9BsMMkSC9A\nhttps://www.youtube.com/watch?v=Bo1AgQlOgiw&t=316s\nhttps://www.youtube.com/watch?v=GwbrSxd0WQ4\n\nSpread the word \n\n#ModiInUSA #PMModiUSVisit #NewIndiaJunction \n\nContribute to the conversation\n\nDrop a comment to let us know what you think!\n\nBe a part of the NIJ Community:\nInstagram: http://www.instagram.com/nijunction\nFacebook: http://www.facebook.com/nijunction\nTwitter: http://www.twitter.com/nijunction\nSpotify: https://open.spotify.com/show/2DPvQM22Zcf1v3REL08bdd"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "449",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gtitV0QKemZS1o2L-5Omvf_Isuo",
+        "id": "p_DSJnJ7eHU",
+        "snippet": {
+          "publishedAt": "2023-06-21T22:02:08Z",
+          "channelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
+          "title": "GE Aerospace CEO, H  Lawrence Culp, Jr  meets PM Modi in Washington DC",
+          "description": "DD News is India\u2019s 24x7 news channel from the stable of the country\u2019s Public Service Broadcaster, Prasar Bharati. It has the distinction of being India\u2019s only terrestrial cum satellite News Channel. Launched in 2003, DD News has made a name to deliver balanced, fair, and accurate news.\n\nSubscribe: For more news go to: https://www.youtube.com/c/ddnews\n\nFollow DD News on social media: \n\u25baFacebook: https://www.facebook.com/DDNews\n\u25baEnglish Twitter: https://twitter.com/DDNewslive\n\u25baHindi Twitter: https://twitter.com/DDNewsHindi\n\u25baInstagram: https://www.instagram.com/ddnews_official\n\u25baWebsite: https://ddnews.gov.in",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p_DSJnJ7eHU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DD News",
+          "tags": [
+            "DDNews",
+            "DDNewsEnglish",
+            "PrimeMinister",
+            "PM Modi",
+            "DDNews Hindi",
+            "Breaking News",
+            "LIVE",
+            "LIVE Updates",
+            "DDnews Live"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "GE Aerospace CEO, H  Lawrence Culp, Jr  meets PM Modi in Washington DC",
+            "description": "DD News is India\u2019s 24x7 news channel from the stable of the country\u2019s Public Service Broadcaster, Prasar Bharati. It has the distinction of being India\u2019s only terrestrial cum satellite News Channel. Launched in 2003, DD News has made a name to deliver balanced, fair, and accurate news.\n\nSubscribe: For more news go to: https://www.youtube.com/c/ddnews\n\nFollow DD News on social media: \n\u25baFacebook: https://www.facebook.com/DDNews\n\u25baEnglish Twitter: https://twitter.com/DDNewslive\n\u25baHindi Twitter: https://twitter.com/DDNewsHindi\n\u25baInstagram: https://www.instagram.com/ddnews_official\n\u25baWebsite: https://ddnews.gov.in"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2790",
+          "likeCount": "58",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "m1z73E_rI9kKFctXkVcLkJGRQbM",
+        "id": "NxvgEPCQ-QI",
+        "snippet": {
+          "publishedAt": "2023-06-22T01:28:34Z",
+          "channelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
+          "title": "PM Modi meets Chairman and CEO of General Electric H Lawrence Culp Jr in Washington DC",
+          "description": "Prime Minister Modi met General Electric H Lawrence Culp Jr Chairman in Washington DC on June 22. H Lawrence Culp Jr is also the Chief Executive Officer of GE Aerospace. \n\n#generalelectric #pmmodiusvisit #narendramodi \n\nSubscribe now and press the bell icon \ud83d\udd14 to get new video updates: https://bit.ly/2UV4ygi\n--------------------------------------\nANI is South Asia's leading Multimedia News Agency providing content for every information platform, including TV, Internet, broadband, newspapers, and mobiles. \nSubscribe now! Enjoy and stay connected with us!!\n\u261b Subscribe to ANI News YouTube channel: https://bit.ly/2UV4ygi\n\u261b Visit our Official website: https://www.aninews.in/\n\u261b Follow ANI: https://twitter.com/ANI \n\u261b Like us: https://www.facebook.com/ANINEWS.IN\n\u261b Email to: anicontent@aniin.com, internetani@aniin.com\n\u261b Copyrights \u00a9 All Rights Reserved ANI Media Pvt Ltd.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NxvgEPCQ-QI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ANI News",
+          "tags": [
+            "general electric",
+            "ceo of general electric",
+            "h lawrence",
+            "h lawrence culp jr on pm modi",
+            "h lawrence culp jr",
+            "pm modi",
+            "modi",
+            "narendra modi",
+            "ceo of general electric on pm modi us visit",
+            "modi us visit",
+            "narendra modi in us",
+            "pm modi in us",
+            "pm modi in washington",
+            "pm modi us visit",
+            "pm modi us visit in june",
+            "modi us visit 2023",
+            "pm modi to visit america",
+            "pm narendra modi us visit",
+            "joe biden",
+            "narendra modi us visit",
+            "modi live news",
+            "shorts",
+            "news",
+            "ceo of general electric on pm modi",
+            "ani"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "PM Modi meets Chairman and CEO of General Electric H Lawrence Culp Jr in Washington DC",
+            "description": "Prime Minister Modi met General Electric H Lawrence Culp Jr Chairman in Washington DC on June 22. H Lawrence Culp Jr is also the Chief Executive Officer of GE Aerospace. \n\n#generalelectric #pmmodiusvisit #narendramodi \n\nSubscribe now and press the bell icon \ud83d\udd14 to get new video updates: https://bit.ly/2UV4ygi\n--------------------------------------\nANI is South Asia's leading Multimedia News Agency providing content for every information platform, including TV, Internet, broadband, newspapers, and mobiles. \nSubscribe now! Enjoy and stay connected with us!!\n\u261b Subscribe to ANI News YouTube channel: https://bit.ly/2UV4ygi\n\u261b Visit our Official website: https://www.aninews.in/\n\u261b Follow ANI: https://twitter.com/ANI \n\u261b Like us: https://www.facebook.com/ANINEWS.IN\n\u261b Email to: anicontent@aniin.com, internetani@aniin.com\n\u261b Copyrights \u00a9 All Rights Reserved ANI Media Pvt Ltd."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15542",
+          "likeCount": "765",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xxfGNG8H4XGhUI0RySFo9LGWHBg",
+        "id": "kL86vodh87w",
+        "snippet": {
+          "publishedAt": "2023-06-23T14:52:32Z",
+          "channelId": "UCa2bUBT81_ZPH_AkG_JmZdg",
+          "title": "\ud83e\udd1d PM Modi Meets US CEOs, Including GE's Lawrence Culp Jr  \ud83c\udf0d #IndoUSRelations",
+          "description": "Welcome to our YouTube channel dedicated to delivering the latest news updates from India on a daily basis. Our channel features the most accurate, unbiased news coverage from all parts of the country. Our team of experienced reporters are always on the ground, providing in-depth analysis and reports from various regions of India.\n\nOur channel covers a wide range of topics including politics, business, entertainment, technology, sports, health, and more. Whether you want to stay updated on the latest political developments, business news, or get insights into the latest trends and happenings from the world of entertainment, we have got you covered.\n\nWe understand the importance of reliable and timely information, and that is why we strive to bring you the most accurate and trustworthy news coverage. From breaking news stories to exclusive interviews with prominent personalities, our channel has something for everyone.\n\nOur content is presented in a concise and easy-to-digest format, ensuring that you never miss out on any important news updates. We also encourage our viewers to share their opinions and perspectives on the news stories covered on our channel.\n\nSo, if you want to stay informed and up-to-date with the latest news from India, subscribe to our channel now and never miss out on any of the breaking news stories from the country.\n\n#IndiaNews #BreakingNews #LatestNews #Headlines #Politics #Economy #Technology #Entertainment #Sports #WorldNews #InternationalNews #BusinessNews #FinancialNews #Coronavirus #COVID19 #HealthNews #Education #ScienceNews #Environment #ClimateChange #HumanRights #Crime #Justice #IndianElections #IndianPolitics #Modi #BJP #Congress #AmitShah #RahulGandhi #ArvindKejriwal #Delhi #Mumbai #Kolkata #Chennai #Bangalore #Hyderabad #Pune #Ahmedabad #Jaipur #Lucknow #Bihar #UP #TamilNadu #Karnataka #Maharashtra #Gujarat #Rajasthan #MadhyaPradesh #UttarPradesh #JammuAndKashmir #Assam #Odisha #WestBengal #Kerala #AndhraPradesh #Telangana #Chhattisgarh #Haryana #Punjab #NarendraModi #SoniaGandhi #IndiaChinaStandoff #IndiaPakistanTension #RamMandir #Ayodhya #CAA #NRC #FarmersProtest #DelhiRiots #IndiaAgainstCorruption #BlackLivesMatterIndia #ArnabGoswami #RheaChakraborty #SushantSinghRajput #Bollywood #IndianCricket #AmitabhBachchan #ViratKohli #M.S.Dhoni #IndianFootball #IndianOlympics #IndianAthletics #IndianHockey #IndianBasketball #IndianBoxing #IndianWrestling #IndianBadminton #IndianTennis #IndianSwimming #IndianGolf #IndianChess #IndianStockMarket #IndianRupee #IndiaGDP #IndianIndustry #IndianAutomobiles #IndianIT #IndianStartups #MakeInIndia #DigitalIndia #SwachhBharat #SkillIndia #FitIndia #AtmanirbharBharat #VocalForLocal #StartupIndia #SmartCities #CleanEnergy #RenewableEnergy #ElectricVehicles #IndiaTourism",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kL86vodh87w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NewsINDIA",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\ud83e\udd1d PM Modi Meets US CEOs, Including GE's Lawrence Culp Jr  \ud83c\udf0d #IndoUSRelations",
+            "description": "Welcome to our YouTube channel dedicated to delivering the latest news updates from India on a daily basis. Our channel features the most accurate, unbiased news coverage from all parts of the country. Our team of experienced reporters are always on the ground, providing in-depth analysis and reports from various regions of India.\n\nOur channel covers a wide range of topics including politics, business, entertainment, technology, sports, health, and more. Whether you want to stay updated on the latest political developments, business news, or get insights into the latest trends and happenings from the world of entertainment, we have got you covered.\n\nWe understand the importance of reliable and timely information, and that is why we strive to bring you the most accurate and trustworthy news coverage. From breaking news stories to exclusive interviews with prominent personalities, our channel has something for everyone.\n\nOur content is presented in a concise and easy-to-digest format, ensuring that you never miss out on any important news updates. We also encourage our viewers to share their opinions and perspectives on the news stories covered on our channel.\n\nSo, if you want to stay informed and up-to-date with the latest news from India, subscribe to our channel now and never miss out on any of the breaking news stories from the country.\n\n#IndiaNews #BreakingNews #LatestNews #Headlines #Politics #Economy #Technology #Entertainment #Sports #WorldNews #InternationalNews #BusinessNews #FinancialNews #Coronavirus #COVID19 #HealthNews #Education #ScienceNews #Environment #ClimateChange #HumanRights #Crime #Justice #IndianElections #IndianPolitics #Modi #BJP #Congress #AmitShah #RahulGandhi #ArvindKejriwal #Delhi #Mumbai #Kolkata #Chennai #Bangalore #Hyderabad #Pune #Ahmedabad #Jaipur #Lucknow #Bihar #UP #TamilNadu #Karnataka #Maharashtra #Gujarat #Rajasthan #MadhyaPradesh #UttarPradesh #JammuAndKashmir #Assam #Odisha #WestBengal #Kerala #AndhraPradesh #Telangana #Chhattisgarh #Haryana #Punjab #NarendraModi #SoniaGandhi #IndiaChinaStandoff #IndiaPakistanTension #RamMandir #Ayodhya #CAA #NRC #FarmersProtest #DelhiRiots #IndiaAgainstCorruption #BlackLivesMatterIndia #ArnabGoswami #RheaChakraborty #SushantSinghRajput #Bollywood #IndianCricket #AmitabhBachchan #ViratKohli #M.S.Dhoni #IndianFootball #IndianOlympics #IndianAthletics #IndianHockey #IndianBasketball #IndianBoxing #IndianWrestling #IndianBadminton #IndianTennis #IndianSwimming #IndianGolf #IndianChess #IndianStockMarket #IndianRupee #IndiaGDP #IndianIndustry #IndianAutomobiles #IndianIT #IndianStartups #MakeInIndia #DigitalIndia #SwachhBharat #SkillIndia #FitIndia #AtmanirbharBharat #VocalForLocal #StartupIndia #SmartCities #CleanEnergy #RenewableEnergy #ElectricVehicles #IndiaTourism"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

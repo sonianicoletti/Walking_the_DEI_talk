@@ -1,0 +1,728 @@
+{
+  "ceo": "Lorenzo Simonelli",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "_XEwFONXGoit9n0Axbwk8My3PDc",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 159,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Fj48ZqRP2-XmMxDReVAR5aNhPko",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iSRwx5EyRZk"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-18T10:07:11Z",
+          "channelId": "UCvn9Ya17cXUEI6aNtpIuY1g",
+          "title": "Lorenzo Simonelli of Baker Hughes stresses importance of using energy mix",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ESG MENA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-18T10:07:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-otfgNDv3ZMse5YKO-1Coo71qpU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r0uNawanl50"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-27T01:22:44Z",
+          "channelId": "UCBEyA-ShngIHUJiHt1b_VzA",
+          "title": "Lorenzo Simonelli, Chairman &amp; CEO of Baker Hughes at the 2023 Edelman Trust Barometer Launch Event",
+          "description": "An esteemed panel discussed the implications and strategies for building trust in a polarized landscape, based on the findings of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Edelman",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-27T01:22:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kaTeyhVHVa-h2AJ6f-RDn5mORI0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m1PUTMjmsRc"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-03T18:31:58Z",
+          "channelId": "UCw0y9zO1RXI6uEzoKbbnxTQ",
+          "title": "Lorenzo Simonelli Live from COP28 on creating a lower carbon economy for the future",
+          "description": "\"Clean integrated power solutions are going to be the future.\" For live events, on-the-ground interviews, and in-depth analysis, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AtlanticCouncil",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-03T18:31:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hdEk3Uo0vCXkdFnAIBFaD9Oc2pw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_G2vyrm5W-w"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-26T16:31:15Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Baker Hughes CEO Lorenzo Simonelli Talks Earnings | Bloomberg Talks",
+          "description": "Baker Hughes Chairman and CEO Lorenzo Simonelli discusses the company's Q3 earnings beat. Simonelli says he sees positive ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-26T16:31:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rF1tbDiukxBlO_EiQsPAU1M3qi8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Tv4yM3SglTg"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-01T12:55:47Z",
+          "channelId": "UCKngIY89G43ar3cfAhRarBw",
+          "title": "In discussion with Lorenzo Simonelli, Chairman, President and CEO at Baker Hughes",
+          "description": "Net zero: a formidable challenge, yet within our grasp. Meet Lorenzo Simonelli, Chairman, President and CEO at Baker Hughes, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "World Utilities Congress",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-01T12:55:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GJpmLItbkm17wnqIPcL8NCZ5IYY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ydV_U_Udlr8"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-31T05:00:22Z",
+          "channelId": "UCqi2ArqzO-zDD4fI4AXci7Q",
+          "title": "Lorenzo Simonelli (Specialista 60 e 110 ostacoli) in live Sprint2u \ud83c\udfc3 alle 18:25",
+          "description": "Sprint2u con Lorenzo Simonelli (Specialista 60 e 110 ostacoli) il 30 maggio alle 18:25 Conduce: Ferdinando Savarese Rimani ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "OA Sport TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-31T05:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s3Berk_MjUsJWJ5VW1U4NWi2dwA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5l7oJGU2KYg"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-23T19:53:40Z",
+          "channelId": "UC0GdsZcGcqX-vxHcQRvL6Pg",
+          "title": "Flipping the Barrel -EP 095 Lorenzo Simonelli, CEO at Baker Hughes.",
+          "description": "This video was taken in June 2021. Due to social distancing restrictions- we sat according to standards ft apart. Connect with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Flipping The Barrel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-23T19:53:40Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "5Y_RTsUxhofoNEi_5ockQJxD5dY",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "H6-PDN24GFStxY2gvI8ZSQnnaSA",
+        "id": "iSRwx5EyRZk",
+        "snippet": {
+          "publishedAt": "2023-02-18T10:07:11Z",
+          "channelId": "UCvn9Ya17cXUEI6aNtpIuY1g",
+          "title": "Lorenzo Simonelli of Baker Hughes stresses importance of using energy mix",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iSRwx5EyRZk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ESG MENA",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lorenzo Simonelli of Baker Hughes stresses importance of using energy mix",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2193",
+          "likeCount": "21",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ET5YJ_vaYFEY1PjZuKee18zDP_g",
+        "id": "r0uNawanl50",
+        "snippet": {
+          "publishedAt": "2023-01-27T01:22:44Z",
+          "channelId": "UCBEyA-ShngIHUJiHt1b_VzA",
+          "title": "Lorenzo Simonelli, Chairman & CEO of Baker Hughes at the 2023 Edelman Trust Barometer Launch Event",
+          "description": "An esteemed panel discussed the implications and strategies for building trust in a polarized landscape, based on the findings of the 2023 Edelman Trust Barometer. Explore the report and watch the full panel: https://edl.mn/3wAjSPU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r0uNawanl50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Edelman",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lorenzo Simonelli, Chairman & CEO of Baker Hughes at the 2023 Edelman Trust Barometer Launch Event",
+            "description": "An esteemed panel discussed the implications and strategies for building trust in a polarized landscape, based on the findings of the 2023 Edelman Trust Barometer. Explore the report and watch the full panel: https://edl.mn/3wAjSPU"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "134",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jnNaAqz8A0rW9EzaLuLB8znsLxk",
+        "id": "m1PUTMjmsRc",
+        "snippet": {
+          "publishedAt": "2023-12-03T18:31:58Z",
+          "channelId": "UCw0y9zO1RXI6uEzoKbbnxTQ",
+          "title": "Lorenzo Simonelli Live from COP28 on creating a lower carbon economy for the future",
+          "description": "\"Clean integrated power solutions are going to be the future.\"\n\nFor live events, on-the-ground interviews, and in-depth analysis, follow our team at the #COP28 Global Decarbonization Accelerator Connect: https://www.atlanticcouncil.org/programs/global-energy-center/cop28/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m1PUTMjmsRc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AtlanticCouncil",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Lorenzo Simonelli Live from COP28 on creating a lower carbon economy for the future",
+            "description": "\"Clean integrated power solutions are going to be the future.\"\n\nFor live events, on-the-ground interviews, and in-depth analysis, follow our team at the #COP28 Global Decarbonization Accelerator Connect: https://www.atlanticcouncil.org/programs/global-energy-center/cop28/"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "495",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "G7YN3R1oSv2r1KmnRMKXO4L76WM",
+        "id": "_G2vyrm5W-w",
+        "snippet": {
+          "publishedAt": "2023-10-26T16:31:15Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Baker Hughes CEO Lorenzo Simonelli Talks Earnings | Bloomberg Talks",
+          "description": "Baker Hughes Chairman and CEO Lorenzo Simonelli discusses the company's Q3 earnings beat. Simonelli says he sees positive momentum across its portfolio despite persisting global economic uncertainty. He speaks with Bloomberg's Alix Steel. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_G2vyrm5W-w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Business",
+            "Business News",
+            "Daily News",
+            "Investing",
+            "News",
+            "Politics",
+            "bloomberg",
+            "bloomberg interview",
+            "bloomberg podcast",
+            "bloomberg talks",
+            "business",
+            "economy",
+            "finance",
+            "investing",
+            "podcast",
+            "talks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Baker Hughes CEO Lorenzo Simonelli Talks Earnings | Bloomberg Talks",
+            "description": "Baker Hughes Chairman and CEO Lorenzo Simonelli discusses the company's Q3 earnings beat. Simonelli says he sees positive momentum across its portfolio despite persisting global economic uncertainty. He speaks with Bloomberg's Alix Steel. \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "67",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fcJthEOG4PwPBz03aVERo36kHZ4",
+        "id": "Tv4yM3SglTg",
+        "snippet": {
+          "publishedAt": "2023-06-01T12:55:47Z",
+          "channelId": "UCKngIY89G43ar3cfAhRarBw",
+          "title": "In discussion with Lorenzo Simonelli, Chairman, President and CEO at Baker Hughes",
+          "description": "Net zero: a formidable challenge, yet within our grasp. Meet Lorenzo Simonelli, Chairman, President and CEO at Baker Hughes, who shared with us the key to achieving net zero goals while staying flexible in the ever-changing landscape of the energy sector.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Tv4yM3SglTg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "World Utilities Congress",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "In discussion with Lorenzo Simonelli, Chairman, President and CEO at Baker Hughes",
+            "description": "Net zero: a formidable challenge, yet within our grasp. Meet Lorenzo Simonelli, Chairman, President and CEO at Baker Hughes, who shared with us the key to achieving net zero goals while staying flexible in the ever-changing landscape of the energy sector."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT2M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1012",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xVkIGL7_gAiN5ZTSsQ-hzn6Hvnc",
+        "id": "ydV_U_Udlr8",
+        "snippet": {
+          "publishedAt": "2023-05-31T05:00:22Z",
+          "channelId": "UCqi2ArqzO-zDD4fI4AXci7Q",
+          "title": "Lorenzo Simonelli (Specialista 60 e 110 ostacoli) in live Sprint2u \ud83c\udfc3 alle 18:25",
+          "description": "Sprint2u con Lorenzo Simonelli (Specialista 60 e 110 ostacoli) il 30 maggio alle 18:25\nConduce: Ferdinando Savarese\n\nRimani aggiornato e seguici su:\nWebsite: https://www.oasport.it/\nInstagram: https://www.instagram.com/oasport.it/ \nFacebook: https://www.facebook.com/OASportExOlimpiazzurra/?fref=ts\nTwitter: https://twitter.com/OA_Sport",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ydV_U_Udlr8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "OA Sport TV",
+          "tags": [
+            "OA Sport",
+            "sport",
+            "sport2u",
+            "stream",
+            "live",
+            "Sprint2u",
+            "Ferdinando Savarese",
+            "atletica",
+            "sprint",
+            "correre",
+            "Lorenzo Simonelli",
+            "60 ostacoli",
+            "110 ostacoli"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "it",
+          "localized": {
+            "title": "Lorenzo Simonelli (Specialista 60 e 110 ostacoli) in live Sprint2u \ud83c\udfc3 alle 18:25",
+            "description": "Sprint2u con Lorenzo Simonelli (Specialista 60 e 110 ostacoli) il 30 maggio alle 18:25\nConduce: Ferdinando Savarese\n\nRimani aggiornato e seguici su:\nWebsite: https://www.oasport.it/\nInstagram: https://www.instagram.com/oasport.it/ \nFacebook: https://www.facebook.com/OASportExOlimpiazzurra/?fref=ts\nTwitter: https://twitter.com/OA_Sport"
+          },
+          "defaultAudioLanguage": "it"
+        },
+        "contentDetails": {
+          "duration": "PT27M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "153",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Jpyb_riTKJJN0JtO8xOMfXp7xuA",
+        "id": "5l7oJGU2KYg",
+        "snippet": {
+          "publishedAt": "2023-06-23T19:53:40Z",
+          "channelId": "UC0GdsZcGcqX-vxHcQRvL6Pg",
+          "title": "Flipping the Barrel -EP 095 Lorenzo Simonelli, CEO at Baker Hughes.",
+          "description": "This video was taken in June 2021.\nDue to social distancing restrictions- we sat according to standards ft apart.\n\nConnect with Massiel Diez: @maisefitlife\nConnect with Jamie Elrod @jmeelrod\nFollow FTB on LinkedIn: FLIPPING THE BARREL PODCAST\nVisit Us: www.flippingthebarrel.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5l7oJGU2KYg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Flipping The Barrel",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Flipping the Barrel -EP 095 Lorenzo Simonelli, CEO at Baker Hughes.",
+            "description": "This video was taken in June 2021.\nDue to social distancing restrictions- we sat according to standards ft apart.\n\nConnect with Massiel Diez: @maisefitlife\nConnect with Jamie Elrod @jmeelrod\nFollow FTB on LinkedIn: FLIPPING THE BARREL PODCAST\nVisit Us: www.flippingthebarrel.com"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT30M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1407",
+          "likeCount": "31",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

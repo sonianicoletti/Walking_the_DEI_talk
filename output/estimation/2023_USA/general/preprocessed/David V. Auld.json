@@ -1,0 +1,23 @@
+{
+  "ceo": "David V. Auld",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "QH9P_cfJWaSOCh81PMXggkE5uUs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 838,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "IdMdg31_LB5YPIFNpBrxbbFvgoI",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

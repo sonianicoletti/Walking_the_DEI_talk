@@ -1,0 +1,23 @@
+{
+  "ceo": "Richard T. Hume",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "1pHaJpdkctqN2U9JM1kR9NTGoWE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 22886,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1ce6ZyuJh24fGQ94GuomMVfee-w",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ceo": "Mark T. Mondello",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "JuUQzBTci2TdsOIpGsFt77UdxHM",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 32,
+      "resultsPerPage": 26
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "8BIDlAWYgNlO-JF3nZDaXBdF2yU",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 26,
+      "resultsPerPage": 26
+    }
+  }
+}

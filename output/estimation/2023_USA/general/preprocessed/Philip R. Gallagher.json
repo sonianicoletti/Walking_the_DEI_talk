@@ -1,0 +1,23 @@
+{
+  "ceo": "Philip R. Gallagher",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "WzWbVGuLpxZsg7U2IAJzP679Zfw",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 320,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "JyzdM-Fl57zIDLmfA9oU52eIR9w",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

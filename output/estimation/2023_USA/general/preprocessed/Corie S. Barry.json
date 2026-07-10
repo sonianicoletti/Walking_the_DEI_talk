@@ -1,0 +1,118 @@
+{
+  "ceo": "Corie S. Barry",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "m7rdaJOsTiULiwnLO_bOrp2pd2o",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 11
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d19Ay6J2IxRY7Ij-3TR0BjOQAxo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xxiSpry2lNk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-23T06:03:56Z",
+          "channelId": "UCHGBgY0WVs6a6JQ_d2z9SBw",
+          "title": "Fireside chat with Corie Barry and Neel Kashkari",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Minneapolis Fed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-23T06:03:56Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1DF-XNy7SRgXdiV1ynpuRf4oeB8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "8liHKhs8HeRsdITyGgX9aQrl5MI",
+        "id": "xxiSpry2lNk",
+        "snippet": {
+          "publishedAt": "2023-09-23T06:03:56Z",
+          "channelId": "UCHGBgY0WVs6a6JQ_d2z9SBw",
+          "title": "Fireside chat with Corie Barry and Neel Kashkari",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xxiSpry2lNk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Minneapolis Fed",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fireside chat with Corie Barry and Neel Kashkari",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT53M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1338",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

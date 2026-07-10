@@ -1,0 +1,23 @@
+{
+  "ceo": "Douglas McMillon",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "x7rqJo6z-sLotPjw7zZR0UyMy5Q",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 302,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "0tLFiZvirtgldKZgfbeMv0UfL2E",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

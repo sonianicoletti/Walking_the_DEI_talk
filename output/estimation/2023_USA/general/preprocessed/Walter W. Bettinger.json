@@ -1,0 +1,22 @@
+{
+  "ceo": "Walter W. Bettinger",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "JI5QSMpB6V92-bS_M5tHoaJE_Sw",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 8,
+      "resultsPerPage": 5
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "kIxIltAcL2OQnfvcIAKUl1ix5UE",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 5,
+      "resultsPerPage": 5
+    }
+  }
+}

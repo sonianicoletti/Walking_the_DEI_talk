@@ -1,0 +1,938 @@
+{
+  "ceo": "Fabrizio Freda",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "al7pIwtHE5BgEWN--KpdvoiTM_s",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 9
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0XTC_TuJ4nn7mA9YtH4R-5wDnSE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nSEH9aHx2-Y"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-30T14:00:37Z",
+          "channelId": "UCf0PBRjhf0rF8fWBIxTuoWA",
+          "title": "Rent the Runway Founder on what she learned from the Estee\u00a0Lauder\u00a0CEO",
+          "description": "Watch the full interview with Jennifer Hyman here: https://youtu.be/PvZbugU-fTU #JenniferHyman #HarryStebbings #20VC ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "20VC with Harry Stebbings",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-30T14:00:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "I5nUYBLFfw0SLHeP_xI9G_GdISo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DDYH8lQgIOM"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-01T06:12:13Z",
+          "channelId": "UC5DGmjQ94aKeKOrIUp3yZwg",
+          "title": "Building a Resilient Supply Chain Team | with Roberto Canevari",
+          "description": "In episode #132 of the Leaders in Supply Chain Podcast, Roberto Canevari, Executive Vice President and CSCO at The Est\u00e9e ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Alcott Global",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-01T06:12:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9NypZQvXnnfph6QmjI2gjDDpMIM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AV6_b_wOPVw"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-24T19:04:35Z",
+          "channelId": "UCL-Gw_aExR2vY1uxlNYqk7Q",
+          "title": "Est\u00e9e Lauder Head of Supply Chain Technology: Continue To Be Curious About New Technologies",
+          "description": "Sowmya Gottipati, Head of Supply Chain Technology at The Est\u00e9e Lauder Companies, speaks with Asha Saxena, Founder and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CDO Magazine",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-24T19:04:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Rle5byzJElpcgUq9K2jFYxzQ9MU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KZUZgn1UPxY"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-02T04:55:55Z",
+          "channelId": "UCzDAs2XhGYDH-IRbd8Xi5fQ",
+          "title": "Este Lauder&#39;s Journey to Scaling Success | The Early Days Ep. 2",
+          "description": "Alright, buckle up guys, because today we're going to dive deep into the fascinating story of Estee Lauder and her journey to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tofler - Business Insights",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-02T04:55:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tKIaxq9HKiQCUfIaJBA7ubE0kHA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DlgELui-sSM"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-06T18:59:16Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "The Est\u00c3\u00a9e Lauder Companies Inc Q2 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-06T18:59:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jsKng4mnQykRTTNGjW3_Ch-elSM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cRB5avRml1Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-11T12:33:59Z",
+          "channelId": "UCIRL0qUAa1nCRGZhYSWC6cQ",
+          "title": "Estee Lauder: enhancing the employee training process with flipbooks | Flipsnack.com",
+          "description": "Wondering how you could use flipbooks to enhance the employee training process? Create an internal digital magazine with the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Flipsnack",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-11T12:33:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ASMnBPWe8W9kLZd3ASpLtHO_upA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZI3SlnnS9M4"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-06T13:30:11Z",
+          "channelId": "UCFNTsbOS9yRGdCQ_cBYAHxg",
+          "title": "How I Landed A Est\u00e9e Lauder Companies Internship | My Application &amp; What I Learnt!",
+          "description": "disclaimer: these thoughts are my own, not Est\u00e9e's** Hi, my name is Winnie and in today's video, I'll be sharing how I landed an ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Winnie Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-06T13:30:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NlzAhLuP432b93zaqEPxR3GMGm8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4Qcq2Z4cXrs"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-05T07:32:07Z",
+          "channelId": "UC6PXhiOI9rH0RlcxBXFpG6w",
+          "title": "The Godfather&#39;s Darkest Secret: Why Fredo Corleone is Weak?",
+          "description": "Have you ever thought about why Fredo is the weak link of the family in the Godfather series, where there are strong characters ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cinema Honor",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-05T07:32:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "N4X44EXzgjzG7kQn62CPeerofqE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "46lEkvA6nxc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-01T16:38:09Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Estee Lauder stock sinks amid weak demand in China",
+          "description": "Estee Lauder (EL) shares tumbled after the beauty company cut its full-year outlook due to weakening China sales, which account ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-01T16:38:09Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "RhKa4U1eG_ll1b1u585DnYiN6b8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "ei6hGQOZ2UmFOztDufjpP3ZytfQ",
+        "id": "nSEH9aHx2-Y",
+        "snippet": {
+          "publishedAt": "2023-06-30T14:00:37Z",
+          "channelId": "UCf0PBRjhf0rF8fWBIxTuoWA",
+          "title": "Rent the Runway Founder on what she learned from the Estee\u00a0Lauder\u00a0CEO",
+          "description": "Watch the full interview with Jennifer Hyman here:\n\nhttps://youtu.be/PvZbugU-fTU\n\n#JenniferHyman #HarryStebbings #20VC #shorts #esteelauder #fabriziofreda #leadership #startup #renttherunway",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nSEH9aHx2-Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "20VC with Harry Stebbings",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Rent the Runway Founder on what she learned from the Estee\u00a0Lauder\u00a0CEO",
+            "description": "Watch the full interview with Jennifer Hyman here:\n\nhttps://youtu.be/PvZbugU-fTU\n\n#JenniferHyman #HarryStebbings #20VC #shorts #esteelauder #fabriziofreda #leadership #startup #renttherunway"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1300",
+          "likeCount": "54",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SrEa87uf9_2QiANrU85vt_Nx6P4",
+        "id": "DDYH8lQgIOM",
+        "snippet": {
+          "publishedAt": "2023-03-01T06:12:13Z",
+          "channelId": "UC5DGmjQ94aKeKOrIUp3yZwg",
+          "title": "Building a Resilient Supply Chain Team | with Roberto Canevari",
+          "description": "In episode #132 of the Leaders in Supply Chain Podcast, Roberto Canevari, Executive Vice President and CSCO at The Est\u00e9e Lauder Companies Inc., shares his insights and experiences in building and empowering a resilient supply chain team with host Radu Palamariu. \n\nThe episode explores the importance of developing a strong team in the face of challenges and uncertainty in today's fast-paced business environment. Canevari shares valuable knowledge on how to create a culture of resilience, trust, and collaboration within a supply chain organization.\n\nhttps://alcottglobal.com/podcast/supply-chain-logistics/132-building-and-empowering-a-resilient-team\n\n--\n\nAlcott Global was established with the aim of providing solutions for the world\u2019s top companies in the field of supply chain and logistics recruitment and talent management. \n\nWe aim to become your long-term partner in attracting, retaining, and developing supply chain and logistics talent in Asia.\n\n\ud83c\udf0d Visit us at https://www.alcottglobal.com/\n\n\ud83d\udcdd Learn more about our Supply Chain Academy: https://www.alcottglobal.com/alcott-global-supply-chain-academy/\nAlcott Global Supply Chain Academy is a revolutionary learning platform, catering to modern-day supply chain professionals' continuous learning needs, in a customized manner.\n\n\ud83d\udc49 Follow us: \nLinkedIn: http://bit.ly/34efo1m\nFacebook: http://bit.ly/2pssngW\nTwitter: http://bit.ly/2WeulzX\nInstagram: http://bit.ly/2Wba8v7",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DDYH8lQgIOM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alcott Global",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Building a Resilient Supply Chain Team | with Roberto Canevari",
+            "description": "In episode #132 of the Leaders in Supply Chain Podcast, Roberto Canevari, Executive Vice President and CSCO at The Est\u00e9e Lauder Companies Inc., shares his insights and experiences in building and empowering a resilient supply chain team with host Radu Palamariu. \n\nThe episode explores the importance of developing a strong team in the face of challenges and uncertainty in today's fast-paced business environment. Canevari shares valuable knowledge on how to create a culture of resilience, trust, and collaboration within a supply chain organization.\n\nhttps://alcottglobal.com/podcast/supply-chain-logistics/132-building-and-empowering-a-resilient-team\n\n--\n\nAlcott Global was established with the aim of providing solutions for the world\u2019s top companies in the field of supply chain and logistics recruitment and talent management. \n\nWe aim to become your long-term partner in attracting, retaining, and developing supply chain and logistics talent in Asia.\n\n\ud83c\udf0d Visit us at https://www.alcottglobal.com/\n\n\ud83d\udcdd Learn more about our Supply Chain Academy: https://www.alcottglobal.com/alcott-global-supply-chain-academy/\nAlcott Global Supply Chain Academy is a revolutionary learning platform, catering to modern-day supply chain professionals' continuous learning needs, in a customized manner.\n\n\ud83d\udc49 Follow us: \nLinkedIn: http://bit.ly/34efo1m\nFacebook: http://bit.ly/2pssngW\nTwitter: http://bit.ly/2WeulzX\nInstagram: http://bit.ly/2Wba8v7"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "109",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "unCSpOIhdrsiaaefal_9tN4jgqs",
+        "id": "AV6_b_wOPVw",
+        "snippet": {
+          "publishedAt": "2023-07-24T19:04:35Z",
+          "channelId": "UCL-Gw_aExR2vY1uxlNYqk7Q",
+          "title": "Est\u00e9e Lauder Head of Supply Chain Technology: Continue To Be Curious About New Technologies",
+          "description": "Sowmya Gottipati, Head of Supply Chain Technology at The Est\u00e9e Lauder Companies, speaks with Asha Saxena, Founder and CEO of WLDA.tech, in an International Women\u2019s Month special video interview about the need for more participation from women in data and AI, the value of data and analytics, and the approach to adopting newer technologies like AI. This interview is part of CDO Magazine\u2019s special series celebrating women in data science, machine learning, and analytics.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AV6_b_wOPVw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CDO Magazine",
+          "tags": [
+            "#CDOMagazine"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Est\u00e9e Lauder Head of Supply Chain Technology: Continue To Be Curious About New Technologies",
+            "description": "Sowmya Gottipati, Head of Supply Chain Technology at The Est\u00e9e Lauder Companies, speaks with Asha Saxena, Founder and CEO of WLDA.tech, in an International Women\u2019s Month special video interview about the need for more participation from women in data and AI, the value of data and analytics, and the approach to adopting newer technologies like AI. This interview is part of CDO Magazine\u2019s special series celebrating women in data science, machine learning, and analytics."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT21M44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "175",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "emdKSXTMwlr824fTEKnG0Go_UX8",
+        "id": "KZUZgn1UPxY",
+        "snippet": {
+          "publishedAt": "2023-05-02T04:55:55Z",
+          "channelId": "UCzDAs2XhGYDH-IRbd8Xi5fQ",
+          "title": "Este Lauder's Journey to Scaling Success | The Early Days Ep. 2",
+          "description": "Alright, buckle up guys, because today we're going to dive deep into the fascinating story of Estee Lauder and her journey to scaling success! In this episode of The Early Days, we're going to take a closer look at how Estee grew her business from homemade face creams to a global beauty brand. This is a story you won't want to miss. So sit back, grab a coffee (or a Red Bull, if that's more your thing), and get ready for a thrilling ride through the world of entrepreneurship!\n\n\n\nSpeaker: Ms. Anchal Agarwal \nhttps://www.linkedin.com/in/anchal-agarwal-24ba642a/\nVideo editor: Ms. Anu Sri\nhttps://www.linkedin.com/in/anusri",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KZUZgn1UPxY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tofler - Business Insights",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Este Lauder's Journey to Scaling Success | The Early Days Ep. 2",
+            "description": "Alright, buckle up guys, because today we're going to dive deep into the fascinating story of Estee Lauder and her journey to scaling success! In this episode of The Early Days, we're going to take a closer look at how Estee grew her business from homemade face creams to a global beauty brand. This is a story you won't want to miss. So sit back, grab a coffee (or a Red Bull, if that's more your thing), and get ready for a thrilling ride through the world of entrepreneurship!\n\n\n\nSpeaker: Ms. Anchal Agarwal \nhttps://www.linkedin.com/in/anchal-agarwal-24ba642a/\nVideo editor: Ms. Anu Sri\nhttps://www.linkedin.com/in/anusri"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4057",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tBLTOHZCacq4Xb-CZviQgcj8RZk",
+        "id": "DlgELui-sSM",
+        "snippet": {
+          "publishedAt": "2023-02-06T18:59:16Z",
+          "channelId": "UCi66DtiKDvmW5Nwd8E-THSQ",
+          "title": "The Est\u00c3\u00a9e Lauder Companies Inc Q2 2023 Earnings Call",
+          "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DlgELui-sSM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AlphaStreet",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Est\u00c3\u00a9e Lauder Companies Inc Q2 2023 Earnings Call",
+            "description": "We are excited to announce the launch of AlphaStreet Intelligence, a cutting-edge technology driven global ecosystem that connects companies, investors, analysts, and experts. Crafted as an AI-driven market intelligence platform, it not only facilitates interaction among the eco system participants but also accelerates research and decision-making by surfacing self-learning AI insights. The unrivaled intelligence is due to unique combination of platform interactions and syndicated content. I believe that AlphaStreet Intelligence will transform the way market intelligence is approached, make the process more efficient, impactful, and insightful. Don\u2019t miss out on an opportunity to join AlphaStreet Ecosystem today and become a part of the next generation market intelligence.\n\nhttp://www.alphastreet.com/\n\nFollow us on :\n\nhttps://twitter.com/AlphSt_India\nhttps://twitter.com/EarningsTrans\nhttps://twitter.com/_AlphaStreet\nhttps://www.facebook.com/AlphaStreetinc\nhttps://www.linkedin.com/company/alphastreet \nhttp://www.google.com/news/s/CAowj7D0Cg\nhttps://apple.news/TZOi1Q735Ty-T4dxalibGNw Follow us on Google News:\nhttps://news.google.com/publications/CAAqBwgKMIHrlAsw5rqqAw?ceid=IN:en&oc=3\n\nAccess earnings call summaries at https://alphastreet.com/india/earnings-call-highlights/\nEarnings Concall Transcripts https://alphastreet.com/india/earnings-call-transcripts/\nExclusive Indian CEO Interviews https://alphastreet.com/india/interviews/\nEarnings Call Calendar https://alphastreet.com/india/earnings-calendar/\nEarnings Infographics https://alphastreet.com/india/infographics/\n\nSubscribe this channel to listen to earnings call audios and exclusive CEO interviews"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1H3M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "143",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZjwPHLNmUC7lo9uCJW-UcZCe6hQ",
+        "id": "cRB5avRml1Q",
+        "snippet": {
+          "publishedAt": "2023-04-11T12:33:59Z",
+          "channelId": "UCIRL0qUAa1nCRGZhYSWC6cQ",
+          "title": "Estee Lauder: enhancing the employee training process with flipbooks | Flipsnack.com",
+          "description": "Wondering how you could use flipbooks to enhance the employee training process? Create an internal digital magazine with the help of Flipsnack, break it into chapters, and share it via link with all your employees so they can easily access the tools you've made available to help them learn new skills and information.\n\nWatch the video to learn why Korben Niblett, Director, Education & Content Development for Retail Engagement at Estee Lauder, enhanced their employee training process with digital flipbooks and Flispanck. \n\nRead the customer success story here:\nhttps://www.flipsnack.com/customers/estee-lauder\n\n#digitaltools #flipbook #employeetraining #onlinetools \n\nChapters\n0:00 Customer story: Estee Lauder\n0:03 Why Estee Lauder subscribed to Flipsnack? \n0:38 Flipbooks enhance the employee training process\n0:56 Flipsnack: more than a digital magazine tool\n\nAbout Flipsnack \nhttps://www.flipsnack.com\n\nFlipsnack is the perfect tool for converting PDFs into online flipbooks such as online magazines, catalogs, brochures, photo albums, and many more. It can also be used to design printable materials such as brochures, flyers & restaurant menus.\n\nFlipsnack on Facebook: https://www.facebook.com/FlipsnackOfficial\nFlipsnack on Twitter: https://twitter.com/flipsnack\nFlipsnack on Instagram: https://www.instagram.com/flipsnack\nFlipsnack on Linkedin: https://www.linkedin.com/company/flipsnack\nFlipsnack on Pinterest: https://pinterest.com/flipsnack",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cRB5avRml1Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Flipsnack",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Estee Lauder: enhancing the employee training process with flipbooks | Flipsnack.com",
+            "description": "Wondering how you could use flipbooks to enhance the employee training process? Create an internal digital magazine with the help of Flipsnack, break it into chapters, and share it via link with all your employees so they can easily access the tools you've made available to help them learn new skills and information.\n\nWatch the video to learn why Korben Niblett, Director, Education & Content Development for Retail Engagement at Estee Lauder, enhanced their employee training process with digital flipbooks and Flispanck. \n\nRead the customer success story here:\nhttps://www.flipsnack.com/customers/estee-lauder\n\n#digitaltools #flipbook #employeetraining #onlinetools \n\nChapters\n0:00 Customer story: Estee Lauder\n0:03 Why Estee Lauder subscribed to Flipsnack? \n0:38 Flipbooks enhance the employee training process\n0:56 Flipsnack: more than a digital magazine tool\n\nAbout Flipsnack \nhttps://www.flipsnack.com\n\nFlipsnack is the perfect tool for converting PDFs into online flipbooks such as online magazines, catalogs, brochures, photo albums, and many more. It can also be used to design printable materials such as brochures, flyers & restaurant menus.\n\nFlipsnack on Facebook: https://www.facebook.com/FlipsnackOfficial\nFlipsnack on Twitter: https://twitter.com/flipsnack\nFlipsnack on Instagram: https://www.instagram.com/flipsnack\nFlipsnack on Linkedin: https://www.linkedin.com/company/flipsnack\nFlipsnack on Pinterest: https://pinterest.com/flipsnack"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2471",
+          "likeCount": "7",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TGF_2si_IszwVHD4WqTkMGlnBis",
+        "id": "ZI3SlnnS9M4",
+        "snippet": {
+          "publishedAt": "2023-04-06T13:30:11Z",
+          "channelId": "UCFNTsbOS9yRGdCQ_cBYAHxg",
+          "title": "How I Landed A Est\u00e9e Lauder Companies Internship | My Application & What I Learnt!",
+          "description": "**disclaimer: these thoughts are my own, not Est\u00e9e's**\n\nHi, my name is Winnie and in today's video, I'll be sharing how I landed an Internship at Est\u00e9e Lauder Companies.\n\nComment down below if you have any questions or topics you'd like me to cover!\n\nFor business inquiries: winniethong25@gmail.com\n\nIG - @winnieethonggg\n\n00:00 - 00:20 - Intro\n00:20 - 01:49 - My Background\n01:49 - 02:49 - Application Timeline\n02:49 - 03:53 - My Application\n03:53 - 04:48 - Interview Process\n04:48 - 06:01 - Internship Days\n06:01 - 06:41 - What I Learnt?\n0:41 - 06:51 - Outro\n\n\u2750LINKS:\nEst\u00e9e Lauder Companies Career: https://www.elcompanies.com/en/careers\nhttps://www.linkedin.com/company/the-estee-lauder-companies-inc/jobs/\n\n\u2750MUSIC:\n1. Lamp (Prod. by Lukrembo)\nLink : youtu.be/ZwyWgwUjYoY",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZI3SlnnS9M4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Winnie Channel",
+          "tags": [
+            "corporate life",
+            "Estee Lauder",
+            "Estee Lauder Companies",
+            "Lillian Chiu",
+            "How I landed an Intership",
+            "Internship Preview",
+            "sharing",
+            "share internship experience",
+            "YouTube Creator",
+            "interview process"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How I Landed A Est\u00e9e Lauder Companies Internship | My Application & What I Learnt!",
+            "description": "**disclaimer: these thoughts are my own, not Est\u00e9e's**\n\nHi, my name is Winnie and in today's video, I'll be sharing how I landed an Internship at Est\u00e9e Lauder Companies.\n\nComment down below if you have any questions or topics you'd like me to cover!\n\nFor business inquiries: winniethong25@gmail.com\n\nIG - @winnieethonggg\n\n00:00 - 00:20 - Intro\n00:20 - 01:49 - My Background\n01:49 - 02:49 - Application Timeline\n02:49 - 03:53 - My Application\n03:53 - 04:48 - Interview Process\n04:48 - 06:01 - Internship Days\n06:01 - 06:41 - What I Learnt?\n0:41 - 06:51 - Outro\n\n\u2750LINKS:\nEst\u00e9e Lauder Companies Career: https://www.elcompanies.com/en/careers\nhttps://www.linkedin.com/company/the-estee-lauder-companies-inc/jobs/\n\n\u2750MUSIC:\n1. Lamp (Prod. by Lukrembo)\nLink : youtu.be/ZwyWgwUjYoY"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2581",
+          "likeCount": "46",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OR01T171wWVqiz7doVh5yR2fO9I",
+        "id": "4Qcq2Z4cXrs",
+        "snippet": {
+          "publishedAt": "2023-06-05T07:32:07Z",
+          "channelId": "UC6PXhiOI9rH0RlcxBXFpG6w",
+          "title": "The Godfather's Darkest Secret: Why Fredo Corleone is Weak?",
+          "description": "Have you ever thought about why Fredo is the weak link of the family in the Godfather series, where there are strong characters from each other? Throughout the trilogy, Fredo is shown as stupid, weak-willed, and clumsy compared to his siblings. He also has a soft spot for women. When we look at the 110th minute of the second movie, we can clearly see the reason for this situation. Fredo got pneumonia when he was still a baby. He suffers brain damage, possibly as a result of a prolonged febrile illness. But unlike the movie, he is a lovable character in Mario Puzo's novel of the same name and has never betrayed his brother Michael.\n\nCinema Honor\n\n#shorts #godfather #fredo #corleone #thegodfather #trivia",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4Qcq2Z4cXrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cinema Honor",
+          "tags": [
+            "godfather",
+            "the godfather",
+            "the godfather part 2",
+            "godfather part 2",
+            "fredo",
+            "fredo corleone",
+            "michael corleone",
+            "don vito corleone",
+            "cinema",
+            "film analysis",
+            "movie",
+            "movie analysis",
+            "why fredo corleone is weak",
+            "detail",
+            "movie detail",
+            "film detail",
+            "mafia",
+            "cinema honor",
+            "honor",
+            "shorts"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Godfather's Darkest Secret: Why Fredo Corleone is Weak?",
+            "description": "Have you ever thought about why Fredo is the weak link of the family in the Godfather series, where there are strong characters from each other? Throughout the trilogy, Fredo is shown as stupid, weak-willed, and clumsy compared to his siblings. He also has a soft spot for women. When we look at the 110th minute of the second movie, we can clearly see the reason for this situation. Fredo got pneumonia when he was still a baby. He suffers brain damage, possibly as a result of a prolonged febrile illness. But unlike the movie, he is a lovable character in Mario Puzo's novel of the same name and has never betrayed his brother Michael.\n\nCinema Honor\n\n#shorts #godfather #fredo #corleone #thegodfather #trivia"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1805610",
+          "likeCount": "36685",
+          "favoriteCount": "0",
+          "commentCount": "762"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "waMnBz-CC3TNEE-h4UCazbm_7DM",
+        "id": "46lEkvA6nxc",
+        "snippet": {
+          "publishedAt": "2023-11-01T16:38:09Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Estee Lauder stock sinks amid weak demand in China",
+          "description": "Estee Lauder (EL) shares tumbled after the beauty company cut its full-year outlook due to weakening China sales, which account for over 30% of revenue. Managing Director, Susan Anderson of Canaccord Genuity, said Estee Lauder performed well in prestige cosmetics markets like the U.S., and noted that even amid inflation pressures, consumers appear to be maintaining spending on prestige products. However, Lauder's substantial China and travel retail exposure make it vulnerable despite strong positioning in western markets. \n\"We've heard of China weakness across the board, really from all of Estee Lauders competititors,\" Anderson tells Yahoo Finance, adding: \"....Its really that China, Asia-travel business that's weighing on their results, otherwise prestige continues to be strong elsewhere\"\nFor more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/46lEkvA6nxc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Estee Lauder stock sinks amid weak demand in China",
+            "description": "Estee Lauder (EL) shares tumbled after the beauty company cut its full-year outlook due to weakening China sales, which account for over 30% of revenue. Managing Director, Susan Anderson of Canaccord Genuity, said Estee Lauder performed well in prestige cosmetics markets like the U.S., and noted that even amid inflation pressures, consumers appear to be maintaining spending on prestige products. However, Lauder's substantial China and travel retail exposure make it vulnerable despite strong positioning in western markets. \n\"We've heard of China weakness across the board, really from all of Estee Lauders competititors,\" Anderson tells Yahoo Finance, adding: \"....Its really that China, Asia-travel business that's weighing on their results, otherwise prestige continues to be strong elsewhere\"\nFor more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2948",
+          "likeCount": "29",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 9,
+      "resultsPerPage": 9
+    }
+  }
+}

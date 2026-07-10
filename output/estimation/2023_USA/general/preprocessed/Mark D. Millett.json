@@ -1,0 +1,22 @@
+{
+  "ceo": "Mark D. Millett",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "lV2S86SEqR834QXR-LqMAQrksRE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 29,
+      "resultsPerPage": 23
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "UBDjgHHNJfTFlvcxrb4PTeo92V0",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 23,
+      "resultsPerPage": 23
+    }
+  }
+}

@@ -1,0 +1,2125 @@
+{
+  "ceo": "Mike Hsu",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "lcVxtAkHi_uEM6nYWAQAkIFwxh0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 19330,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8qmE7CoAnnN8yIvIcizLZbgu1Dw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Y3V3QaVybT0"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-08T16:10:28Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks Sopranos With Steve &quot;Bobby Baccalieri&quot; Schirripa",
+          "description": "Steve Schirripa play the sweet but deadly Bobby Baccalierie on \"The Sopranos\". Some call The Sopranos the greatest television ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-08T16:10:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jfvixQRG58hHclWcl2ob6A2Wbm8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gsyrU5rvEaw"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-28T14:54:57Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Kelly Hansen From Foreigner About Their Farewell Tour",
+          "description": "Foreigner are one of those bands who's music you'll be hearing on the radio, and backyard cook outs, supermarkets, and doctor's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-28T14:54:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WwoQxUVMduqUKpH1SfEqQnNIFoU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ToOO9vTV2F4"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T17:01:05Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Chelsea Handler Tells Mike Hsu About The Worst Advice She Ever Got And Her Big Little Bitch Tour",
+          "description": "Chelsea Handler is back on the road doing stand up on her Big Little Bitch Tour where she will be talking about the journey that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T17:01:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0blXXQn4MTLyYGjOYmDYUhAjQbI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0WuaiKK7m2k"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-15T15:21:25Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Cliff Goodwin About recording His New Album At Abbey Road Studios",
+          "description": "Worcester's own Cliff Goodwin started his first band the day after seeing The Beatles on their historic Ed Sullivan Show ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-15T15:21:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NCgV4of8xLMtbwdCdMWLrT4Qyoo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d8nhtX1lMoY"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-26T14:22:34Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Caroline Aaron From The Marvelous Mrs, Maisel Talks Mike Hsu About The Series Finale",
+          "description": "After many awards and accolades Amazon Prime's \"The Marvelous Mrs. Maisel\" is coming to an end after 5 seasons. Caroline ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d8nhtX1lMoY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d8nhtX1lMoY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d8nhtX1lMoY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-26T14:22:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HzreXNjCoXCNL67LyLfboCMBses",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JiCxcFEoRmE"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-14T14:22:15Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks With Ratt Singer Stephen Pearcy About Their New Box Set: The Atlantic years 1984-1991",
+          "description": "During their peak period Ratt sold over 10 million albums worldwide. That time is now documented in a new box set called Ratt: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JiCxcFEoRmE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JiCxcFEoRmE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JiCxcFEoRmE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-14T14:22:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VyP_WGZraIB4itvw3YQ6atWMbH0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ajh5hDzK0RM"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-26T16:52:42Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Michael Starr From Steel Panther Talks To Mike Hsu About Their New Album &quot;On The Prowl&quot;",
+          "description": "Steel Panther has been inappropriately rocking the masses and asses for over 20 years despite several STD's and law suits ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-26T16:52:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x7HqrY8H26nFDBKJcyZZATUA6G8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AEmnp45dmc8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-16T14:52:19Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Sully Roberts From Veteran&#39;s INC Talks To Mike Hsu About Their 18th Annual Stand Down Event",
+          "description": "Every year Veteran's Inc in Worcester holds their Stand Down event at their Grove St headquarters. This even is open to all ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-16T14:52:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QlCJKebvCtbBxiQPcE666nAq2jw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cjhr1ripsbg"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-23T14:27:27Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Nuno Bettencourt From Extreme About Their New Song &quot;Rise&quot; And New Album &quot;6&quot;",
+          "description": "It's been 15 years since Extreme has released a new album. They have come back loud and strong with their new single \"Rise\".",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-23T14:27:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "g5vqMyGFZuqUJumLSlZETtGtTD4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "B0O8CWsJWwk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-20T14:31:35Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Former Steely Dan And Doobie Brothers Guitarist, Jeff Skunk Baxter Checks In With Mike Hsu",
+          "description": "Jeff \"Skunk\" Baxter is a founding member of Steely Dan and former Doobie Brother. But that's just a small part of this legendary ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-20T14:31:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Pk0Hk9b_awq5JoS9M3hpLOLwaHM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YXvqi25wK6c"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-18T14:31:48Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Photographer Mark Weiss About His Book &quot;The Decade That Rocked&quot;",
+          "description": "If you opened a music magazine in the 80's-90's you probably saw Mark Weiss' photos. His work could be seen in Circus, Creem, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YXvqi25wK6c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YXvqi25wK6c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YXvqi25wK6c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-18T14:31:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Es614iTHf0VFMLdH4S7WLW_3W2I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0DYGxCTt9I0"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-17T15:00:50Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Gavin Rossdale | The Pike Morning Show with Mike Hsu",
+          "description": "Bush has just released a career spanning collection called Loaded: The Greatest Hits 1994-2023 and are also on tour celebrating ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-17T15:00:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KzMUkloaR6g6tl45nq9ZSYsr3oQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rv7Nw_7Nal8"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-04T14:16:12Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Andy Grigorov From Cinema Worcester Talks To Mike Hsu About Their Efforts To Find A Theater",
+          "description": "Cinema Worcester is dedicated to helping local and independent film makers get their work out to the public. Andy Grigorov talks ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rv7Nw_7Nal8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rv7Nw_7Nal8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rv7Nw_7Nal8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-04T14:16:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UJJeic7ZmD_KYI6Kwk7AO-tHVLM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QWSDFUNHdcI"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-29T14:49:58Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Rod Argent From The Zombies About Their New Album, &quot;Different Game&quot;",
+          "description": "Mike Hsu talks to Zombies keyboardist and singer, Rod Argent, about their new album, why they never fly when they're on tour ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-29T14:49:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bxGesCb6yGHu_unyiEtUBIKtqZQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "H9wSt5HctXA"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-14T14:46:08Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Actor/Comedian Michael Rappaport Checks In With Mike Hsu And Throws A Few Jabs At New England Fans",
+          "description": "Michael Rappaport's credits include more than forty films since the early 1990s. For his television credits he's best known for his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-14T14:46:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WtuRcOPiiBkFYHk8sQZjqSq6HaM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ILgERZe5KXw"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-31T16:13:36Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Airplane! Director David Zucker Talks To Mike Hsu About The New Book &quot;Surely You Can&#39;t Be Serious&quot;",
+          "description": "Along with his brother Jerry and friend Jim Abrahams David Zucker has directed some of the funniest movies of all time!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-31T16:13:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-8ZQ45qqe1c2oV1BMia4XmoSvas",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bb5O1c1PTGo"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-18T15:25:55Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Corey Rodrigues Checks In With Mike Hsu  To Talk About The Manny 267 Foundation Benefit",
+          "description": "Corey Rodrigues is part of the amazing line-up of comedians taking part in the Manny 267 Foundation benefit at Mechanics Hall ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-18T15:25:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tLqUs0UMZJry4n3yoPbTeSqeEFU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fE6Tq9M3nuY"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-18T14:28:58Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Auburn Fire Chief Stephen Coleman Checks In With Mike Hsu About the Woodystock Benefit Show",
+          "description": "Woodystock is happening this Saturday at the 200 Sportsman's Club in Webster! It will feature live music from area bands, food ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fE6Tq9M3nuY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fE6Tq9M3nuY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fE6Tq9M3nuY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-18T14:28:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hah743zzRCvqyRHWSA2Z6bdmkSo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iJ7bP33Y35M"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-13T16:02:37Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Joel Hoekstra From Trans Siberian Orchestra Talks To Mike Hsu About The Band Returning To Worcester",
+          "description": "Trans Siberian Orchestra is bringing their massive show back to the DCU Center in Worcester on November 25(2023)! Tickets go ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-13T16:02:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KTFP6ntiaxAWzopKT77Nl5MrLas",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Cuc2Bl90Shk"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-22T14:04:36Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Former Queensryche Singer Geoff Tate Talks Mindcrime, Favorite Theaters and Neil Young With Mike Hsu",
+          "description": "Former Queensryche singer Geoff tate is bringing his \"\u201cBIG ROCK SHOW HITS TOUR\u201d to The Wilbur Theater in Boston on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cuc2Bl90Shk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cuc2Bl90Shk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cuc2Bl90Shk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-22T14:04:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4UorWC8XGptgjZMiCWlC6wEYyb8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2Ily2wjBnog"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-02T16:23:19Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Music Journalist Jim Sullivan About His New Book Back Stage And Beyond Volume 1",
+          "description": "Jim Sullivan has been writing about music for almost 50 years. He's collected some of his interview experiences in his new book ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-02T16:23:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6XNitsm9pPSKBSsQfE0-H41JJpg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p-P5x7YLKlw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-24T14:27:07Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Comedian Aaron Weber About Nashville, Baseball And His Sweet Myspace Page",
+          "description": "Comedian Aaron Weber is the youngest standup to play The Grand Ole Opry in Nashville, his home base. He's shared the stage ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-24T14:27:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lrjhOa1eiwZXjWRIgrC0NJuOYr0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UBfyiWRm4bc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-20T15:40:08Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Dale Arnold Talks To Mike Hsu About Hockey Enforcers And His New Book &quot;The Tough Guys&quot;",
+          "description": "Dale Arnold is a New England broadcasting legend. He has covered every New England sports team over his career but mostly ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-20T15:40:08Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "c0cfKIRb_ebL_mWBqNoLhhCRP6w",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "WdgQJ-NxdWQt974YP21i9rVZAEE",
+        "id": "Y3V3QaVybT0",
+        "snippet": {
+          "publishedAt": "2023-03-08T16:10:28Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks Sopranos With Steve \"Bobby Baccalieri\" Schirripa",
+          "description": "Steve Schirripa play the sweet but deadly Bobby Baccalierie on \"The Sopranos\".  Some call The Sopranos the greatest television show of all time. It's been 16 years since it's last episode and people still love to discuss and analyze it.  You will get a chance to do that with Steve, and fellow cast members Michael Imperioli and Vincent Pastore on their Talking Sopranos tour at The Scubert Theater in Boston on March 11 and at The Strand in Providence on April 1. Mike Hsu talks to Schirripa about why people are still obsessed with the show, some misconceptions about the finale, and why Steve Perry from Journey is a liar.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Y3V3QaVybT0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks Sopranos With Steve \"Bobby Baccalieri\" Schirripa",
+            "description": "Steve Schirripa play the sweet but deadly Bobby Baccalierie on \"The Sopranos\".  Some call The Sopranos the greatest television show of all time. It's been 16 years since it's last episode and people still love to discuss and analyze it.  You will get a chance to do that with Steve, and fellow cast members Michael Imperioli and Vincent Pastore on their Talking Sopranos tour at The Scubert Theater in Boston on March 11 and at The Strand in Providence on April 1. Mike Hsu talks to Schirripa about why people are still obsessed with the show, some misconceptions about the finale, and why Steve Perry from Journey is a liar."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "41",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zRLcbgEsOy59DBsds7XSVPhtWbI",
+        "id": "gsyrU5rvEaw",
+        "snippet": {
+          "publishedAt": "2023-07-28T14:54:57Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Kelly Hansen From Foreigner About Their Farewell Tour",
+          "description": "Foreigner are one of those bands who's music you'll be hearing on the radio, and backyard cook outs, supermarkets, and doctor's offices forever.  They have 16 Top 30 hits:\nI Want to Know What Love Is (1)\nWaiting for A Girl Like You (2)\nDouble Vision (2)\nHot Blooded (3)\nUrgent (4)\nFeels Like the First Time (4)\nI Don\u2019t Want to Live Without You (5)\nSay You Will (6)\nCold as Ice (6)\nThat Was Yesterday (12)\nDirty White Boy (12)\nHead Games (14)\nBlue Morning, Blue Day (15)\nLong, Long Way from Home (20)\nJuke Box Hero (26)\nBreak It Up (26)\n\nAnd I'm sure you know all the words to at least 5 of them.  But all good things must end and they are currently on their farewell tour.  Mike Hsu talks to singer Kelly Hansen on why they're calling it a career, if founder Mick Jones will be appearing at any shows, and why bassist Jeff Pillson is seated for the current shows.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gsyrU5rvEaw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Kelly Hansen From Foreigner About Their Farewell Tour",
+            "description": "Foreigner are one of those bands who's music you'll be hearing on the radio, and backyard cook outs, supermarkets, and doctor's offices forever.  They have 16 Top 30 hits:\nI Want to Know What Love Is (1)\nWaiting for A Girl Like You (2)\nDouble Vision (2)\nHot Blooded (3)\nUrgent (4)\nFeels Like the First Time (4)\nI Don\u2019t Want to Live Without You (5)\nSay You Will (6)\nCold as Ice (6)\nThat Was Yesterday (12)\nDirty White Boy (12)\nHead Games (14)\nBlue Morning, Blue Day (15)\nLong, Long Way from Home (20)\nJuke Box Hero (26)\nBreak It Up (26)\n\nAnd I'm sure you know all the words to at least 5 of them.  But all good things must end and they are currently on their farewell tour.  Mike Hsu talks to singer Kelly Hansen on why they're calling it a career, if founder Mick Jones will be appearing at any shows, and why bassist Jeff Pillson is seated for the current shows."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "484",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3ZKKYJ1z_u3DQU_oZMNP2RBs8mw",
+        "id": "ToOO9vTV2F4",
+        "snippet": {
+          "publishedAt": "2023-11-15T17:01:05Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Chelsea Handler Tells Mike Hsu About The Worst Advice She Ever Got And Her Big Little Bitch Tour",
+          "description": "Chelsea Handler is back on the road doing stand up on her Big Little Bitch Tour where she will be talking about the journey that shaped who she is today.  She talks to Mike Hsu about being the youngest in a big family, who she will be dishing dirt on at her shows and the worst advice she's ever received.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ToOO9vTV2F4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chelsea Handler Tells Mike Hsu About The Worst Advice She Ever Got And Her Big Little Bitch Tour",
+            "description": "Chelsea Handler is back on the road doing stand up on her Big Little Bitch Tour where she will be talking about the journey that shaped who she is today.  She talks to Mike Hsu about being the youngest in a big family, who she will be dishing dirt on at her shows and the worst advice she's ever received."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "69",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HlmObW4fhCvpje3m6eoYpr_5VJg",
+        "id": "0WuaiKK7m2k",
+        "snippet": {
+          "publishedAt": "2023-06-15T15:21:25Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Cliff Goodwin About recording His New Album At Abbey Road Studios",
+          "description": "Worcester's own Cliff Goodwin started his first band the day after seeing The Beatles on their historic Ed Sullivan Show appearance in 1964.  So it is an understatement to say he was thrilled to be recording his new album, \"Double It Up\",  at Abbey Road Studios where they created all of their legendary music.  Cliff also spent 12 years playing with Joe Cocker, played on the Robert Palmer album Secrets as well as session work for many others.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0WuaiKK7m2k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Cliff Goodwin About recording His New Album At Abbey Road Studios",
+            "description": "Worcester's own Cliff Goodwin started his first band the day after seeing The Beatles on their historic Ed Sullivan Show appearance in 1964.  So it is an understatement to say he was thrilled to be recording his new album, \"Double It Up\",  at Abbey Road Studios where they created all of their legendary music.  Cliff also spent 12 years playing with Joe Cocker, played on the Robert Palmer album Secrets as well as session work for many others."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT16M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "197",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ialO2QiDeXHUTjfjJiKrDudwD_s",
+        "id": "d8nhtX1lMoY",
+        "snippet": {
+          "publishedAt": "2023-05-26T14:22:34Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Caroline Aaron From The Marvelous Mrs, Maisel Talks Mike Hsu About The Series Finale",
+          "description": "After many awards and accolades Amazon Prime's \"The Marvelous Mrs. Maisel\" is coming to an end after 5 seasons.  Caroline Aaron, who plays Shirley Maisel, talks to Mike Hsu about the series' final episode and how proud she is of being part of such a great show.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d8nhtX1lMoY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d8nhtX1lMoY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d8nhtX1lMoY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Caroline Aaron From The Marvelous Mrs, Maisel Talks Mike Hsu About The Series Finale",
+            "description": "After many awards and accolades Amazon Prime's \"The Marvelous Mrs. Maisel\" is coming to an end after 5 seasons.  Caroline Aaron, who plays Shirley Maisel, talks to Mike Hsu about the series' final episode and how proud she is of being part of such a great show."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "51",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c-j8B56FWwal2jXwEyF2e7_Ay9s",
+        "id": "JiCxcFEoRmE",
+        "snippet": {
+          "publishedAt": "2023-06-14T14:22:15Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks With Ratt Singer Stephen Pearcy About Their New Box Set: The Atlantic years 1984-1991",
+          "description": "During their peak period Ratt sold over 10 million albums worldwide.  That time is now documented in a new box set called Ratt: The Atlantic years 1984-1991.  The first five albums on vinyl or cd and a tour book filled with photos from that magical period when Hair Metal ruled the world.  Mike Hsu talks to singer Stephen Pearcy about the new set and the \"chaos\" of the Sunset Strip in the 80's.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JiCxcFEoRmE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JiCxcFEoRmE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JiCxcFEoRmE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks With Ratt Singer Stephen Pearcy About Their New Box Set: The Atlantic years 1984-1991",
+            "description": "During their peak period Ratt sold over 10 million albums worldwide.  That time is now documented in a new box set called Ratt: The Atlantic years 1984-1991.  The first five albums on vinyl or cd and a tour book filled with photos from that magical period when Hair Metal ruled the world.  Mike Hsu talks to singer Stephen Pearcy about the new set and the \"chaos\" of the Sunset Strip in the 80's."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "268",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mKRmjysY7UkL1VxHEaBF5RWmGNw",
+        "id": "ajh5hDzK0RM",
+        "snippet": {
+          "publishedAt": "2023-01-26T16:52:42Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Michael Starr From Steel Panther Talks To Mike Hsu About Their New Album \"On The Prowl\"",
+          "description": "Steel Panther has been inappropriately rocking the masses and asses for over 20 years despite several STD's and law suits they'll be hitting the road again this Spring with a show at The Palladium in Worcester on March 19. Mike Hsu talked to lead singer Michael Starr about their new album, \"On The Prowl\", their new single \"1987\" and the departure of original bassist Lexxi Foxx. This interview is NSFW. Much like everything Steel Panther does.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ajh5hDzK0RM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Michael Starr From Steel Panther Talks To Mike Hsu About Their New Album \"On The Prowl\"",
+            "description": "Steel Panther has been inappropriately rocking the masses and asses for over 20 years despite several STD's and law suits they'll be hitting the road again this Spring with a show at The Palladium in Worcester on March 19. Mike Hsu talked to lead singer Michael Starr about their new album, \"On The Prowl\", their new single \"1987\" and the departure of original bassist Lexxi Foxx. This interview is NSFW. Much like everything Steel Panther does."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "486",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1NGKwjCeQ9AFkNYB2FCCqgC5sNQ",
+        "id": "AEmnp45dmc8",
+        "snippet": {
+          "publishedAt": "2023-06-16T14:52:19Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Sully Roberts From Veteran's INC Talks To Mike Hsu About Their 18th Annual Stand Down Event",
+          "description": "Every year Veteran's Inc in Worcester holds their Stand Down event at their Grove St headquarters.  This even is open to all Veterans and their families.  There are many resources provided to help those in need.  Sully Roberts from Vets Inc tells Mike Hsu about what they have to offer.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AEmnp45dmc8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sully Roberts From Veteran's INC Talks To Mike Hsu About Their 18th Annual Stand Down Event",
+            "description": "Every year Veteran's Inc in Worcester holds their Stand Down event at their Grove St headquarters.  This even is open to all Veterans and their families.  There are many resources provided to help those in need.  Sully Roberts from Vets Inc tells Mike Hsu about what they have to offer."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "78",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KDIL-SCKUdqA6BJl_alwxwxK9Es",
+        "id": "cjhr1ripsbg",
+        "snippet": {
+          "publishedAt": "2023-03-23T14:27:27Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Nuno Bettencourt From Extreme About Their New Song \"Rise\" And New Album \"6\"",
+          "description": "It's been 15 years since Extreme has released a new album.  They have come back loud and strong with their new single \"Rise\".  They're new album is out in June.  Mike Hsu talks to guitarist Nuno Bettencourt about \"Rise\" and the interesting Eddie Van Halen story that goes with it. They also talk about band chemistry and where to get the best Italian sub in Hudson, MA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cjhr1ripsbg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Nuno Bettencourt From Extreme About Their New Song \"Rise\" And New Album \"6\"",
+            "description": "It's been 15 years since Extreme has released a new album.  They have come back loud and strong with their new single \"Rise\".  They're new album is out in June.  Mike Hsu talks to guitarist Nuno Bettencourt about \"Rise\" and the interesting Eddie Van Halen story that goes with it. They also talk about band chemistry and where to get the best Italian sub in Hudson, MA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11622",
+          "likeCount": "236",
+          "favoriteCount": "0",
+          "commentCount": "25"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "j1bcR3j3Ydkc1FvjkayRjwvI3fE",
+        "id": "B0O8CWsJWwk",
+        "snippet": {
+          "publishedAt": "2023-09-20T14:31:35Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Former Steely Dan And Doobie Brothers Guitarist, Jeff Skunk Baxter Checks In With Mike Hsu",
+          "description": "Jeff \"Skunk\" Baxter is a founding member of Steely Dan and former Doobie Brother.  But that's just a small part of this legendary guitarists resume. He has worked with everyone from Wayne Newton to Nelson! He's currently on tour and will be at The City Winery in Boston on November 9. Mike Hsu talks to him about his deep Boston connections, introducing Michael McDonald to the Doobie Brothers and how he used a $30 guitar on a multi-platinum song.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/B0O8CWsJWwk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Former Steely Dan And Doobie Brothers Guitarist, Jeff Skunk Baxter Checks In With Mike Hsu",
+            "description": "Jeff \"Skunk\" Baxter is a founding member of Steely Dan and former Doobie Brother.  But that's just a small part of this legendary guitarists resume. He has worked with everyone from Wayne Newton to Nelson! He's currently on tour and will be at The City Winery in Boston on November 9. Mike Hsu talks to him about his deep Boston connections, introducing Michael McDonald to the Doobie Brothers and how he used a $30 guitar on a multi-platinum song."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT7M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "116",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NoANgfpNcAiEEKZie4xlMHwk6bY",
+        "id": "YXvqi25wK6c",
+        "snippet": {
+          "publishedAt": "2023-08-18T14:31:48Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Photographer Mark Weiss About His Book \"The Decade That Rocked\"",
+          "description": "If you opened a music magazine in the 80's-90's you probably saw Mark Weiss' photos. His work could be seen in Circus, Creem, Faces, Rolling Stone and many others. He was the tour photographer for Ozzy Osbourne, Motley Crue, Judas Priest, Ratt and many more. He's collected his work from the 80's in his book, \"The Decade That Rocked\".  Mike Hsu talks to him about working with the bands and how he got Ozzy to dress like a housewife.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YXvqi25wK6c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YXvqi25wK6c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YXvqi25wK6c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Photographer Mark Weiss About His Book \"The Decade That Rocked\"",
+            "description": "If you opened a music magazine in the 80's-90's you probably saw Mark Weiss' photos. His work could be seen in Circus, Creem, Faces, Rolling Stone and many others. He was the tour photographer for Ozzy Osbourne, Motley Crue, Judas Priest, Ratt and many more. He's collected his work from the 80's in his book, \"The Decade That Rocked\".  Mike Hsu talks to him about working with the bands and how he got Ozzy to dress like a housewife."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT25M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XruqeSZJA4I6b7gjeCJCyKK1QPY",
+        "id": "0DYGxCTt9I0",
+        "snippet": {
+          "publishedAt": "2023-11-17T15:00:50Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Gavin Rossdale | The Pike Morning Show with Mike Hsu",
+          "description": "Bush has just released a career spanning collection called Loaded: The Greatest Hits 1994-2023 and are also on tour celebrating the 30th anniversary of their debut album Sixteen Stone.  Mike Hsu talked to Gavin Rossdale  about a former beef with Dave Grohl, the push and pull about revisiting the band's past and working on new songs for a possible 2024 release!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0DYGxCTt9I0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Gavin Rossdale | The Pike Morning Show with Mike Hsu",
+            "description": "Bush has just released a career spanning collection called Loaded: The Greatest Hits 1994-2023 and are also on tour celebrating the 30th anniversary of their debut album Sixteen Stone.  Mike Hsu talked to Gavin Rossdale  about a former beef with Dave Grohl, the push and pull about revisiting the band's past and working on new songs for a possible 2024 release!"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "110",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cG2EzbSoCdvVkvlQMu6iZAVL7o8",
+        "id": "rv7Nw_7Nal8",
+        "snippet": {
+          "publishedAt": "2023-08-04T14:16:12Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Andy Grigorov From Cinema Worcester Talks To Mike Hsu About Their Efforts To Find A Theater",
+          "description": "Cinema Worcester is dedicated to helping local and independent film makers get their work out to the public. Andy Grigorov talks to Mike Hsu about their efforts to find a permanent space to do this and how it's important to the community.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rv7Nw_7Nal8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rv7Nw_7Nal8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rv7Nw_7Nal8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Andy Grigorov From Cinema Worcester Talks To Mike Hsu About Their Efforts To Find A Theater",
+            "description": "Cinema Worcester is dedicated to helping local and independent film makers get their work out to the public. Andy Grigorov talks to Mike Hsu about their efforts to find a permanent space to do this and how it's important to the community."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "52",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OjNnttcdDH1UFC4zQe7KTdE8iyQ",
+        "id": "QWSDFUNHdcI",
+        "snippet": {
+          "publishedAt": "2023-03-29T14:49:58Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Rod Argent From The Zombies About Their New Album, \"Different Game\"",
+          "description": "Mike Hsu talks to Zombies keyboardist and singer, Rod Argent, about their new album, why they never fly when they're on tour and \"the greatest keyboard solo of all time\" that he played in his band, Argent.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QWSDFUNHdcI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Rod Argent From The Zombies About Their New Album, \"Different Game\"",
+            "description": "Mike Hsu talks to Zombies keyboardist and singer, Rod Argent, about their new album, why they never fly when they're on tour and \"the greatest keyboard solo of all time\" that he played in his band, Argent."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT9M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c3MSOX1OMXbNAn03PXgkrmtJUPU",
+        "id": "H9wSt5HctXA",
+        "snippet": {
+          "publishedAt": "2023-09-14T14:46:08Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Actor/Comedian Michael Rappaport Checks In With Mike Hsu And Throws A Few Jabs At New England Fans",
+          "description": "Michael Rappaport's credits include more than forty films since the early 1990s. For his television credits he's best known for his roles on the television series Boston Public, Prison Break, Friends, and The War at Home. He has made over 100 appearances in film and television. His film roles include True Romance, Higher Learning, Metro, Cop Land, Deep Blue Sea, The 6th Day, Dr. Dolittle 2, Big Fan, and The Heat. Rapaport is also a reporter for Fox Sports, covering the BIG3 basketball league formed by Ice Cube. He is the narrator of the WWE 365 series on WWE Network. Mike Hsu talks to him about his current stand up tour and if he had to choose between acting and stand-up, which would it be?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H9wSt5HctXA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Actor/Comedian Michael Rappaport Checks In With Mike Hsu And Throws A Few Jabs At New England Fans",
+            "description": "Michael Rappaport's credits include more than forty films since the early 1990s. For his television credits he's best known for his roles on the television series Boston Public, Prison Break, Friends, and The War at Home. He has made over 100 appearances in film and television. His film roles include True Romance, Higher Learning, Metro, Cop Land, Deep Blue Sea, The 6th Day, Dr. Dolittle 2, Big Fan, and The Heat. Rapaport is also a reporter for Fox Sports, covering the BIG3 basketball league formed by Ice Cube. He is the narrator of the WWE 365 series on WWE Network. Mike Hsu talks to him about his current stand up tour and if he had to choose between acting and stand-up, which would it be?"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT8M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fimzRGp_zx7FXJuyMlWEsfE5XUc",
+        "id": "ILgERZe5KXw",
+        "snippet": {
+          "publishedAt": "2023-10-31T16:13:36Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Airplane! Director David Zucker Talks To Mike Hsu About The New Book \"Surely You Can't Be Serious\"",
+          "description": "Along with his brother Jerry and friend Jim Abrahams David Zucker has directed some of the funniest movies of all time! The Naked Gun films, Hot Shots, Top Secret and many others. But their first big hit was Airplane! In the new book \"Surely You Can't Be Serious\" ZAZ, as they're called collectively, describe their journey from pranksters from Wisconsin to Hollywood film makers.  Mike Hsu talks to him about casting for Airplane! and the the number one rule they told the actors follow.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ILgERZe5KXw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Airplane! Director David Zucker Talks To Mike Hsu About The New Book \"Surely You Can't Be Serious\"",
+            "description": "Along with his brother Jerry and friend Jim Abrahams David Zucker has directed some of the funniest movies of all time! The Naked Gun films, Hot Shots, Top Secret and many others. But their first big hit was Airplane! In the new book \"Surely You Can't Be Serious\" ZAZ, as they're called collectively, describe their journey from pranksters from Wisconsin to Hollywood film makers.  Mike Hsu talks to him about casting for Airplane! and the the number one rule they told the actors follow."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1igONP0j4UdDjEebNKxI4u68wDo",
+        "id": "bb5O1c1PTGo",
+        "snippet": {
+          "publishedAt": "2023-09-18T15:25:55Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Corey Rodrigues Checks In With Mike Hsu  To Talk About The Manny 267 Foundation Benefit",
+          "description": "Corey Rodrigues is part of the amazing line-up of comedians taking part in the Manny 267 Foundation benefit at Mechanics Hall on September 30. Mike Hsu talks to him about his fellow comedians on the show, his fascinating animal videos, and doing gigs on a cruise ship.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bb5O1c1PTGo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Corey Rodrigues Checks In With Mike Hsu  To Talk About The Manny 267 Foundation Benefit",
+            "description": "Corey Rodrigues is part of the amazing line-up of comedians taking part in the Manny 267 Foundation benefit at Mechanics Hall on September 30. Mike Hsu talks to him about his fellow comedians on the show, his fascinating animal videos, and doing gigs on a cruise ship."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "n1sGTJGEjSBBYv2nvIyG2LROEuY",
+        "id": "fE6Tq9M3nuY",
+        "snippet": {
+          "publishedAt": "2023-07-18T14:28:58Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Auburn Fire Chief Stephen Coleman Checks In With Mike Hsu About the Woodystock Benefit Show",
+          "description": "Woodystock is happening this Saturday at the 200 Sportsman's Club in Webster! It will feature live music from area bands, food trucks, raffles and more! It all goes to benefit The Paul Wood Foundation which helps first responders with mental wellness.  Auburn Fire Chief Stephen Coleman checks in to let people know. You can get more info at PaulWoodFaondation.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fE6Tq9M3nuY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fE6Tq9M3nuY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fE6Tq9M3nuY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Auburn Fire Chief Stephen Coleman Checks In With Mike Hsu About the Woodystock Benefit Show",
+            "description": "Woodystock is happening this Saturday at the 200 Sportsman's Club in Webster! It will feature live music from area bands, food trucks, raffles and more! It all goes to benefit The Paul Wood Foundation which helps first responders with mental wellness.  Auburn Fire Chief Stephen Coleman checks in to let people know. You can get more info at PaulWoodFaondation.com"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT4M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jZ_9B3Ju_SuBP8v4gS1Kv872EgU",
+        "id": "iJ7bP33Y35M",
+        "snippet": {
+          "publishedAt": "2023-09-13T16:02:37Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Joel Hoekstra From Trans Siberian Orchestra Talks To Mike Hsu About The Band Returning To Worcester",
+          "description": "Trans Siberian Orchestra is bringing their massive show back to the DCU Center in Worcester on November 25(2023)! Tickets go on sale this Friday. TSO guitarist Joel Hoekstra checks in with Mike Hsu to talk about what goes into a massive tour like this and crazy schedule. Hoekstra has also been a member of Whitesnake for the past 10 years and talks about the current farewell tour and it really is the last for the band.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iJ7bP33Y35M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Joel Hoekstra From Trans Siberian Orchestra Talks To Mike Hsu About The Band Returning To Worcester",
+            "description": "Trans Siberian Orchestra is bringing their massive show back to the DCU Center in Worcester on November 25(2023)! Tickets go on sale this Friday. TSO guitarist Joel Hoekstra checks in with Mike Hsu to talk about what goes into a massive tour like this and crazy schedule. Hoekstra has also been a member of Whitesnake for the past 10 years and talks about the current farewell tour and it really is the last for the band."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT11M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "111",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1HeDWistVPn2YXAUXMVSKekznG4",
+        "id": "Cuc2Bl90Shk",
+        "snippet": {
+          "publishedAt": "2023-08-22T14:04:36Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Former Queensryche Singer Geoff Tate Talks Mindcrime, Favorite Theaters and Neil Young With Mike Hsu",
+          "description": "Former Queensryche singer Geoff tate is bringing his \"\u201cBIG ROCK SHOW HITS TOUR\u201d to The Wilbur Theater in Boston on September 17. He talks to Mike Hsu about his favorite theaters, his upcoming tour with Vandenburg and the former bar where he found some of the inspiration for characters for Queensryche's \"Operation Mindcrime\"",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cuc2Bl90Shk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cuc2Bl90Shk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cuc2Bl90Shk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Former Queensryche Singer Geoff Tate Talks Mindcrime, Favorite Theaters and Neil Young With Mike Hsu",
+            "description": "Former Queensryche singer Geoff tate is bringing his \"\u201cBIG ROCK SHOW HITS TOUR\u201d to The Wilbur Theater in Boston on September 17. He talks to Mike Hsu about his favorite theaters, his upcoming tour with Vandenburg and the former bar where he found some of the inspiration for characters for Queensryche's \"Operation Mindcrime\""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "144",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UzxsPQTNvuzt3KHH-rSZ4XzqfAg",
+        "id": "2Ily2wjBnog",
+        "snippet": {
+          "publishedAt": "2023-08-02T16:23:19Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Music Journalist Jim Sullivan About His New Book Back Stage And Beyond Volume 1",
+          "description": "Jim Sullivan has been writing about music for almost 50 years. He's collected some of his interview experiences in his new book \"Backstage And Beyond Vol. 1: 45 Years Of Classic Rock Chats And Rants.  The book contains interviews and stories with Joe Perry from Aerosmith, Lou Reed, Neil Young, Tina Turner, Lemmy from Motorhead, Ray Davies, Jerry Lee Lewis and many others.  Jim talks to Mike Hsu about what it takes to get a subject to open up, what his most difficult interview was, and what's going to be in Volume 2.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2Ily2wjBnog/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Music Journalist Jim Sullivan About His New Book Back Stage And Beyond Volume 1",
+            "description": "Jim Sullivan has been writing about music for almost 50 years. He's collected some of his interview experiences in his new book \"Backstage And Beyond Vol. 1: 45 Years Of Classic Rock Chats And Rants.  The book contains interviews and stories with Joe Perry from Aerosmith, Lou Reed, Neil Young, Tina Turner, Lemmy from Motorhead, Ray Davies, Jerry Lee Lewis and many others.  Jim talks to Mike Hsu about what it takes to get a subject to open up, what his most difficult interview was, and what's going to be in Volume 2."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GugkryFjpkOb0Bd51zoG0Ob0wq4",
+        "id": "p-P5x7YLKlw",
+        "snippet": {
+          "publishedAt": "2023-08-24T14:27:07Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Mike Hsu Talks To Comedian Aaron Weber About Nashville, Baseball And His Sweet Myspace Page",
+          "description": "Comedian Aaron Weber is the youngest standup to play The Grand Ole Opry in Nashville, his home base. He's shared the stage with Nate Bargatze, Bert Kreischer, John Witherspoon, Pauly Shore, Joey Diaz and many others.  His current tour will bring him to Laugh Boston on August 25 and 26. Mike Hsu talks to him about the Nashville comedy scene, visiting Fenway Park and Boston for the first time, and his sweet ass Myspace page.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p-P5x7YLKlw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mike Hsu Talks To Comedian Aaron Weber About Nashville, Baseball And His Sweet Myspace Page",
+            "description": "Comedian Aaron Weber is the youngest standup to play The Grand Ole Opry in Nashville, his home base. He's shared the stage with Nate Bargatze, Bert Kreischer, John Witherspoon, Pauly Shore, Joey Diaz and many others.  His current tour will bring him to Laugh Boston on August 25 and 26. Mike Hsu talks to him about the Nashville comedy scene, visiting Fenway Park and Boston for the first time, and his sweet ass Myspace page."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT12M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vPHHKa7_2_ZSbp8pkH4A1RU-DKI",
+        "id": "UBfyiWRm4bc",
+        "snippet": {
+          "publishedAt": "2023-11-20T15:40:08Z",
+          "channelId": "UCIE93SCn11xdvzzTL5HOORw",
+          "title": "Dale Arnold Talks To Mike Hsu About Hockey Enforcers And His New Book \"The Tough Guys\"",
+          "description": "Dale Arnold is a New England broadcasting legend.  He has covered every New England sports team over his career but mostly The Boston Bruins.  With his vast knowledge and the help of some Hockey Enforcer icons he's written a book that documents a slowly disappearing role in pro-hockey: The Enforcer. He talks to Mike Hsu about how the game has changed and the great stories relayed to him by the \"Tough Guys\" themselves.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UBfyiWRm4bc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "100 FM The Pike",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dale Arnold Talks To Mike Hsu About Hockey Enforcers And His New Book \"The Tough Guys\"",
+            "description": "Dale Arnold is a New England broadcasting legend.  He has covered every New England sports team over his career but mostly The Boston Bruins.  With his vast knowledge and the help of some Hockey Enforcer icons he's written a book that documents a slowly disappearing role in pro-hockey: The Enforcer. He talks to Mike Hsu about how the game has changed and the great stories relayed to him by the \"Tough Guys\" themselves."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "40",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

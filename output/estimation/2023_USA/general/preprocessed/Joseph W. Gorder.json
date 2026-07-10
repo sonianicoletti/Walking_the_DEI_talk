@@ -1,0 +1,22 @@
+{
+  "ceo": "Joseph W. Gorder",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "fqDZiCP544nyBMdnZXCb2mXAmtw",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 12,
+      "resultsPerPage": 11
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "wS2sUmLIdIp9bliUgxYeAZHcH50",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 11,
+      "resultsPerPage": 11
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "ceo": "Jennifer Rumsey",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "pbK0Y3J-FWjoi0iEQbPY_wqCzAU",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 57,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "muGyqX2EEwdUBd-HabYQHWHS8gA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ag4q0FTPL4U"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-04T10:42:50Z",
+          "channelId": "UCx2mJIUGzaDCha75FKiekhg",
+          "title": "Jennifer Rumsey\u2019s Visit to India \u2013 2023",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cummins India Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-04T10:42:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lDrR3ow96xM3q-WTdfXnT5mzvx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lzPnILeM0Z4"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-02T10:17:43Z",
+          "channelId": "UCT0XMGaz8-ccZ3gv7MUqKhA",
+          "title": "Interview with Jennifer Rumsey, CEO Cummins Inc.",
+          "description": "If you want to listen to the full podcast, be sure to follow https://changeofdirections.substack.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "OutoftheBox",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-02T10:17:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sYJtJV8N7xb6TkF0ORHNxKRxHyg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_MEMuP-NbZo"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-04T17:46:50Z",
+          "channelId": "UCY1hwEOVMAZZmxG0JfJzz9Q",
+          "title": "Jennifer Rumsey&#39;s thoughts on and thanks for a great 2022",
+          "description": "Challenging, energizing and exciting - how President and CEO, Jennifer Rumsey describes all that Cummins Inc. achieved in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cummins",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-04T17:46:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "biGWUr-rJJIQPTPgqlRrpVnceMc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RDzDUO7mbRY"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-08T21:55:26Z",
+          "channelId": "UC7YaI76kCGp-0O6fqD4erPQ",
+          "title": "Driving India&#39;s Growth: Conversation with Cummins CEO Jennifer Rumsey#CooperationGoals #Investment",
+          "description": "Title: \"Driving India's Growth: Conversation with Cummins CEO Jennifer Rumsey | Foreign Minister Dr. S. Jaishankar\" ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Study Media",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-08T21:55:26Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SKUtDk2d3-pKldoxMe4oTxVkgQA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "u1cXJPKkb4ZeUipAky6LF45cIts",
+        "id": "ag4q0FTPL4U",
+        "snippet": {
+          "publishedAt": "2023-09-04T10:42:50Z",
+          "channelId": "UCx2mJIUGzaDCha75FKiekhg",
+          "title": "Jennifer Rumsey\u2019s Visit to India \u2013 2023",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ag4q0FTPL4U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cummins India Official",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jennifer Rumsey\u2019s Visit to India \u2013 2023",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "722",
+          "likeCount": "14",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3lpYQcpKIPF7X77dTkkgMYjtZ6E",
+        "id": "lzPnILeM0Z4",
+        "snippet": {
+          "publishedAt": "2023-08-02T10:17:43Z",
+          "channelId": "UCT0XMGaz8-ccZ3gv7MUqKhA",
+          "title": "Interview with Jennifer Rumsey, CEO Cummins Inc.",
+          "description": "If you want to listen to the full podcast, be sure to follow \nhttps://changeofdirections.substack.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lzPnILeM0Z4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "OutoftheBox",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Interview with Jennifer Rumsey, CEO Cummins Inc.",
+            "description": "If you want to listen to the full podcast, be sure to follow \nhttps://changeofdirections.substack.com/"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "182",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "S9jKcYod0Unp0xSuOSQ1283576o",
+        "id": "_MEMuP-NbZo",
+        "snippet": {
+          "publishedAt": "2023-01-04T17:46:50Z",
+          "channelId": "UCY1hwEOVMAZZmxG0JfJzz9Q",
+          "title": "Jennifer Rumsey's thoughts on and thanks for a great 2022",
+          "description": "Challenging, energizing and exciting - how President and CEO, Jennifer Rumsey describes all that Cummins Inc. achieved in 2022. Our people were at the center of it all, innovating solutions that positively impact our customers and the planet.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_MEMuP-NbZo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cummins",
+          "tags": [
+            "cummins",
+            "Cummins CEO",
+            "Jennifer Rumsey",
+            "Cummins innovations"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jennifer Rumsey's thoughts on and thanks for a great 2022",
+            "description": "Challenging, energizing and exciting - how President and CEO, Jennifer Rumsey describes all that Cummins Inc. achieved in 2022. Our people were at the center of it all, innovating solutions that positively impact our customers and the planet."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "707",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "q9bPA9KtWjca9AYm-73FYMgL9TA",
+        "id": "RDzDUO7mbRY",
+        "snippet": {
+          "publishedAt": "2023-08-08T21:55:26Z",
+          "channelId": "UC7YaI76kCGp-0O6fqD4erPQ",
+          "title": "Driving India's Growth: Conversation with Cummins CEO Jennifer Rumsey#CooperationGoals #Investment",
+          "description": "Title: \"Driving India's Growth: Conversation with Cummins CEO Jennifer Rumsey | Foreign Minister Dr. S. Jaishankar\"\n@mediastudy-iq \n\nDescription: \nJoin us for an insightful conversation between India's Foreign Minister, Dr. S. Jaishankar, and Cummins CEO, Jennifer Rumsey, as they discuss Cummins' remarkable contributions to India's growth and development. Dr. Jaishankar acknowledges and appreciates Cummins' role in powering India's progress and emphasizes the importance of fostering future investments and cooperative endeavors. Explore how collaboration between industry and diplomacy paves the way for a stronger, more sustainable India. Don't miss this engaging exchange of ideas and vision for a brighter future!\n\nTags: \nCummins\nIndia's growth\nForeign Minister\nDr. S. Jaishankar\nJennifer Rumsey\ncooperation\n investments\n development\nindustry collaboration\ndiplomacy\n\nHashtags: \n#CumminsIndiaGrowth #ForeignMinisterTalks #CooperationGoals #InvestingInIndia #DiplomacyAndIndustry #SustainableDevelopment#englishmedia",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RDzDUO7mbRY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Study Media",
+          "tags": [
+            "Cummins",
+            "India's growth",
+            "Foreign Minister",
+            "Dr SJaishankar",
+            "Jennifer Rumsey",
+            "cooperation",
+            "investments",
+            "development",
+            "industry collaboration",
+            "diplomacy",
+            "english news",
+            "english media",
+            "news",
+            "media"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Driving India's Growth: Conversation with Cummins CEO Jennifer Rumsey#CooperationGoals #Investment",
+            "description": "Title: \"Driving India's Growth: Conversation with Cummins CEO Jennifer Rumsey | Foreign Minister Dr. S. Jaishankar\"\n@mediastudy-iq \n\nDescription: \nJoin us for an insightful conversation between India's Foreign Minister, Dr. S. Jaishankar, and Cummins CEO, Jennifer Rumsey, as they discuss Cummins' remarkable contributions to India's growth and development. Dr. Jaishankar acknowledges and appreciates Cummins' role in powering India's progress and emphasizes the importance of fostering future investments and cooperative endeavors. Explore how collaboration between industry and diplomacy paves the way for a stronger, more sustainable India. Don't miss this engaging exchange of ideas and vision for a brighter future!\n\nTags: \nCummins\nIndia's growth\nForeign Minister\nDr. S. Jaishankar\nJennifer Rumsey\ncooperation\n investments\n development\nindustry collaboration\ndiplomacy\n\nHashtags: \n#CumminsIndiaGrowth #ForeignMinisterTalks #CooperationGoals #InvestingInIndia #DiplomacyAndIndustry #SustainableDevelopment#englishmedia"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "299",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

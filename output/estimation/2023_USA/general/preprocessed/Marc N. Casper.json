@@ -1,0 +1,123 @@
+{
+  "ceo": "Marc N. Casper",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "krtcF8NbBd6FBM1g4pE-AYQNbEQ",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 98,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_mELQw0b04pQjvKtx3eNgXalwL0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "b5lA3F1NheA"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-03T15:51:33Z",
+          "channelId": "UCfUs2fCDhx07fkszsJ0jOcA",
+          "title": "CEO Marc Casper joins Mad Money on CNBC",
+          "description": "Our CEO, Marc Casper, recently joined Mad Money on CNBC with Jim Cramer to share how our Mission-driven team delivered ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thermo Fisher Scientific",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-03T15:51:33Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "GGncFP7ADrVLPj91zDZFJUs0TTs",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "_-LJ_IR0yVtNaU5Sw97LSxm1DBo",
+        "id": "b5lA3F1NheA",
+        "snippet": {
+          "publishedAt": "2023-02-03T15:51:33Z",
+          "channelId": "UCfUs2fCDhx07fkszsJ0jOcA",
+          "title": "CEO Marc Casper joins Mad Money on CNBC",
+          "description": "Our CEO, Marc Casper, recently joined Mad Money on CNBC with Jim Cramer to share how our Mission-driven team delivered another successful year to enable our customers to make the world healthier, cleaner and safer.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b5lA3F1NheA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Thermo Fisher Scientific",
+          "tags": [
+            "Thermo Fisher"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "CEO Marc Casper joins Mad Money on CNBC",
+            "description": "Our CEO, Marc Casper, recently joined Mad Money on CNBC with Jim Cramer to share how our Mission-driven team delivered another successful year to enable our customers to make the world healthier, cleaner and safer."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT6M55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4341",
+          "likeCount": "29",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

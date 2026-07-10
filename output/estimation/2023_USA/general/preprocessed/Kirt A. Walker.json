@@ -1,0 +1,23 @@
+{
+  "ceo": "Kirt A. Walker",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "YgO2ZK7Vx8h-STJ06idn4uhdMto",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 244681,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "uwbmzxa1ma4zL1ouB38yZ5geixs",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "ceo": "Miguel Patricio",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "mpXuGuPW3WxOejVCartFmyD6jvg",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1212,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lZdc1BWDYvWCEPnP-wi9rcfAaJ8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JsLX61tLri4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T13:03:27Z",
+          "channelId": "UC6IV_-meVukoTUCcxnjQpkQ",
+          "title": "Video Note to Kraft-Heinz and CEO Miguel Patricio",
+          "description": "A note asking to work together on creating a new, greener, wayforward for beloved Capri Sun. #leavewith3 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JsLX61tLri4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JsLX61tLri4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JsLX61tLri4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Trash Turtles",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T13:03:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LikJ2mCpnBR5jQ3H1IWlqJ_D1Ns",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IBsE9nsnNFg"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T00:00:12Z",
+          "channelId": "UCFgEJRSD4LaJYubpeZnvGOw",
+          "title": "The Secretive CEO Making Millions: Meet Miguel Patricio of Kraft Heinz",
+          "description": "The video effectively hooks viewers with the mention of secrecy surrounding Miguel Patricio's high compensation. It provides a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Luxury Of Life",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T00:00:12Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "7szpadlT1VRICFKKXb72A36oH5M",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "AQxK5bBwBhOV-wrsLGepkeGhFoE",
+        "id": "JsLX61tLri4",
+        "snippet": {
+          "publishedAt": "2023-06-07T13:03:27Z",
+          "channelId": "UC6IV_-meVukoTUCcxnjQpkQ",
+          "title": "Video Note to Kraft-Heinz and CEO Miguel Patricio",
+          "description": "A note asking to work together on creating a new, greener, wayforward for beloved Capri Sun.\n\n#leavewith3 #strawchangecampaign #trashturtles #trashturtlenation",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JsLX61tLri4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JsLX61tLri4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JsLX61tLri4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Trash Turtles",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Video Note to Kraft-Heinz and CEO Miguel Patricio",
+            "description": "A note asking to work together on creating a new, greener, wayforward for beloved Capri Sun.\n\n#leavewith3 #strawchangecampaign #trashturtles #trashturtlenation"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "37",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vG9leS1_Osx56IsI76L44mm6gBQ",
+        "id": "IBsE9nsnNFg",
+        "snippet": {
+          "publishedAt": "2023-10-24T00:00:12Z",
+          "channelId": "UCFgEJRSD4LaJYubpeZnvGOw",
+          "title": "The Secretive CEO Making Millions: Meet Miguel Patricio of Kraft Heinz",
+          "description": "The video effectively hooks viewers with the mention of secrecy surrounding Miguel Patricio's high compensation. It provides a clear overview of his career and current position, covering all necessary information. The discussion on CEO compensation and income inequality offers valuable insights, but could benefit from more analysis on its impact. Overall, it addresses an ongoing and popular topic.\n\nVideo Credit - MR. Luxury\n#luxury #technology #finance #lifestyle",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IBsE9nsnNFg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Luxury Of Life",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Secretive CEO Making Millions: Meet Miguel Patricio of Kraft Heinz",
+            "description": "The video effectively hooks viewers with the mention of secrecy surrounding Miguel Patricio's high compensation. It provides a clear overview of his career and current position, covering all necessary information. The discussion on CEO compensation and income inequality offers valuable insights, but could benefit from more analysis on its impact. Overall, it addresses an ongoing and popular topic.\n\nVideo Credit - MR. Luxury\n#luxury #technology #finance #lifestyle"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "290",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

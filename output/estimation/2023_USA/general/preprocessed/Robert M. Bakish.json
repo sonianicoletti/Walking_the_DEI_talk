@@ -1,0 +1,120 @@
+{
+  "ceo": "Robert M. Bakish",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "jOx9-0vpgb4YcHN5mvSFT296gcE",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 29,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hku2eQhQp9bGoUXZoix060jeBPw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dt1TAC6yuTQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-24T20:57:34Z",
+          "channelId": "UCwWeR7z1tDD-SFkWjQrUrQA",
+          "title": "Silfen Leadership Speaker Series: Robert Bakish CBS \u201889 \u2013 President and CEO, Paramount Global",
+          "description": "At a recent installment of the Silfen Leadership Series, the CEO of Paramount Global, #CBSAlum Robert M. Bakish '89, told ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Columbia Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-24T20:57:34Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "1afg9fx6mX6gFK-T7Rh2M-QdFE8",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "taTq6ZmT0B_JlP6xjII_Ok2sASY",
+        "id": "dt1TAC6yuTQ",
+        "snippet": {
+          "publishedAt": "2023-10-24T20:57:34Z",
+          "channelId": "UCwWeR7z1tDD-SFkWjQrUrQA",
+          "title": "Silfen Leadership Speaker Series: Robert Bakish CBS \u201889 \u2013 President and CEO, Paramount Global",
+          "description": "At a recent installment of the Silfen Leadership Series, the CEO of\u00a0Paramount\u00a0Global,\u00a0#CBSAlum\u00a0Robert M. Bakish\u00a0'89, told attendees,\u00a0\"Collaboration is fundamental. It's the only way you can scale, the only way you can get the best of an organization, and the only way I believe people do their best work.\"\n\u00a0\nThe Silfen Leadership Series is an initiative wherein world-renowned leaders come to campus to speak to students and is funded by an endowment set up by David '68 and Lyn Silfen. Each year, a board of six to eight students is selected, with whom the School works to run each session.\n\u00a0\nAs a student-run venture, in conjunction with the Dean's Office and the Office of Development and Alumni Relations, the Series aims to enhance the shared access to intellectual capital between students and the leaders who drive organizations, societies, and markets forward.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dt1TAC6yuTQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Columbia Business School",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Silfen Leadership Speaker Series: Robert Bakish CBS \u201889 \u2013 President and CEO, Paramount Global",
+            "description": "At a recent installment of the Silfen Leadership Series, the CEO of\u00a0Paramount\u00a0Global,\u00a0#CBSAlum\u00a0Robert M. Bakish\u00a0'89, told attendees,\u00a0\"Collaboration is fundamental. It's the only way you can scale, the only way you can get the best of an organization, and the only way I believe people do their best work.\"\n\u00a0\nThe Silfen Leadership Series is an initiative wherein world-renowned leaders come to campus to speak to students and is funded by an endowment set up by David '68 and Lyn Silfen. Each year, a board of six to eight students is selected, with whom the School works to run each session.\n\u00a0\nAs a student-run venture, in conjunction with the Dean's Office and the Office of Development and Alumni Relations, the Series aims to enhance the shared access to intellectual capital between students and the leaders who drive organizations, societies, and markets forward."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "819",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 25,
+      "resultsPerPage": 25
+    }
+  }
+}

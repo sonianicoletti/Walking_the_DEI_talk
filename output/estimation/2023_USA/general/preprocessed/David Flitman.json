@@ -1,0 +1,22 @@
+{
+  "ceo": "David Flitman",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "hZtctEB20_i4xYNAMiUssKu7zSU",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 10,
+      "resultsPerPage": 10
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "h_Vq2Uz9DXFEy5MrO4Jz3ELBCsc",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 10,
+      "resultsPerPage": 10
+    }
+  }
+}

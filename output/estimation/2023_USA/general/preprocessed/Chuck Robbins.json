@@ -1,0 +1,1648 @@
+{
+  "ceo": "Chuck Robbins",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "aRwATE4Gg2C5bXvMOu5OV6HLYE4",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 813,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "foo0-eLABNkytaEJMccDNkA1K8U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KDYKGE6f8Pw"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-21T14:25:32Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cisco CEO Chuck Robbins on Splunk acquisition: Deal will add $4 billion in annual recurring revenue",
+          "description": "Cisco chairman and CEO Chuck Robbins and Splunk CEO Gary Steele join 'Squawk on the Street' to discuss Cisco's acquisition ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-21T14:25:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xQjkETCi78oh-XoZAx2fdt25nxQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sjxc6NXZEn4"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-17T07:50:12Z",
+          "channelId": "UCJ5gGTLrAeXFyOmooAEH7zw",
+          "title": "Cisco Chairman and CEO Mr Chuck Robbins exclusive interview to PTI",
+          "description": "As US network gear maker Cisco announced plans for manufacturing products like routers and switches in India, its chairman and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PTI News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-17T07:50:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0o8XDY3U5CXniQqQAR2vt6R-bzw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TV3njg8HzAQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-14T10:19:06Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Cisco Global CEO Chuck Robbins Speaks On Tech &amp; The Geopolitical Landscape | CNBC-TV18",
+          "description": "In this segment Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on Tech & The Geopolitical Landscape. Listen in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-14T10:19:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "deUXIwOJVDgOZVcPFGciwhc_1jE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7xcStnd38Jw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-17T14:36:42Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cisco CEO Chuck Robbins on outlook: We are well-positioned for the next A.I. phase",
+          "description": "Cisco CEO Chuck Robbins joins 'Squawk on the Street' to discuss the company's quarterly earnings results, full-year forecast, and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-17T14:36:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tCRF3hGdDPxLx4td75OojW5eyyU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Xl9RWLnVJrc"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T14:18:50Z",
+          "channelId": "UCYYtxhYD5jMCGqqWPT0RNLw",
+          "title": "Principals Live with Cisco Chair and CEO Chuck Robbins | Semafor",
+          "description": "Semafor Founding Editor at Large Steve Clemons sits down with Chuck Robbins, Chair and CEO of Cisco Systems, for a 1:1 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Semafor Events",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T14:18:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "79Ih-UyeB3xo47Ir9UXLTN_vhLo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XF869wydld4"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-16T07:20:43Z",
+          "channelId": "UCVUweA-Eag_WXeG6wUQHppg",
+          "title": "Cisco CEO Chuck Robbins on the potential of AI",
+          "description": "Arthur Goldstuck interviewed Chuck Robbins during the Cisco Systems CEO's visit to Johannesburg in October 2023. In this ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Future Fast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-16T07:20:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L-66wt8VpBewqXsbpjCNxb6uSSU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tDst-ywsmm8"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-15T10:23:55Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Rise of Chuck Robbins, Top CEO of CISCO!! #thoughts #mindset #principles #ceo #insight #cisco",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-15T10:23:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1B7a_kggmlFcSQyu4VHR89NtMNs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iwN3NQafSmg"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-16T15:23:54Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cisco CEO Chuck Robbins: We are now at a point where 44% of our revenue is recurring",
+          "description": "Cisco CEO Chuck Robbins joins 'Squawk on the Street' to discuss the company's backlog reserves, stable order growth, and their ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-16T15:23:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vieL6WV29PLENOKrihKKcR0wHGg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cIPFo9cYhRI"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-10T10:16:07Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Cisco Targets $1 Bn Revenue From Its Chennai Mfg Plant | Cisco CEO Chuck Robbins Exclusive",
+          "description": "Global tech giant Cisco expands its footprint in India. Speaking to Shereen Bhan, Cisco CEO Chuck Robbins says the company ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-10T10:16:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fCyN7rVPCEz-sG83ocJ5GQ2STMw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zEPUf0OxpMA"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-14T09:52:13Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "India, Natural Place For Cisco To Invest Next Few Years: Cisco Chuck Robbins Exclusive | CNBC-TV18",
+          "description": "In today's Weekend Special Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on India, natural place for cisco to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-14T09:52:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cO6OsePhxlZTkSD4NdvLs2BEVt8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xngY4dWC6-Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-13T07:45:10Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Cisco Global CEO Chuck Robbins Speaks On Growth &amp; Investment Opportunities In India | CNBC-TV18",
+          "description": "In today's Weekend Special Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on the tech giant's growth and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-13T07:45:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Wvhx3y_57prnKhDTivelPoDm5u4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EXYpNjhmXTE"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-16T12:00:18Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "How Chuck Robbins &amp; CISCO be the leader in the industry!! #thoughts #mindset #ceo #insight #cisco",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-16T12:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sXAK8G2CD5jC9D01lVx9-BlROG8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yKU7zkldMUw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-11T00:29:16Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "CNBC-TV18 LIVE | Shereen Bhan In Conversation With Cisco&#39;sChuck Robbins | Global Dialogues",
+          "description": "Chuck Robbins, the Global CEO of Cisco speaks to Shereen Bhan on the decision to set-up a manufacturing facility in Chennai ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-11T00:29:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1cTygEKAiuAN-VHDfWNU0G9DfzA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qyPudKQunY8"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-15T12:00:40Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "2015 has been one of the greatest career of Chuck Robbins at CISCO. #thoughts #mindset #ceo #insight",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-15T12:00:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dKFxl4eST3O_o3DT0GWmbCr-4Uw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lW6Xz5fdyNA"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-17T18:15:21Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Cisco is getting &#39;early wins&#39; in AI, says CEO Chuck Robbins",
+          "description": "Cisco Systems CEO Chuck Robbins spoke with Yahoo Finance Executive Editor Brian Sozzi spoke to discuss Cisco earnings, the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-17T18:15:21Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "YFCizHBHgtbAu-oxpX6Se766sUw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "UfXDsHCNXPNk46P-glQ2ZkB5Jvg",
+        "id": "KDYKGE6f8Pw",
+        "snippet": {
+          "publishedAt": "2023-09-21T14:25:32Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cisco CEO Chuck Robbins on Splunk acquisition: Deal will add $4 billion in annual recurring revenue",
+          "description": "Cisco chairman and CEO Chuck Robbins and Splunk CEO Gary Steele join 'Squawk on the Street' to discuss Cisco's acquisition of cybersecurity software company Splunk for $157 a share in a cash deal worth $28 billion, why Splunk decided to sell the company, the growth opportunity ahead, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KDYKGE6f8Pw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco CEO Chuck Robbins on Splunk acquisition: Deal will add $4 billion in annual recurring revenue",
+            "description": "Cisco chairman and CEO Chuck Robbins and Splunk CEO Gary Steele join 'Squawk on the Street' to discuss Cisco's acquisition of cybersecurity software company Splunk for $157 a share in a cash deal worth $28 billion, why Splunk decided to sell the company, the growth opportunity ahead, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "20614",
+          "likeCount": "127",
+          "favoriteCount": "0",
+          "commentCount": "25"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "T-fu_rvnhRXUn9DekLzB6Iug53M",
+        "id": "sjxc6NXZEn4",
+        "snippet": {
+          "publishedAt": "2023-05-17T07:50:12Z",
+          "channelId": "UCJ5gGTLrAeXFyOmooAEH7zw",
+          "title": "Cisco Chairman and CEO Mr Chuck Robbins exclusive interview to PTI",
+          "description": "As US network gear maker Cisco announced plans for manufacturing products like routers and switches in India, its chairman and CEO Chuck Robbins told PTI in an exclusive interview that the country has made remarkable progress on digital infrastructure, and termed India as the number one growth opportunity over next decade.\n\nWatch the full video here.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sjxc6NXZEn4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PTI News",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco Chairman and CEO Mr Chuck Robbins exclusive interview to PTI",
+            "description": "As US network gear maker Cisco announced plans for manufacturing products like routers and switches in India, its chairman and CEO Chuck Robbins told PTI in an exclusive interview that the country has made remarkable progress on digital infrastructure, and termed India as the number one growth opportunity over next decade.\n\nWatch the full video here."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT14M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "747",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3yWa7ktwbWc9Pfxqac228Tq7OMU",
+        "id": "TV3njg8HzAQ",
+        "snippet": {
+          "publishedAt": "2023-05-14T10:19:06Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Cisco Global CEO Chuck Robbins Speaks On Tech & The Geopolitical Landscape | CNBC-TV18",
+          "description": "In this segment Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on Tech & The Geopolitical Landscape. Listen in.\n\n#cisco #indiagrowthopportunity #indiaexpansionplans #businessoutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TV3njg8HzAQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "cnbc tv18",
+            "business news in english",
+            "business news today",
+            "Cisco Global CEO Chuck Robbins exclusive",
+            "cisco global ceo chuck robbins exclusive on growth opportunities in india",
+            "cisco's growth opportunities in india",
+            "cisco's business expansion plans in india",
+            "ciso plant in chennai",
+            "cisco's investment opportunities in india",
+            "cisco global ceo chuck robbins on changing landscape of tech",
+            "Business News Today",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco Global CEO Chuck Robbins Speaks On Tech & The Geopolitical Landscape | CNBC-TV18",
+            "description": "In this segment Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on Tech & The Geopolitical Landscape. Listen in.\n\n#cisco #indiagrowthopportunity #indiaexpansionplans #businessoutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT11M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "886",
+          "likeCount": "10",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DzGY3i-qsl5sDWbR14qJrjzrRFo",
+        "id": "7xcStnd38Jw",
+        "snippet": {
+          "publishedAt": "2023-08-17T14:36:42Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cisco CEO Chuck Robbins on outlook: We are well-positioned for the next A.I. phase",
+          "description": "Cisco CEO Chuck Robbins joins 'Squawk on the Street' to discuss the company's quarterly earnings results, full-year forecast, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7xcStnd38Jw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco CEO Chuck Robbins on outlook: We are well-positioned for the next A.I. phase",
+            "description": "Cisco CEO Chuck Robbins joins 'Squawk on the Street' to discuss the company's quarterly earnings results, full-year forecast, and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14168",
+          "likeCount": "92",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "es2NSilNIfzJ-DTWL_pvv0x6y0M",
+        "id": "Xl9RWLnVJrc",
+        "snippet": {
+          "publishedAt": "2023-06-13T14:18:50Z",
+          "channelId": "UCYYtxhYD5jMCGqqWPT0RNLw",
+          "title": "Principals Live with Cisco Chair and CEO Chuck Robbins | Semafor",
+          "description": "Semafor Founding Editor at Large Steve Clemons sits down with Chuck Robbins, Chair and CEO of Cisco Systems, for a 1:1 interview. \n\nThis live event brings Semafor's top DC newsletter to the stage with a rapid-fire conversation on everything from the rebounding tech sector and investments in AI, to how connectivity and bridging the digital divide can serve as economic drivers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Xl9RWLnVJrc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Semafor Events",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Principals Live with Cisco Chair and CEO Chuck Robbins | Semafor",
+            "description": "Semafor Founding Editor at Large Steve Clemons sits down with Chuck Robbins, Chair and CEO of Cisco Systems, for a 1:1 interview. \n\nThis live event brings Semafor's top DC newsletter to the stage with a rapid-fire conversation on everything from the rebounding tech sector and investments in AI, to how connectivity and bridging the digital divide can serve as economic drivers."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT42M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1499",
+          "likeCount": "20",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "33m6nZTysA9yVubPP_yqRVYQQ-s",
+        "id": "XF869wydld4",
+        "snippet": {
+          "publishedAt": "2023-10-16T07:20:43Z",
+          "channelId": "UCVUweA-Eag_WXeG6wUQHppg",
+          "title": "Cisco CEO Chuck Robbins on the potential of AI",
+          "description": "Arthur Goldstuck interviewed Chuck Robbins during the Cisco Systems CEO's visit to Johannesburg in October 2023. In this excerpt, Arthur asked Chuck why we should get excited about AI.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XF869wydld4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Future Fast",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco CEO Chuck Robbins on the potential of AI",
+            "description": "Arthur Goldstuck interviewed Chuck Robbins during the Cisco Systems CEO's visit to Johannesburg in October 2023. In this excerpt, Arthur asked Chuck why we should get excited about AI."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "26766",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ROVB6iVYIBXsNxomqYsKpXAN61c",
+        "id": "tDst-ywsmm8",
+        "snippet": {
+          "publishedAt": "2023-04-15T10:23:55Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "The Rise of Chuck Robbins, Top CEO of CISCO!! #thoughts #mindset #principles #ceo #insight #cisco",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tDst-ywsmm8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Rise of Chuck Robbins, Top CEO of CISCO!! #thoughts #mindset #principles #ceo #insight #cisco",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "306",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_Jw6uF3l41MIFrPPFrwOOjqKzwU",
+        "id": "iwN3NQafSmg",
+        "snippet": {
+          "publishedAt": "2023-02-16T15:23:54Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Cisco CEO Chuck Robbins: We are now at a point where 44% of our revenue is recurring",
+          "description": "Cisco CEO Chuck Robbins joins 'Squawk on the Street' to discuss the company's backlog reserves, stable order growth, and their latest revenue and earnings beat. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iwN3NQafSmg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk on the Street",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco CEO Chuck Robbins: We are now at a point where 44% of our revenue is recurring",
+            "description": "Cisco CEO Chuck Robbins joins 'Squawk on the Street' to discuss the company's backlog reserves, stable order growth, and their latest revenue and earnings beat. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6096",
+          "likeCount": "32",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "afFMDYz6prxZjkHUDfeC5zmfFL4",
+        "id": "cIPFo9cYhRI",
+        "snippet": {
+          "publishedAt": "2023-05-10T10:16:07Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Cisco Targets $1 Bn Revenue From Its Chennai Mfg Plant | Cisco CEO Chuck Robbins Exclusive",
+          "description": "Global tech giant Cisco expands its footprint in India. Speaking to Shereen Bhan, Cisco CEO Chuck Robbins says the company targets $1 billion revenue from its upcoming manufacturing plant in Chennai.\n\n#cisco #ciscoceo #chuckrobbins #cnbctv18 #businessnews  #businessnewstoday #businessnewsinenglish #sharemarkettoday  \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \n\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cIPFo9cYhRI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "cnbc tv18",
+            "business news in english",
+            "business news today",
+            "india",
+            "cisco india",
+            "cisco",
+            "cisco systems india pvt ltd",
+            "cisco india exclusive",
+            "cisco in india",
+            "cisco training institute in india",
+            "cisco india news",
+            "cisco india review",
+            "digital india",
+            "indian economy",
+            "cisco india leadership",
+            "cisco investing in india",
+            "cisco india marketing head",
+            "cisco chairman of india",
+            "cnbc india",
+            "Cisco expands its footprint in India",
+            "Cisco CEO Chuck Robbins",
+            "chuck robbins",
+            "business news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco Targets $1 Bn Revenue From Its Chennai Mfg Plant | Cisco CEO Chuck Robbins Exclusive",
+            "description": "Global tech giant Cisco expands its footprint in India. Speaking to Shereen Bhan, Cisco CEO Chuck Robbins says the company targets $1 billion revenue from its upcoming manufacturing plant in Chennai.\n\n#cisco #ciscoceo #chuckrobbins #cnbctv18 #businessnews  #businessnewstoday #businessnewsinenglish #sharemarkettoday  \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \n\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT5M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3424",
+          "likeCount": "39",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6gmIV7tC_rXU5ENCYZGbucsL24E",
+        "id": "zEPUf0OxpMA",
+        "snippet": {
+          "publishedAt": "2023-05-14T09:52:13Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "India, Natural Place For Cisco To Invest Next Few Years: Cisco Chuck Robbins Exclusive | CNBC-TV18",
+          "description": "In today's Weekend Special Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on India, natural place for cisco to invest next few years. Listen in.\n\n#cisco #indiagrowthopportunity #cnbctv18#businessoutlook #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zEPUf0OxpMA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "cnbc tv18",
+            "business news in english",
+            "business news today",
+            "Cisco Global CEO Chuck Robbins exclusive",
+            "cisco global ceo chuck robbins exclusive on growth opportunities in india",
+            "cisco's growth opportunities in india",
+            "cisco's business expansion plans in india",
+            "ciso plant in chennai",
+            "cisco's investment opportunities in india",
+            "cisco global ceo chuck robbins on changing landscape of tech",
+            "Business News",
+            "Business News Today",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "India, Natural Place For Cisco To Invest Next Few Years: Cisco Chuck Robbins Exclusive | CNBC-TV18",
+            "description": "In today's Weekend Special Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on India, natural place for cisco to invest next few years. Listen in.\n\n#cisco #indiagrowthopportunity #cnbctv18#businessoutlook #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT12M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1179",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oRqfhHDUVsNQBjzUdiHCtuGcdeM",
+        "id": "xngY4dWC6-Q",
+        "snippet": {
+          "publishedAt": "2023-05-13T07:45:10Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Cisco Global CEO Chuck Robbins Speaks On Growth & Investment Opportunities In India | CNBC-TV18",
+          "description": "In today's Weekend Special Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on the tech giant's growth and investment opportunities in India. Listen in.\n\n#cisco #indiagrowthopportunity #indiaexpansionplans #businessoutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xngY4dWC6-Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "Cisco Global CEO Chuck Robbins exclusive",
+            "cisco global ceo chuck robbins exclusive on growth opportunities in india",
+            "cisco's growth opportunities in india",
+            "cisco's business expansion plans in india",
+            "ciso plant in chennai",
+            "cisco's investment opportunities in india",
+            "cisco global ceo chuck robbins on changing landscape of tech",
+            "CNBC TV18",
+            "Business News",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco Global CEO Chuck Robbins Speaks On Growth & Investment Opportunities In India | CNBC-TV18",
+            "description": "In today's Weekend Special Of 'Global Dialogues', Cisco Global CEO Chuck Robbins speaks on the tech giant's growth and investment opportunities in India. Listen in.\n\n#cisco #indiagrowthopportunity #indiaexpansionplans #businessoutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT23M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "330",
+          "likeCount": "3",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fTvYEXsK1iUaP69CChT58RWRIEQ",
+        "id": "EXYpNjhmXTE",
+        "snippet": {
+          "publishedAt": "2023-04-16T12:00:18Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "How Chuck Robbins & CISCO be the leader in the industry!! #thoughts #mindset #ceo #insight #cisco",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EXYpNjhmXTE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Chuck Robbins & CISCO be the leader in the industry!! #thoughts #mindset #ceo #insight #cisco",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "112",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZZRK5RGGROnUoEke2X-ymRbQ_8I",
+        "id": "yKU7zkldMUw",
+        "snippet": {
+          "publishedAt": "2023-05-11T00:29:16Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "CNBC-TV18 LIVE | Shereen Bhan In Conversation With Cisco'sChuck Robbins | Global Dialogues",
+          "description": "Chuck Robbins, the Global CEO of Cisco speaks to Shereen Bhan on the decision to set-up a manufacturing facility in Chennai & the growth opportunity in India.\n\n#cisco #chuckrobbins #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   #cnbctv18 \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yKU7zkldMUw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "chuck robbins",
+            "cisco",
+            "chuck robbins cisco",
+            "cisco ceo",
+            "cisco chuck robbins",
+            "cisco ceo chuck robbins",
+            "cisco chuck",
+            "cisco ceo chuck",
+            "ceo chuck robbins",
+            "cnbc chuck robbins",
+            "cisco india",
+            "cisco india news",
+            "cisco cnbc",
+            "cisco india review",
+            "cisco india exclusive",
+            "cisco chairman of india",
+            "CNBC TV18",
+            "CNBC TV18 News",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CNBC-TV18 LIVE | Shereen Bhan In Conversation With Cisco'sChuck Robbins | Global Dialogues",
+            "description": "Chuck Robbins, the Global CEO of Cisco speaks to Shereen Bhan on the decision to set-up a manufacturing facility in Chennai & the growth opportunity in India.\n\n#cisco #chuckrobbins #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   #cnbctv18 \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT24M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1038",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "v6uQc9eIFmoZ42NcqjnfIb3Dljc",
+        "id": "qyPudKQunY8",
+        "snippet": {
+          "publishedAt": "2023-04-15T12:00:40Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "2015 has been one of the greatest career of Chuck Robbins at CISCO. #thoughts #mindset #ceo #insight",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qyPudKQunY8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2015 has been one of the greatest career of Chuck Robbins at CISCO. #thoughts #mindset #ceo #insight",
+            "description": ""
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "47",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XvE3EQV9QbYdth2R3qYileJkST0",
+        "id": "lW6Xz5fdyNA",
+        "snippet": {
+          "publishedAt": "2023-08-17T18:15:21Z",
+          "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+          "title": "Cisco is getting 'early wins' in AI, says CEO Chuck Robbins",
+          "description": "Cisco Systems CEO Chuck Robbins spoke with Yahoo Finance Executive Editor Brian Sozzi spoke to discuss Cisco earnings, the outlook for the company, AI, China, and inflation.\n#inflation #China #AI\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lW6Xz5fdyNA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo Finance",
+          "tags": [
+            "Yahoo Finance",
+            "Personal Finance",
+            "Money",
+            "Investing",
+            "Business",
+            "Savings",
+            "Investment",
+            "Stocks",
+            "Bonds",
+            "FX",
+            "Currencies",
+            "NYSE",
+            "Equities",
+            "News",
+            "Politics",
+            "Market",
+            "Markets",
+            "Yahoo FInance Premium",
+            "Stock market",
+            "AI"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cisco is getting 'early wins' in AI, says CEO Chuck Robbins",
+            "description": "Cisco Systems CEO Chuck Robbins spoke with Yahoo Finance Executive Editor Brian Sozzi spoke to discuss Cisco earnings, the outlook for the company, AI, China, and inflation.\n#inflation #China #AI\nSubscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb\n\nAbout Yahoo Finance: \nAt Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.\n\nYahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.\nTo learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp\n\nConnect with Yahoo Finance:\nGet the latest news: https://yhoo.it/2fGu5Bb\nFind Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq\nFollow Yahoo Finance on Twitter: http://bit.ly/2LMgloP\nFollow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz\nFollow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT9M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4071",
+          "likeCount": "33",
+          "favoriteCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

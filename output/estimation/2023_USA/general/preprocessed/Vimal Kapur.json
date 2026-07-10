@@ -1,0 +1,1282 @@
+{
+  "ceo": "Vimal Kapur",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "tIRA6XGzs9In4HTVj9mH72hN1wA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 3886,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "62WiAp2WhJSAe1xo-1wWEGqJGCw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VF_X51nsI-Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-01T02:39:00Z",
+          "channelId": "UC-kFH2fpyttdWAWmJLqT7aQ",
+          "title": "Get to Know Honeywell CEO Vimal Kapur",
+          "description": "Vimal Kapur reflects on his 34 years of experience at Honeywell, discusses his style as a leader, and shares how he plans to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Honeywell Technologies ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-01T02:39:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W3IALLXmz9Qi4CiT1muPLBye8m8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vct5rRmBhjo"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-19T15:15:36Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell&#39;s Vimal Kapur On Automation, Green Energy Transition &amp; More | Davos 2023 | CNBC-TV18",
+          "description": "Honeywell's Vimal Kapur talks about automation, digital transition, solutions to support near-term sustainability goals, game ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-19T15:15:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qd3fDkbqvRAhNkbovvzLIlqnihQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GyLC6e6FjHQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-17T12:00:08Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell&#39;s New CEO Vimal Kapur On Global Demand Outlook &amp; More | CNBC TV18",
+          "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-17T12:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K2mGgcdoQydITfVM3wIFOWOSMNA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nCvmnpaA2Y8"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-17T19:52:09Z",
+          "channelId": "UCiU6kIBC5i79l5qJJyJhKlA",
+          "title": "Honeywell\u2019s Global Strategy &amp; High-Growth Emerging Markets | Vimal Kapur | Sharma India Lecture",
+          "description": "In this discussion, Vimal Kapur, President and newly appointed Chief Executive Officer of Honeywell, shared his thoughts on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "D'Amore-McKim School of Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-17T19:52:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iZRLBVoLOF4HyNi8XKeFmiff1GE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DtcS9RtF0eA"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-14T23:40:41Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "I have a lot of passion for sustainability, says incoming Honeywell CEO Vimal Kapur",
+          "description": "Mad Money host Jim Cramer talks to outgoing Honeywell chairman and CEO Darius Adamczyk, who's stepping up to be executive ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-14T23:40:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L-UnuK_FdAJTHuapEqyDKWQcQ8g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bG_k1oVcBf0"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-12T14:52:40Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell CEO Vimal Kapur On Doubling India Business &amp; The Rise Of Indian CEOs At MNCs | CNBC TV18",
+          "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-12T14:52:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Gqox-8SHdv2p121ISKjOJr1atx8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "b7emM6z8-XE"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T01:31:01Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Global Dialogues | Shereen Bhan In Conversation With Honeywell&#39;s Vimal Kapur | CNBC TV18",
+          "description": "LIVE FROM WASHINGTON D.C. | Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T01:31:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Qg4GKE05pBvwg3Mm7dicGKPrNTs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WEvfhkYG02w"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-17T12:30:08Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell CEO Vimal Kapur On Growth, Demand, Climate  Transition &amp; More | CNBC TV18 Weekend Special",
+          "description": "In this CNBC-TV18 Weekend special Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WEvfhkYG02w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WEvfhkYG02w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WEvfhkYG02w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-17T12:30:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_9bY_UuGXmJq2Zhpqh77J1jt1u8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jwOdA3n226o"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T05:14:11Z",
+          "channelId": "UCQTI0s1zVv3FN6s7ujr-oVg",
+          "title": "Vimal Kapur named Honeywell CEO | Diya TV News",
+          "description": "VIMAL KAPUR NAMED HONEYWELL CEO Indian American Vimal Kapur will take over as Honeywell CEO. He has more than ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Diya TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T05:14:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_rJTJ2FDp4jac6JYVr2uV7AJ11o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Whhdv-DoGek"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-17T12:15:09Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell&#39;s Vimal Kapur On PM Modi&#39;s State Visit To U.S &amp; Its Impact | CNBC TV18",
+          "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-17T12:15:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d2T5XuDaFxGIHHjoJi5-_dK8V1Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pA07vUCjGDo"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-15T10:26:46Z",
+          "channelId": "UCa-eSrRfQHLX-OL4G2NxS2Q",
+          "title": "Honeywell names Vimal Kapur as its next CEO #shortsvideo",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "VARINDIA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-15T10:26:46Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "BszsoKkMqhk9P_B4xjBMRuYyYR0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "F2gDeXYSBelMP13FGjf4HKtPSt4",
+        "id": "VF_X51nsI-Q",
+        "snippet": {
+          "publishedAt": "2023-06-01T02:39:00Z",
+          "channelId": "UC-kFH2fpyttdWAWmJLqT7aQ",
+          "title": "Get to Know Honeywell CEO Vimal Kapur",
+          "description": "Vimal Kapur reflects on his 34 years of experience at Honeywell, discusses his style as a leader, and shares how he plans to continue innovating for the future as the new Chief Executive Officer.\n\nFollow #Honeywell on social media: \nYouTube: http://hwll.co/YouTubeSubscribe\nLinkedIn: https://www.linkedin.com/company/honeywell/\nTwitter: https://twitter.com/honeywell \nFacebook: https://www.facebook.com/Honeywell/ \nInstagram: https://www.instagram.com/honeywell/\n \nLearn more: \nCareers at Honeywell: https://careers.honeywell.com/\nThe latest stories about our technology and people: https://www.honeywell.com/us/en/news\nThe future is what we make it: https://www.honeywell.com/us/en/future",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VF_X51nsI-Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Honeywell Technologies ",
+          "tags": [
+            "Honeywell",
+            "technology",
+            "engineering",
+            "science",
+            "efficiency",
+            "sustainability",
+            "Vimal",
+            "Kapur",
+            "Vimal Kapur",
+            "CEO",
+            "Digitalization",
+            "Autonomy",
+            "digitization"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Get to Know Honeywell CEO Vimal Kapur",
+            "description": "Vimal Kapur reflects on his 34 years of experience at Honeywell, discusses his style as a leader, and shares how he plans to continue innovating for the future as the new Chief Executive Officer.\n\nFollow #Honeywell on social media: \nYouTube: http://hwll.co/YouTubeSubscribe\nLinkedIn: https://www.linkedin.com/company/honeywell/\nTwitter: https://twitter.com/honeywell \nFacebook: https://www.facebook.com/Honeywell/ \nInstagram: https://www.instagram.com/honeywell/\n \nLearn more: \nCareers at Honeywell: https://careers.honeywell.com/\nThe latest stories about our technology and people: https://www.honeywell.com/us/en/news\nThe future is what we make it: https://www.honeywell.com/us/en/future"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1105204",
+          "likeCount": "187",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3mxabEwAw-xmrJEvfLcd8M8LRwI",
+        "id": "vct5rRmBhjo",
+        "snippet": {
+          "publishedAt": "2023-01-19T15:15:36Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell's Vimal Kapur On Automation, Green Energy Transition & More | Davos 2023 | CNBC-TV18",
+          "description": "Honeywell's Vimal Kapur talks about automation, digital transition, solutions to support near-term sustainability goals, game changer future tech, investment outlook & India's role in Honeywell's global market.\n\n#honeywell #worldeconomicforum2023 #davos2023 #economicboost #financialstability #cnbctv18#businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday    \n\nRead web story: https://www.cnbctv18.com/economy/davos-2023-honeywell-coo-vimal-kapur-scale-india-growth-aviation-energy-business-15721711.htm\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \n\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vct5rRmBhjo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "davos",
+            "davos 2023",
+            "davos 2023 theme",
+            "davos 2023 live",
+            "davos world economic forum 2023",
+            "davos agenda",
+            "wef davos 2023",
+            "foro davos 2023",
+            "davos 2023 upsc",
+            "wef 2023",
+            "davos 2023 agenda",
+            "india in davos 2023",
+            "2023 davos agenda",
+            "davos 2023 live stream",
+            "wef meeting davos 2023",
+            "davos 2023 focus areas",
+            "davos 2022",
+            "davos 2023 meeting theme",
+            "davos live",
+            "davos 2023 dates",
+            "wef 2023 live",
+            "wef davos",
+            "economia davos 2023",
+            "davos forum 2023",
+            "cnbc tv18",
+            "cnbc tv18 news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Honeywell's Vimal Kapur On Automation, Green Energy Transition & More | Davos 2023 | CNBC-TV18",
+            "description": "Honeywell's Vimal Kapur talks about automation, digital transition, solutions to support near-term sustainability goals, game changer future tech, investment outlook & India's role in Honeywell's global market.\n\n#honeywell #worldeconomicforum2023 #davos2023 #economicboost #financialstability #cnbctv18#businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday    \n\nRead web story: https://www.cnbctv18.com/economy/davos-2023-honeywell-coo-vimal-kapur-scale-india-growth-aviation-energy-business-15721711.htm\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \n\nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT10M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4017",
+          "likeCount": "24",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5HWJjWvrqyjJ8xRXDwrCO5pxSig",
+        "id": "GyLC6e6FjHQ",
+        "snippet": {
+          "publishedAt": "2023-06-17T12:00:08Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell's New CEO Vimal Kapur On Global Demand Outlook & More | CNBC TV18",
+          "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #vimalkapur #india #energy #climatetransition #climatechange #globaloutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GyLC6e6FjHQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "honeywell",
+            "vimal kapur",
+            "vimal kapur honeywell",
+            "honeywell indian origin ceo vimal kapoor",
+            "honeywell india",
+            "honeywell automation",
+            "vimal kapoor",
+            "vimal",
+            "kapur",
+            "honeywell ceo",
+            "honeywell safety",
+            "honeywell company",
+            "honeywell careers",
+            "honeywell international",
+            "honeywell biometric",
+            "honeywell locations",
+            "CNBC TV18",
+            "CNBC TV18 News",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Honeywell's New CEO Vimal Kapur On Global Demand Outlook & More | CNBC TV18",
+            "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #vimalkapur #india #energy #climatetransition #climatechange #globaloutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT13M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "926",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8v0KXXRtPkV_j2mMwhH5ZAfaqac",
+        "id": "nCvmnpaA2Y8",
+        "snippet": {
+          "publishedAt": "2023-03-17T19:52:09Z",
+          "channelId": "UCiU6kIBC5i79l5qJJyJhKlA",
+          "title": "Honeywell\u2019s Global Strategy & High-Growth Emerging Markets | Vimal Kapur | Sharma India Lecture",
+          "description": "In this discussion, Vimal Kapur, President and newly appointed Chief Executive Officer of Honeywell, shared his thoughts on Honeywell's Global Strategy and High-Growth Emerging Markets as part of the Center for Emerging Vivek and Vandana Sharma India Lecture Series.\n\n \n\nAs President and Chief Executive Officer (CEO) of Honeywell, Vimal creates new solutions to help customers drive their sustainability transformations and accelerate their digital transformation journeys. In addition, Vimal oversees Honeywell's operating system, Honeywell Accelerator, and oversees Honeywell's five strategic business groups.\n\n \n\n\nLearn more: http://www.damore-mckim.northeastern.edu/\r\n\r\nFollow us on:\r\nFacebook: https://www.facebook.com/DAmoreMcKim  \r\nInstagram: https://instagram.com/DAmoreMcKim\r\nLinkedIn: https://www.linkedin.com/edu/school?id=18507 \r\nTwitter: https://twitter.com/nu_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nCvmnpaA2Y8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "D'Amore-McKim School of Business",
+          "tags": [
+            "Northeastern University",
+            "D'AMore-McKim School of Business"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Honeywell\u2019s Global Strategy & High-Growth Emerging Markets | Vimal Kapur | Sharma India Lecture",
+            "description": "In this discussion, Vimal Kapur, President and newly appointed Chief Executive Officer of Honeywell, shared his thoughts on Honeywell's Global Strategy and High-Growth Emerging Markets as part of the Center for Emerging Vivek and Vandana Sharma India Lecture Series.\n\n \n\nAs President and Chief Executive Officer (CEO) of Honeywell, Vimal creates new solutions to help customers drive their sustainability transformations and accelerate their digital transformation journeys. In addition, Vimal oversees Honeywell's operating system, Honeywell Accelerator, and oversees Honeywell's five strategic business groups.\n\n \n\n\nLearn more: http://www.damore-mckim.northeastern.edu/\r\n\r\nFollow us on:\r\nFacebook: https://www.facebook.com/DAmoreMcKim  \r\nInstagram: https://instagram.com/DAmoreMcKim\r\nLinkedIn: https://www.linkedin.com/edu/school?id=18507 \r\nTwitter: https://twitter.com/nu_business"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5575",
+          "likeCount": "63",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "l2rUro6t9eEXgrNSc8CB6k7ey3Y",
+        "id": "DtcS9RtF0eA",
+        "snippet": {
+          "publishedAt": "2023-03-14T23:40:41Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "I have a lot of passion for sustainability, says incoming Honeywell CEO Vimal Kapur",
+          "description": "Mad Money host Jim Cramer talks to outgoing Honeywell chairman and CEO Darius Adamczyk, who's stepping up to be executive chairman, and the man who's taking over, president and COO Vimal Kapur about the company's future. Honeywell is up 60% since Adamczyk took over the company. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DtcS9RtF0eA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I have a lot of passion for sustainability, says incoming Honeywell CEO Vimal Kapur",
+            "description": "Mad Money host Jim Cramer talks to outgoing Honeywell chairman and CEO Darius Adamczyk, who's stepping up to be executive chairman, and the man who's taking over, president and COO Vimal Kapur about the company's future. Honeywell is up 60% since Adamczyk took over the company. Sign up and learn more about the CNBC Investing Club with Jim Cramer https://cnb.cx/3Ei22n4 \n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/ \n\n#CNBC\n#CNBCTV"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13687",
+          "likeCount": "80",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zMORFQBzGaQ9uiJqoV7p3gUsXCc",
+        "id": "bG_k1oVcBf0",
+        "snippet": {
+          "publishedAt": "2023-06-12T14:52:40Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell CEO Vimal Kapur On Doubling India Business & The Rise Of Indian CEOs At MNCs | CNBC TV18",
+          "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #energy #climate #cnbctv18exclusive  #cnbctv18inusa #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nRead Web copy: https://www.cnbctv18.com/business/companies/honeywell-is-great-partner-for-where-india-wants-to-go-says-ceo-vimal-kapur-16913841.htm\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bG_k1oVcBf0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "honeywell",
+            "vimal kapur",
+            "vimal kapur honeywell",
+            "honeywell indian origin ceo vimal kapoor",
+            "honeywell india",
+            "honeywell automation",
+            "vimal kapoor",
+            "vimal",
+            "kapur",
+            "honeywell ceo",
+            "honeywell safety",
+            "honeywell company",
+            "honeywell careers",
+            "honeywell international",
+            "honeywell biometric",
+            "honeywell locations",
+            "CNBC TV18",
+            "CNBC TV18 News",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Honeywell CEO Vimal Kapur On Doubling India Business & The Rise Of Indian CEOs At MNCs | CNBC TV18",
+            "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #energy #climate #cnbctv18exclusive  #cnbctv18inusa #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nRead Web copy: https://www.cnbctv18.com/business/companies/honeywell-is-great-partner-for-where-india-wants-to-go-says-ceo-vimal-kapur-16913841.htm\n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT26M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3705",
+          "likeCount": "31",
+          "favoriteCount": "0",
+          "commentCount": "5"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7hTK76jWZl2dC0QXrq8ULTfmnGg",
+        "id": "b7emM6z8-XE",
+        "snippet": {
+          "publishedAt": "2023-06-13T01:31:01Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Global Dialogues | Shereen Bhan In Conversation With Honeywell's Vimal Kapur | CNBC TV18",
+          "description": "LIVE FROM WASHINGTON D.C. | Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more\n\n#cnbctv18exclusive  #cnbctv18inusa #energy #climate #cnbctv18digital #honeywe #cnbctv18live \n #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b7emM6z8-XE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "honeywell",
+            "vimal kapur",
+            "vimal kapur honeywell",
+            "honeywell indian origin ceo vimal kapoor",
+            "honeywell india",
+            "honeywell automation",
+            "vimal kapoor",
+            "vimal",
+            "kapur",
+            "honeywell ceo",
+            "honeywell safety",
+            "honeywell company",
+            "honeywell careers",
+            "honeywell international",
+            "honeywell biometric",
+            "honeywell locations",
+            "CNBC TV18",
+            "CNBC TV18 News",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Global Dialogues | Shereen Bhan In Conversation With Honeywell's Vimal Kapur | CNBC TV18",
+            "description": "LIVE FROM WASHINGTON D.C. | Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more\n\n#cnbctv18exclusive  #cnbctv18inusa #energy #climate #cnbctv18digital #honeywe #cnbctv18live \n #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT22M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2285",
+          "likeCount": "32",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "l4uqNcGo-oh6IH7-o0mnhOYSY4Q",
+        "id": "WEvfhkYG02w",
+        "snippet": {
+          "publishedAt": "2023-06-17T12:30:08Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell CEO Vimal Kapur On Growth, Demand, Climate  Transition & More | CNBC TV18 Weekend Special",
+          "description": "In this CNBC-TV18 Weekend special Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #vimalkapur #india #energy #climatetransition #climatechange #globaloutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WEvfhkYG02w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WEvfhkYG02w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WEvfhkYG02w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "honeywell",
+            "vimal kapur",
+            "vimal kapur honeywell",
+            "honeywell indian origin ceo vimal kapoor",
+            "honeywell india",
+            "honeywell automation",
+            "vimal kapoor",
+            "vimal",
+            "kapur",
+            "honeywell ceo",
+            "honeywell safety",
+            "honeywell company",
+            "honeywell careers",
+            "honeywell international",
+            "honeywell biometric",
+            "honeywell locations",
+            "CNBC TV18",
+            "CNBC TV18 News",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Honeywell CEO Vimal Kapur On Growth, Demand, Climate  Transition & More | CNBC TV18 Weekend Special",
+            "description": "In this CNBC-TV18 Weekend special Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #vimalkapur #india #energy #climatetransition #climatechange #globaloutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT26M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "384",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UVPMdB_KGrg8bJqFXWUajTdlvrk",
+        "id": "jwOdA3n226o",
+        "snippet": {
+          "publishedAt": "2023-03-15T05:14:11Z",
+          "channelId": "UCQTI0s1zVv3FN6s7ujr-oVg",
+          "title": "Vimal Kapur named Honeywell CEO | Diya TV News",
+          "description": "VIMAL KAPUR NAMED HONEYWELL CEO\nIndian American Vimal Kapur will take over as Honeywell CEO. He has more than three decades of experience leading the diversified manufacturer's various businesses. The 57-year-old Kapur will take over the top role on June 1, roughly 10 months after he was appointed Honeywell's president and chief operating officer.\n\n\nTEJAL MEHTA JOINS MASSACHUSETTS DISTRICT COURT\nIn Massachusetts, Indian American Tejal Mehta has taken the oath to become the first justice of the Ayer District Court. She has served as an associate justice with the same court and promised to make a real impact to the community and treat people with compassion.\n\n\n\"THE ELEPHANT WHISPERERS\" WINS OSCAR FOR SHORT DOC\nDirector Kartiki Gonsalves and producer Guneet Monga  claimed Oscars after their short documentary \"The Elephant Whisperers\" won at the Academy Awards. The documentary focuses on an orphaned elephant in the care of a couple and is the first Indian documentary to win in this category.\n\n#VimalKapur #Honeywell #TejalMehta #TheElephantWhisperers #oscars \n\nFind Diya TV previews, promos, clips, and digital exclusives here. \n\nSubscribe to Diya TV on YouTube HERE: http://youtube.com/diyatvusa\nFollow Diya TV on Instagram HERE: https://www.instagram.com/diyatv\nLike Diya TV on Facebook HERE: http://facebook.com/diyatvusa\nFollow Diya TV on Twitter HERE: http://twitter.com/diyatv\nGet the latest news affecting the diaspora HERE: http://diyatvusa.com\n\n#DiyaTV #IndianAmerican #SouthAsian #USIndia #India #Desi #DiyaTVUSA #News\n---\nDiya TV \u00ae is America\u2019s first South Asian broadcast television network airing to more than 75 million Americans 24/7 in more than a dozen markets over-the-air, online and over-the-top.\n\nWatch Diya TV live on your connected TV and on other devices and stay engaged with America\u2019s fastest-growing and most affluent community!\n\nDiya TV \u00ae\nEnlighten. Entertain. Inspire.\u2122\ndiyatvusa.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jwOdA3n226o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Diya TV",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vimal Kapur named Honeywell CEO | Diya TV News",
+            "description": "VIMAL KAPUR NAMED HONEYWELL CEO\nIndian American Vimal Kapur will take over as Honeywell CEO. He has more than three decades of experience leading the diversified manufacturer's various businesses. The 57-year-old Kapur will take over the top role on June 1, roughly 10 months after he was appointed Honeywell's president and chief operating officer.\n\n\nTEJAL MEHTA JOINS MASSACHUSETTS DISTRICT COURT\nIn Massachusetts, Indian American Tejal Mehta has taken the oath to become the first justice of the Ayer District Court. She has served as an associate justice with the same court and promised to make a real impact to the community and treat people with compassion.\n\n\n\"THE ELEPHANT WHISPERERS\" WINS OSCAR FOR SHORT DOC\nDirector Kartiki Gonsalves and producer Guneet Monga  claimed Oscars after their short documentary \"The Elephant Whisperers\" won at the Academy Awards. The documentary focuses on an orphaned elephant in the care of a couple and is the first Indian documentary to win in this category.\n\n#VimalKapur #Honeywell #TejalMehta #TheElephantWhisperers #oscars \n\nFind Diya TV previews, promos, clips, and digital exclusives here. \n\nSubscribe to Diya TV on YouTube HERE: http://youtube.com/diyatvusa\nFollow Diya TV on Instagram HERE: https://www.instagram.com/diyatv\nLike Diya TV on Facebook HERE: http://facebook.com/diyatvusa\nFollow Diya TV on Twitter HERE: http://twitter.com/diyatv\nGet the latest news affecting the diaspora HERE: http://diyatvusa.com\n\n#DiyaTV #IndianAmerican #SouthAsian #USIndia #India #Desi #DiyaTVUSA #News\n---\nDiya TV \u00ae is America\u2019s first South Asian broadcast television network airing to more than 75 million Americans 24/7 in more than a dozen markets over-the-air, online and over-the-top.\n\nWatch Diya TV live on your connected TV and on other devices and stay engaged with America\u2019s fastest-growing and most affluent community!\n\nDiya TV \u00ae\nEnlighten. Entertain. Inspire.\u2122\ndiyatvusa.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "197",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2ZcZAW81ugFUO_xTJ1tG8Gez9IY",
+        "id": "Whhdv-DoGek",
+        "snippet": {
+          "publishedAt": "2023-06-17T12:15:09Z",
+          "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+          "title": "Honeywell's Vimal Kapur On PM Modi's State Visit To U.S & Its Impact | CNBC TV18",
+          "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #vimalkapur #india #energy #climatetransition #climatechange #globaloutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Whhdv-DoGek/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC-TV18",
+          "tags": [
+            "honeywell",
+            "vimal kapur",
+            "vimal kapur honeywell",
+            "honeywell indian origin ceo vimal kapoor",
+            "honeywell india",
+            "honeywell automation",
+            "vimal kapoor",
+            "vimal",
+            "kapur",
+            "honeywell ceo",
+            "honeywell safety",
+            "honeywell company",
+            "honeywell careers",
+            "honeywell international",
+            "honeywell biometric",
+            "honeywell locations",
+            "CNBC TV18",
+            "CNBC TV18 News",
+            "Business News",
+            "Indian Economy",
+            "CNBC",
+            "Business News Today",
+            "CNBC TV18 English",
+            "CNBC English",
+            "CNBC India",
+            "Financial News",
+            "Business News In English",
+            "Stock Market"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Honeywell's Vimal Kapur On PM Modi's State Visit To U.S & Its Impact | CNBC TV18",
+            "description": "Shereen Bhan speaks with Honeywell's Vimal Kapur as yet another Indian CEO takes over the corner office of a top American MNC. In his 1st interview since taking over, Kapur talks about his global outlook, demand, India opportunities, energy, climate transition & more.\n\n#honeywell #vimalkapur #india #energy #climatetransition #climatechange #globaloutlook #cnbctv18 #businessnews #businessnewstoday #businessnewsinenglish #sharemarkettoday   \n\nAbout CNBC-TV18: India's leading business news channel, CNBC-TV18 offers the most comprehensive coverage of businesses, the economy and the financial markets. #n18oc_business  Catch all your favourite shows, exclusive videos, big-ticket interviews and more here. \nYou can also connect with CNBC-TV18 News Online\nCatch the latest news: https://bit.ly/2YbpXBM\n\nFollow CNBC-TV18 round the clock: https://www.cnbctv18.com/live-tv/\n\nStay updated with all the market action in real time: https://www.cnbctv18.com/market-live/\n\nYou can also stay updated with all the latest news on-the-go with CNBC-TV18 Minis: https://www.cnbctv18.com/minis/\n\nSubscribe to our Channel: https://bit.ly/3nvEcxf\n\nLike us on Facebook: https://www.facebook.com/cnbctv18india/\nFollow us on Twitter: https://twitter.com/CNBCTV18News\nFollow us on Instagram: https://www.instagram.com/cnbctv18india/\nCatch us on: Linkedin: https://in.linkedin.com/company/cnbc-tv18\nn18oc_business"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT12M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1274",
+          "likeCount": "12",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KKTCszDq2MQLN_fZpiBNg6X3feg",
+        "id": "pA07vUCjGDo",
+        "snippet": {
+          "publishedAt": "2023-03-15T10:26:46Z",
+          "channelId": "UCa-eSrRfQHLX-OL4G2NxS2Q",
+          "title": "Honeywell names Vimal Kapur as its next CEO #shortsvideo",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pA07vUCjGDo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VARINDIA",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Honeywell names Vimal Kapur as its next CEO #shortsvideo",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "730",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

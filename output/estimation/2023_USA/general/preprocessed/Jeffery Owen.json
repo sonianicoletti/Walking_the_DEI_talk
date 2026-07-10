@@ -1,0 +1,23 @@
+{
+  "ceo": "Jeffery Owen",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "fDwhzmDxUvWfMMo8VMvzDJj_rlM",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 309087,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "JQYASUc_YC9KySsM91wDsyIGVQA",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

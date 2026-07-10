@@ -1,0 +1,650 @@
+{
+  "ceo": "Andrew Clyde",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "uoRTIecexnL-a24Mm7QIpb6oU_I",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 78737,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "15bQWk-Dfakg81Qr8UMy9OT7jNI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bFVHqU7BlvA"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T20:19:35Z",
+          "channelId": "UC4M5RxIcp5H9lRiVC33TwFA",
+          "title": "Congressman RIPS ATF shares Plan STOP Interview Andrew Clyde Pistol Braces, 2nd Amendment",
+          "description": "Congressman RIPS ATF shares Plan STOP Interview Andrew Clyde Pistol Braces, 2nd Amendment #atf #2ndamendment ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tom Grieve",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T20:19:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "b7KRjLn2TnLw5uoyFbvc44exxzo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bKt8OhlmRvI"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-30T19:00:16Z",
+          "channelId": "UCUSySH2YjIwsDu2Hx6DWwTA",
+          "title": "Coward Andrew Clyde Explains His Scheme to Protect Trump Though OBSTRUCTION OF JUSTICE!!!",
+          "description": "Check out the latest episode of I Doubt It Podcast with co-host @brittanyepage featuring an interview with Robert P. Jones on his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jesse Dollemore",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-30T19:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "80VmDsR270s5Ok22fjwL9qWXapM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZLoKXRmBfRk"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-31T00:06:05Z",
+          "channelId": "UCNABxfNke2du3B4iKOwoXjQ",
+          "title": "Andrew Clyde Interview | The Vince Coglianese Show",
+          "description": "Vince Coglianese speaks with Andrew Clyde, Congressman representing Georgia's 9th Congressional District and member of the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cumulus News Talk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-31T00:06:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UEqQaSgrNL5V--jfRHg4n8OTHy0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qbJCn1XOOFI"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-16T00:41:18Z",
+          "channelId": "UCGDaOZg2INC0Qg2Z203F1dA",
+          "title": "\u201cPeople want the government to be held accountable.&quot; Rep. Andrew Clyde (GA-09)",
+          "description": "FULL INTERVIEW https://youtu.be/Je66TR8i86k.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Judicial Watch",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-16T00:41:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z-_jU2SHdvNvyuZ--HD5UfVFGsc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zIiJ6MtH2Aw"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-31T10:31:50Z",
+          "channelId": "UCNABxfNke2du3B4iKOwoXjQ",
+          "title": "08.30.23: Rep. Andrew Clyde Interview | O&#39;Connor &amp; Company",
+          "description": "For more coverage on the issues that matter to you, visit www.WMAL.com ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cumulus News Talk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-31T10:31:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TGBuM7E6SNH4hQqL60VtS-8_dLY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_9hIgnpHeH4"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-21T17:30:56Z",
+          "channelId": "UCNABxfNke2du3B4iKOwoXjQ",
+          "title": "Mark Paoletta, ABC7\u2019s John Gonzalez, Rep. Andrew Clyde, Immigration News | O&#39;Connor &amp; Company",
+          "description": "In the 7 AM Hour: guest host Andrew Langer and Julie Gunlock discussed: 7:05 AM - INTERVIEW - MARK PAOLETTA - Senior ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Cumulus News Talk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-21T17:30:56Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "YFao-zFe79zzN6AX_lX4lLqQp0I",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "WE3y99qKdqkEggvI_bHYMN9o1kg",
+        "id": "bFVHqU7BlvA",
+        "snippet": {
+          "publishedAt": "2023-11-15T20:19:35Z",
+          "channelId": "UC4M5RxIcp5H9lRiVC33TwFA",
+          "title": "Congressman RIPS ATF shares Plan STOP Interview Andrew Clyde Pistol Braces, 2nd Amendment",
+          "description": "Congressman RIPS ATF shares Plan STOP Interview Andrew Clyde Pistol Braces, 2nd Amendment\n\n\n#atf #2ndamendment #congress \n\n\nChannel Sponsors\nSaturday, December 16, 2023 \nBest Self-Defense use of Force and Conceal Carry Training Wisconsin www.CounterPointSeminars.com\n\nWisconsin Divorce and Family Lawyers: www.DivergentFamilyLaw.com\nWisconsin OWI DUI Drunk Driving Lawyers www.Grievelaw.com\nWisconsin Criminal Attorneys www.Grievelaw.com\n\nWisconsin Ketamine Infusion Therapy for Depression and Anxiety, Reset Restore MD.\nwww.RandRMD.com\n\n(PROOF) The RACIST History Of Gun Control Colonies + Early States [Part 1] \nhttps://youtu.be/neLdsW7XZSM \n\nDefensive Gun Use ends in CRIMINAL charges: Learn the Lessons [INTERVIEW]! \nhttps://youtu.be/JqKycpoaUNM \n\n(Interview) MASSIVE: Sheriff tells ATF NO will STOP ATF agents! \nhttps://youtu.be/aT-DH4Zx54k \n\nWhen do PARTS become GUNS and YOU go to PRISON: Law of Constructive Possession+Intent\nhttps://youtu.be/FMLfR62nJHM \n\nContents of this video:\n\n0:00 - Intro\n1:20 - What does the 2nd Amendment mean to you?\n2:24 - Are Republicans faking it when it comes to their 2-way support? \n4:14 - Would term limits result in more effective advocacy when it comes to the 2nd Amendment? \n6:39 - What percentage of Republicans don't have the right amount of enthusiasm in DC for the 2nd Amendment?\n10:24 - Do you think there's quiet support among Democrats for the 2nd Amendment? \n12:53 - Main reasons why people are anti 2nd Amendment\n15:06 - What to do about the ATF\n17:27 - National Reciprocity Act, is it a possibility?\n20:01 - What's your favorite conceal carry gun?\n20:54 - Quote of the Day\n\nAttorney Tom Grieve is a former state criminal prosecutor from Wisconsin before eventually founding what is now the state's largest criminal defense firm at more than 20 attorneys.  In 2019 the firm expanded into family law and added a dedicated team of professionals to further serve clients with similar aggressive and proven strategies. \n\nBeyond the courtroom, Tom has been interviewed and appeared in numerous media outlets, ranging from the New York Times, CourtTV, Fox News, Reuters, Washington Post, National Public Radio, Milwaukee Journal-Sentinel, among many others.  He is a frequent Continuing Legal Education course speaker to teach lawyers and judges in developments and the law, both in Wisconsin and nationally.  Finally, Tom has also presented across the country, both online and in person, concerning the law and culture to the public.\n\nIn addition to speaking engagements, Tom has also contributed to the national conversation in writing on emerging legal topics and has been published in Conceal Carry Magazine and elsewhere on multiple occasions.  He also edited the book and contributed legal input on various other publications, including the \"Wisconsin Guide for Armed Citizens\" on behalf of the National Association of Certified Firearm Instructors.\n\nTom Grieve is recognized among the top Wisconsin and Milwaukee area lawyers. Recently named once again as a top Wisconsin criminal defense attorney, Tom was inducted into the \u201cWisconsin Rising Star\u201d category by Super Lawyers (a nationally acclaimed attorney rating organization). He was also chosen as a \"Top 100 Trial Lawyers\" in Wisconsin by the National Trial Lawyers Association. Tom was also chosen for the \"Top Attorneys of Wisconsin\" by both Milwaukee Magazine and Madison Magazine.\n\nTo learn more, check out his law firm's website a www.GrieveLaw.com\n\nLegal Disclaimer: nothing in this video is offered as legal advice or a formation of attorney-client relationship. If you want to hire my firm to be a client, you need to do just that and hire us... not watch us on the internet. If that offends your delicate sensibilities, just stop and be an adult. If you are outside of Wisconsin and want an attorney, contact one near where you are and stop trying to blame the internet and other people for your problems.  This video is for educational purposes only and any clips or images shown are under fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bFVHqU7BlvA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tom Grieve",
+          "tags": [
+            "tom grieve",
+            "grieve law",
+            "wisconsin lawyer",
+            "tom grieve law",
+            "2nd amendment",
+            "2ndamendment",
+            "2a",
+            "constitution",
+            "gun laws",
+            "gun law",
+            "gunlaws",
+            "gun control",
+            "crime",
+            "2nd amendment attorney",
+            "wisconsin attorney",
+            "atf",
+            "congress",
+            "Andrew Clyde",
+            "pistol braces"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Congressman RIPS ATF shares Plan STOP Interview Andrew Clyde Pistol Braces, 2nd Amendment",
+            "description": "Congressman RIPS ATF shares Plan STOP Interview Andrew Clyde Pistol Braces, 2nd Amendment\n\n\n#atf #2ndamendment #congress \n\n\nChannel Sponsors\nSaturday, December 16, 2023 \nBest Self-Defense use of Force and Conceal Carry Training Wisconsin www.CounterPointSeminars.com\n\nWisconsin Divorce and Family Lawyers: www.DivergentFamilyLaw.com\nWisconsin OWI DUI Drunk Driving Lawyers www.Grievelaw.com\nWisconsin Criminal Attorneys www.Grievelaw.com\n\nWisconsin Ketamine Infusion Therapy for Depression and Anxiety, Reset Restore MD.\nwww.RandRMD.com\n\n(PROOF) The RACIST History Of Gun Control Colonies + Early States [Part 1] \nhttps://youtu.be/neLdsW7XZSM \n\nDefensive Gun Use ends in CRIMINAL charges: Learn the Lessons [INTERVIEW]! \nhttps://youtu.be/JqKycpoaUNM \n\n(Interview) MASSIVE: Sheriff tells ATF NO will STOP ATF agents! \nhttps://youtu.be/aT-DH4Zx54k \n\nWhen do PARTS become GUNS and YOU go to PRISON: Law of Constructive Possession+Intent\nhttps://youtu.be/FMLfR62nJHM \n\nContents of this video:\n\n0:00 - Intro\n1:20 - What does the 2nd Amendment mean to you?\n2:24 - Are Republicans faking it when it comes to their 2-way support? \n4:14 - Would term limits result in more effective advocacy when it comes to the 2nd Amendment? \n6:39 - What percentage of Republicans don't have the right amount of enthusiasm in DC for the 2nd Amendment?\n10:24 - Do you think there's quiet support among Democrats for the 2nd Amendment? \n12:53 - Main reasons why people are anti 2nd Amendment\n15:06 - What to do about the ATF\n17:27 - National Reciprocity Act, is it a possibility?\n20:01 - What's your favorite conceal carry gun?\n20:54 - Quote of the Day\n\nAttorney Tom Grieve is a former state criminal prosecutor from Wisconsin before eventually founding what is now the state's largest criminal defense firm at more than 20 attorneys.  In 2019 the firm expanded into family law and added a dedicated team of professionals to further serve clients with similar aggressive and proven strategies. \n\nBeyond the courtroom, Tom has been interviewed and appeared in numerous media outlets, ranging from the New York Times, CourtTV, Fox News, Reuters, Washington Post, National Public Radio, Milwaukee Journal-Sentinel, among many others.  He is a frequent Continuing Legal Education course speaker to teach lawyers and judges in developments and the law, both in Wisconsin and nationally.  Finally, Tom has also presented across the country, both online and in person, concerning the law and culture to the public.\n\nIn addition to speaking engagements, Tom has also contributed to the national conversation in writing on emerging legal topics and has been published in Conceal Carry Magazine and elsewhere on multiple occasions.  He also edited the book and contributed legal input on various other publications, including the \"Wisconsin Guide for Armed Citizens\" on behalf of the National Association of Certified Firearm Instructors.\n\nTom Grieve is recognized among the top Wisconsin and Milwaukee area lawyers. Recently named once again as a top Wisconsin criminal defense attorney, Tom was inducted into the \u201cWisconsin Rising Star\u201d category by Super Lawyers (a nationally acclaimed attorney rating organization). He was also chosen as a \"Top 100 Trial Lawyers\" in Wisconsin by the National Trial Lawyers Association. Tom was also chosen for the \"Top Attorneys of Wisconsin\" by both Milwaukee Magazine and Madison Magazine.\n\nTo learn more, check out his law firm's website a www.GrieveLaw.com\n\nLegal Disclaimer: nothing in this video is offered as legal advice or a formation of attorney-client relationship. If you want to hire my firm to be a client, you need to do just that and hire us... not watch us on the internet. If that offends your delicate sensibilities, just stop and be an adult. If you are outside of Wisconsin and want an attorney, contact one near where you are and stop trying to blame the internet and other people for your problems.  This video is for educational purposes only and any clips or images shown are under fair use."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT21M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "81580",
+          "likeCount": "6530",
+          "favoriteCount": "0",
+          "commentCount": "559"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xZ9NwSKHXWgPP7xVYn7ubKSdLYw",
+        "id": "bKt8OhlmRvI",
+        "snippet": {
+          "publishedAt": "2023-08-30T19:00:16Z",
+          "channelId": "UCUSySH2YjIwsDu2Hx6DWwTA",
+          "title": "Coward Andrew Clyde Explains His Scheme to Protect Trump Though OBSTRUCTION OF JUSTICE!!!",
+          "description": "Check out the latest episode of I Doubt It Podcast with co-host @brittanyepage  featuring an interview with Robert P. Jones on his new book \"The Hidden Roots of White Supremacy and the Path to a Shared American Future.\" We are giving away a copy of the book! Watch here: https://youtu.be/qNACU2bmuio\n\nIn this video, Jesse talks about the wild plot to obstruct justice by Republican Congressman Andrew Clyde. He tells a Newsmax host of his scheme to \"defund\" ANY investigations and prosecutions of Donald Trump at the local, state, or federal level!\n\nSubscribe to my twice-weekly podcast \"I Doubt It\" on Apple Podcasts, Google Podcasts, Spotify, or at https://www.dollemore.com. \n\n#DollemoreDaily #DonaldTrump #AndrewClyde\n\nSupport: \nYouTube Channel Member: https://www.youtube.com/channel/UCUSySH2YjIwsDu2Hx6DWwTA/join \nPayPal: https://www.dollemore.com/paypal \nMerch: https://www.dollemore.info. \nPatreon: https://www.patreon.com/idoubtitpodcast \n\nConnect: \nTwitter: https://www.twitter.com/dollemore \nTikTok: https://www.tiktok.com/@dollemore \nInstagram: https://www.instagram.com/dollemore \n\nExplore the Team: \nBrittany Page on YouTube: https://youtube.com/@brittanyepage\nBrittany Page on Twitter: https://www.twitter.com/brittanyepage \nBrittany Page on TikTok: https://www.tiktok.com/@brittanyepage \nBrittany Page on Instagram: https://www.instagram.com/brittanyepage \nBrittany Page on Facebook: https://www.facebook.com/IDoubtItPodcast",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bKt8OhlmRvI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jesse Dollemore",
+          "tags": [
+            "Donald Trump",
+            "President Donald Trump",
+            "President Trump",
+            "Trump",
+            "politics",
+            "news",
+            "government",
+            "breaking news",
+            "headline news",
+            "CNN",
+            "Fox News",
+            "Jesse Dollemore",
+            "Dollemore",
+            "Dollemore Daily",
+            "Podcast",
+            "Liberal",
+            "Democrat",
+            "Progressive",
+            "I Doubt It Podcast",
+            "Brittany Page"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Coward Andrew Clyde Explains His Scheme to Protect Trump Though OBSTRUCTION OF JUSTICE!!!",
+            "description": "Check out the latest episode of I Doubt It Podcast with co-host @brittanyepage  featuring an interview with Robert P. Jones on his new book \"The Hidden Roots of White Supremacy and the Path to a Shared American Future.\" We are giving away a copy of the book! Watch here: https://youtu.be/qNACU2bmuio\n\nIn this video, Jesse talks about the wild plot to obstruct justice by Republican Congressman Andrew Clyde. He tells a Newsmax host of his scheme to \"defund\" ANY investigations and prosecutions of Donald Trump at the local, state, or federal level!\n\nSubscribe to my twice-weekly podcast \"I Doubt It\" on Apple Podcasts, Google Podcasts, Spotify, or at https://www.dollemore.com. \n\n#DollemoreDaily #DonaldTrump #AndrewClyde\n\nSupport: \nYouTube Channel Member: https://www.youtube.com/channel/UCUSySH2YjIwsDu2Hx6DWwTA/join \nPayPal: https://www.dollemore.com/paypal \nMerch: https://www.dollemore.info. \nPatreon: https://www.patreon.com/idoubtitpodcast \n\nConnect: \nTwitter: https://www.twitter.com/dollemore \nTikTok: https://www.tiktok.com/@dollemore \nInstagram: https://www.instagram.com/dollemore \n\nExplore the Team: \nBrittany Page on YouTube: https://youtube.com/@brittanyepage\nBrittany Page on Twitter: https://www.twitter.com/brittanyepage \nBrittany Page on TikTok: https://www.tiktok.com/@brittanyepage \nBrittany Page on Instagram: https://www.instagram.com/brittanyepage \nBrittany Page on Facebook: https://www.facebook.com/IDoubtItPodcast"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "119943",
+          "likeCount": "7327",
+          "favoriteCount": "0",
+          "commentCount": "1122"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ByqiF9uFr51tKRqrbnM-e0uiJ9I",
+        "id": "ZLoKXRmBfRk",
+        "snippet": {
+          "publishedAt": "2023-08-31T00:06:05Z",
+          "channelId": "UCNABxfNke2du3B4iKOwoXjQ",
+          "title": "Andrew Clyde Interview | The Vince Coglianese Show",
+          "description": "Vince Coglianese speaks with Andrew Clyde, Congressman representing Georgia\u2019s 9th Congressional District and member of the House Appropriations Committee and Freedom Caucus about his planned amendment to defund partisan prosecutors who target political candidates and his thoughts on impeachment. \n\n\n\n\n\nFor more coverage on the issues that matter to you visit www.WMAL.com (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Fwww.wmal.com.mcas.ms%2F%3FMcasTsid%3D15600&McasCSRF=3df96da69cb68e061c0bfa69d5c2db8f9c73e02c260e88587267701ab1ea450c), download the WMAL app or tune in live on WMAL-FM 105.9 from 3-6pm. \n\n\n\n\n\nTo join the conversation, check us out on social media: @WMAL @VinceCoglianese \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZLoKXRmBfRk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cumulus News Talk",
+          "tags": [
+            "News"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Andrew Clyde Interview | The Vince Coglianese Show",
+            "description": "Vince Coglianese speaks with Andrew Clyde, Congressman representing Georgia\u2019s 9th Congressional District and member of the House Appropriations Committee and Freedom Caucus about his planned amendment to defund partisan prosecutors who target political candidates and his thoughts on impeachment. \n\n\n\n\n\nFor more coverage on the issues that matter to you visit www.WMAL.com (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Fwww.wmal.com.mcas.ms%2F%3FMcasTsid%3D15600&McasCSRF=3df96da69cb68e061c0bfa69d5c2db8f9c73e02c260e88587267701ab1ea450c), download the WMAL app or tune in live on WMAL-FM 105.9 from 3-6pm. \n\n\n\n\n\nTo join the conversation, check us out on social media: @WMAL @VinceCoglianese \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gkqJvOOBuE9pT6DpAGd6mfLSxFM",
+        "id": "qbJCn1XOOFI",
+        "snippet": {
+          "publishedAt": "2023-09-16T00:41:18Z",
+          "channelId": "UCGDaOZg2INC0Qg2Z203F1dA",
+          "title": "\u201cPeople want the government to be held accountable.\" Rep. Andrew Clyde (GA-09)",
+          "description": "FULL INTERVIEW https://youtu.be/Je66TR8i86k",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qbJCn1XOOFI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Judicial Watch",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\u201cPeople want the government to be held accountable.\" Rep. Andrew Clyde (GA-09)",
+            "description": "FULL INTERVIEW https://youtu.be/Je66TR8i86k"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4858",
+          "likeCount": "1223",
+          "favoriteCount": "0",
+          "commentCount": "70"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Nw5AghhyY0CA0aaQWXXsyZTynMc",
+        "id": "zIiJ6MtH2Aw",
+        "snippet": {
+          "publishedAt": "2023-08-31T10:31:50Z",
+          "channelId": "UCNABxfNke2du3B4iKOwoXjQ",
+          "title": "08.30.23: Rep. Andrew Clyde Interview | O'Connor & Company",
+          "description": "For more coverage on the issues that matter to you, visit www.WMAL.com (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.wmal.com.mcas.ms%2F%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d), download the WMAL app (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.wmal.com.mcas.ms%2Flistenlive%2F%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) or tune in live on WMAL-FM 105.9 FM from 5-9 AM ET. \n\n\nTo join the conversation, check us out on Twitter: @WMALDC (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fwmaldc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d), @LarryOConnor, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Flarryoconnor%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @Jgunlock, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FJGunlock%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Ftwitter.com.mcas.ms%2FAmber_athey%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @patricepinkfile (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FPatricePinkFile%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) and @heatherhunterdc (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fheatherhunterdc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d). \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zIiJ6MtH2Aw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cumulus News Talk",
+          "tags": [
+            "News"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "08.30.23: Rep. Andrew Clyde Interview | O'Connor & Company",
+            "description": "For more coverage on the issues that matter to you, visit www.WMAL.com (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.wmal.com.mcas.ms%2F%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d), download the WMAL app (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.wmal.com.mcas.ms%2Flistenlive%2F%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) or tune in live on WMAL-FM 105.9 FM from 5-9 AM ET. \n\n\nTo join the conversation, check us out on Twitter: @WMALDC (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fwmaldc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d), @LarryOConnor, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Flarryoconnor%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @Jgunlock, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FJGunlock%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Ftwitter.com.mcas.ms%2FAmber_athey%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @patricepinkfile (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FPatricePinkFile%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) and @heatherhunterdc (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fheatherhunterdc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d). \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XhdGymxQciyrCYsi0usA3EGSEb4",
+        "id": "_9hIgnpHeH4",
+        "snippet": {
+          "publishedAt": "2023-12-21T17:30:56Z",
+          "channelId": "UCNABxfNke2du3B4iKOwoXjQ",
+          "title": "Mark Paoletta, ABC7\u2019s John Gonzalez, Rep. Andrew Clyde, Immigration News | O'Connor & Company",
+          "description": "In the 7 AM Hour: guest host Andrew Langer and Julie Gunlock discussed:\n\n\n\n\n\n7:05 AM - INTERVIEW - MARK PAOLETTA - Senior Fellow at Center for Renewing America, and co-editor of the book \"Created Equal: Clarence Thomas in His Own Words\" and worked on Justice Clarence Thomas\u2019s confirmation \u2013 discussed the latest ProPublica war on Justice Clarence Thomas \n\n\n7:15 AM - INTERVIEW - JOHN GONZALEZ - ABC 7 journalist on the major metro shutdown of the Red Line over the next two weeks \n\n\n7:35 AM - INTERVIEW - REP. ANDREW CLYDE - R-GA on the Confederate monument in Arlington Cemetery \n\n\nVIDEO: Donald Trump is facing criticism after saying immigrants are \"poisoning the blood of our country.\" President Biden's reelection campaign denounced the comments, saying Trump \"parroted Adolf Hitler.\" https://twitter.com/CBSEveningNews/status/1736901279425708541 (https://twitter.com/CBSEveningNews/status/1736901279425708541) \nTrump blasted for saying immigrants are \"poisoning the blood of our country\" (https://www.cbsnews.com/news/trump-immigrants-poisoning-the-blood-of-our-country-reaction/) \n\n\nWhere to find more about WMAL's morning show: \n\n\nFollow the Show Podcasts on Apple podcasts (https://podcasts.apple.com/us/podcast/oconnor-company/id1061727141) , Audible (https://amzn.to/3sBvPqe) and Spotify (https://open.spotify.com/show/0GdK5LslF4wJCd4VQoRFd0) . \nFollow WMAL's \"O'Connor and Company\" on X: @WMALDC (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fwmaldc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) , @LarryOConnor, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Flarryoconnor%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @Jgunlock, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FJGunlock%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Ftwitter.com.mcas.ms%2FAmber_athey%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @patricepinkfile (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FPatricePinkFile%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) and @heatherhunterdc (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fheatherhunterdc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) . \nFacebook: WMALDC (https://www.facebook.com/WMALDC/) and Larry O'Connor (https://www.facebook.com/thelarryoconnor/) \nInstagram: WMALDC (https://www.instagram.com/wmaldc/) \nShow Website: https://www.wmal.com/oconnor-company/ (https://www.wmal.com/oconnor-company/) \nHow to listen live weekdays from 5 to 9 AM: https://www.wmal.com/listenlive/ (https://www.wmal.com/listenlive/) \n\n\nEpisode: Tuesday, December 19, 2023 / 7 AM Hour \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_9hIgnpHeH4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cumulus News Talk",
+          "tags": [
+            "News"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mark Paoletta, ABC7\u2019s John Gonzalez, Rep. Andrew Clyde, Immigration News | O'Connor & Company",
+            "description": "In the 7 AM Hour: guest host Andrew Langer and Julie Gunlock discussed:\n\n\n\n\n\n7:05 AM - INTERVIEW - MARK PAOLETTA - Senior Fellow at Center for Renewing America, and co-editor of the book \"Created Equal: Clarence Thomas in His Own Words\" and worked on Justice Clarence Thomas\u2019s confirmation \u2013 discussed the latest ProPublica war on Justice Clarence Thomas \n\n\n7:15 AM - INTERVIEW - JOHN GONZALEZ - ABC 7 journalist on the major metro shutdown of the Red Line over the next two weeks \n\n\n7:35 AM - INTERVIEW - REP. ANDREW CLYDE - R-GA on the Confederate monument in Arlington Cemetery \n\n\nVIDEO: Donald Trump is facing criticism after saying immigrants are \"poisoning the blood of our country.\" President Biden's reelection campaign denounced the comments, saying Trump \"parroted Adolf Hitler.\" https://twitter.com/CBSEveningNews/status/1736901279425708541 (https://twitter.com/CBSEveningNews/status/1736901279425708541) \nTrump blasted for saying immigrants are \"poisoning the blood of our country\" (https://www.cbsnews.com/news/trump-immigrants-poisoning-the-blood-of-our-country-reaction/) \n\n\nWhere to find more about WMAL's morning show: \n\n\nFollow the Show Podcasts on Apple podcasts (https://podcasts.apple.com/us/podcast/oconnor-company/id1061727141) , Audible (https://amzn.to/3sBvPqe) and Spotify (https://open.spotify.com/show/0GdK5LslF4wJCd4VQoRFd0) . \nFollow WMAL's \"O'Connor and Company\" on X: @WMALDC (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fwmaldc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) , @LarryOConnor, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Flarryoconnor%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @Jgunlock, (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FJGunlock%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Ftwitter.com.mcas.ms%2FAmber_athey%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) @patricepinkfile (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2FPatricePinkFile%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) and @heatherhunterdc (https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftwitter.com.mcas.ms%2Fheatherhunterdc%3FMcasTsid%3D15600&McasCSRF=da4ecc7da6938eb396dec9ab0d1bf63b9ca82e9c3a07c4fcd65e61c6ce68dc2d) . \nFacebook: WMALDC (https://www.facebook.com/WMALDC/) and Larry O'Connor (https://www.facebook.com/thelarryoconnor/) \nInstagram: WMALDC (https://www.instagram.com/wmaldc/) \nShow Website: https://www.wmal.com/oconnor-company/ (https://www.wmal.com/oconnor-company/) \nHow to listen live weekdays from 5 to 9 AM: https://www.wmal.com/listenlive/ (https://www.wmal.com/listenlive/) \n\n\nEpisode: Tuesday, December 19, 2023 / 7 AM Hour \n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT27M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "ceo": "Michael K. Wirth",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "AsPVNIu4u6DJux5fFSwpMy53c-0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 140,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7LodqVB9ZIEeeJPXH_HixtrLpFY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eFMAxEj9TOU"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-18T17:16:45Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Chevron CEO Michael Wirth Talks Oil Supply | Bloomberg Talks",
+          "description": "Chevron chairman and CEO Michael Wirth says he sees oil reaching $100 dollars a barrel as worldwide supplies tighten.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-18T17:16:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z272Y79mWr39u3KSW_wfxTb-Jiw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Fevs9IHQbsg"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-11T12:15:02Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "Breaking Boundaries: The Unconventional Strategies of Chevron&#39;s CEO, Michael Wirth",
+          "description": "Welcome to our video about Michael Wirth, the CEO of Chevron, one of the world's largest and most successful energy companies ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-11T12:15:02Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "IbDEhgK5hsudeI6GA41SEMlRy2s",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "V6FV7WHCRtaUaCvylzlOKGGxnos",
+        "id": "eFMAxEj9TOU",
+        "snippet": {
+          "publishedAt": "2023-09-18T17:16:45Z",
+          "channelId": "UChF5O40UBqAc82I7-i5ig6A",
+          "title": "Chevron CEO Michael Wirth Talks Oil Supply | Bloomberg Talks",
+          "description": "Chevron chairman and CEO Michael Wirth says he sees oil reaching $100 dollars a barrel as worldwide supplies tighten. He speaks with hosts Alix Steel and Guy Johnson.\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eFMAxEj9TOU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bloomberg Podcasts",
+          "tags": [
+            "Business",
+            "Business News",
+            "Daily News",
+            "Investing",
+            "News",
+            "Politics",
+            "bloomberg",
+            "bloomberg interview",
+            "bloomberg podcast",
+            "bloomberg talks",
+            "business",
+            "economy",
+            "finance",
+            "investing",
+            "podcast",
+            "talks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chevron CEO Michael Wirth Talks Oil Supply | Bloomberg Talks",
+            "description": "Chevron chairman and CEO Michael Wirth says he sees oil reaching $100 dollars a barrel as worldwide supplies tighten. He speaks with hosts Alix Steel and Guy Johnson.\n\nSee omnystudio.com/listener (https://omnystudio.com/listener) for privacy information.\n\n\nBloomberg Talks curates top interviews from around Bloomberg News. Hear conversations with the biggest names in finance, politics and entertainment. On Bloomberg Talks, we round up interviews with Fortune 500 CEOs, government officials, well-known investors and business leaders.\n\nListen to more Bloomberg Talks: https://youtube.com/playlist?list=PLe4PRejZgr0PymVnW5YWXAKoo_oh7FWmh&si=-VRYLfzBIcZszwHN\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\n#Bloomberg #Podcast\n\nVisit us: https://www.bloomberg.com/podcasts\n\nFollow Bloomberg Podcasts on Twitter: https://twitter.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\nQuicktake: https://www.youtube.com/@BloombergQuicktake\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT11M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1299",
+          "likeCount": "29",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XoN5liCuIjgw6-4qKblApwb1R4U",
+        "id": "Fevs9IHQbsg",
+        "snippet": {
+          "publishedAt": "2023-03-11T12:15:02Z",
+          "channelId": "UCOsZ_-6ejiOCrvqsrCiG94Q",
+          "title": "Breaking Boundaries: The Unconventional Strategies of Chevron's CEO, Michael Wirth",
+          "description": "Welcome to our video about Michael Wirth, the CEO of Chevron, one of the world's largest and most successful energy companies. Michael Wirth has been at the helm of Chevron since 2018, and in that time, he has established himself as a leader who is driving innovation and sustainability in the energy industry. In this video, we will explore the career history of Michael Wirth, from his early days as an engineer to his rise as CEO. We will also examine his mindset, principles, and key factors that he brings to Chevron. Finally, we will look at his influence on the industry and how he is shaping the future of energy. So, sit back, relax, and let's dive into the fascinating world of Michael Wirth and the energy industry.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fevs9IHQbsg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindful Thoughts",
+          "tags": [
+            "Michael Wirth",
+            "Michael",
+            "Wirth",
+            "Chevron",
+            "Oil industry",
+            "oil",
+            "top ceo",
+            "ceo",
+            "principles",
+            "mindset",
+            "thoughts",
+            "thought",
+            "business strategy",
+            "oil business",
+            "geopolitical",
+            "US",
+            "Career",
+            "career development"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Breaking Boundaries: The Unconventional Strategies of Chevron's CEO, Michael Wirth",
+            "description": "Welcome to our video about Michael Wirth, the CEO of Chevron, one of the world's largest and most successful energy companies. Michael Wirth has been at the helm of Chevron since 2018, and in that time, he has established himself as a leader who is driving innovation and sustainability in the energy industry. In this video, we will explore the career history of Michael Wirth, from his early days as an engineer to his rise as CEO. We will also examine his mindset, principles, and key factors that he brings to Chevron. Finally, we will look at his influence on the industry and how he is shaping the future of energy. So, sit back, relax, and let's dive into the fascinating world of Michael Wirth and the energy industry."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT6M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "42",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

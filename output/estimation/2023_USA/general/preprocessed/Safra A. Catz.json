@@ -1,0 +1,525 @@
+{
+  "ceo": "Safra A. Catz",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "zDcyQ3TvIUu_GZ1axD2s27J1d2g",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 119,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bA3oqzJZFSZpY0WfHRxUU-DOMHs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kIEeAjB47-o"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-05T12:50:41Z",
+          "channelId": "UCOkEMIZeqaZnaZxVjq6OOWA",
+          "title": "How Safra Catz Made Oracle $100 Billion and Defied Larry Ellison&#39;s Advice",
+          "description": "In this captivating video, we delve into the untold story of Safra Catz, the brilliant mastermind behind Oracle's astonishing success ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Business Myopia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-05T12:50:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2dS8VtLKwAo8aEbtr_KC5DuCy8w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bXj1gFyZ2gI"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-28T19:50:37Z",
+          "channelId": "UC2htIc3-njRI5BKTJ2QqNfA",
+          "title": "How Safra Catz Transformed Oracle and Boosted Ellison&#39;s Billions \ud83d\udcbc\ud83d\udca1",
+          "description": "Video Host: Michael Sikand   Follow Michael\u2935\ufe0f \u2022 TikTok - https://www.tiktok.com/@ourfuturestories? \u2022 Instagram ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Our Future",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-28T19:50:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Nlh7xinkR2sbuoU3typFY8AG33Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iIIUcPkqrEk"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-19T15:49:06Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Oracle CEO Safra Catz goes one-on-one with Jim Cramer",
+          "description": "'Mad Money' host Jim Cramer sits down with Oracle CEO Safra Catz to talk quarterly earnings, AI integration and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-19T15:49:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5SgTuVLNR0cfGrq58v2yZRE4tPU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Zzw6Uv0w2Sc"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-30T13:00:35Z",
+          "channelId": "UCfc_QYrfL3YfU88wYqt_aOA",
+          "title": "Learn from the outliers: Safra Catz",
+          "description": "4 main bullets that explain negotiation skills: Planning and preparation. Before entering a negotiation, it is important to do your ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Business on the Go",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-30T13:00:35Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "wi23W9eQpyPgBAQYM1XlQqIVqRQ",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "k2X7OVBIXUQQ613poptMyjeLSso",
+        "id": "kIEeAjB47-o",
+        "snippet": {
+          "publishedAt": "2023-12-05T12:50:41Z",
+          "channelId": "UCOkEMIZeqaZnaZxVjq6OOWA",
+          "title": "How Safra Catz Made Oracle $100 Billion and Defied Larry Ellison's Advice",
+          "description": "In this captivating video, we delve into the untold story of Safra Catz, the brilliant mastermind behind Oracle's astonishing success in the tech industry. Join us as we uncover how she defied the advice of Oracle's founder, Larry Ellison, and single-handedly made the company $100 billion richer.\n\nOracle, a $300 billion software powerhouse, is famous for its enigmatic founder, Larry Ellison, who not only owns a luxurious Hawaiian island but also holds the title of the fourth richest person on earth. Yet, it is Safra Catz, the remarkable CEO of Oracle, who orchestrated the eminent dominance of this tech giant.\n\nAscending to the position of co-president within just five years of joining Oracle in 2004, Safra Catz exhibited her extraordinary negotiation skills by spearheading the acquisition of over 130 companies, some worth billions of dollars. However, when she became a co-CEO in 2014, Oracle faced a significant challenge: Larry Ellison's refusal to invest in cloud technology.\n\nAgainst all odds, Safra Catz defied the skepticism of industry analysts and boldly led Oracle into the uncharted waters of the cloud market in 2016. Today, a staggering 70% of Oracle's annual revenue, which amounts to a colossal $50 billion, is generated from its triumphant foray into the cloud. Remarkably, this division continues to grow at an astonishing rate of 50% each year.\n\nSince assuming the role of CEO, Safra Catz has not only transformed Oracle's fortunes but also boosted Larry Ellison's net worth by a mind-boggling $100 billion. Under her extraordinary leadership, Oracle's share price has skyrocketed with a staggering 200% increase.\n\nJoin us on this mesmerizing journey as we unveil the lesser-known tale of Safra Catz's relentless determination and strategic prowess, which propelled Oracle to unprecedented heights. Discover how her unwavering belief in the power of innovation and her unwavering commitment to defying conventional wisdom rewrote the rulebook in the tech industry.\n\n#oraclesuccess \n#business \n#safracatz\n#larryellison\n#ceo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kIEeAjB47-o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Business Myopia",
+          "tags": [
+            "Safra Catz",
+            "Oracle",
+            "Larry Ellison",
+            "Untold Story",
+            "Success Story",
+            "Business Leadership",
+            "Business Myopia",
+            "Entrepreneur",
+            "Tech Industry",
+            "Billion Dollar Company",
+            "Corporate World",
+            "Executive Power",
+            "Leadership Skills",
+            "Business Strategist",
+            "Inspiring Women",
+            "Oracle Success",
+            "Business Insights",
+            "Oracle Larryy ellison",
+            "Female CEO",
+            "Tech Giant",
+            "Oracle cloud",
+            "Best Business Video",
+            "Cloud",
+            "Sillicon Valley",
+            "Corporate innovation",
+            "oracle",
+            "ceo",
+            "cloud",
+            "How Safra Catz Made Oracle $100 Billion",
+            "Advice"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "How Safra Catz Made Oracle $100 Billion and Defied Larry Ellison's Advice",
+            "description": "In this captivating video, we delve into the untold story of Safra Catz, the brilliant mastermind behind Oracle's astonishing success in the tech industry. Join us as we uncover how she defied the advice of Oracle's founder, Larry Ellison, and single-handedly made the company $100 billion richer.\n\nOracle, a $300 billion software powerhouse, is famous for its enigmatic founder, Larry Ellison, who not only owns a luxurious Hawaiian island but also holds the title of the fourth richest person on earth. Yet, it is Safra Catz, the remarkable CEO of Oracle, who orchestrated the eminent dominance of this tech giant.\n\nAscending to the position of co-president within just five years of joining Oracle in 2004, Safra Catz exhibited her extraordinary negotiation skills by spearheading the acquisition of over 130 companies, some worth billions of dollars. However, when she became a co-CEO in 2014, Oracle faced a significant challenge: Larry Ellison's refusal to invest in cloud technology.\n\nAgainst all odds, Safra Catz defied the skepticism of industry analysts and boldly led Oracle into the uncharted waters of the cloud market in 2016. Today, a staggering 70% of Oracle's annual revenue, which amounts to a colossal $50 billion, is generated from its triumphant foray into the cloud. Remarkably, this division continues to grow at an astonishing rate of 50% each year.\n\nSince assuming the role of CEO, Safra Catz has not only transformed Oracle's fortunes but also boosted Larry Ellison's net worth by a mind-boggling $100 billion. Under her extraordinary leadership, Oracle's share price has skyrocketed with a staggering 200% increase.\n\nJoin us on this mesmerizing journey as we unveil the lesser-known tale of Safra Catz's relentless determination and strategic prowess, which propelled Oracle to unprecedented heights. Discover how her unwavering belief in the power of innovation and her unwavering commitment to defying conventional wisdom rewrote the rulebook in the tech industry.\n\n#oraclesuccess \n#business \n#safracatz\n#larryellison\n#ceo"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "26131",
+          "likeCount": "398",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "siAVL2KTGDcWn97HdwLxM2jAscc",
+        "id": "bXj1gFyZ2gI",
+        "snippet": {
+          "publishedAt": "2023-11-28T19:50:37Z",
+          "channelId": "UC2htIc3-njRI5BKTJ2QqNfA",
+          "title": "How Safra Catz Transformed Oracle and Boosted Ellison's Billions \ud83d\udcbc\ud83d\udca1",
+          "description": "Video Host: Michael Sikand\ud83d\udc48\nFollow Michael\u2935\ufe0f\n\u2022 TikTok - https://www.tiktok.com/@ourfuturestories?\n\u2022 Instagram - https://www.instagram.com/michaelsikand/?hl=en\n\u2022 LinkedIn - https://www.linkedin.com/in/michael-sikand-b021aa109/\n\u2022 Twitter - https://twitter.com/michaelsikand\n\nFor the best business videos on the Internet, subscribe here \u27a1 https://www.youtube.com/c/OurFuture...\n\ud83d\udd14 Turn on notifications to stay updated with new uploads!\n\n#oracle \n#larryellison \n#cloud \n#youtubeshorts \n#shorts \n                                             Like || Share || Subscribe",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bXj1gFyZ2gI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Our Future",
+          "tags": [
+            "How",
+            "Safra",
+            "Catz",
+            "Transformed",
+            "Oracle",
+            "Booted",
+            "Billions",
+            "Larry Ellison",
+            "oracle larry ellison",
+            "our future",
+            "michael sikand",
+            "billions",
+            "millions",
+            "millionaire",
+            "storytelling",
+            "business storytelling",
+            "shorts",
+            "yt shorts",
+            "youtubeshorts",
+            "Safra Catz",
+            "cloud technology",
+            "software powerhouse",
+            "CEO leadership",
+            "technology transformation",
+            "cloud computing",
+            "female CEO",
+            "Silicon Valley",
+            "corporate innovation",
+            "tech giants",
+            "Amazon Web Services",
+            "Microsoft Azure",
+            "cloud",
+            "oracle cloud",
+            "larryellison",
+            "best business videos"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "How Safra Catz Transformed Oracle and Boosted Ellison's Billions \ud83d\udcbc\ud83d\udca1",
+            "description": "Video Host: Michael Sikand\ud83d\udc48\nFollow Michael\u2935\ufe0f\n\u2022 TikTok - https://www.tiktok.com/@ourfuturestories?\n\u2022 Instagram - https://www.instagram.com/michaelsikand/?hl=en\n\u2022 LinkedIn - https://www.linkedin.com/in/michael-sikand-b021aa109/\n\u2022 Twitter - https://twitter.com/michaelsikand\n\nFor the best business videos on the Internet, subscribe here \u27a1 https://www.youtube.com/c/OurFuture...\n\ud83d\udd14 Turn on notifications to stay updated with new uploads!\n\n#oracle \n#larryellison \n#cloud \n#youtubeshorts \n#shorts \n                                             Like || Share || Subscribe"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "160130",
+          "likeCount": "5907",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LqgBF6e3uDUSVbMx-1ruGGoD9uk",
+        "id": "iIIUcPkqrEk",
+        "snippet": {
+          "publishedAt": "2023-09-19T15:49:06Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Oracle CEO Safra Catz goes one-on-one with Jim Cramer",
+          "description": "'Mad Money' host Jim Cramer sits down with Oracle CEO Safra Catz to talk quarterly earnings, AI integration and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iIIUcPkqrEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "CNBC",
+            "Mad Money",
+            "invest",
+            "investing",
+            "stock market",
+            "jim cramer",
+            "cramer",
+            "kramer",
+            "wall street",
+            "lightning round",
+            "investment strategy",
+            "retirement"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Oracle CEO Safra Catz goes one-on-one with Jim Cramer",
+            "description": "'Mad Money' host Jim Cramer sits down with Oracle CEO Safra Catz to talk quarterly earnings, AI integration and more. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi\u00a0\n\n\u00bb Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision\n\u00bb Subscribe to CNBC: https://cnb.cx/SubscribeCNBC\n\nTurn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.\n\nConnect with CNBC News Online\nGet the latest news: http://www.cnbc.com/\nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC\nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC\nFollow CNBC News on Twitter: https://cnb.cx/FollowCNBC\nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC\n\nhttps://www.cnbc.com/select/best-credit-cards/\u00a0\n\n#CNBC\n#CNBCTV\u00a0"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8303",
+          "likeCount": "87",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jAUQ6chYRiyxqjR4ab5YmQlrV8A",
+        "id": "Zzw6Uv0w2Sc",
+        "snippet": {
+          "publishedAt": "2023-07-30T13:00:35Z",
+          "channelId": "UCfc_QYrfL3YfU88wYqt_aOA",
+          "title": "Learn from the outliers: Safra Catz",
+          "description": "4 main bullets that explain negotiation skills:\n\nPlanning and preparation. Before entering a negotiation, it is important to do your research and understand the other party's position. You should also have a clear idea of your own goals and what you are willing to compromise on.\n\nActive listening. One of the most important skills in negotiation is the ability to listen actively to the other party. This means paying attention to what they are saying, both verbally and nonverbally. It also means being able to ask clarifying questions and summarize their points back to them.\n\nCommunication. Effective communication is essential in any negotiation. This means being clear and concise in your own communication, as well as being able to understand the other party's communication. It is also important to be able to build rapport with the other party and create a positive atmosphere for negotiation.\n\nProblem-solving. A good negotiator is able to find creative solutions that meet the needs of both parties. This means being able to think outside the box and come up with win-win solutions.\n\nIn addition to these four main skills, there are a number of other factors that can contribute to successful negotiation, such as confidence, flexibility, and the ability to manage emotions.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Zzw6Uv0w2Sc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Business on the Go",
+          "tags": [
+            "businessstrategy",
+            "entrepreneurmindset",
+            "leadershipdevelopment",
+            "innovation",
+            "successmindset",
+            "marketingtips",
+            "growthhacking",
+            "motivationalspeakers",
+            "startuplife",
+            "financialfreedom",
+            "businesscoach",
+            "productivitytips",
+            "creativity",
+            "brandingstrategy",
+            "businesstips",
+            "salesstrategy",
+            "socialmediamarketing",
+            "networkingtips",
+            "careerdevelopment",
+            "worklifebalance",
+            "digitalmarketing",
+            "customerengagement",
+            "teamwork",
+            "goalsetting",
+            "WomenInLeadership",
+            "FemaleEmpowerment",
+            "LeadershipTips",
+            "WomenInBusiness",
+            "DiversityAndInclusion",
+            "SheMeansBusiness",
+            "TheFutureIsFemale"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Learn from the outliers: Safra Catz",
+            "description": "4 main bullets that explain negotiation skills:\n\nPlanning and preparation. Before entering a negotiation, it is important to do your research and understand the other party's position. You should also have a clear idea of your own goals and what you are willing to compromise on.\n\nActive listening. One of the most important skills in negotiation is the ability to listen actively to the other party. This means paying attention to what they are saying, both verbally and nonverbally. It also means being able to ask clarifying questions and summarize their points back to them.\n\nCommunication. Effective communication is essential in any negotiation. This means being clear and concise in your own communication, as well as being able to understand the other party's communication. It is also important to be able to build rapport with the other party and create a positive atmosphere for negotiation.\n\nProblem-solving. A good negotiator is able to find creative solutions that meet the needs of both parties. This means being able to think outside the box and come up with win-win solutions.\n\nIn addition to these four main skills, there are a number of other factors that can contribute to successful negotiation, such as confidence, flexibility, and the ability to manage emotions."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "912",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

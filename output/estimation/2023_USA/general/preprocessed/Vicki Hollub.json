@@ -1,0 +1,511 @@
+{
+  "ceo": "Vicki Hollub",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "PfpiHWTODgp4kB6tB5J5xLqa60w",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 70,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l4tNMGd6b0CgO7CFw5u5CvKFxDQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EgDwFjlA4dg"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T13:24:16Z",
+          "channelId": "UCPBtMTUg8WqI2aY6mOFyN8g",
+          "title": "2023 Value Investing Conference | Keynote Speaker: Vicki Hollub",
+          "description": "April 19, 2023: Vicki Hollub, President and CEO of Occidental Petroleum Corp. in Houston, TX, USA, was the Afternoon Keynote ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ivey Business School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T13:24:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "civRdcjkR2_kLGtWi9R366ASphk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lFgyMA_lBpU"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-02T17:11:40Z",
+          "channelId": "UCnFtPtFwMrRkuGUTk4Rh4tA",
+          "title": "Vicki Hollub, President and CEO of Occidental - Thought Leadership",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ADIPEC Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-02T17:11:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aS3arxqTqFFvcI71WuDIARaO4cA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vsYxHbrQ0VE"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-24T12:02:35Z",
+          "channelId": "UCJD51wB5hWayKrKnfVe4Ajg",
+          "title": "2023 ARPA-E Energy Innovation Summit: Vicki Hollub",
+          "description": "At the 2023 ARPA-E Energy Innovation Summit, Vicki Hollub, President & CEO of Oxy, delivers a keynote address on Oxy's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ARPA-E",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-24T12:02:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ugCPbENRFXUXjTxF4glKFxs6Fg0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qzYUZ5idRlM"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-13T19:10:24Z",
+          "channelId": "UC4xOkrW3DIlJbInICczFRxg",
+          "title": "Who is Vicki Hollub? \ud83d\ude0a\ud83d\udc4d\ud83c\udffb #viral #shorts #share #usa #women #fyp #leader #fyp\u30b7",
+          "description": "JamCreateFactsMotivMoney.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "JamCreateFactsMotivMoney",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-13T19:10:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EE58coRRmqLcYmZqmVNhS0vC4wM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ur3jULOuor4"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-06T17:04:52Z",
+          "channelId": "UCV728RODcqlinSV5ptcVQmQ",
+          "title": "Vicki Hollub",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ghwcc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-06T17:04:52Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "EYZumuteHL36OWrEFYvsCvKbb2I",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "a-zw83QrkVLzRDbOXMas6h1dTTE",
+        "id": "EgDwFjlA4dg",
+        "snippet": {
+          "publishedAt": "2023-06-08T13:24:16Z",
+          "channelId": "UCPBtMTUg8WqI2aY6mOFyN8g",
+          "title": "2023 Value Investing Conference | Keynote Speaker: Vicki Hollub",
+          "description": "April 19, 2023: Vicki Hollub, President and CEO of Occidental Petroleum Corp. in Houston, TX, USA, was the Afternoon Keynote Speaker at the Ben Graham Centre for Value Investing's 2023 Value Investing Conference in Toronto, Ontario, Canada. Ms. Hollub discussed the topic \u201cGrowing Value in a Volatile World\u201d.\n\nPowerPoint Presentation: \nhttps://www.ivey.uwo.ca/media/oiilj1rs/hollub-slides.pdf \n\nMore Information Regarding this Event: \nhttps://www.ivey.uwo.ca/bengrahaminvesting/bgcvi-events/2023/04/2023-value-investing-conference/\n\nUpcoming Events: \nhttps://www.ivey.uwo.ca/bengrahaminvesting/events/upcoming-events/\n\nBen Graham Centre for Value Investing: \nhttps://www.ivey.uwo.ca/bengrahaminvesting/\n\nCopyright \u00a9 2023\nThe Ben Graham Centre for Value Investing\nNot to be copied or reproduced without permission.\nTo request permission, contact us: https://www.ivey.uwo.ca/bengrahaminvesting/home/contact-us/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EgDwFjlA4dg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ivey Business School",
+          "tags": [
+            "Value Investing",
+            "Ben Graham Centre for Value Investing",
+            "Ivey Business School",
+            "George Athanassakos",
+            "BGCVI",
+            "Vicki Hollub"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2023 Value Investing Conference | Keynote Speaker: Vicki Hollub",
+            "description": "April 19, 2023: Vicki Hollub, President and CEO of Occidental Petroleum Corp. in Houston, TX, USA, was the Afternoon Keynote Speaker at the Ben Graham Centre for Value Investing's 2023 Value Investing Conference in Toronto, Ontario, Canada. Ms. Hollub discussed the topic \u201cGrowing Value in a Volatile World\u201d.\n\nPowerPoint Presentation: \nhttps://www.ivey.uwo.ca/media/oiilj1rs/hollub-slides.pdf \n\nMore Information Regarding this Event: \nhttps://www.ivey.uwo.ca/bengrahaminvesting/bgcvi-events/2023/04/2023-value-investing-conference/\n\nUpcoming Events: \nhttps://www.ivey.uwo.ca/bengrahaminvesting/events/upcoming-events/\n\nBen Graham Centre for Value Investing: \nhttps://www.ivey.uwo.ca/bengrahaminvesting/\n\nCopyright \u00a9 2023\nThe Ben Graham Centre for Value Investing\nNot to be copied or reproduced without permission.\nTo request permission, contact us: https://www.ivey.uwo.ca/bengrahaminvesting/home/contact-us/"
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT46M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17270",
+          "likeCount": "277",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oGY-CZ4VepTKUXkSg7RrMxzTSjk",
+        "id": "lFgyMA_lBpU",
+        "snippet": {
+          "publishedAt": "2023-10-02T17:11:40Z",
+          "channelId": "UCnFtPtFwMrRkuGUTk4Rh4tA",
+          "title": "Vicki Hollub, President and CEO of Occidental - Thought Leadership",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lFgyMA_lBpU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ADIPEC Official",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Vicki Hollub, President and CEO of Occidental - Thought Leadership",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "644",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GRiZp9unWzmk2oace7CTdZ3dmBM",
+        "id": "vsYxHbrQ0VE",
+        "snippet": {
+          "publishedAt": "2023-04-24T12:02:35Z",
+          "channelId": "UCJD51wB5hWayKrKnfVe4Ajg",
+          "title": "2023 ARPA-E Energy Innovation Summit: Vicki Hollub",
+          "description": "At the 2023 ARPA-E Energy Innovation Summit, Vicki Hollub, President & CEO of Oxy, delivers a keynote address on Oxy\u2019s low-carbon strategies for gas operations.\n\nFor more information on the ARPA-E Summit, visit arpae-summit.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vsYxHbrQ0VE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ARPA-E",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2023 ARPA-E Energy Innovation Summit: Vicki Hollub",
+            "description": "At the 2023 ARPA-E Energy Innovation Summit, Vicki Hollub, President & CEO of Oxy, delivers a keynote address on Oxy\u2019s low-carbon strategies for gas operations.\n\nFor more information on the ARPA-E Summit, visit arpae-summit.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1944",
+          "likeCount": "33",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "F0hV3m0mfaVp5h0E92DS1n4J7nc",
+        "id": "qzYUZ5idRlM",
+        "snippet": {
+          "publishedAt": "2023-10-13T19:10:24Z",
+          "channelId": "UC4xOkrW3DIlJbInICczFRxg",
+          "title": "Who is Vicki Hollub? \ud83d\ude0a\ud83d\udc4d\ud83c\udffb #viral #shorts #share #usa #women #fyp #leader #fyp\u30b7",
+          "description": "@JamCreateFactsMotivMoney",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qzYUZ5idRlM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JamCreateFactsMotivMoney",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Who is Vicki Hollub? \ud83d\ude0a\ud83d\udc4d\ud83c\udffb #viral #shorts #share #usa #women #fyp #leader #fyp\u30b7",
+            "description": "@JamCreateFactsMotivMoney"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "379",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "N4Yu1P_neD1HgHTPLghjiTwuAOs",
+        "id": "Ur3jULOuor4",
+        "snippet": {
+          "publishedAt": "2023-12-06T17:04:52Z",
+          "channelId": "UCV728RODcqlinSV5ptcVQmQ",
+          "title": "Vicki Hollub",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ur3jULOuor4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ghwcc",
+          "categoryId": "29",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vicki Hollub",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "83",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

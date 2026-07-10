@@ -1,0 +1,22 @@
+{
+  "ceo": "Robert A. Bradway",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "yh_nwiI6K2tgk-ULMeMbKLk6Wng",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 46,
+      "resultsPerPage": 39
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "nhhR4eYb4B9_ljbVgHoUcz68Cbs",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 39,
+      "resultsPerPage": 39
+    }
+  }
+}

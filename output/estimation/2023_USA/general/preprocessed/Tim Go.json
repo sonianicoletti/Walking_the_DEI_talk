@@ -1,0 +1,23 @@
+{
+  "ceo": "Tim Go",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "nHXLCsxTrHS6xAH7NAvwcEIUiQs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": []
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Sqa7Y1f02qaIg3bKHwTxeOmaY4w",
+    "items": [],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

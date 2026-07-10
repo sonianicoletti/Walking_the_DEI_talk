@@ -1,0 +1,237 @@
+{
+  "ceo": "David A. Ricks",
+  "search_results": {
+    "kind": "youtube#searchListResponse",
+    "etag": "boovDJ16sqeoljtjAYGRwkWwsgA",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 2117,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bdzgXGMX2oYHZA-Q242F7zi9lTI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5TJ6feiH8uA"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-14T12:29:28Z",
+          "channelId": "UCauKpbsS_hUqQaPp8EVGYOg",
+          "title": "2023 WMIF | Fireside Chat - Geoff Meacham, David Ricks",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "World Medical Innovation Forum",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-14T12:29:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8x4FVT-7KOuklga9kvI90-GdBYo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NE1_cIHhA1k"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T13:51:39Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Eli Lilly CEO David Ricks on Q1 earnings: This will be a year of both growth and investment",
+          "description": "Eli Lilly CEO David Ricks joins 'Squawk Box' to discuss the drugmaker's Q1 earnings results, which missed on earnings but beat ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T13:51:39Z"
+        }
+      }
+    ]
+  },
+  "video_details": {
+    "kind": "youtube#videoListResponse",
+    "etag": "xx3RNA7WqaZTUwRbQzptGbRP-7w",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "XpGRjMTB11-zO3qQxIpKM388fdg",
+        "id": "5TJ6feiH8uA",
+        "snippet": {
+          "publishedAt": "2023-06-14T12:29:28Z",
+          "channelId": "UCauKpbsS_hUqQaPp8EVGYOg",
+          "title": "2023 WMIF | Fireside Chat - Geoff Meacham, David Ricks",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5TJ6feiH8uA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "World Medical Innovation Forum",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2023 WMIF | Fireside Chat - Geoff Meacham, David Ricks",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "750",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "L1713ZuZHIsiCnVlsQutRdCy-c8",
+        "id": "NE1_cIHhA1k",
+        "snippet": {
+          "publishedAt": "2023-04-27T13:51:39Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Eli Lilly CEO David Ricks on Q1 earnings: This will be a year of both growth and investment",
+          "description": "Eli Lilly CEO David Ricks joins 'Squawk Box' to discuss the drugmaker's Q1 earnings results, which missed on earnings but beat on revenue, and the company outlook for the rest of the year.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NE1_cIHhA1k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "tags": [
+            "Squawk Box U.S.",
+            "CNBC",
+            "business news",
+            "finance stock",
+            "stock market",
+            "news channel",
+            "news station",
+            "breaking news",
+            "us news",
+            "world news",
+            "cable",
+            "cable news",
+            "finance news",
+            "money",
+            "money tips",
+            "financial news",
+            "stock market news",
+            "stocks"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Eli Lilly CEO David Ricks on Q1 earnings: This will be a year of both growth and investment",
+            "description": "Eli Lilly CEO David Ricks joins 'Squawk Box' to discuss the drugmaker's Q1 earnings results, which missed on earnings but beat on revenue, and the company outlook for the rest of the year."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3106",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "7"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}
