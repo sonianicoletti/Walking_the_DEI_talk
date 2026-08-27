@@ -17,3 +17,5 @@ __pycache__/
 videos_analysis/client_secret_*.json
 
 .env
+
+data/output/
