@@ -1,0 +1,21 @@
+{
+  "category": "tech_responsibility",
+  "label": "Innovation and technology responsibility",
+  "description": "Ethical implications of new technology — above all AI: responsible and trustworthy AI, algorithmic bias, automation and job displacement, AI regulation and safety, deepfakes and synthetic media, data and model governance, plus the broader question of whether and how a company should deploy a powerful new technology.",
+  "keywords": {
+    "ai": ["ai", "a i", "artificial intelligence", "genai", "gen ai", "generative ai", "machine learning", "deep learning", "neural network", "neural networks", "llm", "llms", "large language model", "large language models", "chatgpt", "openai", "copilot", "gemini", "claude", "foundation model", "foundation models", "agi", "superintelligence", "agentic", "ai agent", "ai agents"],
+    "ai ethics": ["responsible ai", "ethical ai", "ai ethics", "trustworthy ai", "ai safety", "ai alignment", "ai guardrails", "ai governance", "ai principles", "ai risk", "ai risks", "ai harm", "ai harms", "ai accountability", "ai transparency", "explainable ai", "human in the loop"],
+    "algorithmic bias": ["algorithmic bias", "ai bias", "biased algorithm", "biased algorithms", "algorithm bias", "model bias", "discriminatory algorithm", "fairness", "algorithmic accountability", "black box"],
+    "automation": ["automation", "automate", "automated", "automating", "robot", "robots", "robotics", "humanoid", "self driving", "autonomous vehicles", "autonomous driving", "driverless"],
+    "jobs impact": ["job displacement", "replace jobs", "replacing jobs", "replace workers", "replacing workers", "job losses", "ai job", "ai jobs", "future of work", "reskilling", "upskilling", "retraining", "human workers", "will ai replace", "ai and jobs", "ai layoffs", "workforce transformation"],
+    "regulation": ["ai regulation", "ai regulations", "regulate ai", "regulating ai", "ai act", "ai policy", "ai law", "ai laws", "ai oversight", "ai rules", "tech regulation", "regulate tech", "big tech regulation", "antitrust", "section 230"],
+    "synthetic media": ["deepfake", "deepfakes", "synthetic media", "ai generated", "ai slop", "voice cloning", "likeness", "digital replica", "watermarking", "provenance"],
+    "data and ip": ["training data", "data rights", "copyright infringement", "copyright lawsuit", "copyright law", "copyright holders", "copyrighted work", "copyrighted works", "intellectual property", "ip rights", "creators rights", "licensing deal", "scraping", "data ownership", "model training", "consent for data"],
+    "trust and safety": ["misinformation", "disinformation", "hallucination", "hallucinations", "content moderation", "trust and safety", "guardrails", "red teaming", "model safety", "harmful output", "jailbreak"],
+    "surveillance": ["facial recognition", "biometric", "biometrics", "mass surveillance", "surveillance program", "surveillance state", "government surveillance", "surveillance technology", "predictive policing", "monitoring employees", "employee surveillance", "spyware"],
+    "innovation": ["innovation", "innovate", "innovating", "innovative", "disruption", "disruptive", "emerging technology", "emerging tech", "new technology", "breakthrough", "research and development", "moonshot", "frontier tech", "frontier model", "frontier models", "technological change"],
+    "digital ethics": ["digital ethics", "tech ethics", "technology ethics", "ethical technology", "ethical implications", "unintended consequences", "dual use", "techlash", "digital rights", "digital divide", "algorithmic transparency"],
+    "emerging tech": ["quantum", "quantum computing", "blockchain", "crypto", "cryptocurrency", "bitcoin", "web3", "metaverse", "virtual reality", "augmented reality", "gene editing", "crispr", "biotech ethics", "synthetic biology", "drones", "facial ai"],
+    "infrastructure": ["data center", "data centers", "data centre", "data centres", "ai chips", "ai chip", "semiconductor", "semiconductors", "cloud computing", "energy for ai", "ai infrastructure", "compute power", "ai compute", "ai investment", "ai spending", "ai bubble"]
+  }
+}

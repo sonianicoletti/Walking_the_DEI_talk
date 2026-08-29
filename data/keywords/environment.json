@@ -1,0 +1,22 @@
+{
+  "category": "environment",
+  "label": "Environmental sustainability",
+  "description": "Environmental impact and sustainability: climate change, emissions and net zero, renewable and clean energy, pollution and waste, water and biodiversity, the circular economy, and environmental regulation or reporting.",
+  "keywords": {
+    "sustainability": ["sustainability", "sustainable", "sustainably", "unsustainable", "sustainable business", "sustainable growth", "sustainable future"],
+    "climate": ["climate", "climate change", "climate crisis", "climate risk", "climate action", "climate policy", "climate goals", "global warming", "greenhouse", "greenhouse gas", "greenhouse gases"],
+    "emissions": ["emission", "emissions", "carbon", "carbon footprint", "carbon neutral", "carbon capture", "decarbonization", "decarbonisation", "decarbonize", "decarbonise", "net zero", "netzero", "co2", "scope 3"],
+    "energy transition": ["energy transition", "clean energy", "renewable", "renewables", "renewable energy", "solar", "wind power", "wind energy", "offshore wind", "geothermal", "hydrogen", "biofuel", "biofuels", "electrification", "electrify", "fossil fuel", "fossil fuels", "coal"],
+    "electric vehicles": ["electric vehicle", "electric vehicles", "ev", "evs", "ev transition", "battery", "batteries"],
+    "pollution": ["pollution", "polluter", "polluters", "polluting", "contamination", "toxic", "toxins", "oil spill", "emissions scandal", "air quality", "smog"],
+    "waste": ["waste", "wastes", "food waste", "recycling", "recycle", "recycles", "recycled", "recyclable", "landfill", "plastic", "plastics", "single use", "packaging", "circular economy", "reuse", "compostable"],
+    "water": ["water use", "water usage", "water needs", "water scarcity", "water security", "clean water", "drinking water", "drought", "wastewater", "watershed", "water conservation", "ocean", "oceans", "marine"],
+    "nature": ["biodiversity", "deforestation", "reforestation", "conservation", "natural ecosystem", "natural ecosystems", "ecosystem restoration", "wildlife", "rainforest", "forests", "regenerative", "soil health", "land use", "habitat"],
+    "green business": ["green energy", "green transition", "green investment", "green bonds", "greenwashing", "greenwash", "eco friendly", "ecological", "environmentally friendly", "low carbon"],
+    "footprint": ["environmental", "environmentally", "environmental impact", "environmental justice", "environmental protection", "environmental regulation", "environmental regulations", "carbon footprint", "environmental footprint", "sustainable sourcing", "supply chain emissions"],
+    "esg": ["esg", "esg investing", "esg backlash", "sustainability report", "climate disclosure", "climate reporting", "science based targets", "paris agreement", "cop28", "cop29", "cop30"],
+    "energy use": ["data center energy", "energy consumption", "energy efficiency", "energy demand", "power consumption", "nuclear", "nuclear power", "energy grid", "power grid", "grid resilience", "blackout", "blackouts"],
+    "agriculture": ["agriculture", "agricultural", "farming", "farmers", "food waste", "regenerative agriculture", "crop", "crops"],
+    "disaster": ["wildfire", "wildfires", "hurricane", "flooding", "extreme weather", "natural disaster", "heat wave", "drought risk"]
+  }
+}

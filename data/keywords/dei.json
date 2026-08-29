@@ -1,0 +1,33 @@
+{
+  "category": "DEI",
+  "label": "Diversity, Equity & Inclusion",
+  "description": "Diversity, equity and inclusion: representation and treatment of groups defined by race, ethnicity, gender, sexual orientation, disability, age or background — in hiring, promotion, pay and workplace culture.",
+  "keywords": {
+    "dei": ["dei", "deia", "deib", "d e i", "dei policy", "dei policies", "dei program", "dei programs", "dei initiative", "dei initiatives", "dei rollback", "anti dei", "woke", "wokeness"],
+    "diversity": ["diversity", "diversities", "diverse", "diversify", "diversifying", "diversified", "diverse workforce", "diverse team", "diverse teams", "diverse talent", "diverse candidates", "diverse slate"],
+    "inclusion": ["inclusion", "inclusive", "inclusively", "inclusivity", "exclusion", "excluded"],
+    "equity": ["equitable", "equitably", "pay equity", "talent equity", "racial equity", "gender equity", "health equity", "equity and inclusion", "diversity equity", "equity in the workplace"],
+    "belonging": ["belonging", "sense of belonging"],
+    "equality": ["equality", "equalities", "inequality", "inequalities", "unequal", "equal opportunity", "equal opportunities", "equal pay", "pay gap", "wage gap"],
+    "race": ["racial", "racially", "interracial", "race relations", "race and gender", "racial equity", "racial justice", "racial bias", "racial diversity"],
+    "racism": ["racism", "racist", "racists", "antiracism", "anti racism", "antiracist", "discrimination", "discriminatory", "discriminate", "segregation", "prejudice"],
+    "black": ["african american", "african americans", "black lives matter", "blm", "black employees", "black workers", "black community", "black communities", "black leaders", "black women", "black men", "black owned", "black executives", "black talent", "black and brown", "black history", "black culture", "black founders", "black entrepreneurs"],
+    "hispanic": ["hispanic", "hispanics", "latino", "latinos", "latina", "latinas", "latinx"],
+    "asian": ["asian", "asians", "aapi", "asian american", "asian americans"],
+    "indigenous": ["indigenous", "native american", "native americans", "first nations"],
+    "people of color": ["people of color", "people of colour", "person of color", "bipoc", "women of color", "men of color", "minority", "minorities", "underrepresented", "under represented", "marginalized", "marginalised", "underserved"],
+    "representation": ["representation", "underrepresentation", "diverse representation"],
+    "gender": ["gender", "genders", "gendered", "gender pay gap", "gender gap", "gender equality", "gender equity", "gender diversity", "nonbinary", "non binary", "sexism", "sexist", "misogyny"],
+    "women": ["woman", "women", "womens", "female", "females", "feminist", "feminism", "women in leadership", "women in tech", "women on boards", "girls"],
+    "lgbtq": ["lgbt", "lgbtq", "lgbtqia", "lgbtq+", "queer", "lesbian", "gay", "bisexual", "homosexual", "transgender", "transgendered", "trans rights", "pride month", "pride parade", "pride flag", "pride campaign", "pride collection", "pride symbol", "pride symbols", "sexual orientation", "sexuality", "coming out"],
+    "disability": ["disability", "disabilities", "disabled", "accessibility features", "accessible workplace", "neurodiversity", "neurodiverse", "neurodivergent"],
+    "age": ["ageism", "ageist", "age diversity", "age discrimination", "older workers", "generational diversity", "intergenerational", "multigenerational"],
+    "immigration": ["immigrant", "immigrants", "immigration", "migrant", "migrants", "visa holders", "h1b", "h 1b"],
+    "religion": ["religious", "religion", "antisemitism", "antisemitic", "islamophobia", "faith based"],
+    "inclusive culture": ["inclusive culture", "culture of inclusion", "culture of belonging", "cultural diversity", "culturally diverse", "inclusive workplace", "workplace diversity"],
+    "bias": ["unconscious bias", "unconscious biases", "implicit bias", "implicit biases", "gender bias", "hiring bias", "microaggression", "microaggressions", "micro aggression"],
+    "erg": ["employee resource group", "employee resource groups", "affinity group", "affinity groups", "erg", "ergs"],
+    "programs": ["affirmative action", "diverse hiring", "diversity hiring", "inclusive hiring", "inclusive recruiting", "quota", "quotas", "belonging and inclusion"],
+    "rollback": ["dei rollback", "dei backlash", "diversity rollback", "rolls back dei", "rolled back dei", "scraps dei", "scrapped dei", "ends dei", "ending dei", "cuts dei", "drops dei", "boycott", "boycotts", "culture war", "culture wars"]
+  }
+}
